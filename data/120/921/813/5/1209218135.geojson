@@ -1,0 +1,61 @@
+{
+  "id": 1209218135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0252,35.29353,-6.0252,35.29353",
+    "geom:latitude":35.29353,
+    "geom:longitude":-6.0252,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Ain Qattae",
+    "gn:country_code":"MA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970119,
+    "gn:latitude":35.29353,
+    "gn:longitude":-6.0252,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ain Qattae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970119
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"81251b22ff83a9c3805acb3efdedfac4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209218135
+        }
+    ],
+    "wof:id":1209218135,
+    "wof:lastmodified":1536294058,
+    "wof:name":"Douar Ain Qattae",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0252,
+    35.29353,
+    -6.0252,
+    35.29353
+],
+  "geometry": {"coordinates":[-6.0252,35.29353],"type":"Point"}
+}

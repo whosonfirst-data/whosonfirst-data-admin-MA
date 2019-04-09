@@ -1,0 +1,72 @@
+{
+  "id": 1293902101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.35425,34.59461,-5.35425,34.59461",
+    "geom:latitude":34.59461,
+    "geom:longitude":-5.35425,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Mahlil",
+    "gn:country_code":"MA",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543172,
+    "gn:latitude":34.59461,
+    "gn:longitude":-5.35425,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Mahlil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahil",
+        "Mahlil",
+        "Douar Mahlil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543172
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"70dc2663b5f40000e4172ce8d45f1b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1293902101,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293902101,
+    "wof:lastmodified":1537663667,
+    "wof:name":"Douar Mahlil",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.35425,
+    34.59461,
+    -5.35425,
+    34.59461
+],
+  "geometry": {"coordinates":[-5.35425,34.59461],"type":"Point"}
+}

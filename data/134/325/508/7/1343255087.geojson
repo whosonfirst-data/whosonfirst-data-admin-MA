@@ -1,0 +1,68 @@
+{
+  "id": 1343255087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92565,31.63591,-6.92565,31.63591",
+    "geom:latitude":31.63591,
+    "geom:longitude":-6.92565,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Taguinent",
+    "gn:country_code":"MA",
+    "gn:dem":1282,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531500,
+    "gn:latitude":31.63591,
+    "gn:longitude":-6.92565,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Taguinent",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531500
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"49aee2e7e41ab5be02757ca5b2c95aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343255087,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343255087,
+    "wof:lastmodified":1537040955,
+    "wof:name":"Taguinent",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92565,
+    31.63591,
+    -6.92565,
+    31.63591
+],
+  "geometry": {"coordinates":[-6.92565,31.63591],"type":"Point"}
+}

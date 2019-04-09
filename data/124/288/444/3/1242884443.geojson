@@ -1,0 +1,75 @@
+{
+  "id": 1242884443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.76811,32.42048,-3.76811,32.42048",
+    "geom:latitude":32.42048,
+    "geom:longitude":-3.76811,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ayt Ichchou",
+    "gn:country_code":"MA",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559834,
+    "gn:latitude":32.42048,
+    "gn:longitude":-3.76811,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Ayt Ichchou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ichou",
+        "Ksar des Ait Ichchou",
+        "A\u00eft Krersi",
+        "A\u00eft Khorsi",
+        "A\u00eft Ichchou",
+        "Ayt Ichchou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559834
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"542fcada2849fdd2c13b28744f00b133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1242884443,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1242884443,
+    "wof:lastmodified":1537664182,
+    "wof:name":"Ayt Ichchou",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.76811,
+    32.42048,
+    -3.76811,
+    32.42048
+],
+  "geometry": {"coordinates":[-3.76811,32.42048],"type":"Point"}
+}

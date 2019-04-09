@@ -1,0 +1,64 @@
+{
+  "id": 1209124619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58846,29.82853,-8.58846,29.82853",
+    "geom:latitude":29.82853,
+    "geom:longitude":-8.58846,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ansgalt",
+    "gn:country_code":"MA",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557806,
+    "gn:latitude":29.82853,
+    "gn:longitude":-8.58846,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ansgalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anesguelt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557806
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"28c90698915c038a1adb90f24cbbac7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209124619
+        }
+    ],
+    "wof:id":1209124619,
+    "wof:lastmodified":1537664119,
+    "wof:name":"Ansgalt",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58846,
+    29.82853,
+    -8.58846,
+    29.82853
+],
+  "geometry": {"coordinates":[-8.58846,29.82853],"type":"Point"}
+}

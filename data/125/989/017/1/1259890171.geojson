@@ -1,0 +1,75 @@
+{
+  "id": 1259890171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.31929,31.76652,-5.31929,31.76652",
+    "geom:latitude":31.76652,
+    "geom:longitude":-5.31929,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aghbalou n'Kerdous",
+    "gn:country_code":"MA",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557298,
+    "gn:latitude":31.76652,
+    "gn:longitude":-5.31929,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aghbalou n\u2019Kerdous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Aghbalou",
+        "Aghbalou",
+        "Arhbalou",
+        "Arhbalou-n-Kerdouss",
+        "Arhbalou-n-Kerdous",
+        "Aghbalou n\u2019Kerdous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557298
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f3196dec06c4ecf8b94293605e0fd9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1259890171,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259890171,
+    "wof:lastmodified":1537664105,
+    "wof:name":"Aghbalou n'Kerdous",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.31929,
+    31.76652,
+    -5.31929,
+    31.76652
+],
+  "geometry": {"coordinates":[-5.31929,31.76652],"type":"Point"}
+}

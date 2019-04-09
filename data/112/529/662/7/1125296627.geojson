@@ -1,0 +1,88 @@
+{
+  "id": 1125296627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.28009,34.7641,-6.28009,34.7641",
+    "geom:latitude":34.7641,
+    "geom:longitude":-6.28009,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":27477,
+    "gn:population":27477,
+    "iso:country":"MA",
+    "lbl:latitude":34.7641,
+    "lbl:longitude":-6.28009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0627\u0635\u0631\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Bahhara Oulad Ayad"
+    ],
+    "name:fra_x_variant":[
+        "Bahhara Oulad Ayad (CR)",
+        "Bahhara Oulad Ayad (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546600,
+    "qs_pg:gn_pop":27477,
+    "qs_pg:name":"Bahhara Oulad Ayad",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":629701,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546600,
+        "qs_pg:id":629701
+    },
+    "wof:country":"MA",
+    "wof:created":1497043180,
+    "wof:geomhash":"ef1dc890fbf053d32d812daa5dd80de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "localadmin_id":1125296627,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1125296627,
+    "wof:lastmodified":1509387637,
+    "wof:name":"Bahhara Oulad Ayad",
+    "wof:parent_id":890427533,
+    "wof:placetype":"localadmin",
+    "wof:population":27477,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.28009,
+    34.7641,
+    -6.28009,
+    34.7641
+],
+  "geometry": {"coordinates":[-6.28009,34.7641],"type":"Point"}
+}

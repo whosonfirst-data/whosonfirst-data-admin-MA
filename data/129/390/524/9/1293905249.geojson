@@ -1,0 +1,67 @@
+{
+  "id": 1293905249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.00431,33.29582,-7.00431,33.29582",
+    "geom:latitude":33.29582,
+    "geom:longitude":-7.00431,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Fouim Sidi Ben Amer",
+    "gn:country_code":"MA",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939232,
+    "gn:latitude":33.29582,
+    "gn:longitude":-7.00431,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Fouim Sidi Ben Amer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939232
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4050c13ddad4e5a71e281c2829a3d727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1293905249,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293905249,
+    "wof:lastmodified":1536681981,
+    "wof:name":"Fouim Sidi Ben Amer",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.00431,
+    33.29582,
+    -7.00431,
+    33.29582
+],
+  "geometry": {"coordinates":[-7.00431,33.29582],"type":"Point"}
+}

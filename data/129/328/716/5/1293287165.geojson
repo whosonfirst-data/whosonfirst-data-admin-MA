@@ -1,0 +1,67 @@
+{
+  "id": 1293287165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07185,33.24038,-7.07185,33.24038",
+    "geom:latitude":33.24038,
+    "geom:longitude":-7.07185,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lghicha",
+    "gn:country_code":"MA",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10938349,
+    "gn:latitude":33.24038,
+    "gn:longitude":-7.07185,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lghicha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10938349
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e39ee4f548851735d6ebe85c55fcc9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1293287165,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293287165,
+    "wof:lastmodified":1537072757,
+    "wof:name":"Lghicha",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07185,
+    33.24038,
+    -7.07185,
+    33.24038
+],
+  "geometry": {"coordinates":[-7.07185,33.24038],"type":"Point"}
+}

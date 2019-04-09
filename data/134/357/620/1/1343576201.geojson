@@ -1,0 +1,74 @@
+{
+  "id": 1343576201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.75829,35.40503,-5.75829,35.40503",
+    "geom:latitude":35.40503,
+    "geom:longitude":-5.75829,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zitouna",
+    "gn:country_code":"MA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526098,
+    "gn:latitude":35.40503,
+    "gn:longitude":-5.75829,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zitouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ze\u00eftouna",
+        "Ez Zitounal",
+        "Zitounate",
+        "Ez Zitouna",
+        "Zitouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526098
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a9efbf3b6d507f5613415fb26629f36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1343576201,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343576201,
+    "wof:lastmodified":1537663310,
+    "wof:name":"Zitouna",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.75829,
+    35.40503,
+    -5.75829,
+    35.40503
+],
+  "geometry": {"coordinates":[-5.75829,35.40503],"type":"Point"}
+}

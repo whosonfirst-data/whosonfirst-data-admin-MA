@@ -1,0 +1,67 @@
+{
+  "id": 1293701665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.93,35.08,-2.93,35.08",
+    "geom:latitude":35.08,
+    "geom:longitude":-2.93,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sidi Ali Hassani",
+    "gn:country_code":"MA",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2536488,
+    "gn:latitude":35.08,
+    "gn:longitude":-2.93,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Ali Hassani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2536488
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8d0de19a990336c505f63fdeec860755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1293701665,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293701665,
+    "wof:lastmodified":1536975017,
+    "wof:name":"Sidi Ali Hassani",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.93,
+    35.08,
+    -2.93,
+    35.08
+],
+  "geometry": {"coordinates":[-2.93,35.08],"type":"Point"}
+}

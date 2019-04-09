@@ -1,0 +1,72 @@
+{
+  "id": 1259397579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.87858,35.05257,-5.87858,35.05257",
+    "geom:latitude":35.05257,
+    "geom:longitude":-5.87858,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lahyata",
+    "gn:country_code":"MA",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550107,
+    "gn:latitude":35.05257,
+    "gn:longitude":-5.87858,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lahyata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hiata",
+        "El Hiatal",
+        "Lahyata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550107
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8612e185b141918a5605eb6b4926eba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1259397579,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259397579,
+    "wof:lastmodified":1537663865,
+    "wof:name":"Lahyata",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.87858,
+    35.05257,
+    -5.87858,
+    35.05257
+],
+  "geometry": {"coordinates":[-5.87858,35.05257],"type":"Point"}
+}

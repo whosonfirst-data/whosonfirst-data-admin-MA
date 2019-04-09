@@ -1,0 +1,72 @@
+{
+  "id": 1309924247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05937,31.31937,-8.05937,31.31937",
+    "geom:latitude":31.31937,
+    "geom:longitude":-8.05937,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ait Khaled",
+    "gn:country_code":"MA",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559704,
+    "gn:latitude":31.31937,
+    "gn:longitude":-8.05937,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar A\u00eft Khaled",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00eft Khaled",
+        "A\u00eft Khald",
+        "A\u00eft Khaled"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559704
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2b3937cd2a848b09181b2b43ef02e1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1309924247,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309924247,
+    "wof:lastmodified":1537664178,
+    "wof:name":"Douar Ait Khaled",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05937,
+    31.31937000000001,
+    -8.05937,
+    31.31937000000001
+],
+  "geometry": {"coordinates":[-8.05937,31.31937000000001],"type":"Point"}
+}

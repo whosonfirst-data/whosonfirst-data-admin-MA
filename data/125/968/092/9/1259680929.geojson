@@ -1,0 +1,67 @@
+{
+  "id": 1259680929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17387,32.8619,-8.17387,32.8619",
+    "geom:latitude":32.8619,
+    "geom:longitude":-8.17387,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Trachha",
+    "gn:country_code":"MA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367635,
+    "gn:latitude":32.8619,
+    "gn:longitude":-8.17387,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Trachha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367635
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c98b8e60db41b4c5dd064b9fd217fd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1259680929,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259680929,
+    "wof:lastmodified":1537067774,
+    "wof:name":"Trachha",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17387,
+    32.8619,
+    -8.17387,
+    32.8619
+],
+  "geometry": {"coordinates":[-8.17387,32.8619],"type":"Point"}
+}

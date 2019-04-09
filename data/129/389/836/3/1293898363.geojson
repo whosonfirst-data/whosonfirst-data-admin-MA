@@ -1,0 +1,72 @@
+{
+  "id": 1293898363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.51483,35.36401,-5.51483,35.36401",
+    "geom:latitude":35.36401,
+    "geom:longitude":-5.51483,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Hammadich",
+    "gn:country_code":"MA",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548075,
+    "gn:latitude":35.36401,
+    "gn:longitude":-5.51483,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Hammadich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hammades",
+        "Hammadech",
+        "Douar Hammadich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548075
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6758d9a556f07715dbaa16069f1f082a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1293898363,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293898363,
+    "wof:lastmodified":1537663805,
+    "wof:name":"Douar Hammadich",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.51483,
+    35.36401,
+    -5.51483,
+    35.36401
+],
+  "geometry": {"coordinates":[-5.51483,35.36401],"type":"Point"}
+}

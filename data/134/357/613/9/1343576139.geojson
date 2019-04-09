@@ -1,0 +1,67 @@
+{
+  "id": 1343576139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.67547,31.2781,-6.67547,31.2781",
+    "geom:latitude":31.2781,
+    "geom:longitude":-6.67547,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Mimal",
+    "gn:country_code":"MA",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559514,
+    "gn:latitude":31.2781,
+    "gn:longitude":-6.67547,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Mimal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559514
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4184787a4a5d4875fa9b15a0f1af0778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1343576139,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343576139,
+    "wof:lastmodified":1537073689,
+    "wof:name":"Ait Mimal",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.67547,
+    31.2781,
+    -6.67547,
+    31.2781
+],
+  "geometry": {"coordinates":[-6.67547,31.2781],"type":"Point"}
+}

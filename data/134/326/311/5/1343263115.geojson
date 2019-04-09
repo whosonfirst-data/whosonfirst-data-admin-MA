@@ -1,0 +1,67 @@
+{
+  "id": 1343263115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.73923,34.00055,-5.73923,34.00055",
+    "geom:latitude":34.00055,
+    "geom:longitude":-5.73923,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ait Lemsir",
+    "gn:country_code":"MA",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984203,
+    "gn:latitude":34.00055,
+    "gn:longitude":-5.73923,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Lemsir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984203
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8184a047509d4f00b9ce02a532d303a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1343263115,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343263115,
+    "wof:lastmodified":1537029776,
+    "wof:name":"Douar Ait Lemsir",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.73923,
+    34.00055,
+    -5.73923,
+    34.00055
+],
+  "geometry": {"coordinates":[-5.73923,34.00055],"type":"Point"}
+}

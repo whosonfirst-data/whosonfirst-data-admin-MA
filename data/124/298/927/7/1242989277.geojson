@@ -1,0 +1,73 @@
+{
+  "id": 1242989277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.38757,35.03889,-4.38757,35.03889",
+    "geom:latitude":35.03889,
+    "geom:longitude":-4.38757,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Ichaouiyene",
+    "gn:country_code":"MA",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547509,
+    "gn:latitude":35.03889,
+    "gn:longitude":-4.38757,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ichaouiyene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Achaouiane",
+        "Ichauien",
+        "Ichaouiene",
+        "Douar Ichaouiyene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547509
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6003741cbaa8acafcf02886ed5e2ad11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1242989277,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1242989277,
+    "wof:lastmodified":1537663793,
+    "wof:name":"Douar Ichaouiyene",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.38757,
+    35.03889,
+    -4.38757,
+    35.03889
+],
+  "geometry": {"coordinates":[-4.38757,35.03889],"type":"Point"}
+}

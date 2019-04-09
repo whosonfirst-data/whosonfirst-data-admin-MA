@@ -1,0 +1,67 @@
+{
+  "id": 1327025697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.40953,31.90788,-9.40953,31.90788",
+    "geom:latitude":31.90788,
+    "geom:longitude":-9.40953,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Brahim",
+    "gn:country_code":"MA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10904689,
+    "gn:latitude":31.90788,
+    "gn:longitude":-9.40953,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10904689
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8a8d3b0d2ca1f720a4b5ce8c4ba3c070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1327025697,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1327025697,
+    "wof:lastmodified":1536770670,
+    "wof:name":"Oulad Brahim",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.40953,
+    31.90788,
+    -9.40953,
+    31.90788
+],
+  "geometry": {"coordinates":[-9.40953,31.90788],"type":"Point"}
+}

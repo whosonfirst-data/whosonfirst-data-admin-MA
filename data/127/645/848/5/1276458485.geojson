@@ -1,0 +1,72 @@
+{
+  "id": 1276458485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9827,34.76464,-5.9827,34.76464",
+    "geom:latitude":34.76464,
+    "geom:longitude":-5.9827,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad Lmamoune",
+    "gn:country_code":"MA",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539590,
+    "gn:latitude":34.76464,
+    "gn:longitude":-5.9827,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Lmamoune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Mamoun",
+        "Oulad Mamoun",
+        "Douar Oulad Lmamoune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539590
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"659a247055e619d00d3ad179b832f4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1276458485,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276458485,
+    "wof:lastmodified":1537663578,
+    "wof:name":"Douar Oulad Lmamoune",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9827,
+    34.76464,
+    -5.9827,
+    34.76464
+],
+  "geometry": {"coordinates":[-5.9827,34.76464],"type":"Point"}
+}

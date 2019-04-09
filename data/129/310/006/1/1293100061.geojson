@@ -1,0 +1,67 @@
+{
+  "id": 1293100061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.64597,34.11095,-5.64597,34.11095",
+    "geom:latitude":34.11095,
+    "geom:longitude":-5.64597,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Legraraa",
+    "gn:country_code":"MA",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984009,
+    "gn:latitude":34.11095,
+    "gn:longitude":-5.64597,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Legraraa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984009
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ca350fe19e82073198e5b5a3087ffe9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1293100061,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293100061,
+    "wof:lastmodified":1536847509,
+    "wof:name":"Douar Legraraa",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.64597,
+    34.11095,
+    -5.64597,
+    34.11095
+],
+  "geometry": {"coordinates":[-5.64597,34.11095],"type":"Point"}
+}

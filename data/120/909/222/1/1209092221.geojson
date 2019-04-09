@@ -1,0 +1,61 @@
+{
+  "id": 1209092221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.57526,31.38599,-7.57526,31.38599",
+    "geom:latitude":31.38599,
+    "geom:longitude":-7.57526,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Ourhayn",
+    "gn:country_code":"MA",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353763,
+    "gn:latitude":31.38599,
+    "gn:longitude":-7.57526,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ourhayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353763
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eaa8d9724ff28ad25caa6ec7b476f255",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209092221
+        }
+    ],
+    "wof:id":1209092221,
+    "wof:lastmodified":1536298001,
+    "wof:name":"Ait Ourhayn",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.575260000000001,
+    31.385990000000003,
+    -7.575260000000001,
+    31.385990000000003
+],
+  "geometry": {"coordinates":[-7.57526,31.38599],"type":"Point"}
+}

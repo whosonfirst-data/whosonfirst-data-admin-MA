@@ -1,0 +1,67 @@
+{
+  "id": 1310496213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.15594,31.33358,-7.15594,31.33358",
+    "geom:latitude":31.33358,
+    "geom:longitude":-7.15594,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Toulntat",
+    "gn:country_code":"MA",
+    "gn:dem":2196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950991,
+    "gn:latitude":31.33358,
+    "gn:longitude":-7.15594,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Toulntat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950991
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f4d6e335990f4d622617ad90370fc52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1310496213,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310496213,
+    "wof:lastmodified":1536931064,
+    "wof:name":"Toulntat",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.15594,
+    31.33358,
+    -7.15594,
+    31.33358
+],
+  "geometry": {"coordinates":[-7.15594,31.33358],"type":"Point"}
+}

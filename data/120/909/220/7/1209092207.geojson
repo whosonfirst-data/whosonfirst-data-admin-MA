@@ -1,0 +1,61 @@
+{
+  "id": 1209092207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55697,31.77826,-9.55697,31.77826",
+    "geom:latitude":31.77826,
+    "geom:longitude":-9.55697,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kider Bou Daoud",
+    "gn:country_code":"MA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10962782,
+    "gn:latitude":31.77826,
+    "gn:longitude":-9.55697,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Kider Bou Daoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10962782
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e7c535a0f57873d1045ce212f7328eb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209092207
+        }
+    ],
+    "wof:id":1209092207,
+    "wof:lastmodified":1536298002,
+    "wof:name":"Kider Bou Daoud",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55697,
+    31.77826,
+    -9.55697,
+    31.77826
+],
+  "geometry": {"coordinates":[-9.55697,31.77826],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209934715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98233,30.01375,-8.98233,30.01375",
+    "geom:latitude":30.01375,
+    "geom:longitude":-8.98233,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Timoula",
+    "gn:country_code":"MA",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11142671,
+    "gn:latitude":30.01375,
+    "gn:longitude":-8.98233,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Timoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11142671
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6c35729e296a2f1f35a2d57de6c12d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1209934715,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209934715,
+    "wof:lastmodified":1536391175,
+    "wof:name":"Timoula",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98233,
+    30.01375,
+    -8.98233,
+    30.01375
+],
+  "geometry": {"coordinates":[-8.98233,30.01375],"type":"Point"}
+}

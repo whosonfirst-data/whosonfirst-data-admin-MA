@@ -1,0 +1,61 @@
+{
+  "id": 1209608347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.68702,32.57494,-6.68702,32.57494",
+    "geom:latitude":32.57494,
+    "geom:longitude":-6.68702,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Haj Rahal",
+    "gn:country_code":"MA",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11470152,
+    "gn:latitude":32.57494,
+    "gn:longitude":-6.68702,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Al Haj Rahal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11470152
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c859de131c52a43563a3906c280c201a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209608347
+        }
+    ],
+    "wof:id":1209608347,
+    "wof:lastmodified":1536281932,
+    "wof:name":"Al Haj Rahal",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.68702,
+    32.574940000000005,
+    -6.68702,
+    32.574940000000005
+],
+  "geometry": {"coordinates":[-6.68702,32.57494000000001],"type":"Point"}
+}

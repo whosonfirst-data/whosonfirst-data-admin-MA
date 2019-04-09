@@ -1,0 +1,65 @@
+{
+  "id": 1209022789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58069,31.27865,-8.58069,31.27865",
+    "geom:latitude":31.27865,
+    "geom:longitude":-8.58069,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Mked",
+    "gn:country_code":"MA",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559503,
+    "gn:latitude":31.27865,
+    "gn:longitude":-8.58069,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Mked",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Mkeud",
+        "A\u00eft Mked"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559503
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7f3f935d5275e562697723ef9901fa31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209022789
+        }
+    ],
+    "wof:id":1209022789,
+    "wof:lastmodified":1537664169,
+    "wof:name":"Ait Mked",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58069,
+    31.27865,
+    -8.58069,
+    31.27865
+],
+  "geometry": {"coordinates":[-8.58069,31.27865],"type":"Point"}
+}

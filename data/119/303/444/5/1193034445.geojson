@@ -1,0 +1,67 @@
+{
+  "id": 1193034445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.3354,35.25798,-5.3354,35.25798",
+    "geom:latitude":35.25798,
+    "geom:longitude":-5.3354,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kebhach",
+    "gn:country_code":"MA",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570354,
+    "gn:latitude":35.25798,
+    "gn:longitude":-5.3354,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kebhach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570354
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"579f4a93178838e6b17451b6f9c88626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1193034445,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1193034445,
+    "wof:lastmodified":1536382543,
+    "wof:name":"Kebhach",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3354,
+    35.25798,
+    -5.3354,
+    35.25798
+],
+  "geometry": {"coordinates":[-5.3354,35.25798],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293193871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.23063,32.24242,-6.23063,32.24242",
+    "geom:latitude":32.24242,
+    "geom:longitude":-6.23063,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Wissa'dane",
+    "gn:country_code":"MA",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545782,
+    "gn:latitude":32.24242,
+    "gn:longitude":-6.23063,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft Wissa\u2019dane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Wissa\u2019dane",
+        "Irherm Id Mellane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545782
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7835de60b629c41aeb3a67dfbaf34498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1293193871,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1293193871,
+    "wof:lastmodified":1537663733,
+    "wof:name":"Ait Wissa'dane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.23063,
+    32.24242,
+    -6.23063,
+    32.24242
+],
+  "geometry": {"coordinates":[-6.23063,32.24242],"type":"Point"}
+}

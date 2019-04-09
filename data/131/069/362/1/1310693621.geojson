@@ -1,0 +1,67 @@
+{
+  "id": 1310693621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00662,33.11308,-8.00662,33.11308",
+    "geom:latitude":33.11308,
+    "geom:longitude":-8.00662,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dhoucha",
+    "gn:country_code":"MA",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963917,
+    "gn:latitude":33.11308,
+    "gn:longitude":-8.00662,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dhoucha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963917
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2c37506c22bac9ef0df13cf96dc11595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "locality_id":1310693621,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1310693621,
+    "wof:lastmodified":1536644975,
+    "wof:name":"Dhoucha",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00662,
+    33.11308,
+    -8.00662,
+    33.11308
+],
+  "geometry": {"coordinates":[-8.00662,33.11308],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276676695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.67193,34.59875,-3.67193,34.59875",
+    "geom:latitude":34.59875,
+    "geom:longitude":-3.67193,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ain Mzizoui",
+    "gn:country_code":"MA",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560798,
+    "gn:latitude":34.59875,
+    "gn:longitude":-3.67193,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00efn Mzizoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Mzizoui",
+        "A\u00efn Mzizuoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560798
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cb458fc41d7dc7a98bb33d3b538cd161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1276676695,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1276676695,
+    "wof:lastmodified":1537664218,
+    "wof:name":"Ain Mzizoui",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.67193,
+    34.59875,
+    -3.67193,
+    34.59875
+],
+  "geometry": {"coordinates":[-3.67193,34.59875],"type":"Point"}
+}

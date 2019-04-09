@@ -1,0 +1,88 @@
+{
+  "id": 1125300023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.01727,35.16425,-5.01727,35.16425",
+    "geom:latitude":35.16425,
+    "geom:longitude":-5.01727,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":23396,
+    "gn:population":24217,
+    "iso:country":"MA",
+    "lbl:latitude":35.16425,
+    "lbl:longitude":-5.01727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u0644\u0642\u0644\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Selmane"
+    ],
+    "name:fra_x_variant":[
+        "Bni Selmane (CR)",
+        "Bni Selmane (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547023,
+    "qs_pg:gn_pop":23396,
+    "qs_pg:name":"Bni Selmane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":630103,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547023,
+        "qs_pg:id":630103
+    },
+    "wof:country":"MA",
+    "wof:created":1497043371,
+    "wof:geomhash":"514e72ffb0751cbfabbf7db015347b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "localadmin_id":1125300023,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125300023,
+    "wof:lastmodified":1509387693,
+    "wof:name":"Bni Selmane",
+    "wof:parent_id":890453883,
+    "wof:placetype":"localadmin",
+    "wof:population":24217,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.01727,
+    35.16425,
+    -5.01727,
+    35.16425
+],
+  "geometry": {"coordinates":[-5.01727,35.16425],"type":"Point"}
+}

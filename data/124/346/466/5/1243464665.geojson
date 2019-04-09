@@ -1,0 +1,73 @@
+{
+  "id": 1243464665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.72636,33.93128,-4.72636,33.93128",
+    "geom:latitude":33.93128,
+    "geom:longitude":-4.72636,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ait Ali Ou Hmad",
+    "gn:country_code":"MA",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560589,
+    "gn:latitude":33.93128,
+    "gn:longitude":-4.72636,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ait Ali Ou Hmad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ali Ou Hmad",
+        "A\u00eft Ali Ou Hamed",
+        "A\u00eft Ali Ou Ahmad",
+        "Douar Ait Ali Ou Hmad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560589
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"564e7f43d75ac02ee89574ca3d3cd002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1243464665,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1243464665,
+    "wof:lastmodified":1537664210,
+    "wof:name":"Douar Ait Ali Ou Hmad",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.72636,
+    33.93128,
+    -4.72636,
+    33.93128
+],
+  "geometry": {"coordinates":[-4.72636,33.93128],"type":"Point"}
+}

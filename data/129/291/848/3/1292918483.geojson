@@ -1,0 +1,72 @@
+{
+  "id": 1292918483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0602,31.20246,-5.0602,31.20246",
+    "geom:latitude":31.20246,
+    "geom:longitude":-5.0602,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taomart",
+    "gn:country_code":"MA",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530219,
+    "gn:latitude":31.20246,
+    "gn:longitude":-5.0602,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taomart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taoumart",
+        "Taomarte",
+        "Taomart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530219
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6b6b8976be98b9ddfcd71b9ce0750551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1292918483,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1292918483,
+    "wof:lastmodified":1537663431,
+    "wof:name":"Taomart",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0602,
+    31.20246,
+    -5.0602,
+    31.20246
+],
+  "geometry": {"coordinates":[-5.0602,31.20246],"type":"Point"}
+}

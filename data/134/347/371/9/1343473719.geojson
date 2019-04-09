@@ -1,0 +1,68 @@
+{
+  "id": 1343473719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.30195,32.48177,-6.30195,32.48177",
+    "geom:latitude":32.48177,
+    "geom:longitude":-6.30195,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tartemat",
+    "gn:country_code":"MA",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529618,
+    "gn:latitude":32.48177,
+    "gn:longitude":-6.30195,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tartemat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529618,
+        "wk:page":"Tartemat"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1f5416b8efc1132daafd09a070249997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1343473719,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343473719,
+    "wof:lastmodified":1537568221,
+    "wof:name":"Tartemat",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.30195,
+    32.48177,
+    -6.30195,
+    32.48177
+],
+  "geometry": {"coordinates":[-6.30195,32.48177],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125297321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64786,31.22011,-8.64786,31.22011",
+    "geom:latitude":31.22011,
+    "geom:longitude":-8.64786,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15942,
+    "gn:population":15942,
+    "iso:country":"MA",
+    "lbl:latitude":31.22011,
+    "lbl:longitude":-8.64786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062f\u0648\u0632\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Zaouia Annahlia"
+    ],
+    "name:fra_x_variant":[
+        "Zaouia Annahlia (CR)",
+        "Zaouia Annahlia (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546645,
+    "qs_pg:gn_pop":15942,
+    "qs_pg:name":"Zaouia Annahlia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629749,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546645,
+        "qs_pg:id":629749
+    },
+    "wof:country":"MA",
+    "wof:created":1497043218,
+    "wof:geomhash":"ed655911a84d9c6fc0360ad85d541f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "localadmin_id":1125297321,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125297321,
+    "wof:lastmodified":1509387648,
+    "wof:name":"Zaouia Annahlia",
+    "wof:parent_id":890440847,
+    "wof:placetype":"localadmin",
+    "wof:population":15942,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64786,
+    31.22011,
+    -8.64786,
+    31.22011
+],
+  "geometry": {"coordinates":[-8.64786,31.22011],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225843025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92429,32.13802,-6.92429,32.13802",
+    "geom:latitude":32.13802,
+    "geom:longitude":-6.92429,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Khallouq",
+    "gn:country_code":"MA",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560534,
+    "gn:latitude":32.13802,
+    "gn:longitude":-6.92429,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft Khallouq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Khallouq",
+        "A\u00eft Alouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560534
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0692dc425e167507f29c3b0d3f46b4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1225843025,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1225843025,
+    "wof:lastmodified":1537664208,
+    "wof:name":"Ait Khallouq",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92429,
+    32.13802,
+    -6.92429,
+    32.13802
+],
+  "geometry": {"coordinates":[-6.92429,32.13802],"type":"Point"}
+}

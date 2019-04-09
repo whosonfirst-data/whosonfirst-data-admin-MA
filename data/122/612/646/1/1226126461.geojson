@@ -1,0 +1,67 @@
+{
+  "id": 1226126461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46194,30.0728,-8.46194,30.0728",
+    "geom:latitude":30.0728,
+    "geom:longitude":-8.46194,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tafangha",
+    "gn:country_code":"MA",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11143656,
+    "gn:latitude":30.0728,
+    "gn:longitude":-8.46194,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tafangha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11143656
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"590982f0e5da791c4b2c9cad5239f0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1226126461,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226126461,
+    "wof:lastmodified":1536605743,
+    "wof:name":"Tafangha",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46194,
+    30.0728,
+    -8.46194,
+    30.0728
+],
+  "geometry": {"coordinates":[-8.46194,30.0728],"type":"Point"}
+}

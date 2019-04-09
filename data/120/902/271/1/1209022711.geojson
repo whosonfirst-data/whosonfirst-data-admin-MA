@@ -1,0 +1,66 @@
+{
+  "id": 1209022711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0808,31.49246,-7.0808,31.49246",
+    "geom:latitude":31.49246,
+    "geom:longitude":-7.0808,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait J'a",
+    "gn:country_code":"MA",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559730,
+    "gn:latitude":31.49246,
+    "gn:longitude":-7.0808,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft J\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft ja\u00e2",
+        "A\u00eft Jaha",
+        "A\u00eft J\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559730
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9df1c0f9636e179318361146327c7cd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209022711
+        }
+    ],
+    "wof:id":1209022711,
+    "wof:lastmodified":1537664179,
+    "wof:name":"Ait J'a",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0808,
+    31.49246,
+    -7.0808,
+    31.49246
+],
+  "geometry": {"coordinates":[-7.0808,31.49246],"type":"Point"}
+}

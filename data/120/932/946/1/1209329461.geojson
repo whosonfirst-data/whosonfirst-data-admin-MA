@@ -1,0 +1,64 @@
+{
+  "id": 1209329461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.42817,34.22714,-2.42817,34.22714",
+    "geom:latitude":34.22714,
+    "geom:longitude":-2.42817,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wizaght",
+    "gn:country_code":"MA",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538509,
+    "gn:latitude":34.22714,
+    "gn:longitude":-2.42817,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Wizaght",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouzrhet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538509
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"33eb2732e461c444eb3055a85053115e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329461
+        }
+    ],
+    "wof:id":1209329461,
+    "wof:lastmodified":1537663539,
+    "wof:name":"Wizaght",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.42817,
+    34.22714000000001,
+    -2.42817,
+    34.22714000000001
+],
+  "geometry": {"coordinates":[-2.42817,34.22714000000001],"type":"Point"}
+}

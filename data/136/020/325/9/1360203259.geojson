@@ -1,0 +1,67 @@
+{
+  "id": 1360203259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0537,32.9307,-5.0537,32.9307",
+    "geom:latitude":32.9307,
+    "geom:longitude":-5.0537,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bou Ari",
+    "gn:country_code":"MA",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555151,
+    "gn:latitude":32.9307,
+    "gn:longitude":-5.0537,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Ari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555151
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c4d3f35c15c1b4ef2de0517f4c13c725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1360203259,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1360203259,
+    "wof:lastmodified":1536775815,
+    "wof:name":"Bou Ari",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0537,
+    32.9307,
+    -5.0537,
+    32.9307
+],
+  "geometry": {"coordinates":[-5.0537,32.9307],"type":"Point"}
+}

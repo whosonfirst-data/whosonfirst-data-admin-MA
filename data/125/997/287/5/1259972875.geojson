@@ -1,0 +1,67 @@
+{
+  "id": 1259972875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.78357,32.89068,-5.78357,32.89068",
+    "geom:latitude":32.89068,
+    "geom:longitude":-5.78357,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ikejiane",
+    "gn:country_code":"MA",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965834,
+    "gn:latitude":32.89068,
+    "gn:longitude":-5.78357,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ikejiane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965834
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1c66897b6fa9652fb1d5e3d8234de045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1259972875,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259972875,
+    "wof:lastmodified":1536650215,
+    "wof:name":"Ikejiane",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.78357,
+    32.89068,
+    -5.78357,
+    32.89068
+],
+  "geometry": {"coordinates":[-5.78357,32.89068],"type":"Point"}
+}

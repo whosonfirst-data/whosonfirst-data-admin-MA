@@ -1,0 +1,67 @@
+{
+  "id": 1343764443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.14467,35.23617,-3.14467,35.23617",
+    "geom:latitude":35.23617,
+    "geom:longitude":-3.14467,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ihnnenatene",
+    "gn:country_code":"MA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10845070,
+    "gn:latitude":35.23617,
+    "gn:longitude":-3.14467,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ihnnenatene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10845070
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f2839d4fdea2cd75a95ac467ec845859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1343764443,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1343764443,
+    "wof:lastmodified":1536805035,
+    "wof:name":"Ihnnenatene",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.14467,
+    35.23617,
+    -3.14467,
+    35.23617
+],
+  "geometry": {"coordinates":[-3.14467,35.23617],"type":"Point"}
+}

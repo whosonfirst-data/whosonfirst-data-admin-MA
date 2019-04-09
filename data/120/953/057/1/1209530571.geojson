@@ -1,0 +1,65 @@
+{
+  "id": 1209530571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.70014,33.26392,-2.70014,33.26392",
+    "geom:latitude":33.26392,
+    "geom:longitude":-2.70014,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Matarka",
+    "gn:country_code":"MA",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542964,
+    "gn:latitude":33.26392,
+    "gn:longitude":-2.70014,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Matarka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metarka",
+        "Matarka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542964
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5a0b8de0d5fdddd6d59125cfa10c281d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209530571
+        }
+    ],
+    "wof:id":1209530571,
+    "wof:lastmodified":1537663664,
+    "wof:name":"Matarka",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.70014,
+    33.26392,
+    -2.70014,
+    33.26392
+],
+  "geometry": {"coordinates":[-2.70014,33.26392],"type":"Point"}
+}

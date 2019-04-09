@@ -1,0 +1,67 @@
+{
+  "id": 1360300507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89844,31.2012,-7.89844,31.2012",
+    "geom:latitude":31.2012,
+    "geom:longitude":-7.89844,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tidli",
+    "gn:country_code":"MA",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950452,
+    "gn:latitude":31.2012,
+    "gn:longitude":-7.89844,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Tidli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950452
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"db7c279a3f55feec622b67ed41bffd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1360300507,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360300507,
+    "wof:lastmodified":1536633408,
+    "wof:name":"Tidli",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89844,
+    31.2012,
+    -7.89844,
+    31.2012
+],
+  "geometry": {"coordinates":[-7.89844,31.2012],"type":"Point"}
+}

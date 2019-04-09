@@ -1,0 +1,78 @@
+{
+  "id": 890424021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.28192,34.61442,-5.28192,34.61442",
+    "geom:latitude":34.61442,
+    "geom:longitude":-5.28192,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":2321,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0633\u064a\u062f\u064a \u0628\u0648\u0628\u0643\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Dorij"
+    ],
+    "name:fra_x_variant":[
+        "Ain Dorij (AC)",
+        "Ain Dorij (Agglomeration Communale)"
+    ],
+    "qs:name":"Ain Dorij",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546545,
+        "qs:id":629648,
+        "wd:id":"Q2876283",
+        "wk:page":"Ain Dorij"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051525,
+    "wof:geomhash":"e95c67890191af65beedd1fc6eb23d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "localadmin_id":890424021,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":890424021,
+    "wof:lastmodified":1527727267,
+    "wof:name":"Ain Dorij",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"localadmin",
+    "wof:population":2321,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.28192,
+    34.61442,
+    -5.28192,
+    34.61442
+],
+  "geometry": {"coordinates":[-5.28192,34.61442],"type":"Point"}
+}

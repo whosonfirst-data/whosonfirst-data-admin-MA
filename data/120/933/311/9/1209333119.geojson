@@ -1,0 +1,66 @@
+{
+  "id": 1209333119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.02498,31.43785,-6.02498,31.43785",
+    "geom:latitude":31.43785,
+    "geom:longitude":-6.02498,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Ibrirene",
+    "gn:country_code":"MA",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559836,
+    "gn:latitude":31.43785,
+    "gn:longitude":-6.02498,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Ibrirene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ibrir\u00e8n",
+        "A\u00eft Ibrereur",
+        "A\u00eft Ibrirene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559836
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"428e9d9673314dc62f3ef763756fe89d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333119
+        }
+    ],
+    "wof:id":1209333119,
+    "wof:lastmodified":1537664182,
+    "wof:name":"Ait Ibrirene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.02498,
+    31.43785,
+    -6.02498,
+    31.43785
+],
+  "geometry": {"coordinates":[-6.02498,31.43785],"type":"Point"}
+}

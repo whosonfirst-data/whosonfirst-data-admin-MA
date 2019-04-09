@@ -1,0 +1,73 @@
+{
+  "id": 1259582025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.35193,32.56908,-6.35193,32.56908",
+    "geom:latitude":32.56908,
+    "geom:longitude":-6.35193,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Douar Rba'",
+    "gn:country_code":"MA",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559179,
+    "gn:latitude":32.56908,
+    "gn:longitude":-6.35193,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Douar Rba\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00eft Roboa",
+        "A\u00eft Reb\u00e2a",
+        "A\u00eft Rb\u00e2a",
+        "Douar Rba\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559179
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3426d744f4fed97f5658a1ea11cd9727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1259582025,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1259582025,
+    "wof:lastmodified":1537664158,
+    "wof:name":"Douar Rba'",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.35193,
+    32.56908,
+    -6.35193,
+    32.56908
+],
+  "geometry": {"coordinates":[-6.35193,32.56908],"type":"Point"}
+}

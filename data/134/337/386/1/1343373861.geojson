@@ -1,0 +1,67 @@
+{
+  "id": 1343373861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.45384,31.44154,-9.45384,31.44154",
+    "geom:latitude":31.44154,
+    "geom:longitude":-9.45384,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait el Hajoui",
+    "gn:country_code":"MA",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560053,
+    "gn:latitude":31.44154,
+    "gn:longitude":-9.45384,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft el Hajoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560053
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a34ab962294b5cd9d7558dd9f4195fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1343373861,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343373861,
+    "wof:lastmodified":1536869974,
+    "wof:name":"Ait el Hajoui",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.45384,
+    31.44154,
+    -9.45384,
+    31.44154
+],
+  "geometry": {"coordinates":[-9.45384,31.44154],"type":"Point"}
+}

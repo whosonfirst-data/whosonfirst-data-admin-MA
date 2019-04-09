@@ -1,0 +1,64 @@
+{
+  "id": 1209530645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.74717,34.20267,-4.74717,34.20267",
+    "geom:latitude":34.20267,
+    "geom:longitude":-4.74717,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Tahar",
+    "gn:country_code":"MA",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551718,
+    "gn:latitude":34.20267,
+    "gn:longitude":-4.74717,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Tahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar et Tahar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551718
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bde190b41b7d13a84c9db5566cc0a8ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209530645
+        }
+    ],
+    "wof:id":1209530645,
+    "wof:lastmodified":1537663960,
+    "wof:name":"Douar Oulad Tahar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.74717,
+    34.20267,
+    -4.74717,
+    34.20267
+],
+  "geometry": {"coordinates":[-4.74717,34.20267],"type":"Point"}
+}

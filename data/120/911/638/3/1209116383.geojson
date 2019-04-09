@@ -1,0 +1,65 @@
+{
+  "id": 1209116383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.86059,34.45666,-5.86059,34.45666",
+    "geom:latitude":34.45666,
+    "geom:longitude":-5.86059,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Lmharba",
+    "gn:country_code":"MA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543348,
+    "gn:latitude":34.45666,
+    "gn:longitude":-5.86059,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lmharba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lamharba",
+        "Lmharba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543348
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"50e9a7440a28d5efb4f7c2881d2a6ef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209116383
+        }
+    ],
+    "wof:id":1209116383,
+    "wof:lastmodified":1537663671,
+    "wof:name":"Douar Lmharba",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.86059,
+    34.45666,
+    -5.86059,
+    34.45666
+],
+  "geometry": {"coordinates":[-5.86059,34.45666],"type":"Point"}
+}

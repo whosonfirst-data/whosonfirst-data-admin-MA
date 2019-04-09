@@ -1,0 +1,72 @@
+{
+  "id": 1276243531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.66867,31.76878,-7.66867,31.76878",
+    "geom:latitude":31.76878,
+    "geom:longitude":-7.66867,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Jaafra",
+    "gn:country_code":"MA",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2535342,
+    "gn:latitude":31.76878,
+    "gn:longitude":-7.66867,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Jaafra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Brahim",
+        "Sidi Brahim",
+        "Douar Jaafra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2535342
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c74b23b425b11e9ebab6b455c9688aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1276243531,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276243531,
+    "wof:lastmodified":1537663512,
+    "wof:name":"Douar Jaafra",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.66867,
+    31.76878,
+    -7.66867,
+    31.76878
+],
+  "geometry": {"coordinates":[-7.66867,31.76878],"type":"Point"}
+}

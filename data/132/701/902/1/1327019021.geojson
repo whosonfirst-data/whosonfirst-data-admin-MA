@@ -1,0 +1,67 @@
+{
+  "id": 1327019021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25801,30.44287,-9.25801,30.44287",
+    "geom:latitude":30.44287,
+    "geom:longitude":-9.25801,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jorl Lehmame",
+    "gn:country_code":"MA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869502,
+    "gn:latitude":30.44287,
+    "gn:longitude":-9.25801,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Jorl Lehmame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869502
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"146b66967f3ad359c61688ae5ce1ed55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1327019021,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327019021,
+    "wof:lastmodified":1536780305,
+    "wof:name":"Jorl Lehmame",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25801,
+    30.44287000000001,
+    -9.25801,
+    30.44287000000001
+],
+  "geometry": {"coordinates":[-9.25801,30.44287000000001],"type":"Point"}
+}

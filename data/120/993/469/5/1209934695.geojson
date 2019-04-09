@@ -1,0 +1,67 @@
+{
+  "id": 1209934695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.43681,30.70785,-9.43681,30.70785",
+    "geom:latitude":30.70785,
+    "geom:longitude":-9.43681,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ifred",
+    "gn:country_code":"MA",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131930,
+    "gn:latitude":30.70785,
+    "gn:longitude":-9.43681,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ifred",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131930
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"63e6ef92fb0440c38eb328cfae984736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1209934695,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209934695,
+    "wof:lastmodified":1536391184,
+    "wof:name":"Ifred",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.43681,
+    30.70785,
+    -9.43681,
+    30.70785
+],
+  "geometry": {"coordinates":[-9.43681,30.70785],"type":"Point"}
+}

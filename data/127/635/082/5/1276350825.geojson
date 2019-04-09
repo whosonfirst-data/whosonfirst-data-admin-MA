@@ -1,0 +1,72 @@
+{
+  "id": 1276350825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.62008,35.69979,-5.62008,35.69979",
+    "geom:latitude":35.69979,
+    "geom:longitude":-5.62008,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Zemmij",
+    "gn:country_code":"MA",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526076,
+    "gn:latitude":35.69979,
+    "gn:longitude":-5.62008,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Zemmij",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zamij",
+        "Zemmij",
+        "Douar Zemmij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526076
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5d3c2c30071f7032162b4aed98e0cf99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1276350825,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1276350825,
+    "wof:lastmodified":1537663310,
+    "wof:name":"Douar Zemmij",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.62008,
+    35.69979,
+    -5.62008,
+    35.69979
+],
+  "geometry": {"coordinates":[-5.62008,35.69979],"type":"Point"}
+}

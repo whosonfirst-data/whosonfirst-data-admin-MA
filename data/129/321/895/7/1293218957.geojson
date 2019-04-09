@@ -1,0 +1,71 @@
+{
+  "id": 1293218957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.02666,34.60092,-6.02666,34.60092",
+    "geom:latitude":34.60092,
+    "geom:longitude":-6.02666,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Selham Oulad el Rhamouigui",
+    "gn:country_code":"MA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537481,
+    "gn:latitude":34.60092,
+    "gn:longitude":-6.02666,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Selham Oulad el Rhamouigui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Selham Oulad el Rhamouigui",
+        "Selham Oulad el Rhamouigui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537481
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"348bb8d4b0eb036b64396a0390395cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1293218957,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1293218957,
+    "wof:lastmodified":1537663521,
+    "wof:name":"Selham Oulad el Rhamouigui",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.02666,
+    34.60092,
+    -6.02666,
+    34.60092
+],
+  "geometry": {"coordinates":[-6.02666,34.60092],"type":"Point"}
+}

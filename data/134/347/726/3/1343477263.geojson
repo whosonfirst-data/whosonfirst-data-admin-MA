@@ -1,0 +1,70 @@
+{
+  "id": 1343477263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.77184,30.10198,-8.77184,30.10198",
+    "geom:latitude":30.10198,
+    "geom:longitude":-8.77184,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kammaz",
+    "gn:country_code":"MA",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544581,
+    "gn:latitude":30.10198,
+    "gn:longitude":-8.77184,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kammaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kemaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544581
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c025a2bbfec0880163b45b6dd67c4be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1343477263,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343477263,
+    "wof:lastmodified":1537663697,
+    "wof:name":"Kammaz",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.77184,
+    30.10198,
+    -8.77184,
+    30.10198
+],
+  "geometry": {"coordinates":[-8.77184,30.10198],"type":"Point"}
+}

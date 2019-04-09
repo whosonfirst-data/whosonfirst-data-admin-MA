@@ -1,0 +1,88 @@
+{
+  "id": 1125330551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.17737,32.42851,-9.17737,32.42851",
+    "geom:latitude":32.42851,
+    "geom:longitude":-9.17737,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":22683,
+    "gn:population":22683,
+    "iso:country":"MA",
+    "lbl:latitude":32.42851,
+    "lbl:longitude":-9.17737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0645\u0631\u0627\u0633\u0644\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Hrara"
+    ],
+    "name:fra_x_variant":[
+        "Hrara (CR)",
+        "Hrara (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546523,
+    "qs_pg:gn_pop":22683,
+    "qs_pg:name":"Hrara",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":629629,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546523,
+        "qs_pg:id":629629
+    },
+    "wof:country":"MA",
+    "wof:created":1497045109,
+    "wof:geomhash":"867584e94dba039dc3023c7513460686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "localadmin_id":1125330551,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1125330551,
+    "wof:lastmodified":1509388365,
+    "wof:name":"Hrara",
+    "wof:parent_id":890445397,
+    "wof:placetype":"localadmin",
+    "wof:population":22683,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.17737,
+    32.42851,
+    -9.17737,
+    32.42851
+],
+  "geometry": {"coordinates":[-9.17737,32.42851],"type":"Point"}
+}

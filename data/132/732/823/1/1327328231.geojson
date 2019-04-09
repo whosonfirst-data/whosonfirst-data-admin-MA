@@ -1,0 +1,73 @@
+{
+  "id": 1327328231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7986,31.5234,-4.7986,31.5234",
+    "geom:latitude":31.5234,
+    "geom:longitude":-4.7986,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tanout N'ou'iy",
+    "gn:country_code":"MA",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530272,
+    "gn:latitude":31.5234,
+    "gn:longitude":-4.7986,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tanout N\u2019ou\u2019iy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanoute Nouha\u00ef",
+        "Tanout Nouha\u00ef",
+        "Tanout n\u2019Ouai",
+        "Tanout N\u2019ou\u2019iy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530272
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8da91371f66b3dfa65a7540e4edd0d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1327328231,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327328231,
+    "wof:lastmodified":1537663432,
+    "wof:name":"Tanout N'ou'iy",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7986,
+    31.5234,
+    -4.7986,
+    31.5234
+],
+  "geometry": {"coordinates":[-4.7986,31.5234],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309991759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.53505,31.46157,-9.53505,31.46157",
+    "geom:latitude":31.46157,
+    "geom:longitude":-9.53505,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Id Amara",
+    "gn:country_code":"MA",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946490,
+    "gn:latitude":31.46157,
+    "gn:longitude":-9.53505,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Amara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946490
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2152b8bac8f8d3be9d671b3e0a6585d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1309991759,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309991759,
+    "wof:lastmodified":1536663153,
+    "wof:name":"Id Amara",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.53505,
+    31.46157,
+    -9.53505,
+    31.46157
+],
+  "geometry": {"coordinates":[-9.53505,31.46157],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310424161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.43353,35.83017,-5.43353,35.83017",
+    "geom:latitude":35.83017,
+    "geom:longitude":-5.43353,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dchar Loudana",
+    "gn:country_code":"MA",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552428,
+    "gn:latitude":35.83017,
+    "gn:longitude":-5.43353,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dchar Loudana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552428
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2b056ce3269f7bb8c4e60baa62977978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1310424161,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310424161,
+    "wof:lastmodified":1537032886,
+    "wof:name":"Dchar Loudana",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.43353,
+    35.83017,
+    -5.43353,
+    35.83017
+],
+  "geometry": {"coordinates":[-5.43353,35.83017],"type":"Point"}
+}

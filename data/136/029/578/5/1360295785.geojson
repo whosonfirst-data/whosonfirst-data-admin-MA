@@ -1,0 +1,67 @@
+{
+  "id": 1360295785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2484,33.76598,-4.2484,33.76598",
+    "geom:latitude":33.76598,
+    "geom:longitude":-4.2484,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mdaoud",
+    "gn:country_code":"MA",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596463,
+    "gn:latitude":33.76598,
+    "gn:longitude":-4.2484,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Mdaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596463
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"173559442a054da1f77390995175a635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1360295785,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1360295785,
+    "wof:lastmodified":1536640679,
+    "wof:name":"Mdaoud",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2484,
+    33.76598,
+    -4.2484,
+    33.76598
+],
+  "geometry": {"coordinates":[-4.2484,33.76598],"type":"Point"}
+}

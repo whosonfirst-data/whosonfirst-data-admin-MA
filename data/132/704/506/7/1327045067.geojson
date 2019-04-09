@@ -1,0 +1,73 @@
+{
+  "id": 1327045067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.59122,35.10572,-4.59122,35.10572",
+    "geom:latitude":35.10572,
+    "geom:longitude":-4.59122,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Ikhrifene",
+    "gn:country_code":"MA",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546475,
+    "gn:latitude":35.10572,
+    "gn:longitude":-4.59122,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ikhrifene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yjerfen",
+        "Ikhrifane",
+        "Ikherifene",
+        "Douar Ikhrifene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546475
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7c0e008b65a5fb635f294f28c6a14fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1327045067,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327045067,
+    "wof:lastmodified":1537663757,
+    "wof:name":"Douar Ikhrifene",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.59122,
+    35.10572,
+    -4.59122,
+    35.10572
+],
+  "geometry": {"coordinates":[-4.59122,35.10572],"type":"Point"}
+}

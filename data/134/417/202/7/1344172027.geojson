@@ -1,0 +1,73 @@
+{
+  "id": 1344172027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.38117,34.68037,-6.38117,34.68037",
+    "geom:latitude":34.68037,
+    "geom:longitude":-6.38117,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Bahhara Oulad Aissa Lebqaylat",
+    "gn:country_code":"MA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550584,
+    "gn:latitude":34.68037,
+    "gn:longitude":-6.38117,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bahhara Oulad Aissa Lebqaylat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bharia",
+        "Douar el Behara",
+        "El Behara",
+        "Douar Bahhara Oulad Aissa Lebqaylat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550584
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e6ceed55ee93c6bdbf1b7d485965e489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1344172027,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1344172027,
+    "wof:lastmodified":1537663889,
+    "wof:name":"Douar Bahhara Oulad Aissa Lebqaylat",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.38117,
+    34.68037,
+    -6.38117,
+    34.68037
+],
+  "geometry": {"coordinates":[-6.38117,34.68037],"type":"Point"}
+}

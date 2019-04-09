@@ -1,0 +1,88 @@
+{
+  "id": 1125330353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59068,29.96572,-7.59068,29.96572",
+    "geom:latitude":29.96572,
+    "geom:longitude":-7.59068,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6725,
+    "gn:population":6452,
+    "iso:country":"MA",
+    "lbl:latitude":29.96572,
+    "lbl:longitude":-7.59068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0643\u064a\u0646\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Akka Ighane"
+    ],
+    "name:fra_x_variant":[
+        "Akka Ighane (CR)",
+        "Akka Ighane (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546229,
+    "qs_pg:gn_pop":6725,
+    "qs_pg:name":"Akka Ighane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629364,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546229,
+        "qs_pg:id":629364
+    },
+    "wof:country":"MA",
+    "wof:created":1497045098,
+    "wof:geomhash":"d9330120145a2a21065cd44c29d08202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "localadmin_id":1125330353,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1125330353,
+    "wof:lastmodified":1509388359,
+    "wof:name":"Akka Ighane",
+    "wof:parent_id":890453851,
+    "wof:placetype":"localadmin",
+    "wof:population":6452,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59068,
+    29.96572,
+    -7.59068,
+    29.96572
+],
+  "geometry": {"coordinates":[-7.59068,29.96572],"type":"Point"}
+}

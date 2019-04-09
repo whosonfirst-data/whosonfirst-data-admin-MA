@@ -1,0 +1,65 @@
+{
+  "id": 890422521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.08333,33.11667,-5.08333,33.11667",
+    "geom:latitude":33.11667,
+    "geom:longitude":-5.08333,
+    "gn:country":"MA",
+    "gn:fcode":"ADMD",
+    "gn:pop":219975,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Cercle d\u2019 El Hajeb",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        890429095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550251,
+        "qs:id":575087
+    },
+    "wof:country":"MA",
+    "wof:created":1469051450,
+    "wof:geomhash":"e4bc6b76a9c682f87c225586ead7fb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429095,
+            "localadmin_id":890422521,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890422521,
+    "wof:lastmodified":1505343470,
+    "wof:name":"Cercle d\u2019 El Hajeb",
+    "wof:parent_id":890429095,
+    "wof:placetype":"localadmin",
+    "wof:population":219975,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.08333,
+    33.11667,
+    -5.08333,
+    33.11667
+],
+  "geometry": {"coordinates":[-5.08333,33.11667],"type":"Point"}
+}

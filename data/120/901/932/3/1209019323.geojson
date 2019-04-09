@@ -1,0 +1,61 @@
+{
+  "id": 1209019323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24731,31.01115,-8.24731,31.01115",
+    "geom:latitude":31.01115,
+    "geom:longitude":-8.24731,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tasmaine",
+    "gn:country_code":"MA",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529528,
+    "gn:latitude":31.01115,
+    "gn:longitude":-8.24731,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tasma\u00efne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529528
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"052342457786de90ee7cae4d95f56815",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019323
+        }
+    ],
+    "wof:id":1209019323,
+    "wof:lastmodified":1536300194,
+    "wof:name":"Tasmaine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.24731,
+    31.01115,
+    -8.24731,
+    31.01115
+],
+  "geometry": {"coordinates":[-8.24731,31.01115],"type":"Point"}
+}

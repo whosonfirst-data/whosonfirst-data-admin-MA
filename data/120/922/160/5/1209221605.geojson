@@ -1,0 +1,61 @@
+{
+  "id": 1209221605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.58614,34.09892,-4.58614,34.09892",
+    "geom:latitude":34.09892,
+    "geom:longitude":-4.58614,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Zmamra",
+    "gn:country_code":"MA",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10927371,
+    "gn:latitude":34.09892,
+    "gn:longitude":-4.58614,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Zmamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10927371
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2d8f342451e5cb5c94355112d59467b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209221605
+        }
+    ],
+    "wof:id":1209221605,
+    "wof:lastmodified":1536293943,
+    "wof:name":"Douar Zmamra",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.58614,
+    34.09892,
+    -4.58614,
+    34.09892
+],
+  "geometry": {"coordinates":[-4.58614,34.09892],"type":"Point"}
+}

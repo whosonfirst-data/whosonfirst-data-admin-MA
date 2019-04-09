@@ -1,0 +1,74 @@
+{
+  "id": 1310694855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.95653,32.18614,-8.95653,32.18614",
+    "geom:latitude":32.18614,
+    "geom:longitude":-8.95653,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad Ben Hammou",
+    "gn:country_code":"MA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794283,
+    "gn:latitude":32.18614,
+    "gn:longitude":-8.95653,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Ben Hammou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Gassem",
+        "El Kouassene",
+        "El-Kouass\u00e8n",
+        "El Gouassem",
+        "Douar el Gouassem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794283
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1558e1549124be924774554a0813a1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1310694855,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310694855,
+    "wof:lastmodified":1537664294,
+    "wof:name":"Douar Oulad Ben Hammou",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95653,
+    32.18614,
+    -8.95653,
+    32.18614
+],
+  "geometry": {"coordinates":[-8.95653,32.18614],"type":"Point"}
+}

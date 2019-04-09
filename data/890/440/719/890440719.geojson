@@ -1,0 +1,78 @@
+{
+  "id": 890440719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52869,32.14429,-6.52869,32.14429",
+    "geom:latitude":32.14429,
+    "geom:longitude":-6.52869,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":1786,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0645\u0632\u064a\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Ouaarda"
+    ],
+    "name:fra_x_variant":[
+        "Ait Ouaarda (CR)",
+        "Ait Ouaarda (Commune Rurale)"
+    ],
+    "qs:name":"Ait Ouaarda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546812,
+        "qs:id":629915,
+        "wd:id":"Q4699259",
+        "wk:page":"Ait Ouaarda"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052294,
+    "wof:geomhash":"cd8b53753e7e641d6bbc867581c88f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "localadmin_id":890440719,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890440719,
+    "wof:lastmodified":1527727110,
+    "wof:name":"Ait Ouaarda",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"localadmin",
+    "wof:population":1786,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.52869,
+    32.14429,
+    -6.52869,
+    32.14429
+],
+  "geometry": {"coordinates":[-6.52869,32.14429],"type":"Point"}
+}

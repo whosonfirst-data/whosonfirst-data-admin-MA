@@ -1,0 +1,65 @@
+{
+  "id": 1209333113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98129,31.45671,-5.98129,31.45671",
+    "geom:latitude":31.45671,
+    "geom:longitude":-5.98129,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imzoudar",
+    "gn:country_code":"MA",
+    "gn:dem":1679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545986,
+    "gn:latitude":31.45671,
+    "gn:longitude":-5.98129,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imzoudar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imizouddar",
+        "Imzoudar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545986
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"03056c497a8e87827bd07443fc711e1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333113
+        }
+    ],
+    "wof:id":1209333113,
+    "wof:lastmodified":1537663740,
+    "wof:name":"Imzoudar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98129,
+    31.45671,
+    -5.98129,
+    31.45671
+],
+  "geometry": {"coordinates":[-5.98129,31.45671],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310712079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.24003,34.69829,-5.24003,34.69829",
+    "geom:latitude":34.69829,
+    "geom:longitude":-5.24003,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yandraz",
+    "gn:country_code":"MA",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526525,
+    "gn:latitude":34.69829,
+    "gn:longitude":-5.24003,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Yandraz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanndraz",
+        "Yandraz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526525
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"730df13364cb2842b61844444fddfa10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1310712079,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310712079,
+    "wof:lastmodified":1537663330,
+    "wof:name":"Yandraz",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.24003,
+    34.69829,
+    -5.24003,
+    34.69829
+],
+  "geometry": {"coordinates":[-5.24003,34.69829],"type":"Point"}
+}

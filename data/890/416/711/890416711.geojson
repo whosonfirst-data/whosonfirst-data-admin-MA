@@ -1,0 +1,75 @@
+{
+  "id": 890416711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.74351,33.98769,-6.74351,33.98769",
+    "geom:latitude":33.98769,
+    "geom:longitude":-6.74351,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":163588,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u0627\u0646\u0629 (\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Hssaine"
+    ],
+    "name:fra_x_variant":[
+        "Hssaine (AR)",
+        "Hssaine (Arrondissement)"
+    ],
+    "qs:name":"Hssaine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545536,
+        "qs:id":628678
+    },
+    "wof:country":"MA",
+    "wof:created":1469051151,
+    "wof:geomhash":"dcfdb1b8ec59ad2a4cb1c43e931f0b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "localadmin_id":890416711,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":890416711,
+    "wof:lastmodified":1505343434,
+    "wof:name":"Hssaine",
+    "wof:parent_id":1108784811,
+    "wof:placetype":"localadmin",
+    "wof:population":163588,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.74351,
+    33.98769,
+    -6.74351,
+    33.98769
+],
+  "geometry": {"coordinates":[-6.74351,33.98769],"type":"Point"}
+}

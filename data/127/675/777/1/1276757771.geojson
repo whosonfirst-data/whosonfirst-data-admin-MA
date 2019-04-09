@@ -1,0 +1,73 @@
+{
+  "id": 1276757771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.20159,31.55936,-7.20159,31.55936",
+    "geom:latitude":31.55936,
+    "geom:longitude":-7.20159,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tarasste",
+    "gn:country_code":"MA",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529957,
+    "gn:latitude":31.55936,
+    "gn:longitude":-7.20159,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tarasste",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taraste",
+        "Traste",
+        "Tarast",
+        "Tarasste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529957
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bb2734ea55701447e7e3f9a6d958fc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1276757771,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276757771,
+    "wof:lastmodified":1537663423,
+    "wof:name":"Tarasste",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.20159,
+    31.55936,
+    -7.20159,
+    31.55936
+],
+  "geometry": {"coordinates":[-7.20159,31.55936],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360004357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1078,33.98686,-4.1078,33.98686",
+    "geom:latitude":33.98686,
+    "geom:longitude":-4.1078,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar es Sfaouat",
+    "gn:country_code":"MA",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551719,
+    "gn:latitude":33.98686,
+    "gn:longitude":-4.1078,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar es Sfaouat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es Sfaouate",
+        "Douar es Sfaouat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551719
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"47115f4f8335fffcadcbfca986e765a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1360004357,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1360004357,
+    "wof:lastmodified":1537663960,
+    "wof:name":"Douar es Sfaouat",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1078,
+    33.98686,
+    -4.1078,
+    33.98686
+],
+  "geometry": {"coordinates":[-4.1078,33.98686],"type":"Point"}
+}

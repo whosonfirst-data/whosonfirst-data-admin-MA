@@ -1,0 +1,72 @@
+{
+  "id": 1242587913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.25982,30.75605,-6.25982,30.75605",
+    "geom:latitude":30.75605,
+    "geom:longitude":-6.25982,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tatilt",
+    "gn:country_code":"MA",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531956,
+    "gn:latitude":30.75605,
+    "gn:longitude":-6.25982,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tatilt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafernt",
+        "Tafelt",
+        "Tatilt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531956
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"01f35e2dd581615f18d67054acff5adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1242587913,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242587913,
+    "wof:lastmodified":1537663481,
+    "wof:name":"Tatilt",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.25982,
+    30.75605,
+    -6.25982,
+    30.75605
+],
+  "geometry": {"coordinates":[-6.25982,30.75605],"type":"Point"}
+}

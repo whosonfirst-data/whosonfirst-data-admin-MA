@@ -1,0 +1,72 @@
+{
+  "id": 1193155439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.30655,34.5764,-5.30655,34.5764",
+    "geom:latitude":34.5764,
+    "geom:longitude":-5.30655,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Lkhazane",
+    "gn:country_code":"MA",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549950,
+    "gn:latitude":34.5764,
+    "gn:longitude":-5.30655,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lkhazane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khazane",
+        "El Khazzane",
+        "Douar Lkhazane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549950
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2d90a3d42a77c970e0ca30d2c890c893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1193155439,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1193155439,
+    "wof:lastmodified":1537663857,
+    "wof:name":"Douar Lkhazane",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.30655,
+    34.5764,
+    -5.30655,
+    34.5764
+],
+  "geometry": {"coordinates":[-5.30655,34.5764],"type":"Point"}
+}

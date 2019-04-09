@@ -1,0 +1,72 @@
+{
+  "id": 1276676777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.08899,34.09512,-5.08899,34.09512",
+    "geom:latitude":34.09512,
+    "geom:longitude":-5.08899,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Anounat",
+    "gn:country_code":"MA",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552098,
+    "gn:latitude":34.09512,
+    "gn:longitude":-5.08899,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Anounat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anounat",
+        "Douar Anounate",
+        "Douar Anounat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552098
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"479b6f6f34b3db10fea128d03143e377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1276676777,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1276676777,
+    "wof:lastmodified":1537663989,
+    "wof:name":"Douar Anounat",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.08899,
+    34.09512,
+    -5.08899,
+    34.09512
+],
+  "geometry": {"coordinates":[-5.08899,34.09512],"type":"Point"}
+}

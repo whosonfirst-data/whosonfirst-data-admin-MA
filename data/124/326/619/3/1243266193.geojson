@@ -1,0 +1,67 @@
+{
+  "id": 1243266193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.01302,35.13397,-3.01302,35.13397",
+    "geom:latitude":35.13397,
+    "geom:longitude":-3.01302,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Imaarnene",
+    "gn:country_code":"MA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961212,
+    "gn:latitude":35.13397,
+    "gn:longitude":-3.01302,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Imaarnene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961212
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c52806d3ea6ac07ab6d9daf81a3547c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1243266193,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243266193,
+    "wof:lastmodified":1537062581,
+    "wof:name":"Imaarnene",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.01302,
+    35.13397,
+    -3.01302,
+    35.13397
+],
+  "geometry": {"coordinates":[-3.01302,35.13397],"type":"Point"}
+}

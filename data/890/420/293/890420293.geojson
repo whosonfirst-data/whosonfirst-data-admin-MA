@@ -1,0 +1,78 @@
+{
+  "id": 890420293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37204,29.44286,-9.37204,29.44286",
+    "geom:latitude":29.44286,
+    "geom:longitude":-9.37204,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5179,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0637\u0631\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Ibdar"
+    ],
+    "name:fra_x_variant":[
+        "Ibdar (CR)",
+        "Ibdar (Commune Rurale)"
+    ],
+    "qs:name":"Ibdar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546047,
+        "qs:id":629188,
+        "wd:id":"Q5983792",
+        "wk:page":"Ibdar"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051330,
+    "wof:geomhash":"a969cbebf1fde973e4165656e483dbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "localadmin_id":890420293,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890420293,
+    "wof:lastmodified":1527792808,
+    "wof:name":"Ibdar",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"localadmin",
+    "wof:population":5179,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37204,
+    29.44286,
+    -9.37204,
+    29.44286
+],
+  "geometry": {"coordinates":[-9.37204,29.44286],"type":"Point"}
+}

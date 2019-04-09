@@ -1,0 +1,72 @@
+{
+  "id": 1243348193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96316,31.81542,-4.96316,31.81542",
+    "geom:latitude":31.81542,
+    "geom:longitude":-4.96316,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lhara",
+    "gn:country_code":"MA",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550177,
+    "gn:latitude":31.81542,
+    "gn:longitude":-4.96316,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Lhara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar el Hara",
+        "El Hara",
+        "Lhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550177
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"97aa6db545076cb539e806e0234064fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1243348193,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1243348193,
+    "wof:lastmodified":1537663869,
+    "wof:name":"Lhara",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96316,
+    31.81542,
+    -4.96316,
+    31.81542
+],
+  "geometry": {"coordinates":[-4.96316,31.81542],"type":"Point"}
+}

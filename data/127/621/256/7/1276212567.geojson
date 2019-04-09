@@ -1,0 +1,67 @@
+{
+  "id": 1276212567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48485,31.87778,-9.48485,31.87778",
+    "geom:latitude":31.87778,
+    "geom:longitude":-9.48485,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar El Karia",
+    "gn:country_code":"MA",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10904782,
+    "gn:latitude":31.87778,
+    "gn:longitude":-9.48485,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Karia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10904782
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"81e621ffb1d69c1aaf0e07a31f62c264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1276212567,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276212567,
+    "wof:lastmodified":1536941577,
+    "wof:name":"Douar El Karia",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48485,
+    31.87778,
+    -9.48485,
+    31.87778
+],
+  "geometry": {"coordinates":[-9.48485,31.87778],"type":"Point"}
+}

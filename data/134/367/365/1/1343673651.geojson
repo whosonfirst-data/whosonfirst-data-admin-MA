@@ -1,0 +1,67 @@
+{
+  "id": 1343673651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.68465,35.22181,-3.68465,35.22181",
+    "geom:latitude":35.22181,
+    "geom:longitude":-3.68465,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Aghir Ouguermam",
+    "gn:country_code":"MA",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560300,
+    "gn:latitude":35.22181,
+    "gn:longitude":-3.68465,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Aghir Ouguermam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560300
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c4e8f99db68ca408c0c1d18e9a1afe9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1343673651,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1343673651,
+    "wof:lastmodified":1536936730,
+    "wof:name":"Douar Aghir Ouguermam",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.68465,
+    35.22181,
+    -3.68465,
+    35.22181
+],
+  "geometry": {"coordinates":[-3.68465,35.22181],"type":"Point"}
+}

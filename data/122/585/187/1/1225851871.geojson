@@ -1,0 +1,67 @@
+{
+  "id": 1225851871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.56365,33.78716,-4.56365,33.78716",
+    "geom:latitude":33.78716,
+    "geom:longitude":-4.56365,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Fej El Ain",
+    "gn:country_code":"MA",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10977851,
+    "gn:latitude":33.78716,
+    "gn:longitude":-4.56365,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Fej El Ain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10977851
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"49214534a8e6593d27a70d1192d6ac20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1225851871,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1225851871,
+    "wof:lastmodified":1537004039,
+    "wof:name":"Fej El Ain",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.56365,
+    33.78716,
+    -4.56365,
+    33.78716
+],
+  "geometry": {"coordinates":[-4.56365,33.78716],"type":"Point"}
+}

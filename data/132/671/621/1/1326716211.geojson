@@ -1,0 +1,67 @@
+{
+  "id": 1326716211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.87368,31.07649,-8.87368,31.07649",
+    "geom:latitude":31.07649,
+    "geom:longitude":-8.87368,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Awsir",
+    "gn:country_code":"MA",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149303,
+    "gn:latitude":31.07649,
+    "gn:longitude":-8.87368,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Awsir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149303
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2f6b9815a1c286b6bb8c33a55b2be468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1326716211,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326716211,
+    "wof:lastmodified":1536719236,
+    "wof:name":"Awsir",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.87368,
+    31.07649,
+    -8.87368,
+    31.07649
+],
+  "geometry": {"coordinates":[-8.87368,31.07649],"type":"Point"}
+}

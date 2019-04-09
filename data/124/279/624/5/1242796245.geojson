@@ -1,0 +1,72 @@
+{
+  "id": 1242796245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.29339,29.18731,-10.29339,29.18731",
+    "geom:latitude":29.18731,
+    "geom:longitude":-10.29339,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dar Id Boused",
+    "gn:country_code":"MA",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552693,
+    "gn:latitude":29.18731,
+    "gn:longitude":-10.29339,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Id Boused",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Iddu-xait",
+        "Dar Idbu-xait",
+        "Dar Id Boused"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552693
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9d1dc0bda504c9753ced336114e4fb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1242796245,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242796245,
+    "wof:lastmodified":1537664010,
+    "wof:name":"Dar Id Boused",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.29339,
+    29.18731,
+    -10.29339,
+    29.18731
+],
+  "geometry": {"coordinates":[-10.29339,29.18731],"type":"Point"}
+}

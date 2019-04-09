@@ -1,0 +1,88 @@
+{
+  "id": 1125297293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.298,31.94939,-9.298,31.94939",
+    "geom:latitude":31.94939,
+    "geom:longitude":-9.298,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":10836,
+    "gn:population":10704,
+    "iso:country":"MA",
+    "lbl:latitude":31.94939,
+    "lbl:longitude":-9.298,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0634\u064a\u0643\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Atouabet"
+    ],
+    "name:fra_x_variant":[
+        "Atouabet (CR)",
+        "Atouabet (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546639,
+    "qs_pg:gn_pop":10836,
+    "qs_pg:name":"Atouabet",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629743,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546639,
+        "qs_pg:id":629743
+    },
+    "wof:country":"MA",
+    "wof:created":1497043217,
+    "wof:geomhash":"d7323c0dc2699542f73d08906a6e57b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "localadmin_id":1125297293,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1125297293,
+    "wof:lastmodified":1509387647,
+    "wof:name":"Atouabet",
+    "wof:parent_id":890445397,
+    "wof:placetype":"localadmin",
+    "wof:population":10704,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.298,
+    31.94939,
+    -9.298,
+    31.94939
+],
+  "geometry": {"coordinates":[-9.298,31.94939],"type":"Point"}
+}

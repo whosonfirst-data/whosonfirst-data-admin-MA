@@ -1,0 +1,72 @@
+{
+  "id": 1293893805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.46027,33.77281,-4.46027,33.77281",
+    "geom:latitude":33.77281,
+    "geom:longitude":-4.46027,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Al Qacba",
+    "gn:country_code":"MA",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550018,
+    "gn:latitude":33.77281,
+    "gn:longitude":-4.46027,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Al Qa\u00e7ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Qasba",
+        "El Kasba",
+        "Douar Al Qa\u00e7ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550018
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7a423bf0c0de5e8f00459d2bc5ee02bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1293893805,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293893805,
+    "wof:lastmodified":1537663860,
+    "wof:name":"Douar Al Qacba",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.46027,
+    33.77281,
+    -4.46027,
+    33.77281
+],
+  "geometry": {"coordinates":[-4.46027,33.77281],"type":"Point"}
+}

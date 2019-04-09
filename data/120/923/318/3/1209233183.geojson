@@ -1,0 +1,66 @@
+{
+  "id": 1209233183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.21974,29.14864,-10.21974,29.14864",
+    "geom:latitude":29.14864,
+    "geom:longitude":-10.21974,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Boul Nouit",
+    "gn:country_code":"MA",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554352,
+    "gn:latitude":29.14864,
+    "gn:longitude":-10.21974,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Boul Nouit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulenuit",
+        "Butenuit",
+        "Boul Nouit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554352
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ed572608b75fb7ae53acc5b21b407bfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209233183
+        }
+    ],
+    "wof:id":1209233183,
+    "wof:lastmodified":1537664049,
+    "wof:name":"Boul Nouit",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.21974,
+    29.14864,
+    -10.21974,
+    29.14864
+],
+  "geometry": {"coordinates":[-10.21974,29.14864],"type":"Point"}
+}

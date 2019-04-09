@@ -1,0 +1,72 @@
+{
+  "id": 1310024217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71044,31.19947,-7.71044,31.19947",
+    "geom:latitude":31.19947,
+    "geom:longitude":-7.71044,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tamatert",
+    "gn:country_code":"MA",
+    "gn:dem":1767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530800,
+    "gn:latitude":31.19947,
+    "gn:longitude":-7.71044,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamatert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taunaterte",
+        "Tamalert",
+        "Tamatert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530800
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"89a8ea7a17957cfdcd82cc250871b5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1310024217,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310024217,
+    "wof:lastmodified":1537663448,
+    "wof:name":"Tamatert",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71044,
+    31.19947,
+    -7.71044,
+    31.19947
+],
+  "geometry": {"coordinates":[-7.71044,31.19947],"type":"Point"}
+}

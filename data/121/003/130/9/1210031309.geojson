@@ -1,0 +1,72 @@
+{
+  "id": 1210031309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.00052,28.92984,-10.00052,28.92984",
+    "geom:latitude":28.92984,
+    "geom:longitude":-10.00052,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Asrir",
+    "gn:country_code":"MA",
+    "gn:dem":267,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557002,
+    "gn:latitude":28.92984,
+    "gn:longitude":-10.00052,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Asrir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asserir",
+        "Asrir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557002
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"871d74c0cfc128821b5a4b142273b4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1210031309,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1210031309,
+    "wof:lastmodified":1537664098,
+    "wof:name":"Asrir",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.00052,
+    28.92984,
+    -10.00052,
+    28.92984
+],
+  "geometry": {"coordinates":[-10.00052,28.92984],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890440639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.76858,31.00199,-9.76858,31.00199",
+    "geom:latitude":31.00199,
+    "geom:longitude":-9.76858,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5218,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u062f\u0632\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Timizguida Ouftas"
+    ],
+    "name:fra_x_variant":[
+        "Timizguida Ouftas (CR)",
+        "Timizguida Ouftas (Commune Rurale)"
+    ],
+    "qs:name":"Timizguida Ouftas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546666,
+        "qs:id":629771,
+        "wd:id":"Q20403848",
+        "wk:page":"Timizguida Ouftas"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052291,
+    "wof:geomhash":"b504db3ea0c8a2d27440598d0e7974c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "localadmin_id":890440639,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890440639,
+    "wof:lastmodified":1527727109,
+    "wof:name":"Timizguida Ouftas",
+    "wof:parent_id":890453939,
+    "wof:placetype":"localadmin",
+    "wof:population":5218,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.76858,
+    31.00199,
+    -9.76858,
+    31.00199
+],
+  "geometry": {"coordinates":[-9.76858,31.00199],"type":"Point"}
+}

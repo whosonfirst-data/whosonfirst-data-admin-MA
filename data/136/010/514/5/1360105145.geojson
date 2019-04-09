@@ -1,0 +1,67 @@
+{
+  "id": 1360105145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6399,31.74953,-7.6399,31.74953",
+    "geom:latitude":31.74953,
+    "geom:longitude":-7.6399,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Azib El Mansouri",
+    "gn:country_code":"MA",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909912,
+    "gn:latitude":31.74953,
+    "gn:longitude":-7.6399,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Azib El Mansouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909912
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"07f81454318a09776c0e714928cdee55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1360105145,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360105145,
+    "wof:lastmodified":1536917245,
+    "wof:name":"Azib El Mansouri",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6399,
+    31.74953,
+    -7.6399,
+    31.74953
+],
+  "geometry": {"coordinates":[-7.6399,31.74953],"type":"Point"}
+}

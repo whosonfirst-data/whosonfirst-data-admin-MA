@@ -1,0 +1,72 @@
+{
+  "id": 1259401189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01689,29.60915,-8.01689,29.60915",
+    "geom:latitude":29.60915,
+    "geom:longitude":-8.01689,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tiiggane",
+    "gn:country_code":"MA",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528417,
+    "gn:latitude":29.60915,
+    "gn:longitude":-8.01689,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiiggane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiggan",
+        "Tiiggan",
+        "Tiiggane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528417
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6e95e0ad360b59802dd68f9e82c8f82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1259401189,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1259401189,
+    "wof:lastmodified":1537663384,
+    "wof:name":"Tiiggane",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01689,
+    29.60915,
+    -8.01689,
+    29.60915
+],
+  "geometry": {"coordinates":[-8.01689,29.60915],"type":"Point"}
+}

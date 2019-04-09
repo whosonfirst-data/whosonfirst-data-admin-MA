@@ -1,0 +1,67 @@
+{
+  "id": 1327238457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.10971,33.86318,-4.10971,33.86318",
+    "geom:latitude":33.86318,
+    "geom:longitude":-4.10971,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Bou Iznane",
+    "gn:country_code":"MA",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10971856,
+    "gn:latitude":33.86318,
+    "gn:longitude":-4.10971,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bou Iznane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10971856
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00a4b1d152fa1e157ea4e50b2e1e62b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1327238457,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1327238457,
+    "wof:lastmodified":1536960678,
+    "wof:name":"Douar Bou Iznane",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.10971,
+    33.86318,
+    -4.10971,
+    33.86318
+],
+  "geometry": {"coordinates":[-4.10971,33.86318],"type":"Point"}
+}

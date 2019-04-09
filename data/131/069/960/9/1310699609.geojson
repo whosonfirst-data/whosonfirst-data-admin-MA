@@ -1,0 +1,70 @@
+{
+  "id": 1310699609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.72468,32.07185,-6.72468,32.07185",
+    "geom:latitude":32.07185,
+    "geom:longitude":-6.72468,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tichach",
+    "gn:country_code":"MA",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530493,
+    "gn:latitude":32.07185,
+    "gn:longitude":-6.72468,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tichach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamracht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530493
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7342a333233f58ad9856187b614ccec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310699609,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310699609,
+    "wof:lastmodified":1537663439,
+    "wof:name":"Tichach",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.72468,
+    32.07185,
+    -6.72468,
+    32.07185
+],
+  "geometry": {"coordinates":[-6.72468,32.07185],"type":"Point"}
+}

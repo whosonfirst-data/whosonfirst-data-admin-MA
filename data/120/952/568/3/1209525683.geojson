@@ -1,0 +1,66 @@
+{
+  "id": 1209525683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.49527,34.17764,-4.49527,34.17764",
+    "geom:latitude":34.17764,
+    "geom:longitude":-4.49527,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Boujenaat",
+    "gn:country_code":"MA",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552008,
+    "gn:latitude":34.17764,
+    "gn:longitude":-4.49527,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Boujenaat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boujemate",
+        "Douar Boujemat",
+        "Douar Boujenaat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552008
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fc79aab1b356b844f03409982245444f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525683
+        }
+    ],
+    "wof:id":1209525683,
+    "wof:lastmodified":1537663982,
+    "wof:name":"Douar Boujenaat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.49527,
+    34.17764,
+    -4.49527,
+    34.17764
+],
+  "geometry": {"coordinates":[-4.49527,34.17764],"type":"Point"}
+}

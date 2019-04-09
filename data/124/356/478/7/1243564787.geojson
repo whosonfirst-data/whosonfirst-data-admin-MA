@@ -1,0 +1,72 @@
+{
+  "id": 1243564787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.51311,35.41542,-5.51311,35.41542",
+    "geom:latitude":35.41542,
+    "geom:longitude":-5.51311,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ain Arouss",
+    "gn:country_code":"MA",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560932,
+    "gn:latitude":35.41542,
+    "gn:longitude":-5.51311,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ain Arouss",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Aros",
+        "A\u00efn Arouss",
+        "Ain Arouss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560932
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"488a6448b6e736392ed9cce128e9c8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1243564787,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243564787,
+    "wof:lastmodified":1537664224,
+    "wof:name":"Ain Arouss",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.51311,
+    35.41542000000001,
+    -5.51311,
+    35.41542000000001
+],
+  "geometry": {"coordinates":[-5.51311,35.41542000000001],"type":"Point"}
+}

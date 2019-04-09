@@ -1,0 +1,67 @@
+{
+  "id": 1276419099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.95006,29.45693,-9.95006,29.45693",
+    "geom:latitude":29.45693,
+    "geom:longitude":-9.95006,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Id Goud",
+    "gn:country_code":"MA",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100602,
+    "gn:latitude":29.45693,
+    "gn:longitude":-9.95006,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Goud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100602
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7768dd72e682e51d9d0cbe4af23e4935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1276419099,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276419099,
+    "wof:lastmodified":1536663802,
+    "wof:name":"Id Goud",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.95006,
+    29.45693,
+    -9.95006,
+    29.45693
+],
+  "geometry": {"coordinates":[-9.95006,29.45693],"type":"Point"}
+}

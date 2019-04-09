@@ -1,0 +1,65 @@
+{
+  "id": 1209425273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4031,32.82972,-4.4031,32.82972",
+    "geom:latitude":32.82972,
+    "geom:longitude":-4.4031,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ksar Jdid",
+    "gn:country_code":"MA",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543988,
+    "gn:latitude":32.82972,
+    "gn:longitude":-4.4031,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ksar Jdid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar-Jedid",
+        "Ksar Jdid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543988
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fd6f233e87e3297a4e5b7a8510f2c7d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425273
+        }
+    ],
+    "wof:id":1209425273,
+    "wof:lastmodified":1537663684,
+    "wof:name":"Ksar Jdid",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4031,
+    32.82972,
+    -4.4031,
+    32.82972
+],
+  "geometry": {"coordinates":[-4.4031,32.82972],"type":"Point"}
+}

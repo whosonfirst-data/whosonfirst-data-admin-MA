@@ -1,0 +1,67 @@
+{
+  "id": 1209815313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.05228,33.55379,-6.05228,33.55379",
+    "geom:latitude":33.55379,
+    "geom:longitude":-6.05228,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Souk Khemis Taliouine",
+    "gn:country_code":"MA",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10959313,
+    "gn:latitude":33.55379,
+    "gn:longitude":-6.05228,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Souk Khemis Taliouine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10959313
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"38fe7429141a1198892298203ebfe2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1209815313,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1209815313,
+    "wof:lastmodified":1536384470,
+    "wof:name":"Souk Khemis Taliouine",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.05228,
+    33.55379,
+    -6.05228,
+    33.55379
+],
+  "geometry": {"coordinates":[-6.05228,33.55379],"type":"Point"}
+}

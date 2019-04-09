@@ -1,0 +1,70 @@
+{
+  "id": 1276345699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18716,29.82155,-9.18716,29.82155",
+    "geom:latitude":29.82155,
+    "geom:longitude":-9.18716,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Awgounz",
+    "gn:country_code":"MA",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557585,
+    "gn:latitude":29.82155,
+    "gn:longitude":-9.18716,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Awgounz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aougounz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557585
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00eccbbdd40ea5150bff90336263b516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1276345699,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276345699,
+    "wof:lastmodified":1537664113,
+    "wof:name":"Awgounz",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18716,
+    29.82155,
+    -9.18716,
+    29.82155
+],
+  "geometry": {"coordinates":[-9.18716,29.82155],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209525635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.34448,35.73409,-5.34448,35.73409",
+    "geom:latitude":35.73409,
+    "geom:longitude":-5.34448,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hay Saniat Torris",
+    "gn:country_code":"MA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537731,
+    "gn:latitude":35.73409,
+    "gn:longitude":-5.34448,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Hay Saniat Torris",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sania Torres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537731
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a69fb77a5f1958b73f137620caa0148f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525635
+        }
+    ],
+    "wof:id":1209525635,
+    "wof:lastmodified":1537663526,
+    "wof:name":"Hay Saniat Torris",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.34448,
+    35.73409,
+    -5.34448,
+    35.73409
+],
+  "geometry": {"coordinates":[-5.34448,35.73409],"type":"Point"}
+}

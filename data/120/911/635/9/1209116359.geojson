@@ -1,0 +1,61 @@
+{
+  "id": 1209116359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.56691,31.33214,-6.56691,31.33214",
+    "geom:latitude":31.33214,
+    "geom:longitude":-6.56691,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Asseghmou",
+    "gn:country_code":"MA",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556903,
+    "gn:latitude":31.33214,
+    "gn:longitude":-6.56691,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Asseghmou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556903
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"24f2bb353b1835859d78a8e409860f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209116359
+        }
+    ],
+    "wof:id":1209116359,
+    "wof:lastmodified":1536297240,
+    "wof:name":"Asseghmou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.566910000000001,
+    31.332140000000006,
+    -6.566910000000001,
+    31.332140000000006
+],
+  "geometry": {"coordinates":[-6.56691,31.33214000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310516531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8502,31.86029,-6.8502,31.86029",
+    "geom:latitude":31.86029,
+    "geom:longitude":-6.8502,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mahda",
+    "gn:country_code":"MA",
+    "gn:dem":1081,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543188,
+    "gn:latitude":31.86029,
+    "gn:longitude":-6.8502,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mahda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahdata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543188
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bc3ffa18dda8117b77b5586b2f7bb2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310516531,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310516531,
+    "wof:lastmodified":1537663667,
+    "wof:name":"Mahda",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8502,
+    31.86029000000001,
+    -6.8502,
+    31.86029000000001
+],
+  "geometry": {"coordinates":[-6.8502,31.86029000000001],"type":"Point"}
+}

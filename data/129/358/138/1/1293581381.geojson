@@ -1,0 +1,67 @@
+{
+  "id": 1293581381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.54757,32.97926,-7.54757,32.97926",
+    "geom:latitude":32.97926,
+    "geom:longitude":-7.54757,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Azzouz",
+    "gn:country_code":"MA",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11434268,
+    "gn:latitude":32.97926,
+    "gn:longitude":-7.54757,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Oulad Azzouz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11434268
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e3f1b089862dddca794d33f838c8b589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1293581381,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293581381,
+    "wof:lastmodified":1536651632,
+    "wof:name":"Oulad Azzouz",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.54757,
+    32.97926,
+    -7.54757,
+    32.97926
+],
+  "geometry": {"coordinates":[-7.54757,32.97926],"type":"Point"}
+}

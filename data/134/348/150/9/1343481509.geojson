@@ -1,0 +1,67 @@
+{
+  "id": 1343481509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9145,31.82692,-8.9145,31.82692",
+    "geom:latitude":31.82692,
+    "geom:longitude":-8.9145,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rbaat Kaddour",
+    "gn:country_code":"MA",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10893220,
+    "gn:latitude":31.82692,
+    "gn:longitude":-8.9145,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Rbaat Kaddour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10893220
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0cd6aeadd61d3072298039f7a802dedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1343481509,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343481509,
+    "wof:lastmodified":1536716123,
+    "wof:name":"Rbaat Kaddour",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9145,
+    31.82692,
+    -8.9145,
+    31.82692
+],
+  "geometry": {"coordinates":[-8.9145,31.82692],"type":"Point"}
+}

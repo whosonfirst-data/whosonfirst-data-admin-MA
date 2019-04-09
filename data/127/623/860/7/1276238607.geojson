@@ -1,0 +1,73 @@
+{
+  "id": 1276238607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.79248,35.2425,-4.79248,35.2425",
+    "geom:latitude":35.2425,
+    "geom:longitude":-4.79248,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Amtar",
+    "gn:country_code":"MA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552594,
+    "gn:latitude":35.2425,
+    "gn:longitude":-4.79248,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Amtar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amter",
+        "M\u2019Ter",
+        "Dar Mter",
+        "Amtar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552594
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"86ce20d549f4cfe809c090b5ab37a2bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1276238607,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1276238607,
+    "wof:lastmodified":1537664008,
+    "wof:name":"Amtar",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.79248,
+    35.2425,
+    -4.79248,
+    35.2425
+],
+  "geometry": {"coordinates":[-4.79248,35.2425],"type":"Point"}
+}

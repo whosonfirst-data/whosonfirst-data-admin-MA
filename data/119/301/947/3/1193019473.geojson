@@ -1,0 +1,75 @@
+{
+  "id": 1193019473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7794,34.93632,-4.7794,34.93632",
+    "geom:latitude":34.93632,
+    "geom:longitude":-4.7794,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"151.0",
+    "gn:admin3_code":"1615103232.0",
+    "gn:asciiname":"Tamorot",
+    "gn:country_code":"MA",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2530516,
+    "gn:latitude":34.93632,
+    "gn:longitude":-4.7794,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Tamorot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zoco es Sebtz de Tamorot",
+        "Tamorote",
+        "Tamorot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530516,
+        "wk:page":"Tamorot"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"af6d61c3a3a65b3a3c266664f70b26dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1193019473,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1193019473,
+    "wof:lastmodified":1537663440,
+    "wof:name":"Tamorot",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7794,
+    34.93632,
+    -4.7794,
+    34.93632
+],
+  "geometry": {"coordinates":[-4.7794,34.93632],"type":"Point"}
+}

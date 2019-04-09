@@ -1,0 +1,67 @@
+{
+  "id": 1344140941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55066,30.2573,-9.55066,30.2573",
+    "geom:latitude":30.2573,
+    "geom:longitude":-9.55066,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Takad Oabla",
+    "gn:country_code":"MA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10374898,
+    "gn:latitude":30.2573,
+    "gn:longitude":-9.55066,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Takad Oabla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10374898
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d8aac31c9e49c0eeebdcb4a6e4f121aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1344140941,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1344140941,
+    "wof:lastmodified":1536759697,
+    "wof:name":"Takad Oabla",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55066,
+    30.2573,
+    -9.55066,
+    30.2573
+],
+  "geometry": {"coordinates":[-9.55066,30.2573],"type":"Point"}
+}

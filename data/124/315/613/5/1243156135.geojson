@@ -1,0 +1,67 @@
+{
+  "id": 1243156135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.51219,30.49159,-9.51219,30.49159",
+    "geom:latitude":30.49159,
+    "geom:longitude":-9.51219,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tounkrim",
+    "gn:country_code":"MA",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8542118,
+    "gn:latitude":30.49159,
+    "gn:longitude":-9.51219,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tounkrim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8542118
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c626b2b8063b740948f94fd91a61ea5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1243156135,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243156135,
+    "wof:lastmodified":1536727520,
+    "wof:name":"Tounkrim",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.51219,
+    30.49159,
+    -9.51219,
+    30.49159
+],
+  "geometry": {"coordinates":[-9.51219,30.49159],"type":"Point"}
+}

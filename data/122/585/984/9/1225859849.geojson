@@ -1,0 +1,67 @@
+{
+  "id": 1225859849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77127,30.79211,-7.77127,30.79211",
+    "geom:latitude":30.79211,
+    "geom:longitude":-7.77127,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abane",
+    "gn:country_code":"MA",
+    "gn:dem":1919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562195,
+    "gn:latitude":30.79211,
+    "gn:longitude":-7.77127,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Abane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562195
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3a529c03282304a08b6faa456bbdd8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1225859849,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225859849,
+    "wof:lastmodified":1536992433,
+    "wof:name":"Abane",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77127,
+    30.79211,
+    -7.77127,
+    30.79211
+],
+  "geometry": {"coordinates":[-7.77127,30.79211],"type":"Point"}
+}

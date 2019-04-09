@@ -1,0 +1,67 @@
+{
+  "id": 1242959081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15742,31.24052,-9.15742,31.24052",
+    "geom:latitude":31.24052,
+    "geom:longitude":-9.15742,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tamda Ounassis",
+    "gn:country_code":"MA",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11148948,
+    "gn:latitude":31.24052,
+    "gn:longitude":-9.15742,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tamda Ounassis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11148948
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"390789b49fb2b8db764ba8dfc6d18200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1242959081,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242959081,
+    "wof:lastmodified":1537010556,
+    "wof:name":"Tamda Ounassis",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15742,
+    31.24052,
+    -9.15742,
+    31.24052
+],
+  "geometry": {"coordinates":[-9.15742,31.24052],"type":"Point"}
+}

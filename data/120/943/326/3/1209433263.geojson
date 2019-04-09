@@ -1,0 +1,64 @@
+{
+  "id": 1209433263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98658,31.18394,-8.98658,31.18394",
+    "geom:latitude":31.18394,
+    "geom:longitude":-8.98658,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Zawyat Mellal",
+    "gn:country_code":"MA",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542630,
+    "gn:latitude":31.18394,
+    "gn:longitude":-8.98658,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zawyat Mellal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia Mellal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542630
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2c530a13ff559e23ecd3803896a69bf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209433263
+        }
+    ],
+    "wof:id":1209433263,
+    "wof:lastmodified":1537663658,
+    "wof:name":"Zawyat Mellal",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98658,
+    31.18394,
+    -8.98658,
+    31.18394
+],
+  "geometry": {"coordinates":[-8.98658,31.18394],"type":"Point"}
+}

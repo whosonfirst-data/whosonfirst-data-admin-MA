@@ -1,0 +1,70 @@
+{
+  "id": 1343571513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.30788,34.01154,-4.30788,34.01154",
+    "geom:latitude":34.01154,
+    "geom:longitude":-4.30788,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ain Boumahdi",
+    "gn:country_code":"MA",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560910,
+    "gn:latitude":34.01154,
+    "gn:longitude":-4.30788,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ain Boumahdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Bou Mahdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560910
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"89e3c94d93c6b40cd8acf30fe3aed1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1343571513,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343571513,
+    "wof:lastmodified":1537664222,
+    "wof:name":"Douar Ain Boumahdi",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.30788,
+    34.01154,
+    -4.30788,
+    34.01154
+],
+  "geometry": {"coordinates":[-4.30788,34.01154],"type":"Point"}
+}

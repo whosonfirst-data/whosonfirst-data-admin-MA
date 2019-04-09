@@ -1,0 +1,70 @@
+{
+  "id": 1226360843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.42309,31.16726,-4.42309,31.16726",
+    "geom:latitude":31.16726,
+    "geom:longitude":-4.42309,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tabhet Al Ghir",
+    "gn:country_code":"MA",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532231,
+    "gn:latitude":31.16726,
+    "gn:longitude":-4.42309,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tabhet Al Ghir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabhet el Rhir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532231
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"10d6e4df2dc3d9b3e53a03b129cbfc49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1226360843,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226360843,
+    "wof:lastmodified":1537663490,
+    "wof:name":"Tabhet Al Ghir",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.42309,
+    31.16726,
+    -4.42309,
+    31.16726
+],
+  "geometry": {"coordinates":[-4.42309,31.16726],"type":"Point"}
+}

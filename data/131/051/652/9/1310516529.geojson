@@ -1,0 +1,73 @@
+{
+  "id": 1310516529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94512,34.61328,-5.94512,34.61328",
+    "geom:latitude":34.61328,
+    "geom:longitude":-5.94512,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Mghaytene Oulad Msallam",
+    "gn:country_code":"MA",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551383,
+    "gn:latitude":34.61328,
+    "gn:longitude":-5.94512,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Mghaytene Oulad Msallam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mghiten Ouled Msellem",
+        "Douar Oulad Messalem",
+        "Douar Mghaytene Oulad Msallam",
+        "Oulad Messalem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551383
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a49bc2a3cb2fea8fdde99e6169cf6908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1310516529,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1310516529,
+    "wof:lastmodified":1537663934,
+    "wof:name":"Douar Mghaytene Oulad Msallam",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94512,
+    34.61328,
+    -5.94512,
+    34.61328
+],
+  "geometry": {"coordinates":[-5.94512,34.61328],"type":"Point"}
+}

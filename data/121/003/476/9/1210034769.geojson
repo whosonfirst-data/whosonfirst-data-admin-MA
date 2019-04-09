@@ -1,0 +1,74 @@
+{
+  "id": 1210034769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58757,32.11386,-8.58757,32.11386",
+    "geom:latitude":32.11386,
+    "geom:longitude":-8.58757,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Zghiouir",
+    "gn:country_code":"MA",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551193,
+    "gn:latitude":32.11386,
+    "gn:longitude":-8.58757,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Zghiouir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zguiouir",
+        "Srhiouir",
+        "Douar Sgh\u00edouir",
+        "Douar Srhiouir",
+        "Douar Zghiouir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551193
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"60ad19a281b1f0638ea0a6c43dde9d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1210034769,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1210034769,
+    "wof:lastmodified":1537663918,
+    "wof:name":"Douar Zghiouir",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58757,
+    32.11386,
+    -8.58757,
+    32.11386
+],
+  "geometry": {"coordinates":[-8.58757,32.11386],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209834101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.59624,34.04173,-4.59624,34.04173",
+    "geom:latitude":34.04173,
+    "geom:longitude":-4.59624,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Ghraba",
+    "gn:country_code":"MA",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571660,
+    "gn:latitude":34.04173,
+    "gn:longitude":-4.59624,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Ghraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Kherba",
+        "El Ghraba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571660
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6f3532a9c81eb1c9ff722b6f3b1e66ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1209834101,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1209834101,
+    "wof:lastmodified":1537664278,
+    "wof:name":"El Ghraba",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.59624,
+    34.04173,
+    -4.59624,
+    34.04173
+],
+  "geometry": {"coordinates":[-4.59624,34.04173],"type":"Point"}
+}

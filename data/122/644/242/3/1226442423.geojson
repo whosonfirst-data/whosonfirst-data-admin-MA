@@ -1,0 +1,67 @@
+{
+  "id": 1226442423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.53447,34.36698,-6.53447,34.36698",
+    "geom:latitude":34.36698,
+    "geom:longitude":-6.53447,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhiliq",
+    "gn:country_code":"MA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10921272,
+    "gn:latitude":34.36698,
+    "gn:longitude":-6.53447,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bhiliq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921272
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dafb6e4b7777cb0b04a3b841424393d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1226442423,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1226442423,
+    "wof:lastmodified":1536650066,
+    "wof:name":"Bhiliq",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.53447,
+    34.36698,
+    -6.53447,
+    34.36698
+],
+  "geometry": {"coordinates":[-6.53447,34.36698],"type":"Point"}
+}

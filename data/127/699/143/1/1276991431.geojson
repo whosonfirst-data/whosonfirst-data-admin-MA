@@ -1,0 +1,72 @@
+{
+  "id": 1276991431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.13129,29.20153,-10.13129,29.20153",
+    "geom:latitude":29.20153,
+    "geom:longitude":-10.13129,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ahel Horsi",
+    "gn:country_code":"MA",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561132,
+    "gn:latitude":29.20153,
+    "gn:longitude":-10.13129,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ahel Horsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahel Jors",
+        "Ahel Hors",
+        "Ahel Horsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561132
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8f74d5d4457616fcf50b6d38b91a9ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1276991431,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276991431,
+    "wof:lastmodified":1537664228,
+    "wof:name":"Ahel Horsi",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.13129,
+    29.20153,
+    -10.13129,
+    29.20153
+],
+  "geometry": {"coordinates":[-10.13129,29.20153],"type":"Point"}
+}

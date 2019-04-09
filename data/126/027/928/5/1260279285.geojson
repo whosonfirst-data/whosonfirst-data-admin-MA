@@ -1,0 +1,67 @@
+{
+  "id": 1260279285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86813,32.3655,-8.86813,32.3655",
+    "geom:latitude":32.3655,
+    "geom:longitude":-8.86813,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jbouda",
+    "gn:country_code":"MA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10638593,
+    "gn:latitude":32.3655,
+    "gn:longitude":-8.86813,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Jbouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10638593
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c186604c10b0fd3c54993d3af318ab3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1260279285,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1260279285,
+    "wof:lastmodified":1536717945,
+    "wof:name":"Jbouda",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86813,
+    32.3655,
+    -8.86813,
+    32.3655
+],
+  "geometry": {"coordinates":[-8.86813,32.3655],"type":"Point"}
+}

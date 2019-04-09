@@ -1,0 +1,71 @@
+{
+  "id": 1344067251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.09005,31.43372,-7.09005,31.43372",
+    "geom:latitude":31.43372,
+    "geom:longitude":-7.09005,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Imechkioun",
+    "gn:country_code":"MA",
+    "gn:dem":1989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546310,
+    "gn:latitude":31.43372,
+    "gn:longitude":-7.09005,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imechkioun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imekioun",
+        "Imechkioun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546310
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"467ffd0bb11a0fa593724c15c065e4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1344067251,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1344067251,
+    "wof:lastmodified":1537663751,
+    "wof:name":"Imechkioun",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.09005,
+    31.43372,
+    -7.09005,
+    31.43372
+],
+  "geometry": {"coordinates":[-7.09005,31.43372],"type":"Point"}
+}

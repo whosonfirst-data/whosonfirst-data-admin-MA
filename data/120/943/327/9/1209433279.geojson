@@ -1,0 +1,66 @@
+{
+  "id": 1209433279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.93289,33.91143,-5.93289,33.91143",
+    "geom:latitude":33.91143,
+    "geom:longitude":-5.93289,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Ouldja",
+    "gn:country_code":"MA",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549459,
+    "gn:latitude":33.91143,
+    "gn:longitude":-5.93289,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Ouldja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Halli El Oulja",
+        "El Ouldja",
+        "El Oulja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549459
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"68ab1b59ca3c2090cba1119b0357f55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209433279
+        }
+    ],
+    "wof:id":1209433279,
+    "wof:lastmodified":1537663835,
+    "wof:name":"El Ouldja",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.93289,
+    33.91143,
+    -5.93289,
+    33.91143
+],
+  "geometry": {"coordinates":[-5.93289,33.91143],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310120939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.09885,32.25441,-6.09885,32.25441",
+    "geom:latitude":32.25441,
+    "geom:longitude":-6.09885,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Ououchene",
+    "gn:country_code":"MA",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559228,
+    "gn:latitude":32.25441,
+    "gn:longitude":-6.09885,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Ououchene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ououch\u00e8n",
+        "A\u00eft Ououchene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559228
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6027bc51576383e5c63683c7e6f854df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310120939,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310120939,
+    "wof:lastmodified":1537664159,
+    "wof:name":"Ait Ououchene",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.09885,
+    32.25441,
+    -6.09885,
+    32.25441
+],
+  "geometry": {"coordinates":[-6.09885,32.25441],"type":"Point"}
+}

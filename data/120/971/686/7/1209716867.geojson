@@ -1,0 +1,67 @@
+{
+  "id": 1209716867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0075,34.18646,-5.0075,34.18646",
+    "geom:latitude":34.18646,
+    "geom:longitude":-5.0075,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dar Oulad Zait",
+    "gn:country_code":"MA",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025438,
+    "gn:latitude":34.18646,
+    "gn:longitude":-5.0075,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Oulad Zait",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025438
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b47c45a6cb9f633ebab129822a57b143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1209716867,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1209716867,
+    "wof:lastmodified":1536388171,
+    "wof:name":"Dar Oulad Zait",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0075,
+    34.18646,
+    -5.0075,
+    34.18646
+],
+  "geometry": {"coordinates":[-5.0075,34.18646],"type":"Point"}
+}

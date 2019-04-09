@@ -1,0 +1,66 @@
+{
+  "id": 1209633763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25941,32.43407,-8.25941,32.43407",
+    "geom:latitude":32.43407,
+    "geom:longitude":-8.25941,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tadla",
+    "gn:country_code":"MA",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532029,
+    "gn:latitude":32.43407,
+    "gn:longitude":-8.25941,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tadla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Che\u00efkh Tadla",
+        "A\u00eft Cherki Tadla",
+        "Tadla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532029
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"12feee6222dd20a4a61eb8eb73282702",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633763
+        }
+    ],
+    "wof:id":1209633763,
+    "wof:lastmodified":1537663483,
+    "wof:name":"Tadla",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25941,
+    32.43407,
+    -8.25941,
+    32.43407
+],
+  "geometry": {"coordinates":[-8.25941,32.43407],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276247387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.70875,31.75395,-7.70875,31.75395",
+    "geom:latitude":31.75395,
+    "geom:longitude":-7.70875,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ben Zadi",
+    "gn:country_code":"MA",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555499,
+    "gn:latitude":31.75395,
+    "gn:longitude":-7.70875,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ben Zadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Mohammed Zadi",
+        "Ben Zadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555499
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c34aca37ef35792c12c0e104725af730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1276247387,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276247387,
+    "wof:lastmodified":1537664065,
+    "wof:name":"Ben Zadi",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.70875,
+    31.75395,
+    -7.70875,
+    31.75395
+],
+  "geometry": {"coordinates":[-7.70875,31.75395],"type":"Point"}
+}

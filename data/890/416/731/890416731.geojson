@@ -1,0 +1,77 @@
+{
+  "id": 890416731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96836,29.7562,-7.96836,29.7562",
+    "geom:latitude":29.7562,
+    "geom:longitude":-7.96836,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":15192,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0645  \u0632\u0643\u064a\u062f (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Tata"
+    ],
+    "name:fra_x_variant":[
+        "Tata (MU)",
+        "Tata (Commune Urbaine)"
+    ],
+    "qs:name":"Tata",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":425,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545618,
+        "qs:id":628759,
+        "wk:page":"Tata"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051158,
+    "wof:geomhash":"46ff2fadf33dbb40514e0002ea917b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "localadmin_id":890416731,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":890416731,
+    "wof:lastmodified":1527792798,
+    "wof:name":"Tata",
+    "wof:parent_id":890453851,
+    "wof:placetype":"localadmin",
+    "wof:population":15192,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96836,
+    29.7562,
+    -7.96836,
+    29.7562
+],
+  "geometry": {"coordinates":[-7.96836,29.7562],"type":"Point"}
+}

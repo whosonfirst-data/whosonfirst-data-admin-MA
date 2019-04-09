@@ -1,0 +1,78 @@
+{
+  "id": 890441053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.17063,34.95995,-3.17063,34.95995",
+    "geom:latitude":34.95995,
+    "geom:longitude":-3.17063,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5979,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0632\u0637\u0648\u0637\u064a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Tiztoutine"
+    ],
+    "name:fra_x_variant":[
+        "Tiztoutine (CR)",
+        "Tiztoutine (Commune Rurale)"
+    ],
+    "qs:name":"Tiztoutine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545858,
+        "qs:id":629002,
+        "wd:id":"Q3530003",
+        "wk:page":"Tiztoutine"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052307,
+    "wof:geomhash":"db71b5e336b685afe2795ae50829d79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "localadmin_id":890441053,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890441053,
+    "wof:lastmodified":1527727228,
+    "wof:name":"Tiztoutine",
+    "wof:parent_id":890455271,
+    "wof:placetype":"localadmin",
+    "wof:population":5979,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.17063,
+    34.95995,
+    -3.17063,
+    34.95995
+],
+  "geometry": {"coordinates":[-3.17063,34.95995],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276782307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67902,31.89184,-8.67902,31.89184",
+    "geom:latitude":31.89184,
+    "geom:longitude":-8.67902,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Hammida",
+    "gn:country_code":"MA",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539761,
+    "gn:latitude":31.89184,
+    "gn:longitude":-8.67902,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Hammida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Che\u00efkh Mohammed Hamida",
+        "Douar Che\u00efkh Mohammed Hamida",
+        "Oulad Hammida",
+        "Oulad Hamida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539761
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"603331606a4b77e18974d1a82a39a565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1276782307,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1276782307,
+    "wof:lastmodified":1537663587,
+    "wof:name":"Oulad Hammida",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67902,
+    31.89184,
+    -8.67902,
+    31.89184
+],
+  "geometry": {"coordinates":[-8.67902,31.89184],"type":"Point"}
+}

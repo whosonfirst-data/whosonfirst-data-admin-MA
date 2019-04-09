@@ -1,0 +1,67 @@
+{
+  "id": 1326814321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51078,30.09778,-8.51078,30.09778",
+    "geom:latitude":30.09778,
+    "geom:longitude":-8.51078,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Wawgmout",
+    "gn:country_code":"MA",
+    "gn:dem":1690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11142960,
+    "gn:latitude":30.09778,
+    "gn:longitude":-8.51078,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Wawgmout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11142960
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ccc1c2efe3f39ba10e5d5b87bab16212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1326814321,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1326814321,
+    "wof:lastmodified":1537071552,
+    "wof:name":"Wawgmout",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51078,
+    30.09778,
+    -8.51078,
+    30.09778
+],
+  "geometry": {"coordinates":[-8.51078,30.09778],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343272135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.95366,34.97083,-5.95366,34.97083",
+    "geom:latitude":34.97083,
+    "geom:longitude":-5.95366,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Labnanda",
+    "gn:country_code":"MA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550580,
+    "gn:latitude":34.97083,
+    "gn:longitude":-5.95366,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Labnanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Benanda",
+        "Douar el Benanda",
+        "El Bnandat",
+        "El Benanda",
+        "Douar Labnanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550580
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aa7d1f2686814102f451546bfb3c6453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1343272135,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343272135,
+    "wof:lastmodified":1537663888,
+    "wof:name":"Douar Labnanda",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.95366,
+    34.97083,
+    -5.95366,
+    34.97083
+],
+  "geometry": {"coordinates":[-5.95366,34.97083],"type":"Point"}
+}

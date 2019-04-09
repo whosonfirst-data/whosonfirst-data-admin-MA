@@ -1,0 +1,78 @@
+{
+  "id": 890423987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.04424,35.37009,-5.04424,35.37009",
+    "geom:latitude":35.37009,
+    "geom:longitude":-5.04424,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":11711,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0627\u0634\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Tizgane"
+    ],
+    "name:fra_x_variant":[
+        "Tizgane (CR)",
+        "Tizgane (Commune Rurale)"
+    ],
+    "qs:name":"Tizgane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546446,
+        "qs:id":629548,
+        "wd:id":"Q7810515",
+        "wk:page":"Tizgane"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051524,
+    "wof:geomhash":"4f413a4153a9657d1d90f897869a5209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "localadmin_id":890423987,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":890423987,
+    "wof:lastmodified":1527729728,
+    "wof:name":"Tizgane",
+    "wof:parent_id":890453883,
+    "wof:placetype":"localadmin",
+    "wof:population":11711,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.04424,
+    35.37009,
+    -5.04424,
+    35.37009
+],
+  "geometry": {"coordinates":[-5.04424,35.37009],"type":"Point"}
+}

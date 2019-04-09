@@ -1,0 +1,71 @@
+{
+  "id": 1343373879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.22838,29.1777,-10.22838,29.1777",
+    "geom:latitude":29.1777,
+    "geom:longitude":-10.22838,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tikensar",
+    "gn:country_code":"MA",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528381,
+    "gn:latitude":29.1777,
+    "gn:longitude":-10.22838,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tikensar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tikenzar",
+        "Tikensar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528381
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b8524adf27cf3fe17b10d16d436b141d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1343373879,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343373879,
+    "wof:lastmodified":1537663383,
+    "wof:name":"Tikensar",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.22838,
+    29.1777,
+    -10.22838,
+    29.1777
+],
+  "geometry": {"coordinates":[-10.22838,29.1777],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209329465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03,30.08,-9.03,30.08",
+    "geom:latitude":30.08,
+    "geom:longitude":-9.03,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tiguijjout",
+    "gn:country_code":"MA",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528451,
+    "gn:latitude":30.08,
+    "gn:longitude":-9.03,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiguijjout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teguijant",
+        "Tiguijjoute",
+        "Tiguijjout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528451
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c1d1f1f62439939ed652be4d07fa6b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329465
+        }
+    ],
+    "wof:id":1209329465,
+    "wof:lastmodified":1537663386,
+    "wof:name":"Tiguijjout",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03,
+    30.08,
+    -9.03,
+    30.08
+],
+  "geometry": {"coordinates":[-9.03,30.08],"type":"Point"}
+}

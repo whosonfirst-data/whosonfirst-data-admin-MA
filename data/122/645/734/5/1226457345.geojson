@@ -1,0 +1,71 @@
+{
+  "id": 1226457345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.82051,31.9862,-6.82051,31.9862",
+    "geom:latitude":31.9862,
+    "geom:longitude":-6.82051,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bouchwari",
+    "gn:country_code":"MA",
+    "gn:dem":731,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555031,
+    "gn:latitude":31.9862,
+    "gn:longitude":-6.82051,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bouchwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Chouari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555031
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bfefb8f3354b763ead6c9d6ed6d5cba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226457345,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226457345,
+    "wof:lastmodified":1537664057,
+    "wof:name":"Bouchwari",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.82051,
+    31.9862,
+    -6.82051,
+    31.9862
+],
+  "geometry": {"coordinates":[-6.82051,31.9862],"type":"Point"}
+}

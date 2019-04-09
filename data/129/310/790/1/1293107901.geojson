@@ -1,0 +1,67 @@
+{
+  "id": 1293107901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.22619,35.52724,-5.22619,35.52724",
+    "geom:latitude":35.52724,
+    "geom:longitude":-5.22619,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Houmat Leghrayes",
+    "gn:country_code":"MA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956011,
+    "gn:latitude":35.52724,
+    "gn:longitude":-5.22619,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Houmat Leghrayes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956011
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8361f791e6f1ae841c5f647410afa4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1293107901,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293107901,
+    "wof:lastmodified":1536836181,
+    "wof:name":"Houmat Leghrayes",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.22619,
+    35.52724,
+    -5.22619,
+    35.52724
+],
+  "geometry": {"coordinates":[-5.22619,35.52724],"type":"Point"}
+}

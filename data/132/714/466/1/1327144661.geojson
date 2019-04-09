@@ -1,0 +1,72 @@
+{
+  "id": 1327144661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78452,30.59237,-8.78452,30.59237",
+    "geom:latitude":30.59237,
+    "geom:longitude":-8.78452,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Agadir n'Tahiounit",
+    "gn:country_code":"MA",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561594,
+    "gn:latitude":30.59237,
+    "gn:longitude":-8.78452,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agadir n\u2019Tahiounit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agadir n\u2019 Tahiounine",
+        "Agadir n\u2019 Tahiounit",
+        "Agadir n\u2019Tahiounit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561594
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5d480bb755f9529a1ace069ab430088d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1327144661,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327144661,
+    "wof:lastmodified":1537664242,
+    "wof:name":"Agadir n'Tahiounit",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78452,
+    30.59237000000001,
+    -8.78452,
+    30.59237000000001
+],
+  "geometry": {"coordinates":[-8.78452,30.59237000000001],"type":"Point"}
+}

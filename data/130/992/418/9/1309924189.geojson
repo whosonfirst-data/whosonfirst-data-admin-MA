@@ -1,0 +1,70 @@
+{
+  "id": 1309924189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.47672,30.26282,-6.47672,30.26282",
+    "geom:latitude":30.26282,
+    "geom:longitude":-6.47672,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Gloa",
+    "gn:country_code":"MA",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550411,
+    "gn:latitude":30.26282,
+    "gn:longitude":-6.47672,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Gloa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Glo\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550411
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9d035653213dca550d0ba55a05700060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1309924189,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309924189,
+    "wof:lastmodified":1537663880,
+    "wof:name":"Al Gloa",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.47672,
+    30.26282,
+    -6.47672,
+    30.26282
+],
+  "geometry": {"coordinates":[-6.47672,30.26282],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293109031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.01928,33.96271,-4.01928,33.96271",
+    "geom:latitude":33.96271,
+    "geom:longitude":-4.01928,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oufnane",
+    "gn:country_code":"MA",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540649,
+    "gn:latitude":33.96271,
+    "gn:longitude":-4.01928,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oufnane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oufnane",
+        "Oufnane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540649
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d90e4518cf87c405c1f3ef29d42da026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1293109031,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293109031,
+    "wof:lastmodified":1537663625,
+    "wof:name":"Oufnane",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.01928,
+    33.96270999999999,
+    -4.01928,
+    33.96270999999999
+],
+  "geometry": {"coordinates":[-4.01928,33.96270999999999],"type":"Point"}
+}

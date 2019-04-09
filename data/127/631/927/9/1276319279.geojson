@@ -1,0 +1,67 @@
+{
+  "id": 1276319279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83255,31.14375,-8.83255,31.14375",
+    "geom:latitude":31.14375,
+    "geom:longitude":-8.83255,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bouyinbain",
+    "gn:country_code":"MA",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149295,
+    "gn:latitude":31.14375,
+    "gn:longitude":-8.83255,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bouyinba\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149295
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ce86d3b2e27844819eb7add78e7c8591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1276319279,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276319279,
+    "wof:lastmodified":1536797727,
+    "wof:name":"Bouyinbain",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83255,
+    31.14375,
+    -8.83255,
+    31.14375
+],
+  "geometry": {"coordinates":[-8.83255,31.14375],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259397525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18277,30.20143,-7.18277,30.20143",
+    "geom:latitude":30.20143,
+    "geom:longitude":-7.18277,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Zaouiat Maouast",
+    "gn:country_code":"MA",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526325,
+    "gn:latitude":30.20143,
+    "gn:longitude":-7.18277,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zaouiat Maouast",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia Maouas",
+        "Zawyat Mawast",
+        "Zaouiat Maouast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526325
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e4976791a6b8e077262b5579e8f53f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1259397525,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1259397525,
+    "wof:lastmodified":1537663323,
+    "wof:name":"Zaouiat Maouast",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18277,
+    30.20143,
+    -7.18277,
+    30.20143
+],
+  "geometry": {"coordinates":[-7.18277,30.20143],"type":"Point"}
+}

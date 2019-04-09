@@ -1,0 +1,71 @@
+{
+  "id": 1226550067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.73844,35.07353,-4.73844,35.07353",
+    "geom:latitude":35.07353,
+    "geom:longitude":-4.73844,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Meleha",
+    "gn:country_code":"MA",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542678,
+    "gn:latitude":35.07353,
+    "gn:longitude":-4.73844,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Meleha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melouha",
+        "Meleha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542678
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f686f14ed58d48ec90e426234779c0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1226550067,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226550067,
+    "wof:lastmodified":1537663659,
+    "wof:name":"Meleha",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.73844,
+    35.07353,
+    -4.73844,
+    35.07353
+],
+  "geometry": {"coordinates":[-4.73844,35.07353],"type":"Point"}
+}

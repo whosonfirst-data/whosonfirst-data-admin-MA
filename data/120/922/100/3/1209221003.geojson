@@ -1,0 +1,61 @@
+{
+  "id": 1209221003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.68119,34.46572,-4.68119,34.46572",
+    "geom:latitude":34.46572,
+    "geom:longitude":-4.68119,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dar Ettaliba",
+    "gn:country_code":"MA",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543185,
+    "gn:latitude":34.46572,
+    "gn:longitude":-4.68119,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Dar Ettaliba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543185
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fe7afe626c7c370023ffd2b339e2cd6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209221003
+        }
+    ],
+    "wof:id":1209221003,
+    "wof:lastmodified":1536293963,
+    "wof:name":"Dar Ettaliba",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.68119,
+    34.465720000000005,
+    -4.68119,
+    34.465720000000005
+],
+  "geometry": {"coordinates":[-4.68119,34.46572],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243353507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19276,30.62966,-7.19276,30.62966",
+    "geom:latitude":30.62966,
+    "geom:longitude":-7.19276,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tiferwine",
+    "gn:country_code":"MA",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921740,
+    "gn:latitude":30.62966,
+    "gn:longitude":-7.19276,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiferwine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921740
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"31de5038595970d9a2752e9917275bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1243353507,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243353507,
+    "wof:lastmodified":1536940244,
+    "wof:name":"Tiferwine",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19276,
+    30.62966,
+    -7.19276,
+    30.62966
+],
+  "geometry": {"coordinates":[-7.19276,30.62966],"type":"Point"}
+}

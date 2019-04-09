@@ -1,0 +1,61 @@
+{
+  "id": 1209333059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.21286,29.18328,-10.21286,29.18328",
+    "geom:latitude":29.18328,
+    "geom:longitude":-10.21286,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Mers",
+    "gn:country_code":"MA",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549607,
+    "gn:latitude":29.18328,
+    "gn:longitude":-10.21286,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Mers",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549607
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"48af24ee728822e848e4078d7ad5e1cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333059
+        }
+    ],
+    "wof:id":1209333059,
+    "wof:lastmodified":1536290311,
+    "wof:name":"El Mers",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.21286,
+    29.18328,
+    -10.21286,
+    29.18328
+],
+  "geometry": {"coordinates":[-10.21286,29.18328],"type":"Point"}
+}

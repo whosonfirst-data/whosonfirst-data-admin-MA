@@ -1,0 +1,73 @@
+{
+  "id": 1343373797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.80377,34.31616,-5.80377,34.31616",
+    "geom:latitude":34.31616,
+    "geom:longitude":-5.80377,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Assalja",
+    "gn:country_code":"MA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552090,
+    "gn:latitude":34.31616,
+    "gn:longitude":-5.80377,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Assalja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u00e2salja",
+        "Douar Chaaja",
+        "Douar Chaajja",
+        "Douar Assalja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552090
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c4d02ff7986e165c0fb05bcd4c17d11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1343373797,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1343373797,
+    "wof:lastmodified":1537663988,
+    "wof:name":"Douar Assalja",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.80377,
+    34.31616,
+    -5.80377,
+    34.31616
+],
+  "geometry": {"coordinates":[-5.80377,34.31616],"type":"Point"}
+}

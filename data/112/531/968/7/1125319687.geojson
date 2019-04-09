@@ -1,0 +1,88 @@
+{
+  "id": 1125319687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.24115,35.08348,-2.24115,35.08348",
+    "geom:latitude":35.08348,
+    "geom:longitude":-2.24115,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3338,
+    "gn:population":3338,
+    "iso:country":"MA",
+    "lbl:latitude":35.08348,
+    "lbl:longitude":-2.24115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0643\u0627\u0646 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Saidia"
+    ],
+    "name:fra_x_variant":[
+        "Saidia (MU)",
+        "Saidia (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545976,
+    "qs_pg:gn_pop":3338,
+    "qs_pg:name":"Saidia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629119,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545976,
+        "qs_pg:id":629119
+    },
+    "wof:country":"MA",
+    "wof:created":1497044453,
+    "wof:geomhash":"0f90a370d4d077b29eaa888dde1686a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "localadmin_id":1125319687,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1125319687,
+    "wof:lastmodified":1509388090,
+    "wof:name":"Saidia",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"localadmin",
+    "wof:population":3338,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.24115,
+    35.08348,
+    -2.24115,
+    35.08348
+],
+  "geometry": {"coordinates":[-2.24115,35.08348],"type":"Point"}
+}

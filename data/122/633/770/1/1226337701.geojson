@@ -1,0 +1,67 @@
+{
+  "id": 1226337701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20863,30.71972,-9.20863,30.71972",
+    "geom:latitude":30.71972,
+    "geom:longitude":-9.20863,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ej Jemaa",
+    "gn:country_code":"MA",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948365,
+    "gn:latitude":30.71972,
+    "gn:longitude":-9.20863,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ej Jem\u00e2a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948365
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6dce776abd050ce37c5cca40c150b025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1226337701,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226337701,
+    "wof:lastmodified":1536801130,
+    "wof:name":"Ej Jemaa",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20863,
+    30.71972,
+    -9.20863,
+    30.71972
+],
+  "geometry": {"coordinates":[-9.20863,30.71972],"type":"Point"}
+}

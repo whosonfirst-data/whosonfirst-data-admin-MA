@@ -1,0 +1,67 @@
+{
+  "id": 1226261221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.52975,32.33492,-5.52975,32.33492",
+    "geom:latitude":32.33492,
+    "geom:longitude":-5.52975,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Akkaiou",
+    "gn:country_code":"MA",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558662,
+    "gn:latitude":32.33492,
+    "gn:longitude":-5.52975,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Akka\u00efou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558662
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"27a6cbcd0b3d943119e7162d06b642eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1226261221,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226261221,
+    "wof:lastmodified":1536911689,
+    "wof:name":"Akkaiou",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.52975,
+    32.33492,
+    -5.52975,
+    32.33492
+],
+  "geometry": {"coordinates":[-5.52975,32.33492],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260085163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.07315,33.67127,-6.07315,33.67127",
+    "geom:latitude":33.67127,
+    "geom:longitude":-6.07315,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Ali Zbayer",
+    "gn:country_code":"MA",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10959858,
+    "gn:latitude":33.67127,
+    "gn:longitude":-6.07315,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ali Zbayer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10959858
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"821a3858aa488c1e51b680908b2ad0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1260085163,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1260085163,
+    "wof:lastmodified":1536984719,
+    "wof:name":"Douar Ali Zbayer",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.07315,
+    33.67127,
+    -6.07315,
+    33.67127
+],
+  "geometry": {"coordinates":[-6.07315,33.67127],"type":"Point"}
+}

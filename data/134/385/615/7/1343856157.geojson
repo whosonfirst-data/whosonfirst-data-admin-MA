@@ -1,0 +1,67 @@
+{
+  "id": 1343856157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.43885,32.12455,-6.43885,32.12455",
+    "geom:latitude":32.12455,
+    "geom:longitude":-6.43885,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Anou-n-Ichchou",
+    "gn:country_code":"MA",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435805,
+    "gn:latitude":32.12455,
+    "gn:longitude":-6.43885,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Anou-n-Ichchou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435805
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"487b16518b11ccc1b6e1c823287404bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343856157,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343856157,
+    "wof:lastmodified":1536672800,
+    "wof:name":"Anou-n-Ichchou",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.43885,
+    32.12455,
+    -6.43885,
+    32.12455
+],
+  "geometry": {"coordinates":[-6.43885,32.12455],"type":"Point"}
+}

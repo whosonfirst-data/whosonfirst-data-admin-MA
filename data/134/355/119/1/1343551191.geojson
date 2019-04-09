@@ -1,0 +1,75 @@
+{
+  "id": 1343551191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.27991,31.41655,-4.27991,31.41655",
+    "geom:latitude":31.41655,
+    "geom:longitude":-4.27991,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Qacba",
+    "gn:country_code":"MA",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539403,
+    "gn:latitude":31.41655,
+    "gn:longitude":-4.27991,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Al Qa\u00e7ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Oqba",
+        "Oulad Okba",
+        "Al Qa\u00e7ba",
+        "Kasba Ben Lahse\u00efn",
+        "Kasba Ben Lahceine",
+        "Hasbet Ben Lahcen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539403
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2df7c8e42cd9bbd6db099a33d1a4c962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1343551191,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343551191,
+    "wof:lastmodified":1537663568,
+    "wof:name":"Al Qacba",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.27991,
+    31.41655,
+    -4.27991,
+    31.41655
+],
+  "geometry": {"coordinates":[-4.27991,31.41655],"type":"Point"}
+}

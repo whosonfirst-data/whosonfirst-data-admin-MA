@@ -1,0 +1,75 @@
+{
+  "id": 890422873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78407,31.13447,-8.78407,31.13447",
+    "geom:latitude":31.13447,
+    "geom:longitude":-8.78407,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":8665,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f \u0627\u0644\u0628\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Ghanem"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Ghanem (CR)",
+        "Sidi Ghanem (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Ghanem",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546626,
+        "qs:id":629728
+    },
+    "wof:country":"MA",
+    "wof:created":1469051469,
+    "wof:geomhash":"1dca7a7db0e62e6e5f419b7711b483e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "localadmin_id":890422873,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890422873,
+    "wof:lastmodified":1505343472,
+    "wof:name":"Sidi Ghanem",
+    "wof:parent_id":890440847,
+    "wof:placetype":"localadmin",
+    "wof:population":8665,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78407,
+    31.13447,
+    -8.78407,
+    31.13447
+],
+  "geometry": {"coordinates":[-8.78407,31.13447],"type":"Point"}
+}

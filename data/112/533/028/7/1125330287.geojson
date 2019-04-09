@@ -1,0 +1,88 @@
+{
+  "id": 1125330287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.03172,34.58918,-5.03172,34.58918",
+    "geom:latitude":34.58918,
+    "geom:longitude":-5.03172,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":13712,
+    "gn:population":13390,
+    "iso:country":"MA",
+    "lbl:latitude":34.58918,
+    "lbl:longitude":-5.03172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0633\u0646\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Kissane"
+    ],
+    "name:fra_x_variant":[
+        "Kissane (CR)",
+        "Kissane (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546149,
+    "qs_pg:gn_pop":13712,
+    "qs_pg:name":"Kissane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629288,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546149,
+        "qs_pg:id":629288
+    },
+    "wof:country":"MA",
+    "wof:created":1497045093,
+    "wof:geomhash":"992c3825a762412b4e3d7c86375a7ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "localadmin_id":1125330287,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125330287,
+    "wof:lastmodified":1509388357,
+    "wof:name":"Kissane",
+    "wof:parent_id":890418103,
+    "wof:placetype":"localadmin",
+    "wof:population":13390,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.03172,
+    34.58918,
+    -5.03172,
+    34.58918
+],
+  "geometry": {"coordinates":[-5.03172,34.58918],"type":"Point"}
+}

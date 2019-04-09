@@ -1,0 +1,65 @@
+{
+  "id": 1209534153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.90393,34.36319,-5.90393,34.36319",
+    "geom:latitude":34.36319,
+    "geom:longitude":-5.90393,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad Cheddad",
+    "gn:country_code":"MA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539960,
+    "gn:latitude":34.36319,
+    "gn:longitude":-5.90393,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Cheddad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Chadad",
+        "Oulad Cheddad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539960
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6b0e81885d6adb982a33c365b5096f65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209534153
+        }
+    ],
+    "wof:id":1209534153,
+    "wof:lastmodified":1537663598,
+    "wof:name":"Douar Oulad Cheddad",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.90393,
+    34.36319,
+    -5.90393,
+    34.36319
+],
+  "geometry": {"coordinates":[-5.90393,34.36319],"type":"Point"}
+}

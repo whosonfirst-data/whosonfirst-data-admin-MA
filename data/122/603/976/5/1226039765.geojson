@@ -1,0 +1,71 @@
+{
+  "id": 1226039765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.89596,32.8107,-8.89596,32.8107",
+    "geom:latitude":32.8107,
+    "geom:longitude":-8.89596,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar El Haitat",
+    "gn:country_code":"MA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551814,
+    "gn:latitude":32.8107,
+    "gn:longitude":-8.89596,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar El Ha\u00eftat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Atit",
+        "Douar El Ha\u00eftat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551814
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e327f7d74c74fc3efa3d61b7f5087de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1226039765,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226039765,
+    "wof:lastmodified":1537663968,
+    "wof:name":"Douar El Haitat",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.89596,
+    32.8107,
+    -8.89596,
+    32.8107
+],
+  "geometry": {"coordinates":[-8.89596,32.8107],"type":"Point"}
+}

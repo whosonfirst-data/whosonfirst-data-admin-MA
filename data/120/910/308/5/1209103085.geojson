@@ -1,0 +1,61 @@
+{
+  "id": 1209103085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49572,33.192,-7.49572,33.192",
+    "geom:latitude":33.192,
+    "geom:longitude":-7.49572,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lemraghcha",
+    "gn:country_code":"MA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869609,
+    "gn:latitude":33.192,
+    "gn:longitude":-7.49572,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lemraghcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869609
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a4101e0b5c8bd8e9d51c052055e0564",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209103085
+        }
+    ],
+    "wof:id":1209103085,
+    "wof:lastmodified":1536297669,
+    "wof:name":"Lemraghcha",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.495719999999999,
+    33.192,
+    -7.495719999999999,
+    33.192
+],
+  "geometry": {"coordinates":[-7.49572,33.192],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125330233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89546,30.45218,-7.89546,30.45218",
+    "geom:latitude":30.45218,
+    "geom:longitude":-7.89546,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7297,
+    "gn:population":6724,
+    "iso:country":"MA",
+    "lbl:latitude":30.45218,
+    "lbl:longitude":-7.89546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0648\u064a\u0627\u0644\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tassousfi"
+    ],
+    "name:fra_x_variant":[
+        "Tassousfi (CR)",
+        "Tassousfi (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546064,
+    "qs_pg:gn_pop":7297,
+    "qs_pg:name":"Tassousfi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629205,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546064,
+        "qs_pg:id":629205
+    },
+    "wof:country":"MA",
+    "wof:created":1497045091,
+    "wof:geomhash":"521fff6aadedcac623a0bb0810671bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":1125330233,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125330233,
+    "wof:lastmodified":1509388356,
+    "wof:name":"Tassousfi",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":6724,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89546,
+    30.45218,
+    -7.89546,
+    30.45218
+],
+  "geometry": {"coordinates":[-7.89546,30.45218],"type":"Point"}
+}

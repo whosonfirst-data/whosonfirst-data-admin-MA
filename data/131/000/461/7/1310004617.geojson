@@ -1,0 +1,71 @@
+{
+  "id": 1310004617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.60072,31.55406,-6.60072,31.55406",
+    "geom:latitude":31.55406,
+    "geom:longitude":-6.60072,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Rougalt",
+    "gn:country_code":"MA",
+    "gn:dem":1901,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541234,
+    "gn:latitude":31.55406,
+    "gn:longitude":-6.60072,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Rougalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Rhougoult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541234
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e8bda00d8787aa2cd6e2b62a80f5b457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310004617,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310004617,
+    "wof:lastmodified":1537663635,
+    "wof:name":"Rougalt",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.60072,
+    31.55406,
+    -6.60072,
+    31.55406
+],
+  "geometry": {"coordinates":[-6.60072,31.55406],"type":"Point"}
+}

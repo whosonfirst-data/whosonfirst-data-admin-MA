@@ -1,0 +1,72 @@
+{
+  "id": 1343876781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.68492,35.38831,-5.68492,35.38831",
+    "geom:latitude":35.38831,
+    "geom:longitude":-5.68492,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Zgaouta",
+    "gn:country_code":"MA",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526009,
+    "gn:latitude":35.38831,
+    "gn:longitude":-5.68492,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Zgaouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sgaouat",
+        "Zg\u00e2out",
+        "Douar Zgaouta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526009
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a2ffcd6cbab8f6a866d9e90b0ce76215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1343876781,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343876781,
+    "wof:lastmodified":1537663309,
+    "wof:name":"Douar Zgaouta",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.68492,
+    35.38831,
+    -5.68492,
+    35.38831
+],
+  "geometry": {"coordinates":[-5.68492,35.38831],"type":"Point"}
+}

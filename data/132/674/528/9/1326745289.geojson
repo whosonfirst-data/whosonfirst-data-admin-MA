@@ -1,0 +1,73 @@
+{
+  "id": 1326745289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6394,29.80645,-8.6394,29.80645",
+    "geom:latitude":29.80645,
+    "geom:longitude":-8.6394,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Lmdint Ait Fiyd",
+    "gn:country_code":"MA",
+    "gn:dem":1573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549667,
+    "gn:latitude":29.80645,
+    "gn:longitude":-8.6394,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lmdint A\u00eft Fiyd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lamdint",
+        "El Medinnte",
+        "El Medint",
+        "Lmdint A\u00eft Fiyd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549667
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cf302ee5785b831bd143278fc0c745b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1326745289,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1326745289,
+    "wof:lastmodified":1537663844,
+    "wof:name":"Lmdint Ait Fiyd",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6394,
+    29.80645,
+    -8.6394,
+    29.80645
+],
+  "geometry": {"coordinates":[-8.6394,29.80645],"type":"Point"}
+}

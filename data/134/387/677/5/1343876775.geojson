@@ -1,0 +1,71 @@
+{
+  "id": 1343876775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.54343,31.65907,-9.54343,31.65907",
+    "geom:latitude":31.65907,
+    "geom:longitude":-9.54343,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Nekeb",
+    "gn:country_code":"MA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551365,
+    "gn:latitude":31.65907,
+    "gn:longitude":-9.54343,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Nekeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Anngoub",
+        "Douar Oulad Nekeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551365
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"72ff4b6c2d9e4ce6c2785c68d0d4848a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1343876775,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343876775,
+    "wof:lastmodified":1537663932,
+    "wof:name":"Douar Oulad Nekeb",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.54343,
+    31.65907,
+    -9.54343,
+    31.65907
+],
+  "geometry": {"coordinates":[-9.54343,31.65907],"type":"Point"}
+}

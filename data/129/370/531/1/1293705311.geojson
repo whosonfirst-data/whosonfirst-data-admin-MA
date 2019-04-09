@@ -1,0 +1,72 @@
+{
+  "id": 1293705311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91983,31.79736,-7.91983,31.79736",
+    "geom:latitude":31.79736,
+    "geom:longitude":-7.91983,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Mansour",
+    "gn:country_code":"MA",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539584,
+    "gn:latitude":31.79736,
+    "gn:longitude":-7.91983,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Mansour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Mannsour",
+        "Ouled Manssour Sahra Sidi Meftah",
+        "Oulad Mansour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539584
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a736cca92dc5e1e3a77fbdb5fc5905cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1293705311,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293705311,
+    "wof:lastmodified":1537663578,
+    "wof:name":"Oulad Mansour",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91983,
+    31.79736,
+    -7.91983,
+    31.79736
+],
+  "geometry": {"coordinates":[-7.91983,31.79736],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243277107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.81926,35.10745,-4.81926,35.10745",
+    "geom:latitude":35.10745,
+    "geom:longitude":-4.81926,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Amlouk Iaiyyadene",
+    "gn:country_code":"MA",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10844854,
+    "gn:latitude":35.10745,
+    "gn:longitude":-4.81926,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Amlouk Iaiyyadene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10844854
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"daa422ad3e88f4d48a1575d038d92963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1243277107,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243277107,
+    "wof:lastmodified":1537047585,
+    "wof:name":"Amlouk Iaiyyadene",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.81926,
+    35.10745,
+    -4.81926,
+    35.10745
+],
+  "geometry": {"coordinates":[-4.81926,35.10745],"type":"Point"}
+}

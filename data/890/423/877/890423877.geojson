@@ -1,0 +1,78 @@
+{
+  "id": 890423877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.64042,30.04967,-9.64042,30.04967",
+    "geom:latitude":30.04967,
+    "geom:longitude":-9.64042,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":8526,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0633\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Ouassay"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Ouassay (CR)",
+        "Sidi Ouassay (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Ouassay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545924,
+        "qs:id":629067,
+        "wd:id":"Q12217738",
+        "wk:page":"Sidi Ouassay"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051518,
+    "wof:geomhash":"4e4f719eba6ac7e137737261d9f0e0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "localadmin_id":890423877,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890423877,
+    "wof:lastmodified":1527727273,
+    "wof:name":"Sidi Ouassay",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"localadmin",
+    "wof:population":8526,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.64042,
+    30.04967,
+    -9.64042,
+    30.04967
+],
+  "geometry": {"coordinates":[-9.64042,30.04967],"type":"Point"}
+}

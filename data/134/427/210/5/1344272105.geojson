@@ -1,0 +1,67 @@
+{
+  "id": 1344272105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.97382,31.24619,-7.97382,31.24619",
+    "geom:latitude":31.24619,
+    "geom:longitude":-7.97382,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tirliite",
+    "gn:country_code":"MA",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950271,
+    "gn:latitude":31.24619,
+    "gn:longitude":-7.97382,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Tirliite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950271
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8e126f25505490d9c70680ee2999f6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1344272105,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1344272105,
+    "wof:lastmodified":1537064389,
+    "wof:name":"Tirliite",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.97382,
+    31.24619,
+    -7.97382,
+    31.24619
+],
+  "geometry": {"coordinates":[-7.97382,31.24619],"type":"Point"}
+}

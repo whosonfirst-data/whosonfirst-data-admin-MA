@@ -1,0 +1,67 @@
+{
+  "id": 1226028731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.59803,30.80409,-9.59803,30.80409",
+    "geom:latitude":30.80409,
+    "geom:longitude":-9.59803,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tahchoucht",
+    "gn:country_code":"MA",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10901062,
+    "gn:latitude":30.80409,
+    "gn:longitude":-9.59803,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tahchoucht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10901062
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aed22529068748330d430513a9a1d9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1226028731,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226028731,
+    "wof:lastmodified":1536749588,
+    "wof:name":"Tahchoucht",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.59803,
+    30.80409,
+    -9.59803,
+    30.80409
+],
+  "geometry": {"coordinates":[-9.59803,30.80409],"type":"Point"}
+}

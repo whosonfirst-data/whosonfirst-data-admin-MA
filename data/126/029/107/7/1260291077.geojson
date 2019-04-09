@@ -1,0 +1,70 @@
+{
+  "id": 1260291077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.81877,33.69002,-4.81877,33.69002",
+    "geom:latitude":33.69002,
+    "geom:longitude":-4.81877,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Laanoussar",
+    "gn:country_code":"MA",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10977064,
+    "gn:latitude":33.69002,
+    "gn:longitude":-4.81877,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Laanoussar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aioun Snam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10977064
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"04e439cd43c2d72a543fa51ad896e5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1260291077,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1260291077,
+    "wof:lastmodified":1537664298,
+    "wof:name":"Laanoussar",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.81877,
+    33.69002,
+    -4.81877,
+    33.69002
+],
+  "geometry": {"coordinates":[-4.81877,33.69002],"type":"Point"}
+}

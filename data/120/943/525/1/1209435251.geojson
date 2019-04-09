@@ -1,0 +1,61 @@
+{
+  "id": 1209435251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47104,31.60139,-8.47104,31.60139",
+    "geom:latitude":31.60139,
+    "geom:longitude":-8.47104,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"H'ritiers Mohamed Ben Ezzir",
+    "gn:country_code":"MA",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10901616,
+    "gn:latitude":31.60139,
+    "gn:longitude":-8.47104,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"H\u2019ritiers Mohamed Ben Ezzir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10901616
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"69abee5a2fc17429636368b15f74c91a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209435251
+        }
+    ],
+    "wof:id":1209435251,
+    "wof:lastmodified":1536287123,
+    "wof:name":"H'ritiers Mohamed Ben Ezzir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.471039999999999,
+    31.60139,
+    -8.471039999999999,
+    31.60139
+],
+  "geometry": {"coordinates":[-8.47104,31.60139],"type":"Point"}
+}

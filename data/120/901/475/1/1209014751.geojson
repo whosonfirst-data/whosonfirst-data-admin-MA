@@ -1,0 +1,65 @@
+{
+  "id": 1209014751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.08,34.85,-4.08,34.85",
+    "geom:latitude":34.85,
+    "geom:longitude":-4.08,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tazrot",
+    "gn:country_code":"MA",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529125,
+    "gn:latitude":34.85,
+    "gn:longitude":-4.08,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tazrot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazrout",
+        "Tazrot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529125
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e3cb5cd25f4b6175eaf26ae41191f88e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209014751
+        }
+    ],
+    "wof:id":1209014751,
+    "wof:lastmodified":1537663401,
+    "wof:name":"Tazrot",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.08,
+    34.85,
+    -4.08,
+    34.85
+],
+  "geometry": {"coordinates":[-4.08,34.85],"type":"Point"}
+}

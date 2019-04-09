@@ -1,0 +1,92 @@
+{
+  "id": 421196141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.95156,31.0705,-3.95156,31.0705",
+    "geom:latitude":31.0705,
+    "geom:longitude":-3.95156,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bos_x_preferred":[
+        "Merdani"
+    ],
+    "name:ceb_x_preferred":[
+        "Merdani"
+    ],
+    "name:fra_x_preferred":[
+        "Merdani"
+    ],
+    "name:swe_x_preferred":[
+        "Merdani"
+    ],
+    "name:unk_x_variant":[
+        "Merdoni"
+    ],
+    "qs:gn_country":"MA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2542546,
+    "qs:gn_pop":0,
+    "qs:name":"Merdani",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0645\u0643\u0646\u0627\u0633 \u0640 \u062a\u0627\u0641\u064a\u0644\u0627\u0644\u062a",
+    "qs:photos":992,
+    "qs:photos_1k":201,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":992,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":492996,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1537903,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542546,
+        "gp:id":1537903,
+        "qs:id":492996
+    },
+    "wof:country":"MA",
+    "wof:created":1459009870,
+    "wof:geomhash":"88045526feecf52db967edc8ea414559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":421196141,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":421196141,
+    "wof:lastmodified":1527716369,
+    "wof:name":"Merdani",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.95156,
+    31.0705,
+    -3.95156,
+    31.0705
+],
+  "geometry": {"coordinates":[-3.95156,31.0705],"type":"Point"}
+}

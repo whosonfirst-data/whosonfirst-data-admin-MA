@@ -1,0 +1,88 @@
+{
+  "id": 1125329793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.92757,32.65922,-5.92757,32.65922",
+    "geom:latitude":32.65922,
+    "geom:longitude":-5.92757,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9893,
+    "gn:population":8198,
+    "iso:country":"MA",
+    "lbl:latitude":32.65922,
+    "lbl:longitude":-5.92757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a  \u062d\u0645\u0627\u062f\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Oum El Bekht"
+    ],
+    "name:fra_x_variant":[
+        "Ait Oum El Bekht (CR)",
+        "Ait Oum El Bekht (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545573,
+    "qs_pg:gn_pop":9893,
+    "qs_pg:name":"Ait Oum El Bekht",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628713,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545573,
+        "qs_pg:id":628713
+    },
+    "wof:country":"MA",
+    "wof:created":1497045068,
+    "wof:geomhash":"1aeea3e0db8b8756fb2b397a3fa8e7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "localadmin_id":1125329793,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1125329793,
+    "wof:lastmodified":1509388343,
+    "wof:name":"Ait Oum El Bekht",
+    "wof:parent_id":890452779,
+    "wof:placetype":"localadmin",
+    "wof:population":8198,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.92757,
+    32.65922,
+    -5.92757,
+    32.65922
+],
+  "geometry": {"coordinates":[-5.92757,32.65922],"type":"Point"}
+}

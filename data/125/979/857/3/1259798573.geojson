@@ -1,0 +1,72 @@
+{
+  "id": 1259798573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31938,31.72173,-9.31938,31.72173",
+    "geom:latitude":31.72173,
+    "geom:longitude":-9.31938,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mohammed Bel Kamel",
+    "gn:country_code":"MA",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542069,
+    "gn:latitude":31.72173,
+    "gn:longitude":-9.31938,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mohammed Bel Kamel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Mohammed Ben Kama",
+        "Douar Mohammed Ben Kame",
+        "Mohammed Bel Kamel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542069
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"36f03d3173f1a44b67fed17c027bc980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1259798573,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259798573,
+    "wof:lastmodified":1537663649,
+    "wof:name":"Mohammed Bel Kamel",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31938,
+    31.72173,
+    -9.31938,
+    31.72173
+],
+  "geometry": {"coordinates":[-9.31938,31.72173],"type":"Point"}
+}

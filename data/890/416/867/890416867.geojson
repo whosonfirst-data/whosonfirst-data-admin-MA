@@ -1,0 +1,75 @@
+{
+  "id": 890416867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.61685,29.09974,-9.61685,29.09974",
+    "geom:latitude":29.09974,
+    "geom:longitude":-9.61685,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5433,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u063a\u062c\u064a\u062c\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Timoulay"
+    ],
+    "name:fra_x_variant":[
+        "Timoulay (CR)",
+        "Timoulay (Commune Rurale)"
+    ],
+    "qs:name":"Timoulay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545931,
+        "qs:id":629074
+    },
+    "wof:country":"MA",
+    "wof:created":1469051168,
+    "wof:geomhash":"a9be48a607b743ee8e8f19bbd6076803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "localadmin_id":890416867,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":890416867,
+    "wof:lastmodified":1505343435,
+    "wof:name":"Timoulay",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"localadmin",
+    "wof:population":5433,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.61685,
+    29.09974,
+    -9.61685,
+    29.09974
+],
+  "geometry": {"coordinates":[-9.61685,29.09974],"type":"Point"}
+}

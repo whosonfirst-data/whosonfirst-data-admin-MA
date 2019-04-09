@@ -1,0 +1,67 @@
+{
+  "id": 1276123075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.90238,34.73459,-5.90238,34.73459",
+    "geom:latitude":34.73459,
+    "geom:longitude":-5.90238,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Soua Aouda",
+    "gn:country_code":"MA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10991279,
+    "gn:latitude":34.73459,
+    "gn:longitude":-5.90238,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Soua Aouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10991279
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"95e43e06dcd48571d1d2454c5138a48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1276123075,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276123075,
+    "wof:lastmodified":1537057742,
+    "wof:name":"Oulad Soua Aouda",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.90238,
+    34.73459,
+    -5.90238,
+    34.73459
+],
+  "geometry": {"coordinates":[-5.90238,34.73459],"type":"Point"}
+}

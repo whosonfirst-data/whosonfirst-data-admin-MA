@@ -1,0 +1,86 @@
+{
+  "id": 1125418569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.75618,21.8671,-13.75618,21.8671",
+    "geom:latitude":21.8671,
+    "geom:longitude":-13.75618,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":833,
+    "gn:population":833,
+    "iso:country":"MA",
+    "lbl:latitude":21.8671,
+    "lbl:longitude":-13.75618,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Zoug"
+    ],
+    "name:fra_x_variant":[
+        "Zoug (CR)",
+        "Zoug (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545584,
+    "qs_pg:gn_pop":833,
+    "qs_pg:name":"Zoug",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":628724,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632217,
+        85681349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545584,
+        "qs_pg:id":628724
+    },
+    "wof:country":"MA",
+    "wof:created":1497051808,
+    "wof:geomhash":"a4325d4c70cbadd80f440d6031313e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632217,
+            "localadmin_id":1125418569,
+            "region_id":85681349
+        }
+    ],
+    "wof:id":1125418569,
+    "wof:lastmodified":1509390421,
+    "wof:name":"Zoug",
+    "wof:parent_id":85681349,
+    "wof:placetype":"localadmin",
+    "wof:population":833,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.75618,
+    21.8671,
+    -13.75618,
+    21.8671
+],
+  "geometry": {"coordinates":[-13.75618,21.8671],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209333089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.42215,34.51287,-5.42215,34.51287",
+    "geom:latitude":34.51287,
+    "geom:longitude":-5.42215,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Znata",
+    "gn:country_code":"MA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526064,
+    "gn:latitude":34.51287,
+    "gn:longitude":-5.42215,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Znata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eznata",
+        "Zenata",
+        "Douar Znata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526064
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1fa7ca7988de6158b1af3773d5fe2eb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333089
+        }
+    ],
+    "wof:id":1209333089,
+    "wof:lastmodified":1537663310,
+    "wof:name":"Douar Znata",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.42215,
+    34.51287,
+    -5.42215,
+    34.51287
+],
+  "geometry": {"coordinates":[-5.42215,34.51287],"type":"Point"}
+}

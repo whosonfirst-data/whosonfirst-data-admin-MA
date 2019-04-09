@@ -1,0 +1,67 @@
+{
+  "id": 1310091293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18179,32.56119,-9.18179,32.56119",
+    "geom:latitude":32.56119,
+    "geom:longitude":-9.18179,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Ben Ammuna",
+    "gn:country_code":"MA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10461482,
+    "gn:latitude":32.56119,
+    "gn:longitude":-9.18179,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Ben Ammuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10461482
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4b17f21495e8bf5836f970588a7895ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1310091293,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310091293,
+    "wof:lastmodified":1537016326,
+    "wof:name":"Oulad Ben Ammuna",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18179,
+    32.56119,
+    -9.18179,
+    32.56119
+],
+  "geometry": {"coordinates":[-9.18179,32.56119],"type":"Point"}
+}

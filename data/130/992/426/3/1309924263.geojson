@@ -1,0 +1,72 @@
+{
+  "id": 1309924263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6,29.71,-9.6,29.71",
+    "geom:latitude":29.71,
+    "geom:longitude":-9.6,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Annou n' Addou",
+    "gn:country_code":"MA",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557737,
+    "gn:latitude":29.71,
+    "gn:longitude":-9.6,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Annou n\u2019 Addou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nou N\u2019Addou",
+        "Anou Na\u00e2dou",
+        "Annou n\u2019 Addou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557737
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00cd70a348d2db681b4925536411cedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1309924263,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309924263,
+    "wof:lastmodified":1537664117,
+    "wof:name":"Annou n' Addou",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6,
+    29.71,
+    -9.6,
+    29.71
+],
+  "geometry": {"coordinates":[-9.6,29.71],"type":"Point"}
+}

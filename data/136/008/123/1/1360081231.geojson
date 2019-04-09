@@ -1,0 +1,67 @@
+{
+  "id": 1360081231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89214,30.29779,-7.89214,30.29779",
+    "geom:latitude":30.29779,
+    "geom:longitude":-7.89214,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Azabdar",
+    "gn:country_code":"MA",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955860,
+    "gn:latitude":30.29779,
+    "gn:longitude":-7.89214,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Azabdar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955860
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c1ba175f464445b4369d2f823137b191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1360081231,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360081231,
+    "wof:lastmodified":1536951441,
+    "wof:name":"Azabdar",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89214,
+    30.29779000000001,
+    -7.89214,
+    30.29779000000001
+],
+  "geometry": {"coordinates":[-7.89214,30.29779000000001],"type":"Point"}
+}

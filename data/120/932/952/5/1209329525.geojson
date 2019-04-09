@@ -1,0 +1,67 @@
+{
+  "id": 1209329525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06332,32.02593,-9.06332,32.02593",
+    "geom:latitude":32.02593,
+    "geom:longitude":-9.06332,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Boujaouane",
+    "gn:country_code":"MA",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551935,
+    "gn:latitude":32.02593,
+    "gn:longitude":-9.06332,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Boujaouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Jaouane",
+        "Dra\u00efouai",
+        "Douar Dahmane",
+        "Douar Boujaouane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551935
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"26525857278464b91a8a6c06caa984ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329525
+        }
+    ],
+    "wof:id":1209329525,
+    "wof:lastmodified":1537663976,
+    "wof:name":"Douar Boujaouane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06332,
+    32.02593,
+    -9.06332,
+    32.02593
+],
+  "geometry": {"coordinates":[-9.06332,32.02593],"type":"Point"}
+}

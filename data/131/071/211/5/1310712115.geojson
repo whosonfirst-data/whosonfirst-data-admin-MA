@@ -1,0 +1,67 @@
+{
+  "id": 1310712115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46491,31.8432,-8.46491,31.8432",
+    "geom:latitude":31.8432,
+    "geom:longitude":-8.46491,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bir-Cheham",
+    "gn:country_code":"MA",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555348,
+    "gn:latitude":31.8432,
+    "gn:longitude":-8.46491,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bir-Cheham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555348
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d60d730044eeffb14819b89f148d3498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1310712115,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310712115,
+    "wof:lastmodified":1536616455,
+    "wof:name":"Bir-Cheham",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46491,
+    31.8432,
+    -8.46491,
+    31.8432
+],
+  "geometry": {"coordinates":[-8.46491,31.8432],"type":"Point"}
+}

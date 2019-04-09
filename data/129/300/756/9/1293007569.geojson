@@ -1,0 +1,67 @@
+{
+  "id": 1293007569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.23539,34.27557,-5.23539,34.27557",
+    "geom:latitude":34.27557,
+    "geom:longitude":-5.23539,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ammor El Haj Kaddour",
+    "gn:country_code":"MA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985372,
+    "gn:latitude":34.27557,
+    "gn:longitude":-5.23539,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ammor El Haj Kaddour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985372
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0dbd4c30da7b7f393acdc3c7fe832b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1293007569,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293007569,
+    "wof:lastmodified":1536981146,
+    "wof:name":"Douar Ammor El Haj Kaddour",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.23539,
+    34.27557,
+    -5.23539,
+    34.27557
+],
+  "geometry": {"coordinates":[-5.23539,34.27557],"type":"Point"}
+}

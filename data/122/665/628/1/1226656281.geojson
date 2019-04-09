@@ -1,0 +1,72 @@
+{
+  "id": 1226656281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64696,32.67363,-8.64696,32.67363",
+    "geom:latitude":32.67363,
+    "geom:longitude":-8.64696,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Assassa",
+    "gn:country_code":"MA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550636,
+    "gn:latitude":32.67363,
+    "gn:longitude":-8.64696,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Assassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u00e2ssa\u00e2ssa",
+        "Douar el Assassa",
+        "El Assassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550636
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"378286993ce115d84e2fc9a3891643b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1226656281,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226656281,
+    "wof:lastmodified":1537663891,
+    "wof:name":"El Assassa",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64696,
+    32.67363,
+    -8.64696,
+    32.67363
+],
+  "geometry": {"coordinates":[-8.64696,32.67363],"type":"Point"}
+}

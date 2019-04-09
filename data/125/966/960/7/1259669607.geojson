@@ -1,0 +1,67 @@
+{
+  "id": 1259669607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.74281,30.96277,-9.74281,30.96277",
+    "geom:latitude":30.96277,
+    "geom:longitude":-9.74281,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait bou Jmaa",
+    "gn:country_code":"MA",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10900705,
+    "gn:latitude":30.96277,
+    "gn:longitude":-9.74281,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft bou Jmaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10900705
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d22d7efa0dcdf0f4fd1302e24b68bc0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1259669607,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259669607,
+    "wof:lastmodified":1537083871,
+    "wof:name":"Ait bou Jmaa",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.74281,
+    30.96277000000001,
+    -9.74281,
+    30.96277000000001
+],
+  "geometry": {"coordinates":[-9.74281,30.96277000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327149373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15114,29.73403,-9.15114,29.73403",
+    "geom:latitude":29.73403,
+    "geom:longitude":-9.15114,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dar Ourtane",
+    "gn:country_code":"MA",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551053,
+    "gn:latitude":29.73403,
+    "gn:longitude":-9.15114,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Ourtane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dourtane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551053
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3d7c601e794a5e98955cfc237c1cd71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1327149373,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327149373,
+    "wof:lastmodified":1537663910,
+    "wof:name":"Dar Ourtane",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15114,
+    29.73403,
+    -9.15114,
+    29.73403
+],
+  "geometry": {"coordinates":[-9.15114,29.73403],"type":"Point"}
+}

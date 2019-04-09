@@ -1,0 +1,67 @@
+{
+  "id": 1293212297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.35197,35.15097,-3.35197,35.15097",
+    "geom:latitude":35.15097,
+    "geom:longitude":-3.35197,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ibarbiaane",
+    "gn:country_code":"MA",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472480,
+    "gn:latitude":35.15097,
+    "gn:longitude":-3.35197,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ibarbiaane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472480
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"55bfe35cd49ba3b4608efc2eb2f5c658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1293212297,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293212297,
+    "wof:lastmodified":1536686751,
+    "wof:name":"Ibarbiaane",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.35197,
+    35.15097,
+    -3.35197,
+    35.15097
+],
+  "geometry": {"coordinates":[-3.35197,35.15097],"type":"Point"}
+}

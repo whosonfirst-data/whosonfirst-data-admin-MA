@@ -1,0 +1,67 @@
+{
+  "id": 1309912297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.25632,34.17354,-4.25632,34.17354",
+    "geom:latitude":34.17354,
+    "geom:longitude":-4.25632,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar El Hajra El Aliya",
+    "gn:country_code":"MA",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10998018,
+    "gn:latitude":34.17354,
+    "gn:longitude":-4.25632,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Hajra El Aliya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10998018
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4c0c21a72edf28fb24c499ab4473fb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1309912297,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1309912297,
+    "wof:lastmodified":1536778062,
+    "wof:name":"Douar El Hajra El Aliya",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.25632,
+    34.17354,
+    -4.25632,
+    34.17354
+],
+  "geometry": {"coordinates":[-4.25632,34.17354],"type":"Point"}
+}

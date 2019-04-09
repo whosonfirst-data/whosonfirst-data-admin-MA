@@ -1,0 +1,67 @@
+{
+  "id": 1259878459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.89419,32.93173,-5.89419,32.93173",
+    "geom:latitude":32.93173,
+    "geom:longitude":-5.89419,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait beni ou Kou",
+    "gn:country_code":"MA",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965651,
+    "gn:latitude":32.93173,
+    "gn:longitude":-5.89419,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft beni ou Kou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965651
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f751f6af794873649c06ba924c4a968b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1259878459,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259878459,
+    "wof:lastmodified":1536786943,
+    "wof:name":"Ait beni ou Kou",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.89419,
+    32.93173,
+    -5.89419,
+    32.93173
+],
+  "geometry": {"coordinates":[-5.89419,32.93173],"type":"Point"}
+}

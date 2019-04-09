@@ -1,0 +1,67 @@
+{
+  "id": 1193264137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1291,32.03347,-9.1291,32.03347",
+    "geom:latitude":32.03347,
+    "geom:longitude":-9.1291,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lebbihat Lemtaat",
+    "gn:country_code":"MA",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949239,
+    "gn:latitude":32.03347,
+    "gn:longitude":-9.1291,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lebbihat Lemtaat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949239
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e5b2c3ea1ae09fb80b3634c3ce5348a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1193264137,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1193264137,
+    "wof:lastmodified":1536377709,
+    "wof:name":"Douar Lebbihat Lemtaat",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1291,
+    32.03347,
+    -9.1291,
+    32.03347
+],
+  "geometry": {"coordinates":[-9.1291,32.03347],"type":"Point"}
+}

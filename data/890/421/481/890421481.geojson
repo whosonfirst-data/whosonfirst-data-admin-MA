@@ -1,0 +1,66 @@
+{
+  "id": 890421481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.95453,35.23619,-3.95453,35.23619",
+    "geom:latitude":35.23619,
+    "geom:longitude":-3.95453,
+    "gn:country":"MA",
+    "gn:fcode":"PPL",
+    "gn:pop":55827,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tirhanim\u00eene",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527645,
+        "gp:id":1531158,
+        "qs:id":91770
+    },
+    "wof:country":"MA",
+    "wof:created":1469051394,
+    "wof:geomhash":"385b14c572bec010537de402b2fb106d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":890421481,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890421481,
+    "wof:lastmodified":1505343463,
+    "wof:name":"Tirhanim\u00eene",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:population":55827,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.95453,
+    35.23619,
+    -3.95453,
+    35.23619
+],
+  "geometry": {"coordinates":[-3.95453,35.23619],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209615031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.23344,33.64229,-6.23344,33.64229",
+    "geom:latitude":33.64229,
+    "geom:longitude":-6.23344,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dar Hammou Laamar",
+    "gn:country_code":"MA",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10959735,
+    "gn:latitude":33.64229,
+    "gn:longitude":-6.23344,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Hammou Laamar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10959735
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ab7f638cdb1c4211432ad0e2583f5514",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209615031
+        }
+    ],
+    "wof:id":1209615031,
+    "wof:lastmodified":1536281718,
+    "wof:name":"Dar Hammou Laamar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.23344,
+    33.64229,
+    -6.23344,
+    33.64229
+],
+  "geometry": {"coordinates":[-6.23344,33.64229],"type":"Point"}
+}

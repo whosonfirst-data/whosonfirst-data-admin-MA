@@ -1,0 +1,61 @@
+{
+  "id": 1209101425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56388,30.67253,-8.56388,30.67253",
+    "geom:latitude":30.67253,
+    "geom:longitude":-8.56388,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Tama",
+    "gn:country_code":"MA",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11144127,
+    "gn:latitude":30.67253,
+    "gn:longitude":-8.56388,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Tama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11144127
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b9870a30c89c4e2ffc5423ece1062dae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209101425
+        }
+    ],
+    "wof:id":1209101425,
+    "wof:lastmodified":1536297720,
+    "wof:name":"Ait Tama",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.563880000000001,
+    30.67253,
+    -8.563880000000001,
+    30.67253
+],
+  "geometry": {"coordinates":[-8.56388,30.67253],"type":"Point"}
+}

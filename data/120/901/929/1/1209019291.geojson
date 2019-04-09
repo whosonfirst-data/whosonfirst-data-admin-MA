@@ -1,0 +1,64 @@
+{
+  "id": 1209019291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67202,30.24873,-8.67202,30.24873",
+    "geom:latitude":30.24873,
+    "geom:longitude":-8.67202,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ayt Hamdine",
+    "gn:country_code":"MA",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559946,
+    "gn:latitude":30.24873,
+    "gn:longitude":-8.67202,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ayt Hamdine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Hamdine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559946
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"07b9e50f89674f2d66fb6c8466aebffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019291
+        }
+    ],
+    "wof:id":1209019291,
+    "wof:lastmodified":1537664186,
+    "wof:name":"Ayt Hamdine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67202,
+    30.24873,
+    -8.67202,
+    30.24873
+],
+  "geometry": {"coordinates":[-8.67202,30.24873],"type":"Point"}
+}

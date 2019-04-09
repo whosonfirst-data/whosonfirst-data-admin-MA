@@ -1,0 +1,88 @@
+{
+  "id": 1125298959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.11347,31.11829,-5.11347,31.11829",
+    "geom:latitude":31.11829,
+    "geom:longitude":-5.11347,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":17103,
+    "gn:population":17103,
+    "iso:country":"MA",
+    "lbl:latitude":31.11829,
+    "lbl:longitude":-5.11347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0635\u0628\u0627\u062d \u0632\u064a\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Alnif"
+    ],
+    "name:fra_x_variant":[
+        "Alnif (CR)",
+        "Alnif (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546838,
+    "qs_pg:gn_pop":17103,
+    "qs_pg:name":"Alnif",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629942,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546838,
+        "qs_pg:id":629942
+    },
+    "wof:country":"MA",
+    "wof:created":1497043312,
+    "wof:geomhash":"34671230b15e0fac6dea91243458ef80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "localadmin_id":1125298959,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125298959,
+    "wof:lastmodified":1509387673,
+    "wof:name":"Alnif",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"localadmin",
+    "wof:population":17103,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.11347,
+    31.11829,
+    -5.11347,
+    31.11829
+],
+  "geometry": {"coordinates":[-5.11347,31.11829],"type":"Point"}
+}

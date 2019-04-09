@@ -1,0 +1,72 @@
+{
+  "id": 1226257769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.29353,29.7414,-9.29353,29.7414",
+    "geom:latitude":29.7414,
+    "geom:longitude":-9.29353,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Agourgoum",
+    "gn:country_code":"MA",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561324,
+    "gn:latitude":29.7414,
+    "gn:longitude":-9.29353,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agourgoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguergoum",
+        "Agrougoum",
+        "Agourgoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561324
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"41fa13a8766ac05eaae564b7a09788e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1226257769,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226257769,
+    "wof:lastmodified":1537664234,
+    "wof:name":"Agourgoum",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.29353,
+    29.7414,
+    -9.29353,
+    29.7414
+],
+  "geometry": {"coordinates":[-9.29353,29.7414],"type":"Point"}
+}

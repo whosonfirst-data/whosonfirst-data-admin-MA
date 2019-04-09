@@ -1,0 +1,64 @@
+{
+  "id": 1209613829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.64508,32.32829,-6.64508,32.32829",
+    "geom:latitude":32.32829,
+    "geom:longitude":-6.64508,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Langar",
+    "gn:country_code":"MA",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543418,
+    "gn:latitude":32.32829,
+    "gn:longitude":-6.64508,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Langar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lengar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543418
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6488e652aff53812e46d2ac6c1ad62d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209613829
+        }
+    ],
+    "wof:id":1209613829,
+    "wof:lastmodified":1537663673,
+    "wof:name":"Langar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.64508,
+    32.32829,
+    -6.64508,
+    32.32829
+],
+  "geometry": {"coordinates":[-6.64508,32.32829],"type":"Point"}
+}

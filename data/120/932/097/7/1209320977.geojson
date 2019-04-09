@@ -1,0 +1,61 @@
+{
+  "id": 1209320977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.72277,33.66102,-5.72277,33.66102",
+    "geom:latitude":33.66102,
+    "geom:longitude":-5.72277,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ait Zogga Jbel",
+    "gn:country_code":"MA",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970772,
+    "gn:latitude":33.66102,
+    "gn:longitude":-5.72277,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Zogga Jbel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970772
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eb2b7095243a5da957c86350812628f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209320977
+        }
+    ],
+    "wof:id":1209320977,
+    "wof:lastmodified":1536290696,
+    "wof:name":"Ait Zogga Jbel",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.72277,
+    33.66102,
+    -5.72277,
+    33.66102
+],
+  "geometry": {"coordinates":[-5.72277,33.66102],"type":"Point"}
+}

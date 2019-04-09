@@ -1,0 +1,66 @@
+{
+  "id": 1209019371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.01059,32.26026,-9.01059,32.26026",
+    "geom:latitude":32.26026,
+    "geom:longitude":-9.01059,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lahrach Laghalma",
+    "gn:country_code":"MA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550165,
+    "gn:latitude":32.26026,
+    "gn:longitude":-9.01059,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lahrach Laghalma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Harech",
+        "El Harech",
+        "Lahrach Laghalma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550165
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"693d373826f50a08eef63677251476fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019371
+        }
+    ],
+    "wof:id":1209019371,
+    "wof:lastmodified":1537663868,
+    "wof:name":"Lahrach Laghalma",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.01059,
+    32.26026,
+    -9.01059,
+    32.26026
+],
+  "geometry": {"coordinates":[-9.01059,32.26026],"type":"Point"}
+}

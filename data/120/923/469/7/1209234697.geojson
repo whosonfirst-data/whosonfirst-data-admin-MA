@@ -1,0 +1,61 @@
+{
+  "id": 1209234697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.42845,31.5287,-9.42845,31.5287",
+    "geom:latitude":31.5287,
+    "geom:longitude":-9.42845,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ait Lahyad",
+    "gn:country_code":"MA",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10900009,
+    "gn:latitude":31.5287,
+    "gn:longitude":-9.42845,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Lahyad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10900009
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6ee8a52d45dafc964a5a626613327690",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209234697
+        }
+    ],
+    "wof:id":1209234697,
+    "wof:lastmodified":1536293524,
+    "wof:name":"Douar Ait Lahyad",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42845,
+    31.5287,
+    -9.42845,
+    31.5287
+],
+  "geometry": {"coordinates":[-9.42845,31.5287],"type":"Point"}
+}

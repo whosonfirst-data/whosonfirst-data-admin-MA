@@ -1,0 +1,72 @@
+{
+  "id": 1243190837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.77119,31.27773,-6.77119,31.27773",
+    "geom:latitude":31.27773,
+    "geom:longitude":-6.77119,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tassamart",
+    "gn:country_code":"MA",
+    "gn:dem":1979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529479,
+    "gn:latitude":31.27773,
+    "gn:longitude":-6.77119,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tassamart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tassamert",
+        "Tassamart",
+        "Tassemart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529479
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aa5b9c6b8c5e8e46544f242642ce9053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1243190837,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243190837,
+    "wof:lastmodified":1537663411,
+    "wof:name":"Tassamart",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.77119,
+    31.27773,
+    -6.77119,
+    31.27773
+],
+  "geometry": {"coordinates":[-6.77119,31.27773],"type":"Point"}
+}

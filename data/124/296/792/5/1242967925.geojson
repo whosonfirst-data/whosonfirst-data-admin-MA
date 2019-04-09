@@ -1,0 +1,67 @@
+{
+  "id": 1242967925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47955,32.70399,-8.47955,32.70399",
+    "geom:latitude":32.70399,
+    "geom:longitude":-8.47955,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Laassara",
+    "gn:country_code":"MA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795494,
+    "gn:latitude":32.70399,
+    "gn:longitude":-8.47955,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laassara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795494
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"906fa6005873472662244e190a7fb7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1242967925,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1242967925,
+    "wof:lastmodified":1536997748,
+    "wof:name":"Douar Laassara",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47955,
+    32.70399,
+    -8.47955,
+    32.70399
+],
+  "geometry": {"coordinates":[-8.47955,32.70399],"type":"Point"}
+}

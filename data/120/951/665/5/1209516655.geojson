@@ -1,0 +1,61 @@
+{
+  "id": 1209516655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.25709,34.34821,-4.25709,34.34821",
+    "geom:latitude":34.34821,
+    "geom:longitude":-4.25709,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Sidi El Hadi",
+    "gn:country_code":"MA",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10933105,
+    "gn:latitude":34.34821,
+    "gn:longitude":-4.25709,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Sidi El Hadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10933105
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b0a094ed82f178dc9e77e624ae39c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209516655
+        }
+    ],
+    "wof:id":1209516655,
+    "wof:lastmodified":1536284711,
+    "wof:name":"Douar Sidi El Hadi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.25709,
+    34.348209999999995,
+    -4.25709,
+    34.348209999999995
+],
+  "geometry": {"coordinates":[-4.25709,34.34820999999999],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209534149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2813,34.89528,-5.2813,34.89528",
+    "geom:latitude":34.89528,
+    "geom:longitude":-5.2813,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Assououl",
+    "gn:country_code":"MA",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556832,
+    "gn:latitude":34.89528,
+    "gn:longitude":-5.2813,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Assououl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assouel",
+        "Assououl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556832
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"56f69c6de718bae4cdafc2bb73fed7e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209534149
+        }
+    ],
+    "wof:id":1209534149,
+    "wof:lastmodified":1537664094,
+    "wof:name":"Assououl",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2813,
+    34.89528,
+    -5.2813,
+    34.89528
+],
+  "geometry": {"coordinates":[-5.2813,34.89528],"type":"Point"}
+}

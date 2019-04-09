@@ -1,0 +1,61 @@
+{
+  "id": 1209404767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.40915,31.26824,-7.40915,31.26824",
+    "geom:latitude":31.26824,
+    "geom:longitude":-7.40915,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zawit",
+    "gn:country_code":"MA",
+    "gn:dem":2139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353949,
+    "gn:latitude":31.26824,
+    "gn:longitude":-7.40915,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zawit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353949
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"12e4ff7a2b329e91442e2fd478e40eed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209404767
+        }
+    ],
+    "wof:id":1209404767,
+    "wof:lastmodified":1536288030,
+    "wof:name":"Zawit",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40915,
+    31.26824,
+    -7.40915,
+    31.26824
+],
+  "geometry": {"coordinates":[-7.40915,31.26824],"type":"Point"}
+}

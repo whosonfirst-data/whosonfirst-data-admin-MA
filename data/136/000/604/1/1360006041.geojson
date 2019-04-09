@@ -1,0 +1,67 @@
+{
+  "id": 1360006041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.402,31.87282,-7.402,31.87282",
+    "geom:latitude":31.87282,
+    "geom:longitude":-7.402,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Moulay Calah",
+    "gn:country_code":"MA",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11355099,
+    "gn:latitude":31.87282,
+    "gn:longitude":-7.402,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Moulay \u00c7alah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11355099
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7bdc479b718a18e97e3737dab2617f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1360006041,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360006041,
+    "wof:lastmodified":1537057202,
+    "wof:name":"Douar Moulay Calah",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.402,
+    31.87282,
+    -7.402,
+    31.87282
+],
+  "geometry": {"coordinates":[-7.402,31.87282],"type":"Point"}
+}

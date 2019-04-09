@@ -1,0 +1,70 @@
+{
+  "id": 1327352185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.8365,34.89475,-5.8365,34.89475",
+    "geom:latitude":34.89475,
+    "geom:longitude":-5.8365,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lguissa",
+    "gn:country_code":"MA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548421,
+    "gn:latitude":34.89475,
+    "gn:longitude":-5.8365,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lguissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guissa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548421
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8b46d338feceeef1ca37310ee94fe043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1327352185,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1327352185,
+    "wof:lastmodified":1537663810,
+    "wof:name":"Lguissa",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.8365,
+    34.89475,
+    -5.8365,
+    34.89475
+],
+  "geometry": {"coordinates":[-5.8365,34.89475],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343373825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.88292,35.59144,-5.88292,35.59144",
+    "geom:latitude":35.59144,
+    "geom:longitude":-5.88292,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Modyar",
+    "gn:country_code":"MA",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542830,
+    "gn:latitude":35.59144,
+    "gn:longitude":-5.88292,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Modyar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lmadiar",
+        "Mediar",
+        "Modyar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542830
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"595d2ee927c5c9c9c3c2786e6f960f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1343373825,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343373825,
+    "wof:lastmodified":1537663661,
+    "wof:name":"Modyar",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.88292,
+    35.59144000000001,
+    -5.88292,
+    35.59144000000001
+],
+  "geometry": {"coordinates":[-5.88292,35.59144000000001],"type":"Point"}
+}

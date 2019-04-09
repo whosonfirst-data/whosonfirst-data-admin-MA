@@ -1,0 +1,72 @@
+{
+  "id": 1293015589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.01006,34.02976,-4.01006,34.02976",
+    "geom:latitude":34.02976,
+    "geom:longitude":-4.01006,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ait El Ghazi",
+    "gn:country_code":"MA",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560020,
+    "gn:latitude":34.02976,
+    "gn:longitude":-4.01006,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ait El Ghazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00eft el Rhazi",
+        "A\u00eft el Rhazi",
+        "Douar Ait El Ghazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560020
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5191b52711fa85354b3f86e6db8808ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1293015589,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293015589,
+    "wof:lastmodified":1537664189,
+    "wof:name":"Douar Ait El Ghazi",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.01006,
+    34.02976,
+    -4.01006,
+    34.02976
+],
+  "geometry": {"coordinates":[-4.01006,34.02976],"type":"Point"}
+}

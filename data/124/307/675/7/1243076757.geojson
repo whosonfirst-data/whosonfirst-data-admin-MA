@@ -1,0 +1,67 @@
+{
+  "id": 1243076757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.41123,35.55215,-5.41123,35.55215",
+    "geom:latitude":35.55215,
+    "geom:longitude":-5.41123,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar Mfaddel",
+    "gn:country_code":"MA",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060446,
+    "gn:latitude":35.55215,
+    "gn:longitude":-5.41123,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Mfaddel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060446
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fb9a472286ee35695dc7df89ee4d4a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1243076757,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243076757,
+    "wof:lastmodified":1536840313,
+    "wof:name":"Dar Mfaddel",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.41123,
+    35.55215,
+    -5.41123,
+    35.55215
+],
+  "geometry": {"coordinates":[-5.41123,35.55215],"type":"Point"}
+}

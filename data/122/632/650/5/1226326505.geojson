@@ -1,0 +1,67 @@
+{
+  "id": 1226326505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.85498,30.14725,-8.85498,30.14725",
+    "geom:latitude":30.14725,
+    "geom:longitude":-8.85498,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Agalz",
+    "gn:country_code":"MA",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11142739,
+    "gn:latitude":30.14725,
+    "gn:longitude":-8.85498,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Agalz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11142739
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c1ceb864c1399c3a4473e898b3c556c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1226326505,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226326505,
+    "wof:lastmodified":1536816467,
+    "wof:name":"Agalz",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.85498,
+    30.14725,
+    -8.85498,
+    30.14725
+],
+  "geometry": {"coordinates":[-8.85498,30.14725],"type":"Point"}
+}

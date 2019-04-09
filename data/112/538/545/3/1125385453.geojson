@@ -1,0 +1,88 @@
+{
+  "id": 1125385453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25653,30.30803,-9.25653,30.30803",
+    "geom:latitude":30.30803,
+    "geom:longitude":-9.25653,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":17312,
+    "gn:population":18811,
+    "iso:country":"MA",
+    "lbl:latitude":30.30803,
+    "lbl:longitude":-9.25653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Lagfifat"
+    ],
+    "name:fra_x_variant":[
+        "Lagfifat (CR)",
+        "Lagfifat (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546477,
+    "qs_pg:gn_pop":17312,
+    "qs_pg:name":"Lagfifat",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629580,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546477,
+        "qs_pg:id":629580
+    },
+    "wof:country":"MA",
+    "wof:created":1497048338,
+    "wof:geomhash":"797a031942298e50c34dde5737274e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":1125385453,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125385453,
+    "wof:lastmodified":1509389703,
+    "wof:name":"Lagfifat",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":18811,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25653,
+    30.30803,
+    -9.25653,
+    30.30803
+],
+  "geometry": {"coordinates":[-9.25653,30.30803],"type":"Point"}
+}

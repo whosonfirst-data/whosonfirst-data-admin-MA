@@ -1,0 +1,65 @@
+{
+  "id": 1209324885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.80099,33.79873,-5.80099,33.79873",
+    "geom:latitude":33.79873,
+    "geom:longitude":-5.80099,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sidi Lahssen",
+    "gn:country_code":"MA",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2534361,
+    "gn:latitude":33.79873,
+    "gn:longitude":-5.80099,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Lahssen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Lahssene",
+        "Sidi Lahsene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2534361
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f13e493eb091213044801de7364f00e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209324885
+        }
+    ],
+    "wof:id":1209324885,
+    "wof:lastmodified":1537663509,
+    "wof:name":"Sidi Lahssen",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.80099,
+    33.79873,
+    -5.80099,
+    33.79873
+],
+  "geometry": {"coordinates":[-5.80099,33.79873],"type":"Point"}
+}

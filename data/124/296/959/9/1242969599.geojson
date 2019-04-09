@@ -1,0 +1,73 @@
+{
+  "id": 1242969599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.27726,31.74005,-7.27726,31.74005",
+    "geom:latitude":31.74005,
+    "geom:longitude":-7.27726,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Zaouia-Taglaout",
+    "gn:country_code":"MA",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526235,
+    "gn:latitude":31.74005,
+    "gn:longitude":-7.27726,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Zaou\u00efa-Taglaout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia Taglaout",
+        "Zawyat Taglawt",
+        "Zouiat Taglaout",
+        "Zaou\u00efa-Taglaout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526235
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8fdafb43843ebc8266b82bf0c8cfa40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1242969599,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242969599,
+    "wof:lastmodified":1537663316,
+    "wof:name":"Zaouia-Taglaout",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.27726,
+    31.74005,
+    -7.27726,
+    31.74005
+],
+  "geometry": {"coordinates":[-7.27726,31.74005],"type":"Point"}
+}

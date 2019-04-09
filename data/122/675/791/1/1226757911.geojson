@@ -1,0 +1,73 @@
+{
+  "id": 1226757911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01675,35.43021,-6.01675,35.43021",
+    "geom:latitude":35.43021,
+    "geom:longitude":-6.01675,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Dchiouer",
+    "gn:country_code":"MA",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569301,
+    "gn:latitude":35.43021,
+    "gn:longitude":-6.01675,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Dchiouer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Dechiwa",
+        "Ad Dechtwa",
+        "Ed Dechiouar",
+        "Douar Dchiouer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569301
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c0301197708f276fe47c66a5adf93bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1226757911,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226757911,
+    "wof:lastmodified":1537664269,
+    "wof:name":"Douar Dchiouer",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01675,
+    35.43020999999999,
+    -6.01675,
+    35.43020999999999
+],
+  "geometry": {"coordinates":[-6.01675,35.43020999999999],"type":"Point"}
+}

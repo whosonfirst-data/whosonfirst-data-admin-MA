@@ -1,0 +1,88 @@
+{
+  "id": 1125298121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27227,33.31031,-8.27227,33.31031",
+    "geom:latitude":33.31031,
+    "geom:longitude":-8.27227,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":25066,
+    "gn:population":25066,
+    "iso:country":"MA",
+    "lbl:latitude":33.31031,
+    "lbl:longitude":-8.27227,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u0631\u062d\u0645\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Ali Ben Hamdouc"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Ali Ben Hamdouc (CR)",
+        "Sidi Ali Ben Hamdouc (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546791,
+    "qs_pg:gn_pop":25066,
+    "qs_pg:name":"Sidi Ali Ben Hamdouc",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":629894,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546791,
+        "qs_pg:id":629894
+    },
+    "wof:country":"MA",
+    "wof:created":1497043264,
+    "wof:geomhash":"07faecda98714d200643d9b863364293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "localadmin_id":1125298121,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1125298121,
+    "wof:lastmodified":1509387661,
+    "wof:name":"Sidi Ali Ben Hamdouc",
+    "wof:parent_id":890445399,
+    "wof:placetype":"localadmin",
+    "wof:population":25066,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27227,
+    33.31031,
+    -8.27227,
+    33.31031
+],
+  "geometry": {"coordinates":[-8.27227,33.31031],"type":"Point"}
+}

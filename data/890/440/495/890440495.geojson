@@ -1,0 +1,78 @@
+{
+  "id": 890440495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.52943,34.88206,-2.52943,34.88206",
+    "geom:latitude":34.88206,
+    "geom:longitude":-2.52943,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":8969,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0631\u0643\u0627\u062f\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Aklim"
+    ],
+    "name:fra_x_variant":[
+        "Aklim (MU)",
+        "Aklim (Commune Urbaine)"
+    ],
+    "qs:name":"Aklim",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546162,
+        "qs:id":629300,
+        "wd:id":"Q2484384",
+        "wk:page":"Aklim"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052279,
+    "wof:geomhash":"6f581a4175ae86b703cb63ac785bafad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "localadmin_id":890440495,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890440495,
+    "wof:lastmodified":1527727109,
+    "wof:name":"Aklim",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"localadmin",
+    "wof:population":8969,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.52943,
+    34.88206,
+    -2.52943,
+    34.88206
+],
+  "geometry": {"coordinates":[-2.52943,34.88206],"type":"Point"}
+}

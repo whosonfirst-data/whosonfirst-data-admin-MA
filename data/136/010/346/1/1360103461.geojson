@@ -1,0 +1,67 @@
+{
+  "id": 1360103461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58689,34.95503,-2.58689,34.95503",
+    "geom:latitude":34.95503,
+    "geom:longitude":-2.58689,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beni Oukil",
+    "gn:country_code":"MA",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555686,
+    "gn:latitude":34.95503,
+    "gn:longitude":-2.58689,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Beni Oukil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555686
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d5a08949f78d211710c246a070588b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1360103461,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1360103461,
+    "wof:lastmodified":1536919728,
+    "wof:name":"Beni Oukil",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58689,
+    34.95503,
+    -2.58689,
+    34.95503
+],
+  "geometry": {"coordinates":[-2.58689,34.95503],"type":"Point"}
+}

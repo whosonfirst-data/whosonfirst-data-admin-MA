@@ -1,0 +1,72 @@
+{
+  "id": 1276563199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0719,30.89682,-8.0719,30.89682",
+    "geom:latitude":30.89682,
+    "geom:longitude":-8.0719,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Targa-n-Oufra",
+    "gn:country_code":"MA",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529914,
+    "gn:latitude":30.89682,
+    "gn:longitude":-8.0719,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Targa-n-Oufra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Targa",
+        "Agadir oufra",
+        "Agadir n\u2019 Afra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529914
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1da656fc5cd6d45326596b3b02f89c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1276563199,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276563199,
+    "wof:lastmodified":1537663422,
+    "wof:name":"Targa-n-Oufra",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0719,
+    30.89682,
+    -8.0719,
+    30.89682
+],
+  "geometry": {"coordinates":[-8.0719,30.89682],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360095275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.12124,34.74589,-5.12124,34.74589",
+    "geom:latitude":34.74589,
+    "geom:longitude":-5.12124,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tellaka",
+    "gn:country_code":"MA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529023,
+    "gn:latitude":34.74589,
+    "gn:longitude":-5.12124,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tellaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529023
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"628efc4f7e94b30f8a917fda0d9fefc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1360095275,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1360095275,
+    "wof:lastmodified":1536931602,
+    "wof:name":"Tellaka",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.12124,
+    34.74589,
+    -5.12124,
+    34.74589
+],
+  "geometry": {"coordinates":[-5.12124,34.74589],"type":"Point"}
+}

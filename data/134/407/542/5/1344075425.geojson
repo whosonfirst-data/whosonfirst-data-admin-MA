@@ -1,0 +1,71 @@
+{
+  "id": 1344075425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.27789,33.99051,-3.27789,33.99051",
+    "geom:latitude":33.99051,
+    "geom:longitude":-3.27789,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mahirija",
+    "gn:country_code":"MA",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543178,
+    "gn:latitude":33.99051,
+    "gn:longitude":-3.27789,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mahirija",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahiridja",
+        "Mahirija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543178
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"67fa8474813fbb23944d71de41187ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1344075425,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1344075425,
+    "wof:lastmodified":1537663667,
+    "wof:name":"Mahirija",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.27789,
+    33.99051,
+    -3.27789,
+    33.99051
+],
+  "geometry": {"coordinates":[-3.27789,33.99051],"type":"Point"}
+}

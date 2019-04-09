@@ -1,0 +1,67 @@
+{
+  "id": 1343776947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.16934,30.60351,-6.16934,30.60351",
+    "geom:latitude":30.60351,
+    "geom:longitude":-6.16934,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oulad Atmane",
+    "gn:country_code":"MA",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596620,
+    "gn:latitude":30.60351,
+    "gn:longitude":-6.16934,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Oulad Atmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596620
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c7d98594ca3bb3bbbdd5fe486bbbaa0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1343776947,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343776947,
+    "wof:lastmodified":1536787547,
+    "wof:name":"Oulad Atmane",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.16934,
+    30.60351,
+    -6.16934,
+    30.60351
+],
+  "geometry": {"coordinates":[-6.16934,30.60351],"type":"Point"}
+}

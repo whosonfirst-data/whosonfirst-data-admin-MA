@@ -1,0 +1,72 @@
+{
+  "id": 1260193199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69144,30.56869,-7.69144,30.56869",
+    "geom:latitude":30.56869,
+    "geom:longitude":-7.69144,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tamgout",
+    "gn:country_code":"MA",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531703,
+    "gn:latitude":30.56869,
+    "gn:longitude":-7.69144,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamgout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagmoute",
+        "Tagmout",
+        "Tamgout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531703
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3b7f899882a6223c04cc3036cd79ee5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1260193199,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260193199,
+    "wof:lastmodified":1537663473,
+    "wof:name":"Tamgout",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69144,
+    30.56869,
+    -7.69144,
+    30.56869
+],
+  "geometry": {"coordinates":[-7.69144,30.56869],"type":"Point"}
+}

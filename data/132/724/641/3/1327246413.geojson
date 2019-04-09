@@ -1,0 +1,71 @@
+{
+  "id": 1327246413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.37118,35.08874,-2.37118,35.08874",
+    "geom:latitude":35.08874,
+    "geom:longitude":-2.37118,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mechra Keiloul",
+    "gn:country_code":"MA",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542857,
+    "gn:latitude":35.08874,
+    "gn:longitude":-2.37118,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mechra Ke\u00efloul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechra el Khelil",
+        "Mechra Ke\u00efloul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542857
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4b8a1c3eeab2d7d068e1a2dcf48744f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":1327246413,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1327246413,
+    "wof:lastmodified":1537663661,
+    "wof:name":"Mechra Keiloul",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.37118,
+    35.08874,
+    -2.37118,
+    35.08874
+],
+  "geometry": {"coordinates":[-2.37118,35.08874],"type":"Point"}
+}

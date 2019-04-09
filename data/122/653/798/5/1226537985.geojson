@@ -1,0 +1,67 @@
+{
+  "id": 1226537985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.49186,31.98237,-6.49186,31.98237",
+    "geom:latitude":31.98237,
+    "geom:longitude":-6.49186,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tifhalwane",
+    "gn:country_code":"MA",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359153,
+    "gn:latitude":31.98237,
+    "gn:longitude":-6.49186,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tifhalwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359153
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"79251e67905db7630a2f8e883b2004dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226537985,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226537985,
+    "wof:lastmodified":1537008561,
+    "wof:name":"Tifhalwane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.49186,
+    31.98237,
+    -6.49186,
+    31.98237
+],
+  "geometry": {"coordinates":[-6.49186,31.98237],"type":"Point"}
+}

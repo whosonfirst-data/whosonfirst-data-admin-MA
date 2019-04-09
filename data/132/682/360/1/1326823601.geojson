@@ -1,0 +1,67 @@
+{
+  "id": 1326823601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58085,31.57765,-9.58085,31.57765",
+    "geom:latitude":31.57765,
+    "geom:longitude":-9.58085,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Labbirdat",
+    "gn:country_code":"MA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10898770,
+    "gn:latitude":31.57765,
+    "gn:longitude":-9.58085,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Labbirdat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10898770
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"75129f1a2b0c2f7c6c3c93d2053480a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1326823601,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326823601,
+    "wof:lastmodified":1537058687,
+    "wof:name":"Ait Labbirdat",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58085,
+    31.57765,
+    -9.58085,
+    31.57765
+],
+  "geometry": {"coordinates":[-9.58085,31.57765],"type":"Point"}
+}

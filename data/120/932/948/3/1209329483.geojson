@@ -1,0 +1,64 @@
+{
+  "id": 1209329483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.45496,35.32533,-5.45496,35.32533",
+    "geom:latitude":35.32533,
+    "geom:longitude":-5.45496,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Tahriyine",
+    "gn:country_code":"MA",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531456,
+    "gn:latitude":35.32533,
+    "gn:longitude":-5.45496,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tahriyine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tahariene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531456
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1ede263e0da12b3c545564b850985cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329483
+        }
+    ],
+    "wof:id":1209329483,
+    "wof:lastmodified":1537663466,
+    "wof:name":"Douar Tahriyine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.45496,
+    35.32533,
+    -5.45496,
+    35.32533
+],
+  "geometry": {"coordinates":[-5.45496,35.32533],"type":"Point"}
+}

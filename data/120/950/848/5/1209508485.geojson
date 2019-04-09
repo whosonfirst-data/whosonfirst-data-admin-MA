@@ -1,0 +1,61 @@
+{
+  "id": 1209508485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70088,32.35932,-8.70088,32.35932",
+    "geom:latitude":32.35932,
+    "geom:longitude":-8.70088,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Shaymiya",
+    "gn:country_code":"MA",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10639850,
+    "gn:latitude":32.35932,
+    "gn:longitude":-8.70088,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Shaymiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10639850
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0e6ddbc78428ebc002ca2c65cf9a2311",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209508485
+        }
+    ],
+    "wof:id":1209508485,
+    "wof:lastmodified":1536284958,
+    "wof:name":"Oulad Shaymiya",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70088,
+    32.359320000000004,
+    -8.70088,
+    32.359320000000004
+],
+  "geometry": {"coordinates":[-8.70088,32.35932],"type":"Point"}
+}

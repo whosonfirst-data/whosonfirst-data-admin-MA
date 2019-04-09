@@ -1,0 +1,71 @@
+{
+  "id": 1293278149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.23602,32.06924,-7.23602,32.06924",
+    "geom:latitude":32.06924,
+    "geom:longitude":-7.23602,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Rhalem",
+    "gn:country_code":"MA",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551352,
+    "gn:latitude":32.06924,
+    "gn:longitude":-7.23602,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Oulad Rhalem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Ralm",
+        "Douar Oulad Rhalem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551352
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d2a058ada2f0a1ebf76ad952a4b7bda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1293278149,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293278149,
+    "wof:lastmodified":1537663931,
+    "wof:name":"Douar Oulad Rhalem",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.23602,
+    32.06924,
+    -7.23602,
+    32.06924
+],
+  "geometry": {"coordinates":[-7.23602,32.06924],"type":"Point"}
+}

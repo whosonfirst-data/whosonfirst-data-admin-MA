@@ -1,0 +1,67 @@
+{
+  "id": 1360091923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.31053,33.87149,-5.31053,33.87149",
+    "geom:latitude":33.87149,
+    "geom:longitude":-5.31053,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ait Habrich",
+    "gn:country_code":"MA",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024503,
+    "gn:latitude":33.87149,
+    "gn:longitude":-5.31053,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Habrich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024503
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2eda109f9212830ba2b928e2ddab1443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1360091923,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1360091923,
+    "wof:lastmodified":1536936500,
+    "wof:name":"Ait Habrich",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.31053,
+    33.87149,
+    -5.31053,
+    33.87149
+],
+  "geometry": {"coordinates":[-5.31053,33.87149],"type":"Point"}
+}

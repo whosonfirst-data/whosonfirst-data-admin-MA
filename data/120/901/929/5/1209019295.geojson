@@ -1,0 +1,65 @@
+{
+  "id": 1209019295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.08861,32.95358,-4.08861,32.95358",
+    "geom:latitude":32.95358,
+    "geom:longitude":-4.08861,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oum Lfaa",
+    "gn:country_code":"MA",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538795,
+    "gn:latitude":32.95358,
+    "gn:longitude":-4.08861,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oum Lfaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oum Lefaa",
+        "Oum Lfaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538795
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4ff395801920ccf81fe399af2e5c4d47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019295
+        }
+    ],
+    "wof:id":1209019295,
+    "wof:lastmodified":1537663542,
+    "wof:name":"Oum Lfaa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.08861,
+    32.95358,
+    -4.08861,
+    32.95358
+],
+  "geometry": {"coordinates":[-4.08861,32.95358],"type":"Point"}
+}

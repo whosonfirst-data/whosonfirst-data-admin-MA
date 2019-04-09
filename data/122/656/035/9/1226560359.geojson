@@ -1,0 +1,67 @@
+{
+  "id": 1226560359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2148,29.70359,-9.2148,29.70359",
+    "geom:latitude":29.70359,
+    "geom:longitude":-9.2148,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Isk Ourb",
+    "gn:country_code":"MA",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130179,
+    "gn:latitude":29.70359,
+    "gn:longitude":-9.2148,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Isk Ourb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130179
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c048754f7c133997ad63de53d4948c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1226560359,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226560359,
+    "wof:lastmodified":1536976497,
+    "wof:name":"Isk Ourb",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2148,
+    29.70359,
+    -9.2148,
+    29.70359
+],
+  "geometry": {"coordinates":[-9.2148,29.70359],"type":"Point"}
+}

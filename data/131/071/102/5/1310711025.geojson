@@ -1,0 +1,67 @@
+{
+  "id": 1310711025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.46492,34.73792,-5.46492,34.73792",
+    "geom:latitude":34.73792,
+    "geom:longitude":-5.46492,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sidi Abdellah Ben Hassoune",
+    "gn:country_code":"MA",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925043,
+    "gn:latitude":34.73792,
+    "gn:longitude":-5.46492,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sidi Abdellah Ben Hassoune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925043
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dcf84520420fe70293d68341e13d1522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1310711025,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310711025,
+    "wof:lastmodified":1536618150,
+    "wof:name":"Sidi Abdellah Ben Hassoune",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.46492,
+    34.73792,
+    -5.46492,
+    34.73792
+],
+  "geometry": {"coordinates":[-5.46492,34.73792],"type":"Point"}
+}

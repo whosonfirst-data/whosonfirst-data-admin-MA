@@ -1,0 +1,71 @@
+{
+  "id": 1243572709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.61306,34.38505,-4.61306,34.38505",
+    "geom:latitude":34.38505,
+    "geom:longitude":-4.61306,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ain el Kraa",
+    "gn:country_code":"MA",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560867,
+    "gn:latitude":34.38505,
+    "gn:longitude":-4.61306,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00efn el Kraa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00efn el Kraa",
+        "A\u00efn el Kraa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560867
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2cb4b4223ab6fd2a3b021609ee2df3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1243572709,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1243572709,
+    "wof:lastmodified":1537664221,
+    "wof:name":"Ain el Kraa",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.61306,
+    34.38505,
+    -4.61306,
+    34.38505
+],
+  "geometry": {"coordinates":[-4.61306,34.38505],"type":"Point"}
+}

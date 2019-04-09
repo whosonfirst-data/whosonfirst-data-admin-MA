@@ -1,0 +1,66 @@
+{
+  "id": 1209404769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.11974,31.9944,-5.11974,31.9944",
+    "geom:latitude":31.9944,
+    "geom:longitude":-5.11974,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Ben Sa'id",
+    "gn:country_code":"MA",
+    "gn:dem":1435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560337,
+    "gn:latitude":31.9944,
+    "gn:longitude":-5.11974,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"A\u00eft Ben Sa\u2019id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar a\u00eft ben sa\u00efd",
+        "A\u00eft Ben Sa\u00efd",
+        "A\u00eft Ben Sa\u2019id"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560337
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"65020b68a2efa659ce8796ad1b71a4ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209404769
+        }
+    ],
+    "wof:id":1209404769,
+    "wof:lastmodified":1537664201,
+    "wof:name":"Ait Ben Sa'id",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.11974,
+    31.9944,
+    -5.11974,
+    31.9944
+],
+  "geometry": {"coordinates":[-5.11974,31.9944],"type":"Point"}
+}

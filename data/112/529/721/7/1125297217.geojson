@@ -1,0 +1,88 @@
+{
+  "id": 1125297217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.8552,31.85726,-8.8552,31.85726",
+    "geom:latitude":31.85726,
+    "geom:longitude":-8.8552,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":20240,
+    "gn:population":20240,
+    "iso:country":"MA",
+    "lbl:latitude":31.85726,
+    "lbl:longitude":-8.8552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0628\u064a\u0639\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Ighoud"
+    ],
+    "name:fra_x_variant":[
+        "Ighoud (CR)",
+        "Ighoud (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546637,
+    "qs_pg:gn_pop":20240,
+    "qs_pg:name":"Ighoud",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":629741,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546637,
+        "qs_pg:id":629741
+    },
+    "wof:country":"MA",
+    "wof:created":1497043213,
+    "wof:geomhash":"5a6bdf5aab6d94b897e0c8628eb8fcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "localadmin_id":1125297217,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1125297217,
+    "wof:lastmodified":1509387646,
+    "wof:name":"Ighoud",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"localadmin",
+    "wof:population":20240,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.8552,
+    31.85726,
+    -8.8552,
+    31.85726
+],
+  "geometry": {"coordinates":[-8.8552,31.85726],"type":"Point"}
+}

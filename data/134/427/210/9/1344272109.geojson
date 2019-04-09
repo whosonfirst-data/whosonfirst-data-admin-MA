@@ -1,0 +1,67 @@
+{
+  "id": 1344272109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.07,34.84,-5.07,34.84",
+    "geom:latitude":34.84,
+    "geom:longitude":-5.07,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beni Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565301,
+    "gn:latitude":34.84,
+    "gn:longitude":-5.07,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Beni Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565301
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bb55aed90df477d5c033ec8eef521bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1344272109,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1344272109,
+    "wof:lastmodified":1537064382,
+    "wof:name":"Beni Ahmed",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.07,
+    34.84,
+    -5.07,
+    34.84
+],
+  "geometry": {"coordinates":[-5.07,34.84],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260376715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50338,31.40765,-7.50338,31.40765",
+    "geom:latitude":31.40765,
+    "geom:longitude":-7.50338,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guitouy",
+    "gn:country_code":"MA",
+    "gn:dem":1343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353810,
+    "gn:latitude":31.40765,
+    "gn:longitude":-7.50338,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Guitouy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353810
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e5844fb454912d782b22b67693c8c497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1260376715,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1260376715,
+    "wof:lastmodified":1537080934,
+    "wof:name":"Guitouy",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50338,
+    31.40765,
+    -7.50338,
+    31.40765
+],
+  "geometry": {"coordinates":[-7.50338,31.40765],"type":"Point"}
+}

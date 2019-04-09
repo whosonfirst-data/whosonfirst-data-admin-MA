@@ -1,0 +1,72 @@
+{
+  "id": 1309920715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11932,33.14668,-8.11932,33.14668",
+    "geom:latitude":33.14668,
+    "geom:longitude":-8.11932,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sidi S'id M'achou",
+    "gn:country_code":"MA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2533043,
+    "gn:latitude":33.14668,
+    "gn:longitude":-8.11932,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi S\u2019id M\u2019achou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Sa\u00efd Machou",
+        "Sidi Sa\u00efd Maachou",
+        "Sidi S\u2019id M\u2019achou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2533043
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7dd953ffabcd671067e7f8d5d40d48b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "locality_id":1309920715,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1309920715,
+    "wof:lastmodified":1537663505,
+    "wof:name":"Sidi S'id M'achou",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11932,
+    33.14668,
+    -8.11932,
+    33.14668
+],
+  "geometry": {"coordinates":[-8.11932,33.14668],"type":"Point"}
+}

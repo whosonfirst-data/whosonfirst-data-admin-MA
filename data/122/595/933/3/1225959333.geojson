@@ -1,0 +1,71 @@
+{
+  "id": 1225959333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.97209,29.52867,-8.97209,29.52867",
+    "geom:latitude":29.52867,
+    "geom:longitude":-8.97209,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tisgui",
+    "gn:country_code":"MA",
+    "gn:dem":1676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527448,
+    "gn:latitude":29.52867,
+    "gn:longitude":-8.97209,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tisgui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tizguit",
+        "Tisgui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527448
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"be8c5c156d89df3c5bef5aaf42d63003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1225959333,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225959333,
+    "wof:lastmodified":1537663354,
+    "wof:name":"Tisgui",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.97209,
+    29.52867,
+    -8.97209,
+    29.52867
+],
+  "geometry": {"coordinates":[-8.97209,29.52867],"type":"Point"}
+}

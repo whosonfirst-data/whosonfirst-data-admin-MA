@@ -1,0 +1,66 @@
+{
+  "id": 1209433337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77817,32.94071,-5.77817,32.94071",
+    "geom:latitude":32.94071,
+    "geom:longitude":-5.77817,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Afi",
+    "gn:country_code":"MA",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559961,
+    "gn:latitude":32.94071,
+    "gn:longitude":-5.77817,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Afi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Affi",
+        "A\u00eft Afi",
+        "A\u00eft Haffi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559961
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"abd2756460e04ae32dbf6e0c2ca43d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209433337
+        }
+    ],
+    "wof:id":1209433337,
+    "wof:lastmodified":1537664187,
+    "wof:name":"Ait Afi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77817,
+    32.94071,
+    -5.77817,
+    32.94071
+],
+  "geometry": {"coordinates":[-5.77817,32.94071],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309999187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03391,31.51913,-7.03391,31.51913",
+    "geom:latitude":31.51913,
+    "geom:longitude":-7.03391,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Chraa",
+    "gn:country_code":"MA",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354990,
+    "gn:latitude":31.51913,
+    "gn:longitude":-7.03391,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Chra\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354990
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f8b769e7605e6d1611c5174c6643b761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1309999187,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1309999187,
+    "wof:lastmodified":1536652302,
+    "wof:name":"Ait Chraa",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03391,
+    31.51913,
+    -7.03391,
+    31.51913
+],
+  "geometry": {"coordinates":[-7.03391,31.51913],"type":"Point"}
+}

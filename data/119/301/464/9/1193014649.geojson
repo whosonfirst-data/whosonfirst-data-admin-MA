@@ -1,0 +1,67 @@
+{
+  "id": 1193014649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7356,32.51769,-6.7356,32.51769",
+    "geom:latitude":32.51769,
+    "geom:longitude":-6.7356,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oulad Bouya",
+    "gn:country_code":"MA",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11470139,
+    "gn:latitude":32.51769,
+    "gn:longitude":-6.7356,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Oulad Bouya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11470139
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8a87056c806de6b8db6137c137db05e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "locality_id":1193014649,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1193014649,
+    "wof:lastmodified":1536379811,
+    "wof:name":"Oulad Bouya",
+    "wof:parent_id":1108784787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7356,
+    32.51769,
+    -6.7356,
+    32.51769
+],
+  "geometry": {"coordinates":[-6.7356,32.51769],"type":"Point"}
+}

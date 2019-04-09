@@ -1,0 +1,82 @@
+{
+  "id": 1226157937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.38,28.02,-12.38,28.02",
+    "geom:latitude":28.02,
+    "geom:longitude":-12.38,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"El Khebita",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549949,
+    "gn:latitude":28.02,
+    "gn:longitude":-12.38,
+    "gn:modification_date":"2014-10-16",
+    "gn:name":"El Khebita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_historical":[
+        "Puerto Cansado",
+        "Porto Cansado"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Cansado"
+    ],
+    "name:por_x_variant":[
+        "Porto Cansado"
+    ],
+    "name:und_x_variant":[
+        "El Khabta",
+        "El Khebita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673941,
+        1108784823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549949
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f67e7f96b35f6343327c4a9f4a24ca2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784823,
+            "locality_id":1226157937,
+            "region_id":85673941
+        }
+    ],
+    "wof:id":1226157937,
+    "wof:lastmodified":1537663857,
+    "wof:name":"El Khebita",
+    "wof:parent_id":1108784823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.38,
+    28.02,
+    -12.38,
+    28.02
+],
+  "geometry": {"coordinates":[-12.38,28.02],"type":"Point"}
+}

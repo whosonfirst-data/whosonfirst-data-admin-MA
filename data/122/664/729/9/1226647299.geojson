@@ -1,0 +1,67 @@
+{
+  "id": 1226647299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.29135,34.2997,-4.29135,34.2997",
+    "geom:latitude":34.2997,
+    "geom:longitude":-4.29135,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Mtalsiyine",
+    "gn:country_code":"MA",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10933151,
+    "gn:latitude":34.2997,
+    "gn:longitude":-4.29135,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Mtalsiyine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10933151
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d72124a9861301482dd7bd3c63acfe31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1226647299,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1226647299,
+    "wof:lastmodified":1536855956,
+    "wof:name":"Douar Mtalsiyine",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.29135,
+    34.2997,
+    -4.29135,
+    34.2997
+],
+  "geometry": {"coordinates":[-4.29135,34.2997],"type":"Point"}
+}

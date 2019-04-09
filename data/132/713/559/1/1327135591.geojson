@@ -1,0 +1,67 @@
+{
+  "id": 1327135591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.56416,33.56584,-4.56416,33.56584",
+    "geom:latitude":33.56584,
+    "geom:longitude":-4.56416,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar El Mudar",
+    "gn:country_code":"MA",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10843828,
+    "gn:latitude":33.56584,
+    "gn:longitude":-4.56416,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Mudar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10843828
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0dda4683faedb8b97aa2df88956f737b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1327135591,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1327135591,
+    "wof:lastmodified":1536608783,
+    "wof:name":"Douar El Mudar",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.56416,
+    33.56584,
+    -4.56416,
+    33.56584
+],
+  "geometry": {"coordinates":[-4.56416,33.56584],"type":"Point"}
+}

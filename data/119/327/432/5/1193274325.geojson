@@ -1,0 +1,67 @@
+{
+  "id": 1193274325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.77166,31.93679,-6.77166,31.93679",
+    "geom:latitude":31.93679,
+    "geom:longitude":-6.77166,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ihararn",
+    "gn:country_code":"MA",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963629,
+    "gn:latitude":31.93679,
+    "gn:longitude":-6.77166,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ihararn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963629
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ce5f2e10dca1f82f06955ad33ae05721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1193274325,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1193274325,
+    "wof:lastmodified":1536367156,
+    "wof:name":"Ihararn",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.77166,
+    31.93679,
+    -6.77166,
+    31.93679
+],
+  "geometry": {"coordinates":[-6.77166,31.93679],"type":"Point"}
+}

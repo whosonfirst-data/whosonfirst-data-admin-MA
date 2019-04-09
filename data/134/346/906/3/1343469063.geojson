@@ -1,0 +1,70 @@
+{
+  "id": 1343469063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.47019,33.17453,-5.47019,33.17453",
+    "geom:latitude":33.17453,
+    "geom:longitude":-5.47019,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Hammam",
+    "gn:country_code":"MA",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550210,
+    "gn:latitude":33.17453,
+    "gn:longitude":-5.47019,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Hammam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hammam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550210
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3bad5a900922d10afee573657d996b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1343469063,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343469063,
+    "wof:lastmodified":1537663870,
+    "wof:name":"Al Hammam",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.47019,
+    33.17453,
+    -5.47019,
+    33.17453
+],
+  "geometry": {"coordinates":[-5.47019,33.17453],"type":"Point"}
+}

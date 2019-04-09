@@ -1,0 +1,67 @@
+{
+  "id": 1243349223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.42526,31.66652,-8.42526,31.66652",
+    "geom:latitude":31.66652,
+    "geom:longitude":-8.42526,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lemqaddem Saleh",
+    "gn:country_code":"MA",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10902930,
+    "gn:latitude":31.66652,
+    "gn:longitude":-8.42526,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lemqaddem Saleh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10902930
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5e054aa0459c70b1375e4167c6670a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1243349223,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243349223,
+    "wof:lastmodified":1536946181,
+    "wof:name":"Douar Lemqaddem Saleh",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.42526,
+    31.66652,
+    -8.42526,
+    31.66652
+],
+  "geometry": {"coordinates":[-8.42526,31.66652],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 890432385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.15968,33.78942,-7.15968,33.78942",
+    "geom:latitude":33.78942,
+    "geom:longitude":-7.15968,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA3",
+    "gn:pop":27283,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0632\u0646\u064a\u0642\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Bouznika"
+    ],
+    "name:dut_x_preferred":[
+        "Bouznika"
+    ],
+    "name:eng_x_preferred":[
+        "Bouznika"
+    ],
+    "name:fre_x_preferred":[
+        "Bouznika"
+    ],
+    "name:ita_x_preferred":[
+        "Bouznika"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0437\u043d\u0438\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kasba bou Znika"
+    ],
+    "qs:name":"Bouznika",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553751,
+        "gp:id":1532709,
+        "qs:id":278898,
+        "wd:id":"Q638967",
+        "wk:page":"Bouznika"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051939,
+    "wof:geomhash":"4de3f24b86ad3c16bfb9a4b4880805e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":890432385,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890432385,
+    "wof:lastmodified":1527793037,
+    "wof:name":"Bouznika",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:population":27283,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.15968,
+    33.78942,
+    -7.15968,
+    33.78942
+],
+  "geometry": {"coordinates":[-7.15968,33.78942],"type":"Point"}
+}

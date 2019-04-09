@@ -1,0 +1,73 @@
+{
+  "id": 1343280389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.81428,31.18761,-6.81428,31.18761",
+    "geom:latitude":31.18761,
+    "geom:longitude":-6.81428,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ayt Wa'rab",
+    "gn:country_code":"MA",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558884,
+    "gn:latitude":31.18761,
+    "gn:longitude":-6.81428,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ayt Wa\u2019rab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Wa\u2019rab",
+        "A\u00eft Ouarab",
+        "A\u00eft Ouarahe",
+        "Ayt Wa\u2019rab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558884
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ee878c32a54428a9fdd8f3c571d230da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1343280389,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343280389,
+    "wof:lastmodified":1537664147,
+    "wof:name":"Ayt Wa'rab",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.81428,
+    31.18761,
+    -6.81428,
+    31.18761
+],
+  "geometry": {"coordinates":[-6.81428,31.18761],"type":"Point"}
+}

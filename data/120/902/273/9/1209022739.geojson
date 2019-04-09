@@ -1,0 +1,68 @@
+{
+  "id": 1209022739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.64778,34.41723,-5.64778,34.41723",
+    "geom:latitude":34.41723,
+    "geom:longitude":-5.64778,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad Bou el Hsaine",
+    "gn:country_code":"MA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540047,
+    "gn:latitude":34.41723,
+    "gn:longitude":-5.64778,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Bou el Hsa\u00efne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Oulad Bou Hsa\u00efne",
+        "Oulad Bel Houcine",
+        "Douar Oulad Bou el Hsa\u00efne",
+        "Oulad Bou el Hsa\u00efne",
+        "Oulad Bou el Hsa\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540047
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"35af41c784c9a3befbad327c2c43daae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209022739
+        }
+    ],
+    "wof:id":1209022739,
+    "wof:lastmodified":1537663602,
+    "wof:name":"Douar Oulad Bou el Hsaine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.64778,
+    34.41723,
+    -5.64778,
+    34.41723
+],
+  "geometry": {"coordinates":[-5.64778,34.41723],"type":"Point"}
+}

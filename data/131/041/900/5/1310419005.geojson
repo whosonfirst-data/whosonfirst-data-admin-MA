@@ -1,0 +1,67 @@
+{
+  "id": 1310419005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.48188,35.50709,-5.48188,35.50709",
+    "geom:latitude":35.50709,
+    "geom:longitude":-5.48188,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lehtiya",
+    "gn:country_code":"MA",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060365,
+    "gn:latitude":35.50709,
+    "gn:longitude":-5.48188,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lehtiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060365
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3762a9a4708116adf93be8b6c3db6225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1310419005,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310419005,
+    "wof:lastmodified":1537040026,
+    "wof:name":"Lehtiya",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.48188,
+    35.50709000000001,
+    -5.48188,
+    35.50709000000001
+],
+  "geometry": {"coordinates":[-5.48188,35.50709000000001],"type":"Point"}
+}

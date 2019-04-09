@@ -1,0 +1,70 @@
+{
+  "id": 1226550029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.59642,35.1446,-5.59642,35.1446",
+    "geom:latitude":35.1446,
+    "geom:longitude":-5.59642,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dar Louta",
+    "gn:country_code":"MA",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552543,
+    "gn:latitude":35.1446,
+    "gn:longitude":-5.59642,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Louta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darouta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552543
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d28a125fc6a0f401c92a16adc9c2cb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1226550029,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226550029,
+    "wof:lastmodified":1537664005,
+    "wof:name":"Dar Louta",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.59642,
+    35.1446,
+    -5.59642,
+    35.1446
+],
+  "geometry": {"coordinates":[-5.59642,35.1446],"type":"Point"}
+}

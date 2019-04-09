@@ -1,0 +1,67 @@
+{
+  "id": 1260304285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21252,29.30012,-9.21252,29.30012",
+    "geom:latitude":29.30012,
+    "geom:longitude":-9.21252,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Agadir n'Tigida",
+    "gn:country_code":"MA",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561590,
+    "gn:latitude":29.30012,
+    "gn:longitude":-9.21252,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agadir n\u2019Tigida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561590
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a5e2a4b33ea2f9f8e61b035ca2b9fbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1260304285,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1260304285,
+    "wof:lastmodified":1536683959,
+    "wof:name":"Agadir n'Tigida",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21252,
+    29.30012,
+    -9.21252,
+    29.30012
+],
+  "geometry": {"coordinates":[-9.21252,29.30012],"type":"Point"}
+}

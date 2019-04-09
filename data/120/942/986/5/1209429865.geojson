@@ -1,0 +1,65 @@
+{
+  "id": 1209429865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.39813,30.97906,-9.39813,30.97906",
+    "geom:latitude":30.97906,
+    "geom:longitude":-9.39813,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tama Ougueni",
+    "gn:country_code":"MA",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530835,
+    "gn:latitude":30.97906,
+    "gn:longitude":-9.39813,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tama Ougueni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agouni",
+        "Tama Ougueni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530835
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c453b3f6cd5106a790020abb535bc115",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429865
+        }
+    ],
+    "wof:id":1209429865,
+    "wof:lastmodified":1537663449,
+    "wof:name":"Tama Ougueni",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.39813,
+    30.97906,
+    -9.39813,
+    30.97906
+],
+  "geometry": {"coordinates":[-9.39813,30.97906],"type":"Point"}
+}

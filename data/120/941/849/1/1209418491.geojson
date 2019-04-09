@@ -1,0 +1,61 @@
+{
+  "id": 1209418491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.93594,35.10094,-3.93594,35.10094",
+    "geom:latitude":35.10094,
+    "geom:longitude":-3.93594,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ait Bou Khemchay",
+    "gn:country_code":"MA",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10958380,
+    "gn:latitude":35.10094,
+    "gn:longitude":-3.93594,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Bou Khemchay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10958380
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"79fb693ecb92374751c39f40b9809572",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209418491
+        }
+    ],
+    "wof:id":1209418491,
+    "wof:lastmodified":1536287608,
+    "wof:name":"Ait Bou Khemchay",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.93594,
+    35.10094,
+    -3.93594,
+    35.10094
+],
+  "geometry": {"coordinates":[-3.93594,35.10094],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209229603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.74608,34.2913,-4.74608,34.2913",
+    "geom:latitude":34.2913,
+    "geom:longitude":-4.74608,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Jyalma",
+    "gn:country_code":"MA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551641,
+    "gn:latitude":34.2913,
+    "gn:longitude":-4.74608,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Jyalma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Jiahna",
+        "Douar Jihana",
+        "Douar Jyalma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551641
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"19064d3f11f876fcd13c29843c8d8c06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229603
+        }
+    ],
+    "wof:id":1209229603,
+    "wof:lastmodified":1537663955,
+    "wof:name":"Douar Jyalma",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.74608,
+    34.2913,
+    -4.74608,
+    34.2913
+],
+  "geometry": {"coordinates":[-4.74608,34.2913],"type":"Point"}
+}

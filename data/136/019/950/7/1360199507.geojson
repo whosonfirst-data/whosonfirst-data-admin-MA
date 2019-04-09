@@ -1,0 +1,67 @@
+{
+  "id": 1360199507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98869,29.72011,-7.98869,29.72011",
+    "geom:latitude":29.72011,
+    "geom:longitude":-7.98869,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aglagal",
+    "gn:country_code":"MA",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561512,
+    "gn:latitude":29.72011,
+    "gn:longitude":-7.98869,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aglagal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561512
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"56cf519a6dd5845483f1042b68b8af50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1360199507,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1360199507,
+    "wof:lastmodified":1536781032,
+    "wof:name":"Aglagal",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98869,
+    29.72011,
+    -7.98869,
+    29.72011
+],
+  "geometry": {"coordinates":[-7.98869,29.72011],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209028349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49145,32.60839,-7.49145,32.60839",
+    "geom:latitude":32.60839,
+    "geom:longitude":-7.49145,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Oulad El Ogir",
+    "gn:country_code":"MA",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949423,
+    "gn:latitude":32.60839,
+    "gn:longitude":-7.49145,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad El Ogir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949423
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3f164b6fb57a7342d1a51f102111a704",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209028349
+        }
+    ],
+    "wof:id":1209028349,
+    "wof:lastmodified":1536299925,
+    "wof:name":"Douar Oulad El Ogir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49145,
+    32.60839,
+    -7.49145,
+    32.60839
+],
+  "geometry": {"coordinates":[-7.49145,32.60839],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293804133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93505,32.18789,-8.93505,32.18789",
+    "geom:latitude":32.18789,
+    "geom:longitude":-8.93505,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Rousouna",
+    "gn:country_code":"MA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637500,
+    "gn:latitude":32.18789,
+    "gn:longitude":-8.93505,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Rousouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637500
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"51f711354c46f9b643c5b83af757a308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1293804133,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293804133,
+    "wof:lastmodified":1536826787,
+    "wof:name":"Douar Rousouna",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93505,
+    32.18789,
+    -8.93505,
+    32.18789
+],
+  "geometry": {"coordinates":[-8.93505,32.18789],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293311159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.95193,35.39029,-5.95193,35.39029",
+    "geom:latitude":35.39029,
+    "geom:longitude":-5.95193,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zaara",
+    "gn:country_code":"MA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571917,
+    "gn:latitude":35.39029,
+    "gn:longitude":-5.95193,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zaara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ezhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571917
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"37441b9be24040ce9aea89131e0aceab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1293311159,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293311159,
+    "wof:lastmodified":1537664280,
+    "wof:name":"Zaara",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.95193,
+    35.39029,
+    -5.95193,
+    35.39029
+],
+  "geometry": {"coordinates":[-5.95193,35.39029],"type":"Point"}
+}

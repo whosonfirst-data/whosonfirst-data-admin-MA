@@ -1,0 +1,74 @@
+{
+  "id": 1343571523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.65579,32.15919,-7.65579,32.15919",
+    "geom:latitude":32.15919,
+    "geom:longitude":-7.65579,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Boukhliq",
+    "gn:country_code":"MA",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540025,
+    "gn:latitude":32.15919,
+    "gn:longitude":-7.65579,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Boukhliq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boukhliq",
+        "Ahel Ch\u00e2b",
+        "Douar Oulad Boukhlik",
+        "Oulad Boukhlik",
+        "Douar Oulad Boukhliq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540025
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b8dc437e7f2db407a2411d428835844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1343571523,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343571523,
+    "wof:lastmodified":1537663600,
+    "wof:name":"Douar Oulad Boukhliq",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.65579,
+    32.15919,
+    -7.65579,
+    32.15919
+],
+  "geometry": {"coordinates":[-7.65579,32.15919],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292913647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.62586,34.92699,-5.62586,34.92699",
+    "geom:latitude":34.92699,
+    "geom:longitude":-5.62586,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Zaanene",
+    "gn:country_code":"MA",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526481,
+    "gn:latitude":34.92699,
+    "gn:longitude":-5.62586,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Zaanene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9anene",
+        "Zaanene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526481
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0c375228e8dc21df04cf92d48dd00d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1292913647,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1292913647,
+    "wof:lastmodified":1537663330,
+    "wof:name":"Douar Zaanene",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.62586,
+    34.92699,
+    -5.62586,
+    34.92699
+],
+  "geometry": {"coordinates":[-5.62586,34.92699],"type":"Point"}
+}

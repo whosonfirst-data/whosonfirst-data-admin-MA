@@ -1,0 +1,71 @@
+{
+  "id": 1310611355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.69299,29.25795,-8.69299,29.25795",
+    "geom:latitude":29.25795,
+    "geom:longitude":-8.69299,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tadakoust",
+    "gn:country_code":"MA",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532104,
+    "gn:latitude":29.25795,
+    "gn:longitude":-8.69299,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tadakoust",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadaoust",
+        "Tadakoust"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532104
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d18f623b5ebe4baaf8f62022ff490243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1310611355,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1310611355,
+    "wof:lastmodified":1537663486,
+    "wof:name":"Tadakoust",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.69299,
+    29.25795,
+    -8.69299,
+    29.25795
+],
+  "geometry": {"coordinates":[-8.69299,29.25795],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310325283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9295,31.33138,-7.9295,31.33138",
+    "geom:latitude":31.33138,
+    "geom:longitude":-7.9295,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Agadir-n-Igourramene",
+    "gn:country_code":"MA",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561605,
+    "gn:latitude":31.33138,
+    "gn:longitude":-7.9295,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Agadir-n-Igourramene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agadir n Ougrramene",
+        "Agadir n\u2019Igourram\u00e8n",
+        "Agadir n\u2019Igourramene",
+        "Agadir-n-Igourramene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561605
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"602a936d43c4f8ac1d5a43b784b8f918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1310325283,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310325283,
+    "wof:lastmodified":1537664243,
+    "wof:name":"Agadir-n-Igourramene",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9295,
+    31.33138,
+    -7.9295,
+    31.33138
+],
+  "geometry": {"coordinates":[-7.9295,31.33138],"type":"Point"}
+}

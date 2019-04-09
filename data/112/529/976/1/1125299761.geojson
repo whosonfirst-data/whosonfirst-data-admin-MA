@@ -1,0 +1,88 @@
+{
+  "id": 1125299761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.65322,34.52321,-4.65322,34.52321",
+    "geom:latitude":34.52321,
+    "geom:longitude":-4.65322,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":32600,
+    "gn:population":32600,
+    "iso:country":"MA",
+    "lbl:latitude":34.52321,
+    "lbl:longitude":-4.65322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0627\u0644\u0645\u062e\u0641\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Taounate"
+    ],
+    "name:fra_x_variant":[
+        "Taounate (MU)",
+        "Taounate (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547002,
+    "qs_pg:gn_pop":32600,
+    "qs_pg:name":"Taounate",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":630081,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547002,
+        "qs_pg:id":630081
+    },
+    "wof:country":"MA",
+    "wof:created":1497043359,
+    "wof:geomhash":"afac89fbbf35dac4eb80bacb8ec35d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "localadmin_id":1125299761,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125299761,
+    "wof:lastmodified":1509387687,
+    "wof:name":"Taounate",
+    "wof:parent_id":890418103,
+    "wof:placetype":"localadmin",
+    "wof:population":32600,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.65322,
+    34.52321,
+    -4.65322,
+    34.52321
+],
+  "geometry": {"coordinates":[-4.65322,34.52321],"type":"Point"}
+}

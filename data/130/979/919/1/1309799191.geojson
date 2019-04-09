@@ -1,0 +1,72 @@
+{
+  "id": 1309799191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5302,32.14542,-6.5302,32.14542",
+    "geom:latitude":32.14542,
+    "geom:longitude":-6.5302,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ayt Toulghoum",
+    "gn:country_code":"MA",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559259,
+    "gn:latitude":32.14542,
+    "gn:longitude":-6.5302,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ayt Toulghoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Oulrhom",
+        "A\u00eft Oulrhoum",
+        "Ayt Toulghoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559259
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f34ddfa53b7a8a01066f4de365d1b54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1309799191,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1309799191,
+    "wof:lastmodified":1537664160,
+    "wof:name":"Ayt Toulghoum",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5302,
+    32.14542,
+    -6.5302,
+    32.14542
+],
+  "geometry": {"coordinates":[-6.5302,32.14542],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209404017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.87019,30.83403,-7.87019,30.83403",
+    "geom:latitude":30.83403,
+    "geom:longitude":-7.87019,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Agouni",
+    "gn:country_code":"MA",
+    "gn:dem":1516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147986,
+    "gn:latitude":30.83403,
+    "gn:longitude":-7.87019,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Agouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147986
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"44e6e2275901dfb6e244a5a5ce60bedb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209404017
+        }
+    ],
+    "wof:id":1209404017,
+    "wof:lastmodified":1536288054,
+    "wof:name":"Agouni",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.870189999999999,
+    30.83403,
+    -7.870189999999999,
+    30.83403
+],
+  "geometry": {"coordinates":[-7.87019,30.83403],"type":"Point"}
+}

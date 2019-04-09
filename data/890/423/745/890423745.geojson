@@ -1,0 +1,77 @@
+{
+  "id": 890423745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.57393,33.53372,-7.57393,33.53372",
+    "geom:latitude":33.53372,
+    "geom:longitude":-7.57393,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":33940,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0627\u0644\u0647\u0631\u0627\u0648\u064a\u064a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Lamkansa"
+    ],
+    "name:fra_x_variant":[
+        "Lamkansa (AC)",
+        "Lamkansa (Agglomeration Communale)"
+    ],
+    "qs:name":"Lamkansa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673905,
+        890442533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545431,
+        "qs:id":628579,
+        "wk:page":"Mkansa"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051511,
+    "wof:geomhash":"34186186c6a62e8d184a7e5e9b3e95df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442533,
+            "localadmin_id":890423745,
+            "region_id":85673905
+        }
+    ],
+    "wof:id":890423745,
+    "wof:lastmodified":1527729728,
+    "wof:name":"Lamkansa",
+    "wof:parent_id":890442533,
+    "wof:placetype":"localadmin",
+    "wof:population":33940,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.57393,
+    33.53372,
+    -7.57393,
+    33.53372
+],
+  "geometry": {"coordinates":[-7.57393,33.53372],"type":"Point"}
+}

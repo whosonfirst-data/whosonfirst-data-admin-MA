@@ -1,0 +1,66 @@
+{
+  "id": 1209208099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.81169,31.38804,-7.81169,31.38804",
+    "geom:latitude":31.38804,
+    "geom:longitude":-7.81169,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dar Moulay Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541877,
+    "gn:latitude":31.38804,
+    "gn:longitude":-7.81169,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Dar Moulay Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Moulay Ahmed",
+        "Moulay Ahmed",
+        "Dar Moulay Ahmed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541877
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fe2eb3be33484d81cd6e710f1a82a3c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209208099
+        }
+    ],
+    "wof:id":1209208099,
+    "wof:lastmodified":1537663646,
+    "wof:name":"Dar Moulay Ahmed",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.81169,
+    31.38804,
+    -7.81169,
+    31.38804
+],
+  "geometry": {"coordinates":[-7.81169,31.38804],"type":"Point"}
+}

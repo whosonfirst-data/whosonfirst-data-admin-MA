@@ -1,0 +1,70 @@
+{
+  "id": 1243190807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.02516,29.76152,-9.02516,29.76152",
+    "geom:latitude":29.76152,
+    "geom:longitude":-9.02516,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ammiyl",
+    "gn:country_code":"MA",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557765,
+    "gn:latitude":29.76152,
+    "gn:longitude":-9.02516,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ammiyl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557765
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a73af423ec0efb8062bb60146d114562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1243190807,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243190807,
+    "wof:lastmodified":1537664118,
+    "wof:name":"Ammiyl",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.02516,
+    29.76152,
+    -9.02516,
+    29.76152
+],
+  "geometry": {"coordinates":[-9.02516,29.76152],"type":"Point"}
+}

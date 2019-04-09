@@ -1,0 +1,78 @@
+{
+  "id": 890452955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.70757,32.55942,-6.70757,32.55942",
+    "geom:latitude":32.55942,
+    "geom:longitude":-6.70757,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":34064,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0647\u0644 \u0645\u0631\u0628\u0639"
+    ],
+    "name:fra_x_preferred":[
+        "Krifate"
+    ],
+    "name:fra_x_variant":[
+        "Krifate (CR)",
+        "Krifate (Commune Rurale)"
+    ],
+    "qs:name":"Krifate",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546119,
+        "qs:id":629260,
+        "wd:id":"Q12234875",
+        "wk:page":"Krifate"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052835,
+    "wof:geomhash":"39042e77470a4b8ef92e3a540d73417e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "localadmin_id":890452955,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890452955,
+    "wof:lastmodified":1527734183,
+    "wof:name":"Krifate",
+    "wof:parent_id":1108784787,
+    "wof:placetype":"localadmin",
+    "wof:population":34064,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.70757,
+    32.55942,
+    -6.70757,
+    32.55942
+],
+  "geometry": {"coordinates":[-6.70757,32.55942],"type":"Point"}
+}

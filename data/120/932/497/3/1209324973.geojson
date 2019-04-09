@@ -1,0 +1,66 @@
+{
+  "id": 1209324973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71271,32.47237,-8.71271,32.47237",
+    "geom:latitude":32.47237,
+    "geom:longitude":-8.71271,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Slama",
+    "gn:country_code":"MA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539196,
+    "gn:latitude":32.47237,
+    "gn:longitude":-8.71271,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Slama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Slama",
+        "Ouled Slama",
+        "Oulad Slama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539196
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"14360b934f2c9a5af772a87c533e7d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209324973
+        }
+    ],
+    "wof:id":1209324973,
+    "wof:lastmodified":1537663557,
+    "wof:name":"Oulad Slama",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71271,
+    32.47237,
+    -8.71271,
+    32.47237
+],
+  "geometry": {"coordinates":[-8.71271,32.47237],"type":"Point"}
+}

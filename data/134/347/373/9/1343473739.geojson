@@ -1,0 +1,70 @@
+{
+  "id": 1343473739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.84836,34.04421,-4.84836,34.04421",
+    "geom:latitude":34.04421,
+    "geom:longitude":-4.84836,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Lmasdoura",
+    "gn:country_code":"MA",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558417,
+    "gn:latitude":34.04421,
+    "gn:longitude":-4.84836,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lmasdoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mesdoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558417
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9bf2dc1da92933be2a14ae7b6acab6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1343473739,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1343473739,
+    "wof:lastmodified":1537664136,
+    "wof:name":"Douar Lmasdoura",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.84836,
+    34.04421,
+    -4.84836,
+    34.04421
+],
+  "geometry": {"coordinates":[-4.84836,34.04421],"type":"Point"}
+}

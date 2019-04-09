@@ -1,0 +1,71 @@
+{
+  "id": 1242587867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05345,30.16651,-9.05345,30.16651",
+    "geom:latitude":30.16651,
+    "geom:longitude":-9.05345,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Imi n' Tsil",
+    "gn:country_code":"MA",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546104,
+    "gn:latitude":30.16651,
+    "gn:longitude":-9.05345,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imi n\u2019 Tsil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imi n\u2019 Tsil",
+        "Imi n\u2019Tsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546104
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba507b14ceae5632f8ebe56462a38c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1242587867,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242587867,
+    "wof:lastmodified":1537663744,
+    "wof:name":"Imi n' Tsil",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05345,
+    30.16651,
+    -9.05345,
+    30.16651
+],
+  "geometry": {"coordinates":[-9.05345,30.16651],"type":"Point"}
+}

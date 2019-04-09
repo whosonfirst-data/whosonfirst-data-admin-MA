@@ -1,0 +1,70 @@
+{
+  "id": 1209816805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.13023,34.48922,-5.13023,34.48922",
+    "geom:latitude":34.48922,
+    "geom:longitude":-5.13023,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"531.0",
+    "gn:admin3_code":"1553105152.0",
+    "gn:asciiname":"Moulay Bouchta",
+    "gn:country_code":"MA",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2541840,
+    "gn:latitude":34.48922,
+    "gn:longitude":-5.13023,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Moulay Bouchta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541840,
+        "wk:page":"Moulay_Bouchta"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"231a4ed8b24e38e0a533a5657c4aae41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1209816805,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1209816805,
+    "wof:lastmodified":1537568241,
+    "wof:name":"Moulay Bouchta",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.13023,
+    34.48922,
+    -5.13023,
+    34.48922
+],
+  "geometry": {"coordinates":[-5.13023,34.48922],"type":"Point"}
+}

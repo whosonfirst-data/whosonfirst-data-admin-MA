@@ -1,0 +1,71 @@
+{
+  "id": 1225954563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38727,30.76999,-8.38727,30.76999",
+    "geom:latitude":30.76999,
+    "geom:longitude":-8.38727,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tourhibine",
+    "gn:country_code":"MA",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526682,
+    "gn:latitude":30.76999,
+    "gn:longitude":-8.38727,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tourhibine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toukhribine",
+        "Tourhibine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526682
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e9e06776bc3df4a4457e7f7c0558982a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1225954563,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225954563,
+    "wof:lastmodified":1537663333,
+    "wof:name":"Tourhibine",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38727,
+    30.76999,
+    -8.38727,
+    30.76999
+],
+  "geometry": {"coordinates":[-8.38727,30.76999],"type":"Point"}
+}

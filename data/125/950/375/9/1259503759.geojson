@@ -1,0 +1,67 @@
+{
+  "id": 1259503759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.24244,31.65837,-9.24244,31.65837",
+    "geom:latitude":31.65837,
+    "geom:longitude":-9.24244,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ejjirt",
+    "gn:country_code":"MA",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10902195,
+    "gn:latitude":31.65837,
+    "gn:longitude":-9.24244,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ejjirt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10902195
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fb2157e886ed87ad234f2093f3257cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1259503759,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259503759,
+    "wof:lastmodified":1536828739,
+    "wof:name":"Douar Ejjirt",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24244,
+    31.65837,
+    -9.24244,
+    31.65837
+],
+  "geometry": {"coordinates":[-9.24244,31.65837],"type":"Point"}
+}

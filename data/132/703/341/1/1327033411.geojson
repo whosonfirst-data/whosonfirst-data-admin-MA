@@ -1,0 +1,67 @@
+{
+  "id": 1327033411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.49268,34.66856,-5.49268,34.66856",
+    "geom:latitude":34.66856,
+    "geom:longitude":-5.49268,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Dchiyar",
+    "gn:country_code":"MA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925204,
+    "gn:latitude":34.66856,
+    "gn:longitude":-5.49268,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Dchiyar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925204
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a8b17b63b14be376407f45d38a5f9fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1327033411,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327033411,
+    "wof:lastmodified":1536759106,
+    "wof:name":"Douar Dchiyar",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.49268,
+    34.66856,
+    -5.49268,
+    34.66856
+],
+  "geometry": {"coordinates":[-5.49268,34.66856],"type":"Point"}
+}

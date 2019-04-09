@@ -1,0 +1,67 @@
+{
+  "id": 1277000117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86,29.75,-8.86,29.75",
+    "geom:latitude":29.75,
+    "geom:longitude":-8.86,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tifrhelt",
+    "gn:country_code":"MA",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528619,
+    "gn:latitude":29.75,
+    "gn:longitude":-8.86,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tifrhelt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528619
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"99ccd52a8c6efd06cab5f2b55d3e3868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1277000117,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1277000117,
+    "wof:lastmodified":1536879180,
+    "wof:name":"Tifrhelt",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86,
+    29.75,
+    -8.86,
+    29.75
+],
+  "geometry": {"coordinates":[-8.86,29.75],"type":"Point"}
+}

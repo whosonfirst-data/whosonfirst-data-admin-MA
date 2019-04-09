@@ -1,0 +1,67 @@
+{
+  "id": 1210015271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91105,31.45165,-6.91105,31.45165",
+    "geom:latitude":31.45165,
+    "geom:longitude":-6.91105,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Idar-n-Warg",
+    "gn:country_code":"MA",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951413,
+    "gn:latitude":31.45165,
+    "gn:longitude":-6.91105,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Idar-n-Warg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951413
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7579894c1dcf93674bc1c27a1fe54464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1210015271,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1210015271,
+    "wof:lastmodified":1536395372,
+    "wof:name":"Idar-n-Warg",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91105,
+    31.45165,
+    -6.91105,
+    31.45165
+],
+  "geometry": {"coordinates":[-6.91105,31.45165],"type":"Point"}
+}

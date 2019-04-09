@@ -1,0 +1,67 @@
+{
+  "id": 1309715587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.54296,35.81949,-5.54296,35.81949",
+    "geom:latitude":35.81949,
+    "geom:longitude":-5.54296,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ain Chouka",
+    "gn:country_code":"MA",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955448,
+    "gn:latitude":35.81949,
+    "gn:longitude":-5.54296,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ain Chouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955448
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d007b5f82ad5126c85fbbb092ee6e51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1309715587,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1309715587,
+    "wof:lastmodified":1537058592,
+    "wof:name":"Ain Chouka",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.54296,
+    35.81949,
+    -5.54296,
+    35.81949
+],
+  "geometry": {"coordinates":[-5.54296,35.81949],"type":"Point"}
+}

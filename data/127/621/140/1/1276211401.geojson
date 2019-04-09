@@ -1,0 +1,72 @@
+{
+  "id": 1276211401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.12351,31.70423,-4.12351,31.70423",
+    "geom:latitude":31.70423,
+    "geom:longitude":-4.12351,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zawiat Awfous",
+    "gn:country_code":"MA",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526379,
+    "gn:latitude":31.70423,
+    "gn:longitude":-4.12351,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Zawiat Awfous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Zazouia Aoufous",
+        "Zaouia Aoufous",
+        "Zawiat Awfous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526379
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5deba39d288d4f4644fc9aad1557cad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1276211401,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1276211401,
+    "wof:lastmodified":1537663327,
+    "wof:name":"Zawiat Awfous",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.12351,
+    31.70423,
+    -4.12351,
+    31.70423
+],
+  "geometry": {"coordinates":[-4.12351,31.70423],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259898425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.48368,35.69668,-5.48368,35.69668",
+    "geom:latitude":35.69668,
+    "geom:longitude":-5.48368,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Lacheqrach",
+    "gn:country_code":"MA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543476,
+    "gn:latitude":35.69668,
+    "gn:longitude":-5.48368,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lacheqrach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lechkrech",
+        "Lechkhach",
+        "Douar Lacheqrach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543476
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"88859451077e8fdbdd13921fd32928c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1259898425,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259898425,
+    "wof:lastmodified":1537663674,
+    "wof:name":"Douar Lacheqrach",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.48368,
+    35.69668,
+    -5.48368,
+    35.69668
+],
+  "geometry": {"coordinates":[-5.48368,35.69668],"type":"Point"}
+}

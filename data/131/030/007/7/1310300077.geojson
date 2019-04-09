@@ -1,0 +1,73 @@
+{
+  "id": 1310300077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.42216,31.50876,-4.42216,31.50876",
+    "geom:latitude":31.50876,
+    "geom:longitude":-4.42216,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Achouria",
+    "gn:country_code":"MA",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561993,
+    "gn:latitude":31.50876,
+    "gn:longitude":-4.42216,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Al Achouria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lachouria",
+        "El Achouriat",
+        "Achouria",
+        "Al Achouria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561993
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a29588e13630166f3dba4edbb49936a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1310300077,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1310300077,
+    "wof:lastmodified":1537664252,
+    "wof:name":"Al Achouria",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.42216,
+    31.50876,
+    -4.42216,
+    31.50876
+],
+  "geometry": {"coordinates":[-4.42216,31.50876],"type":"Point"}
+}

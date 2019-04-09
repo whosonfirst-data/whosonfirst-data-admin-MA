@@ -1,0 +1,78 @@
+{
+  "id": 890441175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14417,32.57013,-8.14417,32.57013",
+    "geom:latitude":32.57013,
+    "geom:longitude":-8.14417,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":7641,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u0639\u0645\u0631\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Boussaken"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Boussaken (CR)",
+        "Oulad Boussaken (Commune Rurale)"
+    ],
+    "qs:name":"Oulad Boussaken",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546027,
+        "qs:id":629168,
+        "wd:id":"Q7110390",
+        "wk:page":"Oulad Boussaken"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052312,
+    "wof:geomhash":"3cf75b88da252fa480c3f961247c9592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "localadmin_id":890441175,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":890441175,
+    "wof:lastmodified":1527727230,
+    "wof:name":"Oulad Boussaken",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"localadmin",
+    "wof:population":7641,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14417,
+    32.57013,
+    -8.14417,
+    32.57013
+],
+  "geometry": {"coordinates":[-8.14417,32.57013],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343782245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.97319,32.1386,-8.97319,32.1386",
+    "geom:latitude":32.1386,
+    "geom:longitude":-8.97319,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lehsasna",
+    "gn:country_code":"MA",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637598,
+    "gn:latitude":32.1386,
+    "gn:longitude":-8.97319,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lehsasna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637598
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"531cea08d6be281c850ed70033e7a1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1343782245,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343782245,
+    "wof:lastmodified":1536780111,
+    "wof:name":"Douar Lehsasna",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.97319,
+    32.1386,
+    -8.97319,
+    32.1386
+],
+  "geometry": {"coordinates":[-8.97319,32.1386],"type":"Point"}
+}

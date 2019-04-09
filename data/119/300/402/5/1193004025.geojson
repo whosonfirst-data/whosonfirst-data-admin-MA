@@ -1,0 +1,67 @@
+{
+  "id": 1193004025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29186,32.1989,-8.29186,32.1989",
+    "geom:latitude":32.1989,
+    "geom:longitude":-8.29186,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Aid Abya",
+    "gn:country_code":"MA",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10640759,
+    "gn:latitude":32.1989,
+    "gn:longitude":-8.29186,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Aid Abya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10640759
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9b1edc2b779063a3a450f8175c544aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1193004025,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1193004025,
+    "wof:lastmodified":1536367319,
+    "wof:name":"Douar Aid Abya",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29186,
+    32.1989,
+    -8.29186,
+    32.1989
+],
+  "geometry": {"coordinates":[-8.29186,32.1989],"type":"Point"}
+}

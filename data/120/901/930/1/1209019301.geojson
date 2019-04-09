@@ -1,0 +1,64 @@
+{
+  "id": 1209019301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.92677,32.60185,-8.92677,32.60185",
+    "geom:latitude":32.60185,
+    "geom:longitude":-8.92677,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Timegrat",
+    "gn:country_code":"MA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526965,
+    "gn:latitude":32.60185,
+    "gn:longitude":-8.92677,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Timegrat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tnine el Garat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526965
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"571c4def719537e78d1e409893117680",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019301
+        }
+    ],
+    "wof:id":1209019301,
+    "wof:lastmodified":1537663339,
+    "wof:name":"Douar Timegrat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.92677,
+    32.60185,
+    -8.92677,
+    32.60185
+],
+  "geometry": {"coordinates":[-8.92677,32.60185],"type":"Point"}
+}

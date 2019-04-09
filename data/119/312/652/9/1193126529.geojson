@@ -1,0 +1,67 @@
+{
+  "id": 1193126529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.04213,30.08498,-9.04213,30.08498",
+    "geom:latitude":30.08498,
+    "geom:longitude":-9.04213,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Agadir Oufra Dougadir",
+    "gn:country_code":"MA",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131383,
+    "gn:latitude":30.08498,
+    "gn:longitude":-9.04213,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Agadir Oufra Dougadir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131383
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cf112993b0dd923013cad3fc11a6b866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1193126529,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1193126529,
+    "wof:lastmodified":1536380325,
+    "wof:name":"Agadir Oufra Dougadir",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.04213,
+    30.08498,
+    -9.04213,
+    30.08498
+],
+  "geometry": {"coordinates":[-9.04213,30.08498],"type":"Point"}
+}

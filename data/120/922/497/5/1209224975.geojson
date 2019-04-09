@@ -1,0 +1,65 @@
+{
+  "id": 1209224975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21264,30.35005,-8.21264,30.35005",
+    "geom:latitude":30.35005,
+    "geom:longitude":-8.21264,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Ounzar",
+    "gn:country_code":"MA",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565409,
+    "gn:latitude":30.35005,
+    "gn:longitude":-8.21264,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Ounzar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ounzar",
+        "Anammer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565409
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"60c09f041c9c8268203a6570e51346cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224975
+        }
+    ],
+    "wof:id":1209224975,
+    "wof:lastmodified":1537664263,
+    "wof:name":"Ait Ounzar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21264,
+    30.35005,
+    -8.21264,
+    30.35005
+],
+  "geometry": {"coordinates":[-8.21264,30.35005],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260291759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06398,34.58727,-5.06398,34.58727",
+    "geom:latitude":34.58727,
+    "geom:longitude":-5.06398,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lbalha",
+    "gn:country_code":"MA",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11041987,
+    "gn:latitude":34.58727,
+    "gn:longitude":-5.06398,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lbalha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11041987
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"38496f0dc9e8f81e91b8183944e185be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1260291759,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1260291759,
+    "wof:lastmodified":1536701071,
+    "wof:name":"Lbalha",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06398,
+    34.58727,
+    -5.06398,
+    34.58727
+],
+  "geometry": {"coordinates":[-5.06398,34.58727],"type":"Point"}
+}

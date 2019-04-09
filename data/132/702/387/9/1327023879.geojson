@@ -1,0 +1,67 @@
+{
+  "id": 1327023879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4639,29.94495,-9.4639,29.94495",
+    "geom:latitude":29.94495,
+    "geom:longitude":-9.4639,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Ben Yidir",
+    "gn:country_code":"MA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130355,
+    "gn:latitude":29.94495,
+    "gn:longitude":-9.4639,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ben Yidir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130355
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2be6249d2dbed3e6daef92d696415564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1327023879,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327023879,
+    "wof:lastmodified":1536773422,
+    "wof:name":"Ait Ben Yidir",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4639,
+    29.94495,
+    -9.4639,
+    29.94495
+],
+  "geometry": {"coordinates":[-9.4639,29.94495],"type":"Point"}
+}

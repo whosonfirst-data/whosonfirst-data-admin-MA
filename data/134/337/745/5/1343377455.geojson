@@ -1,0 +1,67 @@
+{
+  "id": 1343377455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18708,31.63741,-9.18708,31.63741",
+    "geom:latitude":31.63741,
+    "geom:longitude":-9.18708,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Friha",
+    "gn:country_code":"MA",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539807,
+    "gn:latitude":31.63741,
+    "gn:longitude":-9.18708,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Friha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539807
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1f2dff4c97ee206319e8330bae83a6c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1343377455,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343377455,
+    "wof:lastmodified":1536864638,
+    "wof:name":"Oulad Friha",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18708,
+    31.63741,
+    -9.18708,
+    31.63741
+],
+  "geometry": {"coordinates":[-9.18708,31.63741],"type":"Point"}
+}

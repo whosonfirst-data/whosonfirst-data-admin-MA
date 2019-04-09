@@ -1,0 +1,67 @@
+{
+  "id": 1293869699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5781,30.97763,-8.5781,30.97763",
+    "geom:latitude":30.97763,
+    "geom:longitude":-8.5781,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tighist",
+    "gn:country_code":"MA",
+    "gn:dem":1922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912685,
+    "gn:latitude":30.97763,
+    "gn:longitude":-8.5781,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tighist",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912685
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8067418298782bd0acf0ace0fd321081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1293869699,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293869699,
+    "wof:lastmodified":1536733483,
+    "wof:name":"Tighist",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5781,
+    30.97763,
+    -8.5781,
+    30.97763
+],
+  "geometry": {"coordinates":[-8.5781,30.97763],"type":"Point"}
+}

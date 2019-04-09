@@ -1,0 +1,72 @@
+{
+  "id": 1309926063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06813,31.56918,-8.06813,31.56918",
+    "geom:latitude":31.56918,
+    "geom:longitude":-8.06813,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Soltane",
+    "gn:country_code":"MA",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532529,
+    "gn:latitude":31.56918,
+    "gn:longitude":-8.06813,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Soltane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Sultane",
+        "Douar Soltane",
+        "Soltane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532529
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c2c98f974d48e7d9f327845d468ba383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1309926063,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309926063,
+    "wof:lastmodified":1537663500,
+    "wof:name":"Douar Soltane",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06813,
+    31.56918,
+    -8.06813,
+    31.56918
+],
+  "geometry": {"coordinates":[-8.06813,31.56918],"type":"Point"}
+}

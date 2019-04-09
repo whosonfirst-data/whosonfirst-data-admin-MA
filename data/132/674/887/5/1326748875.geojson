@@ -1,0 +1,67 @@
+{
+  "id": 1326748875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.16,34.81,-4.16,34.81",
+    "geom:latitude":34.81,
+    "geom:longitude":-4.16,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Seffal",
+    "gn:country_code":"MA",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537564,
+    "gn:latitude":34.81,
+    "gn:longitude":-4.16,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Seffal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537564
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e785d114835692817a5aac4c6f51a3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1326748875,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1326748875,
+    "wof:lastmodified":1536671642,
+    "wof:name":"Seffal",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.16,
+    34.81,
+    -4.16,
+    34.81
+],
+  "geometry": {"coordinates":[-4.16,34.81],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343972983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.08835,31.43388,-7.08835,31.43388",
+    "geom:latitude":31.43388,
+    "geom:longitude":-7.08835,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tissalli",
+    "gn:country_code":"MA",
+    "gn:dem":1986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527318,
+    "gn:latitude":31.43388,
+    "gn:longitude":-7.08835,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tissalli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tissili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527318
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ecb26ed82976da26281b458824a77cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343972983,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343972983,
+    "wof:lastmodified":1537663350,
+    "wof:name":"Tissalli",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.08835,
+    31.43388,
+    -7.08835,
+    31.43388
+],
+  "geometry": {"coordinates":[-7.08835,31.43388],"type":"Point"}
+}

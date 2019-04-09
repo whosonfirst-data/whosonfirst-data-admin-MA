@@ -1,0 +1,72 @@
+{
+  "id": 1276567059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01826,34.68195,-6.01826,34.68195",
+    "geom:latitude":34.68195,
+    "geom:longitude":-6.01826,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oulad Dobba",
+    "gn:country_code":"MA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539925,
+    "gn:latitude":34.68195,
+    "gn:longitude":-6.01826,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Dobba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Dobba",
+        "Ouled Dabat",
+        "Oulad Dobba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539925
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3a87fff4179c78d8d806b7c9d5ed572a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1276567059,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276567059,
+    "wof:lastmodified":1537663596,
+    "wof:name":"Oulad Dobba",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01826,
+    34.68195,
+    -6.01826,
+    34.68195
+],
+  "geometry": {"coordinates":[-6.01826,34.68195],"type":"Point"}
+}

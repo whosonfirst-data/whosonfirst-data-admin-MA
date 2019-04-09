@@ -1,0 +1,61 @@
+{
+  "id": 1209334897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21259,31.64319,-9.21259,31.64319",
+    "geom:latitude":31.64319,
+    "geom:longitude":-9.21259,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Laazzaba",
+    "gn:country_code":"MA",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10902206,
+    "gn:latitude":31.64319,
+    "gn:longitude":-9.21259,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laazzaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10902206
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2c72b4436268079af886de97cd8250c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209334897
+        }
+    ],
+    "wof:id":1209334897,
+    "wof:lastmodified":1536290255,
+    "wof:name":"Douar Laazzaba",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21259,
+    31.64319,
+    -9.21259,
+    31.64319
+],
+  "geometry": {"coordinates":[-9.21259,31.64319],"type":"Point"}
+}

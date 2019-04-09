@@ -1,0 +1,67 @@
+{
+  "id": 1343876833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.66839,33.69222,-3.66839,33.69222",
+    "geom:latitude":33.69222,
+    "geom:longitude":-3.66839,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maiter",
+    "gn:country_code":"MA",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543129,
+    "gn:latitude":33.69222,
+    "gn:longitude":-3.66839,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ma\u00efter",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543129
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cb7c8024d8fcf62141c834e182dbe732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1343876833,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1343876833,
+    "wof:lastmodified":1536642197,
+    "wof:name":"Maiter",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.66839,
+    33.69222,
+    -3.66839,
+    33.69222
+],
+  "geometry": {"coordinates":[-3.66839,33.69222],"type":"Point"}
+}

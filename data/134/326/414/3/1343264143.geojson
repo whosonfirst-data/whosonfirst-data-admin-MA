@@ -1,0 +1,67 @@
+{
+  "id": 1343264143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.01521,35.13129,-3.01521,35.13129",
+    "geom:latitude":35.13129,
+    "geom:longitude":-3.01521,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Laassara",
+    "gn:country_code":"MA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961214,
+    "gn:latitude":35.13129,
+    "gn:longitude":-3.01521,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Laassara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961214
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d711bc189eb64e59d9fa8716aa0bf69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1343264143,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1343264143,
+    "wof:lastmodified":1537028369,
+    "wof:name":"Laassara",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.01521,
+    35.13129,
+    -3.01521,
+    35.13129
+],
+  "geometry": {"coordinates":[-3.01521,35.13129],"type":"Point"}
+}

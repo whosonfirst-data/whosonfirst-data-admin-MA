@@ -1,0 +1,72 @@
+{
+  "id": 1343571431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.17724,34.29274,-5.17724,34.29274",
+    "geom:latitude":34.29274,
+    "geom:longitude":-5.17724,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Laabaouba",
+    "gn:country_code":"MA",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539356,
+    "gn:latitude":34.29274,
+    "gn:longitude":-5.17724,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Laabaouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Gharbaoui",
+        "Oulad Rharbaoui",
+        "Douar Laabaouba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539356
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9f16f7a89cfbfe9064370f86f66f5b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1343571431,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1343571431,
+    "wof:lastmodified":1537663565,
+    "wof:name":"Douar Laabaouba",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.17724,
+    34.29274,
+    -5.17724,
+    34.29274
+],
+  "geometry": {"coordinates":[-5.17724,34.29274],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193002305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91658,30.77182,-7.91658,30.77182",
+    "geom:latitude":30.77182,
+    "geom:longitude":-7.91658,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dou-ou-Azrou",
+    "gn:country_code":"MA",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147937,
+    "gn:latitude":30.77182,
+    "gn:longitude":-7.91658,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dou-ou-Azrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147937
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b6a32dfe5129e1643e7858c1ebea964b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1193002305,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1193002305,
+    "wof:lastmodified":1536369181,
+    "wof:name":"Dou-ou-Azrou",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91658,
+    30.77182,
+    -7.91658,
+    30.77182
+],
+  "geometry": {"coordinates":[-7.91658,30.77182],"type":"Point"}
+}

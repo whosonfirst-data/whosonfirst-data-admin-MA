@@ -1,0 +1,61 @@
+{
+  "id": 1209418489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.51879,35.04329,-4.51879,35.04329",
+    "geom:latitude":35.04329,
+    "geom:longitude":-4.51879,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Aghbal",
+    "gn:country_code":"MA",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10957723,
+    "gn:latitude":35.04329,
+    "gn:longitude":-4.51879,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Aghbal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10957723
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bd5189ce279fb77478786d5ea8d3df8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209418489
+        }
+    ],
+    "wof:id":1209418489,
+    "wof:lastmodified":1536287608,
+    "wof:name":"Douar Aghbal",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.51879,
+    35.04329,
+    -4.51879,
+    35.04329
+],
+  "geometry": {"coordinates":[-4.51879,35.04329],"type":"Point"}
+}

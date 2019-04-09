@@ -1,0 +1,67 @@
+{
+  "id": 1225937363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41826,31.12361,-8.41826,31.12361",
+    "geom:latitude":31.12361,
+    "geom:longitude":-8.41826,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zwalil",
+    "gn:country_code":"MA",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149369,
+    "gn:latitude":31.12361,
+    "gn:longitude":-8.41826,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zwalil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149369
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0d9f02b69df04de56f4494b07ac0f0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1225937363,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1225937363,
+    "wof:lastmodified":1536880793,
+    "wof:name":"Zwalil",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41826,
+    31.12361,
+    -8.41826,
+    31.12361
+],
+  "geometry": {"coordinates":[-8.41826,31.12361],"type":"Point"}
+}

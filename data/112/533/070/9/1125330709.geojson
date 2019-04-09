@@ -1,0 +1,88 @@
+{
+  "id": 1125330709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.53913,31.78101,-9.53913,31.78101",
+    "geom:latitude":31.78101,
+    "geom:longitude":-9.53913,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15037,
+    "gn:population":15662,
+    "iso:country":"MA",
+    "lbl:latitude":31.78101,
+    "lbl:longitude":-9.53913,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0633\u0639\u064a\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Aquermoud"
+    ],
+    "name:fra_x_variant":[
+        "Aquermoud (CR)",
+        "Aquermoud (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546654,
+    "qs_pg:gn_pop":15037,
+    "qs_pg:name":"Aquermoud",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629758,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546654,
+        "qs_pg:id":629758
+    },
+    "wof:country":"MA",
+    "wof:created":1497045118,
+    "wof:geomhash":"4f886db058650310b1c5b710ef050f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "localadmin_id":1125330709,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125330709,
+    "wof:lastmodified":1509388373,
+    "wof:name":"Aquermoud",
+    "wof:parent_id":890453939,
+    "wof:placetype":"localadmin",
+    "wof:population":15662,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.53913,
+    31.78101,
+    -9.53913,
+    31.78101
+],
+  "geometry": {"coordinates":[-9.53913,31.78101],"type":"Point"}
+}

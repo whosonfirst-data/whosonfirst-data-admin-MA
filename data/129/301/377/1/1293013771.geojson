@@ -1,0 +1,67 @@
+{
+  "id": 1293013771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.4869,35.55421,-5.4869,35.55421",
+    "geom:latitude":35.55421,
+    "geom:longitude":-5.4869,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chouaar",
+    "gn:country_code":"MA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060344,
+    "gn:latitude":35.55421,
+    "gn:longitude":-5.4869,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Chouaar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060344
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b7265fd35794c0155f0a24304d0544bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1293013771,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293013771,
+    "wof:lastmodified":1536972477,
+    "wof:name":"Chouaar",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.4869,
+    35.55421,
+    -5.4869,
+    35.55421
+],
+  "geometry": {"coordinates":[-5.4869,35.55421],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242973159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.25278,34.70674,-2.25278,34.70674",
+    "geom:latitude":34.70674,
+    "geom:longitude":-2.25278,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Oulad Boudlal",
+    "gn:country_code":"MA",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10998516,
+    "gn:latitude":34.70674,
+    "gn:longitude":-2.25278,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Boudlal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890453895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10998516
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"be0a765b2975928f612d44a507f22712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453895,
+            "locality_id":1242973159,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1242973159,
+    "wof:lastmodified":1536990053,
+    "wof:name":"Douar Oulad Boudlal",
+    "wof:parent_id":890453895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.25278,
+    34.70674,
+    -2.25278,
+    34.70674
+],
+  "geometry": {"coordinates":[-2.25278,34.70674],"type":"Point"}
+}

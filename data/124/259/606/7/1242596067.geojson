@@ -1,0 +1,72 @@
+{
+  "id": 1242596067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.94025,30.91087,-6.94025,30.91087",
+    "geom:latitude":30.91087,
+    "geom:longitude":-6.94025,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zawyat Sidi Atmane",
+    "gn:country_code":"MA",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526285,
+    "gn:latitude":30.91087,
+    "gn:longitude":-6.94025,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zawyat Sidi Atmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia Sidi Athmane",
+        "Zaouiat Sidi Athmane",
+        "Zawyat Sidi Atmane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526285
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f67253b800a67ca57d32aa4f46ecef76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1242596067,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242596067,
+    "wof:lastmodified":1537663320,
+    "wof:name":"Zawyat Sidi Atmane",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.94025,
+    30.91087000000001,
+    -6.94025,
+    30.91087000000001
+],
+  "geometry": {"coordinates":[-6.94025,30.91087000000001],"type":"Point"}
+}

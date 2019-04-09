@@ -1,0 +1,67 @@
+{
+  "id": 1310019037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0113,35.48743,-6.0113,35.48743",
+    "geom:latitude":35.48743,
+    "geom:longitude":-6.0113,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qatraniya",
+    "gn:country_code":"MA",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8473224,
+    "gn:latitude":35.48743,
+    "gn:longitude":-6.0113,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Qatraniya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8473224
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6e2a76176d1cc0885c6995c9a6acace8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1310019037,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310019037,
+    "wof:lastmodified":1536621682,
+    "wof:name":"Qatraniya",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0113,
+    35.48743,
+    -6.0113,
+    35.48743
+],
+  "geometry": {"coordinates":[-6.0113,35.48743],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125274067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.13207,32.66526,-5.13207,32.66526",
+    "geom:latitude":32.66526,
+    "geom:longitude":-5.13207,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2760,
+    "gn:population":2760,
+    "iso:country":"MA",
+    "lbl:latitude":32.66526,
+    "lbl:longitude":-5.13207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0627\u0637"
+    ],
+    "name:fra_x_preferred":[
+        "Boumia"
+    ],
+    "name:fra_x_variant":[
+        "Boumia (CR)",
+        "Boumia (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546965,
+    "qs_pg:gn_pop":2760,
+    "qs_pg:name":"Boumia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":630049,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546965,
+        "qs_pg:id":630049
+    },
+    "wof:country":"MA",
+    "wof:created":1497042245,
+    "wof:geomhash":"88a836f5d0bdeb2bd52a6b5786ea6812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "localadmin_id":1125274067,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1125274067,
+    "wof:lastmodified":1509387108,
+    "wof:name":"Boumia",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"localadmin",
+    "wof:population":2760,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.13207,
+    32.66526,
+    -5.13207,
+    32.66526
+],
+  "geometry": {"coordinates":[-5.13207,32.66526],"type":"Point"}
+}

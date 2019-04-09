@@ -1,0 +1,78 @@
+{
+  "id": 890423905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.69745,30.91,-8.69745,30.91",
+    "geom:latitude":30.91,
+    "geom:longitude":-8.69745,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5537,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u062a\u0632\u064a\u062a\u0648\u0646\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Haddou Youssef"
+    ],
+    "name:fra_x_variant":[
+        "Ait Haddou Youssef (CR)",
+        "Ait Haddou Youssef (Commune Rurale)"
+    ],
+    "qs:name":"Ait Haddou Youssef",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546099,
+        "qs:id":629241,
+        "wd:id":"Q4699239",
+        "wk:page":"Ait Haddou Youssef"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051519,
+    "wof:geomhash":"17d1547cf6f8cd44aca38b83b9dbc7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "localadmin_id":890423905,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890423905,
+    "wof:lastmodified":1527727272,
+    "wof:name":"Ait Haddou Youssef",
+    "wof:parent_id":890440847,
+    "wof:placetype":"localadmin",
+    "wof:population":5537,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.69745,
+    30.91,
+    -8.69745,
+    30.91
+],
+  "geometry": {"coordinates":[-8.69745,30.91],"type":"Point"}
+}

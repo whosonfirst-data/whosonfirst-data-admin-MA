@@ -1,0 +1,78 @@
+{
+  "id": 890424085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.265,32.59609,-6.265,32.59609",
+    "geom:latitude":32.59609,
+    "geom:longitude":-6.265,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":39887,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0642\u064a\u0647 \u0628\u0646 \u0635\u0627\u0644\u062d (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Kasba Tadla"
+    ],
+    "name:fra_x_variant":[
+        "Kasba Tadla (MU)",
+        "Kasba Tadla (Commune Urbaine)"
+    ],
+    "qs:name":"Kasba Tadla",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546821,
+        "qs:id":629925,
+        "wd:id":"Q1734833",
+        "wk:page":"Kasba Tadla"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051529,
+    "wof:geomhash":"8022dbee5e35dabbbadbcb5d153dc56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "localadmin_id":890424085,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890424085,
+    "wof:lastmodified":1527727264,
+    "wof:name":"Kasba Tadla",
+    "wof:parent_id":890452779,
+    "wof:placetype":"localadmin",
+    "wof:population":39887,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.265,
+    32.59609,
+    -6.265,
+    32.59609
+],
+  "geometry": {"coordinates":[-6.265,32.59609],"type":"Point"}
+}

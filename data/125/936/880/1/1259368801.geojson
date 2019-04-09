@@ -1,0 +1,67 @@
+{
+  "id": 1259368801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01511,32.3762,-8.01511,32.3762",
+    "geom:latitude":32.3762,
+    "geom:longitude":-8.01511,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad El Hachmi",
+    "gn:country_code":"MA",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795975,
+    "gn:latitude":32.3762,
+    "gn:longitude":-8.01511,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad El Hachmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795975
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a2dcb9844536ae1383403c5dca016e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1259368801,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259368801,
+    "wof:lastmodified":1537022429,
+    "wof:name":"Oulad El Hachmi",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01511,
+    32.3762,
+    -8.01511,
+    32.3762
+],
+  "geometry": {"coordinates":[-8.01511,32.3762],"type":"Point"}
+}

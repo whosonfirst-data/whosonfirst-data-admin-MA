@@ -1,0 +1,65 @@
+{
+  "id": 1209022769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05,32.7,-9.05,32.7",
+    "geom:latitude":32.7,
+    "geom:longitude":-9.05,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Haibut Chair",
+    "gn:country_code":"MA",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551680,
+    "gn:latitude":32.7,
+    "gn:longitude":-9.05,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Haibut Cha\u00efr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hiout Cha\u00efr",
+        "Douar Haibut Cha\u00efr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551680
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cff70183ebfada5aad1383298ccee82e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209022769
+        }
+    ],
+    "wof:id":1209022769,
+    "wof:lastmodified":1537663958,
+    "wof:name":"Douar Haibut Chair",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05,
+    32.7,
+    -9.05,
+    32.7
+],
+  "geometry": {"coordinates":[-9.05,32.7],"type":"Point"}
+}

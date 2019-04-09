@@ -1,0 +1,65 @@
+{
+  "id": 1209429841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.04735,35.3027,-3.04735,35.3027",
+    "geom:latitude":35.3027,
+    "geom:longitude":-3.04735,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ichmouart",
+    "gn:country_code":"MA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547475,
+    "gn:latitude":35.3027,
+    "gn:longitude":-3.04735,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ichmouart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ixmuart",
+        "Ichmouart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547475
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fa542b14746615490dc7fbcf1fc021fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429841
+        }
+    ],
+    "wof:id":1209429841,
+    "wof:lastmodified":1537663793,
+    "wof:name":"Ichmouart",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.04735,
+    35.3027,
+    -3.04735,
+    35.3027
+],
+  "geometry": {"coordinates":[-3.04735,35.3027],"type":"Point"}
+}

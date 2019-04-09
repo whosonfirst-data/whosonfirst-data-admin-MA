@@ -1,0 +1,78 @@
+{
+  "id": 890417285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.59183,33.63883,-5.59183,33.63883",
+    "geom:latitude":33.63883,
+    "geom:longitude":-5.59183,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":13291,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u062d\u0631\u0632 \u0627\u0644\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Agourai"
+    ],
+    "name:fra_x_variant":[
+        "Agourai (MU)",
+        "Agourai (Commune Urbaine)"
+    ],
+    "qs:name":"Agourai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546953,
+        "qs:id":630037,
+        "wd:id":"Q2827113",
+        "wk:page":"Agourai"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051193,
+    "wof:geomhash":"b73521ee8155e06f0cb989aca5f938cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "localadmin_id":890417285,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890417285,
+    "wof:lastmodified":1527782124,
+    "wof:name":"Agourai",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"localadmin",
+    "wof:population":13291,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.59183,
+    33.63883,
+    -5.59183,
+    33.63883
+],
+  "geometry": {"coordinates":[-5.59183,33.63883],"type":"Point"}
+}

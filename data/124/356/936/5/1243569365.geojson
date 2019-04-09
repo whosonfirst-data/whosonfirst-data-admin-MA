@@ -1,0 +1,70 @@
+{
+  "id": 1243569365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03911,31.11196,-9.03911,31.11196",
+    "geom:latitude":31.11196,
+    "geom:longitude":-9.03911,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Taoura El Foukania",
+    "gn:country_code":"MA",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530217,
+    "gn:latitude":31.11196,
+    "gn:longitude":-9.03911,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taoura El Foukania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530217
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00f06ddb3f39b4256913005c9626f741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1243569365,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243569365,
+    "wof:lastmodified":1537663431,
+    "wof:name":"Taoura El Foukania",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03911,
+    31.11196,
+    -9.03911,
+    31.11196
+],
+  "geometry": {"coordinates":[-9.03911,31.11196],"type":"Point"}
+}

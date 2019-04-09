@@ -1,0 +1,88 @@
+{
+  "id": 1125296747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25058,31.2241,-8.25058,31.2241",
+    "geom:latitude":31.2241,
+    "geom:longitude":-8.25058,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2923,
+    "gn:population":2923,
+    "iso:country":"MA",
+    "lbl:latitude":31.2241,
+    "lbl:longitude":-8.25058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u063a\u0631\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Amizmiz"
+    ],
+    "name:fra_x_variant":[
+        "Amizmiz (CR)",
+        "Amizmiz (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546607,
+    "qs_pg:gn_pop":2923,
+    "qs_pg:name":"Amizmiz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629709,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546607,
+        "qs_pg:id":629709
+    },
+    "wof:country":"MA",
+    "wof:created":1497043186,
+    "wof:geomhash":"3011adfdaa3d64260c7c1d5c121dfecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "localadmin_id":1125296747,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125296747,
+    "wof:lastmodified":1509387638,
+    "wof:name":"Amizmiz",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"localadmin",
+    "wof:population":2923,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25058,
+    31.2241,
+    -8.25058,
+    31.2241
+],
+  "geometry": {"coordinates":[-8.25058,31.2241],"type":"Point"}
+}

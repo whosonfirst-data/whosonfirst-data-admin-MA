@@ -1,0 +1,67 @@
+{
+  "id": 1193030925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.06,31.08,-7.06,31.08",
+    "geom:latitude":31.08,
+    "geom:longitude":-7.06,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Targa",
+    "gn:country_code":"MA",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529913,
+    "gn:latitude":31.08,
+    "gn:longitude":-7.06,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Targa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529913
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"71de75540684ddb3708c5a6a0ccb61ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1193030925,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1193030925,
+    "wof:lastmodified":1536364298,
+    "wof:name":"Targa",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.06,
+    31.08,
+    -7.06,
+    31.08
+],
+  "geometry": {"coordinates":[-7.06,31.08],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293798835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3,34.26,-3.3,34.26",
+    "geom:latitude":34.26,
+    "geom:longitude":-3.3,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Kasba et Torch",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544756,
+    "gn:latitude":34.26,
+    "gn:longitude":-3.3,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Kasba et Torch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasba Torch",
+        "Kasba et Torch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544756
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"24019bbb71f6cf8c0408c2518592e409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1293798835,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293798835,
+    "wof:lastmodified":1537663701,
+    "wof:name":"Kasba et Torch",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3,
+    34.26,
+    -3.3,
+    34.26
+],
+  "geometry": {"coordinates":[-3.3,34.26],"type":"Point"}
+}

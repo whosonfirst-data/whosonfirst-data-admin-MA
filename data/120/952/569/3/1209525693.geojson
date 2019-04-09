@@ -1,0 +1,66 @@
+{
+  "id": 1209525693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.35749,34.79342,-2.35749,34.79342",
+    "geom:latitude":34.79342,
+    "geom:longitude":-2.35749,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Bni Amayir",
+    "gn:country_code":"MA",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555982,
+    "gn:latitude":34.79342,
+    "gn:longitude":-2.35749,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bni Amayir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Ameur",
+        "Beni Amer",
+        "Douar Bni Amayir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555982
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d3b4766466832d5e2ae9e30162c5cdb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525693
+        }
+    ],
+    "wof:id":1209525693,
+    "wof:lastmodified":1537664077,
+    "wof:name":"Douar Bni Amayir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.35749,
+    34.79342,
+    -2.35749,
+    34.79342
+],
+  "geometry": {"coordinates":[-2.35749,34.79342],"type":"Point"}
+}

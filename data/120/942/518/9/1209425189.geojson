@@ -1,0 +1,66 @@
+{
+  "id": 1209425189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1,33.41,-8.1,33.41",
+    "geom:latitude":33.41,
+    "geom:longitude":-8.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dar Oulad Hajj Kassem",
+    "gn:country_code":"MA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552570,
+    "gn:latitude":33.41,
+    "gn:longitude":-8.1,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Oulad Hajj Kassem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Oulad Haj Kassem",
+        "Dar Oulad Kassem",
+        "Dar Oulad Hajj Kassem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552570
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e6eeb39d6f986d1fc8450f40b8f6f5b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425189
+        }
+    ],
+    "wof:id":1209425189,
+    "wof:lastmodified":1537664006,
+    "wof:name":"Dar Oulad Hajj Kassem",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1,
+    33.41,
+    -8.1,
+    33.41
+],
+  "geometry": {"coordinates":[-8.1,33.41],"type":"Point"}
+}

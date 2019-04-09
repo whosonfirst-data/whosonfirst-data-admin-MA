@@ -1,0 +1,67 @@
+{
+  "id": 1309804865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15048,34.42497,-5.15048,34.42497",
+    "geom:latitude":34.42497,
+    "geom:longitude":-5.15048,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Hamri",
+    "gn:country_code":"MA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985695,
+    "gn:latitude":34.42497,
+    "gn:longitude":-5.15048,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Hamri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985695
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6017d2e7e47946c94199b99d5dca8d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1309804865,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1309804865,
+    "wof:lastmodified":1536933138,
+    "wof:name":"Douar Hamri",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.15048,
+    34.42497,
+    -5.15048,
+    34.42497
+],
+  "geometry": {"coordinates":[-5.15048,34.42497],"type":"Point"}
+}

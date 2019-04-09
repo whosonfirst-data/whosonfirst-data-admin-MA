@@ -1,0 +1,67 @@
+{
+  "id": 1310323597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99922,29.70545,-7.99922,29.70545",
+    "geom:latitude":29.70545,
+    "geom:longitude":-7.99922,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tiiti",
+    "gn:country_code":"MA",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528412,
+    "gn:latitude":29.70545,
+    "gn:longitude":-7.99922,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528412
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"295b2ab83a0391035b30e413bb7ba41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1310323597,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1310323597,
+    "wof:lastmodified":1536681821,
+    "wof:name":"Tiiti",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99922,
+    29.70545,
+    -7.99922,
+    29.70545
+],
+  "geometry": {"coordinates":[-7.99922,29.70545],"type":"Point"}
+}

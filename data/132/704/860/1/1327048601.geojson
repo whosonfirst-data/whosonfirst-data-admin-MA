@@ -1,0 +1,72 @@
+{
+  "id": 1327048601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14878,32.57827,-9.14878,32.57827",
+    "geom:latitude":32.57827,
+    "geom:longitude":-9.14878,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Haddou",
+    "gn:country_code":"MA",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539795,
+    "gn:latitude":32.57827,
+    "gn:longitude":-9.14878,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Haddou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Haddou",
+        "Oulde Haddou",
+        "Oulad Haddou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539795
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"31be15b9614ad5806c50ba27c780ad26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1327048601,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1327048601,
+    "wof:lastmodified":1537663589,
+    "wof:name":"Oulad Haddou",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14878,
+    32.57827,
+    -9.14878,
+    32.57827
+],
+  "geometry": {"coordinates":[-9.14878,32.57827],"type":"Point"}
+}

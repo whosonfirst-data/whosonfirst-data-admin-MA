@@ -1,0 +1,67 @@
+{
+  "id": 1259585587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73794,35.16359,-3.73794,35.16359",
+    "geom:latitude":35.16359,
+    "geom:longitude":-3.73794,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Ijettarene",
+    "gn:country_code":"MA",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560634,
+    "gn:latitude":35.16359,
+    "gn:longitude":-3.73794,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Ijettarene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560634
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00c1e7fb2293d8f465607f9d3e3c2f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1259585587,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1259585587,
+    "wof:lastmodified":1536712092,
+    "wof:name":"Douar Ijettarene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73794,
+    35.16359,
+    -3.73794,
+    35.16359
+],
+  "geometry": {"coordinates":[-3.73794,35.16359],"type":"Point"}
+}

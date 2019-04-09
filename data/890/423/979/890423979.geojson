@@ -1,0 +1,78 @@
+{
+  "id": 890423979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37804,30.4867,-9.37804,30.4867",
+    "geom:latitude":30.4867,
+    "geom:longitude":-9.37804,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":9988,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0643\u0627\u062f\u064a\u0631 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629 )"
+    ],
+    "name:fra_x_preferred":[
+        "Amskroud"
+    ],
+    "name:fra_x_variant":[
+        "Amskroud (CR)",
+        "Amskroud (Commune Rurale)"
+    ],
+    "qs:name":"Amskroud",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546384,
+        "qs:id":629488,
+        "wd:id":"Q2844501",
+        "wk:page":"Amskroud"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051523,
+    "wof:geomhash":"ac6076a8fe93cf4f025c001b210fbbc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "localadmin_id":890423979,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890423979,
+    "wof:lastmodified":1527727271,
+    "wof:name":"Amskroud",
+    "wof:parent_id":890429099,
+    "wof:placetype":"localadmin",
+    "wof:population":9988,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37804,
+    30.4867,
+    -9.37804,
+    30.4867
+],
+  "geometry": {"coordinates":[-9.37804,30.4867],"type":"Point"}
+}

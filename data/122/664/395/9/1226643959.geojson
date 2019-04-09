@@ -1,0 +1,72 @@
+{
+  "id": 1226643959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.54563,32.38688,-6.54563,32.38688",
+    "geom:latitude":32.38688,
+    "geom:longitude":-6.54563,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Douar Al A'jana",
+    "gn:country_code":"MA",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551202,
+    "gn:latitude":32.38688,
+    "gn:longitude":-6.54563,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Douar Al A\u2019jana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Souader",
+        "Douar Souadeg",
+        "Douar Al A\u2019jana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551202
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"869a62828f45697790bd9d107fb847a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "locality_id":1226643959,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226643959,
+    "wof:lastmodified":1537663919,
+    "wof:name":"Douar Al A'jana",
+    "wof:parent_id":1108784787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.54563,
+    32.38688,
+    -6.54563,
+    32.38688
+],
+  "geometry": {"coordinates":[-6.54563,32.38688],"type":"Point"}
+}

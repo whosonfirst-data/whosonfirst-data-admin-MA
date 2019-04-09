@@ -1,0 +1,72 @@
+{
+  "id": 1209902041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.39265,31.40097,-7.39265,31.40097",
+    "geom:latitude":31.40097,
+    "geom:longitude":-7.39265,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tazouggart",
+    "gn:country_code":"MA",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529093,
+    "gn:latitude":31.40097,
+    "gn:longitude":-7.39265,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tazouggart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazouguerte",
+        "Tazzouguert",
+        "Tazouggart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529093
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"61b629e1af2289e30388d93e7f4f8ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1209902041,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209902041,
+    "wof:lastmodified":1537663399,
+    "wof:name":"Tazouggart",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.39265,
+    31.40097,
+    -7.39265,
+    31.40097
+],
+  "geometry": {"coordinates":[-7.39265,31.40097],"type":"Point"}
+}

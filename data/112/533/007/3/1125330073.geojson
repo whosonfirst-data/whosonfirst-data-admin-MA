@@ -1,0 +1,88 @@
+{
+  "id": 1125330073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.17506,29.90656,-9.17506,29.90656",
+    "geom:latitude":29.90656,
+    "geom:longitude":-9.17506,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6515,
+    "gn:population":4877,
+    "iso:country":"MA",
+    "lbl:latitude":29.90656,
+    "lbl:longitude":-9.17506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u0627\u0644\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Targua Ntouchka"
+    ],
+    "name:fra_x_variant":[
+        "Targua Ntouchka (CR)",
+        "Targua Ntouchka (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545837,
+    "qs_pg:gn_pop":6515,
+    "qs_pg:name":"Targua Ntouchka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628980,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545837,
+        "qs_pg:id":628980
+    },
+    "wof:country":"MA",
+    "wof:created":1497045083,
+    "wof:geomhash":"b6fe3851f127c2af69f4d2ae4959fcf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "localadmin_id":1125330073,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125330073,
+    "wof:lastmodified":1509388351,
+    "wof:name":"Targua Ntouchka",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"localadmin",
+    "wof:population":4877,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.17506,
+    29.90656,
+    -9.17506,
+    29.90656
+],
+  "geometry": {"coordinates":[-9.17506,29.90656],"type":"Point"}
+}

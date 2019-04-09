@@ -1,0 +1,70 @@
+{
+  "id": 1276888661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.32044,34.62561,-3.32044,34.62561",
+    "geom:latitude":34.62561,
+    "geom:longitude":-3.32044,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hassi Madlam",
+    "gn:country_code":"MA",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547778,
+    "gn:latitude":34.62561,
+    "gn:longitude":-3.32044,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Hassi Madlam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hassi Medlam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547778
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"75f6d8c037acebd0d5a75fd4c88d1b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1276888661,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1276888661,
+    "wof:lastmodified":1537663801,
+    "wof:name":"Hassi Madlam",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.32044,
+    34.62560999999999,
+    -3.32044,
+    34.62560999999999
+],
+  "geometry": {"coordinates":[-3.32044,34.62560999999999],"type":"Point"}
+}

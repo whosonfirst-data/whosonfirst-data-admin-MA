@@ -1,0 +1,67 @@
+{
+  "id": 1277065911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47695,30.05686,-9.47695,30.05686",
+    "geom:latitude":30.05686,
+    "geom:longitude":-9.47695,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Imziln",
+    "gn:country_code":"MA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945419,
+    "gn:latitude":30.05686,
+    "gn:longitude":-9.47695,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Imziln",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945419
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"684006365e40bdfdfba89e94123a895f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1277065911,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1277065911,
+    "wof:lastmodified":1536791977,
+    "wof:name":"Imziln",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47695,
+    30.05686,
+    -9.47695,
+    30.05686
+],
+  "geometry": {"coordinates":[-9.47695,30.05686],"type":"Point"}
+}

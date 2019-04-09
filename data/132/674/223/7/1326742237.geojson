@@ -1,0 +1,67 @@
+{
+  "id": 1326742237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.90768,35.03509,-2.90768,35.03509",
+    "geom:latitude":35.03509,
+    "geom:longitude":-2.90768,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Guemmoussat",
+    "gn:country_code":"MA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961497,
+    "gn:latitude":35.03509,
+    "gn:longitude":-2.90768,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Guemmoussat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961497
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e78b0fe4e7ed09cb97ff3afb44f6e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1326742237,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1326742237,
+    "wof:lastmodified":1536681209,
+    "wof:name":"Guemmoussat",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.90768,
+    35.03509,
+    -2.90768,
+    35.03509
+],
+  "geometry": {"coordinates":[-2.90768,35.03509],"type":"Point"}
+}

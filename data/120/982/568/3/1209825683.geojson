@@ -1,0 +1,71 @@
+{
+  "id": 1209825683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72881,34.27095,-3.72881,34.27095",
+    "geom:latitude":34.27095,
+    "geom:longitude":-3.72881,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Msoun",
+    "gn:country_code":"MA",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541578,
+    "gn:latitude":34.27095,
+    "gn:longitude":-3.72881,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Msoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Msun",
+        "Msoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541578
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"39d906a45317397d90a4f570b02a0907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1209825683,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1209825683,
+    "wof:lastmodified":1537663641,
+    "wof:name":"Msoun",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72881,
+    34.27095,
+    -3.72881,
+    34.27095
+],
+  "geometry": {"coordinates":[-3.72881,34.27095],"type":"Point"}
+}

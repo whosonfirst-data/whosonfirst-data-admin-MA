@@ -1,0 +1,61 @@
+{
+  "id": 1209233191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.15862,32.3133,-6.15862,32.3133",
+    "geom:latitude":32.3133,
+    "geom:longitude":-6.15862,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Oulourho",
+    "gn:country_code":"MA",
+    "gn:dem":1507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538891,
+    "gn:latitude":32.3133,
+    "gn:longitude":-6.15862,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulourho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538891
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bc2626e78fcb15c03c47999a0eafd576",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209233191
+        }
+    ],
+    "wof:id":1209233191,
+    "wof:lastmodified":1536293572,
+    "wof:name":"Oulourho",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.15862,
+    32.3133,
+    -6.15862,
+    32.3133
+],
+  "geometry": {"coordinates":[-6.15862,32.3133],"type":"Point"}
+}

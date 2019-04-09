@@ -1,0 +1,88 @@
+{
+  "id": 1125294855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1376,34.814,-5.1376,34.814",
+    "geom:latitude":34.814,
+    "geom:longitude":-5.1376,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":12923,
+    "gn:population":12978,
+    "iso:country":"MA",
+    "lbl:latitude":34.814,
+    "lbl:longitude":-5.1376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0627\u062c\u0628 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Ahmed Gharbia"
+    ],
+    "name:fra_x_variant":[
+        "Bni Ahmed Gharbia (CR)",
+        "Bni Ahmed Gharbia (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546143,
+    "qs_pg:gn_pop":12923,
+    "qs_pg:name":"Bni Ahmed Gharbia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629283,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546143,
+        "qs_pg:id":629283
+    },
+    "wof:country":"MA",
+    "wof:created":1497043093,
+    "wof:geomhash":"626dcbcde3ce681676b948e222d39dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "localadmin_id":1125294855,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125294855,
+    "wof:lastmodified":1509387602,
+    "wof:name":"Bni Ahmed Gharbia",
+    "wof:parent_id":890453883,
+    "wof:placetype":"localadmin",
+    "wof:population":12978,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1376,
+    34.814,
+    -5.1376,
+    34.814
+],
+  "geometry": {"coordinates":[-5.1376,34.814],"type":"Point"}
+}

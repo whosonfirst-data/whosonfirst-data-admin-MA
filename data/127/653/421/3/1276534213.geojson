@@ -1,0 +1,67 @@
+{
+  "id": 1276534213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.48723,31.49565,-7.48723,31.49565",
+    "geom:latitude":31.49565,
+    "geom:longitude":-7.48723,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Bouskour",
+    "gn:country_code":"MA",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353853,
+    "gn:latitude":31.49565,
+    "gn:longitude":-7.48723,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Bouskour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353853
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4cc8705d922ef02b48c9a957f4bd9a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1276534213,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276534213,
+    "wof:lastmodified":1537006097,
+    "wof:name":"Ait Bouskour",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.48723,
+    31.49565,
+    -7.48723,
+    31.49565
+],
+  "geometry": {"coordinates":[-7.48723,31.49565],"type":"Point"}
+}

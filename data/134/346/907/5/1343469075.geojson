@@ -1,0 +1,72 @@
+{
+  "id": 1343469075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.70045,30.63446,-7.70045,30.63446",
+    "geom:latitude":30.63446,
+    "geom:longitude":-7.70045,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Arg-n-Ait Slimane",
+    "gn:country_code":"MA",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557340,
+    "gn:latitude":30.63446,
+    "gn:longitude":-7.70045,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Arg-n-A\u00eft Slimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Argue A\u00eft Slimane",
+        "Arg n\u2019 A\u00eft Slimane",
+        "Arg-n-A\u00eft Slimane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557340
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"55a3b657be3edaa83e9df3a03a35c6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1343469075,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343469075,
+    "wof:lastmodified":1537664107,
+    "wof:name":"Arg-n-Ait Slimane",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.70045,
+    30.63446,
+    -7.70045,
+    30.63446
+],
+  "geometry": {"coordinates":[-7.70045,30.63446],"type":"Point"}
+}

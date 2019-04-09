@@ -1,0 +1,61 @@
+{
+  "id": 1209116377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21008,30.6999,-8.21008,30.6999",
+    "geom:latitude":30.6999,
+    "geom:longitude":-8.21008,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sidi Azza Ouiktane",
+    "gn:country_code":"MA",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2536244,
+    "gn:latitude":30.6999,
+    "gn:longitude":-8.21008,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Azza Ouiktane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2536244
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a487d251d1d211add45432f13ffb18b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209116377
+        }
+    ],
+    "wof:id":1209116377,
+    "wof:lastmodified":1536297240,
+    "wof:name":"Sidi Azza Ouiktane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21008,
+    30.6999,
+    -8.21008,
+    30.6999
+],
+  "geometry": {"coordinates":[-8.21008,30.6999],"type":"Point"}
+}

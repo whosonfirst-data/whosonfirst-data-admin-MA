@@ -1,0 +1,71 @@
+{
+  "id": 1344075485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67835,30.02726,-8.67835,30.02726",
+    "geom:latitude":30.02726,
+    "geom:longitude":-8.67835,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Adad",
+    "gn:country_code":"MA",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561990,
+    "gn:latitude":30.02726,
+    "gn:longitude":-8.67835,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Adad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adade",
+        "Adad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561990
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"614f4b4cc623b7d1140dcbf593b7a19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1344075485,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1344075485,
+    "wof:lastmodified":1537664252,
+    "wof:name":"Adad",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67835,
+    30.02726,
+    -8.67835,
+    30.02726
+],
+  "geometry": {"coordinates":[-8.67835,30.02726],"type":"Point"}
+}

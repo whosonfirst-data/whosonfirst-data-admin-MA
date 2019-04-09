@@ -1,0 +1,73 @@
+{
+  "id": 1310215331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.00206,32.43911,-9.00206,32.43911",
+    "geom:latitude":32.43911,
+    "geom:longitude":-9.00206,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Lahsen",
+    "gn:country_code":"MA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551446,
+    "gn:latitude":32.43911,
+    "gn:longitude":-9.00206,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Lahsen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Dahane",
+        "Ouled Dahan",
+        "Douar Oulad Dahane",
+        "Douar Oulad Lahsen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551446
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f5c769e4b16f61ce1371704b8ecf9bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1310215331,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310215331,
+    "wof:lastmodified":1537663939,
+    "wof:name":"Douar Oulad Lahsen",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00206,
+    32.43911,
+    -9.00206,
+    32.43911
+],
+  "geometry": {"coordinates":[-9.00206,32.43911],"type":"Point"}
+}

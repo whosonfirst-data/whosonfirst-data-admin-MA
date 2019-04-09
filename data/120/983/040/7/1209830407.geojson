@@ -1,0 +1,70 @@
+{
+  "id": 1209830407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76817,31.22162,-8.76817,31.22162",
+    "geom:latitude":31.22162,
+    "geom:longitude":-8.76817,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tagantane",
+    "gn:country_code":"MA",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531554,
+    "gn:latitude":31.22162,
+    "gn:longitude":-8.76817,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagantane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taguentane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531554
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2f2988c31910fc8a7d7a599e1ef1bed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1209830407,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209830407,
+    "wof:lastmodified":1537663468,
+    "wof:name":"Tagantane",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76817,
+    31.22162,
+    -8.76817,
+    31.22162
+],
+  "geometry": {"coordinates":[-8.76817,31.22162],"type":"Point"}
+}

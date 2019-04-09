@@ -1,0 +1,67 @@
+{
+  "id": 1193011489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.53719,31.66714,-6.53719,31.66714",
+    "geom:latitude":31.66714,
+    "geom:longitude":-6.53719,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tourtiyt",
+    "gn:country_code":"MA",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356065,
+    "gn:latitude":31.66714,
+    "gn:longitude":-6.53719,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tourtiyt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356065
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f7143c4de00afedb75cbc720fc715df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1193011489,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1193011489,
+    "wof:lastmodified":1536383036,
+    "wof:name":"Tourtiyt",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.53719,
+    31.66714,
+    -6.53719,
+    31.66714
+],
+  "geometry": {"coordinates":[-6.53719,31.66714],"type":"Point"}
+}

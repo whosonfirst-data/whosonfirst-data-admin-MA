@@ -1,0 +1,67 @@
+{
+  "id": 1343569129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.38605,35.06852,-3.38605,35.06852",
+    "geom:latitude":35.06852,
+    "geom:longitude":-3.38605,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Oulad Bouchih",
+    "gn:country_code":"MA",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092738,
+    "gn:latitude":35.06852,
+    "gn:longitude":-3.38605,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Bouchih",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092738
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9ebe1ab44e0d255ba96b2eb1a83aaddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1343569129,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1343569129,
+    "wof:lastmodified":1537083727,
+    "wof:name":"Oulad Bouchih",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.38605,
+    35.06852,
+    -3.38605,
+    35.06852
+],
+  "geometry": {"coordinates":[-3.38605,35.06852],"type":"Point"}
+}

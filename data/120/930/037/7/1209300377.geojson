@@ -1,0 +1,61 @@
+{
+  "id": 1209300377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96887,32.01714,-7.96887,32.01714",
+    "geom:latitude":32.01714,
+    "geom:longitude":-7.96887,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ghdirat Abouch",
+    "gn:country_code":"MA",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10927665,
+    "gn:latitude":32.01714,
+    "gn:longitude":-7.96887,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ghdirat Abouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10927665
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9e2a038154e1783dadc4c745d0c1e945",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209300377
+        }
+    ],
+    "wof:id":1209300377,
+    "wof:lastmodified":1536291379,
+    "wof:name":"Ghdirat Abouch",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96887,
+    32.017140000000005,
+    -7.96887,
+    32.017140000000005
+],
+  "geometry": {"coordinates":[-7.96887,32.01714],"type":"Point"}
+}

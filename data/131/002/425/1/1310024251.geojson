@@ -1,0 +1,72 @@
+{
+  "id": 1310024251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10635,30.36213,-9.10635,30.36213",
+    "geom:latitude":30.36213,
+    "geom:longitude":-9.10635,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Grounel Graa",
+    "gn:country_code":"MA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550371,
+    "gn:latitude":30.36213,
+    "gn:longitude":-9.10635,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Grounel Graa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Groun el Gr\u00e2a",
+        "El Groun el Graa",
+        "El Grounel Graa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550371
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8468d5bd61f626131b5b1a3a408526db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1310024251,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310024251,
+    "wof:lastmodified":1537663878,
+    "wof:name":"El Grounel Graa",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10635,
+    30.36213,
+    -9.10635,
+    30.36213
+],
+  "geometry": {"coordinates":[-9.10635,30.36213],"type":"Point"}
+}

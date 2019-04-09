@@ -1,0 +1,72 @@
+{
+  "id": 1225964483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23871,32.20522,-8.23871,32.20522",
+    "geom:latitude":32.20522,
+    "geom:longitude":-8.23871,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"As Smayra",
+    "gn:country_code":"MA",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532548,
+    "gn:latitude":32.20522,
+    "gn:longitude":-8.23871,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"As Smayra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simira",
+        "Smiria",
+        "As Smayra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532548
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c87259ea875357e6e66b427fd9866710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1225964483,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1225964483,
+    "wof:lastmodified":1537663500,
+    "wof:name":"As Smayra",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23871,
+    32.20522,
+    -8.23871,
+    32.20522
+],
+  "geometry": {"coordinates":[-8.23871,32.20522],"type":"Point"}
+}

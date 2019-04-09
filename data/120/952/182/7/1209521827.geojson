@@ -1,0 +1,61 @@
+{
+  "id": 1209521827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36391,34.34152,-5.36391,34.34152",
+    "geom:latitude":34.34152,
+    "geom:longitude":-5.36391,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Oulad Fatna",
+    "gn:country_code":"MA",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985080,
+    "gn:latitude":34.34152,
+    "gn:longitude":-5.36391,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Fatna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985080
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"11b72db9e753eb18740f390df388aa75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209521827
+        }
+    ],
+    "wof:id":1209521827,
+    "wof:lastmodified":1536284555,
+    "wof:name":"Douar Oulad Fatna",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36391,
+    34.34152,
+    -5.36391,
+    34.34152
+],
+  "geometry": {"coordinates":[-5.36391,34.34152],"type":"Point"}
+}

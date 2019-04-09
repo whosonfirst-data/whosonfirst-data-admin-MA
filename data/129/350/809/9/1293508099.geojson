@@ -1,0 +1,67 @@
+{
+  "id": 1293508099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33579,30.3622,-9.33579,30.3622",
+    "geom:latitude":30.3622,
+    "geom:longitude":-9.33579,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maison Des Jeunas",
+    "gn:country_code":"MA",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10889414,
+    "gn:latitude":30.3622,
+    "gn:longitude":-9.33579,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Maison Des Jeunas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10889414
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"663d25583d84abf9187513ce64346acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429093,
+            "locality_id":1293508099,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293508099,
+    "wof:lastmodified":1536757521,
+    "wof:name":"Maison Des Jeunas",
+    "wof:parent_id":890429093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33579,
+    30.3622,
+    -9.33579,
+    30.3622
+],
+  "geometry": {"coordinates":[-9.33579,30.3622],"type":"Point"}
+}

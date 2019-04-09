@@ -1,0 +1,75 @@
+{
+  "id": 890452867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.85199,33.86142,-6.85199,33.86142",
+    "geom:latitude":33.86142,
+    "geom:longitude":-6.85199,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5999,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0645\u064a\u0639\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Elmenzeh"
+    ],
+    "name:fra_x_variant":[
+        "Elmenzeh (CR)",
+        "Elmenzeh (Commune Rurale)"
+    ],
+    "qs:name":"Elmenzeh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545609,
+        "qs:id":628750
+    },
+    "wof:country":"MA",
+    "wof:created":1469052832,
+    "wof:geomhash":"788a8aa683852d985d74f61db4669056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "localadmin_id":890452867,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":890452867,
+    "wof:lastmodified":1505343648,
+    "wof:name":"Elmenzeh",
+    "wof:parent_id":890429101,
+    "wof:placetype":"localadmin",
+    "wof:population":5999,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.85199,
+    33.86142,
+    -6.85199,
+    33.86142
+],
+  "geometry": {"coordinates":[-6.85199,33.86142],"type":"Point"}
+}

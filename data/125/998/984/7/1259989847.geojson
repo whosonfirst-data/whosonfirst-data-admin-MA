@@ -1,0 +1,71 @@
+{
+  "id": 1259989847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.43442,30.4092,-7.43442,30.4092",
+    "geom:latitude":30.4092,
+    "geom:longitude":-7.43442,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Asdif",
+    "gn:country_code":"MA",
+    "gn:dem":1673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565355,
+    "gn:latitude":30.4092,
+    "gn:longitude":-7.43442,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Asdif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00e7dif",
+        "Asdif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565355
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7b32421430edb20fc414f1a167e22d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1259989847,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259989847,
+    "wof:lastmodified":1537664263,
+    "wof:name":"Asdif",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.43442,
+    30.4092,
+    -7.43442,
+    30.4092
+],
+  "geometry": {"coordinates":[-7.43442,30.4092],"type":"Point"}
+}

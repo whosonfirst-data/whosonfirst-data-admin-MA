@@ -1,0 +1,72 @@
+{
+  "id": 1293599479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.54902,35.25354,-5.54902,35.25354",
+    "geom:latitude":35.25354,
+    "geom:longitude":-5.54902,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ouantout",
+    "gn:country_code":"MA",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552257,
+    "gn:latitude":35.25354,
+    "gn:longitude":-5.54902,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouantout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diar Ouantol",
+        "Diar Ouanto\u00fbt",
+        "Ouantout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552257
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f97a17008c765682af7e59f3b4beed81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1293599479,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293599479,
+    "wof:lastmodified":1537663997,
+    "wof:name":"Ouantout",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.54902,
+    35.25354,
+    -5.54902,
+    35.25354
+],
+  "geometry": {"coordinates":[-5.54902,35.25354],"type":"Point"}
+}

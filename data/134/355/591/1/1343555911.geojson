@@ -1,0 +1,67 @@
+{
+  "id": 1343555911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40939,32.67258,-8.40939,32.67258",
+    "geom:latitude":32.67258,
+    "geom:longitude":-8.40939,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Lehniynine",
+    "gn:country_code":"MA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795564,
+    "gn:latitude":32.67258,
+    "gn:longitude":-8.40939,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lehniynine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795564
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8a81c20e63d274341f36b1c82911c422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1343555911,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343555911,
+    "wof:lastmodified":1536605539,
+    "wof:name":"Douar Lehniynine",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40939,
+    32.67258,
+    -8.40939,
+    32.67258
+],
+  "geometry": {"coordinates":[-8.40939,32.67258],"type":"Point"}
+}

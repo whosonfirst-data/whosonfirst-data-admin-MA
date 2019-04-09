@@ -1,0 +1,73 @@
+{
+  "id": 1259698767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.07832,31.54517,-9.07832,31.54517",
+    "geom:latitude":31.54517,
+    "geom:longitude":-9.07832,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Sidi Abdellah",
+    "gn:country_code":"MA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539258,
+    "gn:latitude":31.54517,
+    "gn:longitude":-9.07832,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Sidi Abdellah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Abdallah",
+        "Sidi Abdellah",
+        "Oulad Sidi Abdallah",
+        "Douar Oulad Sidi Abdellah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539258
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"24cea63ed12956e0b85e6766d4803efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1259698767,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259698767,
+    "wof:lastmodified":1537663560,
+    "wof:name":"Douar Oulad Sidi Abdellah",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.07832,
+    31.54517,
+    -9.07832,
+    31.54517
+],
+  "geometry": {"coordinates":[-9.07832,31.54517],"type":"Point"}
+}

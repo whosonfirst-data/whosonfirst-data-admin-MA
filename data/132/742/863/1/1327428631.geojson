@@ -1,0 +1,67 @@
+{
+  "id": 1327428631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21331,32.62819,-8.21331,32.62819",
+    "geom:latitude":32.62819,
+    "geom:longitude":-8.21331,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Oulad Salch",
+    "gn:country_code":"MA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10927576,
+    "gn:latitude":32.62819,
+    "gn:longitude":-8.21331,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Salch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10927576
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fcd1c83a9e467501c7c6565807778de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1327428631,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1327428631,
+    "wof:lastmodified":1536686279,
+    "wof:name":"Douar Oulad Salch",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21331,
+    32.62819,
+    -8.21331,
+    32.62819
+],
+  "geometry": {"coordinates":[-8.21331,32.62819],"type":"Point"}
+}

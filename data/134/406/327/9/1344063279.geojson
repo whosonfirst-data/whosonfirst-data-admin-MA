@@ -1,0 +1,67 @@
+{
+  "id": 1344063279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.31897,34.15555,-4.31897,34.15555",
+    "geom:latitude":34.15555,
+    "geom:longitude":-4.31897,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Lakhribat",
+    "gn:country_code":"MA",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10998060,
+    "gn:latitude":34.15555,
+    "gn:longitude":-4.31897,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lakhribat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10998060
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"112220c8241674cb4736cc9e2d4a23ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1344063279,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1344063279,
+    "wof:lastmodified":1536870335,
+    "wof:name":"Douar Lakhribat",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.31897,
+    34.15555,
+    -4.31897,
+    34.15555
+],
+  "geometry": {"coordinates":[-4.31897,34.15555],"type":"Point"}
+}

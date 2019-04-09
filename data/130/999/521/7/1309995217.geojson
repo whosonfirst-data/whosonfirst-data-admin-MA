@@ -1,0 +1,67 @@
+{
+  "id": 1309995217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09521,30.02209,-9.09521,30.02209",
+    "geom:latitude":30.02209,
+    "geom:longitude":-9.09521,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ammeln",
+    "gn:country_code":"MA",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131337,
+    "gn:latitude":30.02209,
+    "gn:longitude":-9.09521,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ammeln",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131337
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"39586efc0009c2e61e78d4874573f64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1309995217,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309995217,
+    "wof:lastmodified":1536658260,
+    "wof:name":"Ammeln",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09521,
+    30.02209,
+    -9.09521,
+    30.02209
+],
+  "geometry": {"coordinates":[-9.09521,30.02209],"type":"Point"}
+}

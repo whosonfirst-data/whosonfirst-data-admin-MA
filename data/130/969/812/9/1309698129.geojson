@@ -1,0 +1,67 @@
+{
+  "id": 1309698129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84062,31.46574,-7.84062,31.46574",
+    "geom:latitude":31.46574,
+    "geom:longitude":-7.84062,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar Ben S'aid",
+    "gn:country_code":"MA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353468,
+    "gn:latitude":31.46574,
+    "gn:longitude":-7.84062,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Ben S\u2019aid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353468
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c4228a8e0f9fc0288bb7c37ba6d46916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1309698129,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309698129,
+    "wof:lastmodified":1537083216,
+    "wof:name":"Dar Ben S'aid",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84062,
+    31.46574,
+    -7.84062,
+    31.46574
+],
+  "geometry": {"coordinates":[-7.84062,31.46574],"type":"Point"}
+}

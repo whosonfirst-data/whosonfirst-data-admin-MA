@@ -1,0 +1,72 @@
+{
+  "id": 1293609395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.12139,31.53746,-8.12139,31.53746",
+    "geom:latitude":31.53746,
+    "geom:longitude":-8.12139,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lachgoura",
+    "gn:country_code":"MA",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553444,
+    "gn:latitude":31.53746,
+    "gn:longitude":-8.12139,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Lachgoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Chegoura",
+        "Chegoura",
+        "Douar Lachgoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553444
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b3490f37ebcd17f19f29bdd790b4a7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1293609395,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293609395,
+    "wof:lastmodified":1537664035,
+    "wof:name":"Douar Lachgoura",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.12139,
+    31.53746,
+    -8.12139,
+    31.53746
+],
+  "geometry": {"coordinates":[-8.12139,31.53746],"type":"Point"}
+}

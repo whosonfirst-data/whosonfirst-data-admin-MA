@@ -1,0 +1,67 @@
+{
+  "id": 1260183503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.98297,34.10651,-4.98297,34.10651",
+    "geom:latitude":34.10651,
+    "geom:longitude":-4.98297,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ain Broghet",
+    "gn:country_code":"MA",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10993078,
+    "gn:latitude":34.10651,
+    "gn:longitude":-4.98297,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ain Broghet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10993078
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cebc4cf1f78b2e7c454497213290f24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1260183503,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1260183503,
+    "wof:lastmodified":1536846797,
+    "wof:name":"Douar Ain Broghet",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.98297,
+    34.10651,
+    -4.98297,
+    34.10651
+],
+  "geometry": {"coordinates":[-4.98297,34.10651],"type":"Point"}
+}

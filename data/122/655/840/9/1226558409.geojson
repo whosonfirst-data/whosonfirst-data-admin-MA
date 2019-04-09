@@ -1,0 +1,67 @@
+{
+  "id": 1226558409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57363,35.70861,-5.57363,35.70861",
+    "geom:latitude":35.70861,
+    "geom:longitude":-5.57363,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jouaneb",
+    "gn:country_code":"MA",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544947,
+    "gn:latitude":35.70861,
+    "gn:longitude":-5.57363,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jouaneb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544947
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"433ac4a0a138700a249251ba65847d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1226558409,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226558409,
+    "wof:lastmodified":1536979167,
+    "wof:name":"Jouaneb",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57363,
+    35.70861,
+    -5.57363,
+    35.70861
+],
+  "geometry": {"coordinates":[-5.57363,35.70861],"type":"Point"}
+}

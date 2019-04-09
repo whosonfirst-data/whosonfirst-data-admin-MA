@@ -1,0 +1,67 @@
+{
+  "id": 1260192023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.24902,35.00605,-4.24902,35.00605",
+    "geom:latitude":35.00605,
+    "geom:longitude":-4.24902,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Aremzane",
+    "gn:country_code":"MA",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091586,
+    "gn:latitude":35.00605,
+    "gn:longitude":-4.24902,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Aremzane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091586
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a33e8e2ed1a27c59eb824e70c3105166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1260192023,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1260192023,
+    "wof:lastmodified":1536835107,
+    "wof:name":"Douar Aremzane",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.24902,
+    35.00605,
+    -4.24902,
+    35.00605
+],
+  "geometry": {"coordinates":[-4.24902,35.00605],"type":"Point"}
+}

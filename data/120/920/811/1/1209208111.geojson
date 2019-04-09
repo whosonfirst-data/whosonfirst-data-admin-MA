@@ -1,0 +1,61 @@
+{
+  "id": 1209208111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.80843,32.04001,-7.80843,32.04001",
+    "geom:latitude":32.04001,
+    "geom:longitude":-7.80843,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar El Arbada Abdelfaltah",
+    "gn:country_code":"MA",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10927746,
+    "gn:latitude":32.04001,
+    "gn:longitude":-7.80843,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar El Arbada Abdelfaltah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10927746
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e6213006a7b7f086e088e0b35fabdf91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209208111
+        }
+    ],
+    "wof:id":1209208111,
+    "wof:lastmodified":1536294384,
+    "wof:name":"Dar El Arbada Abdelfaltah",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.80843,
+    32.040009999999995,
+    -7.80843,
+    32.040009999999995
+],
+  "geometry": {"coordinates":[-7.80843,32.04001],"type":"Point"}
+}

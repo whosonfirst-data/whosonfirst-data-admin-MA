@@ -1,0 +1,66 @@
+{
+  "id": 1327441769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62498,33.26166,-7.62498,33.26166",
+    "geom:latitude":33.26166,
+    "geom:longitude":-7.62498,
+    "gn:asciiname":"Douar Ouled Allal",
+    "gn:country_code":"MA",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":11281212,
+    "gn:latitude":33.26166,
+    "gn:longitude":-7.62498,
+    "gn:modification_date":"2016-10-25",
+    "gn:name":"Douar Ouled Allal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11281212
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"20a5f083654fac072aa5b0ae5238e73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "locality_id":1327441769,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1327441769,
+    "wof:lastmodified":1536667226,
+    "wof:name":"Douar Ouled Allal",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62498,
+    33.26166,
+    -7.62498,
+    33.26166
+],
+  "geometry": {"coordinates":[-7.62498,33.26166],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293192875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6795,32.83485,-8.6795,32.83485",
+    "geom:latitude":32.83485,
+    "geom:longitude":-8.6795,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Laqnadla",
+    "gn:country_code":"MA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367243,
+    "gn:latitude":32.83485,
+    "gn:longitude":-8.6795,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laqnadla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367243
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"22f10729490d1fb697651dd1f36a9dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1293192875,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293192875,
+    "wof:lastmodified":1536715138,
+    "wof:name":"Douar Laqnadla",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6795,
+    32.83485,
+    -8.6795,
+    32.83485
+],
+  "geometry": {"coordinates":[-8.6795,32.83485],"type":"Point"}
+}

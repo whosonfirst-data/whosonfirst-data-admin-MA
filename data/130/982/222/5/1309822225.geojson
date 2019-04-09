@@ -1,0 +1,74 @@
+{
+  "id": 1309822225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59982,31.68194,-7.59982,31.68194",
+    "geom:latitude":31.68194,
+    "geom:longitude":-7.59982,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Lgarn",
+    "gn:country_code":"MA",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539884,
+    "gn:latitude":31.68194,
+    "gn:longitude":-7.59982,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Lgarn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad el Guern",
+        "Ouled El Gerne",
+        "Oulad El Garn",
+        "Oulad el Guern",
+        "Douar Oulad Lgarn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539884
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cdc9ed356988053160898efdce0da456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1309822225,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309822225,
+    "wof:lastmodified":1537663594,
+    "wof:name":"Douar Oulad Lgarn",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59982,
+    31.68194,
+    -7.59982,
+    31.68194
+],
+  "geometry": {"coordinates":[-7.59982,31.68194],"type":"Point"}
+}

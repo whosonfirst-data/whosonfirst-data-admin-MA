@@ -1,0 +1,78 @@
+{
+  "id": 890454251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2287,33.90437,-5.2287,33.90437",
+    "geom:latitude":33.90437,
+    "geom:longitude":-5.2287,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":29296,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0648\u0645\u0644\u064a\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Laqsir"
+    ],
+    "name:fra_x_variant":[
+        "Laqsir (CR)",
+        "Laqsir (Commune Rurale)"
+    ],
+    "qs:name":"Laqsir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546066,
+        "qs:id":629207,
+        "wd:id":"Q6488479",
+        "wk:page":"Laqsir"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052892,
+    "wof:geomhash":"eb0d5e757d84ba3b659b5b01357a06d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "localadmin_id":890454251,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890454251,
+    "wof:lastmodified":1527735428,
+    "wof:name":"Laqsir",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"localadmin",
+    "wof:population":29296,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2287,
+    33.90437,
+    -5.2287,
+    33.90437
+],
+  "geometry": {"coordinates":[-5.2287,33.90437],"type":"Point"}
+}

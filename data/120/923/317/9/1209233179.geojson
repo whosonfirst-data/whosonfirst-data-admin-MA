@@ -1,0 +1,65 @@
+{
+  "id": 1209233179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.17813,30.31285,-7.17813,30.31285",
+    "geom:latitude":30.31285,
+    "geom:longitude":-7.17813,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Zaouiat Ainas",
+    "gn:country_code":"MA",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596519,
+    "gn:latitude":30.31285,
+    "gn:longitude":-7.17813,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Zaouiat A\u00efnas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zawyat A\u00efnas",
+        "Zaouiat A\u00efnas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596519
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3f470beef35ccee7f49333dd106e29c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209233179
+        }
+    ],
+    "wof:id":1209233179,
+    "wof:lastmodified":1537664287,
+    "wof:name":"Zaouiat Ainas",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.17813,
+    30.31285,
+    -7.17813,
+    30.31285
+],
+  "geometry": {"coordinates":[-7.17813,30.31285],"type":"Point"}
+}

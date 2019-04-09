@@ -1,0 +1,67 @@
+{
+  "id": 1309920691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.51,34.73,-4.51,34.73",
+    "geom:latitude":34.73,
+    "geom:longitude":-4.51,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oulad Ben Jilali",
+    "gn:country_code":"MA",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540130,
+    "gn:latitude":34.73,
+    "gn:longitude":-4.51,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Ben Jilali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540130
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b602ceafeb2b50f5a682e79ff4d8e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1309920691,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1309920691,
+    "wof:lastmodified":1536765771,
+    "wof:name":"Oulad Ben Jilali",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.51,
+    34.73,
+    -4.51,
+    34.73
+],
+  "geometry": {"coordinates":[-4.51,34.73],"type":"Point"}
+}

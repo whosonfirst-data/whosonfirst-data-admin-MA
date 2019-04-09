@@ -1,0 +1,67 @@
+{
+  "id": 1327140735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5676,33.63792,-5.5676,33.63792",
+    "geom:latitude":33.63792,
+    "geom:longitude":-5.5676,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oued Rha",
+    "gn:country_code":"MA",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8542749,
+    "gn:latitude":33.63792,
+    "gn:longitude":-5.5676,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Oued Rha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8542749
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8c8a7f3060c307202b0c85a3507c481f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1327140735,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327140735,
+    "wof:lastmodified":1536600855,
+    "wof:name":"Douar Oued Rha",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5676,
+    33.63792,
+    -5.5676,
+    33.63792
+],
+  "geometry": {"coordinates":[-5.5676,33.63792],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125418561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.12056,28.54469,-9.12056,28.54469",
+    "geom:latitude":28.54469,
+    "geom:longitude":-9.12056,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1263,
+    "gn:population":1263,
+    "iso:country":"MA",
+    "lbl:latitude":28.54469,
+    "lbl:longitude":-9.12056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u064a\u0646\u0629 \u064a\u063a\u0645\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Touizgui"
+    ],
+    "name:fra_x_variant":[
+        "Touizgui (CR)",
+        "Touizgui (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545581,
+    "qs_pg:gn_pop":1263,
+    "qs_pg:name":"Touizgui",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":628721,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890422523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545581,
+        "qs_pg:id":628721
+    },
+    "wof:country":"MA",
+    "wof:created":1497051807,
+    "wof:geomhash":"350d3525cc98c7a7ef4644f7b3c4cc2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422523,
+            "localadmin_id":1125418561,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1125418561,
+    "wof:lastmodified":1509390421,
+    "wof:name":"Touizgui",
+    "wof:parent_id":890422523,
+    "wof:placetype":"localadmin",
+    "wof:population":1263,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12056,
+    28.54469,
+    -9.12056,
+    28.54469
+],
+  "geometry": {"coordinates":[-9.12056,28.54469],"type":"Point"}
+}

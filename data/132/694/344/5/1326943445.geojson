@@ -1,0 +1,67 @@
+{
+  "id": 1326943445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.70153,35.71403,-5.70153,35.71403",
+    "geom:latitude":35.71403,
+    "geom:longitude":-5.70153,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qahouat Laamarti",
+    "gn:country_code":"MA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10954932,
+    "gn:latitude":35.71403,
+    "gn:longitude":-5.70153,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Qahouat Laamarti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10954932
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b00757642f2063f4a1da21f5fe338d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1326943445,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1326943445,
+    "wof:lastmodified":1536888150,
+    "wof:name":"Qahouat Laamarti",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.70153,
+    35.71403,
+    -5.70153,
+    35.71403
+],
+  "geometry": {"coordinates":[-5.70153,35.71403],"type":"Point"}
+}

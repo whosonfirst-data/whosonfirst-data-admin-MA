@@ -1,0 +1,67 @@
+{
+  "id": 1293209657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.52484,35.60335,-5.52484,35.60335",
+    "geom:latitude":35.60335,
+    "geom:longitude":-5.52484,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Dar Echerif",
+    "gn:country_code":"MA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059941,
+    "gn:latitude":35.60335,
+    "gn:longitude":-5.52484,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Dar Echerif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059941
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fd24e1e1f9fb0a7bca8be1c15ee93fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1293209657,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293209657,
+    "wof:lastmodified":1536690636,
+    "wof:name":"Douar Dar Echerif",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.52484,
+    35.60335,
+    -5.52484,
+    35.60335
+],
+  "geometry": {"coordinates":[-5.52484,35.60335],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360199545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.137,31.05111,-8.137,31.05111",
+    "geom:latitude":31.05111,
+    "geom:longitude":-8.137,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Iguer n'Kouris",
+    "gn:country_code":"MA",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546646,
+    "gn:latitude":31.05111,
+    "gn:longitude":-8.137,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Iguer n\u2019Kouris",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546646
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"28c25b29a972abb9878bd575a3d3315e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1360199545,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360199545,
+    "wof:lastmodified":1536780977,
+    "wof:name":"Iguer n'Kouris",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.137,
+    31.05111,
+    -8.137,
+    31.05111
+],
+  "geometry": {"coordinates":[-8.137,31.05111],"type":"Point"}
+}

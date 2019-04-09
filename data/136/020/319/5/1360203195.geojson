@@ -1,0 +1,72 @@
+{
+  "id": 1360203195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2847,31.64641,-8.2847,31.64641",
+    "geom:latitude":31.64641,
+    "geom:longitude":-8.2847,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ahmar",
+    "gn:country_code":"MA",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552162,
+    "gn:latitude":31.64641,
+    "gn:longitude":-8.2847,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ahmar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahmar",
+        "Oulad Amar",
+        "Douar Ahmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552162
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7f4f0d4b971528aa228a70c7b1b54640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1360203195,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360203195,
+    "wof:lastmodified":1537663993,
+    "wof:name":"Douar Ahmar",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2847,
+    31.64641,
+    -8.2847,
+    31.64641
+],
+  "geometry": {"coordinates":[-8.2847,31.64641],"type":"Point"}
+}

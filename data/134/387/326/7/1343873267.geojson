@@ -1,0 +1,73 @@
+{
+  "id": 1343873267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.89457,34.95126,-5.89457,34.95126",
+    "geom:latitude":34.95126,
+    "geom:longitude":-5.89457,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Labbahta",
+    "gn:country_code":"MA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550534,
+    "gn:latitude":34.95126,
+    "gn:longitude":-5.89457,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Labbahta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Hati",
+        "Douar Bou Hati",
+        "El Bouhata",
+        "Douar Labbahta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550534
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9c5adf3cfeacb584324bc1a92a680979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1343873267,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343873267,
+    "wof:lastmodified":1537663885,
+    "wof:name":"Douar Labbahta",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.89457,
+    34.95126,
+    -5.89457,
+    34.95126
+],
+  "geometry": {"coordinates":[-5.89457,34.95126],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225863291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03661,31.16453,-8.03661,31.16453",
+    "geom:latitude":31.16453,
+    "geom:longitude":-8.03661,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tassa Ouirgane",
+    "gn:country_code":"MA",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529474,
+    "gn:latitude":31.16453,
+    "gn:longitude":-8.03661,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tassa Ouirgane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tasse Ouargasse",
+        "Tassa Wirgane",
+        "Tassa Ouirgane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529474
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"41788d9e7cf1591dcd5f1516a34573b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1225863291,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1225863291,
+    "wof:lastmodified":1537663410,
+    "wof:name":"Tassa Ouirgane",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03661,
+    31.16453,
+    -8.03661,
+    31.16453
+],
+  "geometry": {"coordinates":[-8.03661,31.16453],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260380243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55912,30.06849,-9.55912,30.06849",
+    "geom:latitude":30.06849,
+    "geom:longitude":-9.55912,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Igounidifene",
+    "gn:country_code":"MA",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869541,
+    "gn:latitude":30.06849,
+    "gn:longitude":-9.55912,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Igounidifene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869541
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b4e7200bc218d1506fc89e5c01212783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1260380243,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260380243,
+    "wof:lastmodified":1537076249,
+    "wof:name":"Igounidifene",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55912,
+    30.06849,
+    -9.55912,
+    30.06849
+],
+  "geometry": {"coordinates":[-9.55912,30.06849],"type":"Point"}
+}

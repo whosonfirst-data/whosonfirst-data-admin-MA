@@ -1,0 +1,61 @@
+{
+  "id": 1209503427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.98596,29.41545,-9.98596,29.41545",
+    "geom:latitude":29.41545,
+    "geom:longitude":-9.98596,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Taratine",
+    "gn:country_code":"MA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100627,
+    "gn:latitude":29.41545,
+    "gn:longitude":-9.98596,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Taratine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100627
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"789bf60e9daf99271172c82c3f4ebce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209503427
+        }
+    ],
+    "wof:id":1209503427,
+    "wof:lastmodified":1536285109,
+    "wof:name":"Taratine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.98596,
+    29.41545,
+    -9.98596,
+    29.41545
+],
+  "geometry": {"coordinates":[-9.98596,29.41545],"type":"Point"}
+}

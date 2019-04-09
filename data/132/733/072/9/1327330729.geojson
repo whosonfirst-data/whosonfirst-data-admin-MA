@@ -1,0 +1,72 @@
+{
+  "id": 1327330729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61604,33.11973,-8.61604,33.11973",
+    "geom:latitude":33.11973,
+    "geom:longitude":-8.61604,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Karia Sal",
+    "gn:country_code":"MA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551788,
+    "gn:latitude":33.11973,
+    "gn:longitude":-8.61604,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"El Karia Sal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Karia",
+        "Douar el Karia",
+        "El Karia Sal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551788
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"66547b79462bf48eb2c09077c3bd8c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1327330729,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1327330729,
+    "wof:lastmodified":1537663966,
+    "wof:name":"El Karia Sal",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61604,
+    33.11973,
+    -8.61604,
+    33.11973
+],
+  "geometry": {"coordinates":[-8.61604,33.11973],"type":"Point"}
+}

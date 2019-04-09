@@ -1,0 +1,78 @@
+{
+  "id": 890436491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3202,33.32591,-3.3202,33.32591",
+    "geom:latitude":33.32591,
+    "geom:longitude":-3.3202,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":9016,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u064a\u0644\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Tissaf"
+    ],
+    "name:fra_x_variant":[
+        "Tissaf (CR)",
+        "Tissaf (Commune Rurale)"
+    ],
+    "qs:name":"Tissaf",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546294,
+        "qs:id":629420,
+        "wd:id":"Q12203611",
+        "wk:page":"Tissaf"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052113,
+    "wof:geomhash":"186ec4641290dedc46110d73a6d817ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "localadmin_id":890436491,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":890436491,
+    "wof:lastmodified":1527735402,
+    "wof:name":"Tissaf",
+    "wof:parent_id":890436419,
+    "wof:placetype":"localadmin",
+    "wof:population":9016,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3202,
+    33.32591,
+    -3.3202,
+    33.32591
+],
+  "geometry": {"coordinates":[-3.3202,33.32591],"type":"Point"}
+}

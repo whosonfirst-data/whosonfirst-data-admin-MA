@@ -1,0 +1,71 @@
+{
+  "id": 1310121013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.94023,35.02106,-2.94023,35.02106",
+    "geom:latitude":35.02106,
+    "geom:longitude":-2.94023,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Ben Chellal",
+    "gn:country_code":"MA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552061,
+    "gn:latitude":35.02106,
+    "gn:longitude":-2.94023,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ben Chellal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casas de Ben Chel-lal",
+        "Douar Ben Chellal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552061
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1c1e4c83bd01cbb64ecfabbf3baadc75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1310121013,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1310121013,
+    "wof:lastmodified":1537663986,
+    "wof:name":"Douar Ben Chellal",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.94023,
+    35.02106,
+    -2.94023,
+    35.02106
+],
+  "geometry": {"coordinates":[-2.94023,35.02106],"type":"Point"}
+}

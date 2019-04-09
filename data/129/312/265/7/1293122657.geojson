@@ -1,0 +1,72 @@
+{
+  "id": 1293122657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3004,32.85116,-7.3004,32.85116",
+    "geom:latitude":32.85116,
+    "geom:longitude":-7.3004,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Driss",
+    "gn:country_code":"MA",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551911,
+    "gn:latitude":32.85116,
+    "gn:longitude":-7.3004,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Driss",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Dris",
+        "Douar Driss",
+        "Driss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551911
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"65bd40c3e10f6746b33fc85ebc01962a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1293122657,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293122657,
+    "wof:lastmodified":1537663975,
+    "wof:name":"Driss",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3004,
+    32.85116,
+    -7.3004,
+    32.85116
+],
+  "geometry": {"coordinates":[-7.3004,32.85116],"type":"Point"}
+}

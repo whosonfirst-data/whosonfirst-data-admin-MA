@@ -1,0 +1,73 @@
+{
+  "id": 1293798849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01,34.58,-6.01,34.58",
+    "geom:latitude":34.58,
+    "geom:longitude":-6.01,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Douar Njara",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551517,
+    "gn:latitude":34.58,
+    "gn:longitude":-6.01,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Douar Njara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nejarra",
+        "Dar Njara",
+        "Douar Njara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551517
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5cb56b06a54611ece2ce2800ac35e4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1293798849,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1293798849,
+    "wof:lastmodified":1537663945,
+    "wof:name":"Douar Njara",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01,
+    34.58,
+    -6.01,
+    34.58
+],
+  "geometry": {"coordinates":[-6.01,34.58],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890417229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.08244,32.63185,-7.08244,32.63185",
+    "geom:latitude":32.63185,
+    "geom:longitude":-7.08244,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":7402,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u062f \u0639\u0627\u0645\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Bouali Nouaja"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Bouali Nouaja (CR)",
+        "Oulad Bouali Nouaja (Commune Rurale)"
+    ],
+    "qs:name":"Oulad Bouali Nouaja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546730,
+        "qs:id":629828,
+        "wd:id":"Q7110387",
+        "wk:page":"Oulad Bouali Nouaja"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051189,
+    "wof:geomhash":"031e2ca3a1e83913c67cb85331c5a5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":890417229,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890417229,
+    "wof:lastmodified":1527782120,
+    "wof:name":"Oulad Bouali Nouaja",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":7402,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.08244,
+    32.63185,
+    -7.08244,
+    32.63185
+],
+  "geometry": {"coordinates":[-7.08244,32.63185],"type":"Point"}
+}

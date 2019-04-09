@@ -1,0 +1,72 @@
+{
+  "id": 1309730593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02795,33.00284,-8.02795,33.00284",
+    "geom:latitude":33.00284,
+    "geom:longitude":-8.02795,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zaouiat Sidi El Hawari",
+    "gn:country_code":"MA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526268,
+    "gn:latitude":33.00284,
+    "gn:longitude":-8.02795,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zaouiat Sidi El Hawari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Sid el Aouari",
+        "Zaouia Sidi el Houari",
+        "Zaouiat Sidi El Hawari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526268
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d512fffe840a157820d5020815066b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1309730593,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1309730593,
+    "wof:lastmodified":1537663319,
+    "wof:name":"Zaouiat Sidi El Hawari",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02795,
+    33.00284,
+    -8.02795,
+    33.00284
+],
+  "geometry": {"coordinates":[-8.02795,33.00284],"type":"Point"}
+}

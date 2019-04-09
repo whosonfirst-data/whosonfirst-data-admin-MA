@@ -1,0 +1,67 @@
+{
+  "id": 1242573935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59778,30.31346,-7.59778,30.31346",
+    "geom:latitude":30.31346,
+    "geom:longitude":-7.59778,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ftamda",
+    "gn:country_code":"MA",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147814,
+    "gn:latitude":30.31346,
+    "gn:longitude":-7.59778,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ftamda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147814
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"df7ac6f1803ff7cb589132f299197495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1242573935,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242573935,
+    "wof:lastmodified":1537066058,
+    "wof:name":"Ftamda",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59778,
+    30.31346,
+    -7.59778,
+    30.31346
+],
+  "geometry": {"coordinates":[-7.59778,30.31346],"type":"Point"}
+}

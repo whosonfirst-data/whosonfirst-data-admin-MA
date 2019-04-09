@@ -1,0 +1,66 @@
+{
+  "id": 1209633729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58225,29.84312,-8.58225,29.84312",
+    "geom:latitude":29.84312,
+    "geom:longitude":-8.58225,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Azal",
+    "gn:country_code":"MA",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556438,
+    "gn:latitude":29.84312,
+    "gn:longitude":-8.58225,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Azal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azaln",
+        "Azzal",
+        "Azal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556438
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b67c7eb2439fc049ba14163dcb84f9fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633729
+        }
+    ],
+    "wof:id":1209633729,
+    "wof:lastmodified":1537664085,
+    "wof:name":"Azal",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58225,
+    29.84312000000001,
+    -8.58225,
+    29.84312000000001
+],
+  "geometry": {"coordinates":[-8.58225,29.84312000000001],"type":"Point"}
+}

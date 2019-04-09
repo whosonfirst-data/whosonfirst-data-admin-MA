@@ -1,0 +1,88 @@
+{
+  "id": 1125418559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91547,30.61008,-8.91547,30.61008",
+    "geom:latitude":30.61008,
+    "geom:longitude":-8.91547,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":5285,
+    "gn:population":4752,
+    "iso:country":"MA",
+    "lbl:latitude":30.61008,
+    "lbl:longitude":-8.91547,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0627\u064a\u0643\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Makhlouf"
+    ],
+    "name:fra_x_variant":[
+        "Ait Makhlouf (CR)",
+        "Ait Makhlouf (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545521,
+    "qs_pg:gn_pop":5285,
+    "qs_pg:name":"Ait Makhlouf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628666,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545521,
+        "qs_pg:id":628666
+    },
+    "wof:country":"MA",
+    "wof:created":1497051807,
+    "wof:geomhash":"f0088a41d268e9c92694d81084f9968b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":1125418559,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125418559,
+    "wof:lastmodified":1509390421,
+    "wof:name":"Ait Makhlouf",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":4752,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91547,
+    30.61008,
+    -8.91547,
+    30.61008
+],
+  "geometry": {"coordinates":[-8.91547,30.61008],"type":"Point"}
+}

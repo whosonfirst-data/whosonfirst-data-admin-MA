@@ -1,0 +1,67 @@
+{
+  "id": 1343773803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.48848,34.95886,-2.48848,34.95886",
+    "geom:latitude":34.95886,
+    "geom:longitude":-2.48848,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Oulad Fassir",
+    "gn:country_code":"MA",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10933348,
+    "gn:latitude":34.95886,
+    "gn:longitude":-2.48848,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Fassir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10933348
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"88b2a6e335e655039fb3e6a17db68a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1343773803,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1343773803,
+    "wof:lastmodified":1536791968,
+    "wof:name":"Douar Oulad Fassir",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.48848,
+    34.95885999999999,
+    -2.48848,
+    34.95885999999999
+],
+  "geometry": {"coordinates":[-2.48848,34.95885999999999],"type":"Point"}
+}

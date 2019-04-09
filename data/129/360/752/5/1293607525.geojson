@@ -1,0 +1,72 @@
+{
+  "id": 1293607525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.32972,33.84316,-4.32972,33.84316",
+    "geom:latitude":33.84316,
+    "geom:longitude":-4.32972,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Belazreq",
+    "gn:country_code":"MA",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556141,
+    "gn:latitude":33.84316,
+    "gn:longitude":-4.32972,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Belazreq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Belazreg",
+        "Belazreg",
+        "Douar Belazreq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556141
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7528d0be585ba471c1c1d0be2413d5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1293607525,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293607525,
+    "wof:lastmodified":1537664080,
+    "wof:name":"Douar Belazreq",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.32972,
+    33.84316,
+    -4.32972,
+    33.84316
+],
+  "geometry": {"coordinates":[-4.32972,33.84316],"type":"Point"}
+}

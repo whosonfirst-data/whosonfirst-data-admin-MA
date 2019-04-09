@@ -1,0 +1,72 @@
+{
+  "id": 1242963365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.24304,31.25391,-4.24304,31.25391",
+    "geom:latitude":31.25391,
+    "geom:longitude":-4.24304,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Grawa",
+    "gn:country_code":"MA",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548583,
+    "gn:latitude":31.25391,
+    "gn:longitude":-4.24304,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Grawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Graoua",
+        "Graoua",
+        "Grawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548583
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1d24a149a5d5d29f3f25593293ebb182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1242963365,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1242963365,
+    "wof:lastmodified":1537663813,
+    "wof:name":"Grawa",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.24304,
+    31.25391,
+    -4.24304,
+    31.25391
+],
+  "geometry": {"coordinates":[-4.24304,31.25391],"type":"Point"}
+}

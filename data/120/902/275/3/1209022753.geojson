@@ -1,0 +1,66 @@
+{
+  "id": 1209022753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5778,30.8674,-8.5778,30.8674",
+    "geom:latitude":30.8674,
+    "geom:longitude":-8.5778,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Taddart",
+    "gn:country_code":"MA",
+    "gn:dem":1827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532063,
+    "gn:latitude":30.8674,
+    "gn:longitude":-8.5778,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taddart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadarte",
+        "Taddert",
+        "Taddart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532063
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8e8d82a3abf5a7c9e7f97e0511426ca6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209022753
+        }
+    ],
+    "wof:id":1209022753,
+    "wof:lastmodified":1537663484,
+    "wof:name":"Taddart",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5778,
+    30.8674,
+    -8.5778,
+    30.8674
+],
+  "geometry": {"coordinates":[-8.5778,30.8674],"type":"Point"}
+}

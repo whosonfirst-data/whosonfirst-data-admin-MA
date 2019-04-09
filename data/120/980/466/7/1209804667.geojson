@@ -1,0 +1,67 @@
+{
+  "id": 1209804667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.18039,30.53827,-8.18039,30.53827",
+    "geom:latitude":30.53827,
+    "geom:longitude":-8.18039,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tassought",
+    "gn:country_code":"MA",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10916924,
+    "gn:latitude":30.53827,
+    "gn:longitude":-8.18039,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tassought",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10916924
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ce389f23c6032939a2c4d3134391f0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1209804667,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209804667,
+    "wof:lastmodified":1536389148,
+    "wof:name":"Tassought",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.18039,
+    30.53827,
+    -8.18039,
+    30.53827
+],
+  "geometry": {"coordinates":[-8.18039,30.53827],"type":"Point"}
+}

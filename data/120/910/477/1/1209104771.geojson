@@ -1,0 +1,66 @@
+{
+  "id": 1209104771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.00612,31.99617,-7.00612,31.99617",
+    "geom:latitude":31.99617,
+    "geom:longitude":-7.00612,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mchabbak",
+    "gn:country_code":"MA",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558224,
+    "gn:latitude":31.99617,
+    "gn:longitude":-7.00612,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Mchabbak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Amchebek",
+        "Amchebek",
+        "Mchabbak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558224
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"36bbda470a0ddf0b7826f3968dfcadfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209104771
+        }
+    ],
+    "wof:id":1209104771,
+    "wof:lastmodified":1537664131,
+    "wof:name":"Mchabbak",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.00612,
+    31.99617000000001,
+    -7.00612,
+    31.99617000000001
+],
+  "geometry": {"coordinates":[-7.00612,31.99617000000001],"type":"Point"}
+}

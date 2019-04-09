@@ -1,0 +1,71 @@
+{
+  "id": 1293218943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21664,31.05736,-9.21664,31.05736",
+    "geom:latitude":31.05736,
+    "geom:longitude":-9.21664,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tichouktine",
+    "gn:country_code":"MA",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528807,
+    "gn:latitude":31.05736,
+    "gn:longitude":-9.21664,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tichouktine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tichoktine",
+        "Tichouktine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528807
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a05df392130f082c8d69c679e6485bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1293218943,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293218943,
+    "wof:lastmodified":1537663395,
+    "wof:name":"Tichouktine",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21664,
+    31.05736,
+    -9.21664,
+    31.05736
+],
+  "geometry": {"coordinates":[-9.21664,31.05736],"type":"Point"}
+}

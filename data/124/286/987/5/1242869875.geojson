@@ -1,0 +1,67 @@
+{
+  "id": 1242869875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.43842,31.58879,-7.43842,31.58879",
+    "geom:latitude":31.58879,
+    "geom:longitude":-7.43842,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Imizar",
+    "gn:country_code":"MA",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546076,
+    "gn:latitude":31.58879,
+    "gn:longitude":-7.43842,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Imizar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546076
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c741cf5b54e5ad05b27be41d3a5a3559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1242869875,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242869875,
+    "wof:lastmodified":1536641912,
+    "wof:name":"Imizar",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.43842,
+    31.58879,
+    -7.43842,
+    31.58879
+],
+  "geometry": {"coordinates":[-7.43842,31.58879],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125365543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19743,31.84031,-7.19743,31.84031",
+    "geom:latitude":31.84031,
+    "geom:longitude":-7.19743,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":10113,
+    "gn:population":10384,
+    "iso:country":"MA",
+    "lbl:latitude":31.84031,
+    "lbl:longitude":-7.19743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0645 \u0635\u0646\u0647\u0627\u062c\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Ouargui"
+    ],
+    "name:fra_x_variant":[
+        "Ouargui (CR)",
+        "Ouargui (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546762,
+    "qs_pg:gn_pop":10113,
+    "qs_pg:name":"Ouargui",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629865,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546762,
+        "qs_pg:id":629865
+    },
+    "wof:country":"MA",
+    "wof:created":1497047059,
+    "wof:geomhash":"d11dd032d2e176f297f57e6d73c1a35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "localadmin_id":1125365543,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125365543,
+    "wof:lastmodified":1509389194,
+    "wof:name":"Ouargui",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"localadmin",
+    "wof:population":10384,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19743,
+    31.84031,
+    -7.19743,
+    31.84031
+],
+  "geometry": {"coordinates":[-7.19743,31.84031],"type":"Point"}
+}

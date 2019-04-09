@@ -1,0 +1,67 @@
+{
+  "id": 1292913599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4,34.85,-4.4,34.85",
+    "geom:latitude":34.85,
+    "geom:longitude":-4.4,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Andarfo",
+    "gn:country_code":"MA",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557841,
+    "gn:latitude":34.85,
+    "gn:longitude":-4.4,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Andarfo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557841
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b573c154dccedbb14f47c29192f81fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1292913599,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1292913599,
+    "wof:lastmodified":1536618052,
+    "wof:name":"Andarfo",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4,
+    34.85,
+    -4.4,
+    34.85
+],
+  "geometry": {"coordinates":[-4.4,34.85],"type":"Point"}
+}

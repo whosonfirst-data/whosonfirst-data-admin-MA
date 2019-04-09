@@ -1,0 +1,71 @@
+{
+  "id": 1243381983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.22312,31.18247,-5.22312,31.18247",
+    "geom:latitude":31.18247,
+    "geom:longitude":-5.22312,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ammar",
+    "gn:country_code":"MA",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558023,
+    "gn:latitude":31.18247,
+    "gn:longitude":-5.22312,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ammar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Amar",
+        "Ammar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558023
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6ddc014978d0363d9d2679b01f6939ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1243381983,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243381983,
+    "wof:lastmodified":1537664126,
+    "wof:name":"Ammar",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.22312,
+    31.18247,
+    -5.22312,
+    31.18247
+],
+  "geometry": {"coordinates":[-5.22312,31.18247],"type":"Point"}
+}

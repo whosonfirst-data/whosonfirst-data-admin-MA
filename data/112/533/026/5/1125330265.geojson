@@ -1,0 +1,88 @@
+{
+  "id": 1125330265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.44462,33.83781,-5.44462,33.83781",
+    "geom:latitude":33.83781,
+    "geom:longitude":-5.44462,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":10774,
+    "gn:population":10774,
+    "iso:country":"MA",
+    "lbl:latitude":33.83781,
+    "lbl:longitude":-5.44462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u0633 \u0645\u0631\u0645\u0648\u0634\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Sliman Mol Kifa"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Sliman Mol Kifa (CR)",
+        "Sidi Sliman Mol Kifa (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546145,
+    "qs_pg:gn_pop":10774,
+    "qs_pg:name":"Sidi Sliman Mol Kifa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629285,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546145,
+        "qs_pg:id":629285
+    },
+    "wof:country":"MA",
+    "wof:created":1497045092,
+    "wof:geomhash":"7d4b09caba3cf98431c4694516c2d3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "localadmin_id":1125330265,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1125330265,
+    "wof:lastmodified":1509388356,
+    "wof:name":"Sidi Sliman Mol Kifa",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"localadmin",
+    "wof:population":10774,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.44462,
+    33.83781,
+    -5.44462,
+    33.83781
+],
+  "geometry": {"coordinates":[-5.44462,33.83781],"type":"Point"}
+}

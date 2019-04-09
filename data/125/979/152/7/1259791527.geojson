@@ -1,0 +1,67 @@
+{
+  "id": 1259791527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.07851,35.10998,-3.07851,35.10998",
+    "geom:latitude":35.10998,
+    "geom:longitude":-3.07851,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Oulad Hamed",
+    "gn:country_code":"MA",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999502,
+    "gn:latitude":35.10998,
+    "gn:longitude":-3.07851,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Hamed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999502
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"770685ea98ba5cc29c31bcae3d6b3abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1259791527,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1259791527,
+    "wof:lastmodified":1536911896,
+    "wof:name":"Oulad Hamed",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.07851,
+    35.10998,
+    -3.07851,
+    35.10998
+],
+  "geometry": {"coordinates":[-3.07851,35.10998],"type":"Point"}
+}

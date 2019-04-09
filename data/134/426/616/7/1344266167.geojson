@@ -1,0 +1,67 @@
+{
+  "id": 1344266167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7532,35.07954,-4.7532,35.07954",
+    "geom:latitude":35.07954,
+    "geom:longitude":-4.7532,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Taqyourt",
+    "gn:country_code":"MA",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10844799,
+    "gn:latitude":35.07954,
+    "gn:longitude":-4.7532,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Taqyourt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10844799
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1fce0e3af94f579fe084b035b8114399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1344266167,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1344266167,
+    "wof:lastmodified":1537072727,
+    "wof:name":"Douar Taqyourt",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7532,
+    35.07954,
+    -4.7532,
+    35.07954
+],
+  "geometry": {"coordinates":[-4.7532,35.07954],"type":"Point"}
+}

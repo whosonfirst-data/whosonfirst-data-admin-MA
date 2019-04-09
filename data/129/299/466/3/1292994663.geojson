@@ -1,0 +1,67 @@
+{
+  "id": 1292994663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.93565,30.9592,-7.93565,30.9592",
+    "geom:latitude":30.9592,
+    "geom:longitude":-7.93565,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiqqiy",
+    "gn:country_code":"MA",
+    "gn:dem":1893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147734,
+    "gn:latitude":30.9592,
+    "gn:longitude":-7.93565,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiqqiy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147734
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e9f440099d4b8ae09859b541b852d9fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1292994663,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1292994663,
+    "wof:lastmodified":1536999807,
+    "wof:name":"Tiqqiy",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.93565,
+    30.9592,
+    -7.93565,
+    30.9592
+],
+  "geometry": {"coordinates":[-7.93565,30.9592],"type":"Point"}
+}

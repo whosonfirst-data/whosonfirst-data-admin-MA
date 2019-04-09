@@ -1,0 +1,61 @@
+{
+  "id": 1209414871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.24113,33.70651,-6.24113,33.70651",
+    "geom:latitude":33.70651,
+    "geom:longitude":-6.24113,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dar Mahta Mhamed",
+    "gn:country_code":"MA",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10959628,
+    "gn:latitude":33.70651,
+    "gn:longitude":-6.24113,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Mahta Mhamed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10959628
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a01f9fd90cd83c030524c5b86347f4db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209414871
+        }
+    ],
+    "wof:id":1209414871,
+    "wof:lastmodified":1536287721,
+    "wof:name":"Dar Mahta Mhamed",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.24113,
+    33.706509999999994,
+    -6.24113,
+    33.706509999999994
+],
+  "geometry": {"coordinates":[-6.24113,33.70650999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225868341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.21879,33.49939,-6.21879,33.49939",
+    "geom:latitude":33.49939,
+    "geom:longitude":-6.21879,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ait Hajji",
+    "gn:country_code":"MA",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10937262,
+    "gn:latitude":33.49939,
+    "gn:longitude":-6.21879,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Hajji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10937262
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"16ab60e809e3e5564b953d2f7579b722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1225868341,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1225868341,
+    "wof:lastmodified":1536980466,
+    "wof:name":"Ait Hajji",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.21879,
+    33.49939000000001,
+    -6.21879,
+    33.49939000000001
+],
+  "geometry": {"coordinates":[-6.21879,33.49939000000001],"type":"Point"}
+}

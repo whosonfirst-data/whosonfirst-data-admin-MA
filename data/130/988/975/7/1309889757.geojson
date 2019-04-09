@@ -1,0 +1,67 @@
+{
+  "id": 1309889757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09895,30.18324,-9.09895,30.18324",
+    "geom:latitude":30.18324,
+    "geom:longitude":-9.09895,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Lhennd",
+    "gn:country_code":"MA",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131271,
+    "gn:latitude":30.18324,
+    "gn:longitude":-9.09895,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Lhennd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131271
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a042b3fd944bcb28537af84f5bcf5b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1309889757,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309889757,
+    "wof:lastmodified":1536809697,
+    "wof:name":"Ait Lhennd",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09895,
+    30.18324,
+    -9.09895,
+    30.18324
+],
+  "geometry": {"coordinates":[-9.09895,30.18324],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209111109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2153,34.73903,-6.2153,34.73903",
+    "geom:latitude":34.73903,
+    "geom:longitude":-6.2153,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Moulay Taher",
+    "gn:country_code":"MA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969460,
+    "gn:latitude":34.73903,
+    "gn:longitude":-6.2153,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Moulay Taher",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969460
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ec7ddacc68f7a648c35cbbd33ab1c34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209111109
+        }
+    ],
+    "wof:id":1209111109,
+    "wof:lastmodified":1536297404,
+    "wof:name":"Moulay Taher",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2153,
+    34.73903,
+    -6.2153,
+    34.73903
+],
+  "geometry": {"coordinates":[-6.2153,34.73903],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327013893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8704,29.44213,-9.8704,29.44213",
+    "geom:latitude":29.44213,
+    "geom:longitude":-9.8704,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Id Bibourk",
+    "gn:country_code":"MA",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100809,
+    "gn:latitude":29.44213,
+    "gn:longitude":-9.8704,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Bibourk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100809
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1aa103086228b22fea25c3f38a54b302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1327013893,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327013893,
+    "wof:lastmodified":1536787685,
+    "wof:name":"Id Bibourk",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8704,
+    29.44213,
+    -9.8704,
+    29.44213
+],
+  "geometry": {"coordinates":[-9.8704,29.44213],"type":"Point"}
+}

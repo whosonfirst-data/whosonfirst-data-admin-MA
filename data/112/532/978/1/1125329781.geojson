@@ -1,0 +1,88 @@
+{
+  "id": 1125329781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.30149,34.19189,-3.30149,34.19189",
+    "geom:latitude":34.19189,
+    "geom:longitude":-3.30149,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":32866,
+    "gn:population":32866,
+    "iso:country":"MA",
+    "lbl:latitude":34.19189,
+    "lbl:longitude":-3.30149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0627\u0631\u0629 \u0623\u0648\u0644\u0627\u062f \u0631\u062d\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Houara Oulad Raho"
+    ],
+    "name:fra_x_variant":[
+        "Houara Oulad Raho (CR)",
+        "Houara Oulad Raho (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545571,
+    "qs_pg:gn_pop":32866,
+    "qs_pg:name":"Houara Oulad Raho",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":628711,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545571,
+        "qs_pg:id":628711
+    },
+    "wof:country":"MA",
+    "wof:created":1497045068,
+    "wof:geomhash":"3a89306a920f681a71cb712a5bb4db65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "localadmin_id":1125329781,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125329781,
+    "wof:lastmodified":1509388342,
+    "wof:name":"Houara Oulad Raho",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"localadmin",
+    "wof:population":32866,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.30149,
+    34.19189,
+    -3.30149,
+    34.19189
+],
+  "geometry": {"coordinates":[-3.30149,34.19189],"type":"Point"}
+}

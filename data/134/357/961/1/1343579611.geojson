@@ -1,0 +1,73 @@
+{
+  "id": 1343579611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55492,32.12901,-8.55492,32.12901",
+    "geom:latitude":32.12901,
+    "geom:longitude":-8.55492,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Sidi El Arbi Ben Mimoune",
+    "gn:country_code":"MA",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551225,
+    "gn:latitude":32.12901,
+    "gn:longitude":-8.55492,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Sidi El Arbi Ben Mimoune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Larbi Mimoune",
+        "Sidi Larbi ben Mimoun",
+        "Douar Sidi Larbi Ben Mimoun",
+        "Douar Sidi El Arbi Ben Mimoune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551225
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1c612b691e00e4a588ad818011cb7cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1343579611,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343579611,
+    "wof:lastmodified":1537663921,
+    "wof:name":"Douar Sidi El Arbi Ben Mimoune",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55492,
+    32.12901,
+    -8.55492,
+    32.12901
+],
+  "geometry": {"coordinates":[-8.55492,32.12901],"type":"Point"}
+}

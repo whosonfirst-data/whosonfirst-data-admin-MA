@@ -1,0 +1,72 @@
+{
+  "id": 1343473771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.23784,35.02788,-4.23784,35.02788",
+    "geom:latitude":35.02788,
+    "geom:longitude":-4.23784,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Mernissa",
+    "gn:country_code":"MA",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543005,
+    "gn:latitude":35.02788,
+    "gn:longitude":-4.23784,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Mernissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mernassa",
+        "Marnisa",
+        "Douar Mernissa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543005
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6d88b3c7550fa137f2411656a8df36db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1343473771,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343473771,
+    "wof:lastmodified":1537663664,
+    "wof:name":"Douar Mernissa",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.23784,
+    35.02788,
+    -4.23784,
+    35.02788
+],
+  "geometry": {"coordinates":[-4.23784,35.02788],"type":"Point"}
+}

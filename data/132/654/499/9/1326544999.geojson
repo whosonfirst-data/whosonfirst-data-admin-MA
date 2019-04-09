@@ -1,0 +1,70 @@
+{
+  "id": 1326544999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.78115,34.33564,-3.78115,34.33564",
+    "geom:latitude":34.33564,
+    "geom:longitude":-3.78115,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dar Ben Zarga",
+    "gn:country_code":"MA",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555498,
+    "gn:latitude":34.33564,
+    "gn:longitude":-3.78115,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Ben Zarga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Zarga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555498
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c9bfea1e945f7465702d79dbde0652b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1326544999,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1326544999,
+    "wof:lastmodified":1537664065,
+    "wof:name":"Dar Ben Zarga",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.78115,
+    34.33564000000001,
+    -3.78115,
+    34.33564000000001
+],
+  "geometry": {"coordinates":[-3.78115,34.33564000000001],"type":"Point"}
+}

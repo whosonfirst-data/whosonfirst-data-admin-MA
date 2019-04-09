@@ -1,0 +1,65 @@
+{
+  "id": 1209333047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0666,34.71081,-6.0666,34.71081",
+    "geom:latitude":34.71081,
+    "geom:longitude":-6.0666,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Halloufa",
+    "gn:country_code":"MA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548152,
+    "gn:latitude":34.71081,
+    "gn:longitude":-6.0666,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Halloufa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Halloufa",
+        "Halloufa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548152
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ad6d94acf33bfbd2a226887113188796",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333047
+        }
+    ],
+    "wof:id":1209333047,
+    "wof:lastmodified":1537663806,
+    "wof:name":"Halloufa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0666,
+    34.71081,
+    -6.0666,
+    34.71081
+],
+  "geometry": {"coordinates":[-6.0666,34.71081],"type":"Point"}
+}

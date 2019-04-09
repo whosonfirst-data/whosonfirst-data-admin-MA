@@ -1,0 +1,74 @@
+{
+  "id": 1309924261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.60012,34.6962,-5.60012,34.6962",
+    "geom:latitude":34.6962,
+    "geom:longitude":-5.60012,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zouiriyine",
+    "gn:country_code":"MA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2525864,
+    "gn:latitude":34.6962,
+    "gn:longitude":-5.60012,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zouiriyine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Zouiriyine",
+        "Azouriyne",
+        "Zoumina",
+        "Zouriyine",
+        "Zouiriyine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2525864
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"df107492387e9893918e7f88c3595a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1309924261,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1309924261,
+    "wof:lastmodified":1537663305,
+    "wof:name":"Zouiriyine",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.60012,
+    34.6962,
+    -5.60012,
+    34.6962
+],
+  "geometry": {"coordinates":[-5.60012,34.6962],"type":"Point"}
+}

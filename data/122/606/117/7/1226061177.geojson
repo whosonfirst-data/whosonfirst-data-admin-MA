@@ -1,0 +1,67 @@
+{
+  "id": 1226061177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73489,30.32105,-8.73489,30.32105",
+    "geom:latitude":30.32105,
+    "geom:longitude":-8.73489,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Anougoud",
+    "gn:country_code":"MA",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557714,
+    "gn:latitude":30.32105,
+    "gn:longitude":-8.73489,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Anougoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557714
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"40bfe26aded8fc9042b0d4393e67bba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1226061177,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226061177,
+    "wof:lastmodified":1536703203,
+    "wof:name":"Anougoud",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73489,
+    30.32105,
+    -8.73489,
+    30.32105
+],
+  "geometry": {"coordinates":[-8.73489,30.32105],"type":"Point"}
+}

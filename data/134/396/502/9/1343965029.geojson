@@ -1,0 +1,67 @@
+{
+  "id": 1343965029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.78916,33.50005,-4.78916,33.50005",
+    "geom:latitude":33.50005,
+    "geom:longitude":-4.78916,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ait Bel Mhidi",
+    "gn:country_code":"MA",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024776,
+    "gn:latitude":33.50005,
+    "gn:longitude":-4.78916,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Bel Mhidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024776
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e45e5f6da3947901734d0821564f4904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1343965029,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1343965029,
+    "wof:lastmodified":1537012603,
+    "wof:name":"Douar Ait Bel Mhidi",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.78916,
+    33.50005,
+    -4.78916,
+    33.50005
+],
+  "geometry": {"coordinates":[-4.78916,33.50005],"type":"Point"}
+}

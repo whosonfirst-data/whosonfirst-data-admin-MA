@@ -1,0 +1,67 @@
+{
+  "id": 1293684837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.69249,32.05896,-6.69249,32.05896",
+    "geom:latitude":32.05896,
+    "geom:longitude":-6.69249,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Imoukel",
+    "gn:country_code":"MA",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435436,
+    "gn:latitude":32.05896,
+    "gn:longitude":-6.69249,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Imoukel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435436
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eb9d14e0941a9912ada0f1a6471bfef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1293684837,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1293684837,
+    "wof:lastmodified":1536999123,
+    "wof:name":"Imoukel",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.69249,
+    32.05896,
+    -6.69249,
+    32.05896
+],
+  "geometry": {"coordinates":[-6.69249,32.05896],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360290487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.53398,33.68626,-6.53398,33.68626",
+    "geom:latitude":33.68626,
+    "geom:longitude":-6.53398,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dar Hamed Ben Azza",
+    "gn:country_code":"MA",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940451,
+    "gn:latitude":33.68626,
+    "gn:longitude":-6.53398,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Hamed Ben Azza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940451
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8c59ccaa6c2c8b79d591eb30200cb156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1360290487,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1360290487,
+    "wof:lastmodified":1536648981,
+    "wof:name":"Dar Hamed Ben Azza",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.53398,
+    33.68626,
+    -6.53398,
+    33.68626
+],
+  "geometry": {"coordinates":[-6.53398,33.68626],"type":"Point"}
+}

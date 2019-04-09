@@ -1,0 +1,67 @@
+{
+  "id": 1242871175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.11518,33.48948,-7.11518,33.48948",
+    "geom:latitude":33.48948,
+    "geom:longitude":-7.11518,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Moualine El Qued",
+    "gn:country_code":"MA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939505,
+    "gn:latitude":33.48948,
+    "gn:longitude":-7.11518,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Moualine El Qued",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939505
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1610f6453eb9f8d2ff0b2ff2e59a002c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1242871175,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1242871175,
+    "wof:lastmodified":1536639922,
+    "wof:name":"Douar Moualine El Qued",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.11518,
+    33.48948,
+    -7.11518,
+    33.48948
+],
+  "geometry": {"coordinates":[-7.11518,33.48948],"type":"Point"}
+}

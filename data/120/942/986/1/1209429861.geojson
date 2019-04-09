@@ -1,0 +1,65 @@
+{
+  "id": 1209429861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.8484,29.53131,-8.8484,29.53131",
+    "geom:latitude":29.53131,
+    "geom:longitude":-8.8484,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Agoudim",
+    "gn:country_code":"MA",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561474,
+    "gn:latitude":29.53131,
+    "gn:longitude":-8.8484,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agoudim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agdim",
+        "Agoudim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561474
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"56afeb3156bbc8b9e86e2c6f3bdcf2a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429861
+        }
+    ],
+    "wof:id":1209429861,
+    "wof:lastmodified":1537664238,
+    "wof:name":"Agoudim",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.8484,
+    29.53131,
+    -8.8484,
+    29.53131
+],
+  "geometry": {"coordinates":[-8.8484,29.53131],"type":"Point"}
+}

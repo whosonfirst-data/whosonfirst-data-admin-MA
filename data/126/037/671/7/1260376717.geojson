@@ -1,0 +1,67 @@
+{
+  "id": 1260376717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49254,31.37228,-7.49254,31.37228",
+    "geom:latitude":31.37228,
+    "geom:longitude":-7.49254,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Darb",
+    "gn:country_code":"MA",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353913,
+    "gn:latitude":31.37228,
+    "gn:longitude":-7.49254,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Darb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353913
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"76a7246ed0f5b3d29669c7289fba8820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1260376717,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1260376717,
+    "wof:lastmodified":1537080931,
+    "wof:name":"Darb",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49254,
+    31.37228,
+    -7.49254,
+    31.37228
+],
+  "geometry": {"coordinates":[-7.49254,31.37228],"type":"Point"}
+}

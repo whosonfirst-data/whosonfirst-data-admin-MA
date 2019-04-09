@@ -1,0 +1,72 @@
+{
+  "id": 1310220087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05301,34.05688,-5.05301,34.05688",
+    "geom:latitude":34.05688,
+    "geom:longitude":-5.05301,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Tghaytiya",
+    "gn:country_code":"MA",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551145,
+    "gn:latitude":34.05688,
+    "gn:longitude":-5.05301,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tghaytiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trhytiya",
+        "Douar Trha\u00eftia",
+        "Douar Tghaytiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551145
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a04de555c30251e8d727739500444c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1310220087,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1310220087,
+    "wof:lastmodified":1537663914,
+    "wof:name":"Douar Tghaytiya",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05301,
+    34.05688,
+    -5.05301,
+    34.05688
+],
+  "geometry": {"coordinates":[-5.05301,34.05688],"type":"Point"}
+}

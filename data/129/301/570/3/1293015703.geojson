@@ -1,0 +1,67 @@
+{
+  "id": 1293015703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.32225,31.70916,-6.32225,31.70916",
+    "geom:latitude":31.70916,
+    "geom:longitude":-6.32225,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Iglaouane",
+    "gn:country_code":"MA",
+    "gn:dem":2102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565348,
+    "gn:latitude":31.70916,
+    "gn:longitude":-6.32225,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Iglaouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565348
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0212a83932baa6c5d2b05509e9cbc00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1293015703,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1293015703,
+    "wof:lastmodified":1536969795,
+    "wof:name":"Iglaouane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.32225,
+    31.70916,
+    -6.32225,
+    31.70916
+],
+  "geometry": {"coordinates":[-6.32225,31.70916],"type":"Point"}
+}

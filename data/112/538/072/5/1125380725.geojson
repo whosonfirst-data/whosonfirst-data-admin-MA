@@ -1,0 +1,88 @@
+{
+  "id": 1125380725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48277,33.05673,-8.48277,33.05673",
+    "geom:latitude":33.05673,
+    "geom:longitude":-8.48277,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":27475,
+    "gn:population":27475,
+    "iso:country":"MA",
+    "lbl:latitude":33.05673,
+    "lbl:longitude":-8.48277,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u063a\u0627\u0646\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Hcine"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Hcine (CR)",
+        "Oulad Hcine (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546278,
+    "qs_pg:gn_pop":27475,
+    "qs_pg:name":"Oulad Hcine",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":629405,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546278,
+        "qs_pg:id":629405
+    },
+    "wof:country":"MA",
+    "wof:created":1497048029,
+    "wof:geomhash":"7529ec5527da25e4901f294e79688212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "localadmin_id":1125380725,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1125380725,
+    "wof:lastmodified":1509389568,
+    "wof:name":"Oulad Hcine",
+    "wof:parent_id":890445399,
+    "wof:placetype":"localadmin",
+    "wof:population":27475,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48277,
+    33.05673,
+    -8.48277,
+    33.05673
+],
+  "geometry": {"coordinates":[-8.48277,33.05673],"type":"Point"}
+}

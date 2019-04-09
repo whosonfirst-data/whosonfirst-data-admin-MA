@@ -1,0 +1,75 @@
+{
+  "id": 1310416121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.48961,34.01784,-5.48961,34.01784",
+    "geom:latitude":34.01784,
+    "geom:longitude":-5.48961,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Meghassine",
+    "gn:country_code":"MA",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549511,
+    "gn:latitude":34.01784,
+    "gn:longitude":-5.48961,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Meghassine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mrhassiine",
+        "El Mrhassiine",
+        "Merhasiyne",
+        "El Merhassine",
+        "Merhasyne",
+        "El Meghassine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549511
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c908dfce2a0456ad4fad92aff620ba60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1310416121,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1310416121,
+    "wof:lastmodified":1537663837,
+    "wof:name":"El Meghassine",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.48961,
+    34.01784,
+    -5.48961,
+    34.01784
+],
+  "geometry": {"coordinates":[-5.48961,34.01784],"type":"Point"}
+}

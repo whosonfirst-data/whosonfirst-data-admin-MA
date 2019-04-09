@@ -1,0 +1,67 @@
+{
+  "id": 1259975293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91314,32.49457,-8.91314,32.49457",
+    "geom:latitude":32.49457,
+    "geom:longitude":-8.91314,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Sour Leaid",
+    "gn:country_code":"MA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10639415,
+    "gn:latitude":32.49457,
+    "gn:longitude":-8.91314,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Sour Leaid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10639415
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f8c0b7a2abca821e377b72eca2d38e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1259975293,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259975293,
+    "wof:lastmodified":1536646515,
+    "wof:name":"Douar Sour Leaid",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91314,
+    32.49457,
+    -8.91314,
+    32.49457
+],
+  "geometry": {"coordinates":[-8.91314,32.49457],"type":"Point"}
+}

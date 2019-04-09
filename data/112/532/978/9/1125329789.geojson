@@ -1,0 +1,88 @@
+{
+  "id": 1125329789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91261,31.16757,-7.91261,31.16757",
+    "geom:latitude":31.16757,
+    "geom:longitude":-7.91261,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":18617,
+    "gn:population":21244,
+    "iso:country":"MA",
+    "lbl:latitude":31.16757,
+    "lbl:longitude":-7.91261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u063a\u0628\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Asni"
+    ],
+    "name:fra_x_variant":[
+        "Asni (CR)",
+        "Asni (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545572,
+    "qs_pg:gn_pop":18617,
+    "qs_pg:name":"Asni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628712,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545572,
+        "qs_pg:id":628712
+    },
+    "wof:country":"MA",
+    "wof:created":1497045068,
+    "wof:geomhash":"ec01fdd25d0f67c2e79f61bb209a487f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "localadmin_id":1125329789,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125329789,
+    "wof:lastmodified":1509388343,
+    "wof:name":"Asni",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"localadmin",
+    "wof:population":21244,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91261,
+    31.16757,
+    -7.91261,
+    31.16757
+],
+  "geometry": {"coordinates":[-7.91261,31.16757],"type":"Point"}
+}

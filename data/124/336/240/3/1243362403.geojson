@@ -1,0 +1,67 @@
+{
+  "id": 1243362403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07117,31.69187,-7.07117,31.69187",
+    "geom:latitude":31.69187,
+    "geom:longitude":-7.07117,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dar-Timlilt",
+    "gn:country_code":"MA",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354838,
+    "gn:latitude":31.69187,
+    "gn:longitude":-7.07117,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar-Timlilt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354838
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"13b1b0ab8d1c972f10c341c60158ba09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1243362403,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1243362403,
+    "wof:lastmodified":1536927487,
+    "wof:name":"Dar-Timlilt",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07117,
+    31.69187,
+    -7.07117,
+    31.69187
+],
+  "geometry": {"coordinates":[-7.07117,31.69187],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360074381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.791,29.46001,-9.791,29.46001",
+    "geom:latitude":29.46001,
+    "geom:longitude":-9.791,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Id Imskri",
+    "gn:country_code":"MA",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100956,
+    "gn:latitude":29.46001,
+    "gn:longitude":-9.791,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Imskri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100956
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bc1be43cd546820ded5e8b63a6eced69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1360074381,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360074381,
+    "wof:lastmodified":1536961052,
+    "wof:name":"Id Imskri",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.791,
+    29.46001,
+    -9.791,
+    29.46001
+],
+  "geometry": {"coordinates":[-9.791,29.46001],"type":"Point"}
+}

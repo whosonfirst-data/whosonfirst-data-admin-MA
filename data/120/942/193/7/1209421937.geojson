@@ -1,0 +1,61 @@
+{
+  "id": 1209421937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15518,34.73466,-5.15518,34.73466",
+    "geom:latitude":34.73466,
+    "geom:longitude":-5.15518,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Dhar",
+    "gn:country_code":"MA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925521,
+    "gn:latitude":34.73466,
+    "gn:longitude":-5.15518,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Dhar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925521
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c48626ddd4b6ac26454a160df625de34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209421937
+        }
+    ],
+    "wof:id":1209421937,
+    "wof:lastmodified":1536287502,
+    "wof:name":"Douar Dhar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1551800000000005,
+    34.73466,
+    -5.1551800000000005,
+    34.73466
+],
+  "geometry": {"coordinates":[-5.15518,34.73466],"type":"Point"}
+}

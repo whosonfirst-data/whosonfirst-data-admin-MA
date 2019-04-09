@@ -1,0 +1,75 @@
+{
+  "id": 1259776569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.19887,31.96136,-6.19887,31.96136",
+    "geom:latitude":31.96136,
+    "geom:longitude":-6.19887,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ighrem-n-Talmast",
+    "gn:country_code":"MA",
+    "gn:dem":1752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545635,
+    "gn:latitude":31.96136,
+    "gn:longitude":-6.19887,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ighrem-n-Talmast",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talmeste",
+        "Irhrem n\u2019Talmest",
+        "Talmest",
+        "Talmest Nord",
+        "Ighrem n\u2019Talmest",
+        "Ighrem-n-Talmast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545635
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1f274ad684fad54284d3e451a9e0e4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1259776569,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1259776569,
+    "wof:lastmodified":1537663726,
+    "wof:name":"Ighrem-n-Talmast",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.19887,
+    31.96136,
+    -6.19887,
+    31.96136
+],
+  "geometry": {"coordinates":[-6.19887,31.96136],"type":"Point"}
+}

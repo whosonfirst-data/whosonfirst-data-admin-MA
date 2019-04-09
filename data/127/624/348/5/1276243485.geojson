@@ -1,0 +1,74 @@
+{
+  "id": 1276243485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.21092,35.06079,-4.21092,35.06079",
+    "geom:latitude":35.06079,
+    "geom:longitude":-4.21092,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Tighalline",
+    "gn:country_code":"MA",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528600,
+    "gn:latitude":35.06079,
+    "gn:longitude":-4.21092,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tighalline",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tirhal\u00eene",
+        "Tigalline",
+        "Tigal Lin",
+        "Tighaline",
+        "Douar Tighalline"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528600
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"416b1f71db7eb90002f9d2ce714dda89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1276243485,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1276243485,
+    "wof:lastmodified":1537663390,
+    "wof:name":"Douar Tighalline",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.21092,
+    35.06079,
+    -4.21092,
+    35.06079
+],
+  "geometry": {"coordinates":[-4.21092,35.06079],"type":"Point"}
+}

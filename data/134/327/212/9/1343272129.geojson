@@ -1,0 +1,72 @@
+{
+  "id": 1343272129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94696,30.67778,-5.94696,30.67778",
+    "geom:latitude":30.67778,
+    "geom:longitude":-5.94696,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tafetchna",
+    "gn:country_code":"MA",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531922,
+    "gn:latitude":30.67778,
+    "gn:longitude":-5.94696,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tafetchna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia Tafetchna",
+        "Zaouia Tafetcha",
+        "Tafetchna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531922
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1f45e039901dc6844dc7ae1dc488d290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1343272129,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343272129,
+    "wof:lastmodified":1537663480,
+    "wof:name":"Tafetchna",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94696,
+    30.67778,
+    -5.94696,
+    30.67778
+],
+  "geometry": {"coordinates":[-5.94696,30.67778],"type":"Point"}
+}

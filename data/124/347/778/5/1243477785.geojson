@@ -1,0 +1,67 @@
+{
+  "id": 1243477785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03421,33.78511,-7.03421,33.78511",
+    "geom:latitude":33.78511,
+    "geom:longitude":-7.03421,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Yahya Ben Ali",
+    "gn:country_code":"MA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949726,
+    "gn:latitude":33.78511,
+    "gn:longitude":-7.03421,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Yahya Ben Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949726
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"72bef5115aa0eb4a72af9342b81a87e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1243477785,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1243477785,
+    "wof:lastmodified":1536760542,
+    "wof:name":"Oulad Yahya Ben Ali",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03421,
+    33.78511,
+    -7.03421,
+    33.78511
+],
+  "geometry": {"coordinates":[-7.03421,33.78511],"type":"Point"}
+}

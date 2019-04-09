@@ -1,0 +1,67 @@
+{
+  "id": 1293411485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.93323,33.33376,-6.93323,33.33376",
+    "geom:latitude":33.33376,
+    "geom:longitude":-6.93323,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Saidia Il",
+    "gn:country_code":"MA",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940386,
+    "gn:latitude":33.33376,
+    "gn:longitude":-6.93323,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Saidia Il",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940386
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"48f00f5140764618022dee01720800d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1293411485,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293411485,
+    "wof:lastmodified":1536896517,
+    "wof:name":"Douar Saidia Il",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.93323,
+    33.33376,
+    -6.93323,
+    33.33376
+],
+  "geometry": {"coordinates":[-6.93323,33.33376],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343873285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.36803,32.39309,-6.36803,32.39309",
+    "geom:latitude":32.39309,
+    "geom:longitude":-6.36803,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Krakeb",
+    "gn:country_code":"MA",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544077,
+    "gn:latitude":32.39309,
+    "gn:longitude":-6.36803,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Krakeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544077
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fce36bb8cae2cbf946cde544ea2737a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1343873285,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343873285,
+    "wof:lastmodified":1536647628,
+    "wof:name":"Krakeb",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.36803,
+    32.39309,
+    -6.36803,
+    32.39309
+],
+  "geometry": {"coordinates":[-6.36803,32.39309],"type":"Point"}
+}

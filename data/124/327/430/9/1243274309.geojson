@@ -1,0 +1,72 @@
+{
+  "id": 1243274309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06734,35.04229,-5.06734,35.04229",
+    "geom:latitude":35.04229,
+    "geom:longitude":-5.06734,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Houmat Lhaouta",
+    "gn:country_code":"MA",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547893,
+    "gn:latitude":35.04229,
+    "gn:longitude":-5.06734,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Houmat Lhaouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hauta",
+        "Haouta",
+        "Houmat Lhaouta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547893
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eccbe18c71c934fb72a0a8330d24a93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1243274309,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243274309,
+    "wof:lastmodified":1537663803,
+    "wof:name":"Houmat Lhaouta",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06734,
+    35.04229,
+    -5.06734,
+    35.04229
+],
+  "geometry": {"coordinates":[-5.06734,35.04229],"type":"Point"}
+}

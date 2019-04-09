@@ -1,0 +1,72 @@
+{
+  "id": 1343369239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.71577,34.44367,-4.71577,34.44367",
+    "geom:latitude":34.44367,
+    "geom:longitude":-4.71577,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Kaddour Ben Abbou",
+    "gn:country_code":"MA",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551405,
+    "gn:latitude":34.44367,
+    "gn:longitude":-4.71577,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Kaddour Ben Abbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Kaddoor ben Abbou",
+        "Ouled Kadour",
+        "Douar Oulad Kaddour Ben Abbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551405
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba090982d346de26d49bb91905ed1247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1343369239,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343369239,
+    "wof:lastmodified":1537663935,
+    "wof:name":"Douar Oulad Kaddour Ben Abbou",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.71577,
+    34.44367,
+    -4.71577,
+    34.44367
+],
+  "geometry": {"coordinates":[-4.71577,34.44367],"type":"Point"}
+}

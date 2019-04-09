@@ -1,0 +1,72 @@
+{
+  "id": 1276778531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06768,32.09719,-9.06768,32.09719",
+    "geom:latitude":32.09719,
+    "geom:longitude":-9.06768,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Laadaroua",
+    "gn:country_code":"MA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539610,
+    "gn:latitude":32.09719,
+    "gn:longitude":-9.06768,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Laadaroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Ben Azza",
+        "Oulad Lardraoui",
+        "Douar Laadaroua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539610
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d702569ce765ab1c177ee405bd2acc33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1276778531,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1276778531,
+    "wof:lastmodified":1537663580,
+    "wof:name":"Douar Laadaroua",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06768,
+    32.09719,
+    -9.06768,
+    32.09719
+],
+  "geometry": {"coordinates":[-9.06768,32.09719],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310412241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.72305,33.79756,-4.72305,33.79756",
+    "geom:latitude":33.79756,
+    "geom:longitude":-4.72305,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ait Jerrad",
+    "gn:country_code":"MA",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10977542,
+    "gn:latitude":33.79756,
+    "gn:longitude":-4.72305,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Jerrad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10977542
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f84071e7b9180707c4169742ccb4eb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1310412241,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1310412241,
+    "wof:lastmodified":1537049419,
+    "wof:name":"Ait Jerrad",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.72305,
+    33.79756,
+    -4.72305,
+    33.79756
+],
+  "geometry": {"coordinates":[-4.72305,33.79756],"type":"Point"}
+}

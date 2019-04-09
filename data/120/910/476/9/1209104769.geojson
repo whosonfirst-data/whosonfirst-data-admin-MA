@@ -1,0 +1,61 @@
+{
+  "id": 1209104769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.36208,32.55074,-6.36208,32.55074",
+    "geom:latitude":32.55074,
+    "geom:longitude":-6.36208,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"As-Sma'ala",
+    "gn:country_code":"MA",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11470724,
+    "gn:latitude":32.55074,
+    "gn:longitude":-6.36208,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"As-Sma\u2019ala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11470724
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"798dd98a3352248c093439f13460cc7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209104769
+        }
+    ],
+    "wof:id":1209104769,
+    "wof:lastmodified":1536297612,
+    "wof:name":"As-Sma'ala",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.3620800000000015,
+    32.550740000000005,
+    -6.3620800000000015,
+    32.550740000000005
+],
+  "geometry": {"coordinates":[-6.36208,32.55074],"type":"Point"}
+}

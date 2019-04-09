@@ -1,0 +1,78 @@
+{
+  "id": 890417157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15476,31.81834,-9.15476,31.81834",
+    "geom:latitude":31.81834,
+    "geom:longitude":-9.15476,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":13203,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u062e\u0627\u0644\u064a\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Laaroussi"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Laaroussi (CR)",
+        "Sidi Laaroussi (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Laaroussi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546514,
+        "qs:id":629620,
+        "wd:id":"Q7508752",
+        "wk:page":"Sidi Laaroussi"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051185,
+    "wof:geomhash":"b1235977c25e9ea4f69f5a2a4791c2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "localadmin_id":890417157,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890417157,
+    "wof:lastmodified":1527782119,
+    "wof:name":"Sidi Laaroussi",
+    "wof:parent_id":890453939,
+    "wof:placetype":"localadmin",
+    "wof:population":13203,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15476,
+    31.81834,
+    -9.15476,
+    31.81834
+],
+  "geometry": {"coordinates":[-9.15476,31.81834],"type":"Point"}
+}

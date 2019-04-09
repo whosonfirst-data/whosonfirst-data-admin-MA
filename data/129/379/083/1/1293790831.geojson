@@ -1,0 +1,67 @@
+{
+  "id": 1293790831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.80226,34.46728,-4.80226,34.46728",
+    "geom:latitude":34.46728,
+    "geom:longitude":-4.80226,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Lekhzayene",
+    "gn:country_code":"MA",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11042605,
+    "gn:latitude":34.46728,
+    "gn:longitude":-4.80226,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lekhzayene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11042605
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"897d1b6b06960b89f6ea5f6483e1b97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1293790831,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293790831,
+    "wof:lastmodified":1536845659,
+    "wof:name":"Douar Lekhzayene",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.80226,
+    34.46728,
+    -4.80226,
+    34.46728
+],
+  "geometry": {"coordinates":[-4.80226,34.46728],"type":"Point"}
+}

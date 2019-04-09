@@ -1,0 +1,67 @@
+{
+  "id": 1259675835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03014,32.83724,-8.03014,32.83724",
+    "geom:latitude":32.83724,
+    "geom:longitude":-8.03014,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chaba",
+    "gn:country_code":"MA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367816,
+    "gn:latitude":32.83724,
+    "gn:longitude":-8.03014,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Chaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367816
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7aa3a1778cbd93d10aabf7ba1ee68e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1259675835,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259675835,
+    "wof:lastmodified":1537074976,
+    "wof:name":"Chaba",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03014,
+    32.83724,
+    -8.03014,
+    32.83724
+],
+  "geometry": {"coordinates":[-8.03014,32.83724],"type":"Point"}
+}

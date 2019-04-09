@@ -1,0 +1,61 @@
+{
+  "id": 1209321587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.03831,34.40539,-5.03831,34.40539",
+    "geom:latitude":34.40539,
+    "geom:longitude":-5.03831,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Oulad Kaddour",
+    "gn:country_code":"MA",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985864,
+    "gn:latitude":34.40539,
+    "gn:longitude":-5.03831,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Kaddour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985864
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9faca1b4f7d0d45c7585d5a7652fad89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209321587
+        }
+    ],
+    "wof:id":1209321587,
+    "wof:lastmodified":1536290675,
+    "wof:name":"Douar Oulad Kaddour",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.03831,
+    34.405390000000004,
+    -5.03831,
+    34.405390000000004
+],
+  "geometry": {"coordinates":[-5.03831,34.40539],"type":"Point"}
+}

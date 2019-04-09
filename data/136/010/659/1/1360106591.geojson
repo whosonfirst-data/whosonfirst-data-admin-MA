@@ -1,0 +1,73 @@
+{
+  "id": 1360106591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67685,32.78543,-8.67685,32.78543",
+    "geom:latitude":32.78543,
+    "geom:longitude":-8.67685,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Laqdadra",
+    "gn:country_code":"MA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551780,
+    "gn:latitude":32.78543,
+    "gn:longitude":-8.67685,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Laqdadra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Kdadra",
+        "Douar el Caid Dakra",
+        "Douar el Khedadra",
+        "Douar Laqdadra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551780
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"64469c637c79e4fa385c2218ce11c1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1360106591,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1360106591,
+    "wof:lastmodified":1537663965,
+    "wof:name":"Douar Laqdadra",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67685,
+    32.78543,
+    -8.67685,
+    32.78543
+],
+  "geometry": {"coordinates":[-8.67685,32.78543],"type":"Point"}
+}

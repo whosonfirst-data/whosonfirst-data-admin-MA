@@ -1,0 +1,67 @@
+{
+  "id": 1310405669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.71545,34.12788,-6.71545,34.12788",
+    "geom:latitude":34.12788,
+    "geom:longitude":-6.71545,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Taibi",
+    "gn:country_code":"MA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10797445,
+    "gn:latitude":34.12788,
+    "gn:longitude":-6.71545,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Taibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10797445
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"77639c3c0e8ffb0f71f020239e61e515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":1310405669,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1310405669,
+    "wof:lastmodified":1537058492,
+    "wof:name":"Oulad Taibi",
+    "wof:parent_id":1108784811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.71545,
+    34.12788,
+    -6.71545,
+    34.12788
+],
+  "geometry": {"coordinates":[-6.71545,34.12788],"type":"Point"}
+}

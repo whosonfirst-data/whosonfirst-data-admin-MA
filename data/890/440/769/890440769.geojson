@@ -1,0 +1,77 @@
+{
+  "id": 890440769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50177,32.21565,-8.50177,32.21565",
+    "geom:latitude":32.21565,
+    "geom:longitude":-8.50177,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":7751,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0628\u0648\u0643\u062f\u0631\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Ahmed"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Ahmed (AC)",
+        "Sidi Ahmed (Agglomeration Communale)"
+    ],
+    "qs:name":"Sidi Ahmed",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546875,
+        "qs:id":629971,
+        "wk:page":"Sidi Ahmed"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052296,
+    "wof:geomhash":"fb30693618b9bb205397d3d8210d26a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "localadmin_id":890440769,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":890440769,
+    "wof:lastmodified":1527727106,
+    "wof:name":"Sidi Ahmed",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"localadmin",
+    "wof:population":7751,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50177,
+    32.21565,
+    -8.50177,
+    32.21565
+],
+  "geometry": {"coordinates":[-8.50177,32.21565],"type":"Point"}
+}

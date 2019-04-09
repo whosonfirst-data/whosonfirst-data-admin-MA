@@ -1,0 +1,67 @@
+{
+  "id": 1327036307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.09609,34.59885,-5.09609,34.59885",
+    "geom:latitude":34.59885,
+    "geom:longitude":-5.09609,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kissane Essouth",
+    "gn:country_code":"MA",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11041967,
+    "gn:latitude":34.59885,
+    "gn:longitude":-5.09609,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Kissane Essouth",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11041967
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"14878b41574bc432eea61c60cf1d3659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1327036307,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1327036307,
+    "wof:lastmodified":1536754782,
+    "wof:name":"Kissane Essouth",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.09609,
+    34.59885,
+    -5.09609,
+    34.59885
+],
+  "geometry": {"coordinates":[-5.09609,34.59885],"type":"Point"}
+}

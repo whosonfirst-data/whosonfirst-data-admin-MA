@@ -1,0 +1,67 @@
+{
+  "id": 1327139287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.46305,33.51079,-6.46305,33.51079",
+    "geom:latitude":33.51079,
+    "geom:longitude":-6.46305,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Toumiyat",
+    "gn:country_code":"MA",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10937172,
+    "gn:latitude":33.51079,
+    "gn:longitude":-6.46305,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Toumiyat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10937172
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a4b91a79b0555e23c32e2e47348064cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1327139287,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1327139287,
+    "wof:lastmodified":1536603035,
+    "wof:name":"Toumiyat",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.46305,
+    33.51079,
+    -6.46305,
+    33.51079
+],
+  "geometry": {"coordinates":[-6.46305,33.51079],"type":"Point"}
+}

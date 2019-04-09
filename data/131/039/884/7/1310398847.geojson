@@ -1,0 +1,68 @@
+{
+  "id": 1310398847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.68145,31.69565,-6.68145,31.69565",
+    "geom:latitude":31.69565,
+    "geom:longitude":-6.68145,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Assao",
+    "gn:country_code":"MA",
+    "gn:dem":1421,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556927,
+    "gn:latitude":31.69565,
+    "gn:longitude":-6.68145,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Assao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556927
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9e6f6bb60ff217612a7a06306fca806f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310398847,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310398847,
+    "wof:lastmodified":1537067902,
+    "wof:name":"Assao",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.68145,
+    31.69565,
+    -6.68145,
+    31.69565
+],
+  "geometry": {"coordinates":[-6.68145,31.69565],"type":"Point"}
+}

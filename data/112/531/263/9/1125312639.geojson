@@ -1,0 +1,88 @@
+{
+  "id": 1125312639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96763,35.06524,-5.96763,35.06524",
+    "geom:latitude":35.06524,
+    "geom:longitude":-5.96763,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":22426,
+    "gn:population":12608,
+    "iso:country":"MA",
+    "lbl:latitude":35.06524,
+    "lbl:longitude":-5.96763,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0628\u062c\u064a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Ouchih"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Ouchih (CR)",
+        "Oulad Ouchih (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545705,
+    "qs_pg:gn_pop":22426,
+    "qs_pg:name":"Oulad Ouchih",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":628847,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545705,
+        "qs_pg:id":628847
+    },
+    "wof:country":"MA",
+    "wof:created":1497044094,
+    "wof:geomhash":"f32a7e51ad21ccefea3e9bb7c5ee7879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "localadmin_id":1125312639,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125312639,
+    "wof:lastmodified":1509387925,
+    "wof:name":"Oulad Ouchih",
+    "wof:parent_id":890422513,
+    "wof:placetype":"localadmin",
+    "wof:population":12608,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96763,
+    35.06524,
+    -5.96763,
+    35.06524
+],
+  "geometry": {"coordinates":[-5.96763,35.06524],"type":"Point"}
+}

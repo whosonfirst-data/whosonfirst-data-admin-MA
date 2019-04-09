@@ -1,0 +1,61 @@
+{
+  "id": 1209200459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2994,31.7413,-8.2994,31.7413",
+    "geom:latitude":31.7413,
+    "geom:longitude":-8.2994,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lminaa",
+    "gn:country_code":"MA",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10904011,
+    "gn:latitude":31.7413,
+    "gn:longitude":-8.2994,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lminaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10904011
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"11d1fcca6ea7e3e33d0d57e1831b8886",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209200459
+        }
+    ],
+    "wof:id":1209200459,
+    "wof:lastmodified":1536294629,
+    "wof:name":"Douar Lminaa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2994,
+    31.7413,
+    -8.2994,
+    31.7413
+],
+  "geometry": {"coordinates":[-8.2994,31.7413],"type":"Point"}
+}

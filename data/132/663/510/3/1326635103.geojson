@@ -1,0 +1,67 @@
+{
+  "id": 1326635103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57093,34.27745,-6.57093,34.27745",
+    "geom:latitude":34.27745,
+    "geom:longitude":-6.57093,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Briquetene",
+    "gn:country_code":"MA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921250,
+    "gn:latitude":34.27745,
+    "gn:longitude":-6.57093,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Briquetene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921250
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7144cba2d719efff6bb093cb29c58221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1326635103,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1326635103,
+    "wof:lastmodified":1536834587,
+    "wof:name":"Briquetene",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57093,
+    34.27745,
+    -6.57093,
+    34.27745
+],
+  "geometry": {"coordinates":[-6.57093,34.27745],"type":"Point"}
+}

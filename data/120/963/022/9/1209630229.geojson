@@ -1,0 +1,65 @@
+{
+  "id": 1209630229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.74551,33.98232,-3.74551,33.98232",
+    "geom:latitude":33.98232,
+    "geom:longitude":-3.74551,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tachrift",
+    "gn:country_code":"MA",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532118,
+    "gn:latitude":33.98232,
+    "gn:longitude":-3.74551,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tachrift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Tachrift",
+        "Tachrift"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532118
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"65e963ec2f53b5f9ec1c6054af61050f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209630229
+        }
+    ],
+    "wof:id":1209630229,
+    "wof:lastmodified":1537663487,
+    "wof:name":"Tachrift",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.74551,
+    33.98232,
+    -3.74551,
+    33.98232
+],
+  "geometry": {"coordinates":[-3.74551,33.98232],"type":"Point"}
+}

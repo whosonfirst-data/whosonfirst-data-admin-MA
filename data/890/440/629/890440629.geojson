@@ -1,0 +1,81 @@
+{
+  "id": 890440629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.76954,31.44845,-9.76954,31.44845",
+    "geom:latitude":31.44845,
+    "geom:longitude":-9.76954,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":69005,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0646\u0634\u0627\u0646 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Essaouira"
+    ],
+    "name:fra_x_variant":[
+        "Essaouira (MU)",
+        "Essaouira (Commune Urbaine)"
+    ],
+    "qs:name":"Essaouira",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"wk",
+    "wd:latitude":"31.513055555",
+    "wd:longitude":"-9.769722222",
+    "wd:population":70000,
+    "wd:wordcount":3178,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546650,
+        "qs:id":629754,
+        "wd:id":"Q216939",
+        "wk:page":"Essaouira"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052290,
+    "wof:geomhash":"a8373135bc37f44a3e693b5c383ab989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "localadmin_id":890440629,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890440629,
+    "wof:lastmodified":1527727103,
+    "wof:name":"Essaouira",
+    "wof:parent_id":890453939,
+    "wof:placetype":"localadmin",
+    "wof:population":70000,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.76954,
+    31.44845,
+    -9.76954,
+    31.44845
+],
+  "geometry": {"coordinates":[-9.76954,31.44845],"type":"Point"}
+}

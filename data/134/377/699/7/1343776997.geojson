@@ -1,0 +1,72 @@
+{
+  "id": 1343776997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.87967,34.97605,-4.87967,34.97605",
+    "geom:latitude":34.97605,
+    "geom:longitude":-4.87967,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Taferka",
+    "gn:country_code":"MA",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531935,
+    "gn:latitude":34.97605,
+    "gn:longitude":-4.87967,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taferka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafarka",
+        "Tafenka",
+        "Taferka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531935
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1201826aecc7b3fa1f25e3d23f3f3e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1343776997,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343776997,
+    "wof:lastmodified":1537663480,
+    "wof:name":"Taferka",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.87967,
+    34.97605,
+    -4.87967,
+    34.97605
+],
+  "geometry": {"coordinates":[-4.87967,34.97605],"type":"Point"}
+}

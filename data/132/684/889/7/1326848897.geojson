@@ -1,0 +1,71 @@
+{
+  "id": 1326848897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99599,30.26116,-7.99599,30.26116",
+    "geom:latitude":30.26116,
+    "geom:longitude":-7.99599,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Taltmazirt",
+    "gn:country_code":"MA",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530912,
+    "gn:latitude":30.26116,
+    "gn:longitude":-7.99599,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taltmazirt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taltmazirte",
+        "Taltmazirt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530912
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"67dd0ed0ef38568a540f5670da737728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1326848897,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1326848897,
+    "wof:lastmodified":1537663451,
+    "wof:name":"Taltmazirt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99599,
+    30.26116,
+    -7.99599,
+    30.26116
+],
+  "geometry": {"coordinates":[-7.99599,30.26116],"type":"Point"}
+}

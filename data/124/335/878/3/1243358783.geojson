@@ -1,0 +1,67 @@
+{
+  "id": 1243358783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.95974,29.60816,-9.95974,29.60816",
+    "geom:latitude":29.60816,
+    "geom:longitude":-9.95974,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Douar Id Addi",
+    "gn:country_code":"MA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10886513,
+    "gn:latitude":29.60816,
+    "gn:longitude":-9.95974,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Id Addi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10886513
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"117030b8acc5ec0c7e58f65e3a611950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1243358783,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243358783,
+    "wof:lastmodified":1536932751,
+    "wof:name":"Douar Id Addi",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.95974,
+    29.60816,
+    -9.95974,
+    29.60816
+],
+  "geometry": {"coordinates":[-9.95974,29.60816],"type":"Point"}
+}

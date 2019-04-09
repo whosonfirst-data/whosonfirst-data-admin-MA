@@ -1,0 +1,67 @@
+{
+  "id": 1259695673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.89817,35.08928,-2.89817,35.08928",
+    "geom:latitude":35.08928,
+    "geom:longitude":-2.89817,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bou Taarourt",
+    "gn:country_code":"MA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961521,
+    "gn:latitude":35.08928,
+    "gn:longitude":-2.89817,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bou Taarourt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961521
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e54a3d99b67e153e3da93f350e8664ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1259695673,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1259695673,
+    "wof:lastmodified":1537047417,
+    "wof:name":"Bou Taarourt",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.89817,
+    35.08928,
+    -2.89817,
+    35.08928
+],
+  "geometry": {"coordinates":[-2.89817,35.08928],"type":"Point"}
+}

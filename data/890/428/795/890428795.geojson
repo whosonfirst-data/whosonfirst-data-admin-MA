@@ -1,0 +1,65 @@
+{
+  "id": 890428795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0,30.06667,-6.0,30.06667",
+    "geom:latitude":30.06667,
+    "geom:longitude":-6.0,
+    "gn:country":"MA",
+    "gn:fcode":"ADMD",
+    "gn:pop":285828,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Cercle de Zagora",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526451,
+        "qs:id":574978
+    },
+    "wof:country":"MA",
+    "wof:created":1469051772,
+    "wof:geomhash":"8a63d6ebf6270a04b1f7d3ba5309e58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "localadmin_id":890428795,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890428795,
+    "wof:lastmodified":1505343507,
+    "wof:name":"Cercle de Zagora",
+    "wof:parent_id":890424149,
+    "wof:placetype":"localadmin",
+    "wof:population":285828,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0,
+    30.06667,
+    -6.0,
+    30.06667
+],
+  "geometry": {"coordinates":[-6.0,30.06667],"type":"Point"}
+}

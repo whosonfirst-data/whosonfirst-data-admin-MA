@@ -1,0 +1,65 @@
+{
+  "id": 1209329549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2709,35.26337,-5.2709,35.26337",
+    "geom:latitude":35.26337,
+    "geom:longitude":-5.2709,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Talamfrot",
+    "gn:country_code":"MA",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531148,
+    "gn:latitude":35.26337,
+    "gn:longitude":-5.2709,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Talamfrot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talanfroukh",
+        "Talamfrot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531148
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"324c1afc6222fac559656548fcb3ec59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329549
+        }
+    ],
+    "wof:id":1209329549,
+    "wof:lastmodified":1537663459,
+    "wof:name":"Talamfrot",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2709,
+    35.26337,
+    -5.2709,
+    35.26337
+],
+  "geometry": {"coordinates":[-5.2709,35.26337],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259992699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.85722,35.78005,-5.85722,35.78005",
+    "geom:latitude":35.78005,
+    "geom:longitude":-5.85722,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lqadiriya",
+    "gn:country_code":"MA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060071,
+    "gn:latitude":35.78005,
+    "gn:longitude":-5.85722,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lqadiriya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060071
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3208e7e8b619c46aaa395d167c7b77c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1259992699,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259992699,
+    "wof:lastmodified":1536619661,
+    "wof:name":"Lqadiriya",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.85722,
+    35.78005,
+    -5.85722,
+    35.78005
+],
+  "geometry": {"coordinates":[-5.85722,35.78005],"type":"Point"}
+}

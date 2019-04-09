@@ -1,0 +1,67 @@
+{
+  "id": 1327241911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.21479,35.47134,-5.21479,35.47134",
+    "geom:latitude":35.47134,
+    "geom:longitude":-5.21479,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ben Zebene",
+    "gn:country_code":"MA",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555497,
+    "gn:latitude":35.47134,
+    "gn:longitude":-5.21479,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ben Zebene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555497
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1580f6642d4fe771fd982011dff3b1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1327241911,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327241911,
+    "wof:lastmodified":1536955788,
+    "wof:name":"Ben Zebene",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.21479,
+    35.47134000000001,
+    -5.21479,
+    35.47134000000001
+],
+  "geometry": {"coordinates":[-5.21479,35.47134000000001],"type":"Point"}
+}

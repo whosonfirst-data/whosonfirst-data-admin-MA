@@ -1,0 +1,72 @@
+{
+  "id": 1209830327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.17098,29.52433,-9.17098,29.52433",
+    "geom:latitude":29.52433,
+    "geom:longitude":-9.17098,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Takatrt",
+    "gn:country_code":"MA",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531311,
+    "gn:latitude":29.52433,
+    "gn:longitude":-9.17098,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Takatrt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tahaterte",
+        "Takafert",
+        "Takatrt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531311
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"327dd98198660b5daa43906e65ea268c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1209830327,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209830327,
+    "wof:lastmodified":1537663463,
+    "wof:name":"Takatrt",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.17098,
+    29.52433,
+    -9.17098,
+    29.52433
+],
+  "geometry": {"coordinates":[-9.17098,29.52433],"type":"Point"}
+}

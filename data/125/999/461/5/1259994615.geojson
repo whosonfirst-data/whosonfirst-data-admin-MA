@@ -1,0 +1,67 @@
+{
+  "id": 1259994615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0079,34.62325,-6.0079,34.62325",
+    "geom:latitude":34.62325,
+    "geom:longitude":-6.0079,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sidi Ahmed bou Youssef",
+    "gn:country_code":"MA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2536830,
+    "gn:latitude":34.62325,
+    "gn:longitude":-6.0079,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Ahmed bou Youssef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2536830
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0072654ab37ce7cdc8acba9d18a1e0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1259994615,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1259994615,
+    "wof:lastmodified":1536616781,
+    "wof:name":"Sidi Ahmed bou Youssef",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0079,
+    34.62325,
+    -6.0079,
+    34.62325
+],
+  "geometry": {"coordinates":[-6.0079,34.62325],"type":"Point"}
+}

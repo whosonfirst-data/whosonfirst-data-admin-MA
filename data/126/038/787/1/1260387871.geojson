@@ -1,0 +1,72 @@
+{
+  "id": 1260387871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.32874,32.56461,-6.32874,32.56461",
+    "geom:latitude":32.56461,
+    "geom:longitude":-6.32874,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Douar Ayt Simouzi",
+    "gn:country_code":"MA",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559082,
+    "gn:latitude":32.56461,
+    "gn:longitude":-6.32874,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Douar Ayt Simouzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00eft Semouzi",
+        "A\u00eft Semouzi",
+        "Douar Ayt Simouzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559082
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d9bff051a1efff1c6757e3f1dd0b5786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1260387871,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1260387871,
+    "wof:lastmodified":1537664153,
+    "wof:name":"Douar Ayt Simouzi",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.32874,
+    32.56460999999999,
+    -6.32874,
+    32.56460999999999
+],
+  "geometry": {"coordinates":[-6.32874,32.56460999999999],"type":"Point"}
+}

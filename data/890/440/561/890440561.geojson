@@ -1,0 +1,78 @@
+{
+  "id": 890440561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31938,30.16807,-8.31938,30.16807",
+    "geom:latitude":30.16807,
+    "geom:longitude":-8.31938,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":4983,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0631\u0648\u062f\u0627\u0646\u062a (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Adar"
+    ],
+    "name:fra_x_variant":[
+        "Adar (CR)",
+        "Adar (Commune Rurale)"
+    ],
+    "qs:name":"Adar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1109,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546460,
+        "qs:id":629562,
+        "wd:id":"Q212779",
+        "wk:page":"Adar"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052288,
+    "wof:geomhash":"6a22f40c6ddb8afad1900173501e30ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":890440561,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890440561,
+    "wof:lastmodified":1527727101,
+    "wof:name":"Adar",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":4983,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31938,
+    30.16807,
+    -8.31938,
+    30.16807
+],
+  "geometry": {"coordinates":[-8.31938,30.16807],"type":"Point"}
+}

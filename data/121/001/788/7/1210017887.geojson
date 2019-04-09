@@ -1,0 +1,67 @@
+{
+  "id": 1210017887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.00533,34.19494,-5.00533,34.19494",
+    "geom:latitude":34.19494,
+    "geom:longitude":-5.00533,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ain Moulay Thami",
+    "gn:country_code":"MA",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025437,
+    "gn:latitude":34.19494,
+    "gn:longitude":-5.00533,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ain Moulay Thami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025437
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"713a208427144d75443bc9ea17c7b009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1210017887,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1210017887,
+    "wof:lastmodified":1536394234,
+    "wof:name":"Douar Ain Moulay Thami",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.00533,
+    34.19494,
+    -5.00533,
+    34.19494
+],
+  "geometry": {"coordinates":[-5.00533,34.19494],"type":"Point"}
+}

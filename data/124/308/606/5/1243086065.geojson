@@ -1,0 +1,70 @@
+{
+  "id": 1243086065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62887,30.41826,-8.62887,30.41826",
+    "geom:latitude":30.41826,
+    "geom:longitude":-8.62887,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bou Tizwa",
+    "gn:country_code":"MA",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553861,
+    "gn:latitude":30.41826,
+    "gn:longitude":-8.62887,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Tizwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Tizoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553861
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2d31bea78ddf6a81747cb18b233b9217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1243086065,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243086065,
+    "wof:lastmodified":1537664042,
+    "wof:name":"Bou Tizwa",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62887,
+    30.41826,
+    -8.62887,
+    30.41826
+],
+  "geometry": {"coordinates":[-8.62887,30.41826],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293691845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07402,33.85316,-7.07402,33.85316",
+    "geom:latitude":33.85316,
+    "geom:longitude":-7.07402,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lafrath",
+    "gn:country_code":"MA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949645,
+    "gn:latitude":33.85316,
+    "gn:longitude":-7.07402,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lafrath",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949645
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5038822db417fbc79c19a64109167cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1293691845,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1293691845,
+    "wof:lastmodified":1536988838,
+    "wof:name":"Lafrath",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07402,
+    33.85316,
+    -7.07402,
+    33.85316
+],
+  "geometry": {"coordinates":[-7.07402,33.85316],"type":"Point"}
+}

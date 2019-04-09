@@ -1,0 +1,67 @@
+{
+  "id": 1210022743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.51772,33.63321,-4.51772,33.63321",
+    "geom:latitude":33.63321,
+    "geom:longitude":-4.51772,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Aftis Oughanim",
+    "gn:country_code":"MA",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024889,
+    "gn:latitude":33.63321,
+    "gn:longitude":-4.51772,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Aftis Oughanim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024889
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2fce3ece2662aeff1c03be16b54a6ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1210022743,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1210022743,
+    "wof:lastmodified":1536392112,
+    "wof:name":"Douar Aftis Oughanim",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.51772,
+    33.63321,
+    -4.51772,
+    33.63321
+],
+  "geometry": {"coordinates":[-4.51772,33.63321],"type":"Point"}
+}

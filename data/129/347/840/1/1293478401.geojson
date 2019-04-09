@@ -1,0 +1,67 @@
+{
+  "id": 1293478401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.76081,29.40921,-9.76081,29.40921",
+    "geom:latitude":29.40921,
+    "geom:longitude":-9.76081,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Doutircht",
+    "gn:country_code":"MA",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100982,
+    "gn:latitude":29.40921,
+    "gn:longitude":-9.76081,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Doutircht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100982
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8da5c19cdf97f4324dbccb4cf3ba8fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293478401,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293478401,
+    "wof:lastmodified":1536800260,
+    "wof:name":"Doutircht",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.76081,
+    29.40921,
+    -9.76081,
+    29.40921
+],
+  "geometry": {"coordinates":[-9.76081,29.40921],"type":"Point"}
+}

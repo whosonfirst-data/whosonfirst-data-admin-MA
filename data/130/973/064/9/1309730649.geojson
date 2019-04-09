@@ -1,0 +1,84 @@
+{
+  "id": 1309730649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.12913,31.04693,-7.12913,31.04693",
+    "geom:latitude":31.04693,
+    "geom:longitude":-7.12913,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Ben Haddou",
+    "gn:country_code":"MA",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560358,
+    "gn:latitude":31.04693,
+    "gn:longitude":-7.12913,
+    "gn:modification_date":"2018-04-25",
+    "gn:name":"A\u00eft Ben Haddou",
+    "gn:population":50,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ait Benhaddou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0442-\u0411\u0435\u043d-\u0425\u0430\u0434\u0434\u0443"
+    ],
+    "name:und_x_variant":[
+        "A\u00eft Ben Hadou",
+        "Ait Haddou",
+        "A\u00eft Ben Haddou",
+        "A\u00eft Benhaddou",
+        "Ath Benhadu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560358,
+        "wk:page":"A%C3%AFt_Benhaddou"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f41d2b063f84f0293729f98ab04a598d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1309730649,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309730649,
+    "wof:lastmodified":1537664202,
+    "wof:name":"Ait Ben Haddou",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.12913,
+    31.04693,
+    -7.12913,
+    31.04693
+],
+  "geometry": {"coordinates":[-7.12913,31.04693],"type":"Point"}
+}

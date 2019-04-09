@@ -1,0 +1,67 @@
+{
+  "id": 1293410041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48453,31.46088,-8.48453,31.46088",
+    "geom:latitude":31.46088,
+    "geom:longitude":-8.48453,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Mami",
+    "gn:country_code":"MA",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963116,
+    "gn:latitude":31.46088,
+    "gn:longitude":-8.48453,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Al Mami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963116
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5de74ee8d1ce3cfa3e6dce229928ada5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1293410041,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293410041,
+    "wof:lastmodified":1536898701,
+    "wof:name":"Al Mami",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48453,
+    31.46088,
+    -8.48453,
+    31.46088
+],
+  "geometry": {"coordinates":[-8.48453,31.46088],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209200493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.60332,31.54271,-9.60332,31.54271",
+    "geom:latitude":31.54271,
+    "geom:longitude":-9.60332,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ahl Essahel",
+    "gn:country_code":"MA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10898712,
+    "gn:latitude":31.54271,
+    "gn:longitude":-9.60332,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ahl Essahel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10898712
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c02770008a58c79706f65c7fa2cd41d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209200493
+        }
+    ],
+    "wof:id":1209200493,
+    "wof:lastmodified":1536294628,
+    "wof:name":"Ahl Essahel",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.60332,
+    31.54271,
+    -9.60332,
+    31.54271
+],
+  "geometry": {"coordinates":[-9.60332,31.54271],"type":"Point"}
+}

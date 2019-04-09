@@ -1,0 +1,70 @@
+{
+  "id": 1210008673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.42983,33.01893,-8.42983,33.01893",
+    "geom:latitude":33.01893,
+    "geom:longitude":-8.42983,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Ali Ben Larbi",
+    "gn:country_code":"MA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552180,
+    "gn:latitude":33.01893,
+    "gn:longitude":-8.42983,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Douar Ali Ben Larbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Abdallah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552180
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"64ffb590a6b1b214360071d6b05023d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1210008673,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1210008673,
+    "wof:lastmodified":1537663995,
+    "wof:name":"Douar Ali Ben Larbi",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.42983,
+    33.01893,
+    -8.42983,
+    33.01893
+],
+  "geometry": {"coordinates":[-8.42983,33.01893],"type":"Point"}
+}

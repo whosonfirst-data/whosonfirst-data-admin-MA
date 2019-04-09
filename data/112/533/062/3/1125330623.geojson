@@ -1,0 +1,88 @@
+{
+  "id": 1125330623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07284,29.74047,-8.07284,29.74047",
+    "geom:latitude":29.74047,
+    "geom:longitude":-8.07284,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4110,
+    "gn:population":3916,
+    "iso:country":"MA",
+    "lbl:latitude":29.74047,
+    "lbl:longitude":-8.07284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0643\u0645\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tigzmerte"
+    ],
+    "name:fra_x_variant":[
+        "Tigzmerte (CR)",
+        "Tigzmerte (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546554,
+    "qs_pg:gn_pop":4110,
+    "qs_pg:name":"Tigzmerte",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629655,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546554,
+        "qs_pg:id":629655
+    },
+    "wof:country":"MA",
+    "wof:created":1497045113,
+    "wof:geomhash":"063ade303c3d52c028cc21f95ce1c77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "localadmin_id":1125330623,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1125330623,
+    "wof:lastmodified":1509388370,
+    "wof:name":"Tigzmerte",
+    "wof:parent_id":890453851,
+    "wof:placetype":"localadmin",
+    "wof:population":3916,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07284,
+    29.74047,
+    -8.07284,
+    29.74047
+],
+  "geometry": {"coordinates":[-8.07284,29.74047],"type":"Point"}
+}

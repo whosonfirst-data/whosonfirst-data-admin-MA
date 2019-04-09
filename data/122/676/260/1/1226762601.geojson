@@ -1,0 +1,70 @@
+{
+  "id": 1226762601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59379,33.1262,-7.59379,33.1262",
+    "geom:latitude":33.1262,
+    "geom:longitude":-7.59379,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sidi Zwatina",
+    "gn:country_code":"MA",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532705,
+    "gn:latitude":33.1262,
+    "gn:longitude":-7.59379,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sidi Zwatina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Zouitina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532705
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"618fd80efd64ae002ebc16d21640f7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1226762601,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1226762601,
+    "wof:lastmodified":1537663503,
+    "wof:name":"Sidi Zwatina",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59379,
+    33.1262,
+    -7.59379,
+    33.1262
+],
+  "geometry": {"coordinates":[-7.59379,33.1262],"type":"Point"}
+}

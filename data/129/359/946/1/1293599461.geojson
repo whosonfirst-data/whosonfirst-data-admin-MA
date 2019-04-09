@@ -1,0 +1,72 @@
+{
+  "id": 1293599461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65272,32.38031,-8.65272,32.38031",
+    "geom:latitude":32.38031,
+    "geom:longitude":-8.65272,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Si Hammadi",
+    "gn:country_code":"MA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2534631,
+    "gn:latitude":32.38031,
+    "gn:longitude":-8.65272,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Si Hammadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Hamadi",
+        "Sidi Hamadi",
+        "Oulad Si Hammadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2534631
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8fc052b96a0858d6dd2ecd8fbcf4486b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1293599461,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293599461,
+    "wof:lastmodified":1537663510,
+    "wof:name":"Oulad Si Hammadi",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65272,
+    32.38030999999999,
+    -8.65272,
+    32.38030999999999
+],
+  "geometry": {"coordinates":[-8.65272,32.38030999999999],"type":"Point"}
+}

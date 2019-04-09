@@ -1,0 +1,61 @@
+{
+  "id": 1209428155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.02693,35.09218,-5.02693,35.09218",
+    "geom:latitude":35.09218,
+    "geom:longitude":-5.02693,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar El Onsar",
+    "gn:country_code":"MA",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10953948,
+    "gn:latitude":35.09218,
+    "gn:longitude":-5.02693,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Onsar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10953948
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d2fb0e8454448ba0548fa9669d7b67c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209428155
+        }
+    ],
+    "wof:id":1209428155,
+    "wof:lastmodified":1536287316,
+    "wof:name":"Douar El Onsar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.02693,
+    35.09218,
+    -5.02693,
+    35.09218
+],
+  "geometry": {"coordinates":[-5.02693,35.09218],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310607451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.51528,33.64936,-4.51528,33.64936",
+    "geom:latitude":33.64936,
+    "geom:longitude":-4.51528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ait Alihem",
+    "gn:country_code":"MA",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024882,
+    "gn:latitude":33.64936,
+    "gn:longitude":-4.51528,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Alihem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024882
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2beb87bfcf8ca32ab36f542e201f0cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1310607451,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1310607451,
+    "wof:lastmodified":1536770321,
+    "wof:name":"Douar Ait Alihem",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.51528,
+    33.64935999999999,
+    -4.51528,
+    33.64935999999999
+],
+  "geometry": {"coordinates":[-4.51528,33.64935999999999],"type":"Point"}
+}

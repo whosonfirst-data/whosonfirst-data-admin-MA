@@ -1,0 +1,71 @@
+{
+  "id": 1243373831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.34619,34.72518,-5.34619,34.72518",
+    "geom:latitude":34.72518,
+    "geom:longitude":-5.34619,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Es Sada",
+    "gn:country_code":"MA",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549271,
+    "gn:latitude":34.72518,
+    "gn:longitude":-5.34619,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Es Sada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sada",
+        "Es Sada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549271
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8b8864c6e082bfd2b094ea569fa6ee55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1243373831,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243373831,
+    "wof:lastmodified":1537663828,
+    "wof:name":"Es Sada",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.34619,
+    34.72518,
+    -5.34619,
+    34.72518
+],
+  "geometry": {"coordinates":[-5.34619,34.72518],"type":"Point"}
+}

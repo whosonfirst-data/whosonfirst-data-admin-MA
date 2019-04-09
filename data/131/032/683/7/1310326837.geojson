@@ -1,0 +1,67 @@
+{
+  "id": 1310326837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89203,33.19599,-7.89203,33.19599",
+    "geom:latitude":33.19599,
+    "geom:longitude":-7.89203,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hedanas",
+    "gn:country_code":"MA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11472446,
+    "gn:latitude":33.19599,
+    "gn:longitude":-7.89203,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Hedanas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11472446
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f286ef84e64c0c9ddd779f65d9467b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "locality_id":1310326837,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1310326837,
+    "wof:lastmodified":1536677206,
+    "wof:name":"Hedanas",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89203,
+    33.19599,
+    -7.89203,
+    33.19599
+],
+  "geometry": {"coordinates":[-7.89203,33.19599],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309894985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21568,30.58679,-9.21568,30.58679",
+    "geom:latitude":30.58679,
+    "geom:longitude":-9.21568,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taddout",
+    "gn:country_code":"MA",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948415,
+    "gn:latitude":30.58679,
+    "gn:longitude":-9.21568,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Taddout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948415
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ddf13cb5eec5e3fd623bea985eaafcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1309894985,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309894985,
+    "wof:lastmodified":1536802502,
+    "wof:name":"Taddout",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21568,
+    30.58679,
+    -9.21568,
+    30.58679
+],
+  "geometry": {"coordinates":[-9.21568,30.58679],"type":"Point"}
+}

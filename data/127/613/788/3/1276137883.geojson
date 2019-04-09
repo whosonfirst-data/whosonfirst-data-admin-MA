@@ -1,0 +1,67 @@
+{
+  "id": 1276137883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.18,29.15,-10.18,29.15",
+    "geom:latitude":29.15,
+    "geom:longitude":-10.18,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Azad",
+    "gn:country_code":"MA",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556721,
+    "gn:latitude":29.15,
+    "gn:longitude":-10.18,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Azad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556721
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8621178c4fe923d6825678f7e0db7bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1276137883,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276137883,
+    "wof:lastmodified":1537038871,
+    "wof:name":"Azad",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.18,
+    29.15,
+    -10.18,
+    29.15
+],
+  "geometry": {"coordinates":[-10.18,29.15],"type":"Point"}
+}

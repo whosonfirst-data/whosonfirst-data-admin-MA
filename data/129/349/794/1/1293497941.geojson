@@ -1,0 +1,72 @@
+{
+  "id": 1293497941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60027,29.86972,-8.60027,29.86972",
+    "geom:latitude":29.86972,
+    "geom:longitude":-8.60027,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tinmmar",
+    "gn:country_code":"MA",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527842,
+    "gn:latitude":29.86972,
+    "gn:longitude":-8.60027,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tinmmar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinoumart",
+        "Tinoummar",
+        "Tinmmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527842
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bbfd00af48307e6ca3a61bddb6c347ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1293497941,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1293497941,
+    "wof:lastmodified":1537663367,
+    "wof:name":"Tinmmar",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60027,
+    29.86972,
+    -8.60027,
+    29.86972
+],
+  "geometry": {"coordinates":[-8.60027,29.86972],"type":"Point"}
+}

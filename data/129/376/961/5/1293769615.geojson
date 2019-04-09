@@ -1,0 +1,67 @@
+{
+  "id": 1293769615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.73571,31.0053,-9.73571,31.0053",
+    "geom:latitude":31.0053,
+    "geom:longitude":-9.73571,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Id Rasra",
+    "gn:country_code":"MA",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869076,
+    "gn:latitude":31.0053,
+    "gn:longitude":-9.73571,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Rasra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869076
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"23a3c28bff568241360545723e472914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1293769615,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293769615,
+    "wof:lastmodified":1536876589,
+    "wof:name":"Id Rasra",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.73571,
+    31.0053,
+    -9.73571,
+    31.0053
+],
+  "geometry": {"coordinates":[-9.73571,31.0053],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293380023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.02451,31.53672,-5.02451,31.53672",
+    "geom:latitude":31.53672,
+    "geom:longitude":-5.02451,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ocar Qta' Oued",
+    "gn:country_code":"MA",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544697,
+    "gn:latitude":31.53672,
+    "gn:longitude":-5.02451,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ocar Qta\u2019 Oued",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kataa el Oued",
+        "Kta\u00e2 el oued",
+        "Ksar Kta el Oued",
+        "Ocar Qta\u2019 Oued"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544697
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5d7a5076ed6a5196e7e6328c384cebbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1293380023,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293380023,
+    "wof:lastmodified":1537663698,
+    "wof:name":"Ocar Qta' Oued",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.02451,
+    31.53672000000001,
+    -5.02451,
+    31.53672000000001
+],
+  "geometry": {"coordinates":[-5.02451,31.53672000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343864649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.68729,33.63437,-5.68729,33.63437",
+    "geom:latitude":33.63437,
+    "geom:longitude":-5.68729,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ait Ou Sahla",
+    "gn:country_code":"MA",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970800,
+    "gn:latitude":33.63437,
+    "gn:longitude":-5.68729,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Ou Sahla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970800
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba76210abf0b5e1924303a0d767c8cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1343864649,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343864649,
+    "wof:lastmodified":1536660573,
+    "wof:name":"Ait Ou Sahla",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.68729,
+    33.63437,
+    -5.68729,
+    33.63437
+],
+  "geometry": {"coordinates":[-5.68729,33.63437],"type":"Point"}
+}

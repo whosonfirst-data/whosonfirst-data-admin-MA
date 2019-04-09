@@ -1,0 +1,66 @@
+{
+  "id": 1209425177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7736,33.82226,-4.7736,33.82226",
+    "geom:latitude":33.82226,
+    "geom:longitude":-4.7736,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ait Taleb",
+    "gn:country_code":"MA",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558982,
+    "gn:latitude":33.82226,
+    "gn:longitude":-4.7736,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ait Taleb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ta\u00efeb",
+        "A\u00eft Taleb",
+        "Douar Ait Taleb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558982
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dd5538ec9f5ca0dab74856e2c9a52743",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425177
+        }
+    ],
+    "wof:id":1209425177,
+    "wof:lastmodified":1537664150,
+    "wof:name":"Douar Ait Taleb",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7736,
+    33.82226,
+    -4.7736,
+    33.82226
+],
+  "geometry": {"coordinates":[-4.7736,33.82226],"type":"Point"}
+}

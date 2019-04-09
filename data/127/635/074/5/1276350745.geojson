@@ -1,0 +1,67 @@
+{
+  "id": 1276350745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63,31.96,-8.63,31.96",
+    "geom:latitude":31.96,
+    "geom:longitude":-8.63,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dar Abdallah Ben Amor",
+    "gn:country_code":"MA",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553062,
+    "gn:latitude":31.96,
+    "gn:longitude":-8.63,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Abdallah Ben Amor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553062
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2a0719e48a9a4403b4373176a99085ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1276350745,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1276350745,
+    "wof:lastmodified":1536755160,
+    "wof:name":"Dar Abdallah Ben Amor",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63,
+    31.96,
+    -8.63,
+    31.96
+],
+  "geometry": {"coordinates":[-8.63,31.96],"type":"Point"}
+}

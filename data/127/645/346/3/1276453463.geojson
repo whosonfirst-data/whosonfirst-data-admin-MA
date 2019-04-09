@@ -1,0 +1,71 @@
+{
+  "id": 1276453463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.10149,34.72352,-6.10149,34.72352",
+    "geom:latitude":34.72352,
+    "geom:longitude":-6.10149,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Amiriine",
+    "gn:country_code":"MA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550779,
+    "gn:latitude":34.72352,
+    "gn:longitude":-6.10149,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Amiriine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Amiriine",
+        "El Amiriine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550779
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cfb261643096f61394979adc97cf86bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1276453463,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276453463,
+    "wof:lastmodified":1537663898,
+    "wof:name":"El Amiriine",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.10149,
+    34.72352,
+    -6.10149,
+    34.72352
+],
+  "geometry": {"coordinates":[-6.10149,34.72352],"type":"Point"}
+}

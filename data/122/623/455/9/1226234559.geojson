@@ -1,0 +1,67 @@
+{
+  "id": 1226234559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.68331,32.68557,-7.68331,32.68557",
+    "geom:latitude":32.68557,
+    "geom:longitude":-7.68331,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ej-Jmel",
+    "gn:country_code":"MA",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11368467,
+    "gn:latitude":32.68557,
+    "gn:longitude":-7.68331,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ej-Jmel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11368467
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2c0a92d1ed8fbcecd2b588403eb544ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1226234559,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1226234559,
+    "wof:lastmodified":1536950038,
+    "wof:name":"Ej-Jmel",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.68331,
+    32.68557,
+    -7.68331,
+    32.68557
+],
+  "geometry": {"coordinates":[-7.68331,32.68557],"type":"Point"}
+}

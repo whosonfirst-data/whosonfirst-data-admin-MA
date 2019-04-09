@@ -1,0 +1,71 @@
+{
+  "id": 1209932821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0406,31.04063,-6.0406,31.04063",
+    "geom:latitude":31.04063,
+    "geom:longitude":-6.0406,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Assaka-n-Ait Ouzzine",
+    "gn:country_code":"MA",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556954,
+    "gn:latitude":31.04063,
+    "gn:longitude":-6.0406,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Assaka-n-A\u00eft Ouzzine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assaka-n-A\u00eft Ouzzine",
+        "Assaka n\u2019A\u00eft Ouzzine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556954
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"afce79ee716ec1f841b272e31d44e08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1209932821,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209932821,
+    "wof:lastmodified":1537664097,
+    "wof:name":"Assaka-n-Ait Ouzzine",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0406,
+    31.04063,
+    -6.0406,
+    31.04063
+],
+  "geometry": {"coordinates":[-6.0406,31.04063],"type":"Point"}
+}

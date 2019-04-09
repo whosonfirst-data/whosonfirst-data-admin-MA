@@ -1,0 +1,67 @@
+{
+  "id": 1360183285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.80297,31.90639,-6.80297,31.90639",
+    "geom:latitude":31.90639,
+    "geom:longitude":-6.80297,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait-ou-L'id",
+    "gn:country_code":"MA",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963614,
+    "gn:latitude":31.90639,
+    "gn:longitude":-6.80297,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft-ou-L\u2019id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963614
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dc25a159b0da1ad8846a79881e2a7fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1360183285,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1360183285,
+    "wof:lastmodified":1536803900,
+    "wof:name":"Ait-ou-L'id",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.80297,
+    31.90639,
+    -6.80297,
+    31.90639
+],
+  "geometry": {"coordinates":[-6.80297,31.90639],"type":"Point"}
+}

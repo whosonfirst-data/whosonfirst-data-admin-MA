@@ -1,0 +1,71 @@
+{
+  "id": 1225950659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57315,33.75962,-5.57315,33.75962",
+    "geom:latitude":33.75962,
+    "geom:longitude":-5.57315,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Societe de Developpement Agricole",
+    "gn:country_code":"MA",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10976447,
+    "gn:latitude":33.75962,
+    "gn:longitude":-5.57315,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Soci\u00e9t\u00e9 de D\u00e9veloppement Agricole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soci\u00e9t\u00e9 de D\u00e9veloppement Agricole",
+        "Douar Charika Sghira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10976447
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1ff65ca4bba009c28f62a2c810c66a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1225950659,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1225950659,
+    "wof:lastmodified":1537664298,
+    "wof:name":"Societe de Developpement Agricole",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57315,
+    33.75962,
+    -5.57315,
+    33.75962
+],
+  "geometry": {"coordinates":[-5.57315,33.75962],"type":"Point"}
+}

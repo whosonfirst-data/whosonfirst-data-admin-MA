@@ -1,0 +1,73 @@
+{
+  "id": 1344247043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.21116,31.6448,-4.21116,31.6448",
+    "geom:latitude":31.6448,
+    "geom:longitude":-4.21116,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tam'arkit",
+    "gn:country_code":"MA",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530829,
+    "gn:latitude":31.6448,
+    "gn:longitude":-4.21116,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tam\u2019arkit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Tamarkit",
+        "Tamaarkite",
+        "Tamarhakit",
+        "Tam\u2019arkit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530829
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3795e5f779351a0f41449691cbab2ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1344247043,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1344247043,
+    "wof:lastmodified":1537663449,
+    "wof:name":"Tam'arkit",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.21116,
+    31.6448,
+    -4.21116,
+    31.6448
+],
+  "geometry": {"coordinates":[-4.21116,31.6448],"type":"Point"}
+}

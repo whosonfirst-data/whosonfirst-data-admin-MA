@@ -1,0 +1,71 @@
+{
+  "id": 1226257689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.40481,32.2636,-6.40481,32.2636",
+    "geom:latitude":32.2636,
+    "geom:longitude":-6.40481,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Rhejdine",
+    "gn:country_code":"MA",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559163,
+    "gn:latitude":32.2636,
+    "gn:longitude":-6.40481,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Rhejdine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft M\u2019Rhoujchine",
+        "A\u00eft Rhejdine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559163
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"67679187c5e42b3e7c0e76f61d9cf413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1226257689,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226257689,
+    "wof:lastmodified":1537664157,
+    "wof:name":"Ait Rhejdine",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.40481,
+    32.2636,
+    -6.40481,
+    32.2636
+],
+  "geometry": {"coordinates":[-6.40481,32.2636],"type":"Point"}
+}

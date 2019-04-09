@@ -1,0 +1,67 @@
+{
+  "id": 1226528155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70071,31.08086,-8.70071,31.08086",
+    "geom:latitude":31.08086,
+    "geom:longitude":-8.70071,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zinit",
+    "gn:country_code":"MA",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10962913,
+    "gn:latitude":31.08086,
+    "gn:longitude":-8.70071,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zinit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10962913
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fd89b694526d641f45d374144c151ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1226528155,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226528155,
+    "wof:lastmodified":1537022432,
+    "wof:name":"Zinit",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70071,
+    31.08086,
+    -8.70071,
+    31.08086
+],
+  "geometry": {"coordinates":[-8.70071,31.08086],"type":"Point"}
+}

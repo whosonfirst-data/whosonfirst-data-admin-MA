@@ -1,0 +1,70 @@
+{
+  "id": 1259598109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.61662,32.75219,-3.61662,32.75219",
+    "geom:latitude":32.75219,
+    "geom:longitude":-3.61662,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Mrija Tahtaniya",
+    "gn:country_code":"MA",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542510,
+    "gn:latitude":32.75219,
+    "gn:longitude":-3.61662,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Al Mrija Tahtaniya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Merija Tahtania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542510
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d356f110061e65e747955d88cc27999a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1259598109,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1259598109,
+    "wof:lastmodified":1537663656,
+    "wof:name":"Al Mrija Tahtaniya",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.61662,
+    32.75219,
+    -3.61662,
+    32.75219
+],
+  "geometry": {"coordinates":[-3.61662,32.75219],"type":"Point"}
+}

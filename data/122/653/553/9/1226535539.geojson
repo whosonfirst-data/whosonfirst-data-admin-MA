@@ -1,0 +1,67 @@
+{
+  "id": 1226535539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.02113,32.15048,-7.02113,32.15048",
+    "geom:latitude":32.15048,
+    "geom:longitude":-7.02113,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Abaho",
+    "gn:country_code":"MA",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11368098,
+    "gn:latitude":32.15048,
+    "gn:longitude":-7.02113,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Abaho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11368098
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9de1e9ba78223bf6c4ea3e066c312fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226535539,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226535539,
+    "wof:lastmodified":1537012079,
+    "wof:name":"Ait Abaho",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.02113,
+    32.15048,
+    -7.02113,
+    32.15048
+],
+  "geometry": {"coordinates":[-7.02113,32.15048],"type":"Point"}
+}

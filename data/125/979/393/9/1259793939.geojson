@@ -1,0 +1,72 @@
+{
+  "id": 1259793939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.36857,31.99492,-8.36857,31.99492",
+    "geom:latitude":31.99492,
+    "geom:longitude":-8.36857,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Bara",
+    "gn:country_code":"MA",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551454,
+    "gn:latitude":31.99492,
+    "gn:longitude":-8.36857,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Bara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Bouhara",
+        "Douar Oulad Bou Hara",
+        "Douar Oulad Bara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551454
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9d942896f2de56d4e93e996c6f37a646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1259793939,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259793939,
+    "wof:lastmodified":1537663939,
+    "wof:name":"Douar Oulad Bara",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.36857,
+    31.99492,
+    -8.36857,
+    31.99492
+],
+  "geometry": {"coordinates":[-8.36857,31.99492],"type":"Point"}
+}

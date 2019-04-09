@@ -1,0 +1,73 @@
+{
+  "id": 1344071999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98013,34.77396,-5.98013,34.77396",
+    "geom:latitude":34.77396,
+    "geom:longitude":-5.98013,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar El Kalaa",
+    "gn:country_code":"MA",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550037,
+    "gn:latitude":34.77396,
+    "gn:longitude":-5.98013,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar El Kalaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Kal\u00e2a",
+        "El Kalaa",
+        "Douar El Kalaa",
+        "Al Qel\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550037
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bde4893284091b924109d62df482614a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1344071999,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1344071999,
+    "wof:lastmodified":1537663861,
+    "wof:name":"Douar El Kalaa",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98013,
+    34.77396,
+    -5.98013,
+    34.77396
+],
+  "geometry": {"coordinates":[-5.98013,34.77396],"type":"Point"}
+}

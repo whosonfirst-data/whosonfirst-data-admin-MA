@@ -1,0 +1,72 @@
+{
+  "id": 1293010943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.7006,35.25532,-5.7006,35.25532",
+    "geom:latitude":35.25532,
+    "geom:longitude":-5.7006,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Rouaoussa",
+    "gn:country_code":"MA",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537951,
+    "gn:latitude":35.25532,
+    "gn:longitude":-5.7006,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Rouaoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rouaousa",
+        "Rouaoussa",
+        "Douar Rouaoussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537951
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba806d0b46a7aedfd3e32efeaa500b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1293010943,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293010943,
+    "wof:lastmodified":1537663530,
+    "wof:name":"Douar Rouaoussa",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7006,
+    35.25532000000001,
+    -5.7006,
+    35.25532000000001
+],
+  "geometry": {"coordinates":[-5.7006,35.25532000000001],"type":"Point"}
+}

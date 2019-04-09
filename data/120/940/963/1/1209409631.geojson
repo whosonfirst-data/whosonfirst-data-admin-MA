@@ -1,0 +1,61 @@
+{
+  "id": 1209409631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90208,32.69261,-8.90208,32.69261",
+    "geom:latitude":32.69261,
+    "geom:longitude":-8.90208,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar El Haj Tahar",
+    "gn:country_code":"MA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10917778,
+    "gn:latitude":32.69261,
+    "gn:longitude":-8.90208,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Haj Tahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10917778
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d37110f3159cf184134fc7467165b43f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209409631
+        }
+    ],
+    "wof:id":1209409631,
+    "wof:lastmodified":1536287881,
+    "wof:name":"Douar El Haj Tahar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90208,
+    32.692609999999995,
+    -8.90208,
+    32.692609999999995
+],
+  "geometry": {"coordinates":[-8.90208,32.69260999999999],"type":"Point"}
+}

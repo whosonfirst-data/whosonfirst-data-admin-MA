@@ -1,0 +1,78 @@
+{
+  "id": 890440753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.99783,33.0401,-3.99783,33.0401",
+    "geom:latitude":33.0401,
+    "geom:longitude":-3.99783,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":20332,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0628\u0644\u0627\u062f\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Missour"
+    ],
+    "name:fra_x_variant":[
+        "Missour (MU)",
+        "Missour (Commune Urbaine)"
+    ],
+    "qs:name":"Missour",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546860,
+        "qs:id":629965,
+        "wd:id":"Q2540367",
+        "wk:page":"Missour"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052295,
+    "wof:geomhash":"6a62e33e4c73cbe8aae4322d2201ad67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "localadmin_id":890440753,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":890440753,
+    "wof:lastmodified":1527727101,
+    "wof:name":"Missour",
+    "wof:parent_id":890436419,
+    "wof:placetype":"localadmin",
+    "wof:population":20332,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.99783,
+    33.0401,
+    -3.99783,
+    33.0401
+],
+  "geometry": {"coordinates":[-3.99783,33.0401],"type":"Point"}
+}

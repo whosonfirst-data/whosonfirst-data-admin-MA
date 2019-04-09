@@ -1,0 +1,67 @@
+{
+  "id": 1225837171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38595,32.46825,-8.38595,32.46825",
+    "geom:latitude":32.46825,
+    "geom:longitude":-8.38595,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Achchab Mtal",
+    "gn:country_code":"MA",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641272,
+    "gn:latitude":32.46825,
+    "gn:longitude":-8.38595,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Achchab Mtal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641272
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e9dde34c194fd92e9a00fef26dbdf111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1225837171,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1225837171,
+    "wof:lastmodified":1537024968,
+    "wof:name":"Douar Achchab Mtal",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38595,
+    32.46825,
+    -8.38595,
+    32.46825
+],
+  "geometry": {"coordinates":[-8.38595,32.46825],"type":"Point"}
+}

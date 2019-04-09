@@ -1,0 +1,66 @@
+{
+  "id": 1209625575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.41978,34.27791,-4.41978,34.27791",
+    "geom:latitude":34.27791,
+    "geom:longitude":-4.41978,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Star Tahtani",
+    "gn:country_code":"MA",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556827,
+    "gn:latitude":34.27791,
+    "gn:longitude":-4.41978,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Star Tahtani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Astar",
+        "Astar",
+        "Douar Star Tahtani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556827
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0e4b81c4e1b873ca818b545fe00630b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625575
+        }
+    ],
+    "wof:id":1209625575,
+    "wof:lastmodified":1537664093,
+    "wof:name":"Douar Star Tahtani",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.41978,
+    34.27791,
+    -4.41978,
+    34.27791
+],
+  "geometry": {"coordinates":[-4.41978,34.27791],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343477351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.43,34.93,-4.43,34.93",
+    "geom:latitude":34.93,
+    "geom:longitude":-4.43,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tigaraout",
+    "gn:country_code":"MA",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528598,
+    "gn:latitude":34.93,
+    "gn:longitude":-4.43,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tigaraout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528598
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3e18d3d7103de359a0fedc1a4db92637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1343477351,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343477351,
+    "wof:lastmodified":1536722098,
+    "wof:name":"Tigaraout",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.43,
+    34.93,
+    -4.43,
+    34.93
+],
+  "geometry": {"coordinates":[-4.43,34.93],"type":"Point"}
+}

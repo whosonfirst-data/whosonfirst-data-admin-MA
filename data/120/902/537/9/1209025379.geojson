@@ -1,0 +1,67 @@
+{
+  "id": 1209025379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.23795,31.45242,-4.23795,31.45242",
+    "geom:latitude":31.45242,
+    "geom:longitude":-4.23795,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lahbibat",
+    "gn:country_code":"MA",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548393,
+    "gn:latitude":31.45242,
+    "gn:longitude":-4.23795,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Lahbibat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abibat",
+        "El Hebibat",
+        "Habibat",
+        "Lahbibat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548393
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b61435ad4ea5f490fe4901573c5e5d66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209025379
+        }
+    ],
+    "wof:id":1209025379,
+    "wof:lastmodified":1537663810,
+    "wof:name":"Lahbibat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.23795,
+    31.45242,
+    -4.23795,
+    31.45242
+],
+  "geometry": {"coordinates":[-4.23795,31.45242],"type":"Point"}
+}

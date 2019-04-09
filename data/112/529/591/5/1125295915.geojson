@@ -1,0 +1,88 @@
+{
+  "id": 1125295915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16511,30.18859,-8.16511,30.18859",
+    "geom:latitude":30.18859,
+    "geom:longitude":-8.16511,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":5605,
+    "gn:population":5605,
+    "iso:country":"MA",
+    "lbl:latitude":30.18859,
+    "lbl:longitude":-8.16511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Azaghar N Irs"
+    ],
+    "name:fra_x_variant":[
+        "Azaghar N Irs (CR)",
+        "Azaghar N Irs (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546462,
+    "qs_pg:gn_pop":5605,
+    "qs_pg:name":"Azaghar N Irs",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629564,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546462,
+        "qs_pg:id":629564
+    },
+    "wof:country":"MA",
+    "wof:created":1497043143,
+    "wof:geomhash":"40be510b683a9a213fba2993594947e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":1125295915,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125295915,
+    "wof:lastmodified":1509387623,
+    "wof:name":"Azaghar N Irs",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":5605,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16511,
+    30.18859,
+    -8.16511,
+    30.18859
+],
+  "geometry": {"coordinates":[-8.16511,30.18859],"type":"Point"}
+}

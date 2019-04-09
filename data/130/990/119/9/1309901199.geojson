@@ -1,0 +1,67 @@
+{
+  "id": 1309901199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0914,30.18207,-9.0914,30.18207",
+    "geom:latitude":30.18207,
+    "geom:longitude":-9.0914,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ifrhel",
+    "gn:country_code":"MA",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131272,
+    "gn:latitude":30.18207,
+    "gn:longitude":-9.0914,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ifrhel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131272
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"07de3eef41fa76b78aa2256ee0100428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1309901199,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309901199,
+    "wof:lastmodified":1536793868,
+    "wof:name":"Ifrhel",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0914,
+    30.18207,
+    -9.0914,
+    30.18207
+],
+  "geometry": {"coordinates":[-9.0914,30.18207],"type":"Point"}
+}

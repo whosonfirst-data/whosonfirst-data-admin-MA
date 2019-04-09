@@ -1,0 +1,67 @@
+{
+  "id": 1310495567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03153,30.14485,-9.03153,30.14485",
+    "geom:latitude":30.14485,
+    "geom:longitude":-9.03153,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Braim",
+    "gn:country_code":"MA",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131404,
+    "gn:latitude":30.14485,
+    "gn:longitude":-9.03153,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Braim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131404
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e12f4e3630083598e4b096fd81cc0b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1310495567,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310495567,
+    "wof:lastmodified":1536931992,
+    "wof:name":"Ait Braim",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03153,
+    30.14485,
+    -9.03153,
+    30.14485
+],
+  "geometry": {"coordinates":[-9.03153,30.14485],"type":"Point"}
+}

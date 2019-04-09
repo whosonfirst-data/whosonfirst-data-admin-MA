@@ -1,0 +1,74 @@
+{
+  "id": 1226360893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.00911,29.15027,-10.00911,29.15027",
+    "geom:latitude":29.15027,
+    "geom:longitude":-10.00911,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Touguenfel",
+    "gn:country_code":"MA",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531637,
+    "gn:latitude":29.15027,
+    "gn:longitude":-10.00911,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Touguenfel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagounfil",
+        "Tuggunfel",
+        "Tagounfel",
+        "Touguanfal",
+        "Touguenfel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531637
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9c08385a55363d82392fff73d48d0dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1226360893,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226360893,
+    "wof:lastmodified":1537663471,
+    "wof:name":"Touguenfel",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.00911,
+    29.15027000000001,
+    -10.00911,
+    29.15027000000001
+],
+  "geometry": {"coordinates":[-10.00911,29.15027000000001],"type":"Point"}
+}

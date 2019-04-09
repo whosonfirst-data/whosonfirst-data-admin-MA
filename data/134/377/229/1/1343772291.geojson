@@ -1,0 +1,71 @@
+{
+  "id": 1343772291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.61184,35.15763,-4.61184,35.15763",
+    "geom:latitude":35.15763,
+    "geom:longitude":-4.61184,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Agarane",
+    "gn:country_code":"MA",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561559,
+    "gn:latitude":35.15763,
+    "gn:longitude":-4.61184,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agarane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agaran",
+        "Agarane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561559
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a8adaf1a6a6db505a3aa11a36544d8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1343772291,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343772291,
+    "wof:lastmodified":1537664240,
+    "wof:name":"Agarane",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.61184,
+    35.15763,
+    -4.61184,
+    35.15763
+],
+  "geometry": {"coordinates":[-4.61184,35.15763],"type":"Point"}
+}

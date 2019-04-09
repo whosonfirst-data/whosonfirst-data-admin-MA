@@ -1,0 +1,65 @@
+{
+  "id": 1209233171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.79261,30.77435,-7.79261,30.77435",
+    "geom:latitude":30.77435,
+    "geom:longitude":-7.79261,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tadmamt",
+    "gn:country_code":"MA",
+    "gn:dem":1765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532016,
+    "gn:latitude":30.77435,
+    "gn:longitude":-7.79261,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tadmamt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadmant",
+        "Tadment"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532016
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"51ecaa9520645c8d855e703c4cd3e032",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209233171
+        }
+    ],
+    "wof:id":1209233171,
+    "wof:lastmodified":1537663482,
+    "wof:name":"Tadmamt",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.79261,
+    30.77435,
+    -7.79261,
+    30.77435
+],
+  "geometry": {"coordinates":[-7.79261,30.77435],"type":"Point"}
+}

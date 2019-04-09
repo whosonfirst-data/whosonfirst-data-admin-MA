@@ -1,0 +1,72 @@
+{
+  "id": 1276778499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1646,32.39246,-5.1646,32.39246",
+    "geom:latitude":32.39246,
+    "geom:longitude":-5.1646,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tagouditt",
+    "gn:country_code":"MA",
+    "gn:dem":1989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531664,
+    "gn:latitude":32.39246,
+    "gn:longitude":-5.1646,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagouditt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagoudit",
+        "Taggoudite",
+        "Tagouditt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531664
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b0c051d4f19a42cf7105f6db79a411b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1276778499,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1276778499,
+    "wof:lastmodified":1537663472,
+    "wof:name":"Tagouditt",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1646,
+    32.39246,
+    -5.1646,
+    32.39246
+],
+  "geometry": {"coordinates":[-5.1646,32.39246],"type":"Point"}
+}

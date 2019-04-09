@@ -1,0 +1,84 @@
+{
+  "id": 890422517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.33333,27.83333,-12.33333,27.83333",
+    "geom:latitude":27.83333,
+    "geom:longitude":-12.33333,
+    "gn:country":"MA",
+    "gn:fcode":"ADM2",
+    "gn:pop":210023,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0639\u064a\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Province de  La\u00e2youne"
+    ],
+    "name:fra_x_variant":[
+        "La\u00e2youne",
+        "Laayoune",
+        "Province de Laayoune"
+    ],
+    "name:unk_x_variant":[
+        "El Aaiun"
+    ],
+    "qs:name":"Laayoune",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"wk",
+    "wd:latitude":"27.15",
+    "wd:longitude":"-13.2",
+    "wd:population":196331,
+    "wd:wordcount":688,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543878,
+        "qs:id":575049,
+        "wd:id":"Q47837",
+        "wk:page":"Laayoune"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051449,
+    "wof:geomhash":"21e76e540fbbea4a7ab40a3e7329e005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422517,
+            "region_id":85673941
+        }
+    ],
+    "wof:id":890422517,
+    "wof:lastmodified":1527727161,
+    "wof:name":"Laayoune",
+    "wof:parent_id":85673941,
+    "wof:placetype":"county",
+    "wof:population":196331,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.33333,
+    27.83333,
+    -12.33333,
+    27.83333
+],
+  "geometry": {"coordinates":[-12.33333,27.83333],"type":"Point"}
+}

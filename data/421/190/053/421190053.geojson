@@ -1,0 +1,75 @@
+{
+  "id": 421190053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.066738,28.984774,-10.066738,28.984774",
+    "geom:latitude":28.984774,
+    "geom:longitude":-10.066738,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0643\u0644\u0645\u064a\u0645",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0643\u0644\u0645\u064a\u0645 \u0640 \u0627\u0644\u0633\u0645\u0627\u0631\u0629",
+    "qs:photos":172,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":172,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118262,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1535570,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1535570,
+        "qs:id":1118262
+    },
+    "wof:country":"MA",
+    "wof:created":1459009644,
+    "wof:geomhash":"4ec47295d352b16cc3a07ce03f56976f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":421190053,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":421190053,
+    "wof:lastmodified":1499519181,
+    "wof:name":"\u0643\u0644\u0645\u064a\u0645",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.066738,
+    28.984774,
+    -10.066738,
+    28.984774
+],
+  "geometry": {"coordinates":[-10.066738,28.984774],"type":"Point"}
+}

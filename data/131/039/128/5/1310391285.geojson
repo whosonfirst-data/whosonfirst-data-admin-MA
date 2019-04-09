@@ -1,0 +1,67 @@
+{
+  "id": 1310391285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.59273,31.58874,-8.59273,31.58874",
+    "geom:latitude":31.58874,
+    "geom:longitude":-8.59273,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Fares",
+    "gn:country_code":"MA",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948108,
+    "gn:latitude":31.58874,
+    "gn:longitude":-8.59273,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Fares",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948108
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0c961069435064795e1cfb10f19351be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1310391285,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310391285,
+    "wof:lastmodified":1537078626,
+    "wof:name":"Douar Fares",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.59273,
+    31.58874,
+    -8.59273,
+    31.58874
+],
+  "geometry": {"coordinates":[-8.59273,31.58874],"type":"Point"}
+}

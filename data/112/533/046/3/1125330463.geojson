@@ -1,0 +1,88 @@
+{
+  "id": 1125330463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74134,29.82479,-8.74134,29.82479",
+    "geom:latitude":29.82479,
+    "geom:longitude":-8.74134,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2946,
+    "gn:population":2086,
+    "iso:country":"MA",
+    "lbl:latitude":29.82479,
+    "lbl:longitude":-8.74134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u062f\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Abdallah"
+    ],
+    "name:fra_x_variant":[
+        "Ait Abdallah (CR)",
+        "Ait Abdallah (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546372,
+    "qs_pg:gn_pop":2946,
+    "qs_pg:name":"Ait Abdallah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629477,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546372,
+        "qs_pg:id":629477
+    },
+    "wof:country":"MA",
+    "wof:created":1497045104,
+    "wof:geomhash":"824afe2c937b5fbf3f36f2c49e7a3e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":1125330463,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125330463,
+    "wof:lastmodified":1509388362,
+    "wof:name":"Ait Abdallah",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":2086,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74134,
+    29.82479,
+    -8.74134,
+    29.82479
+],
+  "geometry": {"coordinates":[-8.74134,29.82479],"type":"Point"}
+}

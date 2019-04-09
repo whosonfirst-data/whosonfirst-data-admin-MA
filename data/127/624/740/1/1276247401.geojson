@@ -1,0 +1,71 @@
+{
+  "id": 1276247401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.22267,29.1567,-10.22267,29.1567",
+    "geom:latitude":29.1567,
+    "geom:longitude":-10.22267,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bouchma",
+    "gn:country_code":"MA",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555035,
+    "gn:latitude":29.1567,
+    "gn:longitude":-10.22267,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bouchma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buxma",
+        "Bouchma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555035
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f9b77e2185d4a8eb917c3d54210dd390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1276247401,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276247401,
+    "wof:lastmodified":1537664057,
+    "wof:name":"Bouchma",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.22267,
+    29.1567,
+    -10.22267,
+    29.1567
+],
+  "geometry": {"coordinates":[-10.22267,29.1567],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209699795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82914,30.61788,-8.82914,30.61788",
+    "geom:latitude":30.61788,
+    "geom:longitude":-8.82914,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiguemmi El Bour",
+    "gn:country_code":"MA",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948815,
+    "gn:latitude":30.61788,
+    "gn:longitude":-8.82914,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiguemmi El Bour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948815
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6c9456ee267251f9f3148f81de61e125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1209699795,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209699795,
+    "wof:lastmodified":1536395493,
+    "wof:name":"Tiguemmi El Bour",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82914,
+    30.61788,
+    -8.82914,
+    30.61788
+],
+  "geometry": {"coordinates":[-8.82914,30.61788],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276988851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.04669,35.01163,-3.04669,35.01163",
+    "geom:latitude":35.01163,
+    "geom:longitude":-3.04669,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Iboujdadene",
+    "gn:country_code":"MA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999595,
+    "gn:latitude":35.01163,
+    "gn:longitude":-3.04669,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Iboujdadene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999595
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e058b53084747b2dd90e1ba4e7c6a48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1276988851,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1276988851,
+    "wof:lastmodified":1536894745,
+    "wof:name":"Iboujdadene",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.04669,
+    35.01163,
+    -3.04669,
+    35.01163
+],
+  "geometry": {"coordinates":[-3.04669,35.01163],"type":"Point"}
+}

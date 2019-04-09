@@ -1,0 +1,73 @@
+{
+  "id": 1310320165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.70474,32.2356,-4.70474,32.2356",
+    "geom:latitude":32.2356,
+    "geom:longitude":-4.70474,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gafay",
+    "gn:country_code":"MA",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548718,
+    "gn:latitude":32.2356,
+    "gn:longitude":-4.70474,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Gafay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guefai",
+        "Gaffay",
+        "Gafai",
+        "Gafay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548718
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b89860d56ebe4fc244fbb5e36ce25c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1310320165,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1310320165,
+    "wof:lastmodified":1537663816,
+    "wof:name":"Gafay",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.70474,
+    32.2356,
+    -4.70474,
+    32.2356
+],
+  "geometry": {"coordinates":[-4.70474,32.2356],"type":"Point"}
+}

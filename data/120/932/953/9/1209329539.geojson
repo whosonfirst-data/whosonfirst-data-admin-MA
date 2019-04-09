@@ -1,0 +1,65 @@
+{
+  "id": 1209329539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.42871,34.4862,-5.42871,34.4862",
+    "geom:latitude":34.4862,
+    "geom:longitude":-5.42871,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Menaa",
+    "gn:country_code":"MA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549640,
+    "gn:latitude":34.4862,
+    "gn:longitude":-5.42871,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Mena\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Mena\u00e2",
+        "El Mena\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549640
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c7ba31ecd13206a312115fd2eed7582b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329539
+        }
+    ],
+    "wof:id":1209329539,
+    "wof:lastmodified":1537663843,
+    "wof:name":"El Menaa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.42871,
+    34.4862,
+    -5.42871,
+    34.4862
+],
+  "geometry": {"coordinates":[-5.42871,34.4862],"type":"Point"}
+}

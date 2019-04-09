@@ -1,0 +1,67 @@
+{
+  "id": 1293600909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.10165,34.54382,-2.10165,34.54382",
+    "geom:latitude":34.54382,
+    "geom:longitude":-2.10165,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Oulad Ben Chna",
+    "gn:country_code":"MA",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11067005,
+    "gn:latitude":34.54382,
+    "gn:longitude":-2.10165,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Ben Chna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890453895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11067005
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fc35c16e3e057f53ea3dd3c5391f2818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453895,
+            "locality_id":1293600909,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293600909,
+    "wof:lastmodified":1536621501,
+    "wof:name":"Douar Oulad Ben Chna",
+    "wof:parent_id":890453895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.10165,
+    34.54382,
+    -2.10165,
+    34.54382
+],
+  "geometry": {"coordinates":[-2.10165,34.54382],"type":"Point"}
+}

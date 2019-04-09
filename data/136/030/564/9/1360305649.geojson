@@ -1,0 +1,73 @@
+{
+  "id": 1360305649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.27129,31.64237,-7.27129,31.64237",
+    "geom:latitude":31.64237,
+    "geom:longitude":-7.27129,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Adel",
+    "gn:country_code":"MA",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2560678,
+    "gn:latitude":31.64237,
+    "gn:longitude":-7.27129,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"A\u00eft \u00c2del",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "A\u00eft Aadel",
+        "Ait Addel",
+        "A\u00eft Adel",
+        "A\u00eft \u00c2del"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560678
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"254df73c5d9d1e63480750e474332e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1360305649,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360305649,
+    "wof:lastmodified":1537664213,
+    "wof:name":"Ait Adel",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.27129,
+    31.64237,
+    -7.27129,
+    31.64237
+],
+  "geometry": {"coordinates":[-7.27129,31.64237],"type":"Point"}
+}

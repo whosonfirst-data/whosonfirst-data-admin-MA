@@ -1,0 +1,67 @@
+{
+  "id": 1310709783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.67985,35.24424,-3.67985,35.24424",
+    "geom:latitude":35.24424,
+    "geom:longitude":-3.67985,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Admer",
+    "gn:country_code":"MA",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8560371,
+    "gn:latitude":35.24424,
+    "gn:longitude":-3.67985,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Admer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560371
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"68338ac0aead354effd5183731a30a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1310709783,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1310709783,
+    "wof:lastmodified":1536620014,
+    "wof:name":"Douar Admer",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.67985,
+    35.24424000000001,
+    -3.67985,
+    35.24424000000001
+],
+  "geometry": {"coordinates":[-3.67985,35.24424000000001],"type":"Point"}
+}

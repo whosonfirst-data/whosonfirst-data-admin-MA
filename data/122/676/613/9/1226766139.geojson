@@ -1,0 +1,72 @@
+{
+  "id": 1226766139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.92499,34.22572,-3.92499,34.22572",
+    "geom:latitude":34.22572,
+    "geom:longitude":-3.92499,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Irhoudane",
+    "gn:country_code":"MA",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545658,
+    "gn:latitude":34.22572,
+    "gn:longitude":-3.92499,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Irhoudane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Irhoudane",
+        "Ighoudane",
+        "Irhoudane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545658
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8ccf918d9109a88f85c8799e5977c167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1226766139,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1226766139,
+    "wof:lastmodified":1537663727,
+    "wof:name":"Irhoudane",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.92499,
+    34.22572,
+    -3.92499,
+    34.22572
+],
+  "geometry": {"coordinates":[-3.92499,34.22572],"type":"Point"}
+}

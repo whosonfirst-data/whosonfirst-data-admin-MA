@@ -1,0 +1,61 @@
+{
+  "id": 1209601167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14854,32.25629,-9.14854,32.25629",
+    "geom:latitude":32.25629,
+    "geom:longitude":-9.14854,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Jghadat",
+    "gn:country_code":"MA",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10868453,
+    "gn:latitude":32.25629,
+    "gn:longitude":-9.14854,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Jghadat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10868453
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cc3a2aad5c9555914d563ef3d21aa336",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209601167
+        }
+    ],
+    "wof:id":1209601167,
+    "wof:lastmodified":1536282162,
+    "wof:name":"Douar Jghadat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14854,
+    32.25629,
+    -9.14854,
+    32.25629
+],
+  "geometry": {"coordinates":[-9.14854,32.25629],"type":"Point"}
+}

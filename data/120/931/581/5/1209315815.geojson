@@ -1,0 +1,61 @@
+{
+  "id": 1209315815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.25048,34.21999,-5.25048,34.21999",
+    "geom:latitude":34.21999,
+    "geom:longitude":-5.25048,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Oulad Ben Hiyyane",
+    "gn:country_code":"MA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922300,
+    "gn:latitude":34.21999,
+    "gn:longitude":-5.25048,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Ben Hiyyane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922300
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"552a7b5356a0154a9cbed3d0e6dc5f20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209315815
+        }
+    ],
+    "wof:id":1209315815,
+    "wof:lastmodified":1536290869,
+    "wof:name":"Douar Oulad Ben Hiyyane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2504800000000005,
+    34.21999,
+    -5.2504800000000005,
+    34.21999
+],
+  "geometry": {"coordinates":[-5.25048,34.21999],"type":"Point"}
+}

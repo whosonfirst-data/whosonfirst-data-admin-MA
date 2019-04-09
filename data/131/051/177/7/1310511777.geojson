@@ -1,0 +1,74 @@
+{
+  "id": 1310511777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0818,30.53031,-6.0818,30.53031",
+    "geom:latitude":30.53031,
+    "geom:longitude":-6.0818,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tizguine",
+    "gn:country_code":"MA",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527434,
+    "gn:latitude":30.53031,
+    "gn:longitude":-6.0818,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tizguine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksebt Tisguine",
+        "Zaou\u00efa tizguine",
+        "Zaou\u00efa n\u2019Tisguine",
+        "Tisguine",
+        "Tizguine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527434
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5af39578b64ebfce7e77077379f236c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1310511777,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310511777,
+    "wof:lastmodified":1537663354,
+    "wof:name":"Tizguine",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0818,
+    30.53031,
+    -6.0818,
+    30.53031
+],
+  "geometry": {"coordinates":[-6.0818,30.53031],"type":"Point"}
+}

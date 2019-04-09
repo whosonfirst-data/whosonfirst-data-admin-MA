@@ -1,0 +1,72 @@
+{
+  "id": 1343473777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4,29.91,-9.4,29.91",
+    "geom:latitude":29.91,
+    "geom:longitude":-9.4,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Tarhist",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529783,
+    "gn:latitude":29.91,
+    "gn:longitude":-9.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tarhist",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarra\u00efsste",
+        "Tarhist"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529783
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fdd906f5e16764aba0a55576c38efd79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1343473777,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343473777,
+    "wof:lastmodified":1537663419,
+    "wof:name":"Tarhist",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4,
+    29.91,
+    -9.4,
+    29.91
+],
+  "geometry": {"coordinates":[-9.4,29.91],"type":"Point"}
+}

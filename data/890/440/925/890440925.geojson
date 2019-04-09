@@ -1,0 +1,78 @@
+{
+  "id": 890440925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.03526,33.53363,-6.03526,33.53363",
+    "geom:latitude":33.53363,
+    "geom:longitude":-6.03526,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":2213,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u0639\u0629 \u0645\u0648\u0644 \u0627\u0644\u0628\u0644\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Ichou"
+    ],
+    "name:fra_x_variant":[
+        "Ait Ichou (CR)",
+        "Ait Ichou (Commune Rurale)"
+    ],
+    "qs:name":"Ait Ichou",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545554,
+        "qs:id":628695,
+        "wd:id":"Q16740003",
+        "wk:page":"Ait Ichou"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052302,
+    "wof:geomhash":"d1bf8b75f8d67eef69b18bfa44fc20ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "localadmin_id":890440925,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":890440925,
+    "wof:lastmodified":1527727105,
+    "wof:name":"Ait Ichou",
+    "wof:parent_id":890453897,
+    "wof:placetype":"localadmin",
+    "wof:population":2213,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.03526,
+    33.53363,
+    -6.03526,
+    33.53363
+],
+  "geometry": {"coordinates":[-6.03526,33.53363],"type":"Point"}
+}

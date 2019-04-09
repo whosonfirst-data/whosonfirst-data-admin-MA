@@ -1,0 +1,61 @@
+{
+  "id": 1209620171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.22265,33.60679,-6.22265,33.60679",
+    "geom:latitude":33.60679,
+    "geom:longitude":-6.22265,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Ait Slimane",
+    "gn:country_code":"MA",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10937203,
+    "gn:latitude":33.60679,
+    "gn:longitude":-6.22265,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Slimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10937203
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"408a2a16356bd9e10e3388858da0caa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209620171
+        }
+    ],
+    "wof:id":1209620171,
+    "wof:lastmodified":1536281546,
+    "wof:name":"Douar Ait Slimane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.22265,
+    33.606790000000004,
+    -6.22265,
+    33.606790000000004
+],
+  "geometry": {"coordinates":[-6.22265,33.60679],"type":"Point"}
+}

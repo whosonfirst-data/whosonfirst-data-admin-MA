@@ -1,0 +1,73 @@
+{
+  "id": 1344172049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21298,32.57211,-9.21298,32.57211",
+    "geom:latitude":32.57211,
+    "geom:longitude":-9.21298,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dguigya",
+    "gn:country_code":"MA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552279,
+    "gn:latitude":32.57211,
+    "gn:longitude":-9.21298,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dguigya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dgaiguia",
+        "Douar Dgu\u00efgu\u00efa",
+        "Dgue\u00efguia",
+        "Dguigya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552279
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6b0ad7a786d67feb4332e0c9cf4f446e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1344172049,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1344172049,
+    "wof:lastmodified":1537663997,
+    "wof:name":"Dguigya",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21298,
+    32.57211,
+    -9.21298,
+    32.57211
+],
+  "geometry": {"coordinates":[-9.21298,32.57211],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327044981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2435,30.9713,-8.2435,30.9713",
+    "geom:latitude":30.9713,
+    "geom:longitude":-8.2435,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mzouzit",
+    "gn:country_code":"MA",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541495,
+    "gn:latitude":30.9713,
+    "gn:longitude":-8.2435,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mzouzit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mzouzite",
+        "Mzouzit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541495
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f8c11d9df882d48bd4ee70d0cc8bfd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1327044981,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327044981,
+    "wof:lastmodified":1537663639,
+    "wof:name":"Mzouzit",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2435,
+    30.9713,
+    -8.2435,
+    30.9713
+],
+  "geometry": {"coordinates":[-8.2435,30.9713],"type":"Point"}
+}

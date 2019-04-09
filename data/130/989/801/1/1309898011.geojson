@@ -1,0 +1,73 @@
+{
+  "id": 1309898011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62513,32.5828,-7.62513,32.5828",
+    "geom:latitude":32.5828,
+    "geom:longitude":-7.62513,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oulad Sidi Bou Oukfa",
+    "gn:country_code":"MA",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539231,
+    "gn:latitude":32.5828,
+    "gn:longitude":-7.62513,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Oulad Sidi Bou Oukfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Oulad Sidi Bou Ohfa",
+        "Ouled sidi boukfa",
+        "Douar Oulad Sidi bou Okfa",
+        "Oulad Sidi Bou Oukfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539231
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c7e9c1e60d4331800d57ea68b216aeca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1309898011,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1309898011,
+    "wof:lastmodified":1537663559,
+    "wof:name":"Oulad Sidi Bou Oukfa",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62513,
+    32.5828,
+    -7.62513,
+    32.5828
+],
+  "geometry": {"coordinates":[-7.62513,32.5828],"type":"Point"}
+}

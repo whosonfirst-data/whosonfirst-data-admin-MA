@@ -1,0 +1,88 @@
+{
+  "id": 1125301691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.63972,34.67,-4.63972,34.67",
+    "geom:latitude":34.67,
+    "geom:longitude":-4.63972,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":12939,
+    "gn:population":14681,
+    "iso:country":"MA",
+    "lbl:latitude":34.67,
+    "lbl:longitude":-4.63972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u062e\u0644\u0627\u0644\u0641\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Khlalfa"
+    ],
+    "name:fra_x_variant":[
+        "Khlalfa (CR)",
+        "Khlalfa (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547083,
+    "qs_pg:gn_pop":12939,
+    "qs_pg:name":"Khlalfa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":630165,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547083,
+        "qs_pg:id":630165
+    },
+    "wof:country":"MA",
+    "wof:created":1497043464,
+    "wof:geomhash":"3f4f95faabb601f8c2a3b6608cbf1228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "localadmin_id":1125301691,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125301691,
+    "wof:lastmodified":1509387724,
+    "wof:name":"Khlalfa",
+    "wof:parent_id":890418103,
+    "wof:placetype":"localadmin",
+    "wof:population":14681,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.63972,
+    34.67,
+    -4.63972,
+    34.67
+],
+  "geometry": {"coordinates":[-4.63972,34.67],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209326417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73497,35.07327,-3.73497,35.07327",
+    "geom:latitude":35.07327,
+    "geom:longitude":-3.73497,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Imeghroudene",
+    "gn:country_code":"MA",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092192,
+    "gn:latitude":35.07327,
+    "gn:longitude":-3.73497,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Imeghroudene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092192
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b24fbeface677c5b88447258ee4fcf04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209326417
+        }
+    ],
+    "wof:id":1209326417,
+    "wof:lastmodified":1536290520,
+    "wof:name":"Douar Imeghroudene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73497,
+    35.07327,
+    -3.73497,
+    35.07327
+],
+  "geometry": {"coordinates":[-3.73497,35.07327],"type":"Point"}
+}

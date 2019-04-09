@@ -1,0 +1,67 @@
+{
+  "id": 1360105135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.67083,31.56025,-7.67083,31.56025",
+    "geom:latitude":31.56025,
+    "geom:longitude":-7.67083,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Lqadi",
+    "gn:country_code":"MA",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909380,
+    "gn:latitude":31.56025,
+    "gn:longitude":-7.67083,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Lqadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909380
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a5f20aa4347f26a88b6ba890de072b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1360105135,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360105135,
+    "wof:lastmodified":1536917259,
+    "wof:name":"Ait Lqadi",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67083,
+    31.56025,
+    -7.67083,
+    31.56025
+],
+  "geometry": {"coordinates":[-7.67083,31.56025],"type":"Point"}
+}

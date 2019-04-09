@@ -1,0 +1,61 @@
+{
+  "id": 1209323851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.74908,34.8233,-5.74908,34.8233",
+    "geom:latitude":34.8233,
+    "geom:longitude":-5.74908,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Lnassida",
+    "gn:country_code":"MA",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10992730,
+    "gn:latitude":34.8233,
+    "gn:longitude":-5.74908,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lnassida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10992730
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7915357b8fee6b612aea25e9c071548d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209323851
+        }
+    ],
+    "wof:id":1209323851,
+    "wof:lastmodified":1536290598,
+    "wof:name":"Douar Lnassida",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.74908,
+    34.8233,
+    -5.74908,
+    34.8233
+],
+  "geometry": {"coordinates":[-5.74908,34.8233],"type":"Point"}
+}

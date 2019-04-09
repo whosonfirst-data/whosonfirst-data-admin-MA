@@ -1,0 +1,73 @@
+{
+  "id": 1225859871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72812,35.18736,-3.72812,35.18736",
+    "geom:latitude":35.18736,
+    "geom:longitude":-3.72812,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Iklrene",
+    "gn:country_code":"MA",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546950,
+    "gn:latitude":35.18736,
+    "gn:longitude":-3.72812,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Iklrene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ifkern",
+        "Ifk\u00eerene",
+        "Douar Ifkirene",
+        "Douar Iklrene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546950
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1ae4ba86e0a85c209bbb88f1dc026adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1225859871,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1225859871,
+    "wof:lastmodified":1537663773,
+    "wof:name":"Douar Iklrene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72812,
+    35.18736,
+    -3.72812,
+    35.18736
+],
+  "geometry": {"coordinates":[-3.72812,35.18736],"type":"Point"}
+}

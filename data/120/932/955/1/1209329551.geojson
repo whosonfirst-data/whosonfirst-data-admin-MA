@@ -1,0 +1,64 @@
+{
+  "id": 1209329551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7604,29.42732,-9.7604,29.42732",
+    "geom:latitude":29.42732,
+    "geom:longitude":-9.7604,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Tajir",
+    "gn:country_code":"MA",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547054,
+    "gn:latitude":29.42732,
+    "gn:longitude":-9.7604,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Tajir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Tajet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547054
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9fa508e15718b6d799fe79a492ac0012",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329551
+        }
+    ],
+    "wof:id":1209329551,
+    "wof:lastmodified":1537663776,
+    "wof:name":"Id Tajir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7604,
+    29.42732,
+    -9.7604,
+    29.42732
+],
+  "geometry": {"coordinates":[-9.7604,29.42732],"type":"Point"}
+}

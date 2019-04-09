@@ -1,0 +1,77 @@
+{
+  "id": 890423797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.837,34.02436,-6.837,34.02436",
+    "geom:latitude":34.02436,
+    "geom:longitude":-6.837,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":125137,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0648\u0633\u0641\u064a\u0629 (\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Hassan"
+    ],
+    "name:fra_x_variant":[
+        "Hassan (AR)",
+        "Hassan (Arrondissement)"
+    ],
+    "qs:name":"Hassan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":413,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890437999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545692,
+        "qs:id":628835,
+        "wk:page":"Hassan"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051514,
+    "wof:geomhash":"ccc4021de2b9813b3fa1bc6fbf62b64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890437999,
+            "localadmin_id":890423797,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":890423797,
+    "wof:lastmodified":1527727268,
+    "wof:name":"Hassan",
+    "wof:parent_id":890437999,
+    "wof:placetype":"localadmin",
+    "wof:population":125137,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.837,
+    34.02436,
+    -6.837,
+    34.02436
+],
+  "geometry": {"coordinates":[-6.837,34.02436],"type":"Point"}
+}

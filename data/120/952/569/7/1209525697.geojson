@@ -1,0 +1,65 @@
+{
+  "id": 1209525697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9698,35.23983,-5.9698,35.23983",
+    "geom:latitude":35.23983,
+    "geom:longitude":-5.9698,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oulad Bou Melha",
+    "gn:country_code":"MA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540022,
+    "gn:latitude":35.23983,
+    "gn:longitude":-5.9698,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Bou Melha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Boumalha",
+        "Oulad Bou Melha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540022
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1136f5bd9af53e66f4ad4ef9fce2b2ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525697
+        }
+    ],
+    "wof:id":1209525697,
+    "wof:lastmodified":1537663600,
+    "wof:name":"Oulad Bou Melha",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9698,
+    35.23983,
+    -5.9698,
+    35.23983
+],
+  "geometry": {"coordinates":[-5.9698,35.23983],"type":"Point"}
+}

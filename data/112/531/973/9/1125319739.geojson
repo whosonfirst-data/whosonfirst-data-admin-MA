@@ -1,0 +1,88 @@
+{
+  "id": 1125319739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.36349,34.79,-2.36349,34.79",
+    "geom:latitude":34.79,
+    "geom:longitude":-2.36349,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3150,
+    "gn:population":2735,
+    "iso:country":"MA",
+    "lbl:latitude":34.79,
+    "lbl:longitude":-2.36349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0628\u0648\u0647\u0631\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Tafoughalt"
+    ],
+    "name:fra_x_variant":[
+        "Tafoughalt (CR)",
+        "Tafoughalt (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545981,
+    "qs_pg:gn_pop":3150,
+    "qs_pg:name":"Tafoughalt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629124,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545981,
+        "qs_pg:id":629124
+    },
+    "wof:country":"MA",
+    "wof:created":1497044461,
+    "wof:geomhash":"286c230a89cd26fd2ee600b7b962e337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "localadmin_id":1125319739,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1125319739,
+    "wof:lastmodified":1509388092,
+    "wof:name":"Tafoughalt",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"localadmin",
+    "wof:population":2735,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.36349,
+    34.79,
+    -2.36349,
+    34.79
+],
+  "geometry": {"coordinates":[-2.36349,34.79],"type":"Point"}
+}

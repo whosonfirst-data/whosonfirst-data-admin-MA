@@ -1,0 +1,73 @@
+{
+  "id": 1226554881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.92611,32.72006,-4.92611,32.72006",
+    "geom:latitude":32.72006,
+    "geom:longitude":-4.92611,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kasba Ait Hadi",
+    "gn:country_code":"MA",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544795,
+    "gn:latitude":32.72006,
+    "gn:longitude":-4.92611,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Kasba A\u00eft Hadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Hadi",
+        "Ksar A\u00eft Haddi",
+        "Koudia A\u00eft Hadi",
+        "Kasba A\u00eft Hadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544795
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"de61aa50ceee25f2e4d31a8474b735d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1226554881,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226554881,
+    "wof:lastmodified":1537663703,
+    "wof:name":"Kasba Ait Hadi",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.92611,
+    32.72006,
+    -4.92611,
+    32.72006
+],
+  "geometry": {"coordinates":[-4.92611,32.72006],"type":"Point"}
+}

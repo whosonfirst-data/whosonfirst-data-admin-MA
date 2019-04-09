@@ -1,0 +1,65 @@
+{
+  "id": 1209124585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1439,34.22893,-5.1439,34.22893",
+    "geom:latitude":34.22893,
+    "geom:longitude":-5.1439,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oulad Taieb",
+    "gn:country_code":"MA",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539159,
+    "gn:latitude":34.22893,
+    "gn:longitude":-5.1439,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Ta\u00efeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Tayeb",
+        "Oulad Ta\u00efeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539159
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bef966936738de482ecaa8f914965b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209124585
+        }
+    ],
+    "wof:id":1209124585,
+    "wof:lastmodified":1537663555,
+    "wof:name":"Oulad Taieb",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1439,
+    34.22893,
+    -5.1439,
+    34.22893
+],
+  "geometry": {"coordinates":[-5.1439,34.22893],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890417209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.1915,32.73849,-7.1915,32.73849",
+    "geom:latitude":32.73849,
+    "geom:longitude":-7.1915,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":9747,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0634\u0627\u0648\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Sgamna"
+    ],
+    "name:fra_x_variant":[
+        "Sgamna (CR)",
+        "Sgamna (Commune Rurale)"
+    ],
+    "qs:name":"Sgamna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546712,
+        "qs:id":629810,
+        "wd:id":"Q12188727",
+        "wk:page":"Sgamna"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051188,
+    "wof:geomhash":"b5fc6c02680ee0b7e0b92854f566a823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":890417209,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890417209,
+    "wof:lastmodified":1527782125,
+    "wof:name":"Sgamna",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":9747,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.1915,
+    32.73849,
+    -7.1915,
+    32.73849
+],
+  "geometry": {"coordinates":[-7.1915,32.73849],"type":"Point"}
+}

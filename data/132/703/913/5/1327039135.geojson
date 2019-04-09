@@ -1,0 +1,67 @@
+{
+  "id": 1327039135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.20519,35.04985,-5.20519,35.04985",
+    "geom:latitude":35.04985,
+    "geom:longitude":-5.20519,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hay Bou Hideji",
+    "gn:country_code":"MA",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10953670,
+    "gn:latitude":35.04985,
+    "gn:longitude":-5.20519,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hay Bou Hideji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10953670
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"24b5bf4e3a16239c8633eff3effb937b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1327039135,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327039135,
+    "wof:lastmodified":1536750501,
+    "wof:name":"Hay Bou Hideji",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.20519,
+    35.04985,
+    -5.20519,
+    35.04985
+],
+  "geometry": {"coordinates":[-5.20519,35.04985],"type":"Point"}
+}

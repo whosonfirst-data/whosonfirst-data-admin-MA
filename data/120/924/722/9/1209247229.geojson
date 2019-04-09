@@ -1,0 +1,61 @@
+{
+  "id": 1209247229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96696,34.75456,-5.96696,34.75456",
+    "geom:latitude":34.75456,
+    "geom:longitude":-5.96696,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Lhassani",
+    "gn:country_code":"MA",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922930,
+    "gn:latitude":34.75456,
+    "gn:longitude":-5.96696,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Lhassani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922930
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"056b344b7820e28713cfcc72ead04e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209247229
+        }
+    ],
+    "wof:id":1209247229,
+    "wof:lastmodified":1536293122,
+    "wof:name":"Oulad Lhassani",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96696,
+    34.75456,
+    -5.96696,
+    34.75456
+],
+  "geometry": {"coordinates":[-5.96696,34.75456],"type":"Point"}
+}

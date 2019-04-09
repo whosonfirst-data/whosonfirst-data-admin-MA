@@ -1,0 +1,67 @@
+{
+  "id": 1343377541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.03,29.15,-10.03,29.15",
+    "geom:latitude":29.15,
+    "geom:longitude":-10.03,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sidi Borya",
+    "gn:country_code":"MA",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2536033,
+    "gn:latitude":29.15,
+    "gn:longitude":-10.03,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Borya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2536033
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"62bab29fa4d80dcd31c08940ec589eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1343377541,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343377541,
+    "wof:lastmodified":1536864512,
+    "wof:name":"Sidi Borya",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.03,
+    29.15,
+    -10.03,
+    29.15
+],
+  "geometry": {"coordinates":[-10.03,29.15],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326845343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.97681,35.0921,-4.97681,35.0921",
+    "geom:latitude":35.0921,
+    "geom:longitude":-4.97681,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mongoch",
+    "gn:country_code":"MA",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542015,
+    "gn:latitude":35.0921,
+    "gn:longitude":-4.97681,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mongoch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542015
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a7ec870e28d10a9f860ba442a35ed23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1326845343,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1326845343,
+    "wof:lastmodified":1537028563,
+    "wof:name":"Mongoch",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.97681,
+    35.0921,
+    -4.97681,
+    35.0921
+],
+  "geometry": {"coordinates":[-4.97681,35.0921],"type":"Point"}
+}

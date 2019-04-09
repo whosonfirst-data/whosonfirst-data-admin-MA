@@ -1,0 +1,67 @@
+{
+  "id": 1293288605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.94831,30.91645,-7.94831,30.91645",
+    "geom:latitude":30.91645,
+    "geom:longitude":-7.94831,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Anghouwiy",
+    "gn:country_code":"MA",
+    "gn:dem":1823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147923,
+    "gn:latitude":30.91645,
+    "gn:longitude":-7.94831,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Anghouwiy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147923
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b469d405a208cb7e3323a6e1391258cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1293288605,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293288605,
+    "wof:lastmodified":1537070681,
+    "wof:name":"Anghouwiy",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.94831,
+    30.91645,
+    -7.94831,
+    30.91645
+],
+  "geometry": {"coordinates":[-7.94831,30.91645],"type":"Point"}
+}

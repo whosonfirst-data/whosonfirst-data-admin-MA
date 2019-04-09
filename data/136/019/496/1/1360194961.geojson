@@ -1,0 +1,70 @@
+{
+  "id": 1360194961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98813,31.88362,-8.98813,31.88362",
+    "geom:latitude":31.88362,
+    "geom:longitude":-8.98813,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lakouiyef",
+    "gn:country_code":"MA",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543793,
+    "gn:latitude":31.88362,
+    "gn:longitude":-8.98813,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lakouiyef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakouif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543793
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"35fe07f23a7d65069df7160157a9e0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1360194961,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1360194961,
+    "wof:lastmodified":1537663679,
+    "wof:name":"Douar Lakouiyef",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98813,
+    31.88362,
+    -8.98813,
+    31.88362
+],
+  "geometry": {"coordinates":[-8.98813,31.88362],"type":"Point"}
+}

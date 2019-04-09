@@ -1,0 +1,73 @@
+{
+  "id": 1226253075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.61424,34.81647,-5.61424,34.81647",
+    "geom:latitude":34.81647,
+    "geom:longitude":-5.61424,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Gazrouf",
+    "gn:country_code":"MA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551687,
+    "gn:latitude":34.81647,
+    "gn:longitude":-5.61424,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Gazrouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guezrouf",
+        "Guezroui",
+        "Douar Guezrouf",
+        "Douar Gazrouf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551687
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"da6c492e755bb1b85c26dca13b5d4128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1226253075,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226253075,
+    "wof:lastmodified":1537663958,
+    "wof:name":"Douar Gazrouf",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.61424,
+    34.81647,
+    -5.61424,
+    34.81647
+],
+  "geometry": {"coordinates":[-5.61424,34.81647],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242989215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.92327,29.23265,-9.92327,29.23265",
+    "geom:latitude":29.23265,
+    "geom:longitude":-9.92327,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Imougueni",
+    "gn:country_code":"MA",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546045,
+    "gn:latitude":29.23265,
+    "gn:longitude":-9.92327,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imougueni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546045
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"79b16d5ad3a9d6e4709d61d3a5d9b232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1242989215,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242989215,
+    "wof:lastmodified":1536967476,
+    "wof:name":"Imougueni",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.92327,
+    29.23265,
+    -9.92327,
+    29.23265
+],
+  "geometry": {"coordinates":[-9.92327,29.23265],"type":"Point"}
+}

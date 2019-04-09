@@ -1,0 +1,88 @@
+{
+  "id": 1125330619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22609,29.89717,-8.22609,29.89717",
+    "geom:latitude":29.89717,
+    "geom:longitude":-8.22609,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4751,
+    "gn:population":4751,
+    "iso:country":"MA",
+    "lbl:latitude":29.89717,
+    "lbl:longitude":-8.22609,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0643\u0631\u062f\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Tagmout"
+    ],
+    "name:fra_x_variant":[
+        "Tagmout (CR)",
+        "Tagmout (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546553,
+    "qs_pg:gn_pop":4751,
+    "qs_pg:name":"Tagmout",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629654,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546553,
+        "qs_pg:id":629654
+    },
+    "wof:country":"MA",
+    "wof:created":1497045113,
+    "wof:geomhash":"bc664e6b8591339969c7b2a2af70cc15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "localadmin_id":1125330619,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1125330619,
+    "wof:lastmodified":1509388370,
+    "wof:name":"Tagmout",
+    "wof:parent_id":890453851,
+    "wof:placetype":"localadmin",
+    "wof:population":4751,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22609,
+    29.89717,
+    -8.22609,
+    29.89717
+],
+  "geometry": {"coordinates":[-8.22609,29.89717],"type":"Point"}
+}

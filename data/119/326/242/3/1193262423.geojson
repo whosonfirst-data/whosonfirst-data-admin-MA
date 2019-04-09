@@ -1,0 +1,67 @@
+{
+  "id": 1193262423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.46125,30.55597,-9.46125,30.55597",
+    "geom:latitude":30.55597,
+    "geom:longitude":-9.46125,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taourirt Ou Ballach",
+    "gn:country_code":"MA",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131735,
+    "gn:latitude":30.55597,
+    "gn:longitude":-9.46125,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Taourirt Ou Ballach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131735
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"94413ff7a90f44a52503ab45a5c6f81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1193262423,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1193262423,
+    "wof:lastmodified":1536379428,
+    "wof:name":"Taourirt Ou Ballach",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.46125,
+    30.55597,
+    -9.46125,
+    30.55597
+],
+  "geometry": {"coordinates":[-9.46125,30.55597],"type":"Point"}
+}

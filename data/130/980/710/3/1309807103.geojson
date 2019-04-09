@@ -1,0 +1,67 @@
+{
+  "id": 1309807103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5689,35.07478,-4.5689,35.07478",
+    "geom:latitude":35.07478,
+    "geom:longitude":-4.5689,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bab Noudart",
+    "gn:country_code":"MA",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10957694,
+    "gn:latitude":35.07478,
+    "gn:longitude":-4.5689,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bab Noudart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10957694
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"27be6d9c357873b2b995f9085c150b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1309807103,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1309807103,
+    "wof:lastmodified":1536929848,
+    "wof:name":"Bab Noudart",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5689,
+    35.07478,
+    -4.5689,
+    35.07478
+],
+  "geometry": {"coordinates":[-4.5689,35.07478],"type":"Point"}
+}

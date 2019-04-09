@@ -1,0 +1,67 @@
+{
+  "id": 1310610147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.21521,35.11082,-4.21521,35.11082",
+    "geom:latitude":35.11082,
+    "geom:longitude":-4.21521,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Sidi Younes",
+    "gn:country_code":"MA",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091708,
+    "gn:latitude":35.11082,
+    "gn:longitude":-4.21521,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Sidi Younes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091708
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"34ea13eb98783871f6b27741073f5aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1310610147,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310610147,
+    "wof:lastmodified":1536766292,
+    "wof:name":"Douar Sidi Younes",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.21521,
+    35.11082,
+    -4.21521,
+    35.11082
+],
+  "geometry": {"coordinates":[-4.21521,35.11082],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343780557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0192,34.59307,-5.0192,34.59307",
+    "geom:latitude":34.59307,
+    "geom:longitude":-5.0192,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tazrout",
+    "gn:country_code":"MA",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529223,
+    "gn:latitude":34.59307,
+    "gn:longitude":-5.0192,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tazrout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazeroute",
+        "Tazrout",
+        "Tazerout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529223
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3e79b85fc5de7a533c03a32e80f746e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1343780557,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343780557,
+    "wof:lastmodified":1537663403,
+    "wof:name":"Tazrout",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0192,
+    34.59307,
+    -5.0192,
+    34.59307
+],
+  "geometry": {"coordinates":[-5.0192,34.59307],"type":"Point"}
+}

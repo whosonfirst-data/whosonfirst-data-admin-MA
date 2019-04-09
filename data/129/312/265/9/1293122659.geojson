@@ -1,0 +1,72 @@
+{
+  "id": 1293122659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.1575,32.40748,-7.1575,32.40748",
+    "geom:latitude":32.40748,
+    "geom:longitude":-7.1575,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar ba Hamada",
+    "gn:country_code":"MA",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552074,
+    "gn:latitude":32.40748,
+    "gn:longitude":-7.1575,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar ba Hamada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Bahamada",
+        "Douar Ba Hammada",
+        "Douar ba Hamada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552074
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6844aed6d7c53fbde3e8a7ea7ade1efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1293122659,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293122659,
+    "wof:lastmodified":1537663987,
+    "wof:name":"Douar ba Hamada",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.1575,
+    32.40748,
+    -7.1575,
+    32.40748
+],
+  "geometry": {"coordinates":[-7.1575,32.40748],"type":"Point"}
+}

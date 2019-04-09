@@ -1,0 +1,67 @@
+{
+  "id": 1310116129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.04752,31.2676,-6.04752,31.2676",
+    "geom:latitude":31.2676,
+    "geom:longitude":-6.04752,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Carghine",
+    "gn:country_code":"MA",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553605,
+    "gn:latitude":31.2676,
+    "gn:longitude":-6.04752,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Carghine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553605
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b3144f2c241a8918e110e882544843b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1310116129,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310116129,
+    "wof:lastmodified":1536980391,
+    "wof:name":"Carghine",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.04752,
+    31.2676,
+    -6.04752,
+    31.2676
+],
+  "geometry": {"coordinates":[-6.04752,31.2676],"type":"Point"}
+}

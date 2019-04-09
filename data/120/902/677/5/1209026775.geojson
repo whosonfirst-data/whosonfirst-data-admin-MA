@@ -1,0 +1,61 @@
+{
+  "id": 1209026775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91051,32.12002,-8.91051,32.12002",
+    "geom:latitude":32.12002,
+    "geom:longitude":-8.91051,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lalla Rahma",
+    "gn:country_code":"MA",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636956,
+    "gn:latitude":32.12002,
+    "gn:longitude":-8.91051,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lalla Rahma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636956
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9424bb48f2542940a80b28b2b134061b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209026775
+        }
+    ],
+    "wof:id":1209026775,
+    "wof:lastmodified":1536299971,
+    "wof:name":"Douar Lalla Rahma",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91051,
+    32.120020000000004,
+    -8.91051,
+    32.120020000000004
+],
+  "geometry": {"coordinates":[-8.91051,32.12002],"type":"Point"}
+}

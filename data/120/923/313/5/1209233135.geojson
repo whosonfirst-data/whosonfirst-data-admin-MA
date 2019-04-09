@@ -1,0 +1,65 @@
+{
+  "id": 1209233135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4648,29.40296,-9.4648,29.40296",
+    "geom:latitude":29.40296,
+    "geom:longitude":-9.4648,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Isgiouar",
+    "gn:country_code":"MA",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545542,
+    "gn:latitude":29.40296,
+    "gn:longitude":-9.4648,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Isgiouar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Issguiouar",
+        "Isgiouar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545542
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e8193f335e4ac19802de1280b02939f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209233135
+        }
+    ],
+    "wof:id":1209233135,
+    "wof:lastmodified":1537663724,
+    "wof:name":"Isgiouar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4648,
+    29.40296,
+    -9.4648,
+    29.40296
+],
+  "geometry": {"coordinates":[-9.4648,29.40296],"type":"Point"}
+}

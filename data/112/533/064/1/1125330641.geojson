@@ -1,0 +1,88 @@
+{
+  "id": 1125330641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92565,30.93223,-6.92565,30.93223",
+    "geom:latitude":30.93223,
+    "geom:longitude":-6.92565,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":53489,
+    "gn:population":53489,
+    "iso:country":"MA",
+    "lbl:latitude":30.93223,
+    "lbl:longitude":-6.92565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0645\u0643\u0648\u0646\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Ouarzazate"
+    ],
+    "name:fra_x_variant":[
+        "Ouarzazate (MU)",
+        "Ouarzazate (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546557,
+    "qs_pg:gn_pop":53489,
+    "qs_pg:name":"Ouarzazate",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":629658,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546557,
+        "qs_pg:id":629658
+    },
+    "wof:country":"MA",
+    "wof:created":1497045114,
+    "wof:geomhash":"5f177fd66977fa1596defde119b48f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "localadmin_id":1125330641,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125330641,
+    "wof:lastmodified":1509388371,
+    "wof:name":"Ouarzazate",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"localadmin",
+    "wof:population":53489,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92565,
+    30.93223,
+    -6.92565,
+    30.93223
+],
+  "geometry": {"coordinates":[-6.92565,30.93223],"type":"Point"}
+}

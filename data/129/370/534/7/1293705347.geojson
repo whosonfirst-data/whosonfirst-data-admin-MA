@@ -1,0 +1,73 @@
+{
+  "id": 1293705347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91133,31.91098,-8.91133,31.91098",
+    "geom:latitude":31.91098,
+    "geom:longitude":-8.91133,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Bouchayb",
+    "gn:country_code":"MA",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540054,
+    "gn:latitude":31.91098,
+    "gn:longitude":-8.91133,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Bouchayb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Ben Cha\u00efb",
+        "Ouled Bou Cha\u00efb",
+        "Oulad Bou Cha\u00efb",
+        "Oulad Bouchayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540054
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0c75624d66923aee8ae16fd6f745b0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1293705347,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293705347,
+    "wof:lastmodified":1537663603,
+    "wof:name":"Oulad Bouchayb",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91133,
+    31.91098,
+    -8.91133,
+    31.91098
+],
+  "geometry": {"coordinates":[-8.91133,31.91098],"type":"Point"}
+}

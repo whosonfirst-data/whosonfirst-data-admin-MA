@@ -1,0 +1,70 @@
+{
+  "id": 1260295223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.56449,30.99222,-6.56449,30.99222",
+    "geom:latitude":30.99222,
+    "geom:longitude":-6.56449,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imalloul",
+    "gn:country_code":"MA",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546287,
+    "gn:latitude":30.99222,
+    "gn:longitude":-6.56449,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imalloul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imelloul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546287
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c5af9d38f4d7e43972e3e5ea8394702d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1260295223,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260295223,
+    "wof:lastmodified":1537663750,
+    "wof:name":"Imalloul",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.56449,
+    30.99222,
+    -6.56449,
+    30.99222
+],
+  "geometry": {"coordinates":[-6.56449,30.99222],"type":"Point"}
+}

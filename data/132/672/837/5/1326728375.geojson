@@ -1,0 +1,67 @@
+{
+  "id": 1326728375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.47285,31.89914,-6.47285,31.89914",
+    "geom:latitude":31.89914,
+    "geom:longitude":-6.47285,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ighalane",
+    "gn:country_code":"MA",
+    "gn:dem":1834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359216,
+    "gn:latitude":31.89914,
+    "gn:longitude":-6.47285,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ighalane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359216
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ec1de13ce1a078034e52582a879a217f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1326728375,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1326728375,
+    "wof:lastmodified":1536701616,
+    "wof:name":"Ighalane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.47285,
+    31.89914000000001,
+    -6.47285,
+    31.89914000000001
+],
+  "geometry": {"coordinates":[-6.47285,31.89914000000001],"type":"Point"}
+}

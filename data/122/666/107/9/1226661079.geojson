@@ -1,0 +1,71 @@
+{
+  "id": 1226661079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55071,31.15726,-7.55071,31.15726",
+    "geom:latitude":31.15726,
+    "geom:longitude":-7.55071,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Igadain",
+    "gn:country_code":"MA",
+    "gn:dem":2026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546865,
+    "gn:latitude":31.15726,
+    "gn:longitude":-7.55071,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Igada\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igada\u00efn tamstinte",
+        "Igada\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546865
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c4851e8a1eed9d31f5ebcb24712c94f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1226661079,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226661079,
+    "wof:lastmodified":1537663770,
+    "wof:name":"Igadain",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55071,
+    31.15726,
+    -7.55071,
+    31.15726
+],
+  "geometry": {"coordinates":[-7.55071,31.15726],"type":"Point"}
+}

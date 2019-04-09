@@ -1,0 +1,67 @@
+{
+  "id": 1344066089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.08684,35.02569,-5.08684,35.02569",
+    "geom:latitude":35.02569,
+    "geom:longitude":-5.08684,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Tast",
+    "gn:country_code":"MA",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10954074,
+    "gn:latitude":35.02569,
+    "gn:longitude":-5.08684,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tast",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10954074
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6581d28f15bb7a7fc3e047ed501d0a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1344066089,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1344066089,
+    "wof:lastmodified":1536866050,
+    "wof:name":"Douar Tast",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.08684,
+    35.02569,
+    -5.08684,
+    35.02569
+],
+  "geometry": {"coordinates":[-5.08684,35.02569],"type":"Point"}
+}

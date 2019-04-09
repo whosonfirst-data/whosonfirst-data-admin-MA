@@ -1,0 +1,71 @@
+{
+  "id": 1226360929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2921,30.29421,-8.2921,30.29421",
+    "geom:latitude":30.29421,
+    "geom:longitude":-8.2921,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aguerdane",
+    "gn:country_code":"MA",
+    "gn:dem":1351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561240,
+    "gn:latitude":30.29421,
+    "gn:longitude":-8.2921,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aguerdane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agardane",
+        "Aguerdane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561240
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4adb7acb3a9016ab54b8e6a4342e9121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1226360929,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226360929,
+    "wof:lastmodified":1537664232,
+    "wof:name":"Aguerdane",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2921,
+    30.29421,
+    -8.2921,
+    30.29421
+],
+  "geometry": {"coordinates":[-8.2921,30.29421],"type":"Point"}
+}

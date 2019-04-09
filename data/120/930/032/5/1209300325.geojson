@@ -1,0 +1,61 @@
+{
+  "id": 1209300325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.40521,31.35104,-9.40521,31.35104",
+    "geom:latitude":31.35104,
+    "geom:longitude":-9.40521,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Ouddir",
+    "gn:country_code":"MA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10924257,
+    "gn:latitude":31.35104,
+    "gn:longitude":-9.40521,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ouddir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10924257
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"554e3d3ed290a4f4398d1301e05138ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209300325
+        }
+    ],
+    "wof:id":1209300325,
+    "wof:lastmodified":1536291381,
+    "wof:name":"Ait Ouddir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.40521,
+    31.35104,
+    -9.40521,
+    31.35104
+],
+  "geometry": {"coordinates":[-9.40521,31.35104],"type":"Point"}
+}

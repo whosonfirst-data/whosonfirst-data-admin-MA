@@ -1,0 +1,67 @@
+{
+  "id": 1243057087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64348,30.04101,-8.64348,30.04101",
+    "geom:latitude":30.04101,
+    "geom:longitude":-8.64348,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tizi-n-Wadday",
+    "gn:country_code":"MA",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11142913,
+    "gn:latitude":30.04101,
+    "gn:longitude":-8.64348,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tizi-n-Wadday",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11142913
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"011e6a68a9005f4fb46f639a7e700775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1243057087,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243057087,
+    "wof:lastmodified":1536868699,
+    "wof:name":"Tizi-n-Wadday",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64348,
+    30.04101,
+    -8.64348,
+    30.04101
+],
+  "geometry": {"coordinates":[-8.64348,30.04101],"type":"Point"}
+}

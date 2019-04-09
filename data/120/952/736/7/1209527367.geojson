@@ -1,0 +1,61 @@
+{
+  "id": 1209527367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.49274,34.64857,-2.49274,34.64857",
+    "geom:latitude":34.64857,
+    "geom:longitude":-2.49274,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Rhamma Ajgou",
+    "gn:country_code":"MA",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11066870,
+    "gn:latitude":34.64857,
+    "gn:longitude":-2.49274,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Rhamma Ajgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11066870
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a5c4447bc4e8f6e32bed95fdd4c12a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209527367
+        }
+    ],
+    "wof:id":1209527367,
+    "wof:lastmodified":1536284392,
+    "wof:name":"Douar Rhamma Ajgou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.49274,
+    34.64857,
+    -2.49274,
+    34.64857
+],
+  "geometry": {"coordinates":[-2.49274,34.64857],"type":"Point"}
+}

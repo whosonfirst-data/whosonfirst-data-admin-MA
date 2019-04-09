@@ -1,0 +1,67 @@
+{
+  "id": 1243052737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.21217,31.31309,-7.21217,31.31309",
+    "geom:latitude":31.31309,
+    "geom:longitude":-7.21217,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Talayazgal",
+    "gn:country_code":"MA",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950960,
+    "gn:latitude":31.31309,
+    "gn:longitude":-7.21217,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Talayazgal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950960
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1cf79bf390f721199e8fdaeeb919b3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1243052737,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243052737,
+    "wof:lastmodified":1536875201,
+    "wof:name":"Talayazgal",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.21217,
+    31.31309000000001,
+    -7.21217,
+    31.31309000000001
+],
+  "geometry": {"coordinates":[-7.21217,31.31309000000001],"type":"Point"}
+}

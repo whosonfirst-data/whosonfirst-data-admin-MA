@@ -1,0 +1,67 @@
+{
+  "id": 1292902189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.97601,32.0371,-6.97601,32.0371",
+    "geom:latitude":32.0371,
+    "geom:longitude":-6.97601,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Ouja'ida",
+    "gn:country_code":"MA",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435221,
+    "gn:latitude":32.0371,
+    "gn:longitude":-6.97601,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"A\u00eft Ouja\u2019ida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435221
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ffe57511455bf79c544ddbab9167696c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1292902189,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1292902189,
+    "wof:lastmodified":1536635499,
+    "wof:name":"Ait Ouja'ida",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.97601,
+    32.0371,
+    -6.97601,
+    32.0371
+],
+  "geometry": {"coordinates":[-6.97601,32.0371],"type":"Point"}
+}

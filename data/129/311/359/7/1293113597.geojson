@@ -1,0 +1,72 @@
+{
+  "id": 1293113597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.15325,34.39116,-6.15325,34.39116",
+    "geom:latitude":34.39116,
+    "geom:longitude":-6.15325,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ncha",
+    "gn:country_code":"MA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541412,
+    "gn:latitude":34.39116,
+    "gn:longitude":-6.15325,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ncha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houcha",
+        "Douar Ncha",
+        "Ncha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541412
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6f67054801e472f472bb82217fd13d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1293113597,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1293113597,
+    "wof:lastmodified":1537663638,
+    "wof:name":"Ncha",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.15325,
+    34.39116,
+    -6.15325,
+    34.39116
+],
+  "geometry": {"coordinates":[-6.15325,34.39116],"type":"Point"}
+}

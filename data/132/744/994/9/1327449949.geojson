@@ -1,0 +1,70 @@
+{
+  "id": 1327449949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.79927,34.25213,-5.79927,34.25213",
+    "geom:latitude":34.25213,
+    "geom:longitude":-5.79927,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sidi Bou Maiz",
+    "gn:country_code":"MA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2535597,
+    "gn:latitude":34.25213,
+    "gn:longitude":-5.79927,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Bou Maiz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Bou Ma\u00efz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2535597
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"12441b0a9bfcabe4896f908ecd457ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1327449949,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1327449949,
+    "wof:lastmodified":1537663513,
+    "wof:name":"Sidi Bou Maiz",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.79927,
+    34.25213,
+    -5.79927,
+    34.25213
+],
+  "geometry": {"coordinates":[-5.79927,34.25213],"type":"Point"}
+}

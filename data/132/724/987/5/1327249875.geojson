@@ -1,0 +1,72 @@
+{
+  "id": 1327249875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.90583,34.45882,-3.90583,34.45882",
+    "geom:latitude":34.45882,
+    "geom:longitude":-3.90583,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Olad Hammou Ben Amar",
+    "gn:country_code":"MA",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551416,
+    "gn:latitude":34.45882,
+    "gn:longitude":-3.90583,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Olad Hammou Ben Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Hammou Ben Amar",
+        "Douar Oulad Hammou Ben Amar",
+        "Douar Olad Hammou Ben Amar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551416
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"25fe7a3b4fc685377ccf3e06957cf2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1327249875,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1327249875,
+    "wof:lastmodified":1537663936,
+    "wof:name":"Douar Olad Hammou Ben Amar",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.90583,
+    34.45882,
+    -3.90583,
+    34.45882
+],
+  "geometry": {"coordinates":[-3.90583,34.45882],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310223565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78598,31.85742,-8.78598,31.85742",
+    "geom:latitude":31.85742,
+    "geom:longitude":-8.78598,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Mbarek",
+    "gn:country_code":"MA",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539574,
+    "gn:latitude":31.85742,
+    "gn:longitude":-8.78598,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Mbarek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Mbarek",
+        "Ouled m\u2019Bark",
+        "Oulad Mbarek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539574
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"84b21c6368bbf5d8c84322bba15ae120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1310223565,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310223565,
+    "wof:lastmodified":1537663577,
+    "wof:name":"Oulad Mbarek",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78598,
+    31.85742,
+    -8.78598,
+    31.85742
+],
+  "geometry": {"coordinates":[-8.78598,31.85742],"type":"Point"}
+}

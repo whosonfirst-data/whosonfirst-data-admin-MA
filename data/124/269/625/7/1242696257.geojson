@@ -1,0 +1,77 @@
+{
+  "id": 1242696257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.89983,28.27528,-10.89983,28.27528",
+    "geom:latitude":28.27528,
+    "geom:longitude":-10.89983,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tilemsoun",
+    "gn:country_code":"MA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528301,
+    "gn:latitude":28.27528,
+    "gn:longitude":-10.89983,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tilemsoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tilemson",
+        "Tilemsen",
+        "Tilimenzon",
+        "Tilamzoune",
+        "Tilouzoune",
+        "Tilemsoon",
+        "Tiloumzoune",
+        "Tilemsoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890418107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528301
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1285c0c7de3db12c7f0f2ac71369ea99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418107,
+            "locality_id":1242696257,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1242696257,
+    "wof:lastmodified":1537663381,
+    "wof:name":"Tilemsoun",
+    "wof:parent_id":890418107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.89983,
+    28.27528,
+    -10.89983,
+    28.27528
+],
+  "geometry": {"coordinates":[-10.89983,28.27528],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209234741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.25962,32.25241,-7.25962,32.25241",
+    "geom:latitude":32.25241,
+    "geom:longitude":-7.25962,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lazroug",
+    "gn:country_code":"MA",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10935299,
+    "gn:latitude":32.25241,
+    "gn:longitude":-7.25962,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lazroug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10935299
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"29c7f00e8450d0e9ee9003a66334d398",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209234741
+        }
+    ],
+    "wof:id":1209234741,
+    "wof:lastmodified":1536293522,
+    "wof:name":"Lazroug",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.25962,
+    32.25241,
+    -7.25962,
+    32.25241
+],
+  "geometry": {"coordinates":[-7.25962,32.25241],"type":"Point"}
+}

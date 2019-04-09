@@ -1,0 +1,65 @@
+{
+  "id": 1209530609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.54499,31.81381,-9.54499,31.81381",
+    "geom:latitude":31.81381,
+    "geom:longitude":-9.54499,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Ouadoud",
+    "gn:country_code":"MA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2563316,
+    "gn:latitude":31.81381,
+    "gn:longitude":-9.54499,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Ouadoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Wadoud",
+        "El Ouadoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2563316
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8bb9de3601dc9a19a47440859e1f8632",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209530609
+        }
+    ],
+    "wof:id":1209530609,
+    "wof:lastmodified":1537664257,
+    "wof:name":"El Ouadoud",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.54499,
+    31.81381,
+    -9.54499,
+    31.81381
+],
+  "geometry": {"coordinates":[-9.54499,31.81381],"type":"Point"}
+}

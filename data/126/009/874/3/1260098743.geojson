@@ -1,0 +1,71 @@
+{
+  "id": 1260098743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18,33.85,-5.18,33.85",
+    "geom:latitude":33.85,
+    "geom:longitude":-5.18,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait Iguir",
+    "gn:country_code":"MA",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559802,
+    "gn:latitude":33.85,
+    "gn:longitude":-5.18,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Iguir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Guir",
+        "A\u00eft Iguir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559802
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7db4fe5574aae6eb2357b4c6b8bc2e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1260098743,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1260098743,
+    "wof:lastmodified":1537664181,
+    "wof:name":"Ait Iguir",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18,
+    33.85,
+    -5.18,
+    33.85
+],
+  "geometry": {"coordinates":[-5.18,33.85],"type":"Point"}
+}

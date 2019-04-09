@@ -1,0 +1,67 @@
+{
+  "id": 1309818675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.3,30.61,-5.3,30.61",
+    "geom:latitude":30.61,
+    "geom:longitude":-5.3,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tirhermt n'Ourhoulid",
+    "gn:country_code":"MA",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527603,
+    "gn:latitude":30.61,
+    "gn:longitude":-5.3,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tirhermt n\u2019Ourhoulid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527603
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"665be2404a84db2d5a921f3ef5b38682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1309818675,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309818675,
+    "wof:lastmodified":1536912837,
+    "wof:name":"Tirhermt n'Ourhoulid",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3,
+    30.61,
+    -5.3,
+    30.61
+],
+  "geometry": {"coordinates":[-5.3,30.61],"type":"Point"}
+}

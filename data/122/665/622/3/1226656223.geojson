@@ -1,0 +1,71 @@
+{
+  "id": 1226656223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2058,32.63656,-5.2058,32.63656",
+    "geom:latitude":32.63656,
+    "geom:longitude":-5.2058,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Douar Tam'azzert",
+    "gn:country_code":"MA",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530792,
+    "gn:latitude":32.63656,
+    "gn:longitude":-5.2058,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Douar Tam\u2019azzert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Tam\u2019azzert",
+        "Tamazert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530792
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fe24ce90a2f1f99a85affbbbe5e5c3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1226656223,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226656223,
+    "wof:lastmodified":1537663447,
+    "wof:name":"Douar Tam'azzert",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2058,
+    32.63656,
+    -5.2058,
+    32.63656
+],
+  "geometry": {"coordinates":[-5.2058,32.63656],"type":"Point"}
+}

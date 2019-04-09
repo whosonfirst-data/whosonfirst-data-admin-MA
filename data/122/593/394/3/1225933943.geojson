@@ -1,0 +1,70 @@
+{
+  "id": 1225933943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.45372,31.95597,-4.45372,31.95597",
+    "geom:latitude":31.95597,
+    "geom:longitude":-4.45372,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taghzout",
+    "gn:country_code":"MA",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529717,
+    "gn:latitude":31.95597,
+    "gn:longitude":-4.45372,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Taghzout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarhzout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529717
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ce7811f9b84910dd45518bf6c2e2427a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1225933943,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1225933943,
+    "wof:lastmodified":1537663417,
+    "wof:name":"Taghzout",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.45372,
+    31.95597,
+    -4.45372,
+    31.95597
+],
+  "geometry": {"coordinates":[-4.45372,31.95597],"type":"Point"}
+}

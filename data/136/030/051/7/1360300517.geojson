@@ -1,0 +1,72 @@
+{
+  "id": 1360300517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.88518,31.68143,-5.88518,31.68143",
+    "geom:latitude":31.68143,
+    "geom:longitude":-5.88518,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Bou Ouknifene",
+    "gn:country_code":"MA",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560265,
+    "gn:latitude":31.68143,
+    "gn:longitude":-5.88518,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Bou Ouknif\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Bou Iknifene",
+        "A\u00eft Bouknifen",
+        "A\u00eft Bou Ouknif\u00e8ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560265
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b61021f7a1918e02ce7f3ff3b233c445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1360300517,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360300517,
+    "wof:lastmodified":1537664198,
+    "wof:name":"Ait Bou Ouknifene",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.88518,
+    31.68143,
+    -5.88518,
+    31.68143
+],
+  "geometry": {"coordinates":[-5.88518,31.68143],"type":"Point"}
+}

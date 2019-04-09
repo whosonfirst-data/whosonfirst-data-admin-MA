@@ -1,0 +1,67 @@
+{
+  "id": 1343254083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.00965,33.31536,-7.00965,33.31536",
+    "geom:latitude":33.31536,
+    "geom:longitude":-7.00965,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar Cheich Sadie",
+    "gn:country_code":"MA",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939222,
+    "gn:latitude":33.31536,
+    "gn:longitude":-7.00965,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Cheich Sadie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939222
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4ff14e7bb677fe771bb3f0cfe5866d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1343254083,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1343254083,
+    "wof:lastmodified":1537042372,
+    "wof:name":"Dar Cheich Sadie",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.00965,
+    33.31536,
+    -7.00965,
+    33.31536
+],
+  "geometry": {"coordinates":[-7.00965,33.31536],"type":"Point"}
+}

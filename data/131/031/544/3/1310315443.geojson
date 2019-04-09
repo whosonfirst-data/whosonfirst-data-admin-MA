@@ -1,0 +1,74 @@
+{
+  "id": 1310315443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58849,32.18768,-8.58849,32.18768",
+    "geom:latitude":32.18768,
+    "geom:longitude":-8.58849,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lefouarae",
+    "gn:country_code":"MA",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550455,
+    "gn:latitude":32.18768,
+    "gn:longitude":-8.58849,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lefouarae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Far\u00e2a",
+        "Douar el Fouara",
+        "Douar el Fouaraa",
+        "El Fouaraa",
+        "Douar Lefouarae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550455
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9fe77a0e44b1aa7ce2094a24eae3e205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1310315443,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310315443,
+    "wof:lastmodified":1537663882,
+    "wof:name":"Douar Lefouarae",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58849,
+    32.18768,
+    -8.58849,
+    32.18768
+],
+  "geometry": {"coordinates":[-8.58849,32.18768],"type":"Point"}
+}

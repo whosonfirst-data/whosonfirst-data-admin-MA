@@ -1,0 +1,71 @@
+{
+  "id": 1343976495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38,29.2,-9.38,29.2",
+    "geom:latitude":29.2,
+    "geom:longitude":-9.38,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Timoulay n'Ouamalougt",
+    "gn:country_code":"MA",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528016,
+    "gn:latitude":29.2,
+    "gn:longitude":-9.38,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Timoulay n\u2019Ouamalougt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timoulay Lalla Mellouka",
+        "Timoulay n\u2019Ouamalougt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528016
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d583bba2dd178740d7dd101098a11f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1343976495,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1343976495,
+    "wof:lastmodified":1537663372,
+    "wof:name":"Timoulay n'Ouamalougt",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38,
+    29.2,
+    -9.38,
+    29.2
+],
+  "geometry": {"coordinates":[-9.38,29.2],"type":"Point"}
+}

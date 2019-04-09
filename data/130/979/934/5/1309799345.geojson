@@ -1,0 +1,67 @@
+{
+  "id": 1309799345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42385,31.43142,-7.42385,31.43142",
+    "geom:latitude":31.43142,
+    "geom:longitude":-7.42385,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Iwguiyn",
+    "gn:country_code":"MA",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353981,
+    "gn:latitude":31.43142,
+    "gn:longitude":-7.42385,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Iwguiyn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353981
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4aea67be25a5d9690d25f92eeaa127c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1309799345,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309799345,
+    "wof:lastmodified":1536941024,
+    "wof:name":"Iwguiyn",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42385,
+    31.43142000000001,
+    -7.42385,
+    31.43142000000001
+],
+  "geometry": {"coordinates":[-7.42385,31.43142000000001],"type":"Point"}
+}

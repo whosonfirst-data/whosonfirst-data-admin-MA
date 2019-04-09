@@ -1,0 +1,71 @@
+{
+  "id": 1226052949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.01,29.6,-10.01,29.6",
+    "geom:latitude":29.6,
+    "geom:longitude":-10.01,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Chahadene",
+    "gn:country_code":"MA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547262,
+    "gn:latitude":29.6,
+    "gn:longitude":-10.01,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Chahadene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Chahaden",
+        "Id Chahadene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547262
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0bcb55f2b113087173f388f3a8526634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1226052949,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226052949,
+    "wof:lastmodified":1537663785,
+    "wof:name":"Id Chahadene",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.01,
+    29.6,
+    -10.01,
+    29.6
+],
+  "geometry": {"coordinates":[-10.01,29.6],"type":"Point"}
+}

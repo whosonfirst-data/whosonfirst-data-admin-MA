@@ -1,0 +1,67 @@
+{
+  "id": 1276968595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45561,30.07435,-8.45561,30.07435",
+    "geom:latitude":30.07435,
+    "geom:longitude":-8.45561,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Talilit",
+    "gn:country_code":"MA",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11143621,
+    "gn:latitude":30.07435,
+    "gn:longitude":-8.45561,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Talilit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11143621
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"42aaa16b7f52037de354916999298516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1276968595,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276968595,
+    "wof:lastmodified":1536923100,
+    "wof:name":"Talilit",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45561,
+    30.07435,
+    -8.45561,
+    30.07435
+],
+  "geometry": {"coordinates":[-8.45561,30.07435],"type":"Point"}
+}

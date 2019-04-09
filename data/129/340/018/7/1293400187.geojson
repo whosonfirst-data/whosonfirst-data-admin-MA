@@ -1,0 +1,70 @@
+{
+  "id": 1293400187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.19357,34.21608,-5.19357,34.21608",
+    "geom:latitude":34.21608,
+    "geom:longitude":-5.19357,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Lemmalda",
+    "gn:country_code":"MA",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551754,
+    "gn:latitude":34.21608,
+    "gn:longitude":-5.19357,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lemmalda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Meralda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551754
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9af898108e638891cdb504796f469049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1293400187,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293400187,
+    "wof:lastmodified":1537663963,
+    "wof:name":"Douar Lemmalda",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.19357,
+    34.21608,
+    -5.19357,
+    34.21608
+],
+  "geometry": {"coordinates":[-5.19357,34.21608],"type":"Point"}
+}

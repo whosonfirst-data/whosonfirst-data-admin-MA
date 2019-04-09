@@ -1,0 +1,72 @@
+{
+  "id": 1243190847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.92406,35.47282,-5.92406,35.47282",
+    "geom:latitude":35.47282,
+    "geom:longitude":-5.92406,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mers Laqouar",
+    "gn:country_code":"MA",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542470,
+    "gn:latitude":35.47282,
+    "gn:longitude":-5.92406,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mers Laqouar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mers el Koar",
+        "Mers el Kouar",
+        "Mers Laqouar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542470
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b5c4717b6c2ac83a15f0152626bf7419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1243190847,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243190847,
+    "wof:lastmodified":1537663655,
+    "wof:name":"Mers Laqouar",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.92406,
+    35.47282,
+    -5.92406,
+    35.47282
+],
+  "geometry": {"coordinates":[-5.92406,35.47282],"type":"Point"}
+}

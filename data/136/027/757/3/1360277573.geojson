@@ -1,0 +1,67 @@
+{
+  "id": 1360277573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16021,32.56077,-8.16021,32.56077",
+    "geom:latitude":32.56077,
+    "geom:longitude":-8.16021,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lalla Meqls",
+    "gn:country_code":"MA",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795412,
+    "gn:latitude":32.56077,
+    "gn:longitude":-8.16021,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lalla Meqls",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795412
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0cc702d82789992483552a1e5a074a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1360277573,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1360277573,
+    "wof:lastmodified":1536668016,
+    "wof:name":"Lalla Meqls",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16021,
+    32.56077,
+    -8.16021,
+    32.56077
+],
+  "geometry": {"coordinates":[-8.16021,32.56077],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421200921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.91155,34.689441,-1.91155,34.689441",
+    "geom:latitude":34.689441,
+    "geom:longitude":-1.91155,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0648\u062c\u062f\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0627\u0644\u062c\u0647\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photos":245,
+    "qs:photos_1k":50,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":245,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":900171,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1538412,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890453895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1538412,
+        "qs:id":900171
+    },
+    "wof:country":"MA",
+    "wof:created":1459010046,
+    "wof:geomhash":"b825122b599d342c64c7c9a5b4af1de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453895,
+            "locality_id":421200921,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":421200921,
+    "wof:lastmodified":1499519236,
+    "wof:name":"\u0648\u062c\u062f\u0629",
+    "wof:parent_id":890453895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.91155,
+    34.689441,
+    -1.91155,
+    34.689441
+],
+  "geometry": {"coordinates":[-1.91155,34.689441],"type":"Point"}
+}

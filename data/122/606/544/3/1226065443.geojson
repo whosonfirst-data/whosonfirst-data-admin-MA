@@ -1,0 +1,75 @@
+{
+  "id": 1226065443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.66761,31.27479,-7.66761,31.27479",
+    "geom:latitude":31.27479,
+    "geom:longitude":-7.66761,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Anammr",
+    "gn:country_code":"MA",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557868,
+    "gn:latitude":31.27479,
+    "gn:longitude":-7.66761,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Anammr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anamer",
+        "Anammer",
+        "Anammr",
+        "Annameur",
+        "Anameur",
+        "Anamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557868
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3e0d72665193f94d58a1a42c8cde4905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1226065443,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226065443,
+    "wof:lastmodified":1537664121,
+    "wof:name":"Anammr",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.66761,
+    31.27479000000001,
+    -7.66761,
+    31.27479000000001
+],
+  "geometry": {"coordinates":[-7.66761,31.27479000000001],"type":"Point"}
+}

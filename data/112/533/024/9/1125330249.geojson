@@ -1,0 +1,88 @@
+{
+  "id": 1125330249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.92548,31.03999,-8.92548,31.03999",
+    "geom:latitude":31.03999,
+    "geom:longitude":-8.92548,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7961,
+    "gn:population":7961,
+    "iso:country":"MA",
+    "lbl:latitude":31.03999,
+    "lbl:longitude":-8.92548,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0627\u0645\u062d\u0645\u062f \u062f\u0644\u064a\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Afalla Issen"
+    ],
+    "name:fra_x_variant":[
+        "Afalla Issen (CR)",
+        "Afalla Issen (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546097,
+    "qs_pg:gn_pop":7961,
+    "qs_pg:name":"Afalla Issen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629239,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546097,
+        "qs_pg:id":629239
+    },
+    "wof:country":"MA",
+    "wof:created":1497045092,
+    "wof:geomhash":"e87d3536ca87bd79dcdf035bdfb7b627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "localadmin_id":1125330249,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125330249,
+    "wof:lastmodified":1509388356,
+    "wof:name":"Afalla Issen",
+    "wof:parent_id":890440847,
+    "wof:placetype":"localadmin",
+    "wof:population":7961,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.92548,
+    31.03999,
+    -8.92548,
+    31.03999
+],
+  "geometry": {"coordinates":[-8.92548,31.03999],"type":"Point"}
+}

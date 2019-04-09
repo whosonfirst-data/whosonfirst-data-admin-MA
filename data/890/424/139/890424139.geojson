@@ -1,0 +1,78 @@
+{
+  "id": 890424139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.27099,34.9257,-4.27099,34.9257",
+    "geom:latitude":34.9257,
+    "geom:longitude":-4.27099,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":10242,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0628\u0648\u062a\u0645\u064a\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Boutmim"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Boutmim (CR)",
+        "Sidi Boutmim (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Boutmim",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547078,
+        "qs:id":630160,
+        "wd:id":"Q7508696",
+        "wk:page":"Sidi Boutmim"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051531,
+    "wof:geomhash":"15d1f10d959fd6b0971215a37bb72f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "localadmin_id":890424139,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890424139,
+    "wof:lastmodified":1527727266,
+    "wof:name":"Sidi Boutmim",
+    "wof:parent_id":890429097,
+    "wof:placetype":"localadmin",
+    "wof:population":10242,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.27099,
+    34.9257,
+    -4.27099,
+    34.9257
+],
+  "geometry": {"coordinates":[-4.27099,34.9257],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259601611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.36019,32.24412,-4.36019,32.24412",
+    "geom:latitude":32.24412,
+    "geom:longitude":-4.36019,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ayt 'Attou",
+    "gn:country_code":"MA",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559862,
+    "gn:latitude":32.24412,
+    "gn:longitude":-4.36019,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Ayt \u2019Attou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Attou",
+        "A\u00eft Atton",
+        "A\u00eft Hattou",
+        "Ayt \u2019Attou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559862
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1244b0722e5db96f347553714df1db85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1259601611,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259601611,
+    "wof:lastmodified":1537664183,
+    "wof:name":"Ayt 'Attou",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.36019,
+    32.24412,
+    -4.36019,
+    32.24412
+],
+  "geometry": {"coordinates":[-4.36019,32.24412],"type":"Point"}
+}

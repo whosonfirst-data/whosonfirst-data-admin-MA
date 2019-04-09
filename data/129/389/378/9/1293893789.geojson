@@ -1,0 +1,72 @@
+{
+  "id": 1293893789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.96179,32.38596,-8.96179,32.38596",
+    "geom:latitude":32.38596,
+    "geom:longitude":-8.96179,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Abid",
+    "gn:country_code":"MA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540433,
+    "gn:latitude":32.38596,
+    "gn:longitude":-8.96179,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Abid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Abbou",
+        "Oulad Abbou",
+        "Douar Oulad Abid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540433
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"42a1e8aeaf4ce934c0bba26ab37f6d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1293893789,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293893789,
+    "wof:lastmodified":1537663622,
+    "wof:name":"Douar Oulad Abid",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.96179,
+    32.38596,
+    -8.96179,
+    32.38596
+],
+  "geometry": {"coordinates":[-8.96179,32.38596],"type":"Point"}
+}

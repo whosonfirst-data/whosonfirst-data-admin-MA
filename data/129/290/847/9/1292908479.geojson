@@ -1,0 +1,67 @@
+{
+  "id": 1292908479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0276,34.91244,-6.0276,34.91244",
+    "geom:latitude":34.91244,
+    "geom:longitude":-6.0276,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lemagya",
+    "gn:country_code":"MA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969664,
+    "gn:latitude":34.91244,
+    "gn:longitude":-6.0276,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lemagya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969664
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f0e3c0a59cf40ca0d36a42006bc4e07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1292908479,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1292908479,
+    "wof:lastmodified":1536625767,
+    "wof:name":"Lemagya",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0276,
+    34.91244,
+    -6.0276,
+    34.91244
+],
+  "geometry": {"coordinates":[-6.0276,34.91244],"type":"Point"}
+}

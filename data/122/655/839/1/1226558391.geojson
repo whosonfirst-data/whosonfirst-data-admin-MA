@@ -1,0 +1,71 @@
+{
+  "id": 1226558391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.90126,31.80479,-6.90126,31.80479",
+    "geom:latitude":31.80479,
+    "geom:longitude":-6.90126,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Amouggaz",
+    "gn:country_code":"MA",
+    "gn:dem":802,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557990,
+    "gn:latitude":31.80479,
+    "gn:longitude":-6.90126,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Amouggaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amouks"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557990
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f4f9b3c7a4319c5ed7b79b258c36deca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226558391,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226558391,
+    "wof:lastmodified":1537664125,
+    "wof:name":"Amouggaz",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.90126,
+    31.80479,
+    -6.90126,
+    31.80479
+],
+  "geometry": {"coordinates":[-6.90126,31.80479],"type":"Point"}
+}

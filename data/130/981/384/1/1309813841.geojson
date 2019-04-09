@@ -1,0 +1,73 @@
+{
+  "id": 1309813841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.65324,32.35055,-4.65324,32.35055",
+    "geom:latitude":32.35055,
+    "geom:longitude":-4.65324,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imidar",
+    "gn:country_code":"MA",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546206,
+    "gn:latitude":32.35055,
+    "gn:longitude":-4.65324,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Imidar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imiter",
+        "Immider",
+        "Imider",
+        "Imidar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546206
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"84152b20e63eefd73fa3897885a7e11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1309813841,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1309813841,
+    "wof:lastmodified":1537663748,
+    "wof:name":"Imidar",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.65324,
+    32.35055,
+    -4.65324,
+    32.35055
+],
+  "geometry": {"coordinates":[-4.65324,32.35055],"type":"Point"}
+}

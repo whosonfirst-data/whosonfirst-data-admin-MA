@@ -1,0 +1,66 @@
+{
+  "id": 1209229547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.66862,34.61169,-3.66862,34.61169",
+    "geom:latitude":34.61169,
+    "geom:longitude":-3.66862,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ben Alla",
+    "gn:country_code":"MA",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556064,
+    "gn:latitude":34.61169,
+    "gn:longitude":-3.66862,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ben Alla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diar ben Allah",
+        "Ben Allah",
+        "Ben Alla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556064
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"558343a71cfb7ac0db741f15d6def33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229547
+        }
+    ],
+    "wof:id":1209229547,
+    "wof:lastmodified":1537664078,
+    "wof:name":"Ben Alla",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.66862,
+    34.61169,
+    -3.66862,
+    34.61169
+],
+  "geometry": {"coordinates":[-3.66862,34.61169],"type":"Point"}
+}

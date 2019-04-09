@@ -1,0 +1,73 @@
+{
+  "id": 1242592547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.41743,35.67224,-5.41743,35.67224",
+    "geom:latitude":35.67224,
+    "geom:longitude":-5.41743,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Belouazene",
+    "gn:country_code":"MA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552999,
+    "gn:latitude":35.67224,
+    "gn:longitude":-5.41743,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Belouazene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Belouasene",
+        "Boulouz\u00e8ne",
+        "Belouazene",
+        "Douar Belouazene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552999
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a7ba8f6f7f9e740afcd3cf05b91bcc96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784777,
+            "locality_id":1242592547,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242592547,
+    "wof:lastmodified":1537664022,
+    "wof:name":"Douar Belouazene",
+    "wof:parent_id":1108784777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.41743,
+    35.67224,
+    -5.41743,
+    35.67224
+],
+  "geometry": {"coordinates":[-5.41743,35.67224],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209315805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.28949,33.9126,-5.28949,33.9126",
+    "geom:latitude":33.9126,
+    "geom:longitude":-5.28949,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ait Ben Haddou",
+    "gn:country_code":"MA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025249,
+    "gn:latitude":33.9126,
+    "gn:longitude":-5.28949,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Ben Haddou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025249
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"14b9c958df05500b8bacc3b7ccca6754",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209315805
+        }
+    ],
+    "wof:id":1209315805,
+    "wof:lastmodified":1536290869,
+    "wof:name":"Ait Ben Haddou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.28949,
+    33.9126,
+    -5.28949,
+    33.9126
+],
+  "geometry": {"coordinates":[-5.28949,33.9126],"type":"Point"}
+}

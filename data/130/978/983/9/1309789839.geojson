@@ -1,0 +1,67 @@
+{
+  "id": 1309789839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.76121,30.69975,-9.76121,30.69975",
+    "geom:latitude":30.69975,
+    "geom:longitude":-9.76121,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Ouggar",
+    "gn:country_code":"MA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10375379,
+    "gn:latitude":30.69975,
+    "gn:longitude":-9.76121,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Ouggar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10375379
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f802b608878e68e5f3ed4c6ea987bec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1309789839,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309789839,
+    "wof:lastmodified":1536954184,
+    "wof:name":"Ait Ouggar",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.76121,
+    30.69975,
+    -9.76121,
+    30.69975
+],
+  "geometry": {"coordinates":[-9.76121,30.69975],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293311145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0481,29.23251,-10.0481,29.23251",
+    "geom:latitude":29.23251,
+    "geom:longitude":-10.0481,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ej Jema des Ait Youb",
+    "gn:country_code":"MA",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550875,
+    "gn:latitude":29.23251,
+    "gn:longitude":-10.0481,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ej Jema des A\u00eft Youb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zoco Jumaa Ait Iub",
+        "Zoco el Yumaa a de Ait Iub",
+        "Zoco El Yumaa de Ait Iub",
+        "Ej Jema des A\u00eft Youb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550875
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"13d5b1a667beb5922a58fcd89c951998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293311145,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293311145,
+    "wof:lastmodified":1537663904,
+    "wof:name":"Ej Jema des Ait Youb",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0481,
+    29.23251,
+    -10.0481,
+    29.23251
+],
+  "geometry": {"coordinates":[-10.0481,29.23251],"type":"Point"}
+}

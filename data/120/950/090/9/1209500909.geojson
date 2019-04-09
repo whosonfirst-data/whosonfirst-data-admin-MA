@@ -1,0 +1,64 @@
+{
+  "id": 1209500909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.60929,31.42536,-7.60929,31.42536",
+    "geom:latitude":31.42536,
+    "geom:longitude":-7.60929,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tazarzat",
+    "gn:country_code":"MA",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529216,
+    "gn:latitude":31.42536,
+    "gn:longitude":-7.60929,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tazarzat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazerzat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529216
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f445458758be725c308e1566e4a2e00c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209500909
+        }
+    ],
+    "wof:id":1209500909,
+    "wof:lastmodified":1537663403,
+    "wof:name":"Tazarzat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.60929,
+    31.42536,
+    -7.60929,
+    31.42536
+],
+  "geometry": {"coordinates":[-7.60929,31.42536],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327352173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.26863,35.17915,-3.26863,35.17915",
+    "geom:latitude":35.17915,
+    "geom:longitude":-3.26863,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Inaouene",
+    "gn:country_code":"MA",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546773,
+    "gn:latitude":35.17915,
+    "gn:longitude":-3.26863,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Inaouene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ignauen",
+        "Ignaouene",
+        "Inaouene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546773
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"332b7767055ca053ff1adf54acb35a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1327352173,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1327352173,
+    "wof:lastmodified":1537663767,
+    "wof:name":"Inaouene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.26863,
+    35.17915,
+    -3.26863,
+    35.17915
+],
+  "geometry": {"coordinates":[-3.26863,35.17915],"type":"Point"}
+}

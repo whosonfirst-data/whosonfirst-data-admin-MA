@@ -1,0 +1,71 @@
+{
+  "id": 1259598163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55488,30.54737,-7.55488,30.54737",
+    "geom:latitude":30.54737,
+    "geom:longitude":-7.55488,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tirsal",
+    "gn:country_code":"MA",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527490,
+    "gn:latitude":30.54737,
+    "gn:longitude":-7.55488,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tirsal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tissale",
+        "Tirsal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527490
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"71a3b38433bb641de38b80f3197fde3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1259598163,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259598163,
+    "wof:lastmodified":1537663356,
+    "wof:name":"Tirsal",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55488,
+    30.54737,
+    -7.55488,
+    30.54737
+],
+  "geometry": {"coordinates":[-7.55488,30.54737],"type":"Point"}
+}

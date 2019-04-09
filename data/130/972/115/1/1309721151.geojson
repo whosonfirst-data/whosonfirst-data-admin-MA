@@ -1,0 +1,67 @@
+{
+  "id": 1309721151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.08564,35.04478,-4.08564,35.04478",
+    "geom:latitude":35.04478,
+    "geom:longitude":-4.08564,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Ifarauane",
+    "gn:country_code":"MA",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092075,
+    "gn:latitude":35.04478,
+    "gn:longitude":-4.08564,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ifarauane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092075
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f0fdebe093233df30ece3a6f013d6da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1309721151,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1309721151,
+    "wof:lastmodified":1537050899,
+    "wof:name":"Douar Ifarauane",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.08564,
+    35.04478,
+    -4.08564,
+    35.04478
+],
+  "geometry": {"coordinates":[-4.08564,35.04478],"type":"Point"}
+}

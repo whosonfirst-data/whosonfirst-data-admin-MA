@@ -1,0 +1,67 @@
+{
+  "id": 1210028207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.03947,35.18252,-3.03947,35.18252",
+    "geom:latitude":35.18252,
+    "geom:longitude":-3.03947,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bni Idrajene",
+    "gn:country_code":"MA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961178,
+    "gn:latitude":35.18252,
+    "gn:longitude":-3.03947,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bni Idrajene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961178
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"80d4a09cebafdf98baa00fc7973ae2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1210028207,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1210028207,
+    "wof:lastmodified":1536389777,
+    "wof:name":"Bni Idrajene",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.03947,
+    35.18252,
+    -3.03947,
+    35.18252
+],
+  "geometry": {"coordinates":[-3.03947,35.18252],"type":"Point"}
+}

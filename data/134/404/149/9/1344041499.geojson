@@ -1,0 +1,67 @@
+{
+  "id": 1344041499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09012,30.28052,-9.09012,30.28052",
+    "geom:latitude":30.28052,
+    "geom:longitude":-9.09012,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Ben Kourt",
+    "gn:country_code":"MA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131568,
+    "gn:latitude":30.28052,
+    "gn:longitude":-9.09012,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ben Kourt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131568
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b510a764b329c9178b491825f24aab48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1344041499,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1344041499,
+    "wof:lastmodified":1536903152,
+    "wof:name":"Ait Ben Kourt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09012,
+    30.28052000000001,
+    -9.09012,
+    30.28052000000001
+],
+  "geometry": {"coordinates":[-9.09012,30.28052000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326716179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05512,31.9745,-9.05512,31.9745",
+    "geom:latitude":31.9745,
+    "geom:longitude":-9.05512,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Homman",
+    "gn:country_code":"MA",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912214,
+    "gn:latitude":31.9745,
+    "gn:longitude":-9.05512,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Homman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912214
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c98078736b6973af27a487fdbf90e6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1326716179,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1326716179,
+    "wof:lastmodified":1536719285,
+    "wof:name":"Oulad Homman",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05512,
+    31.9745,
+    -9.05512,
+    31.9745
+],
+  "geometry": {"coordinates":[-9.05512,31.9745],"type":"Point"}
+}

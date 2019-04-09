@@ -1,0 +1,73 @@
+{
+  "id": 1242792667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.91166,34.52316,-5.91166,34.52316",
+    "geom:latitude":34.52316,
+    "geom:longitude":-5.91166,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad El Haytem",
+    "gn:country_code":"MA",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550261,
+    "gn:latitude":34.52316,
+    "gn:longitude":-5.91166,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad El Haytem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ha\u00eftem",
+        "Douar el Ha\u00eftem",
+        "El Ha\u00eftem",
+        "Douar Oulad El Haytem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550261
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a6e0da90c523cd89e57f1540a4377a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1242792667,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1242792667,
+    "wof:lastmodified":1537663873,
+    "wof:name":"Douar Oulad El Haytem",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.91166,
+    34.52316,
+    -5.91166,
+    34.52316
+],
+  "geometry": {"coordinates":[-5.91166,34.52316],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193011477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.64365,32.21322,-6.64365,32.21322",
+    "geom:latitude":32.21322,
+    "geom:longitude":-6.64365,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tannferda",
+    "gn:country_code":"MA",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435490,
+    "gn:latitude":32.21322,
+    "gn:longitude":-6.64365,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Tannferda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435490
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"57377a9d730398bad28ad79ec55206fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1193011477,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1193011477,
+    "wof:lastmodified":1536383046,
+    "wof:name":"Tannferda",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.64365,
+    32.21322,
+    -6.64365,
+    32.21322
+],
+  "geometry": {"coordinates":[-6.64365,32.21322],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293701699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77331,31.00527,-7.77331,31.00527",
+    "geom:latitude":31.00527,
+    "geom:longitude":-7.77331,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Azarhart",
+    "gn:country_code":"MA",
+    "gn:dem":1897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950206,
+    "gn:latitude":31.00527,
+    "gn:longitude":-7.77331,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Azarhart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950206
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"856ee3017c25d6cda25fbd810c8e155e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1293701699,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293701699,
+    "wof:lastmodified":1536974968,
+    "wof:name":"Azarhart",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77331,
+    31.00527,
+    -7.77331,
+    31.00527
+],
+  "geometry": {"coordinates":[-7.77331,31.00527],"type":"Point"}
+}

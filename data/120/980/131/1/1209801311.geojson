@@ -1,0 +1,72 @@
+{
+  "id": 1209801311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50462,31.76196,-7.50462,31.76196",
+    "geom:latitude":31.76196,
+    "geom:longitude":-7.50462,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Erroucha",
+    "gn:country_code":"MA",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537995,
+    "gn:latitude":31.76196,
+    "gn:longitude":-7.50462,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Erroucha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roha",
+        "Rocha",
+        "Douar Erroucha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537995
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d656b8451d8ad1fa37ca252094d2f568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1209801311,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209801311,
+    "wof:lastmodified":1537663531,
+    "wof:name":"Douar Erroucha",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50462,
+    31.76196,
+    -7.50462,
+    31.76196
+],
+  "geometry": {"coordinates":[-7.50462,31.76196],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360194907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.47959,33.10874,-5.47959,33.10874",
+    "geom:latitude":33.10874,
+    "geom:longitude":-5.47959,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Hammou Ou Youssef",
+    "gn:country_code":"MA",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559050,
+    "gn:latitude":33.10874,
+    "gn:longitude":-5.47959,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Hammou Ou Youssef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Hammou Ou Youssef",
+        "A\u00eft Sidi Youssef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559050
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cff4652ab27a6ecafd0521985fb36227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1360194907,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1360194907,
+    "wof:lastmodified":1537664152,
+    "wof:name":"Ait Hammou Ou Youssef",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.47959,
+    33.10874,
+    -5.47959,
+    33.10874
+],
+  "geometry": {"coordinates":[-5.47959,33.10874],"type":"Point"}
+}

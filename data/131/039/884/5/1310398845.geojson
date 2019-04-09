@@ -1,0 +1,67 @@
+{
+  "id": 1310398845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.56358,31.97917,-6.56358,31.97917",
+    "geom:latitude":31.97917,
+    "geom:longitude":-6.56358,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tanout",
+    "gn:country_code":"MA",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359149,
+    "gn:latitude":31.97917,
+    "gn:longitude":-6.56358,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tanout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359149
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"62841f79be3d61843f64b11031993e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310398845,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310398845,
+    "wof:lastmodified":1537067906,
+    "wof:name":"Tanout",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.56358,
+    31.97917,
+    -6.56358,
+    31.97917
+],
+  "geometry": {"coordinates":[-6.56358,31.97917],"type":"Point"}
+}

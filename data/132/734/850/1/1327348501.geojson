@@ -1,0 +1,73 @@
+{
+  "id": 1327348501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.93428,32.03393,-5.93428,32.03393",
+    "geom:latitude":32.03393,
+    "geom:longitude":-5.93428,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Anou n'Ait Boulmane",
+    "gn:country_code":"MA",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557707,
+    "gn:latitude":32.03393,
+    "gn:longitude":-5.93428,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Anou n\u2019A\u00eft Boulmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Boulmane",
+        "Anou-n-A\u00eft Boulamane",
+        "A\u00eft Boulamane",
+        "Anou n\u2019A\u00eft Boulmane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557707
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e490844c3e223f0370fdfbb6603767eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1327348501,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1327348501,
+    "wof:lastmodified":1537664115,
+    "wof:name":"Anou n'Ait Boulmane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.93428,
+    32.03393,
+    -5.93428,
+    32.03393
+],
+  "geometry": {"coordinates":[-5.93428,32.03393],"type":"Point"}
+}

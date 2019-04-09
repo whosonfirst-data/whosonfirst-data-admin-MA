@@ -1,0 +1,88 @@
+{
+  "id": 1125365489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27939,29.07337,-8.27939,29.07337",
+    "geom:latitude":29.07337,
+    "geom:longitude":-8.27939,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2231,
+    "gn:population":2119,
+    "iso:country":"MA",
+    "lbl:latitude":29.07337,
+    "lbl:longitude":-8.27939,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0646\u0627\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tizounine"
+    ],
+    "name:fra_x_variant":[
+        "Tizounine (CR)",
+        "Tizounine (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546228,
+    "qs_pg:gn_pop":2231,
+    "qs_pg:name":"Tizounine",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629363,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546228,
+        "qs_pg:id":629363
+    },
+    "wof:country":"MA",
+    "wof:created":1497047056,
+    "wof:geomhash":"3a45dc4665fea35f10458a8fb232eb96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "localadmin_id":1125365489,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1125365489,
+    "wof:lastmodified":1509389192,
+    "wof:name":"Tizounine",
+    "wof:parent_id":890453851,
+    "wof:placetype":"localadmin",
+    "wof:population":2119,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27939,
+    29.07337,
+    -8.27939,
+    29.07337
+],
+  "geometry": {"coordinates":[-8.27939,29.07337],"type":"Point"}
+}

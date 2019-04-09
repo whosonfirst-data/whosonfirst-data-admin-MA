@@ -1,0 +1,76 @@
+{
+  "id": 890416643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.32507,35.68571,-5.32507,35.68571",
+    "geom:latitude":35.68571,
+    "geom:longitude":-5.32507,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":36596,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0646\u064a\u062f\u0642 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "M'Diq"
+    ],
+    "name:fra_x_variant":[
+        "M'Diq (MU)",
+        "M'Diq (Commune Urbaine)"
+    ],
+    "qs:name":"M'Diq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545494,
+        "qs:id":628640,
+        "wd:id":"Q2501764",
+        "wk:page":"M'diq"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051146,
+    "wof:geomhash":"43cd269f69773a5cee690b3e6f977e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "localadmin_id":890416643,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":890416643,
+    "wof:lastmodified":1527792799,
+    "wof:name":"M'Diq",
+    "wof:parent_id":85673883,
+    "wof:placetype":"localadmin",
+    "wof:population":36596,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.32507,
+    35.68571,
+    -5.32507,
+    35.68571
+],
+  "geometry": {"coordinates":[-5.32507,35.68571],"type":"Point"}
+}

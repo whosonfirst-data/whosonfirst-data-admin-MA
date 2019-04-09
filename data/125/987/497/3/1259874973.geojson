@@ -1,0 +1,67 @@
+{
+  "id": 1259874973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32041,29.60503,-9.32041,29.60503",
+    "geom:latitude":29.60503,
+    "geom:longitude":-9.32041,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiyghmrt",
+    "gn:country_code":"MA",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130020,
+    "gn:latitude":29.60503,
+    "gn:longitude":-9.32041,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiyghmrt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130020
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1eea8a637fe5156a3fb8fb1e8d34036b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1259874973,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259874973,
+    "wof:lastmodified":1536791833,
+    "wof:name":"Tiyghmrt",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32041,
+    29.60503,
+    -9.32041,
+    29.60503
+],
+  "geometry": {"coordinates":[-9.32041,29.60503],"type":"Point"}
+}

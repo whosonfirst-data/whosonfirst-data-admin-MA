@@ -1,0 +1,61 @@
+{
+  "id": 1209601121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.60097,31.33304,-9.60097,31.33304",
+    "geom:latitude":31.33304,
+    "geom:longitude":-9.60097,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Agrou",
+    "gn:country_code":"MA",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946090,
+    "gn:latitude":31.33304,
+    "gn:longitude":-9.60097,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Agrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946090
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8201c694a651e8c844468d28fa9dbcb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209601121
+        }
+    ],
+    "wof:id":1209601121,
+    "wof:lastmodified":1536282164,
+    "wof:name":"Douar Agrou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.60097,
+    31.333040000000004,
+    -9.60097,
+    31.333040000000004
+],
+  "geometry": {"coordinates":[-9.60097,31.33304],"type":"Point"}
+}

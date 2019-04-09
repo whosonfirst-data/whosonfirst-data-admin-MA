@@ -1,0 +1,67 @@
+{
+  "id": 1310425955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20339,31.82251,-9.20339,31.82251",
+    "geom:latitude":31.82251,
+    "geom:longitude":-9.20339,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad Cherif",
+    "gn:country_code":"MA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10911309,
+    "gn:latitude":31.82251,
+    "gn:longitude":-9.20339,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Cherif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10911309
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4971973fe7b766704d3f4595f45b0ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1310425955,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310425955,
+    "wof:lastmodified":1537030470,
+    "wof:name":"Douar Oulad Cherif",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20339,
+    31.82251,
+    -9.20339,
+    31.82251
+],
+  "geometry": {"coordinates":[-9.20339,31.82251],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276369563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.68623,34.18193,-6.68623,34.18193",
+    "geom:latitude":34.18193,
+    "geom:longitude":-6.68623,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lafrahna",
+    "gn:country_code":"MA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10797355,
+    "gn:latitude":34.18193,
+    "gn:longitude":-6.68623,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lafrahna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10797355
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ffe0bcb8f300234c00ce818522a375a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1276369563,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276369563,
+    "wof:lastmodified":1536730425,
+    "wof:name":"Lafrahna",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.68623,
+    34.18193,
+    -6.68623,
+    34.18193
+],
+  "geometry": {"coordinates":[-6.68623,34.18193],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125365497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.80642,31.00123,-4.80642,31.00123",
+    "geom:latitude":31.00123,
+    "geom:longitude":-4.80642,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7043,
+    "gn:population":7043,
+    "iso:country":"MA",
+    "lbl:latitude":31.00123,
+    "lbl:longitude":-4.80642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0632\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "M Ssici"
+    ],
+    "name:fra_x_variant":[
+        "M Ssici (CR)",
+        "M Ssici (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546418,
+    "qs_pg:gn_pop":7043,
+    "qs_pg:name":"M Ssici",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629524,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546418,
+        "qs_pg:id":629524
+    },
+    "wof:country":"MA",
+    "wof:created":1497047056,
+    "wof:geomhash":"d87e2906195ecd34d445325df46a1a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "localadmin_id":1125365497,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125365497,
+    "wof:lastmodified":1509389193,
+    "wof:name":"M Ssici",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"localadmin",
+    "wof:population":7043,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.80642,
+    31.00123,
+    -4.80642,
+    31.00123
+],
+  "geometry": {"coordinates":[-4.80642,31.00123],"type":"Point"}
+}

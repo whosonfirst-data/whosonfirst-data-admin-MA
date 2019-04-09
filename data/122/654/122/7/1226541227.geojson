@@ -1,0 +1,67 @@
+{
+  "id": 1226541227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.80446,34.10773,-4.80446,34.10773",
+    "geom:latitude":34.10773,
+    "geom:longitude":-4.80446,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Oulad Hmid",
+    "gn:country_code":"MA",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10926259,
+    "gn:latitude":34.10773,
+    "gn:longitude":-4.80446,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Hmid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10926259
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"85b4b3916dcadd382b86d8e8799b7ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1226541227,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1226541227,
+    "wof:lastmodified":1537003801,
+    "wof:name":"Douar Oulad Hmid",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.80446,
+    34.10773,
+    -4.80446,
+    34.10773
+],
+  "geometry": {"coordinates":[-4.80446,34.10773],"type":"Point"}
+}

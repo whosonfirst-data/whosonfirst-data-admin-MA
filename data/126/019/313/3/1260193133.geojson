@@ -1,0 +1,67 @@
+{
+  "id": 1260193133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33157,29.37164,-9.33157,29.37164",
+    "geom:latitude":29.37164,
+    "geom:longitude":-9.33157,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tifrot",
+    "gn:country_code":"MA",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528605,
+    "gn:latitude":29.37164,
+    "gn:longitude":-9.33157,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tifrot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528605
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a4c3f7d07c2871cf38f12ac3e68e0ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1260193133,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260193133,
+    "wof:lastmodified":1536833614,
+    "wof:name":"Tifrot",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33157,
+    29.37164000000001,
+    -9.33157,
+    29.37164000000001
+],
+  "geometry": {"coordinates":[-9.33157,29.37164000000001],"type":"Point"}
+}

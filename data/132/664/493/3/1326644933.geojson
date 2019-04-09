@@ -1,0 +1,72 @@
+{
+  "id": 1326644933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38247,30.7928,-8.38247,30.7928",
+    "geom:latitude":30.7928,
+    "geom:longitude":-8.38247,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tajgalt",
+    "gn:country_code":"MA",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532131,
+    "gn:latitude":30.7928,
+    "gn:longitude":-8.38247,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tajgalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazgalt",
+        "Tajgalt",
+        "Tachguelt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532131
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6246e703b9c51e4cc843072f71455450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1326644933,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1326644933,
+    "wof:lastmodified":1537663487,
+    "wof:name":"Tajgalt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38247,
+    30.7928,
+    -8.38247,
+    30.7928
+],
+  "geometry": {"coordinates":[-8.38247,30.7928],"type":"Point"}
+}

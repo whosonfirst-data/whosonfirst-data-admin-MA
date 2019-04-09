@@ -1,0 +1,64 @@
+{
+  "id": 1209633683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9319,30.6375,-6.9319,30.6375",
+    "geom:latitude":30.6375,
+    "geom:longitude":-6.9319,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Amcla-n-Brahim",
+    "gn:country_code":"MA",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596545,
+    "gn:latitude":30.6375,
+    "gn:longitude":-6.9319,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Amcla-n-Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amda n\u2019Brahim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596545
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8d43eaa7f911e31f74f4894463b905fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633683
+        }
+    ],
+    "wof:id":1209633683,
+    "wof:lastmodified":1537664288,
+    "wof:name":"Amcla-n-Brahim",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9319,
+    30.6375,
+    -6.9319,
+    30.6375
+],
+  "geometry": {"coordinates":[-6.9319,30.6375],"type":"Point"}
+}

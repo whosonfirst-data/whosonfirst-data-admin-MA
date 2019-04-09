@@ -1,0 +1,74 @@
+{
+  "id": 1242796215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58254,34.88613,-5.58254,34.88613",
+    "geom:latitude":34.88613,
+    "geom:longitude":-5.58254,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Alchane",
+    "gn:country_code":"MA",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552164,
+    "gn:latitude":34.88613,
+    "gn:longitude":-5.58254,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Alchane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahl Chane",
+        "Ahet Chane",
+        "Ahel Chane",
+        "Douar Ahel Chane",
+        "Douar Alchane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552164
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1f5ca0a537062ab706bb61f2083b292c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1242796215,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242796215,
+    "wof:lastmodified":1537663994,
+    "wof:name":"Douar Alchane",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58254,
+    34.88613,
+    -5.58254,
+    34.88613
+],
+  "geometry": {"coordinates":[-5.58254,34.88613],"type":"Point"}
+}

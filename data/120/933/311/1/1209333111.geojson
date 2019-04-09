@@ -1,0 +1,66 @@
+{
+  "id": 1209333111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.64794,32.88636,-3.64794,32.88636",
+    "geom:latitude":32.88636,
+    "geom:longitude":-3.64794,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Ghefiria",
+    "gn:country_code":"MA",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529689,
+    "gn:latitude":32.88636,
+    "gn:longitude":-3.64794,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Al Ghefiria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarifla",
+        "Tarifia",
+        "Al Ghefiria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529689
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5f28da011afabaf44662f9ec52ea8f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333111
+        }
+    ],
+    "wof:id":1209333111,
+    "wof:lastmodified":1537663415,
+    "wof:name":"Al Ghefiria",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.64794,
+    32.88636,
+    -3.64794,
+    32.88636
+],
+  "geometry": {"coordinates":[-3.64794,32.88636],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209408235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34958,31.78949,-9.34958,31.78949",
+    "geom:latitude":31.78949,
+    "geom:longitude":-9.34958,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar El Haj El Arla",
+    "gn:country_code":"MA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10947398,
+    "gn:latitude":31.78949,
+    "gn:longitude":-9.34958,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Haj El Arla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10947398
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8cacd0d50ff1929e3065aa5ee224b988",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209408235
+        }
+    ],
+    "wof:id":1209408235,
+    "wof:lastmodified":1536287925,
+    "wof:name":"Douar El Haj El Arla",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34958,
+    31.78949,
+    -9.34958,
+    31.78949
+],
+  "geometry": {"coordinates":[-9.34958,31.78949],"type":"Point"}
+}

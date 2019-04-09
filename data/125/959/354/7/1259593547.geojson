@@ -1,0 +1,67 @@
+{
+  "id": 1259593547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69731,29.8478,-7.69731,29.8478",
+    "geom:latitude":29.8478,
+    "geom:longitude":-7.69731,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ouizmaine",
+    "gn:country_code":"MA",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540487,
+    "gn:latitude":29.8478,
+    "gn:longitude":-7.69731,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouizma\u00efne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540487
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7a4a1c766280ab92e6e76040e4e4618d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1259593547,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1259593547,
+    "wof:lastmodified":1536700478,
+    "wof:name":"Ouizmaine",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69731,
+    29.8478,
+    -7.69731,
+    29.8478
+],
+  "geometry": {"coordinates":[-7.69731,29.8478],"type":"Point"}
+}

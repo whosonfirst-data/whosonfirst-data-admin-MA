@@ -1,0 +1,67 @@
+{
+  "id": 1310320137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.43305,34.97052,-3.43305,34.97052",
+    "geom:latitude":34.97052,
+    "geom:longitude":-3.43305,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Mgarda",
+    "gn:country_code":"MA",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558416,
+    "gn:latitude":34.97052,
+    "gn:longitude":-3.43305,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Mgarda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558416
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a7a64e10149316079170d3d0ea033003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1310320137,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1310320137,
+    "wof:lastmodified":1536686748,
+    "wof:name":"Al Mgarda",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.43305,
+    34.97052,
+    -3.43305,
+    34.97052
+],
+  "geometry": {"coordinates":[-3.43305,34.97052],"type":"Point"}
+}

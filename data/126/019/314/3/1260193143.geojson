@@ -1,0 +1,71 @@
+{
+  "id": 1260193143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36958,35.08052,-5.36958,35.08052",
+    "geom:latitude":35.08052,
+    "geom:longitude":-5.36958,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Draa el Asef",
+    "gn:country_code":"MA",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551025,
+    "gn:latitude":35.08052,
+    "gn:longitude":-5.36958,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dr\u00e2a el Asef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dra el Azef",
+        "Dr\u00e2a el Asef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551025
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5336688471b5be63a9e88e238e148d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1260193143,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1260193143,
+    "wof:lastmodified":1537663910,
+    "wof:name":"Draa el Asef",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36958,
+    35.08052,
+    -5.36958,
+    35.08052
+],
+  "geometry": {"coordinates":[-5.36958,35.08052],"type":"Point"}
+}

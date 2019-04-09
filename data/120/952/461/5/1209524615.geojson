@@ -1,0 +1,61 @@
+{
+  "id": 1209524615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.34191,35.73991,-5.34191,35.73991",
+    "geom:latitude":35.73991,
+    "geom:longitude":-5.34191,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Villas Marina Smir",
+    "gn:country_code":"MA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955706,
+    "gn:latitude":35.73991,
+    "gn:longitude":-5.34191,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Villas Marina Smir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955706
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6d14804435cb64d099c72822be1e3a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209524615
+        }
+    ],
+    "wof:id":1209524615,
+    "wof:lastmodified":1536284470,
+    "wof:name":"Villas Marina Smir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.34191,
+    35.73990999999999,
+    -5.34191,
+    35.73990999999999
+],
+  "geometry": {"coordinates":[-5.34191,35.73990999999999],"type":"Point"}
+}

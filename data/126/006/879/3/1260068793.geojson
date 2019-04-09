@@ -1,0 +1,67 @@
+{
+  "id": 1260068793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.93187,29.22544,-9.93187,29.22544",
+    "geom:latitude":29.22544,
+    "geom:longitude":-9.93187,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tiwrkane",
+    "gn:country_code":"MA",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100538,
+    "gn:latitude":29.22544,
+    "gn:longitude":-9.93187,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiwrkane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100538
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"10a577d094c99b042634ef9e8a7a7c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1260068793,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260068793,
+    "wof:lastmodified":1537008503,
+    "wof:name":"Tiwrkane",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.93187,
+    29.22544000000001,
+    -9.93187,
+    29.22544000000001
+],
+  "geometry": {"coordinates":[-9.93187,29.22544000000001],"type":"Point"}
+}

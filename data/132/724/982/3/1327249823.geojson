@@ -1,0 +1,71 @@
+{
+  "id": 1327249823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.06224,35.38746,-6.06224,35.38746",
+    "geom:latitude":35.38746,
+    "geom:longitude":-6.06224,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Demina",
+    "gn:country_code":"MA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552320,
+    "gn:latitude":35.38746,
+    "gn:longitude":-6.06224,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Demina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dmina",
+        "Demina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552320
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"03fb49dd22d6c25b1410a82e51b12fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1327249823,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327249823,
+    "wof:lastmodified":1537663998,
+    "wof:name":"Demina",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.06224,
+    35.38746,
+    -6.06224,
+    35.38746
+],
+  "geometry": {"coordinates":[-6.06224,35.38746],"type":"Point"}
+}

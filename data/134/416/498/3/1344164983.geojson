@@ -1,0 +1,67 @@
+{
+  "id": 1344164983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.48861,34.72333,-2.48861,34.72333",
+    "geom:latitude":34.72333,
+    "geom:longitude":-2.48861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Massine El Oulya",
+    "gn:country_code":"MA",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11066752,
+    "gn:latitude":34.72333,
+    "gn:longitude":-2.48861,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Massine El Oulya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11066752
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9bf78687a8a8e86f5ff3d6021d71af87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "locality_id":1344164983,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1344164983,
+    "wof:lastmodified":1536725048,
+    "wof:name":"Douar Massine El Oulya",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.48861,
+    34.72333,
+    -2.48861,
+    34.72333
+],
+  "geometry": {"coordinates":[-2.48861,34.72333],"type":"Point"}
+}

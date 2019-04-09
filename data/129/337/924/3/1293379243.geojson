@@ -1,0 +1,67 @@
+{
+  "id": 1293379243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09343,30.02701,-9.09343,30.02701",
+    "geom:latitude":30.02701,
+    "geom:longitude":-9.09343,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Ali Ibourk",
+    "gn:country_code":"MA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131334,
+    "gn:latitude":30.02701,
+    "gn:longitude":-9.09343,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Ali Ibourk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131334
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"53362100727727f63302a7fbb8990286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1293379243,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293379243,
+    "wof:lastmodified":1536943604,
+    "wof:name":"Ait Ali Ibourk",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09343,
+    30.02701,
+    -9.09343,
+    30.02701
+],
+  "geometry": {"coordinates":[-9.09343,30.02701],"type":"Point"}
+}

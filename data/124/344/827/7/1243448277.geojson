@@ -1,0 +1,67 @@
+{
+  "id": 1243448277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.44096,30.54071,-9.44096,30.54071",
+    "geom:latitude":30.54071,
+    "geom:longitude":-9.44096,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Assahmmour",
+    "gn:country_code":"MA",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11131742,
+    "gn:latitude":30.54071,
+    "gn:longitude":-9.44096,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Assahmmour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131742
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3013ee0f8409ddfd7ddec433cb527106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1243448277,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243448277,
+    "wof:lastmodified":1536802874,
+    "wof:name":"Assahmmour",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.44096,
+    30.54071,
+    -9.44096,
+    30.54071
+],
+  "geometry": {"coordinates":[-9.44096,30.54071],"type":"Point"}
+}

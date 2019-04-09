@@ -1,0 +1,71 @@
+{
+  "id": 1309818667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.82727,31.24454,-4.82727,31.24454",
+    "geom:latitude":31.24454,
+    "geom:longitude":-4.82727,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Moulay S'id",
+    "gn:country_code":"MA",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596351,
+    "gn:latitude":31.24454,
+    "gn:longitude":-4.82727,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Moulay S\u2019id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moulay S\u2019id",
+        "Moulay Sa\u00efd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596351
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0974c44e88873b59cd38803bed4875c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1309818667,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309818667,
+    "wof:lastmodified":1537664286,
+    "wof:name":"Moulay S'id",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.82727,
+    31.24454,
+    -4.82727,
+    31.24454
+],
+  "geometry": {"coordinates":[-4.82727,31.24454],"type":"Point"}
+}

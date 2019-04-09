@@ -1,0 +1,72 @@
+{
+  "id": 1242587935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55232,31.57509,-7.55232,31.57509",
+    "geom:latitude":31.57509,
+    "geom:longitude":-7.55232,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Agoujgal",
+    "gn:country_code":"MA",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561436,
+    "gn:latitude":31.57509,
+    "gn:longitude":-7.55232,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agoujgal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Agoujgal",
+        "Agoujbal",
+        "Agoujgal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561436
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"66e7272ceaaf1e76e498e011742c5681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1242587935,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242587935,
+    "wof:lastmodified":1537664237,
+    "wof:name":"Agoujgal",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55232,
+    31.57509000000001,
+    -7.55232,
+    31.57509000000001
+],
+  "geometry": {"coordinates":[-7.55232,31.57509000000001],"type":"Point"}
+}

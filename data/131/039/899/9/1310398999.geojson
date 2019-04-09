@@ -1,0 +1,67 @@
+{
+  "id": 1310398999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0424,32.90273,-8.0424,32.90273",
+    "geom:latitude":32.90273,
+    "geom:longitude":-8.0424,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Yassine",
+    "gn:country_code":"MA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367841,
+    "gn:latitude":32.90273,
+    "gn:longitude":-8.0424,
+    "gn:modification_date":"2017-10-06",
+    "gn:name":"Oulad Yassine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367841
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"071e3057968e8202675bb763ef801093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1310398999,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1310398999,
+    "wof:lastmodified":1537067693,
+    "wof:name":"Oulad Yassine",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0424,
+    32.90273,
+    -8.0424,
+    32.90273
+],
+  "geometry": {"coordinates":[-8.0424,32.90273],"type":"Point"}
+}

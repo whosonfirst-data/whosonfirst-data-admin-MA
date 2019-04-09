@@ -1,0 +1,71 @@
+{
+  "id": 1259493649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98819,31.37986,-5.98819,31.37986",
+    "geom:latitude":31.37986,
+    "geom:longitude":-5.98819,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Boumalne",
+    "gn:country_code":"MA",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554322,
+    "gn:latitude":31.37986,
+    "gn:longitude":-5.98819,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Boumalne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Malem",
+        "Boumalne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554322
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f2cb2c76541896a9f71dc14b0dd852eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1259493649,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259493649,
+    "wof:lastmodified":1537664049,
+    "wof:name":"Boumalne",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98819,
+    31.37986,
+    -5.98819,
+    31.37986
+],
+  "geometry": {"coordinates":[-5.98819,31.37986],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209234749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.41949,31.59908,-9.41949,31.59908",
+    "geom:latitude":31.59908,
+    "geom:longitude":-9.41949,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Majmae Regraga",
+    "gn:country_code":"MA",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10899776,
+    "gn:latitude":31.59908,
+    "gn:longitude":-9.41949,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Majmae Regraga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10899776
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8e3f81723e5b093c8e65897c8ff1ecad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209234749
+        }
+    ],
+    "wof:id":1209234749,
+    "wof:lastmodified":1536293522,
+    "wof:name":"Majmae Regraga",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.41949,
+    31.59908,
+    -9.41949,
+    31.59908
+],
+  "geometry": {"coordinates":[-9.41949,31.59908],"type":"Point"}
+}

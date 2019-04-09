@@ -1,0 +1,67 @@
+{
+  "id": 1276650509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.08914,29.83324,-9.08914,29.83324",
+    "geom:latitude":29.83324,
+    "geom:longitude":-9.08914,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maghoust",
+    "gn:country_code":"MA",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130712,
+    "gn:latitude":29.83324,
+    "gn:longitude":-9.08914,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Maghoust",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130712
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"be89f8c44def85eb9bb6355b9a4128f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1276650509,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276650509,
+    "wof:lastmodified":1536849740,
+    "wof:name":"Maghoust",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.08914,
+    29.83324,
+    -9.08914,
+    29.83324
+],
+  "geometry": {"coordinates":[-9.08914,29.83324],"type":"Point"}
+}

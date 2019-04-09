@@ -1,0 +1,67 @@
+{
+  "id": 1260092037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.0088,35.14084,-3.0088,35.14084",
+    "geom:latitude":35.14084,
+    "geom:longitude":-3.0088,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Idahriyene",
+    "gn:country_code":"MA",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961211,
+    "gn:latitude":35.14084,
+    "gn:longitude":-3.0088,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Idahriyene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961211
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7e00f10e91dc51bf2f8d18c7d5eb65c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1260092037,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1260092037,
+    "wof:lastmodified":1536975168,
+    "wof:name":"Idahriyene",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.0088,
+    35.14084,
+    -3.0088,
+    35.14084
+],
+  "geometry": {"coordinates":[-3.0088,35.14084],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310703099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.55949,34.17307,-4.55949,34.17307",
+    "geom:latitude":34.17307,
+    "geom:longitude":-4.55949,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Lhejjalat",
+    "gn:country_code":"MA",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10993613,
+    "gn:latitude":34.17307,
+    "gn:longitude":-4.55949,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lhejjalat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10993613
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a23cb88d4be313a07dea2535c28207a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1310703099,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310703099,
+    "wof:lastmodified":1536630178,
+    "wof:name":"Douar Lhejjalat",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.55949,
+    34.17307,
+    -4.55949,
+    34.17307
+],
+  "geometry": {"coordinates":[-4.55949,34.17307],"type":"Point"}
+}

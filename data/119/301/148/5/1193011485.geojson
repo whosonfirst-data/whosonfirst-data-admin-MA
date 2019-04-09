@@ -1,0 +1,67 @@
+{
+  "id": 1193011485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.08215,32.22119,-6.08215,32.22119",
+    "geom:latitude":32.22119,
+    "geom:longitude":-6.08215,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Agard-n-Atakka",
+    "gn:country_code":"MA",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436107,
+    "gn:latitude":32.22119,
+    "gn:longitude":-6.08215,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Agard-n-Atakka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436107
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"08b68db6703ef8557979bb8d7e8368be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1193011485,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1193011485,
+    "wof:lastmodified":1536383040,
+    "wof:name":"Agard-n-Atakka",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.08215,
+    32.22119,
+    -6.08215,
+    32.22119
+],
+  "geometry": {"coordinates":[-6.08215,32.22119],"type":"Point"}
+}

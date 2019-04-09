@@ -1,0 +1,72 @@
+{
+  "id": 1260197945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41938,33.53821,-7.41938,33.53821",
+    "geom:latitude":33.53821,
+    "geom:longitude":-7.41938,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sidi Hajaj",
+    "gn:country_code":"MA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2534663,
+    "gn:latitude":33.53821,
+    "gn:longitude":-7.41938,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Hajaj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi-Hajjaj",
+        "Sidi Hadjadj",
+        "Sidi Hajaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673905,
+        890424151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2534663
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"18eaf9bd07bb5a03506da772daa8aba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424151,
+            "locality_id":1260197945,
+            "region_id":85673905
+        }
+    ],
+    "wof:id":1260197945,
+    "wof:lastmodified":1537663511,
+    "wof:name":"Sidi Hajaj",
+    "wof:parent_id":890424151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41938,
+    33.53821,
+    -7.41938,
+    33.53821
+],
+  "geometry": {"coordinates":[-7.41938,33.53821],"type":"Point"}
+}

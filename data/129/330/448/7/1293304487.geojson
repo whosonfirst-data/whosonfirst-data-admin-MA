@@ -1,0 +1,67 @@
+{
+  "id": 1293304487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.47009,34.99181,-2.47009,34.99181",
+    "geom:latitude":34.99181,
+    "geom:longitude":-2.47009,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Garma",
+    "gn:country_code":"MA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10933253,
+    "gn:latitude":34.99181,
+    "gn:longitude":-2.47009,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Garma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10933253
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c05cde18a61f030f062f4fcdf12091e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1293304487,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293304487,
+    "wof:lastmodified":1537048728,
+    "wof:name":"Douar Garma",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.47009,
+    34.99181,
+    -2.47009,
+    34.99181
+],
+  "geometry": {"coordinates":[-2.47009,34.99181],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259593615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51824,32.14519,-8.51824,32.14519",
+    "geom:latitude":32.14519,
+    "geom:longitude":-8.51824,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ettaybi Ben Emmine",
+    "gn:country_code":"MA",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551184,
+    "gn:latitude":32.14519,
+    "gn:longitude":-8.51824,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ettaybi Ben Emmine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u00efbi",
+        "Douar Ta\u00efbi",
+        "Douar Ettaybi Ben Emmine",
+        "Taibi Ben Lamouine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551184
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"345642aa77df0524d98e6ce785c7f0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1259593615,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259593615,
+    "wof:lastmodified":1537663917,
+    "wof:name":"Douar Ettaybi Ben Emmine",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51824,
+    32.14519,
+    -8.51824,
+    32.14519
+],
+  "geometry": {"coordinates":[-8.51824,32.14519],"type":"Point"}
+}

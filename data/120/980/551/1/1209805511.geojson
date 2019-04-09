@@ -1,0 +1,74 @@
+{
+  "id": 1209805511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06114,31.59247,-5.06114,31.59247",
+    "geom:latitude":31.59247,
+    "geom:longitude":-5.06114,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taddart N-Oumira",
+    "gn:country_code":"MA",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532053,
+    "gn:latitude":31.59247,
+    "gn:longitude":-5.06114,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Taddart N-Oumira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taddert n\u2019Oumirat",
+        "Tadderte n\u2019Oumira",
+        "Taddert n\u2019Oumira",
+        "Taddart N-Oumira",
+        "Tinoumirra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532053
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e5347401bbffe6424af886f3e9e623eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1209805511,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1209805511,
+    "wof:lastmodified":1537663484,
+    "wof:name":"Taddart N-Oumira",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06114,
+    31.59247,
+    -5.06114,
+    31.59247
+],
+  "geometry": {"coordinates":[-5.06114,31.59247],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890452959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.89112,29.86263,-8.89112,29.86263",
+    "geom:latitude":29.86263,
+    "geom:longitude":-8.89112,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":2491,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0628\u0648\u0639\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Mzal"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Mzal (CR)",
+        "Sidi Mzal (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Mzal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546200,
+        "qs:id":629339,
+        "wd:id":"Q7508799",
+        "wk:page":"Sidi Mzal"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052836,
+    "wof:geomhash":"670f12add528a5ccc0d4b4715a2a72e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":890452959,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890452959,
+    "wof:lastmodified":1527734186,
+    "wof:name":"Sidi Mzal",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":2491,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.89112,
+    29.86263,
+    -8.89112,
+    29.86263
+],
+  "geometry": {"coordinates":[-8.89112,29.86263],"type":"Point"}
+}

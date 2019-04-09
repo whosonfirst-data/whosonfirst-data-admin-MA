@@ -1,0 +1,72 @@
+{
+  "id": 1293879323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19017,32.27806,-7.19017,32.27806",
+    "geom:latitude":32.27806,
+    "geom:longitude":-7.19017,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Jaber",
+    "gn:country_code":"MA",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539694,
+    "gn:latitude":32.27806,
+    "gn:longitude":-7.19017,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Oulad Jaber",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Jabar",
+        "Oulad Jeber",
+        "Oulad Jaber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539694
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"74f75e43ce5fc59ed6c5b964bbab43c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1293879323,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293879323,
+    "wof:lastmodified":1537663584,
+    "wof:name":"Douar Oulad Jaber",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19017,
+    32.27806,
+    -7.19017,
+    32.27806
+],
+  "geometry": {"coordinates":[-7.19017,32.27806],"type":"Point"}
+}

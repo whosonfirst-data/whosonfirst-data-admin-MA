@@ -1,0 +1,75 @@
+{
+  "id": 890441135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0156,34.05968,-5.0156,34.05968",
+    "geom:latitude":34.05968,
+    "geom:longitude":-5.0156,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":189890,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0648\u0631  \u0641\u0627\u0633 \u0627\u0644\u062c\u062f\u064a\u062f (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Elmariniyine"
+    ],
+    "name:fra_x_variant":[
+        "Elmariniyine (AR)",
+        "Elmariniyine (Arrondissement)"
+    ],
+    "qs:name":"Elmariniyine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890454333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545986,
+        "qs:id":629130
+    },
+    "wof:country":"MA",
+    "wof:created":1469052310,
+    "wof:geomhash":"4be86400517373905cd243dc0f6c2696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "localadmin_id":890441135,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":890441135,
+    "wof:lastmodified":1505343580,
+    "wof:name":"Elmariniyine",
+    "wof:parent_id":890454333,
+    "wof:placetype":"localadmin",
+    "wof:population":189890,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0156,
+    34.05968,
+    -5.0156,
+    34.05968
+],
+  "geometry": {"coordinates":[-5.0156,34.05968],"type":"Point"}
+}

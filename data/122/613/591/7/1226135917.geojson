@@ -1,0 +1,67 @@
+{
+  "id": 1226135917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95801,31.98413,-6.95801,31.98413",
+    "geom:latitude":31.98413,
+    "geom:longitude":-6.95801,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Ouchmane",
+    "gn:country_code":"MA",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963389,
+    "gn:latitude":31.98413,
+    "gn:longitude":-6.95801,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ouchmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963389
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2a3e03831240d581af5417f1be557e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226135917,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226135917,
+    "wof:lastmodified":1537088695,
+    "wof:name":"Ait Ouchmane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95801,
+    31.98413,
+    -6.95801,
+    31.98413
+],
+  "geometry": {"coordinates":[-6.95801,31.98413],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125330043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75571,32.47496,-7.75571,32.47496",
+    "geom:latitude":32.47496,
+    "geom:longitude":-7.75571,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":8942,
+    "gn:population":8942,
+    "iso:country":"MA",
+    "lbl:latitude":32.47496,
+    "lbl:longitude":-7.75571,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0635\u062e\u0648\u0631 \u0627\u0644\u0631\u062d\u0627\u0645\u0646\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Skoura Lhadra"
+    ],
+    "name:fra_x_variant":[
+        "Skoura Lhadra (CR)",
+        "Skoura Lhadra (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545830,
+    "qs_pg:gn_pop":8942,
+    "qs_pg:name":"Skoura Lhadra",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628973,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545830,
+        "qs_pg:id":628973
+    },
+    "wof:country":"MA",
+    "wof:created":1497045081,
+    "wof:geomhash":"25763950d53a5965f8c7a18c2b156d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "localadmin_id":1125330043,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125330043,
+    "wof:lastmodified":1509388350,
+    "wof:name":"Skoura Lhadra",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"localadmin",
+    "wof:population":8942,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75571,
+    32.47496,
+    -7.75571,
+    32.47496
+],
+  "geometry": {"coordinates":[-7.75571,32.47496],"type":"Point"}
+}

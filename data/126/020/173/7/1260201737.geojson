@@ -1,0 +1,72 @@
+{
+  "id": 1260201737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.64403,30.62037,-6.64403,30.62037",
+    "geom:latitude":30.62037,
+    "geom:longitude":-6.64403,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tassawant",
+    "gn:country_code":"MA",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528920,
+    "gn:latitude":30.62037,
+    "gn:longitude":-6.64403,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tassawant",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tassouent",
+        "Tessaouent",
+        "Tassawant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528920
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c0f56a4ebddc0099beb0126e4b7d9d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1260201737,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260201737,
+    "wof:lastmodified":1537663396,
+    "wof:name":"Tassawant",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.64403,
+    30.62037,
+    -6.64403,
+    30.62037
+],
+  "geometry": {"coordinates":[-6.64403,30.62037],"type":"Point"}
+}

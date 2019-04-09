@@ -1,0 +1,67 @@
+{
+  "id": 1243256999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10306,31.96728,-9.10306,31.96728",
+    "geom:latitude":31.96728,
+    "geom:longitude":-9.10306,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jraytlat",
+    "gn:country_code":"MA",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912102,
+    "gn:latitude":31.96728,
+    "gn:longitude":-9.10306,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Jraytlat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912102
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3d1a9c2f6d15c56ead447d98eec53b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1243256999,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1243256999,
+    "wof:lastmodified":1537075550,
+    "wof:name":"Jraytlat",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10306,
+    31.96728,
+    -9.10306,
+    31.96728
+],
+  "geometry": {"coordinates":[-9.10306,31.96728],"type":"Point"}
+}

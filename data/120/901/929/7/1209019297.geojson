@@ -1,0 +1,66 @@
+{
+  "id": 1209019297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11804,30.75449,-8.11804,30.75449",
+    "geom:latitude":30.75449,
+    "geom:longitude":-8.11804,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aghbalou",
+    "gn:country_code":"MA",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557307,
+    "gn:latitude":30.75449,
+    "gn:longitude":-8.11804,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aghbalou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arbalou",
+        "Arhbalou",
+        "Aghbalou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557307
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c79886a473b402fb1933cf6b0f7f7d0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019297
+        }
+    ],
+    "wof:id":1209019297,
+    "wof:lastmodified":1537664106,
+    "wof:name":"Aghbalou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11804,
+    30.75449,
+    -8.11804,
+    30.75449
+],
+  "geometry": {"coordinates":[-8.11804,30.75449],"type":"Point"}
+}

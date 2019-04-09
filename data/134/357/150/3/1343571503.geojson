@@ -1,0 +1,72 @@
+{
+  "id": 1343571503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2917,30.61972,-9.2917,30.61972",
+    "geom:latitude":30.61972,
+    "geom:longitude":-9.2917,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tagadirt",
+    "gn:country_code":"MA",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531792,
+    "gn:latitude":30.61972,
+    "gn:longitude":-9.2917,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagadirt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dousdrem",
+        "Tagadirt n\u2019Dousdrem",
+        "Tagadirt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531792
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e77744d0ea38021bd50b32d7a6ca149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1343571503,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343571503,
+    "wof:lastmodified":1537663477,
+    "wof:name":"Tagadirt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2917,
+    30.61972,
+    -9.2917,
+    30.61972
+],
+  "geometry": {"coordinates":[-9.2917,30.61972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343865265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.64306,34.41584,-4.64306,34.41584",
+    "geom:latitude":34.41584,
+    "geom:longitude":-4.64306,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Enouaza",
+    "gn:country_code":"MA",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543443,
+    "gn:latitude":34.41584,
+    "gn:longitude":-4.64306,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Enouaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543443
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4e2f775d1351e27005b4b49a7d09f890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1343865265,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343865265,
+    "wof:lastmodified":1536659699,
+    "wof:name":"Douar Enouaza",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.64306,
+    34.41584,
+    -4.64306,
+    34.41584
+],
+  "geometry": {"coordinates":[-4.64306,34.41584],"type":"Point"}
+}

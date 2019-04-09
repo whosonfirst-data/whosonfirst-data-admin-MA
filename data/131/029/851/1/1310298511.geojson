@@ -1,0 +1,67 @@
+{
+  "id": 1310298511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81871,31.83916,-8.81871,31.83916",
+    "geom:latitude":31.83916,
+    "geom:longitude":-8.81871,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Miloud",
+    "gn:country_code":"MA",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10893408,
+    "gn:latitude":31.83916,
+    "gn:longitude":-8.81871,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Miloud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10893408
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"31b1c855d108d3c1858ff53f251db2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1310298511,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310298511,
+    "wof:lastmodified":1536718365,
+    "wof:name":"Oulad Miloud",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81871,
+    31.83916,
+    -8.81871,
+    31.83916
+],
+  "geometry": {"coordinates":[-8.81871,31.83916],"type":"Point"}
+}

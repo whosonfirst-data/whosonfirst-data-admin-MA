@@ -1,0 +1,67 @@
+{
+  "id": 1327152809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.59544,31.03411,-6.59544,31.03411",
+    "geom:latitude":31.03411,
+    "geom:longitude":-6.59544,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ouled el Hajj",
+    "gn:country_code":"MA",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538978,
+    "gn:latitude":31.03411,
+    "gn:longitude":-6.59544,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouled el Hajj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538978
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"11228eebfbc33931bbec54a84595859f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1327152809,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327152809,
+    "wof:lastmodified":1537081335,
+    "wof:name":"Ouled el Hajj",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.59544,
+    31.03411,
+    -6.59544,
+    31.03411
+],
+  "geometry": {"coordinates":[-6.59544,31.03411],"type":"Point"}
+}

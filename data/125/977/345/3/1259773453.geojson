@@ -1,0 +1,72 @@
+{
+  "id": 1259773453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.04781,31.51761,-5.04781,31.51761",
+    "geom:latitude":31.51761,
+    "geom:longitude":-5.04781,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tayarza",
+    "gn:country_code":"MA",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531352,
+    "gn:latitude":31.51761,
+    "gn:longitude":-5.04781,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tayarza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u00eferza",
+        "Ta\u00efrza",
+        "Tayarza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531352
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e709ca726aab89ebfadad657ee58b4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1259773453,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259773453,
+    "wof:lastmodified":1537663464,
+    "wof:name":"Tayarza",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.04781,
+    31.51761,
+    -5.04781,
+    31.51761
+],
+  "geometry": {"coordinates":[-5.04781,31.51761],"type":"Point"}
+}

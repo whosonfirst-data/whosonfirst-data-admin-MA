@@ -1,0 +1,67 @@
+{
+  "id": 1310097633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64103,33.08195,-8.64103,33.08195",
+    "geom:latitude":33.08195,
+    "geom:longitude":-8.64103,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Chaouia",
+    "gn:country_code":"MA",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471529,
+    "gn:latitude":33.08195,
+    "gn:longitude":-8.64103,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Oulad Chaouia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471529
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7a4e5f442acad606d86fd056e797686c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1310097633,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310097633,
+    "wof:lastmodified":1537007119,
+    "wof:name":"Oulad Chaouia",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64103,
+    33.08195,
+    -8.64103,
+    33.08195
+],
+  "geometry": {"coordinates":[-8.64103,33.08195],"type":"Point"}
+}

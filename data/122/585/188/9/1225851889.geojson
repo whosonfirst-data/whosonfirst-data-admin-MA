@@ -1,0 +1,67 @@
+{
+  "id": 1225851889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.77081,34.38086,-4.77081,34.38086",
+    "geom:latitude":34.38086,
+    "geom:longitude":-4.77081,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oulad Shmane",
+    "gn:country_code":"MA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11042533,
+    "gn:latitude":34.38086,
+    "gn:longitude":-4.77081,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Shmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11042533
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a5f13b88c8c618689b53d748095ac236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1225851889,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1225851889,
+    "wof:lastmodified":1537004014,
+    "wof:name":"Oulad Shmane",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.77081,
+    34.38086,
+    -4.77081,
+    34.38086
+],
+  "geometry": {"coordinates":[-4.77081,34.38086],"type":"Point"}
+}

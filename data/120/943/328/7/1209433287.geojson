@@ -1,0 +1,65 @@
+{
+  "id": 1209433287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55028,30.03759,-8.55028,30.03759",
+    "geom:latitude":30.03759,
+    "geom:longitude":-8.55028,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Talab Boubkar",
+    "gn:country_code":"MA",
+    "gn:dem":1731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558984,
+    "gn:latitude":30.03759,
+    "gn:longitude":-8.55028,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Talab Boubkar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Talab Boubkar",
+        "A\u00eft Taleb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558984
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"140ed302d94bba8e0c6998854e0a2529",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209433287
+        }
+    ],
+    "wof:id":1209433287,
+    "wof:lastmodified":1537664150,
+    "wof:name":"Ait Talab Boubkar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55028,
+    30.03759,
+    -8.55028,
+    30.03759
+],
+  "geometry": {"coordinates":[-8.55028,30.03759],"type":"Point"}
+}

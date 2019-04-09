@@ -1,0 +1,67 @@
+{
+  "id": 1343462167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.34308,35.72791,-5.34308,35.72791",
+    "geom:latitude":35.72791,
+    "geom:longitude":-5.34308,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar Rachid Libbad",
+    "gn:country_code":"MA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955713,
+    "gn:latitude":35.72791,
+    "gn:longitude":-5.34308,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Rachid Libbad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955713
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"35d44f6e413d30d1ae9dd8a842d91759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784777,
+            "locality_id":1343462167,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343462167,
+    "wof:lastmodified":1536743381,
+    "wof:name":"Dar Rachid Libbad",
+    "wof:parent_id":1108784777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.34308,
+    35.72790999999999,
+    -5.34308,
+    35.72790999999999
+],
+  "geometry": {"coordinates":[-5.34308,35.72790999999999],"type":"Point"}
+}

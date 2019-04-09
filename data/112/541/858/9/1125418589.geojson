@@ -1,0 +1,88 @@
+{
+  "id": 1125418589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35946,32.06634,-8.35946,32.06634",
+    "geom:latitude":32.06634,
+    "geom:longitude":-8.35946,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15915,
+    "gn:population":15915,
+    "iso:country":"MA",
+    "lbl:latitude":32.06634,
+    "lbl:longitude":-8.35946,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u062c\u0646\u0627\u0646 \u0628\u0648\u064a\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Lakhoualqa"
+    ],
+    "name:fra_x_variant":[
+        "Lakhoualqa (CR)",
+        "Lakhoualqa (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545787,
+    "qs_pg:gn_pop":15915,
+    "qs_pg:name":"Lakhoualqa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628930,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545787,
+        "qs_pg:id":628930
+    },
+    "wof:country":"MA",
+    "wof:created":1497051811,
+    "wof:geomhash":"463b62aa26ff8be9a29840b5b787b395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "localadmin_id":1125418589,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1125418589,
+    "wof:lastmodified":1509390422,
+    "wof:name":"Lakhoualqa",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"localadmin",
+    "wof:population":15915,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35946,
+    32.06634,
+    -8.35946,
+    32.06634
+],
+  "geometry": {"coordinates":[-8.35946,32.06634],"type":"Point"}
+}

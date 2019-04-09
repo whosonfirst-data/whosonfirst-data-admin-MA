@@ -1,0 +1,67 @@
+{
+  "id": 1242991265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11185,30.1479,-9.11185,30.1479",
+    "geom:latitude":30.1479,
+    "geom:longitude":-9.11185,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Takounchi",
+    "gn:country_code":"MA",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131287,
+    "gn:latitude":30.1479,
+    "gn:longitude":-9.11185,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Takounchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131287
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cadc9ee15893ba8e63763af94c05aeb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1242991265,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242991265,
+    "wof:lastmodified":1536964659,
+    "wof:name":"Takounchi",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11185,
+    30.1479,
+    -9.11185,
+    30.1479
+],
+  "geometry": {"coordinates":[-9.11185,30.1479],"type":"Point"}
+}

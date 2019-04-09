@@ -1,0 +1,70 @@
+{
+  "id": 1310215349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.10756,35.32703,-5.10756,35.32703",
+    "geom:latitude":35.32703,
+    "geom:longitude":-5.10756,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Abliq",
+    "gn:country_code":"MA",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571101,
+    "gn:latitude":35.32703,
+    "gn:longitude":-5.10756,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Abliq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ablik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571101
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"253d17fbeeaee68c5b503ca89e81689b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1310215349,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310215349,
+    "wof:lastmodified":1537664275,
+    "wof:name":"Douar Abliq",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.10756,
+    35.32703,
+    -5.10756,
+    35.32703
+],
+  "geometry": {"coordinates":[-5.10756,35.32703],"type":"Point"}
+}

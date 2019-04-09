@@ -1,0 +1,71 @@
+{
+  "id": 1277069977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.35884,32.08602,-6.35884,32.08602",
+    "geom:latitude":32.08602,
+    "geom:longitude":-6.35884,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait 'Issa Wichchou",
+    "gn:country_code":"MA",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560626,
+    "gn:latitude":32.08602,
+    "gn:longitude":-6.35884,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft \u2019Issa Wichchou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft \u2019Issa Wichchou",
+        "A\u00eft A\u00efssa Ou Ichou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560626
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"46b7aaff5cad38af96b84270e9f403b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1277069977,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1277069977,
+    "wof:lastmodified":1537664211,
+    "wof:name":"Ait 'Issa Wichchou",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.35884,
+    32.08602,
+    -6.35884,
+    32.08602
+],
+  "geometry": {"coordinates":[-6.35884,32.08602],"type":"Point"}
+}

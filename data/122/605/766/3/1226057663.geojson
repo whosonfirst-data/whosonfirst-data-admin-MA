@@ -1,0 +1,70 @@
+{
+  "id": 1226057663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74841,32.61629,-8.74841,32.61629",
+    "geom:latitude":32.61629,
+    "geom:longitude":-8.74841,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Lemraghba",
+    "gn:country_code":"MA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549512,
+    "gn:latitude":32.61629,
+    "gn:longitude":-8.74841,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lemraghba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mrhari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549512
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"99bda97502222b843f30f33576e6676d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1226057663,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226057663,
+    "wof:lastmodified":1537663837,
+    "wof:name":"Douar Lemraghba",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74841,
+    32.61629,
+    -8.74841,
+    32.61629
+],
+  "geometry": {"coordinates":[-8.74841,32.61629],"type":"Point"}
+}

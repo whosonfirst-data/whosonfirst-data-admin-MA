@@ -1,0 +1,67 @@
+{
+  "id": 1226039753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19843,32.69248,-8.19843,32.69248",
+    "geom:latitude":32.69248,
+    "geom:longitude":-8.19843,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Kharraza",
+    "gn:country_code":"MA",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10927516,
+    "gn:latitude":32.69248,
+    "gn:longitude":-8.19843,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Kharraza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10927516
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d7321c84ccc51b7889776ed70ab899c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1226039753,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226039753,
+    "wof:lastmodified":1536734042,
+    "wof:name":"Douar Kharraza",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.19843,
+    32.69248,
+    -8.19843,
+    32.69248
+],
+  "geometry": {"coordinates":[-8.19843,32.69248],"type":"Point"}
+}

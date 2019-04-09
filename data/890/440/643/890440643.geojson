@@ -1,0 +1,75 @@
+{
+  "id": 890440643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.20584,31.47353,-8.20584,31.47353",
+    "geom:latitude":31.47353,
+    "geom:longitude":-8.20584,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":11079,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0632\u0643\u062f\u0629 \u0623\u0648\u0641\u062a\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Agafay"
+    ],
+    "name:fra_x_variant":[
+        "Agafay (CR)",
+        "Agafay (Commune Rurale)"
+    ],
+    "qs:name":"Agafay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546667,
+        "qs:id":629772
+    },
+    "wof:country":"MA",
+    "wof:created":1469052291,
+    "wof:geomhash":"9febb9c77cc6c596052b1dcbaab62d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "localadmin_id":890440643,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890440643,
+    "wof:lastmodified":1505343578,
+    "wof:name":"Agafay",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"localadmin",
+    "wof:population":11079,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.20584,
+    31.47353,
+    -8.20584,
+    31.47353
+],
+  "geometry": {"coordinates":[-8.20584,31.47353],"type":"Point"}
+}

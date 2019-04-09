@@ -1,0 +1,67 @@
+{
+  "id": 1310211995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.72587,34.38127,-4.72587,34.38127",
+    "geom:latitude":34.38127,
+    "geom:longitude":-4.72587,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Mhajer",
+    "gn:country_code":"MA",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543068,
+    "gn:latitude":34.38127,
+    "gn:longitude":-4.72587,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Mhajer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543068
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0cb50db1878928b55dc7bb136087337d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1310211995,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310211995,
+    "wof:lastmodified":1536841788,
+    "wof:name":"Douar Mhajer",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.72587,
+    34.38127,
+    -4.72587,
+    34.38127
+],
+  "geometry": {"coordinates":[-4.72587,34.38127],"type":"Point"}
+}

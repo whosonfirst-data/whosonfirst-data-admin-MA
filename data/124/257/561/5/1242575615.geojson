@@ -1,0 +1,72 @@
+{
+  "id": 1242575615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07718,31.67525,-7.07718,31.67525",
+    "geom:latitude":31.67525,
+    "geom:longitude":-7.07718,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sidi Yakoub",
+    "gn:country_code":"MA",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551215,
+    "gn:latitude":31.67525,
+    "gn:longitude":-7.07718,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Sidi Yakoub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Yacoub",
+        "Douar Sidi Yakoub",
+        "Sidi Yakoub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551215
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cb7ba3196996f88620c17e8351763513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1242575615,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242575615,
+    "wof:lastmodified":1537663920,
+    "wof:name":"Sidi Yakoub",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07718,
+    31.67525,
+    -7.07718,
+    31.67525
+],
+  "geometry": {"coordinates":[-7.07718,31.67525],"type":"Point"}
+}

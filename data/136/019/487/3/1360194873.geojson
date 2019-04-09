@@ -1,0 +1,71 @@
+{
+  "id": 1360194873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.06,30.55,-6.06,30.55",
+    "geom:latitude":30.55,
+    "geom:longitude":-6.06,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ksebt el Makhzene",
+    "gn:country_code":"MA",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543963,
+    "gn:latitude":30.55,
+    "gn:longitude":-6.06,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ksebt el Makhzene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksebt el Makhzen",
+        "Ksebt el Makhzene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543963
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6371463f6bf540421c92e7367942cd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1360194873,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360194873,
+    "wof:lastmodified":1537663683,
+    "wof:name":"Ksebt el Makhzene",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.06,
+    30.55,
+    -6.06,
+    30.55
+],
+  "geometry": {"coordinates":[-6.06,30.55],"type":"Point"}
+}

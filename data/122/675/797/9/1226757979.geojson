@@ -1,0 +1,67 @@
+{
+  "id": 1226757979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.58,31.38,-6.58,31.38",
+    "geom:latitude":31.38,
+    "geom:longitude":-6.58,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Duriouroug",
+    "gn:country_code":"MA",
+    "gn:dem":2499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550975,
+    "gn:latitude":31.38,
+    "gn:longitude":-6.58,
+    "gn:modification_date":"2005-04-12",
+    "gn:name":"Duriouroug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550975
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"55b26042a191c7621728412bdfe43384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1226757979,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226757979,
+    "wof:lastmodified":1536698096,
+    "wof:name":"Duriouroug",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.58,
+    31.38,
+    -6.58,
+    31.38
+],
+  "geometry": {"coordinates":[-6.58,31.38],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293121195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21461,30.95849,-8.21461,30.95849",
+    "geom:latitude":30.95849,
+    "geom:longitude":-8.21461,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Touzountane",
+    "gn:country_code":"MA",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11144459,
+    "gn:latitude":30.95849,
+    "gn:longitude":-8.21461,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Touzountane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11144459
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cb79fffe50224cbcb0f6c5c8fc8c1fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1293121195,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293121195,
+    "wof:lastmodified":1536817385,
+    "wof:name":"Touzountane",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21461,
+    30.95849,
+    -8.21461,
+    30.95849
+],
+  "geometry": {"coordinates":[-8.21461,30.95849],"type":"Point"}
+}

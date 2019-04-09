@@ -1,0 +1,61 @@
+{
+  "id": 1209400707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.24095,32.09866,-9.24095,32.09866",
+    "geom:latitude":32.09866,
+    "geom:longitude":-9.24095,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rbaat Sidi Abdessalam",
+    "gn:country_code":"MA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948998,
+    "gn:latitude":32.09866,
+    "gn:longitude":-9.24095,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Rbaat Sidi Abdessalam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948998
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1328751548733b31b4f4128c2da2d35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209400707
+        }
+    ],
+    "wof:id":1209400707,
+    "wof:lastmodified":1536288157,
+    "wof:name":"Rbaat Sidi Abdessalam",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24095,
+    32.098659999999995,
+    -9.24095,
+    32.098659999999995
+],
+  "geometry": {"coordinates":[-9.24095,32.09866],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344067185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8495,35.13094,-3.8495,35.13094",
+    "geom:latitude":35.13094,
+    "geom:longitude":-3.8495,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Bouslama",
+    "gn:country_code":"MA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554035,
+    "gn:latitude":35.13094,
+    "gn:longitude":-3.8495,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bouslama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buselama",
+        "Bouselama",
+        "Douar Bouslama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554035
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"92cdd4677b0c31ec7f71f4e10b8fc534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1344067185,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1344067185,
+    "wof:lastmodified":1537664043,
+    "wof:name":"Douar Bouslama",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8495,
+    35.13094,
+    -3.8495,
+    35.13094
+],
+  "geometry": {"coordinates":[-3.8495,35.13094],"type":"Point"}
+}

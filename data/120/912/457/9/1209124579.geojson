@@ -1,0 +1,65 @@
+{
+  "id": 1209124579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.59887,29.31324,-9.59887,29.31324",
+    "geom:latitude":29.31324,
+    "geom:longitude":-9.59887,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tagrammout",
+    "gn:country_code":"MA",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531577,
+    "gn:latitude":29.31324,
+    "gn:longitude":-9.59887,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagrammout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iden Bella\u00efd Assi",
+        "Tagrammout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531577
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e57c1c7ea8730b8bd444555f95e8347a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209124579
+        }
+    ],
+    "wof:id":1209124579,
+    "wof:lastmodified":1537663469,
+    "wof:name":"Tagrammout",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.59887,
+    29.31324,
+    -9.59887,
+    29.31324
+],
+  "geometry": {"coordinates":[-9.59887,29.31324],"type":"Point"}
+}

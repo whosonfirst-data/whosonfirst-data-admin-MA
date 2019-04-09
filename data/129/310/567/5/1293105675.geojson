@@ -1,0 +1,67 @@
+{
+  "id": 1293105675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.36327,34.40767,-4.36327,34.40767",
+    "geom:latitude":34.40767,
+    "geom:longitude":-4.36327,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Rhaoua",
+    "gn:country_code":"MA",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11043320,
+    "gn:latitude":34.40767,
+    "gn:longitude":-4.36327,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Rhaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11043320
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6feb41a984966bc2ec542a3a7d7b088f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1293105675,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293105675,
+    "wof:lastmodified":1536839440,
+    "wof:name":"Douar Rhaoua",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.36327,
+    34.40767,
+    -4.36327,
+    34.40767
+],
+  "geometry": {"coordinates":[-4.36327,34.40767],"type":"Point"}
+}

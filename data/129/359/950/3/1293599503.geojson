@@ -1,0 +1,72 @@
+{
+  "id": 1293599503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56106,32.25525,-8.56106,32.25525",
+    "geom:latitude":32.25525,
+    "geom:longitude":-8.56106,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Friha",
+    "gn:country_code":"MA",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550447,
+    "gn:latitude":32.25525,
+    "gn:longitude":-8.56106,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Friha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Fouache",
+        "Douar el Friha",
+        "El Friha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550447
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"09388b679de145bcad59c343328a3b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1293599503,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293599503,
+    "wof:lastmodified":1537663881,
+    "wof:name":"El Friha",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56106,
+    32.25525,
+    -8.56106,
+    32.25525
+],
+  "geometry": {"coordinates":[-8.56106,32.25525],"type":"Point"}
+}

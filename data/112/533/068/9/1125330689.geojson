@@ -1,0 +1,88 @@
+{
+  "id": 1125330689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.8681,31.62305,-8.8681,31.62305",
+    "geom:latitude":31.62305,
+    "geom:longitude":-8.8681,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11764,
+    "gn:population":11764,
+    "iso:country":"MA",
+    "lbl:latitude":31.62305,
+    "lbl:longitude":-8.8681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u0646\u062a\u0627\u0646\u0648\u062a (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Ahdil"
+    ],
+    "name:fra_x_variant":[
+        "Ahdil (CR)",
+        "Ahdil (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546618,
+    "qs_pg:gn_pop":11764,
+    "qs_pg:name":"Ahdil",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629720,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546618,
+        "qs_pg:id":629720
+    },
+    "wof:country":"MA",
+    "wof:created":1497045117,
+    "wof:geomhash":"f4e5f4d1207f5eb618dbda60604622d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "localadmin_id":1125330689,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125330689,
+    "wof:lastmodified":1509388372,
+    "wof:name":"Ahdil",
+    "wof:parent_id":890440847,
+    "wof:placetype":"localadmin",
+    "wof:population":11764,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.8681,
+    31.62305,
+    -8.8681,
+    31.62305
+],
+  "geometry": {"coordinates":[-8.8681,31.62305],"type":"Point"}
+}

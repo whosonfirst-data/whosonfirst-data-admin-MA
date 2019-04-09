@@ -1,0 +1,65 @@
+{
+  "id": 1209429901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7771,31.88058,-6.7771,31.88058",
+    "geom:latitude":31.88058,
+    "geom:longitude":-6.7771,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tafdjna",
+    "gn:country_code":"MA",
+    "gn:dem":1116,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529060,
+    "gn:latitude":31.88058,
+    "gn:longitude":-6.7771,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tafdjna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teftjena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529060
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"34012c092de9acd1b9c5411188f065a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429901
+        }
+    ],
+    "wof:id":1209429901,
+    "wof:lastmodified":1537663398,
+    "wof:name":"Tafdjna",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7771,
+    31.88058,
+    -6.7771,
+    31.88058
+],
+  "geometry": {"coordinates":[-6.7771,31.88058],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310320241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25,30.48,-9.25,30.48",
+    "geom:latitude":30.48,
+    "geom:longitude":-9.25,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Ait Hassassa",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559877,
+    "gn:latitude":30.48,
+    "gn:longitude":-9.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00eft Hassassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assassa",
+        "A\u00eft Hassassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559877
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c87a57bb6a4c14996f388e952c4ff090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1310320241,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310320241,
+    "wof:lastmodified":1537664184,
+    "wof:name":"Ait Hassassa",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25,
+    30.48,
+    -9.25,
+    30.48
+],
+  "geometry": {"coordinates":[-9.25,30.48],"type":"Point"}
+}

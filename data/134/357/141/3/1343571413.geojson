@@ -1,0 +1,72 @@
+{
+  "id": 1343571413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09976,30.48761,-9.09976,30.48761",
+    "geom:latitude":30.48761,
+    "geom:longitude":-9.09976,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Naouji Et Tahtaniine",
+    "gn:country_code":"MA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541427,
+    "gn:latitude":30.48761,
+    "gn:longitude":-9.09976,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Naouji Et Tahtaniine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nouaji",
+        "Najaji el Ghrartigne",
+        "Naouji Et Tahtaniine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541427
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5aec6d1cd212b188ed59fd8433176eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1343571413,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343571413,
+    "wof:lastmodified":1537663638,
+    "wof:name":"Naouji Et Tahtaniine",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09976,
+    30.48761,
+    -9.09976,
+    30.48761
+],
+  "geometry": {"coordinates":[-9.09976,30.48761],"type":"Point"}
+}

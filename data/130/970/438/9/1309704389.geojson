@@ -1,0 +1,67 @@
+{
+  "id": 1309704389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75795,32.75395,-7.75795,32.75395",
+    "geom:latitude":32.75395,
+    "geom:longitude":-7.75795,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Slimane",
+    "gn:country_code":"MA",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11368800,
+    "gn:latitude":32.75395,
+    "gn:longitude":-7.75795,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Slimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11368800
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fd01e590e54f9eb1b5d4d60261628643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1309704389,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1309704389,
+    "wof:lastmodified":1537074309,
+    "wof:name":"Oulad Slimane",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75795,
+    32.75395,
+    -7.75795,
+    32.75395
+],
+  "geometry": {"coordinates":[-7.75795,32.75395],"type":"Point"}
+}

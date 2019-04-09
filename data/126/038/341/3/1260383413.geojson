@@ -1,0 +1,67 @@
+{
+  "id": 1260383413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22081,33.36139,-7.22081,33.36139",
+    "geom:latitude":33.36139,
+    "geom:longitude":-7.22081,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Leabadla",
+    "gn:country_code":"MA",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10938574,
+    "gn:latitude":33.36139,
+    "gn:longitude":-7.22081,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Leabadla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10938574
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f5b0053bd2d0dd517b43cb9a67410a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1260383413,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1260383413,
+    "wof:lastmodified":1537072019,
+    "wof:name":"Leabadla",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22081,
+    33.36139,
+    -7.22081,
+    33.36139
+],
+  "geometry": {"coordinates":[-7.22081,33.36139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226262981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.39002,31.72371,-9.39002,31.72371",
+    "geom:latitude":31.72371,
+    "geom:longitude":-9.39002,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Essouamra",
+    "gn:country_code":"MA",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10947163,
+    "gn:latitude":31.72371,
+    "gn:longitude":-9.39002,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Essouamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10947163
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5eb3bd029daa99acd7bae2fc4469c036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1226262981,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226262981,
+    "wof:lastmodified":1536909156,
+    "wof:name":"Douar Essouamra",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.39002,
+    31.72371,
+    -9.39002,
+    31.72371
+],
+  "geometry": {"coordinates":[-9.39002,31.72371],"type":"Point"}
+}

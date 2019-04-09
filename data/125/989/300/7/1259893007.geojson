@@ -1,0 +1,67 @@
+{
+  "id": 1259893007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.08344,35.25296,-6.08344,35.25296",
+    "geom:latitude":35.25296,
+    "geom:longitude":-6.08344,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Soayta",
+    "gn:country_code":"MA",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969919,
+    "gn:latitude":35.25296,
+    "gn:longitude":-6.08344,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Soayta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969919
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"301a13cc6407d364e89effb8bcac9406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1259893007,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259893007,
+    "wof:lastmodified":1536765736,
+    "wof:name":"Douar Soayta",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.08344,
+    35.25295999999999,
+    -6.08344,
+    35.25295999999999
+],
+  "geometry": {"coordinates":[-6.08344,35.25295999999999],"type":"Point"}
+}

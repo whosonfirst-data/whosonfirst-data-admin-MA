@@ -1,0 +1,74 @@
+{
+  "id": 1243469357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64516,32.2362,-8.64516,32.2362",
+    "geom:latitude":32.2362,
+    "geom:longitude":-8.64516,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rbaat Ben El Narbmi",
+    "gn:country_code":"MA",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551366,
+    "gn:latitude":32.2362,
+    "gn:longitude":-8.64516,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Rbaat Ben El Narbmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Naceur",
+        "Douar Oulad Naceur",
+        "Oulad Mira",
+        "Douar Oulad Nasser",
+        "Rbaat Ben El Narbmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551366
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"20d23067ed35df9f250aa9930d9bfeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1243469357,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1243469357,
+    "wof:lastmodified":1537663932,
+    "wof:name":"Rbaat Ben El Narbmi",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64516,
+    32.2362,
+    -8.64516,
+    32.2362
+],
+  "geometry": {"coordinates":[-8.64516,32.2362],"type":"Point"}
+}

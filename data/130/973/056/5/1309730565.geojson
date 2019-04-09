@@ -1,0 +1,67 @@
+{
+  "id": 1309730565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.22042,35.35812,-5.22042,35.35812",
+    "geom:latitude":35.35812,
+    "geom:longitude":-5.22042,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Agbato",
+    "gn:country_code":"MA",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561550,
+    "gn:latitude":35.35812,
+    "gn:longitude":-5.22042,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agbato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561550
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4e5aaa9fe62b7cd76f62d498ee048a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1309730565,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1309730565,
+    "wof:lastmodified":1537037907,
+    "wof:name":"Agbato",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.22042,
+    35.35812,
+    -5.22042,
+    35.35812
+],
+  "geometry": {"coordinates":[-5.22042,35.35812],"type":"Point"}
+}

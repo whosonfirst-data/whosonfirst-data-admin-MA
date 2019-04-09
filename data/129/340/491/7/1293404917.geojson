@@ -1,0 +1,72 @@
+{
+  "id": 1293404917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.46071,32.26134,-5.46071,32.26134",
+    "geom:latitude":32.26134,
+    "geom:longitude":-5.46071,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tawarghist",
+    "gn:country_code":"MA",
+    "gn:dem":2449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565286,
+    "gn:latitude":32.26134,
+    "gn:longitude":-5.46071,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Tawarghist",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taouarghist",
+        "Tizi Taourhist",
+        "Tizi Taoughist"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565286
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3518e294692cef58fa81b8df6b278473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1293404917,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293404917,
+    "wof:lastmodified":1537664262,
+    "wof:name":"Tawarghist",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.46071,
+    32.26134,
+    -5.46071,
+    32.26134
+],
+  "geometry": {"coordinates":[-5.46071,32.26134],"type":"Point"}
+}

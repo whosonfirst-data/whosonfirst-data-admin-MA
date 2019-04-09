@@ -1,0 +1,67 @@
+{
+  "id": 1193150093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.61663,35.38646,-5.61663,35.38646",
+    "geom:latitude":35.38646,
+    "geom:longitude":-5.61663,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bou Daalane",
+    "gn:country_code":"MA",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11043509,
+    "gn:latitude":35.38646,
+    "gn:longitude":-5.61663,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bou Daalane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11043509
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f4a3e12595a198f6f4a1a47b15c8089f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1193150093,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1193150093,
+    "wof:lastmodified":1536379154,
+    "wof:name":"Bou Daalane",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.61663,
+    35.38646,
+    -5.61663,
+    35.38646
+],
+  "geometry": {"coordinates":[-5.61663,35.38646],"type":"Point"}
+}

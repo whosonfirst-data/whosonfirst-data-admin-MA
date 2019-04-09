@@ -1,0 +1,67 @@
+{
+  "id": 1327334741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.27349,33.75666,-5.27349,33.75666",
+    "geom:latitude":33.75666,
+    "geom:longitude":-5.27349,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dar Omar Lgellaf",
+    "gn:country_code":"MA",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024640,
+    "gn:latitude":33.75666,
+    "gn:longitude":-5.27349,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Omar Lgellaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024640
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f4e40a4315ad30e76e71ae64f8495901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1327334741,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327334741,
+    "wof:lastmodified":1536820956,
+    "wof:name":"Dar Omar Lgellaf",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.27349,
+    33.75666,
+    -5.27349,
+    33.75666
+],
+  "geometry": {"coordinates":[-5.27349,33.75666],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209633737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98914,32.29346,-8.98914,32.29346",
+    "geom:latitude":32.29346,
+    "geom:longitude":-8.98914,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lekroucha",
+    "gn:country_code":"MA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549954,
+    "gn:latitude":32.29346,
+    "gn:longitude":-8.98914,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lekroucha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kraouta",
+        "El Kraouta",
+        "El Khaouta",
+        "Douar Lekroucha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549954
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ae9edac7b66d47b09001c15966b6dfaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633737
+        }
+    ],
+    "wof:id":1209633737,
+    "wof:lastmodified":1537663858,
+    "wof:name":"Douar Lekroucha",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98914,
+    32.29346,
+    -8.98914,
+    32.29346
+],
+  "geometry": {"coordinates":[-8.98914,32.29346],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125330055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.35797,30.20763,-9.35797,30.20763",
+    "geom:latitude":30.20763,
+    "geom:longitude":-9.35797,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":39335,
+    "gn:population":56547,
+    "iso:country":"MA",
+    "lbl:latitude":30.20763,
+    "lbl:longitude":-9.35797,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u064a \u0645\u0642\u0648\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ouad Essafa"
+    ],
+    "name:fra_x_variant":[
+        "Ouad Essafa (CR)",
+        "Ouad Essafa (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545832,
+    "qs_pg:gn_pop":39335,
+    "qs_pg:name":"Ouad Essafa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":628975,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545832,
+        "qs_pg:id":628975
+    },
+    "wof:country":"MA",
+    "wof:created":1497045083,
+    "wof:geomhash":"87d52b120b0233fa3cec98756d8bb1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "localadmin_id":1125330055,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125330055,
+    "wof:lastmodified":1509388350,
+    "wof:name":"Ouad Essafa",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"localadmin",
+    "wof:population":56547,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.35797,
+    30.20763,
+    -9.35797,
+    30.20763
+],
+  "geometry": {"coordinates":[-9.35797,30.20763],"type":"Point"}
+}

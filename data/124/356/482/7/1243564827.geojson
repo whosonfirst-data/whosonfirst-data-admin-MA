@@ -1,0 +1,71 @@
+{
+  "id": 1243564827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.87812,35.47464,-5.87812,35.47464",
+    "geom:latitude":35.47464,
+    "geom:longitude":-5.87812,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oulad Sidi Abdelkader",
+    "gn:country_code":"MA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539254,
+    "gn:latitude":35.47464,
+    "gn:longitude":-5.87812,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Sidi Abdelkader",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kader",
+        "Oulad Sidi Abdelkader"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539254
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4d4be8e3ea42f5e156c8cb20036d0b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1243564827,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243564827,
+    "wof:lastmodified":1537663560,
+    "wof:name":"Oulad Sidi Abdelkader",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.87812,
+    35.47464,
+    -5.87812,
+    35.47464
+],
+  "geometry": {"coordinates":[-5.87812,35.47464],"type":"Point"}
+}

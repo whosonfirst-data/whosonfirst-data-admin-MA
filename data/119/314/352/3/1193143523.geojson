@@ -1,0 +1,67 @@
+{
+  "id": 1193143523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.70638,34.19155,-4.70638,34.19155",
+    "geom:latitude":34.19155,
+    "geom:longitude":-4.70638,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Hamdadat",
+    "gn:country_code":"MA",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10993190,
+    "gn:latitude":34.19155,
+    "gn:longitude":-4.70638,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Hamdadat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10993190
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"881315f92759ba5415fcc222e95cf5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1193143523,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1193143523,
+    "wof:lastmodified":1536364254,
+    "wof:name":"Douar Hamdadat",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.70638,
+    34.19155,
+    -4.70638,
+    34.19155
+],
+  "geometry": {"coordinates":[-4.70638,34.19155],"type":"Point"}
+}

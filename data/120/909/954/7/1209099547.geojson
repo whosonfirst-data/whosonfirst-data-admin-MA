@@ -1,0 +1,65 @@
+{
+  "id": 1209099547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.17601,32.44286,-9.17601,32.44286",
+    "geom:latitude":32.44286,
+    "geom:longitude":-9.17601,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aouint Sidi Ben Lbaraka",
+    "gn:country_code":"MA",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10634550,
+    "gn:latitude":32.44286,
+    "gn:longitude":-9.17601,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Aouint Sidi Ben Lbaraka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Bel Baraka",
+        "Sidi Balbarakat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10634550
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fc9aa412d9baf09eb35de116410ccd73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209099547
+        }
+    ],
+    "wof:id":1209099547,
+    "wof:lastmodified":1537664293,
+    "wof:name":"Aouint Sidi Ben Lbaraka",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.17601,
+    32.44286,
+    -9.17601,
+    32.44286
+],
+  "geometry": {"coordinates":[-9.17601,32.44286],"type":"Point"}
+}

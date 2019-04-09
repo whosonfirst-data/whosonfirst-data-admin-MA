@@ -1,0 +1,72 @@
+{
+  "id": 1343655121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22924,31.52004,-8.22924,31.52004",
+    "geom:latitude":31.52004,
+    "geom:longitude":-8.22924,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Moulay Brahim",
+    "gn:country_code":"MA",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541827,
+    "gn:latitude":31.52004,
+    "gn:longitude":-8.22924,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Moulay Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Moulay Brahim",
+        "A\u00eft Brahim",
+        "Moulay Brahim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541827
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0104904d8e6a657997fa98df77da9541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1343655121,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343655121,
+    "wof:lastmodified":1537663645,
+    "wof:name":"Moulay Brahim",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22924,
+    31.52004,
+    -8.22924,
+    31.52004
+],
+  "geometry": {"coordinates":[-8.22924,31.52004],"type":"Point"}
+}

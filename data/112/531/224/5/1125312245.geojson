@@ -1,0 +1,88 @@
+{
+  "id": 1125312245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.76409,32.86823,-7.76409,32.86823",
+    "geom:latitude":32.86823,
+    "geom:longitude":-7.76409,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":5722,
+    "gn:population":5527,
+    "iso:country":"MA",
+    "lbl:latitude":32.86823,
+    "lbl:longitude":-7.76409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0633\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Khemisset Chaouia"
+    ],
+    "name:fra_x_variant":[
+        "Khemisset Chaouia (CR)",
+        "Khemisset Chaouia (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545601,
+    "qs_pg:gn_pop":5722,
+    "qs_pg:name":"Khemisset Chaouia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628741,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545601,
+        "qs_pg:id":628741
+    },
+    "wof:country":"MA",
+    "wof:created":1497044066,
+    "wof:geomhash":"c2270be7d28e03648aef97394a02b98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":1125312245,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1125312245,
+    "wof:lastmodified":1509387917,
+    "wof:name":"Khemisset Chaouia",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":5527,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76409,
+    32.86823,
+    -7.76409,
+    32.86823
+],
+  "geometry": {"coordinates":[-7.76409,32.86823],"type":"Point"}
+}

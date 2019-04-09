@@ -1,0 +1,61 @@
+{
+  "id": 1209608501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.13587,32.4861,-8.13587,32.4861",
+    "geom:latitude":32.4861,
+    "geom:longitude":-8.13587,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Jbel",
+    "gn:country_code":"MA",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794879,
+    "gn:latitude":32.4861,
+    "gn:longitude":-8.13587,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Jbel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794879
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0a0deb080bf5940857897a92a41ea5c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209608501
+        }
+    ],
+    "wof:id":1209608501,
+    "wof:lastmodified":1536281927,
+    "wof:name":"Douar Jbel",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.135869999999999,
+    32.4861,
+    -8.135869999999999,
+    32.4861
+],
+  "geometry": {"coordinates":[-8.13587,32.4861],"type":"Point"}
+}

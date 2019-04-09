@@ -1,0 +1,67 @@
+{
+  "id": 1226235819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14032,31.6051,-8.14032,31.6051",
+    "geom:latitude":31.6051,
+    "geom:longitude":-8.14032,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar al Bacha",
+    "gn:country_code":"MA",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10971039,
+    "gn:latitude":31.6051,
+    "gn:longitude":-8.14032,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar al Bacha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10971039
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"de2d44ff4b0ea234ec65288005a5e33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1226235819,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226235819,
+    "wof:lastmodified":1536948274,
+    "wof:name":"Douar al Bacha",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14032,
+    31.6051,
+    -8.14032,
+    31.6051
+],
+  "geometry": {"coordinates":[-8.14032,31.6051],"type":"Point"}
+}

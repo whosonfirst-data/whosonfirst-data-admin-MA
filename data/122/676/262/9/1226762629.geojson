@@ -1,0 +1,72 @@
+{
+  "id": 1226762629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.40251,34.79268,-5.40251,34.79268",
+    "geom:latitude":34.79268,
+    "geom:longitude":-5.40251,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Aassara",
+    "gn:country_code":"MA",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562213,
+    "gn:latitude":34.79268,
+    "gn:longitude":-5.40251,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aassara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assara",
+        "Aassera",
+        "Aassara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562213
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b932c3536960547d32a127ddbfc72c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1226762629,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226762629,
+    "wof:lastmodified":1537664256,
+    "wof:name":"Aassara",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.40251,
+    34.79268,
+    -5.40251,
+    34.79268
+],
+  "geometry": {"coordinates":[-5.40251,34.79268],"type":"Point"}
+}

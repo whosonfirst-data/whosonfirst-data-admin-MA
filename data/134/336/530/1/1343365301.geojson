@@ -1,0 +1,67 @@
+{
+  "id": 1343365301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.53271,33.95338,-4.53271,33.95338",
+    "geom:latitude":33.95338,
+    "geom:longitude":-4.53271,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Messoussa",
+    "gn:country_code":"MA",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983881,
+    "gn:latitude":33.95338,
+    "gn:longitude":-4.53271,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Messoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983881
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aa55086272945d28a456908c1e760af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1343365301,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343365301,
+    "wof:lastmodified":1536882829,
+    "wof:name":"Messoussa",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.53271,
+    33.95338,
+    -4.53271,
+    33.95338
+],
+  "geometry": {"coordinates":[-4.53271,33.95338],"type":"Point"}
+}

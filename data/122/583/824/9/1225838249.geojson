@@ -1,0 +1,67 @@
+{
+  "id": 1225838249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7681,32.5064,-6.7681,32.5064",
+    "geom:latitude":32.5064,
+    "geom:longitude":-6.7681,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oulad Reguida",
+    "gn:country_code":"MA",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436270,
+    "gn:latitude":32.5064,
+    "gn:longitude":-6.7681,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Oulad Reguida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436270
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"35f273c16422492b7e095872b1e750c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "locality_id":1225838249,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1225838249,
+    "wof:lastmodified":1537023470,
+    "wof:name":"Oulad Reguida",
+    "wof:parent_id":1108784787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7681,
+    32.5064,
+    -6.7681,
+    32.5064
+],
+  "geometry": {"coordinates":[-6.7681,32.5064],"type":"Point"}
+}

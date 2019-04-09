@@ -1,0 +1,67 @@
+{
+  "id": 1260165025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45634,30.63327,-8.45634,30.63327",
+    "geom:latitude":30.63327,
+    "geom:longitude":-8.45634,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Al Barj",
+    "gn:country_code":"MA",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11144328,
+    "gn:latitude":30.63327,
+    "gn:longitude":-8.45634,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Al Barj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11144328
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9953b0876d3d06232b6e41b9ae7458f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1260165025,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260165025,
+    "wof:lastmodified":1536872317,
+    "wof:name":"Al Barj",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45634,
+    30.63327,
+    -8.45634,
+    30.63327
+],
+  "geometry": {"coordinates":[-8.45634,30.63327],"type":"Point"}
+}

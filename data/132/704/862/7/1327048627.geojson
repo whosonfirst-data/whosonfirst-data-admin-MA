@@ -1,0 +1,72 @@
+{
+  "id": 1327048627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.03831,32.5912,-5.03831,32.5912",
+    "geom:latitude":32.5912,
+    "geom:longitude":-5.03831,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Douar Ayt Sidi Bou Moussa",
+    "gn:country_code":"MA",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526276,
+    "gn:latitude":32.5912,
+    "gn:longitude":-5.03831,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Douar Ayt Sidi Bou Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft sidi bou Moussa",
+        "Zaouia Sidi Bou Moussa",
+        "Douar Ayt Sidi Bou Moussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526276
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9bfb63b438371b6fd390675212a60607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1327048627,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327048627,
+    "wof:lastmodified":1537663319,
+    "wof:name":"Douar Ayt Sidi Bou Moussa",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.03831,
+    32.5912,
+    -5.03831,
+    32.5912
+],
+  "geometry": {"coordinates":[-5.03831,32.5912],"type":"Point"}
+}

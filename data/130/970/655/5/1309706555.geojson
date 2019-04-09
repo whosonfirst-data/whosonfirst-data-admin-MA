@@ -1,0 +1,67 @@
+{
+  "id": 1309706555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.30872,30.47186,-9.30872,30.47186",
+    "geom:latitude":30.47186,
+    "geom:longitude":-9.30872,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Sidi Abbou",
+    "gn:country_code":"MA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869511,
+    "gn:latitude":30.47186,
+    "gn:longitude":-9.30872,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Sidi Abbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869511
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1409ca0a1255a4133f97f7d507508317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1309706555,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309706555,
+    "wof:lastmodified":1537071159,
+    "wof:name":"Ait Sidi Abbou",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.30872,
+    30.47186,
+    -9.30872,
+    30.47186
+],
+  "geometry": {"coordinates":[-9.30872,30.47186],"type":"Point"}
+}

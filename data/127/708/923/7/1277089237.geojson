@@ -1,0 +1,67 @@
+{
+  "id": 1277089237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.65507,31.31824,-5.65507,31.31824",
+    "geom:latitude":31.31824,
+    "geom:longitude":-5.65507,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tirza",
+    "gn:country_code":"MA",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596258,
+    "gn:latitude":31.31824,
+    "gn:longitude":-5.65507,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Tirza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596258
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"685db2455dc09aa8d0c795a27a3fdc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1277089237,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1277089237,
+    "wof:lastmodified":1536758307,
+    "wof:name":"Tirza",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.65507,
+    31.31824000000001,
+    -5.65507,
+    31.31824000000001
+],
+  "geometry": {"coordinates":[-5.65507,31.31824000000001],"type":"Point"}
+}

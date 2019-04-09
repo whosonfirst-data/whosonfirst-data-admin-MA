@@ -1,0 +1,66 @@
+{
+  "id": 1209625493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.90391,29.43164,-9.90391,29.43164",
+    "geom:latitude":29.43164,
+    "geom:longitude":-9.90391,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Bou Lahsene",
+    "gn:country_code":"MA",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531060,
+    "gn:latitude":29.43164,
+    "gn:longitude":-9.90391,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Bou Lahsene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taleb U Lahsen",
+        "Sidi Lahsen U Ali",
+        "Sidi El Lahsen U Ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531060
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b0f98371a672db3ccd24f0b2506c6dc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625493
+        }
+    ],
+    "wof:id":1209625493,
+    "wof:lastmodified":1537663455,
+    "wof:name":"Id Bou Lahsene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.90391,
+    29.43164,
+    -9.90391,
+    29.43164
+],
+  "geometry": {"coordinates":[-9.90391,29.43164],"type":"Point"}
+}

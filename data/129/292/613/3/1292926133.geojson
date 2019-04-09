@@ -1,0 +1,67 @@
+{
+  "id": 1292926133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.97693,32.19324,-8.97693,32.19324",
+    "geom:latitude":32.19324,
+    "geom:longitude":-8.97693,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Laamimat",
+    "gn:country_code":"MA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637559,
+    "gn:latitude":32.19324,
+    "gn:longitude":-8.97693,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laamimat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637559
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eb60e9048142ef956e8f312d3f6fb5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1292926133,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1292926133,
+    "wof:lastmodified":1537096187,
+    "wof:name":"Douar Laamimat",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.97693,
+    32.19324,
+    -8.97693,
+    32.19324
+],
+  "geometry": {"coordinates":[-8.97693,32.19324],"type":"Point"}
+}

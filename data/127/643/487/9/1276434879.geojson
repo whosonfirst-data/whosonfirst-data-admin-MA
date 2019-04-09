@@ -1,0 +1,67 @@
+{
+  "id": 1276434879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.67142,31.24794,-9.67142,31.24794",
+    "geom:latitude":31.24794,
+    "geom:longitude":-9.67142,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Talatnine",
+    "gn:country_code":"MA",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945959,
+    "gn:latitude":31.24794,
+    "gn:longitude":-9.67142,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Talatnine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945959
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b700a0fe9fcde08e94a291f9c0a0774d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1276434879,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276434879,
+    "wof:lastmodified":1536641760,
+    "wof:name":"Talatnine",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.67142,
+    31.24794,
+    -9.67142,
+    31.24794
+],
+  "geometry": {"coordinates":[-9.67142,31.24794],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226161491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.40413,29.85287,-9.40413,29.85287",
+    "geom:latitude":29.85287,
+    "geom:longitude":-9.40413,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Laqcibt n'Tallaght",
+    "gn:country_code":"MA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544718,
+    "gn:latitude":29.85287,
+    "gn:longitude":-9.40413,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Laq\u00e7ibt n\u2019Tallaght",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laq\u00e7ibt n\u2019Tallaght",
+        "Kasba Talhart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544718
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8b6f32646d6c3d16a3ae8537336dd03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1226161491,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226161491,
+    "wof:lastmodified":1537663699,
+    "wof:name":"Laqcibt n'Tallaght",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.40413,
+    29.85287000000001,
+    -9.40413,
+    29.85287000000001
+],
+  "geometry": {"coordinates":[-9.40413,29.85287000000001],"type":"Point"}
+}

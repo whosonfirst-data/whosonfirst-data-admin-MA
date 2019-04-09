@@ -1,0 +1,78 @@
+{
+  "id": 890423853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29907,31.33113,-8.29907,31.33113",
+    "geom:latitude":31.33113,
+    "geom:longitude":-8.29907,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5551,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0632\u0643\u064a\u0637\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Mtaa"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Mtaa (CR)",
+        "Oulad Mtaa (Commune Rurale)"
+    ],
+    "qs:name":"Oulad Mtaa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545802,
+        "qs:id":628945,
+        "wd:id":"Q7110417",
+        "wk:page":"Oulad Mtaa"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051517,
+    "wof:geomhash":"300182c747b63838309df35ea79b0b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "localadmin_id":890423853,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890423853,
+    "wof:lastmodified":1527727274,
+    "wof:name":"Oulad Mtaa",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"localadmin",
+    "wof:population":5551,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29907,
+    31.33113,
+    -8.29907,
+    31.33113
+],
+  "geometry": {"coordinates":[-8.29907,31.33113],"type":"Point"}
+}

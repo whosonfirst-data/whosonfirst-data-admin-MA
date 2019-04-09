@@ -1,0 +1,70 @@
+{
+  "id": 1293113535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.22962,34.33316,-4.22962,34.33316",
+    "geom:latitude":34.33316,
+    "geom:longitude":-4.22962,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Dardara",
+    "gn:country_code":"MA",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552839,
+    "gn:latitude":34.33316,
+    "gn:longitude":-4.22962,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Dardara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dardara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552839
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"402ed150c5bdf7e372fc14f00323aff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1293113535,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293113535,
+    "wof:lastmodified":1537664015,
+    "wof:name":"Douar Dardara",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.22962,
+    34.33316,
+    -4.22962,
+    34.33316
+],
+  "geometry": {"coordinates":[-4.22962,34.33316],"type":"Point"}
+}

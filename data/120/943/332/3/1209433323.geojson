@@ -1,0 +1,66 @@
+{
+  "id": 1209433323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21,30.01,-9.21,30.01",
+    "geom:latitude":30.01,
+    "geom:longitude":-9.21,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Afayane",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561830,
+    "gn:latitude":30.01,
+    "gn:longitude":-9.21,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Afayane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afa\u00efane",
+        "Afayane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561830
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7ae2b76e7fc421a1960a3e70ae201e5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209433323
+        }
+    ],
+    "wof:id":1209433323,
+    "wof:lastmodified":1537664248,
+    "wof:name":"Afayane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21,
+    30.01,
+    -9.21,
+    30.01
+],
+  "geometry": {"coordinates":[-9.21,30.01],"type":"Point"}
+}

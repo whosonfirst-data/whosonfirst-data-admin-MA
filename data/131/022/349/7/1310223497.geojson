@@ -1,0 +1,71 @@
+{
+  "id": 1310223497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.93,29.43,-9.93,29.43",
+    "geom:latitude":29.43,
+    "geom:longitude":-9.93,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Iguzaren",
+    "gn:country_code":"MA",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546606,
+    "gn:latitude":29.43,
+    "gn:longitude":-9.93,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Iguzaren",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guzaren",
+        "Iguzaren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546606
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b443b59699135b576de9cdce36bc868e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1310223497,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310223497,
+    "wof:lastmodified":1537663762,
+    "wof:name":"Iguzaren",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.93,
+    29.43,
+    -9.93,
+    29.43
+],
+  "geometry": {"coordinates":[-9.93,29.43],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327144763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93489,30.52723,-8.93489,30.52723",
+    "geom:latitude":30.52723,
+    "geom:longitude":-8.93489,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Oulad Salem",
+    "gn:country_code":"MA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539294,
+    "gn:latitude":30.52723,
+    "gn:longitude":-8.93489,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Salem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539294
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"72dd404f98a7460b0fca6bd908f7464a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1327144763,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327144763,
+    "wof:lastmodified":1537092799,
+    "wof:name":"Oulad Salem",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93489,
+    30.52723,
+    -8.93489,
+    30.52723
+],
+  "geometry": {"coordinates":[-8.93489,30.52723],"type":"Point"}
+}

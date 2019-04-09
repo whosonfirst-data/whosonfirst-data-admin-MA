@@ -1,0 +1,78 @@
+{
+  "id": 890435531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77032,32.26025,-5.77032,32.26025",
+    "geom:latitude":32.26025,
+    "geom:longitude":-5.77032,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":6333,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0623\u0645 \u0627\u0644\u0628\u062e\u062b"
+    ],
+    "name:fra_x_preferred":[
+        "Boutferda"
+    ],
+    "name:fra_x_variant":[
+        "Boutferda (CR)",
+        "Boutferda (Commune Rurale)"
+    ],
+    "qs:name":"Boutferda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545541,
+        "qs:id":628683,
+        "wd:id":"Q4950440",
+        "wk:page":"Boutferda"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052071,
+    "wof:geomhash":"6c3dc9c07fd085b6aafbac129b9157ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "localadmin_id":890435531,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890435531,
+    "wof:lastmodified":1527793049,
+    "wof:name":"Boutferda",
+    "wof:parent_id":890452779,
+    "wof:placetype":"localadmin",
+    "wof:population":6333,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77032,
+    32.26025,
+    -5.77032,
+    32.26025
+],
+  "geometry": {"coordinates":[-5.77032,32.26025],"type":"Point"}
+}

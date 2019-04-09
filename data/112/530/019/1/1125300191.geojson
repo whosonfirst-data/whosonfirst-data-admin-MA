@@ -1,0 +1,88 @@
+{
+  "id": 1125300191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.49508,35.14316,-3.49508,35.14316",
+    "geom:latitude":35.14316,
+    "geom:longitude":-3.49508,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3232,
+    "gn:population":3232,
+    "iso:country":"MA",
+    "lbl:latitude":35.14316,
+    "lbl:longitude":-3.49508,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0636\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "M Hajer"
+    ],
+    "name:fra_x_variant":[
+        "M Hajer (CR)",
+        "M Hajer (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547060,
+    "qs_pg:gn_pop":3232,
+    "qs_pg:name":"M Hajer",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":630139,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547060,
+        "qs_pg:id":630139
+    },
+    "wof:country":"MA",
+    "wof:created":1497043378,
+    "wof:geomhash":"8c3adfdafb4e1a1e6d330d0374d12570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "localadmin_id":1125300191,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1125300191,
+    "wof:lastmodified":1509387697,
+    "wof:name":"M Hajer",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"localadmin",
+    "wof:population":3232,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.49508,
+    35.14316,
+    -3.49508,
+    35.14316
+],
+  "geometry": {"coordinates":[-3.49508,35.14316],"type":"Point"}
+}

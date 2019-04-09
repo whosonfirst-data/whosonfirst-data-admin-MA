@@ -1,0 +1,67 @@
+{
+  "id": 1210040007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.56819,34.09834,-6.56819,34.09834",
+    "geom:latitude":34.09834,
+    "geom:longitude":-6.56819,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Taleb Lahouabra",
+    "gn:country_code":"MA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10937490,
+    "gn:latitude":34.09834,
+    "gn:longitude":-6.56819,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Taleb Lahouabra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10937490
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8dd4f6624a2956b9c0e8a4c487b57f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":1210040007,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1210040007,
+    "wof:lastmodified":1536384731,
+    "wof:name":"Oulad Taleb Lahouabra",
+    "wof:parent_id":1108784811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.56819,
+    34.09834,
+    -6.56819,
+    34.09834
+],
+  "geometry": {"coordinates":[-6.56819,34.09834],"type":"Point"}
+}

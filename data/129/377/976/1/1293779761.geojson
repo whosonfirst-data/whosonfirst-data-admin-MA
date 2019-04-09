@@ -1,0 +1,67 @@
+{
+  "id": 1293779761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68598,31.32337,-8.68598,31.32337",
+    "geom:latitude":31.32337,
+    "geom:longitude":-8.68598,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ahl el Mahdi",
+    "gn:country_code":"MA",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950082,
+    "gn:latitude":31.32337,
+    "gn:longitude":-8.68598,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ahl el Mahdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950082
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"603d1f7e6954e513116edcbe1335f999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1293779761,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293779761,
+    "wof:lastmodified":1536861398,
+    "wof:name":"Ahl el Mahdi",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68598,
+    31.32337,
+    -8.68598,
+    31.32337
+],
+  "geometry": {"coordinates":[-8.68598,31.32337],"type":"Point"}
+}

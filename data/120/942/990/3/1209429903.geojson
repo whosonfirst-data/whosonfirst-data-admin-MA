@@ -1,0 +1,65 @@
+{
+  "id": 1209429903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.73405,30.87798,-9.73405,30.87798",
+    "geom:latitude":30.87798,
+    "geom:longitude":-9.73405,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bazzou",
+    "gn:country_code":"MA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568230,
+    "gn:latitude":30.87798,
+    "gn:longitude":-9.73405,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"B\u00e2zzou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e2zzou",
+        "Bazzou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568230
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7b7a4bdda93ed2d50f08d9c4e2ba8dba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429903
+        }
+    ],
+    "wof:id":1209429903,
+    "wof:lastmodified":1537664265,
+    "wof:name":"Bazzou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.73405,
+    30.87798,
+    -9.73405,
+    30.87798
+],
+  "geometry": {"coordinates":[-9.73405,30.87798],"type":"Point"}
+}

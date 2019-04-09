@@ -1,0 +1,65 @@
+{
+  "id": 1209525637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99149,30.37074,-7.99149,30.37074",
+    "geom:latitude":30.37074,
+    "geom:longitude":-7.99149,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tazount",
+    "gn:country_code":"MA",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529136,
+    "gn:latitude":30.37074,
+    "gn:longitude":-7.99149,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tazount",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazoun",
+        "Tazount"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529136
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"23ac136e6a46b3c2ae42e8d5bb9c9c47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525637
+        }
+    ],
+    "wof:id":1209525637,
+    "wof:lastmodified":1537663401,
+    "wof:name":"Tazount",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99149,
+    30.37074,
+    -7.99149,
+    30.37074
+],
+  "geometry": {"coordinates":[-7.99149,30.37074],"type":"Point"}
+}

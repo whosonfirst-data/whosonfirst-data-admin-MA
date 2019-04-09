@@ -1,0 +1,67 @@
+{
+  "id": 1226528197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65629,32.17876,-8.65629,32.17876",
+    "geom:latitude":32.17876,
+    "geom:longitude":-8.65629,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kaynar Benrahsil",
+    "gn:country_code":"MA",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10638535,
+    "gn:latitude":32.17876,
+    "gn:longitude":-8.65629,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Kaynar Benrahsil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10638535
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8b65082ad220a26e69c17b4e9729f898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1226528197,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226528197,
+    "wof:lastmodified":1537022368,
+    "wof:name":"Kaynar Benrahsil",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65629,
+    32.17876,
+    -8.65629,
+    32.17876
+],
+  "geometry": {"coordinates":[-8.65629,32.17876],"type":"Point"}
+}

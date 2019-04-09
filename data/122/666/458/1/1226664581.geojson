@@ -1,0 +1,70 @@
+{
+  "id": 1226664581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.30135,31.16742,-9.30135,31.16742",
+    "geom:latitude":31.16742,
+    "geom:longitude":-9.30135,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tiguerrout",
+    "gn:country_code":"MA",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528466,
+    "gn:latitude":31.16742,
+    "gn:longitude":-9.30135,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiguerrout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiguerout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528466
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ebee3dc0c047e1cfa994c763428e1163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1226664581,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226664581,
+    "wof:lastmodified":1537663386,
+    "wof:name":"Tiguerrout",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.30135,
+    31.16742,
+    -9.30135,
+    31.16742
+],
+  "geometry": {"coordinates":[-9.30135,31.16742],"type":"Point"}
+}

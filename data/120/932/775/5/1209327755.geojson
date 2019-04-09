@@ -1,0 +1,61 @@
+{
+  "id": 1209327755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.61974,35.14372,-4.61974,35.14372",
+    "geom:latitude":35.14372,
+    "geom:longitude":-4.61974,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Bou Sellam",
+    "gn:country_code":"MA",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10957844,
+    "gn:latitude":35.14372,
+    "gn:longitude":-4.61974,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bou Sellam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10957844
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1693f98279c6b595fb714437b75347c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209327755
+        }
+    ],
+    "wof:id":1209327755,
+    "wof:lastmodified":1536290476,
+    "wof:name":"Douar Bou Sellam",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.61974,
+    35.14372,
+    -4.61974,
+    35.14372
+],
+  "geometry": {"coordinates":[-4.61974,35.14372],"type":"Point"}
+}

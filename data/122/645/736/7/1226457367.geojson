@@ -1,0 +1,72 @@
+{
+  "id": 1226457367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37101,31.58815,-9.37101,31.58815",
+    "geom:latitude":31.58815,
+    "geom:longitude":-9.37101,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ait Zirari",
+    "gn:country_code":"MA",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558787,
+    "gn:latitude":31.58815,
+    "gn:longitude":-9.37101,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ait Zirari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ezzerari",
+        "A\u00eft Zirari",
+        "Douar Ait Zirari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558787
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ebf765b264ba5d9de024e6fe7c759f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1226457367,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226457367,
+    "wof:lastmodified":1537664144,
+    "wof:name":"Douar Ait Zirari",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37101,
+    31.58815,
+    -9.37101,
+    31.58815
+],
+  "geometry": {"coordinates":[-9.37101,31.58815],"type":"Point"}
+}

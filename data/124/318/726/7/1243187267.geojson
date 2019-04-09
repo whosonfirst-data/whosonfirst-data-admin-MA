@@ -1,0 +1,71 @@
+{
+  "id": 1243187267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9818,31.44454,-5.9818,31.44454",
+    "geom:latitude":31.44454,
+    "geom:longitude":-5.9818,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tamellalt",
+    "gn:country_code":"MA",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530690,
+    "gn:latitude":31.44454,
+    "gn:longitude":-5.9818,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamellalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamlalt",
+        "Tamellalt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530690
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"26b7b0e6eb3a67dee6a689cfe9ea3b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1243187267,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243187267,
+    "wof:lastmodified":1537663445,
+    "wof:name":"Tamellalt",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9818,
+    31.44454,
+    -5.9818,
+    31.44454
+],
+  "geometry": {"coordinates":[-5.9818,31.44454],"type":"Point"}
+}

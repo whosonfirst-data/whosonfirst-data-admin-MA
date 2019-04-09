@@ -1,0 +1,67 @@
+{
+  "id": 1242590831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.66786,35.62141,-5.66786,35.62141",
+    "geom:latitude":35.62141,
+    "geom:longitude":-5.66786,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Binyane",
+    "gn:country_code":"MA",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10954618,
+    "gn:latitude":35.62141,
+    "gn:longitude":-5.66786,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Binyane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10954618
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"477f78e46c37b0e41830295aefaf2736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1242590831,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242590831,
+    "wof:lastmodified":1537042717,
+    "wof:name":"Douar Binyane",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.66786,
+    35.62141,
+    -5.66786,
+    35.62141
+],
+  "geometry": {"coordinates":[-5.66786,35.62141],"type":"Point"}
+}

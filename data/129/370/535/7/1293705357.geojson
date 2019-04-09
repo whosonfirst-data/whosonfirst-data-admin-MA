@@ -1,0 +1,73 @@
+{
+  "id": 1293705357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.07834,34.82257,-5.07834,34.82257",
+    "geom:latitude":34.82257,
+    "geom:longitude":-5.07834,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Taarkalou",
+    "gn:country_code":"MA",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532304,
+    "gn:latitude":34.82257,
+    "gn:longitude":-5.07834,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taarkalou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsarkalou",
+        "Tartcaalu",
+        "Tarka\u00e2lou",
+        "Taarkalou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532304
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7996edc3981a2bf834ce6702357f7eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1293705357,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293705357,
+    "wof:lastmodified":1537663492,
+    "wof:name":"Taarkalou",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.07834,
+    34.82257,
+    -5.07834,
+    34.82257
+],
+  "geometry": {"coordinates":[-5.07834,34.82257],"type":"Point"}
+}

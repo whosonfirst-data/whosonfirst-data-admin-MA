@@ -1,0 +1,73 @@
+{
+  "id": 1226550073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.17406,34.70125,-6.17406,34.70125",
+    "geom:latitude":34.70125,
+    "geom:longitude":-6.17406,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lakhrouta",
+    "gn:country_code":"MA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544235,
+    "gn:latitude":34.70125,
+    "gn:longitude":-6.17406,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lakhrouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Khrouta",
+        "Khroutta Sdoud",
+        "Khrouta",
+        "Lakhrouta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544235
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"67ce6266c3a4d198fee26f9c4c481136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1226550073,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1226550073,
+    "wof:lastmodified":1537663691,
+    "wof:name":"Lakhrouta",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.17406,
+    34.70125,
+    -6.17406,
+    34.70125
+],
+  "geometry": {"coordinates":[-6.17406,34.70125],"type":"Point"}
+}

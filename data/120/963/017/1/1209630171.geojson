@@ -1,0 +1,65 @@
+{
+  "id": 1209630171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63577,31.14637,-8.63577,31.14637",
+    "geom:latitude":31.14637,
+    "geom:longitude":-8.63577,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Terga",
+    "gn:country_code":"MA",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528950,
+    "gn:latitude":31.14637,
+    "gn:longitude":-8.63577,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Terga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarqa",
+        "Terga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528950
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d57ca40f9ee2b48df5e9f2143de2b9cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209630171
+        }
+    ],
+    "wof:id":1209630171,
+    "wof:lastmodified":1537663397,
+    "wof:name":"Terga",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63577,
+    31.14637,
+    -8.63577,
+    31.14637
+],
+  "geometry": {"coordinates":[-8.63577,31.14637],"type":"Point"}
+}

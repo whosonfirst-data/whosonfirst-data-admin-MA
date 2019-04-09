@@ -1,0 +1,76 @@
+{
+  "id": 1226157913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22204,32.61336,-8.22204,32.61336",
+    "geom:latitude":32.61336,
+    "geom:longitude":-8.22204,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Had Laaounate",
+    "gn:country_code":"MA",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550287,
+    "gn:latitude":32.61336,
+    "gn:longitude":-8.22204,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Had Laaounate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Had des Aounate",
+        "Souk el Had",
+        "El Had des Aounat",
+        "Souk el Had des Aounat",
+        "Matrann",
+        "Had Laaounate",
+        "El Had"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550287
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2b260d011ae83d2ee212ff5f6911723d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1226157913,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226157913,
+    "wof:lastmodified":1537663875,
+    "wof:name":"Had Laaounate",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22204,
+    32.61336,
+    -8.22204,
+    32.61336
+],
+  "geometry": {"coordinates":[-8.22204,32.61336],"type":"Point"}
+}

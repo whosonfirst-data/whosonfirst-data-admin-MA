@@ -1,0 +1,67 @@
+{
+  "id": 1243355721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56957,33.18658,-8.56957,33.18658",
+    "geom:latitude":33.18658,
+    "geom:longitude":-8.56957,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Regragui",
+    "gn:country_code":"MA",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471705,
+    "gn:latitude":33.18658,
+    "gn:longitude":-8.56957,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Oulad Regragui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471705
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f319008936bb2a483ae26cfd943f3085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1243355721,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1243355721,
+    "wof:lastmodified":1536937141,
+    "wof:name":"Oulad Regragui",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56957,
+    33.18658,
+    -8.56957,
+    33.18658
+],
+  "geometry": {"coordinates":[-8.56957,33.18658],"type":"Point"}
+}

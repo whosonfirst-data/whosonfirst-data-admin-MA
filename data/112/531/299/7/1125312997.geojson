@@ -1,0 +1,88 @@
+{
+  "id": 1125312997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.84805,34.11269,-4.84805,34.11269",
+    "geom:latitude":34.11269,
+    "geom:longitude":-4.84805,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11534,
+    "gn:population":12291,
+    "iso:country":"MA",
+    "lbl:latitude":34.11269,
+    "lbl:longitude":-4.84805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0635\u0641\u0631\u0648 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Kansra"
+    ],
+    "name:fra_x_variant":[
+        "Ain Kansra (CR)",
+        "Ain Kansra (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545722,
+    "qs_pg:gn_pop":11534,
+    "qs_pg:name":"Ain Kansra",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628864,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545722,
+        "qs_pg:id":628864
+    },
+    "wof:country":"MA",
+    "wof:created":1497044114,
+    "wof:geomhash":"a1c7206c5a5146eba73280a896d72335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "localadmin_id":1125312997,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1125312997,
+    "wof:lastmodified":1509387932,
+    "wof:name":"Ain Kansra",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"localadmin",
+    "wof:population":12291,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.84805,
+    34.11269,
+    -4.84805,
+    34.11269
+],
+  "geometry": {"coordinates":[-4.84805,34.11269],"type":"Point"}
+}

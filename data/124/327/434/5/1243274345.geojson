@@ -1,0 +1,72 @@
+{
+  "id": 1243274345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94033,35.41022,-5.94033,35.41022",
+    "geom:latitude":35.41022,
+    "geom:longitude":-5.94033,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Messaouna",
+    "gn:country_code":"MA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541610,
+    "gn:latitude":35.41022,
+    "gn:longitude":-5.94033,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Messaouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chouahed",
+        "M\u2019sanoua",
+        "Messaouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541610
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3f36034fc75177fc6ead53191ad47430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1243274345,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243274345,
+    "wof:lastmodified":1537663641,
+    "wof:name":"Messaouna",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94033,
+    35.41022,
+    -5.94033,
+    35.41022
+],
+  "geometry": {"coordinates":[-5.94033,35.41022],"type":"Point"}
+}

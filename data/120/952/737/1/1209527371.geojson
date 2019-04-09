@@ -1,0 +1,61 @@
+{
+  "id": 1209527371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.93788,34.63223,-1.93788,34.63223",
+    "geom:latitude":34.63223,
+    "geom:longitude":-1.93788,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Lafhafim",
+    "gn:country_code":"MA",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10957400,
+    "gn:latitude":34.63223,
+    "gn:longitude":-1.93788,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lafhafim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10957400
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9c2798a2fa35ac17b12645b9234aa89c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209527371
+        }
+    ],
+    "wof:id":1209527371,
+    "wof:lastmodified":1536284392,
+    "wof:name":"Douar Lafhafim",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.93788,
+    34.63223,
+    -1.93788,
+    34.63223
+],
+  "geometry": {"coordinates":[-1.93788,34.63223],"type":"Point"}
+}

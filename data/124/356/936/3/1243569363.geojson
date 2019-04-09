@@ -1,0 +1,67 @@
+{
+  "id": 1243569363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48,29.81,-9.48,29.81",
+    "geom:latitude":29.81,
+    "geom:longitude":-9.48,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tigmi Ouguim",
+    "gn:country_code":"MA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528555,
+    "gn:latitude":29.81,
+    "gn:longitude":-9.48,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tigmi Ouguim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528555
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fd02bd9586c69db42c9c1c2f41478775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1243569363,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243569363,
+    "wof:lastmodified":1536626511,
+    "wof:name":"Tigmi Ouguim",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48,
+    29.81,
+    -9.48,
+    29.81
+],
+  "geometry": {"coordinates":[-9.48,29.81],"type":"Point"}
+}

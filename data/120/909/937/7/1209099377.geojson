@@ -1,0 +1,61 @@
+{
+  "id": 1209099377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.83664,31.58873,-6.83664,31.58873",
+    "geom:latitude":31.58873,
+    "geom:longitude":-6.83664,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tiniwalt",
+    "gn:country_code":"MA",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11355831,
+    "gn:latitude":31.58873,
+    "gn:longitude":-6.83664,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiniwalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11355831
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c92a47a1f91d68b8d2a15ca0eb9110f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209099377
+        }
+    ],
+    "wof:id":1209099377,
+    "wof:lastmodified":1536297783,
+    "wof:name":"Tiniwalt",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.836639999999999,
+    31.58873,
+    -6.836639999999999,
+    31.58873
+],
+  "geometry": {"coordinates":[-6.83664,31.58873],"type":"Point"}
+}

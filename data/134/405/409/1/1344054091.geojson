@@ -1,0 +1,67 @@
+{
+  "id": 1344054091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.173,33.08226,-8.173,33.08226",
+    "geom:latitude":33.08226,
+    "geom:longitude":-8.173,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar El 'Abdi",
+    "gn:country_code":"MA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10963829,
+    "gn:latitude":33.08226,
+    "gn:longitude":-8.173,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar El \u2019Abdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963829
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8240c65bb9578842f146a243f8086ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1344054091,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1344054091,
+    "wof:lastmodified":1536884266,
+    "wof:name":"Dar El 'Abdi",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.173,
+    33.08226,
+    -8.173,
+    33.08226
+],
+  "geometry": {"coordinates":[-8.173,33.08226],"type":"Point"}
+}

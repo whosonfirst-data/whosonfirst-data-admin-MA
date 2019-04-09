@@ -1,0 +1,73 @@
+{
+  "id": 1276133887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.26035,31.04206,-5.26035,31.04206",
+    "geom:latitude":31.04206,
+    "geom:longitude":-5.26035,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tiguirna",
+    "gn:country_code":"MA",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528468,
+    "gn:latitude":31.04206,
+    "gn:longitude":-5.26035,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiguirna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Tiguerna",
+        "Tiguelna",
+        "Tiguerna",
+        "Tiguirna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528468
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a9850bf8dac8b166c339054447ee1102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1276133887,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276133887,
+    "wof:lastmodified":1537663386,
+    "wof:name":"Tiguirna",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.26035,
+    31.04206,
+    -5.26035,
+    31.04206
+],
+  "geometry": {"coordinates":[-5.26035,31.04206],"type":"Point"}
+}

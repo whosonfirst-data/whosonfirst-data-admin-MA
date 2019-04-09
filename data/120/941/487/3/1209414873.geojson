@@ -1,0 +1,61 @@
+{
+  "id": 1209414873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.37919,34.33119,-6.37919,34.33119",
+    "geom:latitude":34.33119,
+    "geom:longitude":-6.37919,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Grinyine Lhorch",
+    "gn:country_code":"MA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10960633,
+    "gn:latitude":34.33119,
+    "gn:longitude":-6.37919,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Grinyine Lhorch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10960633
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b458fc2594dc9ed6c9e0614a8fc7ec70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209414873
+        }
+    ],
+    "wof:id":1209414873,
+    "wof:lastmodified":1536287721,
+    "wof:name":"Douar Grinyine Lhorch",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.37919,
+    34.33119,
+    -6.37919,
+    34.33119
+],
+  "geometry": {"coordinates":[-6.37919,34.33119],"type":"Point"}
+}

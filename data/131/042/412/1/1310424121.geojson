@@ -1,0 +1,67 @@
+{
+  "id": 1310424121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.99152,34.22486,-4.99152,34.22486",
+    "geom:latitude":34.22486,
+    "geom:longitude":-4.99152,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar el Fokra",
+    "gn:country_code":"MA",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551830,
+    "gn:latitude":34.22486,
+    "gn:longitude":-4.99152,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar el Fokra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551830
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba95c8744ac35fdbfdf93f362a9cb370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1310424121,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1310424121,
+    "wof:lastmodified":1537032944,
+    "wof:name":"Douar el Fokra",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.99152,
+    34.22486,
+    -4.99152,
+    34.22486
+],
+  "geometry": {"coordinates":[-4.99152,34.22486],"type":"Point"}
+}

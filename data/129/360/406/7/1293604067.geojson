@@ -1,0 +1,71 @@
+{
+  "id": 1293604067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.67112,34.66063,-2.67112,34.66063",
+    "geom:latitude":34.66063,
+    "geom:longitude":-2.67112,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Oulad Sidi Bechir",
+    "gn:country_code":"MA",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539240,
+    "gn:latitude":34.66063,
+    "gn:longitude":-2.67112,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Sidi Bechir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled el Bachir",
+        "Oulad Sidi Bechir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539240
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a0b591fbe2ca2e07c13d37b9b8b5e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "locality_id":1293604067,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293604067,
+    "wof:lastmodified":1537663559,
+    "wof:name":"Oulad Sidi Bechir",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.67112,
+    34.66063,
+    -2.67112,
+    34.66063
+],
+  "geometry": {"coordinates":[-2.67112,34.66063],"type":"Point"}
+}

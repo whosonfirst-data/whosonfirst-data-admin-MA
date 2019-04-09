@@ -1,0 +1,72 @@
+{
+  "id": 1225859845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.01014,34.05461,-4.01014,34.05461",
+    "geom:latitude":34.05461,
+    "geom:longitude":-4.01014,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Tit n-Taslit",
+    "gn:country_code":"MA",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551158,
+    "gn:latitude":34.05461,
+    "gn:longitude":-4.01014,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tit n-Taslit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tite Nteslite",
+        "Douar Tit Nteslit",
+        "Douar Tit n-Taslit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551158
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f6f2d2b85b5427a6e4e3b710ef52f356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1225859845,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1225859845,
+    "wof:lastmodified":1537663915,
+    "wof:name":"Douar Tit n-Taslit",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.01014,
+    34.05461,
+    -4.01014,
+    34.05461
+],
+  "geometry": {"coordinates":[-4.01014,34.05461],"type":"Point"}
+}

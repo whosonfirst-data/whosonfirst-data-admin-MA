@@ -1,0 +1,88 @@
+{
+  "id": 1125330487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9495,32.47411,-5.9495,32.47411",
+    "geom:latitude":32.47411,
+    "geom:longitude":-5.9495,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6433,
+    "gn:population":6433,
+    "iso:country":"MA",
+    "lbl:latitude":32.47411,
+    "lbl:longitude":-5.9495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0645 \u0627\u0644\u0639\u0646\u0635\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Naour"
+    ],
+    "name:fra_x_variant":[
+        "Naour (CR)",
+        "Naour (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546413,
+    "qs_pg:gn_pop":6433,
+    "qs_pg:name":"Naour",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629518,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546413,
+        "qs_pg:id":629518
+    },
+    "wof:country":"MA",
+    "wof:created":1497045105,
+    "wof:geomhash":"6574097d5545274fb8c8bb50e0a917e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "localadmin_id":1125330487,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1125330487,
+    "wof:lastmodified":1509388363,
+    "wof:name":"Naour",
+    "wof:parent_id":890452779,
+    "wof:placetype":"localadmin",
+    "wof:population":6433,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9495,
+    32.47411,
+    -5.9495,
+    32.47411
+],
+  "geometry": {"coordinates":[-5.9495,32.47411],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209625495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.96741,35.14465,-3.96741,35.14465",
+    "geom:latitude":35.14465,
+    "geom:longitude":-3.96741,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ait Zaros",
+    "gn:country_code":"MA",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558808,
+    "gn:latitude":35.14465,
+    "gn:longitude":-3.96741,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Zaros",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Zakra",
+        "A\u00eft Zaros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558808
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"48974def9eb6ea2f05fa3f28bb652f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625495
+        }
+    ],
+    "wof:id":1209625495,
+    "wof:lastmodified":1537664145,
+    "wof:name":"Ait Zaros",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.96741,
+    35.14465,
+    -3.96741,
+    35.14465
+],
+  "geometry": {"coordinates":[-3.96741,35.14465],"type":"Point"}
+}

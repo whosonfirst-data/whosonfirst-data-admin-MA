@@ -1,0 +1,67 @@
+{
+  "id": 1293109009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.92773,31.13623,-7.92773,31.13623",
+    "geom:latitude":31.13623,
+    "geom:longitude":-7.92773,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Mzikene",
+    "gn:country_code":"MA",
+    "gn:dem":1814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950256,
+    "gn:latitude":31.13623,
+    "gn:longitude":-7.92773,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Mzikene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950256
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"14a717b7b9d13e16178b798aabc650a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1293109009,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293109009,
+    "wof:lastmodified":1536834607,
+    "wof:name":"Mzikene",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.92773,
+    31.13623,
+    -7.92773,
+    31.13623
+],
+  "geometry": {"coordinates":[-7.92773,31.13623],"type":"Point"}
+}

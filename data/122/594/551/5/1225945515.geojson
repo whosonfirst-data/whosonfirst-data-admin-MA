@@ -1,0 +1,67 @@
+{
+  "id": 1225945515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.32204,34.37147,-5.32204,34.37147",
+    "geom:latitude":34.37147,
+    "geom:longitude":-5.32204,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Jnadra",
+    "gn:country_code":"MA",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984973,
+    "gn:latitude":34.37147,
+    "gn:longitude":-5.32204,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Jnadra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984973
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8e248b695b7a576a42f9e78c4ac0b7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1225945515,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1225945515,
+    "wof:lastmodified":1536868530,
+    "wof:name":"Douar Jnadra",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.32204,
+    34.37147,
+    -5.32204,
+    34.37147
+],
+  "geometry": {"coordinates":[-5.32204,34.37147],"type":"Point"}
+}

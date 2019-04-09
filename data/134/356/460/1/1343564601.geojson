@@ -1,0 +1,67 @@
+{
+  "id": 1343564601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.47961,34.63866,-5.47961,34.63866",
+    "geom:latitude":34.63866,
+    "geom:longitude":-5.47961,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Mkhafa",
+    "gn:country_code":"MA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925286,
+    "gn:latitude":34.63866,
+    "gn:longitude":-5.47961,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Mkhafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925286
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9360d34d9a4749185091bda1a82d0b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1343564601,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343564601,
+    "wof:lastmodified":1537090249,
+    "wof:name":"Douar Mkhafa",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.47961,
+    34.63865999999999,
+    -5.47961,
+    34.63865999999999
+],
+  "geometry": {"coordinates":[-5.47961,34.63865999999999],"type":"Point"}
+}

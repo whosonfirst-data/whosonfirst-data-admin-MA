@@ -1,0 +1,67 @@
+{
+  "id": 1242666805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14277,30.04659,-9.14277,30.04659",
+    "geom:latitude":30.04659,
+    "geom:longitude":-9.14277,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Imzilene",
+    "gn:country_code":"MA",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131184,
+    "gn:latitude":30.04659,
+    "gn:longitude":-9.14277,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Imzilene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131184
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1a8277ccdfa642bac9b406b068b4da85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1242666805,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242666805,
+    "wof:lastmodified":1536936090,
+    "wof:name":"Imzilene",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14277,
+    30.04659,
+    -9.14277,
+    30.04659
+],
+  "geometry": {"coordinates":[-9.14277,30.04659],"type":"Point"}
+}

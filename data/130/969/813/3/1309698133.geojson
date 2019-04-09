@@ -1,0 +1,67 @@
+{
+  "id": 1309698133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47704,31.91776,-8.47704,31.91776",
+    "geom:latitude":31.91776,
+    "geom:longitude":-8.47704,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lemouissat",
+    "gn:country_code":"MA",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10907809,
+    "gn:latitude":31.91776,
+    "gn:longitude":-8.47704,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lemouissat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10907809
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a1b2aa0b98e86e06db78d323cc173df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1309698133,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1309698133,
+    "wof:lastmodified":1537083210,
+    "wof:name":"Douar Lemouissat",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47704,
+    31.91776,
+    -8.47704,
+    31.91776
+],
+  "geometry": {"coordinates":[-8.47704,31.91776],"type":"Point"}
+}

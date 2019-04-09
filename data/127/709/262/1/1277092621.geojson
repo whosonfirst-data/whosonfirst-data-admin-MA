@@ -1,0 +1,72 @@
+{
+  "id": 1277092621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.64334,35.66389,-5.64334,35.66389",
+    "geom:latitude":35.66389,
+    "geom:longitude":-5.64334,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ghrifa",
+    "gn:country_code":"MA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548688,
+    "gn:latitude":35.66389,
+    "gn:longitude":-5.64334,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ghrifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garifa",
+        "Gharifa",
+        "Ghrifa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548688
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5d799ff976ec663d0ab1c407f18c0b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1277092621,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1277092621,
+    "wof:lastmodified":1537663815,
+    "wof:name":"Ghrifa",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.64334,
+    35.66389,
+    -5.64334,
+    35.66389
+],
+  "geometry": {"coordinates":[-5.64334,35.66389],"type":"Point"}
+}

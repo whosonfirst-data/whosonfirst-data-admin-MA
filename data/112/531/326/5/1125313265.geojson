@@ -1,0 +1,88 @@
+{
+  "id": 1125313265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.86668,33.9783,-6.86668,33.9783",
+    "geom:latitude":33.9783,
+    "geom:longitude":-6.86668,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":89588,
+    "gn:population":89588,
+    "iso:country":"MA",
+    "lbl:latitude":33.9783,
+    "lbl:longitude":-6.86668,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0639\u0631\u0628\u0627\u0648\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Agdal Riyad"
+    ],
+    "name:fra_x_variant":[
+        "Agdal Riyad (AR)",
+        "Agdal Riyad (Arrondissement)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545725,
+    "qs_pg:gn_pop":89588,
+    "qs_pg:name":"Agdal Riyad",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":628867,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890437999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545725,
+        "qs_pg:id":628867
+    },
+    "wof:country":"MA",
+    "wof:created":1497044130,
+    "wof:geomhash":"2a25ad1b37767ad7341438ac2d17f205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890437999,
+            "localadmin_id":1125313265,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1125313265,
+    "wof:lastmodified":1509387937,
+    "wof:name":"Agdal Riyad",
+    "wof:parent_id":890437999,
+    "wof:placetype":"localadmin",
+    "wof:population":89588,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.86668,
+    33.9783,
+    -6.86668,
+    33.9783
+],
+  "geometry": {"coordinates":[-6.86668,33.9783],"type":"Point"}
+}

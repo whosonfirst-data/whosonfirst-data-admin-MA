@@ -1,0 +1,67 @@
+{
+  "id": 1243560923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.74439,34.42519,-4.74439,34.42519",
+    "geom:latitude":34.42519,
+    "geom:longitude":-4.74439,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Esskarna",
+    "gn:country_code":"MA",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543042,
+    "gn:latitude":34.42519,
+    "gn:longitude":-4.74439,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Esskarna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543042
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"18e6de422c5002a0c8e49f1f9af3105e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1243560923,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1243560923,
+    "wof:lastmodified":1536639513,
+    "wof:name":"Douar Esskarna",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.74439,
+    34.42519,
+    -4.74439,
+    34.42519
+],
+  "geometry": {"coordinates":[-4.74439,34.42519],"type":"Point"}
+}

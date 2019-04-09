@@ -1,0 +1,67 @@
+{
+  "id": 1276886819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.69786,35.82558,-5.69786,35.82558",
+    "geom:latitude":35.82558,
+    "geom:longitude":-5.69786,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sidi Qanqouch",
+    "gn:country_code":"MA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060154,
+    "gn:latitude":35.82558,
+    "gn:longitude":-5.69786,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sidi Qanqouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060154
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0d86b600fbc52f3fca3244f9db8b04bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1276886819,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1276886819,
+    "wof:lastmodified":1537030462,
+    "wof:name":"Sidi Qanqouch",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.69786,
+    35.82558,
+    -5.69786,
+    35.82558
+],
+  "geometry": {"coordinates":[-5.69786,35.82558],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310420711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9872,31.96408,-6.9872,31.96408",
+    "geom:latitude":31.96408,
+    "geom:longitude":-6.9872,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ihadjama",
+    "gn:country_code":"MA",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963393,
+    "gn:latitude":31.96408,
+    "gn:longitude":-6.9872,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Ihadjama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963393
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b4536131f0b701f9707585f7675a7d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310420711,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310420711,
+    "wof:lastmodified":1537037618,
+    "wof:name":"Ihadjama",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9872,
+    31.96408,
+    -6.9872,
+    31.96408
+],
+  "geometry": {"coordinates":[-6.9872,31.96408],"type":"Point"}
+}

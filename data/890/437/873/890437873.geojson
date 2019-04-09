@@ -1,0 +1,78 @@
+{
+  "id": 890437873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.86795,34.6513,-3.86795,34.6513",
+    "geom:latitude":34.6513,
+    "geom:longitude":-3.86795,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":4066,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0643\u0646\u0648\u0644 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Aknoul"
+    ],
+    "name:fra_x_variant":[
+        "Aknoul (MU)",
+        "Aknoul (Commune Urbaine)"
+    ],
+    "qs:name":"Aknoul",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547085,
+        "qs:id":630167,
+        "wd:id":"Q603331",
+        "wk:page":"Aknoul"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052169,
+    "wof:geomhash":"36c24ee23208148677466b615c98f4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "localadmin_id":890437873,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890437873,
+    "wof:lastmodified":1527729748,
+    "wof:name":"Aknoul",
+    "wof:parent_id":890436791,
+    "wof:placetype":"localadmin",
+    "wof:population":4066,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.86795,
+    34.6513,
+    -3.86795,
+    34.6513
+],
+  "geometry": {"coordinates":[-3.86795,34.6513],"type":"Point"}
+}

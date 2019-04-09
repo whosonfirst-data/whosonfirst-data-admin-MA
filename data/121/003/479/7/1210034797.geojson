@@ -1,0 +1,72 @@
+{
+  "id": 1210034797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.46284,34.15909,-5.46284,34.15909",
+    "geom:latitude":34.15909,
+    "geom:longitude":-5.46284,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Azib Aicha Rahhou",
+    "gn:country_code":"MA",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560962,
+    "gn:latitude":34.15909,
+    "gn:longitude":-5.46284,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Azib Aicha Rahhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00efcha Rahho",
+        "A\u00efcha Raho",
+        "Douar Azib Aicha Rahhou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560962
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"35c501eadeae62278f5375c938cb792c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1210034797,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1210034797,
+    "wof:lastmodified":1537664225,
+    "wof:name":"Douar Azib Aicha Rahhou",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.46284,
+    34.15909,
+    -5.46284,
+    34.15909
+],
+  "geometry": {"coordinates":[-5.46284,34.15909],"type":"Point"}
+}

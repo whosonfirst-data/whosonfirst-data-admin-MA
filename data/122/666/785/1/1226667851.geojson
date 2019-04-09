@@ -1,0 +1,67 @@
+{
+  "id": 1226667851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.90796,33.44748,-6.90796,33.44748",
+    "geom:latitude":33.44748,
+    "geom:longitude":-6.90796,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Hmama",
+    "gn:country_code":"MA",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11099340,
+    "gn:latitude":33.44748,
+    "gn:longitude":-6.90796,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Hmama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11099340
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0f6864e9a0e5cb0b8d3a7a883158f7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1226667851,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1226667851,
+    "wof:lastmodified":1536826763,
+    "wof:name":"Oulad Hmama",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.90796,
+    33.44748,
+    -6.90796,
+    33.44748
+],
+  "geometry": {"coordinates":[-6.90796,33.44748],"type":"Point"}
+}

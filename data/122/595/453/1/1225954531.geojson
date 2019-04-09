@@ -1,0 +1,71 @@
+{
+  "id": 1225954531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.80566,35.24079,-5.80566,35.24079",
+    "geom:latitude":35.24079,
+    "geom:longitude":-5.80566,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Es Sakhra",
+    "gn:country_code":"MA",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569936,
+    "gn:latitude":35.24079,
+    "gn:longitude":-5.80566,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Es Sakhra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es Skhre",
+        "Es Sakhra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569936
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d0d81cd702350da612f570e0447ed448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1225954531,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1225954531,
+    "wof:lastmodified":1537664271,
+    "wof:name":"Es Sakhra",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.80566,
+    35.24079000000001,
+    -5.80566,
+    35.24079000000001
+],
+  "geometry": {"coordinates":[-5.80566,35.24079000000001],"type":"Point"}
+}

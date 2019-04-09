@@ -1,0 +1,64 @@
+{
+  "id": 1209022755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.47233,34.16983,-5.47233,34.16983",
+    "geom:latitude":34.16983,
+    "geom:longitude":-5.47233,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Bouqchouch",
+    "gn:country_code":"MA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554514,
+    "gn:latitude":34.16983,
+    "gn:longitude":-5.47233,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bouqchouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Kchouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554514
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d70e6b9f29dc74a89ec34e0464727fbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209022755
+        }
+    ],
+    "wof:id":1209022755,
+    "wof:lastmodified":1537664052,
+    "wof:name":"Douar Bouqchouch",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.47233,
+    34.16983,
+    -5.47233,
+    34.16983
+],
+  "geometry": {"coordinates":[-5.47233,34.16983],"type":"Point"}
+}

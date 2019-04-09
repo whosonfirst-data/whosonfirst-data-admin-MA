@@ -1,0 +1,72 @@
+{
+  "id": 1343477255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.08301,30.28899,-9.08301,30.28899",
+    "geom:latitude":30.28899,
+    "geom:longitude":-9.08301,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Aassela",
+    "gn:country_code":"MA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550862,
+    "gn:latitude":30.28899,
+    "gn:longitude":-9.08301,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Aassela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Aasila",
+        "El Aassola",
+        "El Aassela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550862
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3b1b3a9963eb0e6e1481a1dc16f63768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1343477255,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343477255,
+    "wof:lastmodified":1537663903,
+    "wof:name":"El Aassela",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.08301,
+    30.28899,
+    -9.08301,
+    30.28899
+],
+  "geometry": {"coordinates":[-9.08301,30.28899],"type":"Point"}
+}

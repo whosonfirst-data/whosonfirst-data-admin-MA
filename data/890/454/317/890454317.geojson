@@ -1,0 +1,78 @@
+{
+  "id": 890454317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96684,34.30154,-5.96684,34.30154",
+    "geom:latitude":34.30154,
+    "geom:longitude":-5.96684,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":20419,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0632\u063a\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Boumaiz"
+    ],
+    "name:fra_x_variant":[
+        "Boumaiz (CR)",
+        "Boumaiz (Commune Rurale)"
+    ],
+    "qs:name":"Boumaiz",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":109,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546902,
+        "qs:id":629985,
+        "wd:id":"Q12200242",
+        "wk:page":"Boumaiz"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052895,
+    "wof:geomhash":"9573e514e131bc1701095ff1cd614558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "localadmin_id":890454317,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":890454317,
+    "wof:lastmodified":1527735431,
+    "wof:name":"Boumaiz",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"localadmin",
+    "wof:population":20419,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96684,
+    34.30154,
+    -5.96684,
+    34.30154
+],
+  "geometry": {"coordinates":[-5.96684,34.30154],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259379871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61226,33.04312,-8.61226,33.04312",
+    "geom:latitude":33.04312,
+    "geom:longitude":-8.61226,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sidi Ain El Slame",
+    "gn:country_code":"MA",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471593,
+    "gn:latitude":33.04312,
+    "gn:longitude":-8.61226,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sidi Ain El Slame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471593
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"13d3b83f1d3bf3589cc3d815c80c6b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1259379871,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259379871,
+    "wof:lastmodified":1537006801,
+    "wof:name":"Sidi Ain El Slame",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61226,
+    33.04312,
+    -8.61226,
+    33.04312
+],
+  "geometry": {"coordinates":[-8.61226,33.04312],"type":"Point"}
+}

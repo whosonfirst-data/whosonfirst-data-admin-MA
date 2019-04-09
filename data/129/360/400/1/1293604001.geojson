@@ -1,0 +1,71 @@
+{
+  "id": 1293604001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.04364,30.3646,-9.04364,30.3646",
+    "geom:latitude":30.3646,
+    "geom:longitude":-9.04364,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Dahane",
+    "gn:country_code":"MA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560136,
+    "gn:latitude":30.3646,
+    "gn:longitude":-9.04364,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Dahane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Dahhane Dar Douie",
+        "A\u00eft Dahane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560136
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3db74c9d07b00b58b8aa2a358f8f1adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1293604001,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293604001,
+    "wof:lastmodified":1537664194,
+    "wof:name":"Ait Dahane",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.04364,
+    30.3646,
+    -9.04364,
+    30.3646
+],
+  "geometry": {"coordinates":[-9.04364,30.3646],"type":"Point"}
+}

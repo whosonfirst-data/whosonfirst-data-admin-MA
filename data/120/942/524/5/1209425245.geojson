@@ -1,0 +1,64 @@
+{
+  "id": 1209425245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.90932,35.34959,-5.90932,35.34959",
+    "geom:latitude":35.34959,
+    "geom:longitude":-5.90932,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Ejjahma",
+    "gn:country_code":"MA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545082,
+    "gn:latitude":35.34959,
+    "gn:longitude":-5.90932,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ejjahma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jemaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545082
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1fe496c1bda4f81e62c1ca1207ec0aac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425245
+        }
+    ],
+    "wof:id":1209425245,
+    "wof:lastmodified":1537663713,
+    "wof:name":"Douar Ejjahma",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.90932,
+    35.34959,
+    -5.90932,
+    35.34959
+],
+  "geometry": {"coordinates":[-5.90932,35.34959],"type":"Point"}
+}

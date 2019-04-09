@@ -1,0 +1,67 @@
+{
+  "id": 1225843027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.88944,31.98885,-6.88944,31.98885",
+    "geom:latitude":31.98885,
+    "geom:longitude":-6.88944,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Idir",
+    "gn:country_code":"MA",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963518,
+    "gn:latitude":31.98885,
+    "gn:longitude":-6.88944,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Idir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963518
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a19bd8f7ab65ea3070da82c1b9a48357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1225843027,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1225843027,
+    "wof:lastmodified":1537016920,
+    "wof:name":"Ait Idir",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.88944,
+    31.98885,
+    -6.88944,
+    31.98885
+],
+  "geometry": {"coordinates":[-6.88944,31.98885],"type":"Point"}
+}

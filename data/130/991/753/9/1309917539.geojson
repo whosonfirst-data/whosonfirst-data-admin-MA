@@ -1,0 +1,67 @@
+{
+  "id": 1309917539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.64215,35.11628,-3.64215,35.11628",
+    "geom:latitude":35.11628,
+    "geom:longitude":-3.64215,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Korouna",
+    "gn:country_code":"MA",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092343,
+    "gn:latitude":35.11628,
+    "gn:longitude":-3.64215,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Korouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092343
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5f9ae593e0273e02f713d4599a651683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1309917539,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1309917539,
+    "wof:lastmodified":1536770469,
+    "wof:name":"Korouna",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.64215,
+    35.11628,
+    -3.64215,
+    35.11628
+],
+  "geometry": {"coordinates":[-3.64215,35.11628],"type":"Point"}
+}

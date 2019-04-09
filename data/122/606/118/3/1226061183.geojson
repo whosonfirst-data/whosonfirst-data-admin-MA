@@ -1,0 +1,68 @@
+{
+  "id": 1226061183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.25,32.11,-1.25,32.11",
+    "geom:latitude":32.11,
+    "geom:longitude":-1.25,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"El Abid",
+    "gn:country_code":"MA",
+    "gn:dem":887,
+    "gn:elevation":"900.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2550850,
+    "gn:latitude":32.11,
+    "gn:longitude":-1.25,
+    "gn:modification_date":"2009-06-20",
+    "gn:name":"El Abid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550850
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a488f72664bbdd29896cb4d599cc2228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1226061183,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1226061183,
+    "wof:lastmodified":1536703194,
+    "wof:name":"El Abid",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.25,
+    32.11,
+    -1.25,
+    32.11
+],
+  "geometry": {"coordinates":[-1.25,32.11],"type":"Point"}
+}

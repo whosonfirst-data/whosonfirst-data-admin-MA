@@ -1,0 +1,72 @@
+{
+  "id": 1309722323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.11337,33.8747,-4.11337,33.8747",
+    "geom:latitude":33.8747,
+    "geom:longitude":-4.11337,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mzarda",
+    "gn:country_code":"MA",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541519,
+    "gn:latitude":33.8747,
+    "gn:longitude":-4.11337,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mzarda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elmzarda",
+        "Dauar Mzarda",
+        "Mzarda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541519
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"08267a39a76ac12cadc5b926e0fb2bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1309722323,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1309722323,
+    "wof:lastmodified":1537663640,
+    "wof:name":"Mzarda",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.11337,
+    33.8747,
+    -4.11337,
+    33.8747
+],
+  "geometry": {"coordinates":[-4.11337,33.8747],"type":"Point"}
+}

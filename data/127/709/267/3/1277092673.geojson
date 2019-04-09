@@ -1,0 +1,73 @@
+{
+  "id": 1277092673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05449,32.57085,-9.05449,32.57085",
+    "geom:latitude":32.57085,
+    "geom:longitude":-9.05449,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Laaouissat",
+    "gn:country_code":"MA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550736,
+    "gn:latitude":32.57085,
+    "gn:longitude":-9.05449,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Laaouissat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laouissat",
+        "Douar el Aou\u00efssat",
+        "El Aouissat",
+        "Laaouissat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550736
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fa9b7bb78f1e0214a8162f79b86e4f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1277092673,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1277092673,
+    "wof:lastmodified":1537663895,
+    "wof:name":"Laaouissat",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05449,
+    32.57085,
+    -9.05449,
+    32.57085
+],
+  "geometry": {"coordinates":[-9.05449,32.57085],"type":"Point"}
+}

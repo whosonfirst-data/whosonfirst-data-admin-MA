@@ -1,0 +1,72 @@
+{
+  "id": 1210026761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.26347,34.25086,-4.26347,34.25086",
+    "geom:latitude":34.25086,
+    "geom:longitude":-4.26347,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ain Said",
+    "gn:country_code":"MA",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560788,
+    "gn:latitude":34.25086,
+    "gn:longitude":-4.26347,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ain Said",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00efn Sa\u00efd",
+        "A\u00efn Sa\u00efd",
+        "Douar Ain Said"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560788
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c79d00a60c64bbad1906ef5a9a28e90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1210026761,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1210026761,
+    "wof:lastmodified":1537664217,
+    "wof:name":"Douar Ain Said",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.26347,
+    34.25086,
+    -4.26347,
+    34.25086
+],
+  "geometry": {"coordinates":[-4.26347,34.25086],"type":"Point"}
+}

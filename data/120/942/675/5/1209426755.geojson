@@ -1,0 +1,61 @@
+{
+  "id": 1209426755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.81733,35.03406,-2.81733,35.03406",
+    "geom:latitude":35.03406,
+    "geom:longitude":-2.81733,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dar Ben Aissa Lbouanani",
+    "gn:country_code":"MA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10962434,
+    "gn:latitude":35.03406,
+    "gn:longitude":-2.81733,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Ben Aissa Lbouanani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10962434
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"53c20dcdb1056ac78f6b6e98f286fccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209426755
+        }
+    ],
+    "wof:id":1209426755,
+    "wof:lastmodified":1536287359,
+    "wof:name":"Dar Ben Aissa Lbouanani",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.81733,
+    35.03406,
+    -2.81733,
+    35.03406
+],
+  "geometry": {"coordinates":[-2.81733,35.03406],"type":"Point"}
+}

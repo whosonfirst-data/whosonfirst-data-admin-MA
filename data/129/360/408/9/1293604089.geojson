@@ -1,0 +1,72 @@
+{
+  "id": 1293604089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31222,31.78277,-9.31222,31.78277",
+    "geom:latitude":31.78277,
+    "geom:longitude":-9.31222,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Douali",
+    "gn:country_code":"MA",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552190,
+    "gn:latitude":31.78277,
+    "gn:longitude":-9.31222,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Douali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibn Aouida",
+        "Douali",
+        "Douar Douali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552190
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"80c1755665e43e2b03557385a76928af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1293604089,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293604089,
+    "wof:lastmodified":1537663995,
+    "wof:name":"Douar Douali",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31222,
+    31.78277000000001,
+    -9.31222,
+    31.78277000000001
+],
+  "geometry": {"coordinates":[-9.31222,31.78277000000001],"type":"Point"}
+}

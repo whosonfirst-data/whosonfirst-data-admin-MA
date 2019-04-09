@@ -1,0 +1,61 @@
+{
+  "id": 1209218137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.52509,34.71426,-5.52509,34.71426",
+    "geom:latitude":34.71426,
+    "geom:longitude":-5.52509,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Lbiyar",
+    "gn:country_code":"MA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10991998,
+    "gn:latitude":34.71426,
+    "gn:longitude":-5.52509,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lbiyar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10991998
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0d253ac3ad954b377d7aed1caa5f70e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209218137
+        }
+    ],
+    "wof:id":1209218137,
+    "wof:lastmodified":1536294058,
+    "wof:name":"Douar Lbiyar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5250900000000005,
+    34.71426,
+    -5.5250900000000005,
+    34.71426
+],
+  "geometry": {"coordinates":[-5.52509,34.71426],"type":"Point"}
+}

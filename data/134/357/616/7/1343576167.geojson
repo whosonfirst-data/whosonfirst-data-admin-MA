@@ -1,0 +1,72 @@
+{
+  "id": 1343576167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.42243,35.02585,-2.42243,35.02585",
+    "geom:latitude":35.02585,
+    "geom:longitude":-2.42243,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mehdiya",
+    "gn:country_code":"MA",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542030,
+    "gn:latitude":35.02585,
+    "gn:longitude":-2.42243,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mehdiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mohdia",
+        "Mehdia",
+        "Mehdiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542030
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0e712b034b32275ccaa06ff7d294e64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":1343576167,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1343576167,
+    "wof:lastmodified":1537663648,
+    "wof:name":"Mehdiya",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.42243,
+    35.02585,
+    -2.42243,
+    35.02585
+],
+  "geometry": {"coordinates":[-2.42243,35.02585],"type":"Point"}
+}

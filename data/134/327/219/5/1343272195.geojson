@@ -1,0 +1,71 @@
+{
+  "id": 1343272195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.52509,33.33356,-4.52509,33.33356",
+    "geom:latitude":33.33356,
+    "geom:longitude":-4.52509,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tiguenamas",
+    "gn:country_code":"MA",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528480,
+    "gn:latitude":33.33356,
+    "gn:longitude":-4.52509,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiguenamas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tignamas",
+        "Tiguenamas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528480
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"437d8f903c52684b5c2d0fd71f462316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1343272195,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1343272195,
+    "wof:lastmodified":1537663387,
+    "wof:name":"Tiguenamas",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.52509,
+    33.33356,
+    -4.52509,
+    33.33356
+],
+  "geometry": {"coordinates":[-4.52509,33.33356],"type":"Point"}
+}

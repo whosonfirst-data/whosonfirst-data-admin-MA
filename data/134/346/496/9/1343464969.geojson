@@ -1,0 +1,67 @@
+{
+  "id": 1343464969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.54962,34.1664,-4.54962,34.1664",
+    "geom:latitude":34.1664,
+    "geom:longitude":-4.54962,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Didba",
+    "gn:country_code":"MA",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10993716,
+    "gn:latitude":34.1664,
+    "gn:longitude":-4.54962,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Didba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10993716
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1412a23099fef090674a0af6b18d1457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1343464969,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343464969,
+    "wof:lastmodified":1536739454,
+    "wof:name":"Douar Didba",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.54962,
+    34.1664,
+    -4.54962,
+    34.1664
+],
+  "geometry": {"coordinates":[-4.54962,34.1664],"type":"Point"}
+}

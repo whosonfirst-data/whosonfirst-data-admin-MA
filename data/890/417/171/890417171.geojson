@@ -1,0 +1,78 @@
+{
+  "id": 890417171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14831,31.07016,-6.14831,31.07016",
+    "geom:latitude":31.07016,
+    "geom:longitude":-6.14831,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":14864,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0633\u062f\u0631\u0627\u062a \u0627\u0644\u0633\u0647\u0644 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Sedrate Sahl El"
+    ],
+    "name:fra_x_variant":[
+        "Ait Sedrate Sahl El (CR)",
+        "Ait Sedrate Sahl El (Commune Rurale)"
+    ],
+    "qs:name":"Ait Sedrate Sahl El",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546563,
+        "qs:id":629664,
+        "wd:id":"Q16826425",
+        "wk:page":"Ait Sedrate Sahl El Gharbia"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051186,
+    "wof:geomhash":"5557e5deec742c2dfc5ae65c12288783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "localadmin_id":890417171,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890417171,
+    "wof:lastmodified":1527782127,
+    "wof:name":"Ait Sedrate Sahl El",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"localadmin",
+    "wof:population":14864,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14831,
+    31.07016,
+    -6.14831,
+    31.07016
+],
+  "geometry": {"coordinates":[-6.14831,31.07016],"type":"Point"}
+}

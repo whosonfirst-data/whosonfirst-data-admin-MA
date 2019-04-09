@@ -1,0 +1,72 @@
+{
+  "id": 1343571505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.58147,30.47838,-6.58147,30.47838",
+    "geom:latitude":30.47838,
+    "geom:longitude":-6.58147,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Ahmane",
+    "gn:country_code":"MA",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527213,
+    "gn:latitude":30.47838,
+    "gn:longitude":-6.58147,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Ahmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tizgui",
+        "Ait Amane",
+        "A\u00eft Ahmane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527213
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"09ac3e1b94c0533560827af95e002f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1343571505,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343571505,
+    "wof:lastmodified":1537663347,
+    "wof:name":"Ait Ahmane",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.58147,
+    30.47838,
+    -6.58147,
+    30.47838
+],
+  "geometry": {"coordinates":[-6.58147,30.47838],"type":"Point"}
+}

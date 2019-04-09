@@ -1,0 +1,67 @@
+{
+  "id": 1193022343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.32206,34.26429,-5.32206,34.26429",
+    "geom:latitude":34.26429,
+    "geom:longitude":-5.32206,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Laazzaba d-cheikh",
+    "gn:country_code":"MA",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985266,
+    "gn:latitude":34.26429,
+    "gn:longitude":-5.32206,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laazzaba d-cheikh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985266
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6bdecf280f9bbd31eb4e16f0bb8c9439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1193022343,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1193022343,
+    "wof:lastmodified":1536371836,
+    "wof:name":"Douar Laazzaba d-cheikh",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.32206,
+    34.26429,
+    -5.32206,
+    34.26429
+],
+  "geometry": {"coordinates":[-5.32206,34.26429],"type":"Point"}
+}

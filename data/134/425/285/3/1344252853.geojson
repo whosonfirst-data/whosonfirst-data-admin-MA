@@ -1,0 +1,67 @@
+{
+  "id": 1344252853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.43481,31.90208,-8.43481,31.90208",
+    "geom:latitude":31.90208,
+    "geom:longitude":-8.43481,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Driss Ben El Arbi",
+    "gn:country_code":"MA",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10907829,
+    "gn:latitude":31.90208,
+    "gn:longitude":-8.43481,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Driss Ben El Arbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10907829
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aa21caa63466c1db80e5315e459f2662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1344252853,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1344252853,
+    "wof:lastmodified":1537092001,
+    "wof:name":"Douar Driss Ben El Arbi",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43481,
+    31.90208,
+    -8.43481,
+    31.90208
+],
+  "geometry": {"coordinates":[-8.43481,31.90208],"type":"Point"}
+}

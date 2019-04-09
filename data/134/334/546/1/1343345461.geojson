@@ -1,0 +1,67 @@
+{
+  "id": 1343345461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55852,30.81963,-8.55852,30.81963",
+    "geom:latitude":30.81963,
+    "geom:longitude":-8.55852,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tazlida",
+    "gn:country_code":"MA",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912740,
+    "gn:latitude":30.81963,
+    "gn:longitude":-8.55852,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tazlida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912740
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"39a33732a839f1f53a36a437c8f91048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1343345461,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343345461,
+    "wof:lastmodified":1536912676,
+    "wof:name":"Tazlida",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55852,
+    30.81963,
+    -8.55852,
+    30.81963
+],
+  "geometry": {"coordinates":[-8.55852,30.81963],"type":"Point"}
+}

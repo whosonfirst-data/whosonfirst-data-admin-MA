@@ -1,0 +1,67 @@
+{
+  "id": 1343266763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.86762,33.62552,-5.86762,33.62552",
+    "geom:latitude":33.62552,
+    "geom:longitude":-5.86762,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Qardouch",
+    "gn:country_code":"MA",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970535,
+    "gn:latitude":33.62552,
+    "gn:longitude":-5.86762,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Qardouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970535
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"000e3861555e3c2975d8523ab5a87f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1343266763,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1343266763,
+    "wof:lastmodified":1537024666,
+    "wof:name":"Qardouch",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.86762,
+    33.62552,
+    -5.86762,
+    33.62552
+],
+  "geometry": {"coordinates":[-5.86762,33.62552],"type":"Point"}
+}

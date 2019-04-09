@@ -1,0 +1,67 @@
+{
+  "id": 1293483263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.52265,31.54321,-9.52265,31.54321",
+    "geom:latitude":31.54321,
+    "geom:longitude":-9.52265,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar Jisca",
+    "gn:country_code":"MA",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10898890,
+    "gn:latitude":31.54321,
+    "gn:longitude":-9.52265,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Jisca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10898890
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c915a6a41a0337df12121e647fe34b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1293483263,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293483263,
+    "wof:lastmodified":1536793470,
+    "wof:name":"Dar Jisca",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.52265,
+    31.54321,
+    -9.52265,
+    31.54321
+],
+  "geometry": {"coordinates":[-9.52265,31.54321],"type":"Point"}
+}

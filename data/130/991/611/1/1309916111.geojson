@@ -1,0 +1,70 @@
+{
+  "id": 1309916111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.32043,34.20343,-4.32043,34.20343",
+    "geom:latitude":34.20343,
+    "geom:longitude":-4.32043,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Jamae Dhar",
+    "gn:country_code":"MA",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545059,
+    "gn:latitude":34.20343,
+    "gn:longitude":-4.32043,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Jamae Dhar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jemaa Tahar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545059
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"51fc41e90559d541ef83118117ea95a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1309916111,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1309916111,
+    "wof:lastmodified":1537663712,
+    "wof:name":"Douar Jamae Dhar",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.32043,
+    34.20343,
+    -4.32043,
+    34.20343
+],
+  "geometry": {"coordinates":[-4.32043,34.20343],"type":"Point"}
+}

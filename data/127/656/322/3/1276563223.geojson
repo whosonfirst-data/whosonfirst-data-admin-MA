@@ -1,0 +1,72 @@
+{
+  "id": 1276563223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.30567,29.72779,-9.30567,29.72779",
+    "geom:latitude":29.72779,
+    "geom:longitude":-9.30567,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Anlla",
+    "gn:country_code":"MA",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557752,
+    "gn:latitude":29.72779,
+    "gn:longitude":-9.30567,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Anlla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An\u00e9la",
+        "Anla",
+        "Anlla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557752
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2b052b69d6fbc4f2248fc9ffdaba97af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1276563223,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276563223,
+    "wof:lastmodified":1537664118,
+    "wof:name":"Anlla",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.30567,
+    29.72779,
+    -9.30567,
+    29.72779
+],
+  "geometry": {"coordinates":[-9.30567,29.72779],"type":"Point"}
+}

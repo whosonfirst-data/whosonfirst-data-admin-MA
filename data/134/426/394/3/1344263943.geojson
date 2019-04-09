@@ -1,0 +1,67 @@
+{
+  "id": 1344263943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1246,34.35221,-5.1246,34.35221",
+    "geom:latitude":34.35221,
+    "geom:longitude":-5.1246,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Oulad Yaqout",
+    "gn:country_code":"MA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985606,
+    "gn:latitude":34.35221,
+    "gn:longitude":-5.1246,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Yaqout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985606
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"87d225a4ccb935602025b4c2df02fdca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1344263943,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1344263943,
+    "wof:lastmodified":1537075960,
+    "wof:name":"Douar Oulad Yaqout",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1246,
+    34.35221,
+    -5.1246,
+    34.35221
+],
+  "geometry": {"coordinates":[-5.1246,34.35221],"type":"Point"}
+}

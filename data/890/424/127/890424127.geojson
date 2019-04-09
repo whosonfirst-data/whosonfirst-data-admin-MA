@@ -1,0 +1,78 @@
+{
+  "id": 890424127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.19928,34.80874,-4.19928,34.80874",
+    "geom:latitude":34.80874,
+    "geom:longitude":-4.19928,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":8084,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0639\u0645\u0627\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Ammart"
+    ],
+    "name:fra_x_variant":[
+        "Bni Ammart (CR)",
+        "Bni Ammart (Commune Rurale)"
+    ],
+    "qs:name":"Bni Ammart",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547073,
+        "qs:id":630155,
+        "wd:id":"Q4930990",
+        "wk:page":"Bni Ammart"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051530,
+    "wof:geomhash":"307ca1c209d45413bd95943586ecc6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "localadmin_id":890424127,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890424127,
+    "wof:lastmodified":1527727265,
+    "wof:name":"Bni Ammart",
+    "wof:parent_id":890429097,
+    "wof:placetype":"localadmin",
+    "wof:population":8084,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.19928,
+    34.80874,
+    -4.19928,
+    34.80874
+],
+  "geometry": {"coordinates":[-4.19928,34.80874],"type":"Point"}
+}

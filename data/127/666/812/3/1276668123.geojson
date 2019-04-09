@@ -1,0 +1,71 @@
+{
+  "id": 1276668123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1627,31.19694,-6.1627,31.19694",
+    "geom:latitude":31.19694,
+    "geom:longitude":-6.1627,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Ba Hmad",
+    "gn:country_code":"MA",
+    "gn:dem":1393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560402,
+    "gn:latitude":31.19694,
+    "gn:longitude":-6.1627,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Ba Hmad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ba Hmad",
+        "A\u00eft Ba Mmad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560402
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e9b1e8e0b0de96dafedb5d43ee1cc268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1276668123,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276668123,
+    "wof:lastmodified":1537664203,
+    "wof:name":"Ait Ba Hmad",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1627,
+    31.19694,
+    -6.1627,
+    31.19694
+],
+  "geometry": {"coordinates":[-6.1627,31.19694],"type":"Point"}
+}

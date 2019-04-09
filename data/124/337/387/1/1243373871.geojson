@@ -1,0 +1,72 @@
+{
+  "id": 1243373871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20404,29.75217,-9.20404,29.75217",
+    "geom:latitude":29.75217,
+    "geom:longitude":-9.20404,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tagadiyrt I'zza",
+    "gn:country_code":"MA",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532074,
+    "gn:latitude":29.75217,
+    "gn:longitude":-9.20404,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagadiyrt I\u2019zza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiddaret",
+        "Taddart",
+        "Tagadiyrt I\u2019zza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532074
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"647aa5c4981f5073861cbb4b0e26b4c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1243373871,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243373871,
+    "wof:lastmodified":1537663485,
+    "wof:name":"Tagadiyrt I'zza",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20404,
+    29.75217,
+    -9.20404,
+    29.75217
+],
+  "geometry": {"coordinates":[-9.20404,29.75217],"type":"Point"}
+}

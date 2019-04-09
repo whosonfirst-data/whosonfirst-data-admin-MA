@@ -1,0 +1,67 @@
+{
+  "id": 1309899239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21546,31.67932,-9.21546,31.67932",
+    "geom:latitude":31.67932,
+    "geom:longitude":-9.21546,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lemhamza",
+    "gn:country_code":"MA",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10902176,
+    "gn:latitude":31.67932,
+    "gn:longitude":-9.21546,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lemhamza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10902176
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8ca966367b8bc04dc59654cb2cff3ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1309899239,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309899239,
+    "wof:lastmodified":1536796606,
+    "wof:name":"Douar Lemhamza",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21546,
+    31.67932,
+    -9.21546,
+    31.67932
+],
+  "geometry": {"coordinates":[-9.21546,31.67932],"type":"Point"}
+}

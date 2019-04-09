@@ -1,0 +1,61 @@
+{
+  "id": 1209504367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.96685,30.41432,-8.96685,30.41432",
+    "geom:latitude":30.41432,
+    "geom:longitude":-8.96685,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait ben Moussa",
+    "gn:country_code":"MA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11143194,
+    "gn:latitude":30.41432,
+    "gn:longitude":-8.96685,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft ben Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11143194
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"823a39ad47e1907020d9c5a15b6755b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209504367
+        }
+    ],
+    "wof:id":1209504367,
+    "wof:lastmodified":1536285081,
+    "wof:name":"Ait ben Moussa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.96685,
+    30.41432,
+    -8.96685,
+    30.41432
+],
+  "geometry": {"coordinates":[-8.96685,30.41432],"type":"Point"}
+}

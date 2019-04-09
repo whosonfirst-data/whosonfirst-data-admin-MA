@@ -1,0 +1,67 @@
+{
+  "id": 1293488889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.25521,33.89799,-5.25521,33.89799",
+    "geom:latitude":33.89799,
+    "geom:longitude":-5.25521,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ait Oumghar",
+    "gn:country_code":"MA",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025283,
+    "gn:latitude":33.89799,
+    "gn:longitude":-5.25521,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Oumghar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025283
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ccdf72e819c17a0cd68f8e2f3e7fedf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1293488889,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293488889,
+    "wof:lastmodified":1536785520,
+    "wof:name":"Ait Oumghar",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.25521,
+    33.89799,
+    -5.25521,
+    33.89799
+],
+  "geometry": {"coordinates":[-5.25521,33.89799],"type":"Point"}
+}

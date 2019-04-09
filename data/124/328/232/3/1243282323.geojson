@@ -1,0 +1,71 @@
+{
+  "id": 1243282323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.87803,31.52482,-7.87803,31.52482",
+    "geom:latitude":31.52482,
+    "geom:longitude":-7.87803,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Srairi",
+    "gn:country_code":"MA",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532375,
+    "gn:latitude":31.52482,
+    "gn:longitude":-7.87803,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sra\u00efri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sra\u00efri",
+        "Sra\u00efri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532375
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dc8fe2966a0c8363c9e794e9e35a4340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1243282323,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243282323,
+    "wof:lastmodified":1537663494,
+    "wof:name":"Srairi",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.87803,
+    31.52482,
+    -7.87803,
+    31.52482
+],
+  "geometry": {"coordinates":[-7.87803,31.52482],"type":"Point"}
+}

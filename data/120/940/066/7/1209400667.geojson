@@ -1,0 +1,61 @@
+{
+  "id": 1209400667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26726,31.71301,-9.26726,31.71301",
+    "geom:latitude":31.71301,
+    "geom:longitude":-9.26726,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lefkirat",
+    "gn:country_code":"MA",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10947279,
+    "gn:latitude":31.71301,
+    "gn:longitude":-9.26726,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lefkirat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10947279
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2b1e2349153dd55176568f393c8e7159",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209400667
+        }
+    ],
+    "wof:id":1209400667,
+    "wof:lastmodified":1536288158,
+    "wof:name":"Douar Lefkirat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26726,
+    31.71301,
+    -9.26726,
+    31.71301
+],
+  "geometry": {"coordinates":[-9.26726,31.71301],"type":"Point"}
+}

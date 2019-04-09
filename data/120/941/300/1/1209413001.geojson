@@ -1,0 +1,65 @@
+{
+  "id": 1209413001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.71576,32.05052,-6.71576,32.05052",
+    "geom:latitude":32.05052,
+    "geom:longitude":-6.71576,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ayt L'arbi",
+    "gn:country_code":"MA",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559633,
+    "gn:latitude":32.05052,
+    "gn:longitude":-6.71576,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ayt L\u2019arbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayt L\u2019arbi",
+        "A\u00eft Larbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559633
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"92446b8fd4a336abe329225f0a54a225",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209413001
+        }
+    ],
+    "wof:id":1209413001,
+    "wof:lastmodified":1537664174,
+    "wof:name":"Ayt L'arbi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.71576,
+    32.05052,
+    -6.71576,
+    32.05052
+],
+  "geometry": {"coordinates":[-6.71576,32.05052],"type":"Point"}
+}

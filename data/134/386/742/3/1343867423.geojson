@@ -1,0 +1,67 @@
+{
+  "id": 1343867423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.78873,35.00093,-4.78873,35.00093",
+    "geom:latitude":35.00093,
+    "geom:longitude":-4.78873,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hjar Ettouil",
+    "gn:country_code":"MA",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10845010,
+    "gn:latitude":35.00093,
+    "gn:longitude":-4.78873,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hjar Ettouil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10845010
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ee7080c16322d69d13044187dd522a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1343867423,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343867423,
+    "wof:lastmodified":1536656564,
+    "wof:name":"Hjar Ettouil",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.78873,
+    35.00093,
+    -4.78873,
+    35.00093
+],
+  "geometry": {"coordinates":[-4.78873,35.00093],"type":"Point"}
+}

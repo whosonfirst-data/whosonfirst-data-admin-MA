@@ -1,0 +1,71 @@
+{
+  "id": 1225962749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.71274,31.29726,-6.71274,31.29726",
+    "geom:latitude":31.29726,
+    "geom:longitude":-6.71274,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Anfernou",
+    "gn:country_code":"MA",
+    "gn:dem":1752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557795,
+    "gn:latitude":31.29726,
+    "gn:longitude":-6.71274,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Anfernou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anferno",
+        "Anfernou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557795
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"57f26d90af6c13f6deff486d303e302a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1225962749,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225962749,
+    "wof:lastmodified":1537664119,
+    "wof:name":"Anfernou",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.71274,
+    31.29726,
+    -6.71274,
+    31.29726
+],
+  "geometry": {"coordinates":[-6.71274,31.29726],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209630157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9336,35.65381,-5.9336,35.65381",
+    "geom:latitude":35.65381,
+    "geom:longitude":-5.9336,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Daidaat",
+    "gn:country_code":"MA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553100,
+    "gn:latitude":35.65381,
+    "gn:longitude":-5.9336,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Daidaat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da\u00efdat",
+        "Daidatz",
+        "Douar Daidaat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553100
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e84c432065364b1fad3a768adcc70fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209630157
+        }
+    ],
+    "wof:id":1209630157,
+    "wof:lastmodified":1537664024,
+    "wof:name":"Douar Daidaat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9336,
+    35.65381,
+    -5.9336,
+    35.65381
+],
+  "geometry": {"coordinates":[-5.9336,35.65381],"type":"Point"}
+}

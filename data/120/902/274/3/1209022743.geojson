@@ -1,0 +1,67 @@
+{
+  "id": 1209022743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70567,32.43465,-8.70567,32.43465",
+    "geom:latitude":32.43465,
+    "geom:longitude":-8.70567,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lehmoudat",
+    "gn:country_code":"MA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550206,
+    "gn:latitude":32.43465,
+    "gn:longitude":-8.70567,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lehmoudat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lahmoudate",
+        "Douar el Hamoudat",
+        "El Hamoudat",
+        "Lehmoudat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550206
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ee00baba1d6835d6a63208e3d15c6649",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209022743
+        }
+    ],
+    "wof:id":1209022743,
+    "wof:lastmodified":1537663870,
+    "wof:name":"Lehmoudat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70567,
+    32.43465,
+    -8.70567,
+    32.43465
+],
+  "geometry": {"coordinates":[-8.70567,32.43465],"type":"Point"}
+}

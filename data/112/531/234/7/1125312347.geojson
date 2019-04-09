@@ -1,0 +1,88 @@
+{
+  "id": 1125312347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.36534,33.6361,-7.36534,33.6361",
+    "geom:latitude":33.6361,
+    "geom:longitude":-7.36534,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":12412,
+    "gn:population":12412,
+    "iso:country":"MA",
+    "lbl:latitude":33.6361,
+    "lbl:longitude":-7.36534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0627\u0635\u064a\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Moussa Majdoub"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Moussa Majdoub (CR)",
+        "Sidi Moussa Majdoub (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545677,
+    "qs_pg:gn_pop":12412,
+    "qs_pg:name":"Sidi Moussa Majdoub",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628820,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890424147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545677,
+        "qs_pg:id":628820
+    },
+    "wof:country":"MA",
+    "wof:created":1497044074,
+    "wof:geomhash":"11a7fb8c052317b52116553531837932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424147,
+            "localadmin_id":1125312347,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1125312347,
+    "wof:lastmodified":1509387919,
+    "wof:name":"Sidi Moussa Majdoub",
+    "wof:parent_id":890424147,
+    "wof:placetype":"localadmin",
+    "wof:population":12412,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.36534,
+    33.6361,
+    -7.36534,
+    33.6361
+],
+  "geometry": {"coordinates":[-7.36534,33.6361],"type":"Point"}
+}

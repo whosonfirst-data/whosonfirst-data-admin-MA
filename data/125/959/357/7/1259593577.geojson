@@ -1,0 +1,72 @@
+{
+  "id": 1259593577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.29914,34.71274,-6.29914,34.71274",
+    "geom:latitude":34.71274,
+    "geom:longitude":-6.29914,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Manasra",
+    "gn:country_code":"MA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549694,
+    "gn:latitude":34.71274,
+    "gn:longitude":-6.29914,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Manasra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Manasra",
+        "El Mnasser",
+        "El Manasra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549694
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9e6c0221b4a65828e3f6d75d9275dc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1259593577,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1259593577,
+    "wof:lastmodified":1537663845,
+    "wof:name":"El Manasra",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.29914,
+    34.71274,
+    -6.29914,
+    34.71274
+],
+  "geometry": {"coordinates":[-6.29914,34.71274],"type":"Point"}
+}

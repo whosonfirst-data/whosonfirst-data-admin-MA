@@ -1,0 +1,70 @@
+{
+  "id": 1259994551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40567,32.39824,-8.40567,32.39824",
+    "geom:latitude":32.39824,
+    "geom:longitude":-8.40567,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Esseddiq",
+    "gn:country_code":"MA",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537597,
+    "gn:latitude":32.39824,
+    "gn:longitude":-8.40567,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Esseddiq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seddik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537597
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6afc94dd1ce7c81918f8c07b779db4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1259994551,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259994551,
+    "wof:lastmodified":1537663523,
+    "wof:name":"Douar Esseddiq",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40567,
+    32.39824,
+    -8.40567,
+    32.39824
+],
+  "geometry": {"coordinates":[-8.40567,32.39824],"type":"Point"}
+}

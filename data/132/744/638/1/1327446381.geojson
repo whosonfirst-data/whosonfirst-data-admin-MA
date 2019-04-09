@@ -1,0 +1,74 @@
+{
+  "id": 1327446381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.66297,32.43287,-5.66297,32.43287",
+    "geom:latitude":32.43287,
+    "geom:longitude":-5.66297,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ocar Oumichcha",
+    "gn:country_code":"MA",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543971,
+    "gn:latitude":32.43287,
+    "gn:longitude":-5.66297,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"O\u00e7ar Oumichcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qsar Oumichcha",
+        "Ksar Oumicha",
+        "Oumicha",
+        "Ksar Oumichcha",
+        "O\u00e7ar Oumichcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543971
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"80cf6912617d042013ab5d7e727c386a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1327446381,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1327446381,
+    "wof:lastmodified":1537663684,
+    "wof:name":"Ocar Oumichcha",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.66297,
+    32.43287,
+    -5.66297,
+    32.43287
+],
+  "geometry": {"coordinates":[-5.66297,32.43287],"type":"Point"}
+}

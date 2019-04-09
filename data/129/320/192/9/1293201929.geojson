@@ -1,0 +1,67 @@
+{
+  "id": 1293201929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.07552,34.35001,-5.07552,34.35001",
+    "geom:latitude":34.35001,
+    "geom:longitude":-5.07552,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ghzaouna",
+    "gn:country_code":"MA",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985444,
+    "gn:latitude":34.35001,
+    "gn:longitude":-5.07552,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ghzaouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985444
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dcb7636d4a0ccb1c19cafcd23eb4edd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1293201929,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293201929,
+    "wof:lastmodified":1536702021,
+    "wof:name":"Douar Ghzaouna",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.07552,
+    34.35001,
+    -5.07552,
+    34.35001
+],
+  "geometry": {"coordinates":[-5.07552,34.35001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226161487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.81886,34.72216,-3.81886,34.72216",
+    "geom:latitude":34.72216,
+    "geom:longitude":-3.81886,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bou Yazidane",
+    "gn:country_code":"MA",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553813,
+    "gn:latitude":34.72216,
+    "gn:longitude":-3.81886,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Yazidane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouiazidene",
+        "Bou Yazidane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553813
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c35b86600e8fea64d5db162f7bfe6a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1226161487,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1226161487,
+    "wof:lastmodified":1537664042,
+    "wof:name":"Bou Yazidane",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.81886,
+    34.72216,
+    -3.81886,
+    34.72216
+],
+  "geometry": {"coordinates":[-3.81886,34.72216],"type":"Point"}
+}

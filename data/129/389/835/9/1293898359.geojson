@@ -1,0 +1,67 @@
+{
+  "id": 1293898359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.52029,29.39347,-9.52029,29.39347",
+    "geom:latitude":29.39347,
+    "geom:longitude":-9.52029,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Aznag",
+    "gn:country_code":"MA",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556536,
+    "gn:latitude":29.39347,
+    "gn:longitude":-9.52029,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aznag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556536
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f23b0c5a9ccf40e6f37bf0e2e3d48bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293898359,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293898359,
+    "wof:lastmodified":1536691988,
+    "wof:name":"Aznag",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.52029,
+    29.39347,
+    -9.52029,
+    29.39347
+],
+  "geometry": {"coordinates":[-9.52029,29.39347],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260098801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.49794,32.38731,-4.49794,32.38731",
+    "geom:latitude":32.38731,
+    "geom:longitude":-4.49794,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Outazza",
+    "gn:country_code":"MA",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538568,
+    "gn:latitude":32.38731,
+    "gn:longitude":-4.49794,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Outazza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Outaza",
+        "Outazza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538568
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"11549b6ba6f0d67a49f1bb2ff5b1b119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1260098801,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1260098801,
+    "wof:lastmodified":1537663540,
+    "wof:name":"Outazza",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.49794,
+    32.38731,
+    -4.49794,
+    32.38731
+],
+  "geometry": {"coordinates":[-4.49794,32.38731],"type":"Point"}
+}

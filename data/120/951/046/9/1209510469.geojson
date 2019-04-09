@@ -1,0 +1,61 @@
+{
+  "id": 1209510469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1166,30.0242,-9.1166,30.0242",
+    "geom:latitude":30.0242,
+    "geom:longitude":-9.1166,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Anou Zagzaoun",
+    "gn:country_code":"MA",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131231,
+    "gn:latitude":30.0242,
+    "gn:longitude":-9.1166,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Anou Zagzaoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131231
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ac679f45d274a1e8027a9ec78bb03609",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209510469
+        }
+    ],
+    "wof:id":1209510469,
+    "wof:lastmodified":1536284898,
+    "wof:name":"Anou Zagzaoun",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1166,
+    30.0242,
+    -9.1166,
+    30.0242
+],
+  "geometry": {"coordinates":[-9.1166,30.0242],"type":"Point"}
+}

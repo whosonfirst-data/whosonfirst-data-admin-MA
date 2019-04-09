@@ -1,0 +1,67 @@
+{
+  "id": 1259994597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.02492,31.3815,-9.02492,31.3815",
+    "geom:latitude":31.3815,
+    "geom:longitude":-9.02492,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lahabd",
+    "gn:country_code":"MA",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543851,
+    "gn:latitude":31.3815,
+    "gn:longitude":-9.02492,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lahabd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543851
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ca2e2f92a000fefcaaca9bd84680f2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1259994597,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259994597,
+    "wof:lastmodified":1536616808,
+    "wof:name":"Lahabd",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.02492,
+    31.3815,
+    -9.02492,
+    31.3815
+],
+  "geometry": {"coordinates":[-9.02492,31.3815],"type":"Point"}
+}

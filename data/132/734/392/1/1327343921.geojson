@@ -1,0 +1,72 @@
+{
+  "id": 1327343921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.391,32.65278,-5.391,32.65278",
+    "geom:latitude":32.65278,
+    "geom:longitude":-5.391,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Azerzou",
+    "gn:country_code":"MA",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556636,
+    "gn:latitude":32.65278,
+    "gn:longitude":-5.391,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Azerzou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azerzu",
+        "Azerzo",
+        "Azerzou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556636
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"012f1c4b0e95e759ae9dce40d1f9dcf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1327343921,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327343921,
+    "wof:lastmodified":1537664090,
+    "wof:name":"Azerzou",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.391,
+    32.65278,
+    -5.391,
+    32.65278
+],
+  "geometry": {"coordinates":[-5.391,32.65278],"type":"Point"}
+}

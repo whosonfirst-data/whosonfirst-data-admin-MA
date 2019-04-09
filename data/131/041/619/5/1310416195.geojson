@@ -1,0 +1,72 @@
+{
+  "id": 1310416195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.22998,34.38981,-6.22998,34.38981",
+    "geom:latitude":34.38981,
+    "geom:longitude":-6.22998,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Layaida",
+    "gn:country_code":"MA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551579,
+    "gn:latitude":34.38981,
+    "gn:longitude":-6.22998,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Laya\u00efda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aya\u00efda",
+        "La\u00efa\u00efda",
+        "Douar Laya\u00efda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551579
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"76d0399fd89b113ed6317ee8a3841888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1310416195,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1310416195,
+    "wof:lastmodified":1537663950,
+    "wof:name":"Douar Layaida",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.22998,
+    34.38981,
+    -6.22998,
+    34.38981
+],
+  "geometry": {"coordinates":[-6.22998,34.38981],"type":"Point"}
+}

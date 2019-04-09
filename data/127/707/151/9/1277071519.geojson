@@ -1,0 +1,67 @@
+{
+  "id": 1277071519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65726,32.54205,-8.65726,32.54205",
+    "geom:latitude":32.54205,
+    "geom:longitude":-8.65726,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Lefraana",
+    "gn:country_code":"MA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867867,
+    "gn:latitude":32.54205,
+    "gn:longitude":-8.65726,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lefraana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867867
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"69b15712c36b91f8f2d09ea58fe4bada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1277071519,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1277071519,
+    "wof:lastmodified":1536784312,
+    "wof:name":"Douar Lefraana",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65726,
+    32.54205,
+    -8.65726,
+    32.54205
+],
+  "geometry": {"coordinates":[-8.65726,32.54205],"type":"Point"}
+}

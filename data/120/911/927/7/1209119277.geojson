@@ -1,0 +1,61 @@
+{
+  "id": 1209119277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.90618,35.16726,-4.90618,35.16726",
+    "geom:latitude":35.16726,
+    "geom:longitude":-4.90618,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Iounayane",
+    "gn:country_code":"MA",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999026,
+    "gn:latitude":35.16726,
+    "gn:longitude":-4.90618,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Iounayane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999026
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b068f83dd2f080df354aca91d0920475",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209119277
+        }
+    ],
+    "wof:id":1209119277,
+    "wof:lastmodified":1536297155,
+    "wof:name":"Douar Iounayane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.90618,
+    35.16726,
+    -4.90618,
+    35.16726
+],
+  "geometry": {"coordinates":[-4.90618,35.16726],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343659845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.88531,31.62673,-6.88531,31.62673",
+    "geom:latitude":31.62673,
+    "geom:longitude":-6.88531,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Ba'ddi",
+    "gn:country_code":"MA",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11355828,
+    "gn:latitude":31.62673,
+    "gn:longitude":-6.88531,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ba\u2019ddi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11355828
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b83a628a16cf38c3315b26dbee6675de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343659845,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343659845,
+    "wof:lastmodified":1536956010,
+    "wof:name":"Ait Ba'ddi",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.88531,
+    31.62673,
+    -6.88531,
+    31.62673
+],
+  "geometry": {"coordinates":[-6.88531,31.62673],"type":"Point"}
+}

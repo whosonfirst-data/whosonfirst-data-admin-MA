@@ -1,0 +1,67 @@
+{
+  "id": 1310315467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.09157,34.49853,-4.09157,34.49853",
+    "geom:latitude":34.49853,
+    "geom:longitude":-4.09157,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ain Salah",
+    "gn:country_code":"MA",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560785,
+    "gn:latitude":34.49853,
+    "gn:longitude":-4.09157,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00efn Salah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560785
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7ff07c03c26a87b77a3beeef6a5d1945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1310315467,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310315467,
+    "wof:lastmodified":1536693664,
+    "wof:name":"Ain Salah",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.09157,
+    34.49853,
+    -4.09157,
+    34.49853
+],
+  "geometry": {"coordinates":[-4.09157,34.49853],"type":"Point"}
+}

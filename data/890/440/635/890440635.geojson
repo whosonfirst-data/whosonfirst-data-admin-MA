@@ -1,0 +1,78 @@
+{
+  "id": 890440635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.67002,31.03522,-9.67002,31.03522",
+    "geom:latitude":31.03522,
+    "geom:longitude":-9.67002,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":7870,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0643\u0648\u0634\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Targante"
+    ],
+    "name:fra_x_variant":[
+        "Targante (CR)",
+        "Targante (Commune Rurale)"
+    ],
+    "qs:name":"Targante",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546664,
+        "qs:id":629769,
+        "wd:id":"Q7685836",
+        "wk:page":"Targante"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052291,
+    "wof:geomhash":"149d5cc4d9f91b0d50479e3d1f74a86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "localadmin_id":890440635,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890440635,
+    "wof:lastmodified":1527727104,
+    "wof:name":"Targante",
+    "wof:parent_id":890453939,
+    "wof:placetype":"localadmin",
+    "wof:population":7870,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.67002,
+    31.03522,
+    -9.67002,
+    31.03522
+],
+  "geometry": {"coordinates":[-9.67002,31.03522],"type":"Point"}
+}

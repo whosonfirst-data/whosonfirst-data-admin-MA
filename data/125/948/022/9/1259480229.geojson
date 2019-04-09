@@ -1,0 +1,67 @@
+{
+  "id": 1259480229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.16958,33.22169,-7.16958,33.22169",
+    "geom:latitude":33.22169,
+    "geom:longitude":-7.16958,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar Cheikh El Maataoui",
+    "gn:country_code":"MA",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10938890,
+    "gn:latitude":33.22169,
+    "gn:longitude":-7.16958,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Cheikh El Maataoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10938890
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8977474a237d1240fca4ee547b92c35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1259480229,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1259480229,
+    "wof:lastmodified":1536862102,
+    "wof:name":"Dar Cheikh El Maataoui",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.16958,
+    33.22169,
+    -7.16958,
+    33.22169
+],
+  "geometry": {"coordinates":[-7.16958,33.22169],"type":"Point"}
+}

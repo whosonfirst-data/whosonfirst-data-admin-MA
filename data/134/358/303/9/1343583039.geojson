@@ -1,0 +1,67 @@
+{
+  "id": 1343583039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19451,32.96231,-8.19451,32.96231",
+    "geom:latitude":32.96231,
+    "geom:longitude":-8.19451,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lekrifat",
+    "gn:country_code":"MA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367679,
+    "gn:latitude":32.96231,
+    "gn:longitude":-8.19451,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lekrifat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367679
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0bb2e5552f6d3d8706c7793da3285610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1343583039,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343583039,
+    "wof:lastmodified":1537064088,
+    "wof:name":"Lekrifat",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.19451,
+    32.96231,
+    -8.19451,
+    32.96231
+],
+  "geometry": {"coordinates":[-8.19451,32.96231],"type":"Point"}
+}

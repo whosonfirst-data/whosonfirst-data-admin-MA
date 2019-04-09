@@ -1,0 +1,67 @@
+{
+  "id": 1327227185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.30045,31.44921,-9.30045,31.44921",
+    "geom:latitude":31.44921,
+    "geom:longitude":-9.30045,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait bou Allal",
+    "gn:country_code":"MA",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10924083,
+    "gn:latitude":31.44921,
+    "gn:longitude":-9.30045,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft bou Allal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10924083
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c8abf686727b2b3d7d86ffb111bd5057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1327227185,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327227185,
+    "wof:lastmodified":1536976590,
+    "wof:name":"Ait bou Allal",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.30045,
+    31.44921,
+    -9.30045,
+    31.44921
+],
+  "geometry": {"coordinates":[-9.30045,31.44921],"type":"Point"}
+}

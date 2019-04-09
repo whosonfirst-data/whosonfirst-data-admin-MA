@@ -1,0 +1,61 @@
+{
+  "id": 1209518933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5083,35.06649,-4.5083,35.06649",
+    "geom:latitude":35.06649,
+    "geom:longitude":-4.5083,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Iakoukene",
+    "gn:country_code":"MA",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10957687,
+    "gn:latitude":35.06649,
+    "gn:longitude":-4.5083,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Iakoukene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10957687
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b4040bad248a588f4327f90677d66e38",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209518933
+        }
+    ],
+    "wof:id":1209518933,
+    "wof:lastmodified":1536284642,
+    "wof:name":"Douar Iakoukene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5083,
+    35.06649,
+    -4.5083,
+    35.06649
+],
+  "geometry": {"coordinates":[-4.5083,35.06649],"type":"Point"}
+}

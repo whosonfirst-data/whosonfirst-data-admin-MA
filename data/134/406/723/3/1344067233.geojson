@@ -1,0 +1,73 @@
+{
+  "id": 1344067233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96387,34.99399,-5.96387,34.99399",
+    "geom:latitude":34.99399,
+    "geom:longitude":-5.96387,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Essenadla",
+    "gn:country_code":"MA",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549217,
+    "gn:latitude":34.99399,
+    "gn:longitude":-5.96387,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Essenadla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es-Shaddla",
+        "Es Snaddla",
+        "Snadla",
+        "Douar Essenadla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549217
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00a47d3451f0faca5eba3689836a9ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1344067233,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1344067233,
+    "wof:lastmodified":1537663826,
+    "wof:name":"Douar Essenadla",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96387,
+    34.99399,
+    -5.96387,
+    34.99399
+],
+  "geometry": {"coordinates":[-5.96387,34.99399],"type":"Point"}
+}

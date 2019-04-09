@@ -1,0 +1,75 @@
+{
+  "id": 421170715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00148,31.6293035,-8.00148,31.6293035",
+    "geom:latitude":31.629303,
+    "geom:longitude":-8.00148,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0645\u0631\u0627\u0643\u0634",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0645\u0631\u0627\u0643\u0634 \u0640 \u062a\u0627\u0646\u0633\u064a\u0641\u062a \u0640 \u0627\u0644\u062d\u0648\u0632",
+    "qs:photos":4994,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4994,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1195670,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1537782,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1537782,
+        "qs:id":1195670
+    },
+    "wof:country":"MA",
+    "wof:created":1459008865,
+    "wof:geomhash":"f5f42b56bfdd490e11363ddac5c60260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":421170715,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":421170715,
+    "wof:lastmodified":1499519189,
+    "wof:name":"\u0645\u0631\u0627\u0643\u0634",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00148,
+    31.6293035,
+    -8.00148,
+    31.6293035
+],
+  "geometry": {"coordinates":[-8.00148,31.6293035],"type":"Point"}
+}

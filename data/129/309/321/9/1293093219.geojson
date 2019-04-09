@@ -1,0 +1,67 @@
+{
+  "id": 1293093219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09184,32.83288,-8.09184,32.83288",
+    "geom:latitude":32.83288,
+    "geom:longitude":-8.09184,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mohammed El Harchi",
+    "gn:country_code":"MA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367773,
+    "gn:latitude":32.83288,
+    "gn:longitude":-8.09184,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Mohammed El Harchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367773
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ef34a6b285ab980b1320d012051cbb1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1293093219,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293093219,
+    "wof:lastmodified":1536857229,
+    "wof:name":"Mohammed El Harchi",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09184,
+    32.83288,
+    -8.09184,
+    32.83288
+],
+  "geometry": {"coordinates":[-8.09184,32.83288],"type":"Point"}
+}

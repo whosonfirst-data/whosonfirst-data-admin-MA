@@ -1,0 +1,67 @@
+{
+  "id": 1276671077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0064,35.53247,-6.0064,35.53247",
+    "geom:latitude":35.53247,
+    "geom:longitude":-6.0064,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Oulad Ben Ai",
+    "gn:country_code":"MA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059113,
+    "gn:latitude":35.53247,
+    "gn:longitude":-6.0064,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Ben Ai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059113
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1075060e6f312763dcc61036da4118d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1276671077,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1276671077,
+    "wof:lastmodified":1536822198,
+    "wof:name":"Oulad Ben Ai",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0064,
+    35.53247,
+    -6.0064,
+    35.53247
+],
+  "geometry": {"coordinates":[-6.0064,35.53247],"type":"Point"}
+}

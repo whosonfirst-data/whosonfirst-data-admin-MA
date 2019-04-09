@@ -1,0 +1,78 @@
+{
+  "id": 890417181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36664,29.33552,-9.36664,29.33552",
+    "geom:latitude":29.33552,
+    "geom:longitude":-9.36664,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":4496,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0645\u064a\u0643\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Boutrouch"
+    ],
+    "name:fra_x_variant":[
+        "Boutrouch (CR)",
+        "Boutrouch (Commune Rurale)"
+    ],
+    "qs:name":"Boutrouch",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546569,
+        "qs:id":629670,
+        "wd:id":"Q4950471",
+        "wk:page":"Boutrouch"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051187,
+    "wof:geomhash":"fb1181aa2aa37c1f098f92823e3988cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "localadmin_id":890417181,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890417181,
+    "wof:lastmodified":1527782122,
+    "wof:name":"Boutrouch",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"localadmin",
+    "wof:population":4496,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36664,
+    29.33552,
+    -9.36664,
+    29.33552
+],
+  "geometry": {"coordinates":[-9.36664,29.33552],"type":"Point"}
+}

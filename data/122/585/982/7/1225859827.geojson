@@ -1,0 +1,72 @@
+{
+  "id": 1225859827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36015,35.77597,-5.36015,35.77597",
+    "geom:latitude":35.77597,
+    "geom:longitude":-5.36015,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Htatch",
+    "gn:country_code":"MA",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541390,
+    "gn:latitude":35.77597,
+    "gn:longitude":-5.36015,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Htatch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Negro",
+        "Negron",
+        "Htatch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541390
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ee890dc69b31a4bc608d0a3c738342ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784777,
+            "locality_id":1225859827,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1225859827,
+    "wof:lastmodified":1537663637,
+    "wof:name":"Htatch",
+    "wof:parent_id":1108784777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36015,
+    35.77597,
+    -5.36015,
+    35.77597
+],
+  "geometry": {"coordinates":[-5.36015,35.77597],"type":"Point"}
+}

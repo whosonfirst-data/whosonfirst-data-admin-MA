@@ -1,0 +1,67 @@
+{
+  "id": 1360071077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.42833,31.55936,-9.42833,31.55936",
+    "geom:latitude":31.55936,
+    "geom:longitude":-9.42833,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lalla El Hajja",
+    "gn:country_code":"MA",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10899883,
+    "gn:latitude":31.55936,
+    "gn:longitude":-9.42833,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lalla El Hajja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10899883
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a1173c2b0262c730c38fe46c6b2bad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1360071077,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360071077,
+    "wof:lastmodified":1536965698,
+    "wof:name":"Lalla El Hajja",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42833,
+    31.55936,
+    -9.42833,
+    31.55936
+],
+  "geometry": {"coordinates":[-9.42833,31.55936],"type":"Point"}
+}

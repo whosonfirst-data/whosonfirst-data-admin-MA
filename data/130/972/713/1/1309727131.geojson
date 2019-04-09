@@ -1,0 +1,74 @@
+{
+  "id": 1309727131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5232,29.77998,-8.5232,29.77998",
+    "geom:latitude":29.77998,
+    "geom:longitude":-8.5232,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Zawit Ait Haroun",
+    "gn:country_code":"MA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549083,
+    "gn:latitude":29.77998,
+    "gn:longitude":-8.5232,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zawit A\u00eft Haroun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Ahmed ou Haroun",
+        "Ez-Zaouia",
+        "Zaou\u00efa A\u00eft Haroun",
+        "Ez Zaouia n\u2019A\u00eft Haroun",
+        "Zawit A\u00eft Haroun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549083
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b4b939c657fc28e1dc7b908a89a6e146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1309727131,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1309727131,
+    "wof:lastmodified":1537663822,
+    "wof:name":"Zawit Ait Haroun",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5232,
+    29.77998,
+    -8.5232,
+    29.77998
+],
+  "geometry": {"coordinates":[-8.5232,29.77998],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344242791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.54631,31.45581,-7.54631,31.45581",
+    "geom:latitude":31.45581,
+    "geom:longitude":-7.54631,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Igri Lfougani",
+    "gn:country_code":"MA",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353773,
+    "gn:latitude":31.45581,
+    "gn:longitude":-7.54631,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Igri Lfougani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353773
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2e0491f218fce6d256d68c1c040cd6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1344242791,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1344242791,
+    "wof:lastmodified":1536609853,
+    "wof:name":"Igri Lfougani",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.54631,
+    31.45581,
+    -7.54631,
+    31.45581
+],
+  "geometry": {"coordinates":[-7.54631,31.45581],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209026819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69922,32.50244,-7.69922,32.50244",
+    "geom:latitude":32.50244,
+    "geom:longitude":-7.69922,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi Bou Oukfa",
+    "gn:country_code":"MA",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2535531,
+    "gn:latitude":32.50244,
+    "gn:longitude":-7.69922,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Sidi Bou Oukfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2535531
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a38c65788acdf11c6335c9d06e03aa4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209026819
+        }
+    ],
+    "wof:id":1209026819,
+    "wof:lastmodified":1536299970,
+    "wof:name":"Sidi Bou Oukfa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.699219999999999,
+    32.50244,
+    -7.699219999999999,
+    32.50244
+],
+  "geometry": {"coordinates":[-7.69922,32.50244],"type":"Point"}
+}

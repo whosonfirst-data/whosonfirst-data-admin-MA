@@ -1,0 +1,67 @@
+{
+  "id": 1360269385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06206,30.05027,-9.06206,30.05027",
+    "geom:latitude":30.05027,
+    "geom:longitude":-9.06206,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ijourar",
+    "gn:country_code":"MA",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131323,
+    "gn:latitude":30.05027,
+    "gn:longitude":-9.06206,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ijourar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131323
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"354f1b3e5e72124b02edd726b1d05621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1360269385,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360269385,
+    "wof:lastmodified":1536679785,
+    "wof:name":"Ijourar",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06206,
+    30.05027,
+    -9.06206,
+    30.05027
+],
+  "geometry": {"coordinates":[-9.06206,30.05027],"type":"Point"}
+}

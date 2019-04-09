@@ -1,0 +1,67 @@
+{
+  "id": 1243177179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.27611,33.89426,-6.27611,33.89426",
+    "geom:latitude":33.89426,
+    "geom:longitude":-6.27611,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ait Ikhlef",
+    "gn:country_code":"MA",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10964813,
+    "gn:latitude":33.89426,
+    "gn:longitude":-6.27611,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ikhlef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10964813
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"29e682782ba880b2c67c4e4cea418604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1243177179,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1243177179,
+    "wof:lastmodified":1536696949,
+    "wof:name":"Ait Ikhlef",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.27611,
+    33.89426,
+    -6.27611,
+    33.89426
+],
+  "geometry": {"coordinates":[-6.27611,33.89426],"type":"Point"}
+}

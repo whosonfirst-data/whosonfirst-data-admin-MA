@@ -1,0 +1,72 @@
+{
+  "id": 1343654961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.10388,31.62221,-7.10388,31.62221",
+    "geom:latitude":31.62221,
+    "geom:longitude":-7.10388,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Himmi",
+    "gn:country_code":"MA",
+    "gn:dem":1642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560650,
+    "gn:latitude":31.62221,
+    "gn:longitude":-7.10388,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ait Himmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Himmi",
+        "A\u00eft Aimi",
+        "Ait Himmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560650
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d11cfcc37af29071f192a2fb9bac894f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343654961,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343654961,
+    "wof:lastmodified":1537664212,
+    "wof:name":"Ait Himmi",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.10388,
+    31.62221,
+    -7.10388,
+    31.62221
+],
+  "geometry": {"coordinates":[-7.10388,31.62221],"type":"Point"}
+}

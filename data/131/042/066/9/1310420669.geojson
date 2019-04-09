@@ -1,0 +1,71 @@
+{
+  "id": 1310420669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5251,31.0103,-8.5251,31.0103",
+    "geom:latitude":31.0103,
+    "geom:longitude":-8.5251,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Alous",
+    "gn:country_code":"MA",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558376,
+    "gn:latitude":31.0103,
+    "gn:longitude":-8.5251,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Alous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Allous",
+        "Alous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558376
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ea862fa631b0c9c4efd8464e860c5f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1310420669,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310420669,
+    "wof:lastmodified":1537664135,
+    "wof:name":"Alous",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5251,
+    31.0103,
+    -8.5251,
+    31.0103
+],
+  "geometry": {"coordinates":[-8.5251,31.0103],"type":"Point"}
+}

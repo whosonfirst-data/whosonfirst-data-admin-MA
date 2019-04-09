@@ -1,0 +1,71 @@
+{
+  "id": 1310116139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20079,30.23518,-9.20079,30.23518",
+    "geom:latitude":30.23518,
+    "geom:longitude":-9.20079,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Lekherbt",
+    "gn:country_code":"MA",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543444,
+    "gn:latitude":30.23518,
+    "gn:longitude":-9.20079,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lekherbt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Khabit",
+        "Lekherbt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543444
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"007709983e9ee0f7216f271c14e806a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1310116139,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310116139,
+    "wof:lastmodified":1537663673,
+    "wof:name":"Lekherbt",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20079,
+    30.23518,
+    -9.20079,
+    30.23518
+],
+  "geometry": {"coordinates":[-9.20079,30.23518],"type":"Point"}
+}

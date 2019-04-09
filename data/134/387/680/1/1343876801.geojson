@@ -1,0 +1,67 @@
+{
+  "id": 1343876801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.72987,34.82377,-4.72987,34.82377",
+    "geom:latitude":34.82377,
+    "geom:longitude":-4.72987,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Amarstas",
+    "gn:country_code":"MA",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558260,
+    "gn:latitude":34.82377,
+    "gn:longitude":-4.72987,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Amarstas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558260
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2afc5956104d313f5fa1cc8c3f5da613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1343876801,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343876801,
+    "wof:lastmodified":1536642246,
+    "wof:name":"Amarstas",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.72987,
+    34.82377,
+    -4.72987,
+    34.82377
+],
+  "geometry": {"coordinates":[-4.72987,34.82377],"type":"Point"}
+}

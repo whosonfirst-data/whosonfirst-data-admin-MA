@@ -1,0 +1,70 @@
+{
+  "id": 1310124391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7898,30.71236,-8.7898,30.71236",
+    "geom:latitude":30.71236,
+    "geom:longitude":-8.7898,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Afennsou",
+    "gn:country_code":"MA",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561800,
+    "gn:latitude":30.71236,
+    "gn:longitude":-8.7898,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Afennsou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afensou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561800
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"efddbdbdb02ba0db32c51ec34792c3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1310124391,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310124391,
+    "wof:lastmodified":1537664248,
+    "wof:name":"Afennsou",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7898,
+    30.71236,
+    -8.7898,
+    30.71236
+],
+  "geometry": {"coordinates":[-8.7898,30.71236],"type":"Point"}
+}

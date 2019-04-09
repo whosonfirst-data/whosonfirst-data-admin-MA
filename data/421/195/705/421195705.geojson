@@ -1,0 +1,79 @@
+{
+  "id": 421195705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.03302,29.58059,-10.03302,29.58059",
+    "geom:latitude":29.58059,
+    "geom:longitude":-10.03302,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ahl Sahel"
+    ],
+    "qs:gn_country":"MA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2542167,
+    "qs:gn_pop":0,
+    "qs:name":"Mirhleft",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0633\u0648\u0633 \u0640 \u0645\u0627\u0633\u0629 \u0640 \u062f\u0631\u0639\u0629",
+    "qs:photos":246,
+    "qs:photos_1k":50,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":246,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":492975,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1537999,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542167,
+        "gp:id":1537999,
+        "qs:id":492975
+    },
+    "wof:country":"MA",
+    "wof:created":1459009856,
+    "wof:geomhash":"619e4bec8c0585d16f15ecce7e30e33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":421195705,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":421195705,
+    "wof:lastmodified":1501263437,
+    "wof:name":"Mirhleft",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.03302,
+    29.58059,
+    -10.03302,
+    29.58059
+],
+  "geometry": {"coordinates":[-10.03302,29.58059],"type":"Point"}
+}

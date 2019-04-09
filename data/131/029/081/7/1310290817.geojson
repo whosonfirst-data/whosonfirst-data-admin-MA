@@ -1,0 +1,67 @@
+{
+  "id": 1310290817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58979,31.30252,-9.58979,31.30252",
+    "geom:latitude":31.30252,
+    "geom:longitude":-9.58979,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Id Antini",
+    "gn:country_code":"MA",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946204,
+    "gn:latitude":31.30252,
+    "gn:longitude":-9.58979,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Id Antini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946204
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"69954c5624d6c50448b662b4ee772914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1310290817,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310290817,
+    "wof:lastmodified":1536729525,
+    "wof:name":"Douar Id Antini",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58979,
+    31.30252,
+    -9.58979,
+    31.30252
+],
+  "geometry": {"coordinates":[-9.58979,31.30252],"type":"Point"}
+}

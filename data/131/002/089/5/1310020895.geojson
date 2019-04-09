@@ -1,0 +1,73 @@
+{
+  "id": 1310020895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.03797,35.36563,-6.03797,35.36563",
+    "geom:latitude":35.36563,
+    "geom:longitude":-6.03797,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Bajlaou",
+    "gn:country_code":"MA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542743,
+    "gn:latitude":35.36563,
+    "gn:longitude":-6.03797,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bajlaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mejtaou",
+        "Mechlaou",
+        "Mejlaou",
+        "Douar Bajlaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542743
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"72495c454ce312a35d53751445bed6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1310020895,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310020895,
+    "wof:lastmodified":1537663659,
+    "wof:name":"Douar Bajlaou",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.03797,
+    35.36563,
+    -6.03797,
+    35.36563
+],
+  "geometry": {"coordinates":[-6.03797,35.36563],"type":"Point"}
+}

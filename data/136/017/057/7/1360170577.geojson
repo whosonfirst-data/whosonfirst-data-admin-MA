@@ -1,0 +1,67 @@
+{
+  "id": 1360170577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.90169,31.44376,-7.90169,31.44376",
+    "geom:latitude":31.44376,
+    "geom:longitude":-7.90169,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Moulay Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353210,
+    "gn:latitude":31.44376,
+    "gn:longitude":-7.90169,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Moulay Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353210
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9929bd3b030e27df6d6317429adc6fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1360170577,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360170577,
+    "wof:lastmodified":1536821508,
+    "wof:name":"Moulay Ahmed",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.90169,
+    31.44376,
+    -7.90169,
+    31.44376
+],
+  "geometry": {"coordinates":[-7.90169,31.44376],"type":"Point"}
+}

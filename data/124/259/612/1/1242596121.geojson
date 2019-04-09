@@ -1,0 +1,70 @@
+{
+  "id": 1242596121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.14584,35.00743,-4.14584,35.00743",
+    "geom:latitude":35.00743,
+    "geom:longitude":-4.14584,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Machkour",
+    "gn:country_code":"MA",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542874,
+    "gn:latitude":35.00743,
+    "gn:longitude":-4.14584,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Machkour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechkour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542874
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"830103f456fb9bd6b032ecfec34ccd65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1242596121,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1242596121,
+    "wof:lastmodified":1537663662,
+    "wof:name":"Douar Machkour",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.14584,
+    35.00743,
+    -4.14584,
+    35.00743
+],
+  "geometry": {"coordinates":[-4.14584,35.00743],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310083117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2,27.68,-12.2,27.68",
+    "geom:latitude":27.68,
+    "geom:longitude":-12.2,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"321.0",
+    "gn:admin3_code":"232101031.0",
+    "gn:asciiname":"Khaoui Naam",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544448,
+    "gn:latitude":27.68,
+    "gn:longitude":-12.2,
+    "gn:modification_date":"2016-11-04",
+    "gn:name":"Khaoui Naam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haoui en Naam",
+        "Khaoui Nhaam",
+        "Khaoui Naam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673941,
+        1108784823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544448
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f28666a570694a15a22677a98eb37a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784823,
+            "locality_id":1310083117,
+            "region_id":85673941
+        }
+    ],
+    "wof:id":1310083117,
+    "wof:lastmodified":1537663695,
+    "wof:name":"Khaoui Naam",
+    "wof:parent_id":1108784823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2,
+    27.68,
+    -12.2,
+    27.68
+],
+  "geometry": {"coordinates":[-12.2,27.68],"type":"Point"}
+}

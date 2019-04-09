@@ -1,0 +1,70 @@
+{
+  "id": 1260193129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.45037,34.61266,-5.45037,34.61266",
+    "geom:latitude":34.61266,
+    "geom:longitude":-5.45037,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Chaouia Lbir",
+    "gn:country_code":"MA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553524,
+    "gn:latitude":34.61266,
+    "gn:longitude":-5.45037,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Chaouia Lbir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaouia el Bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553524
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ada8150cc525d920769b435bcc6a7b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1260193129,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1260193129,
+    "wof:lastmodified":1537664036,
+    "wof:name":"Douar Chaouia Lbir",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.45037,
+    34.61266,
+    -5.45037,
+    34.61266
+],
+  "geometry": {"coordinates":[-5.45037,34.61266],"type":"Point"}
+}

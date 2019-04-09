@@ -1,0 +1,71 @@
+{
+  "id": 1193147283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.04978,32.03738,-3.04978,32.03738",
+    "geom:latitude":32.03738,
+    "geom:longitude":-3.04978,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bou'nane",
+    "gn:country_code":"MA",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555182,
+    "gn:latitude":32.03738,
+    "gn:longitude":-3.04978,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Bou\u2019nane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou\u2019nane",
+        "Bou Anane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555182
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"98f58353e9dcbed4e290df8081a909c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1193147283,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1193147283,
+    "wof:lastmodified":1537664060,
+    "wof:name":"Bou'nane",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.04978,
+    32.03738,
+    -3.04978,
+    32.03738
+],
+  "geometry": {"coordinates":[-3.04978,32.03738],"type":"Point"}
+}

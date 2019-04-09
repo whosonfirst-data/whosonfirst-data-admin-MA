@@ -1,0 +1,67 @@
+{
+  "id": 1343771183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.09893,35.02408,-6.09893,35.02408",
+    "geom:latitude":35.02408,
+    "geom:longitude":-6.09893,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cooperative Boujdour",
+    "gn:country_code":"MA",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10934343,
+    "gn:latitude":35.02408,
+    "gn:longitude":-6.09893,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Cooperative Boujdour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10934343
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d9a23f292bc2436951583818d9b2936b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1343771183,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343771183,
+    "wof:lastmodified":1536795628,
+    "wof:name":"Cooperative Boujdour",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.09893,
+    35.02408,
+    -6.09893,
+    35.02408
+],
+  "geometry": {"coordinates":[-6.09893,35.02408],"type":"Point"}
+}

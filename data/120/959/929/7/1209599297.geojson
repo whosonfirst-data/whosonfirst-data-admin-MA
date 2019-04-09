@@ -1,0 +1,61 @@
+{
+  "id": 1209599297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.24561,29.71675,-9.24561,29.71675",
+    "geom:latitude":29.71675,
+    "geom:longitude":-9.24561,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Agni",
+    "gn:country_code":"MA",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130165,
+    "gn:latitude":29.71675,
+    "gn:longitude":-9.24561,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Agni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130165
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f5080b602c5ca2d35c205d04e0c8660c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209599297
+        }
+    ],
+    "wof:id":1209599297,
+    "wof:lastmodified":1536282221,
+    "wof:name":"Agni",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24561,
+    29.71675,
+    -9.24561,
+    29.71675
+],
+  "geometry": {"coordinates":[-9.24561,29.71675],"type":"Point"}
+}

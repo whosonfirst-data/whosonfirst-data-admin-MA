@@ -1,0 +1,75 @@
+{
+  "id": 890440531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.54034,32.24432,-1.54034,32.24432",
+    "geom:latitude":32.24432,
+    "geom:longitude":-1.54034,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":1497,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0644\u0633\u064a\u0646\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Abbou Lakhal"
+    ],
+    "name:fra_x_variant":[
+        "Abbou Lakhal (CR)",
+        "Abbou Lakhal (Commune Rurale)"
+    ],
+    "qs:name":"Abbou Lakhal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546400,
+        "qs:id":629505
+    },
+    "wof:country":"MA",
+    "wof:created":1469052287,
+    "wof:geomhash":"e96a51baa53caea8ece085996eae52a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "localadmin_id":890440531,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890440531,
+    "wof:lastmodified":1505343577,
+    "wof:name":"Abbou Lakhal",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"localadmin",
+    "wof:population":1497,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.54034,
+    32.24432,
+    -1.54034,
+    32.24432
+],
+  "geometry": {"coordinates":[-1.54034,32.24432],"type":"Point"}
+}

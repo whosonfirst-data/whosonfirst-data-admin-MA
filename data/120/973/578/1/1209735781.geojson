@@ -1,0 +1,67 @@
+{
+  "id": 1209735781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09297,31.9759,-9.09297,31.9759",
+    "geom:latitude":31.9759,
+    "geom:longitude":-9.09297,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Labbazda",
+    "gn:country_code":"MA",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912094,
+    "gn:latitude":31.9759,
+    "gn:longitude":-9.09297,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Labbazda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912094
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"53a24bbb05d93cc4d68501be294ab43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1209735781,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1209735781,
+    "wof:lastmodified":1536373887,
+    "wof:name":"Labbazda",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09297,
+    31.9759,
+    -9.09297,
+    31.9759
+],
+  "geometry": {"coordinates":[-9.09297,31.9759],"type":"Point"}
+}

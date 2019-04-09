@@ -1,0 +1,67 @@
+{
+  "id": 1310218293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.24472,35.55303,-5.24472,35.55303",
+    "geom:latitude":35.55303,
+    "geom:longitude":-5.24472,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"571.0",
+    "gn:admin3_code":"1657105072.0",
+    "gn:asciiname":"Azla",
+    "gn:country_code":"MA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2571932,
+    "gn:latitude":35.55303,
+    "gn:longitude":-5.24472,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Azla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571932
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e1c6f5529042756c56be8cbfb0ab56b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1310218293,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310218293,
+    "wof:lastmodified":1536832716,
+    "wof:name":"Azla",
+    "wof:parent_id":85673883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.24472,
+    35.55303,
+    -5.24472,
+    35.55303
+],
+  "geometry": {"coordinates":[-5.24472,35.55303],"type":"Point"}
+}

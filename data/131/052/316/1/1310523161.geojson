@@ -1,0 +1,72 @@
+{
+  "id": 1310523161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.34078,32.81906,-7.34078,32.81906",
+    "geom:latitude":32.81906,
+    "geom:longitude":-7.34078,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mouari Djawna",
+    "gn:country_code":"MA",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551541,
+    "gn:latitude":32.81906,
+    "gn:longitude":-7.34078,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Mouari Djawna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Mouari Djaouna",
+        "Douar Mouari Jaouna",
+        "Mouari Djawna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551541
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a00b60608683f2d253c0db382dfce66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1310523161,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1310523161,
+    "wof:lastmodified":1537663947,
+    "wof:name":"Mouari Djawna",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.34078,
+    32.81906,
+    -7.34078,
+    32.81906
+],
+  "geometry": {"coordinates":[-7.34078,32.81906],"type":"Point"}
+}

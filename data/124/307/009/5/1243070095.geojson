@@ -1,0 +1,67 @@
+{
+  "id": 1243070095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.67904,35.23374,-3.67904,35.23374",
+    "geom:latitude":35.23374,
+    "geom:longitude":-3.67904,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Hemderra",
+    "gn:country_code":"MA",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560367,
+    "gn:latitude":35.23374,
+    "gn:longitude":-3.67904,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Hemderra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560367
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a979aa3818170504fcb7e20b799a28a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1243070095,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243070095,
+    "wof:lastmodified":1536849949,
+    "wof:name":"Douar Hemderra",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.67904,
+    35.23374000000001,
+    -3.67904,
+    35.23374000000001
+],
+  "geometry": {"coordinates":[-3.67904,35.23374000000001],"type":"Point"}
+}

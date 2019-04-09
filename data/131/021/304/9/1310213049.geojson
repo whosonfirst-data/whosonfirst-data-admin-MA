@@ -1,0 +1,67 @@
+{
+  "id": 1310213049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.32708,34.7038,-2.32708,34.7038",
+    "geom:latitude":34.7038,
+    "geom:longitude":-2.32708,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Bou Raadayne",
+    "gn:country_code":"MA",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10998523,
+    "gn:latitude":34.7038,
+    "gn:longitude":-2.32708,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bou Raadayne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10998523
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"584fdcd145814be5f72891a55f4d2cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":1310213049,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1310213049,
+    "wof:lastmodified":1536840265,
+    "wof:name":"Douar Bou Raadayne",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.32708,
+    34.7038,
+    -2.32708,
+    34.7038
+],
+  "geometry": {"coordinates":[-2.32708,34.7038],"type":"Point"}
+}

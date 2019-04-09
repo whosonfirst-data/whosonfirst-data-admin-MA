@@ -1,0 +1,67 @@
+{
+  "id": 1293311147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.63,29.93,-9.63,29.93",
+    "geom:latitude":29.93,
+    "geom:longitude":-9.63,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Jraif",
+    "gn:country_code":"MA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544930,
+    "gn:latitude":29.93,
+    "gn:longitude":-9.63,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jra\u00eff",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544930
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"04b83cbdd1b0f360be01525533b966cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1293311147,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293311147,
+    "wof:lastmodified":1537039584,
+    "wof:name":"Jraif",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.63,
+    29.93,
+    -9.63,
+    29.93
+],
+  "geometry": {"coordinates":[-9.63,29.93],"type":"Point"}
+}

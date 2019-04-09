@@ -1,0 +1,67 @@
+{
+  "id": 1310208447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.07332,35.00917,-5.07332,35.00917",
+    "geom:latitude":35.00917,
+    "geom:longitude":-5.07332,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Echaqra",
+    "gn:country_code":"MA",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10954085,
+    "gn:latitude":35.00917,
+    "gn:longitude":-5.07332,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Echaqra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10954085
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dcad78e151d49158e0f1f08ba2bc0e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1310208447,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310208447,
+    "wof:lastmodified":1536846877,
+    "wof:name":"Douar Echaqra",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.07332,
+    35.00917,
+    -5.07332,
+    35.00917
+],
+  "geometry": {"coordinates":[-5.07332,35.00917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293001959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.90813,34.10313,-4.90813,34.10313",
+    "geom:latitude":34.10313,
+    "geom:longitude":-4.90813,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Bin Dura",
+    "gn:country_code":"MA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10993031,
+    "gn:latitude":34.10313,
+    "gn:longitude":-4.90813,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bin Dura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10993031
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2274a2e128ae45cf2d768460903ae1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1293001959,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293001959,
+    "wof:lastmodified":1536989145,
+    "wof:name":"Douar Bin Dura",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.90813,
+    34.10313,
+    -4.90813,
+    34.10313
+],
+  "geometry": {"coordinates":[-4.90813,34.10313],"type":"Point"}
+}

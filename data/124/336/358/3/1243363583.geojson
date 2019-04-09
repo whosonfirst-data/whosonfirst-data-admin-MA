@@ -1,0 +1,67 @@
+{
+  "id": 1243363583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.8571,34.92562,-5.8571,34.92562",
+    "geom:latitude":34.92562,
+    "geom:longitude":-5.8571,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oued El Makhazine",
+    "gn:country_code":"MA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10992542,
+    "gn:latitude":34.92562,
+    "gn:longitude":-5.8571,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oued El Makhazine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10992542
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"46380aa3cc15acb8919e48cce076ffec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1243363583,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1243363583,
+    "wof:lastmodified":1536925771,
+    "wof:name":"Oued El Makhazine",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.8571,
+    34.92562,
+    -5.8571,
+    34.92562
+],
+  "geometry": {"coordinates":[-5.8571,34.92562],"type":"Point"}
+}

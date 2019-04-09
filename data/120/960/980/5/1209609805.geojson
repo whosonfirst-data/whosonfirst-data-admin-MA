@@ -1,0 +1,61 @@
+{
+  "id": 1209609805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.27312,33.19708,-7.27312,33.19708",
+    "geom:latitude":33.19708,
+    "geom:longitude":-7.27312,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Laabadliya Mouline Legrar",
+    "gn:country_code":"MA",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936456,
+    "gn:latitude":33.19708,
+    "gn:longitude":-7.27312,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laabadliya Mouline Legrar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936456
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e3065547918b1f336391233e7826462b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209609805
+        }
+    ],
+    "wof:id":1209609805,
+    "wof:lastmodified":1536281885,
+    "wof:name":"Douar Laabadliya Mouline Legrar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.27312,
+    33.19708,
+    -7.27312,
+    33.19708
+],
+  "geometry": {"coordinates":[-7.27312,33.19708],"type":"Point"}
+}

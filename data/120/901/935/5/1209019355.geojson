@@ -1,0 +1,68 @@
+{
+  "id": 1209019355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.82592,34.3276,-5.82592,34.3276",
+    "geom:latitude":34.3276,
+    "geom:longitude":-5.82592,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad Brahim",
+    "gn:country_code":"MA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551334,
+    "gn:latitude":34.3276,
+    "gn:longitude":-5.82592,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Sidi Brahim",
+        "Douar Ouled Sidi Brahim",
+        "Ouled Sidi Brahim",
+        "Douar Oulad Brahim",
+        "Douar Oulad Sidi Brahim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551334
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f683690a319b73fe81986b6878be9b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019355
+        }
+    ],
+    "wof:id":1209019355,
+    "wof:lastmodified":1537663929,
+    "wof:name":"Douar Oulad Brahim",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.82592,
+    34.3276,
+    -5.82592,
+    34.3276
+],
+  "geometry": {"coordinates":[-5.82592,34.3276],"type":"Point"}
+}

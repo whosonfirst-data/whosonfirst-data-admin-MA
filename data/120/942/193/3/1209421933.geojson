@@ -1,0 +1,64 @@
+{
+  "id": 1209421933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.71395,33.82842,-4.71395,33.82842",
+    "geom:latitude":33.82842,
+    "geom:longitude":-4.71395,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Dhar Lbir",
+    "gn:country_code":"MA",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10977523,
+    "gn:latitude":33.82842,
+    "gn:longitude":-4.71395,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Dhar Lbir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leghris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10977523
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"021c3e46472c1626c81ba408233435ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209421933
+        }
+    ],
+    "wof:id":1209421933,
+    "wof:lastmodified":1537664298,
+    "wof:name":"Douar Dhar Lbir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.71395,
+    33.82842,
+    -4.71395,
+    33.82842
+],
+  "geometry": {"coordinates":[-4.71395,33.82842],"type":"Point"}
+}

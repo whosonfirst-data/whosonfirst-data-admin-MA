@@ -1,0 +1,67 @@
+{
+  "id": 1243282299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.11,29.25,-10.11,29.25",
+    "geom:latitude":29.25,
+    "geom:longitude":-10.11,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Medarsa",
+    "gn:country_code":"MA",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542843,
+    "gn:latitude":29.25,
+    "gn:longitude":-10.11,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Medarsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542843
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"20afd370ca5b202b4db150a0bda1cdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1243282299,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243282299,
+    "wof:lastmodified":1537040454,
+    "wof:name":"Medarsa",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.11,
+    29.25,
+    -10.11,
+    29.25
+],
+  "geometry": {"coordinates":[-10.11,29.25],"type":"Point"}
+}

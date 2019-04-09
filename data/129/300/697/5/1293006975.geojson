@@ -1,0 +1,67 @@
+{
+  "id": 1293006975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.66648,33.71572,-5.66648,33.71572",
+    "geom:latitude":33.71572,
+    "geom:longitude":-5.66648,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ain Lahsen",
+    "gn:country_code":"MA",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970841,
+    "gn:latitude":33.71572,
+    "gn:longitude":-5.66648,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ain Lahsen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970841
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3a3b3150cfa94eb7b40deaa79cec7424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1293006975,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293006975,
+    "wof:lastmodified":1536981986,
+    "wof:name":"Ain Lahsen",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.66648,
+    33.71572,
+    -5.66648,
+    33.71572
+],
+  "geometry": {"coordinates":[-5.66648,33.71572],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890417159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60733,32.6991,-8.60733,32.6991",
+    "geom:latitude":32.6991,
+    "geom:longitude":-8.60733,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":30286,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u0633\u0628\u064a\u0637\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Saniat Berguig"
+    ],
+    "name:fra_x_variant":[
+        "Saniat Berguig (CR)",
+        "Saniat Berguig (Commune Rurale)"
+    ],
+    "qs:name":"Saniat Berguig",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546515,
+        "qs:id":629621,
+        "wd:id":"Q12215261",
+        "wk:page":"Saniat Berguig"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051185,
+    "wof:geomhash":"b432c0e09984f2a665b10e06533c7bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "localadmin_id":890417159,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":890417159,
+    "wof:lastmodified":1527782119,
+    "wof:name":"Saniat Berguig",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"localadmin",
+    "wof:population":30286,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60733,
+    32.6991,
+    -8.60733,
+    32.6991
+],
+  "geometry": {"coordinates":[-8.60733,32.6991],"type":"Point"}
+}

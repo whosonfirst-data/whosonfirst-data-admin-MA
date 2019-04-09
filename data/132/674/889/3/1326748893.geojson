@@ -1,0 +1,73 @@
+{
+  "id": 1326748893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.15747,31.28797,-8.15747,31.28797",
+    "geom:latitude":31.28797,
+    "geom:longitude":-8.15747,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ait Amara el Oued",
+    "gn:country_code":"MA",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560523,
+    "gn:latitude":31.28797,
+    "gn:longitude":-8.15747,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar A\u00eft Amara el Oued",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00eft Amara el Oued",
+        "A\u00eft Amara",
+        "A\u00eft Amara el Oued",
+        "A\u00eft Amara el Ouled"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560523
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dbaffe688e4201a9708cc7719a61ae73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1326748893,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326748893,
+    "wof:lastmodified":1537664207,
+    "wof:name":"Douar Ait Amara el Oued",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.15747,
+    31.28797,
+    -8.15747,
+    31.28797
+],
+  "geometry": {"coordinates":[-8.15747,31.28797],"type":"Point"}
+}

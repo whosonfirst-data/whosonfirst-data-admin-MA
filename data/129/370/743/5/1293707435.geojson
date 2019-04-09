@@ -1,0 +1,67 @@
+{
+  "id": 1293707435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.84555,29.43889,-9.84555,29.43889",
+    "geom:latitude":29.43889,
+    "geom:longitude":-9.84555,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Id Mitous",
+    "gn:country_code":"MA",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100938,
+    "gn:latitude":29.43889,
+    "gn:longitude":-9.84555,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Mitous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100938
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"91dfe6ae0ed7dc00e6ed21cfb69f6af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1293707435,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293707435,
+    "wof:lastmodified":1536967123,
+    "wof:name":"Id Mitous",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.84555,
+    29.43889,
+    -9.84555,
+    29.43889
+],
+  "geometry": {"coordinates":[-9.84555,29.43889],"type":"Point"}
+}

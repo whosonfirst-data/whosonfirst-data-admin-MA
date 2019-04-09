@@ -1,0 +1,61 @@
+{
+  "id": 1209528827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05566,35.30645,-5.05566,35.30645",
+    "geom:latitude":35.30645,
+    "geom:longitude":-5.05566,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Ikharrimene",
+    "gn:country_code":"MA",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10954510,
+    "gn:latitude":35.30645,
+    "gn:longitude":-5.05566,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ikharrimene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10954510
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"abeefe15a67302e66dd4a921bc2dc91b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209528827
+        }
+    ],
+    "wof:id":1209528827,
+    "wof:lastmodified":1536284347,
+    "wof:name":"Douar Ikharrimene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05566,
+    35.30645,
+    -5.05566,
+    35.30645
+],
+  "geometry": {"coordinates":[-5.05566,35.30645],"type":"Point"}
+}

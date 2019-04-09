@@ -1,0 +1,67 @@
+{
+  "id": 1209904471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.93727,29.34067,-9.93727,29.34067",
+    "geom:latitude":29.34067,
+    "geom:longitude":-9.93727,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Azdam",
+    "gn:country_code":"MA",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100647,
+    "gn:latitude":29.34067,
+    "gn:longitude":-9.93727,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Azdam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100647
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bd51b4a66a90a0739c201e9d68f0bf17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1209904471,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209904471,
+    "wof:lastmodified":1536384941,
+    "wof:name":"Azdam",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.93727,
+    29.34067000000001,
+    -9.93727,
+    29.34067000000001
+],
+  "geometry": {"coordinates":[-9.93727,29.34067000000001],"type":"Point"}
+}

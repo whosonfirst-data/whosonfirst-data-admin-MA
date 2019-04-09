@@ -1,0 +1,70 @@
+{
+  "id": 1343576195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.78194,31.16873,-9.78194,31.16873",
+    "geom:latitude":31.16873,
+    "geom:longitude":-9.78194,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi Bou Tebaf",
+    "gn:country_code":"MA",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2535539,
+    "gn:latitude":31.16873,
+    "gn:longitude":-9.78194,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Bou Tebaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Bou Nsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2535539
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f99e77f3b1c2cc7110c19956412ed1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1343576195,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343576195,
+    "wof:lastmodified":1537663513,
+    "wof:name":"Sidi Bou Tebaf",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.78194,
+    31.16873,
+    -9.78194,
+    31.16873
+],
+  "geometry": {"coordinates":[-9.78194,31.16873],"type":"Point"}
+}

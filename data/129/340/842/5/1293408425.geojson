@@ -1,0 +1,74 @@
+{
+  "id": 1293408425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.90932,32.37295,-7.90932,32.37295",
+    "geom:latitude":32.37295,
+    "geom:longitude":-7.90932,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Beggara Chaab",
+    "gn:country_code":"MA",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556226,
+    "gn:latitude":32.37295,
+    "gn:longitude":-7.90932,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Beggara Chaab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Cha\u00efbet",
+        "Cha\u00efbat",
+        "Begara el Chaab",
+        "Begara ech Chaab",
+        "Douar Beggara Chaab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556226
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"840e8f0064c2e336b8d941986322dd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1293408425,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293408425,
+    "wof:lastmodified":1537664081,
+    "wof:name":"Douar Beggara Chaab",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.90932,
+    32.37295,
+    -7.90932,
+    32.37295
+],
+  "geometry": {"coordinates":[-7.90932,32.37295],"type":"Point"}
+}

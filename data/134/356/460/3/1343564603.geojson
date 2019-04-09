@@ -1,0 +1,67 @@
+{
+  "id": 1343564603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.39703,34.62757,-5.39703,34.62757",
+    "geom:latitude":34.62757,
+    "geom:longitude":-5.39703,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Sakhra",
+    "gn:country_code":"MA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925309,
+    "gn:latitude":34.62757,
+    "gn:longitude":-5.39703,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Sakhra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925309
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c713385431e48eb0bfd4c95c2118b9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1343564603,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343564603,
+    "wof:lastmodified":1537090245,
+    "wof:name":"Douar Sakhra",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.39703,
+    34.62757,
+    -5.39703,
+    34.62757
+],
+  "geometry": {"coordinates":[-5.39703,34.62757],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260193193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.42644,31.34144,-8.42644,31.34144",
+    "geom:latitude":31.34144,
+    "geom:longitude":-8.42644,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tal'a Qassem",
+    "gn:country_code":"MA",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531155,
+    "gn:latitude":31.34144,
+    "gn:longitude":-8.42644,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tal\u2019a Qassem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tal\u00e2 kacem",
+        "Tal\u2019at Qassem",
+        "Tala Kassem",
+        "Tal\u2019a Qassem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531155
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3086b6cbee243951bb12e9b5bd9fe59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1260193193,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1260193193,
+    "wof:lastmodified":1537663459,
+    "wof:name":"Tal'a Qassem",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.42644,
+    31.34144,
+    -8.42644,
+    31.34144
+],
+  "geometry": {"coordinates":[-8.42644,31.34144],"type":"Point"}
+}

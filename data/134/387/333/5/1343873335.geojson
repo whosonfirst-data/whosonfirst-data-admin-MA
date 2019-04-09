@@ -1,0 +1,70 @@
+{
+  "id": 1343873335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.86688,29.39463,-9.86688,29.39463",
+    "geom:latitude":29.39463,
+    "geom:longitude":-9.86688,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Salla",
+    "gn:country_code":"MA",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547065,
+    "gn:latitude":29.39463,
+    "gn:longitude":-9.86688,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Salla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Salah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547065
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dac3d7a8f1bdab12992aa97fb10a3442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1343873335,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343873335,
+    "wof:lastmodified":1537663777,
+    "wof:name":"Id Salla",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.86688,
+    29.39463,
+    -9.86688,
+    29.39463
+],
+  "geometry": {"coordinates":[-9.86688,29.39463],"type":"Point"}
+}

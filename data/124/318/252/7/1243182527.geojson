@@ -1,0 +1,76 @@
+{
+  "id": 1243182527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.67539,28.50014,-10.67539,28.50014",
+    "geom:latitude":28.50014,
+    "geom:longitude":-10.67539,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Ayoun Ighoumane",
+    "gn:country_code":"MA",
+    "gn:dem":221,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550804,
+    "gn:latitude":28.50014,
+    "gn:longitude":-10.67539,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Ayoun Ighoumane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c2\u00efoun-du-Dra",
+        "El A\u00efoun du Dr\u00e2a",
+        "L\u00e2oun Dr\u00e2a",
+        "El Aioun",
+        "El A\u00efoun du Dra",
+        "El Ayoun Ighoumane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890422523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550804
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6c9ca8182a0537d93fe1855dbd5fe4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422523,
+            "locality_id":1243182527,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1243182527,
+    "wof:lastmodified":1537663900,
+    "wof:name":"El Ayoun Ighoumane",
+    "wof:parent_id":890422523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.67539,
+    28.50014,
+    -10.67539,
+    28.50014
+],
+  "geometry": {"coordinates":[-10.67539,28.50014],"type":"Point"}
+}

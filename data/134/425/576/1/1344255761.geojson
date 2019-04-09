@@ -1,0 +1,71 @@
+{
+  "id": 1344255761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18582,31.68669,-7.18582,31.68669",
+    "geom:latitude":31.68669,
+    "geom:longitude":-7.18582,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Sidi Boucalah",
+    "gn:country_code":"MA",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2535483,
+    "gn:latitude":31.68669,
+    "gn:longitude":-7.18582,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ait Sidi Bou\u00e7alah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ait Sidi Bou\u00e7alah",
+        "Sidi Bou Salah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2535483
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"23bce8bfeb1f6b7ae0561cfe3f9ec94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1344255761,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1344255761,
+    "wof:lastmodified":1537663513,
+    "wof:name":"Ait Sidi Boucalah",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18582,
+    31.68669,
+    -7.18582,
+    31.68669
+],
+  "geometry": {"coordinates":[-7.18582,31.68669],"type":"Point"}
+}

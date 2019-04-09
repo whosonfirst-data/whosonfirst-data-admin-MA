@@ -1,0 +1,71 @@
+{
+  "id": 1309822153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.42842,31.43998,-5.42842,31.43998",
+    "geom:latitude":31.43998,
+    "geom:longitude":-5.42842,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tadafalt",
+    "gn:country_code":"MA",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532111,
+    "gn:latitude":31.43998,
+    "gn:longitude":-5.42842,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tadafalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadafalte",
+        "Tadafalt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532111
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f2c41831a9b6571ae8dce4210f8fcf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1309822153,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309822153,
+    "wof:lastmodified":1537663486,
+    "wof:name":"Tadafalt",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.42842,
+    31.43998,
+    -5.42842,
+    31.43998
+],
+  "geometry": {"coordinates":[-5.42842,31.43998],"type":"Point"}
+}

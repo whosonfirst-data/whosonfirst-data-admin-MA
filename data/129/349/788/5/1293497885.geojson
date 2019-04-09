@@ -1,0 +1,71 @@
+{
+  "id": 1293497885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06144,34.69538,-5.06144,34.69538",
+    "geom:latitude":34.69538,
+    "geom:longitude":-5.06144,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bou Zakhnine",
+    "gn:country_code":"MA",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553802,
+    "gn:latitude":34.69538,
+    "gn:longitude":-5.06144,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Zakhnine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouzghinine",
+        "Bou Zakhnine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553802
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8558e2b9df6c8adf259894fb994e55cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1293497885,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293497885,
+    "wof:lastmodified":1537664042,
+    "wof:name":"Bou Zakhnine",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06144,
+    34.69538,
+    -5.06144,
+    34.69538
+],
+  "geometry": {"coordinates":[-5.06144,34.69538],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309927615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.09312,33.35918,-7.09312,33.35918",
+    "geom:latitude":33.35918,
+    "geom:longitude":-7.09312,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouad Lhahriya",
+    "gn:country_code":"MA",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939071,
+    "gn:latitude":33.35918,
+    "gn:longitude":-7.09312,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ouad Lhahriya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939071
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2b468ea108a644d058ecd58e88e8dd83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1309927615,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1309927615,
+    "wof:lastmodified":1536755610,
+    "wof:name":"Ouad Lhahriya",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.09312,
+    33.35918,
+    -7.09312,
+    33.35918
+],
+  "geometry": {"coordinates":[-7.09312,33.35918],"type":"Point"}
+}

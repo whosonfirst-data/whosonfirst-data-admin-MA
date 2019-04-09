@@ -1,0 +1,61 @@
+{
+  "id": 1209211853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.04267,33.72355,-7.04267,33.72355",
+    "geom:latitude":33.72355,
+    "geom:longitude":-7.04267,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Chadui",
+    "gn:country_code":"MA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939847,
+    "gn:latitude":33.72355,
+    "gn:longitude":-7.04267,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Chadui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939847
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"81a58c98f0ec1fcb6b46e078a54b65c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209211853
+        }
+    ],
+    "wof:id":1209211853,
+    "wof:lastmodified":1536294264,
+    "wof:name":"Oulad Chadui",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.042669999999998,
+    33.72355,
+    -7.042669999999998,
+    33.72355
+],
+  "geometry": {"coordinates":[-7.04267,33.72355],"type":"Point"}
+}

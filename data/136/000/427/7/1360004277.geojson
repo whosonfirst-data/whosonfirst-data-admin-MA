@@ -1,0 +1,67 @@
+{
+  "id": 1360004277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25556,31.06785,-9.25556,31.06785",
+    "geom:latitude":31.06785,
+    "geom:longitude":-9.25556,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Igrane",
+    "gn:country_code":"MA",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546687,
+    "gn:latitude":31.06785,
+    "gn:longitude":-9.25556,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Igrane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546687
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"11f523e2a9e5d16f0a4672e59c2dc0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1360004277,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360004277,
+    "wof:lastmodified":1537059606,
+    "wof:name":"Igrane",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25556,
+    31.06785,
+    -9.25556,
+    31.06785
+],
+  "geometry": {"coordinates":[-9.25556,31.06785],"type":"Point"}
+}

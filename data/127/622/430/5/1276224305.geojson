@@ -1,0 +1,67 @@
+{
+  "id": 1276224305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58401,32.92651,-8.58401,32.92651",
+    "geom:latitude":32.92651,
+    "geom:longitude":-8.58401,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Oulad La'raje",
+    "gn:country_code":"MA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367366,
+    "gn:latitude":32.92651,
+    "gn:longitude":-8.58401,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad La\u2019raje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367366
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e9230514c91e1e18acc8c9913462a685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1276224305,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1276224305,
+    "wof:lastmodified":1536925683,
+    "wof:name":"Douar Oulad La'raje",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58401,
+    32.92651,
+    -8.58401,
+    32.92651
+],
+  "geometry": {"coordinates":[-8.58401,32.92651],"type":"Point"}
+}

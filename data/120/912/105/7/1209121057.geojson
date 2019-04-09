@@ -1,0 +1,66 @@
+{
+  "id": 1209121057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.08,35.2,-4.08,35.2",
+    "geom:latitude":35.2,
+    "geom:longitude":-4.08,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ifrane Tanda",
+    "gn:country_code":"MA",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546901,
+    "gn:latitude":35.2,
+    "gn:longitude":-4.08,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ifrane Tanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinda Ifrane",
+        "Ifran Tanda",
+        "Ifrane Tanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546901
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f86d09ec103931c1733b8ecdd9b9cc7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209121057
+        }
+    ],
+    "wof:id":1209121057,
+    "wof:lastmodified":1537663771,
+    "wof:name":"Ifrane Tanda",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.08,
+    35.2,
+    -4.08,
+    35.2
+],
+  "geometry": {"coordinates":[-4.08,35.2],"type":"Point"}
+}

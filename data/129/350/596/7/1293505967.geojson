@@ -1,0 +1,72 @@
+{
+  "id": 1293505967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.86715,35.15541,-4.86715,35.15541",
+    "geom:latitude":35.15541,
+    "geom:longitude":-4.86715,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Tazekhenatet",
+    "gn:country_code":"MA",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527452,
+    "gn:latitude":35.15541,
+    "gn:longitude":-4.86715,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tazekhenatet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tizeknatate",
+        "Tisgouenatane",
+        "Douar Tazekhenatet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527452
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"33236d73c478dc8581d2996935e2a217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1293505967,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293505967,
+    "wof:lastmodified":1537663354,
+    "wof:name":"Douar Tazekhenatet",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.86715,
+    35.15541,
+    -4.86715,
+    35.15541
+],
+  "geometry": {"coordinates":[-4.86715,35.15541],"type":"Point"}
+}

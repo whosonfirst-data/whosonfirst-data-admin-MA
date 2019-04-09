@@ -1,0 +1,72 @@
+{
+  "id": 1243440129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.37941,31.95264,-7.37941,31.95264",
+    "geom:latitude":31.95264,
+    "geom:longitude":-7.37941,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ktawa",
+    "gn:country_code":"MA",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543919,
+    "gn:latitude":31.95264,
+    "gn:longitude":-7.37941,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ktawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ktaoua",
+        "Ktaoua",
+        "Ktawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543919
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"38831a29904c1a3de4848d251099f0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1243440129,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243440129,
+    "wof:lastmodified":1537663682,
+    "wof:name":"Ktawa",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.37941,
+    31.95264,
+    -7.37941,
+    31.95264
+],
+  "geometry": {"coordinates":[-7.37941,31.95264],"type":"Point"}
+}

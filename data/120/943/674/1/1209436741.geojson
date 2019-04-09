@@ -1,0 +1,61 @@
+{
+  "id": 1209436741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59016,32.97695,-7.59016,32.97695",
+    "geom:latitude":32.97695,
+    "geom:longitude":-7.59016,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Sinto",
+    "gn:country_code":"MA",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11434047,
+    "gn:latitude":32.97695,
+    "gn:longitude":-7.59016,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Oulad Sinto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11434047
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"32d18e1731e11222de3cf9ea27c2d7b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209436741
+        }
+    ],
+    "wof:id":1209436741,
+    "wof:lastmodified":1536287081,
+    "wof:name":"Oulad Sinto",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.590160000000001,
+    32.97695,
+    -7.590160000000001,
+    32.97695
+],
+  "geometry": {"coordinates":[-7.59016,32.97695],"type":"Point"}
+}

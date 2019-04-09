@@ -1,0 +1,66 @@
+{
+  "id": 1209124625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.78417,30.85715,-9.78417,30.85715",
+    "geom:latitude":30.85715,
+    "geom:longitude":-9.78417,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Id Bou Abba",
+    "gn:country_code":"MA",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547303,
+    "gn:latitude":30.85715,
+    "gn:longitude":-9.78417,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Bou Abba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouaba",
+        "Arbe",
+        "Id Bou Abba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547303
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7067b33b62a6f2a0f63d4aab2cdd3a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209124625
+        }
+    ],
+    "wof:id":1209124625,
+    "wof:lastmodified":1537663787,
+    "wof:name":"Id Bou Abba",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.78417,
+    30.85715,
+    -9.78417,
+    30.85715
+],
+  "geometry": {"coordinates":[-9.78417,30.85715],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209192821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.90553,29.50465,-9.90553,29.50465",
+    "geom:latitude":29.50465,
+    "geom:longitude":-9.90553,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Douar Id Hammou Cuteghous",
+    "gn:country_code":"MA",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10886685,
+    "gn:latitude":29.50465,
+    "gn:longitude":-9.90553,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Id Hammou Cuteghous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10886685
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"27affa51d3cc6cb7cc6807f1492252ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209192821
+        }
+    ],
+    "wof:id":1209192821,
+    "wof:lastmodified":1536294875,
+    "wof:name":"Douar Id Hammou Cuteghous",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.90553,
+    29.50465,
+    -9.90553,
+    29.50465
+],
+  "geometry": {"coordinates":[-9.90553,29.50465],"type":"Point"}
+}

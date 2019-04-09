@@ -1,0 +1,61 @@
+{
+  "id": 1209499141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.96227,29.60561,-9.96227,29.60561",
+    "geom:latitude":29.60561,
+    "geom:longitude":-9.96227,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Douar Id Bel Kacem",
+    "gn:country_code":"MA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10886514,
+    "gn:latitude":29.60561,
+    "gn:longitude":-9.96227,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Id Bel Kacem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10886514
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3688b4c4f2c2a2e1964d91cfaffdaa33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209499141
+        }
+    ],
+    "wof:id":1209499141,
+    "wof:lastmodified":1536285240,
+    "wof:name":"Douar Id Bel Kacem",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.96227,
+    29.60561,
+    -9.96227,
+    29.60561
+],
+  "geometry": {"coordinates":[-9.96227,29.60561],"type":"Point"}
+}

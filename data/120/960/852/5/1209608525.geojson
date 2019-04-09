@@ -1,0 +1,64 @@
+{
+  "id": 1209608525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32287,31.58633,-7.32287,31.58633",
+    "geom:latitude":31.58633,
+    "geom:longitude":-7.32287,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Souq el Arbaa",
+    "gn:country_code":"MA",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532397,
+    "gn:latitude":31.58633,
+    "gn:longitude":-7.32287,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Souq el Arbaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souq al Arab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532397
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"444735ac6c25d6d262290699a6f4df0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209608525
+        }
+    ],
+    "wof:id":1209608525,
+    "wof:lastmodified":1537663495,
+    "wof:name":"Souq el Arbaa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.32287,
+    31.58633,
+    -7.32287,
+    31.58633
+],
+  "geometry": {"coordinates":[-7.32287,31.58633],"type":"Point"}
+}

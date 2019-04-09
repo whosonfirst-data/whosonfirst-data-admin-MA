@@ -1,0 +1,61 @@
+{
+  "id": 1209607285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84339,33.15078,-7.84339,33.15078",
+    "geom:latitude":33.15078,
+    "geom:longitude":-7.84339,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar Haj Bachir",
+    "gn:country_code":"MA",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11472559,
+    "gn:latitude":33.15078,
+    "gn:longitude":-7.84339,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Dar Haj Bachir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11472559
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5654555ace56ad652d830a1121aa65fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209607285
+        }
+    ],
+    "wof:id":1209607285,
+    "wof:lastmodified":1536281968,
+    "wof:name":"Dar Haj Bachir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8433899999999985,
+    33.15078,
+    -7.8433899999999985,
+    33.15078
+],
+  "geometry": {"coordinates":[-7.84339,33.15078],"type":"Point"}
+}

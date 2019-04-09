@@ -1,0 +1,67 @@
+{
+  "id": 1225964513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33732,31.79659,-9.33732,31.79659",
+    "geom:latitude":31.79659,
+    "geom:longitude":-9.33732,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Legridal",
+    "gn:country_code":"MA",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10947462,
+    "gn:latitude":31.79659,
+    "gn:longitude":-9.33732,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Legridal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10947462
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"642c908b9b6f6116e60f3e3a1615cb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1225964513,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1225964513,
+    "wof:lastmodified":1536841223,
+    "wof:name":"Douar Legridal",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33732,
+    31.79659,
+    -9.33732,
+    31.79659
+],
+  "geometry": {"coordinates":[-9.33732,31.79659],"type":"Point"}
+}

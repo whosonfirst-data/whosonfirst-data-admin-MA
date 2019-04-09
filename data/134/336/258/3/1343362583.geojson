@@ -1,0 +1,67 @@
+{
+  "id": 1343362583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.95966,35.08259,-3.95966,35.08259",
+    "geom:latitude":35.08259,
+    "geom:longitude":-3.95966,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ait Beuhker",
+    "gn:country_code":"MA",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10958222,
+    "gn:latitude":35.08259,
+    "gn:longitude":-3.95966,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Beuhker",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10958222
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c3a49d1bb2b87f8098845c03fc54d381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1343362583,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343362583,
+    "wof:lastmodified":1536886937,
+    "wof:name":"Ait Beuhker",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.95966,
+    35.08259,
+    -3.95966,
+    35.08259
+],
+  "geometry": {"coordinates":[-3.95966,35.08259],"type":"Point"}
+}

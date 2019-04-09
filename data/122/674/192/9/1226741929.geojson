@@ -1,0 +1,67 @@
+{
+  "id": 1226741929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31221,33.03668,-8.31221,33.03668",
+    "geom:latitude":33.03668,
+    "geom:longitude":-8.31221,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar El Ksaiba",
+    "gn:country_code":"MA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11472328,
+    "gn:latitude":33.03668,
+    "gn:longitude":-8.31221,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Douar El Ksa\u00efba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11472328
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f9742613c7e171cd3b7851da0e2be3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1226741929,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226741929,
+    "wof:lastmodified":1536721395,
+    "wof:name":"Douar El Ksaiba",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31221,
+    33.03668,
+    -8.31221,
+    33.03668
+],
+  "geometry": {"coordinates":[-8.31221,33.03668],"type":"Point"}
+}

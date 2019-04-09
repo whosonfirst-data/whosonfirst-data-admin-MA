@@ -1,0 +1,61 @@
+{
+  "id": 1209092187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3353,31.58412,-9.3353,31.58412",
+    "geom:latitude":31.58412,
+    "geom:longitude":-9.3353,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ait Bouhmida",
+    "gn:country_code":"MA",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946846,
+    "gn:latitude":31.58412,
+    "gn:longitude":-9.3353,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Bouhmida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946846
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c5f86019a0fb0b8bd3a4085cb8f1d55b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209092187
+        }
+    ],
+    "wof:id":1209092187,
+    "wof:lastmodified":1536298002,
+    "wof:name":"Douar Ait Bouhmida",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3353,
+    31.58412,
+    -9.3353,
+    31.58412
+],
+  "geometry": {"coordinates":[-9.3353,31.58412],"type":"Point"}
+}

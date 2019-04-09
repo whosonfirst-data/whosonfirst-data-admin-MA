@@ -1,0 +1,88 @@
+{
+  "id": 1125329747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.79513,34.02526,-6.79513,34.02526",
+    "geom:latitude":34.02526,
+    "geom:longitude":-6.79513,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":98751,
+    "gn:population":98751,
+    "iso:country":"MA",
+    "lbl:latitude":34.02526,
+    "lbl:longitude":-6.79513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0645\u0631\u064a\u0633\u0629 (\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Bettana"
+    ],
+    "name:fra_x_variant":[
+        "Bettana (AR)",
+        "Bettana (Arrondissement)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545565,
+    "qs_pg:gn_pop":98751,
+    "qs_pg:name":"Bettana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":628705,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545565,
+        "qs_pg:id":628705
+    },
+    "wof:country":"MA",
+    "wof:created":1497045065,
+    "wof:geomhash":"b17dfdeca14cd5481dcedf8bf8c1af1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "localadmin_id":1125329747,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1125329747,
+    "wof:lastmodified":1509388341,
+    "wof:name":"Bettana",
+    "wof:parent_id":1108784811,
+    "wof:placetype":"localadmin",
+    "wof:population":98751,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.79513,
+    34.02526,
+    -6.79513,
+    34.02526
+],
+  "geometry": {"coordinates":[-6.79513,34.02526],"type":"Point"}
+}

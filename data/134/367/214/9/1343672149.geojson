@@ -1,0 +1,72 @@
+{
+  "id": 1343672149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.53711,33.80782,-4.53711,33.80782",
+    "geom:latitude":33.80782,
+    "geom:longitude":-4.53711,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Dar Haqqoune",
+    "gn:country_code":"MA",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552710,
+    "gn:latitude":33.80782,
+    "gn:longitude":-4.53711,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Dar Haqqoune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dkakkoun",
+        "Dar Hakoun",
+        "Douar Dar Haqqoune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552710
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"645e361091ff63be32bc98fe8e78489a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1343672149,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1343672149,
+    "wof:lastmodified":1537664011,
+    "wof:name":"Douar Dar Haqqoune",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.53711,
+    33.80782,
+    -4.53711,
+    33.80782
+],
+  "geometry": {"coordinates":[-4.53711,33.80782],"type":"Point"}
+}

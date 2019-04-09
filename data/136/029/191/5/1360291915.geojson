@@ -1,0 +1,67 @@
+{
+  "id": 1360291915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.71549,33.78329,-4.71549,33.78329",
+    "geom:latitude":33.78329,
+    "geom:longitude":-4.71549,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Fri Ouchene",
+    "gn:country_code":"MA",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10977676,
+    "gn:latitude":33.78329,
+    "gn:longitude":-4.71549,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Fri Ouchene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10977676
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e658d3be09724fb080f59cc9faefef60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1360291915,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1360291915,
+    "wof:lastmodified":1536646764,
+    "wof:name":"Douar Fri Ouchene",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.71549,
+    33.78329,
+    -4.71549,
+    33.78329
+],
+  "geometry": {"coordinates":[-4.71549,33.78329],"type":"Point"}
+}

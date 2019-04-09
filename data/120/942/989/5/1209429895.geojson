@@ -1,0 +1,61 @@
+{
+  "id": 1209429895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7344,29.37913,-9.7344,29.37913",
+    "geom:latitude":29.37913,
+    "geom:longitude":-9.7344,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Lahallat",
+    "gn:country_code":"MA",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543847,
+    "gn:latitude":29.37913,
+    "gn:longitude":-9.7344,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lahallat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543847
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1ec84c66a0e38c022ae00a5f2a0dccdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429895
+        }
+    ],
+    "wof:id":1209429895,
+    "wof:lastmodified":1536287266,
+    "wof:name":"Lahallat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7344,
+    29.37913,
+    -9.7344,
+    29.37913
+],
+  "geometry": {"coordinates":[-9.7344,29.37913],"type":"Point"}
+}

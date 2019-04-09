@@ -1,0 +1,75 @@
+{
+  "id": 890420357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.33782,34.21216,-5.33782,34.21216",
+    "geom:latitude":34.21216,
+    "geom:longitude":-5.33782,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":12232,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0626\u064a\u0645\u0648\u0632\u0627\u0631 \u0643\u0646\u062f\u0631 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Sebt Loudaya"
+    ],
+    "name:fra_x_variant":[
+        "Sebt Loudaya (CR)",
+        "Sebt Loudaya (Commune Rurale)"
+    ],
+    "qs:name":"Sebt Loudaya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546990,
+        "qs:id":630068
+    },
+    "wof:country":"MA",
+    "wof:created":1469051334,
+    "wof:geomhash":"3b8e8b3ed1578140e7e1405a130b2681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "localadmin_id":890420357,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":890420357,
+    "wof:lastmodified":1505343457,
+    "wof:name":"Sebt Loudaya",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"localadmin",
+    "wof:population":12232,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.33782,
+    34.21216,
+    -5.33782,
+    34.21216
+],
+  "geometry": {"coordinates":[-5.33782,34.21216],"type":"Point"}
+}

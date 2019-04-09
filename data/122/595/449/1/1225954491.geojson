@@ -1,0 +1,72 @@
+{
+  "id": 1225954491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.92026,30.37127,-8.92026,30.37127",
+    "geom:latitude":30.37127,
+    "geom:longitude":-8.92026,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Hamidouch",
+    "gn:country_code":"MA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548311,
+    "gn:latitude":30.37127,
+    "gn:longitude":-8.92026,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Hamidouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hafa\u00efa Keblaniine",
+        "Hafa\u00efa",
+        "Hamidouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548311
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"82fc9301a3bda2c4d03d6d487b53717a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1225954491,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225954491,
+    "wof:lastmodified":1537663808,
+    "wof:name":"Hamidouch",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.92026,
+    30.37127000000001,
+    -8.92026,
+    30.37127000000001
+],
+  "geometry": {"coordinates":[-8.92026,30.37127000000001],"type":"Point"}
+}

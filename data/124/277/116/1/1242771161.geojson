@@ -1,0 +1,67 @@
+{
+  "id": 1242771161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46011,32.04015,-8.46011,32.04015",
+    "geom:latitude":32.04015,
+    "geom:longitude":-8.46011,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar El Ghaba",
+    "gn:country_code":"MA",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10640103,
+    "gn:latitude":32.04015,
+    "gn:longitude":-8.46011,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Ghaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10640103
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8482fe22335e75bc7a7954a97ac49f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1242771161,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1242771161,
+    "wof:lastmodified":1536785408,
+    "wof:name":"Douar El Ghaba",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46011,
+    32.04015,
+    -8.46011,
+    32.04015
+],
+  "geometry": {"coordinates":[-8.46011,32.04015],"type":"Point"}
+}

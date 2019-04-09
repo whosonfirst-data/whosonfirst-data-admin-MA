@@ -1,0 +1,67 @@
+{
+  "id": 1343783713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22073,32.75751,-8.22073,32.75751",
+    "geom:latitude":32.75751,
+    "geom:longitude":-8.22073,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad L'aidi",
+    "gn:country_code":"MA",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367596,
+    "gn:latitude":32.75751,
+    "gn:longitude":-8.22073,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad L\u2019a\u00efdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367596
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3c969c64d4b1164d1c3bce2e8d0e91f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1343783713,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343783713,
+    "wof:lastmodified":1536778005,
+    "wof:name":"Oulad L'aidi",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22073,
+    32.75751,
+    -8.22073,
+    32.75751
+],
+  "geometry": {"coordinates":[-8.22073,32.75751],"type":"Point"}
+}

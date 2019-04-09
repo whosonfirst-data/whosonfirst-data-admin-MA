@@ -1,0 +1,67 @@
+{
+  "id": 1310690557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.04844,29.82611,-9.04844,29.82611",
+    "geom:latitude":29.82611,
+    "geom:longitude":-9.04844,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ighir Ouzoutn",
+    "gn:country_code":"MA",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130741,
+    "gn:latitude":29.82611,
+    "gn:longitude":-9.04844,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ighir Ouzoutn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130741
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"37befb65c3c885dfbe04aaccbc5d15cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1310690557,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310690557,
+    "wof:lastmodified":1536649699,
+    "wof:name":"Ighir Ouzoutn",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.04844,
+    29.82611,
+    -9.04844,
+    29.82611
+],
+  "geometry": {"coordinates":[-9.04844,29.82611],"type":"Point"}
+}

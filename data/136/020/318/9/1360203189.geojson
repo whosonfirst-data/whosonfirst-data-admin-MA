@@ -1,0 +1,67 @@
+{
+  "id": 1360203189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.65588,35.18785,-5.65588,35.18785",
+    "geom:latitude":35.18785,
+    "geom:longitude":-5.65588,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Habtia",
+    "gn:country_code":"MA",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548386,
+    "gn:latitude":35.18785,
+    "gn:longitude":-5.65588,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Habtia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548386
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4a13b4b726a02c72190e2743a15ece7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1360203189,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1360203189,
+    "wof:lastmodified":1536775914,
+    "wof:name":"Habtia",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.65588,
+    35.18785,
+    -5.65588,
+    35.18785
+],
+  "geometry": {"coordinates":[-5.65588,35.18785],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193027765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.00661,35.03668,-3.00661,35.03668",
+    "geom:latitude":35.03668,
+    "geom:longitude":-3.00661,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Laazib",
+    "gn:country_code":"MA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999568,
+    "gn:latitude":35.03668,
+    "gn:longitude":-3.00661,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laazib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999568
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"611cc12b6712450b862a75190bb99f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1193027765,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1193027765,
+    "wof:lastmodified":1536366478,
+    "wof:name":"Douar Laazib",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.00661,
+    35.03668,
+    -3.00661,
+    35.03668
+],
+  "geometry": {"coordinates":[-3.00661,35.03668],"type":"Point"}
+}

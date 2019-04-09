@@ -1,0 +1,66 @@
+{
+  "id": 1209022773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.05,35.03,-4.05,35.03",
+    "geom:latitude":35.03,
+    "geom:longitude":-4.05,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ait Dou",
+    "gn:country_code":"MA",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560105,
+    "gn:latitude":35.03,
+    "gn:longitude":-4.05,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Dou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft daoud",
+        "Ait Du",
+        "A\u00eft Dou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560105
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fe03b36c9a1148ca84511008e6ee36a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209022773
+        }
+    ],
+    "wof:id":1209022773,
+    "wof:lastmodified":1537664193,
+    "wof:name":"Ait Dou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.05,
+    35.03,
+    -4.05,
+    35.03
+],
+  "geometry": {"coordinates":[-4.05,35.03],"type":"Point"}
+}

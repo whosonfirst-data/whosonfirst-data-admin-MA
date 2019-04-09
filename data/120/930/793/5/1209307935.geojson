@@ -1,0 +1,61 @@
+{
+  "id": 1209307935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25224,31.08657,-8.25224,31.08657",
+    "geom:latitude":31.08657,
+    "geom:longitude":-8.25224,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ourmer",
+    "gn:country_code":"MA",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149426,
+    "gn:latitude":31.08657,
+    "gn:longitude":-8.25224,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ourmer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149426
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8fbd505ac8b74bbdb785a5cd390aaed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209307935
+        }
+    ],
+    "wof:id":1209307935,
+    "wof:lastmodified":1536291129,
+    "wof:name":"Ourmer",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.252239999999999,
+    31.08657,
+    -8.252239999999999,
+    31.08657
+],
+  "geometry": {"coordinates":[-8.25224,31.08657],"type":"Point"}
+}

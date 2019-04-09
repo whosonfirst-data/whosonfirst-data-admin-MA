@@ -1,0 +1,74 @@
+{
+  "id": 1209935355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.02895,31.81371,-5.02895,31.81371",
+    "geom:latitude":31.81371,
+    "geom:longitude":-5.02895,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tizaght",
+    "gn:country_code":"MA",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527224,
+    "gn:latitude":31.81371,
+    "gn:longitude":-5.02895,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tizaght",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tizert",
+        "Tizerht",
+        "Tizerte",
+        "Tizeght",
+        "Tizaght"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527224
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ae9ead6a0350aa452df06fd242c24fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1209935355,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1209935355,
+    "wof:lastmodified":1537663348,
+    "wof:name":"Tizaght",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.02895,
+    31.81371,
+    -5.02895,
+    31.81371
+],
+  "geometry": {"coordinates":[-5.02895,31.81371],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209112477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.50608,33.7257,-5.50608,33.7257",
+    "geom:latitude":33.7257,
+    "geom:longitude":-5.50608,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ait Amer Ait Youssef",
+    "gn:country_code":"MA",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8542388,
+    "gn:latitude":33.7257,
+    "gn:longitude":-5.50608,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Ait Amer Ait Youssef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8542388
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aad64228a3c416d5ed83d702785740ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209112477
+        }
+    ],
+    "wof:id":1209112477,
+    "wof:lastmodified":1536297361,
+    "wof:name":"Douar Ait Amer Ait Youssef",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.50608,
+    33.7257,
+    -5.50608,
+    33.7257
+],
+  "geometry": {"coordinates":[-5.50608,33.7257],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226653909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.43119,34.93547,-2.43119,34.93547",
+    "geom:latitude":34.93547,
+    "geom:longitude":-2.43119,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tzayast",
+    "gn:country_code":"MA",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10933383,
+    "gn:latitude":34.93547,
+    "gn:longitude":-2.43119,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tzayast",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10933383
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"da808cc60b82818a97fe2ec98a66f5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":1226653909,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1226653909,
+    "wof:lastmodified":1536846491,
+    "wof:name":"Tzayast",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.43119,
+    34.93547,
+    -2.43119,
+    34.93547
+],
+  "geometry": {"coordinates":[-2.43119,34.93547],"type":"Point"}
+}

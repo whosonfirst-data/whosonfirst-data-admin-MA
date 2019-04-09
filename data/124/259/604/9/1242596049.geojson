@@ -1,0 +1,72 @@
+{
+  "id": 1242596049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.40878,34.00166,-6.40878,34.00166",
+    "geom:latitude":34.00166,
+    "geom:longitude":-6.40878,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sidi Allal el Bahraoui",
+    "gn:country_code":"MA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2536393,
+    "gn:latitude":34.00166,
+    "gn:longitude":-6.40878,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Allal el Bahraoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi-Allal-Bahraoui",
+        "Sidi Allal el Bahraoui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2536393,
+        "wk:page":"Sidi_Allal_El_Bahraoui"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"547d2b27c8c03406a23b616a079936ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1242596049,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1242596049,
+    "wof:lastmodified":1537663517,
+    "wof:name":"Sidi Allal el Bahraoui",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.40878,
+    34.00166,
+    -6.40878,
+    34.00166
+],
+  "geometry": {"coordinates":[-6.40878,34.00166],"type":"Point"}
+}

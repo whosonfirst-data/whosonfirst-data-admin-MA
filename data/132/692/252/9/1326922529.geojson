@@ -1,0 +1,67 @@
+{
+  "id": 1326922529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.671,33.066,-8.671,33.066",
+    "geom:latitude":33.066,
+    "geom:longitude":-8.671,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Khadra",
+    "gn:country_code":"MA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471574,
+    "gn:latitude":33.066,
+    "gn:longitude":-8.671,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Douar Khadra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471574
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f82a17a2a0854f79a4db3c66bbfa9c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1326922529,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1326922529,
+    "wof:lastmodified":1536919400,
+    "wof:name":"Douar Khadra",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.671,
+    33.066,
+    -8.671,
+    33.066
+],
+  "geometry": {"coordinates":[-8.671,33.066],"type":"Point"}
+}

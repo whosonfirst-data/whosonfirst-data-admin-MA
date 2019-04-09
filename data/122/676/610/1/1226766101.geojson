@@ -1,0 +1,72 @@
+{
+  "id": 1226766101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5225,32.08982,-5.5225,32.08982",
+    "geom:latitude":32.08982,
+    "geom:longitude":-5.5225,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Touroubdit",
+    "gn:country_code":"MA",
+    "gn:dem":2258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526666,
+    "gn:latitude":32.08982,
+    "gn:longitude":-5.5225,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Touroubdit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taroubdit",
+        "Ksar tourabdit",
+        "Touroubdit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526666
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2f5397d93b444684e08bb0ebfd3c30fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1226766101,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226766101,
+    "wof:lastmodified":1537663333,
+    "wof:name":"Touroubdit",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5225,
+    32.08982,
+    -5.5225,
+    32.08982
+],
+  "geometry": {"coordinates":[-5.5225,32.08982],"type":"Point"}
+}

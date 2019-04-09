@@ -1,0 +1,61 @@
+{
+  "id": 1209436743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22109,33.09466,-7.22109,33.09466",
+    "geom:latitude":33.09466,
+    "geom:longitude":-7.22109,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Oulad Abbou Lemkhatnya",
+    "gn:country_code":"MA",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936550,
+    "gn:latitude":33.09466,
+    "gn:longitude":-7.22109,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Abbou Lemkhatnya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936550
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"da69b15a76f4a91ea791e8ff24ef4ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209436743
+        }
+    ],
+    "wof:id":1209436743,
+    "wof:lastmodified":1536287081,
+    "wof:name":"Douar Oulad Abbou Lemkhatnya",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.2210899999999985,
+    33.09466,
+    -7.2210899999999985,
+    33.09466
+],
+  "geometry": {"coordinates":[-7.22109,33.09466],"type":"Point"}
+}

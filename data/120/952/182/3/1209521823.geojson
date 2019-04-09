@@ -1,0 +1,61 @@
+{
+  "id": 1209521823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58575,33.51748,-5.58575,33.51748",
+    "geom:latitude":33.51748,
+    "geom:longitude":-5.58575,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dar Ait Said Ou Moussa",
+    "gn:country_code":"MA",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970623,
+    "gn:latitude":33.51748,
+    "gn:longitude":-5.58575,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Ait Said Ou Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970623
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2b4f49f5d9d32243e2af0fe29fc5dac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209521823
+        }
+    ],
+    "wof:id":1209521823,
+    "wof:lastmodified":1536284555,
+    "wof:name":"Dar Ait Said Ou Moussa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58575,
+    33.51748,
+    -5.58575,
+    33.51748
+],
+  "geometry": {"coordinates":[-5.58575,33.51748],"type":"Point"}
+}

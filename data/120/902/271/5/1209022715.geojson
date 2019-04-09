@@ -1,0 +1,67 @@
+{
+  "id": 1209022715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85,31.66,-7.85,31.66",
+    "geom:latitude":31.66,
+    "geom:longitude":-7.85,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Douar Soukkane",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551195,
+    "gn:latitude":31.66,
+    "gn:longitude":-7.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Soukkane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assakane",
+        "Soukkane",
+        "Douar Soukkane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551195
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cac34b6b4011a6887069c608b00a9379",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209022715
+        }
+    ],
+    "wof:id":1209022715,
+    "wof:lastmodified":1537663918,
+    "wof:name":"Douar Soukkane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85,
+    31.66,
+    -7.85,
+    31.66
+],
+  "geometry": {"coordinates":[-7.85,31.66],"type":"Point"}
+}

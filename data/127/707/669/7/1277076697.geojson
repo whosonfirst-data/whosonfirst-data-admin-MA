@@ -1,0 +1,67 @@
+{
+  "id": 1277076697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.34419,35.13257,-3.34419,35.13257",
+    "geom:latitude":35.13257,
+    "geom:longitude":-3.34419,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bou Reggane",
+    "gn:country_code":"MA",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472554,
+    "gn:latitude":35.13257,
+    "gn:longitude":-3.34419,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Bou Reggane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472554
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8d6d7b9c75710e48b9966f25f0d9c364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1277076697,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1277076697,
+    "wof:lastmodified":1536776898,
+    "wof:name":"Bou Reggane",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.34419,
+    35.13257,
+    -3.34419,
+    35.13257
+],
+  "geometry": {"coordinates":[-3.34419,35.13257],"type":"Point"}
+}

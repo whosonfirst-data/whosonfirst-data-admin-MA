@@ -1,0 +1,73 @@
+{
+  "id": 1243373865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96099,32.81921,-4.96099,32.81921",
+    "geom:latitude":32.81921,
+    "geom:longitude":-4.96099,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zayda",
+    "gn:country_code":"MA",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526104,
+    "gn:latitude":32.81921,
+    "gn:longitude":-4.96099,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Zayda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasba Za\u00efda",
+        "Zaida",
+        "Ze\u00efda",
+        "Zayda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526104
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"04ed9123be6b607af0ff22e2f8e9c01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1243373865,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1243373865,
+    "wof:lastmodified":1537663311,
+    "wof:name":"Zayda",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96099,
+    32.81921,
+    -4.96099,
+    32.81921
+],
+  "geometry": {"coordinates":[-4.96099,32.81921],"type":"Point"}
+}

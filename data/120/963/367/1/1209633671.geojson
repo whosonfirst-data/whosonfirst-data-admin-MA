@@ -1,0 +1,65 @@
+{
+  "id": 1209633671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25,31.33,-9.25,31.33",
+    "geom:latitude":31.33,
+    "geom:longitude":-9.25,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bou Addou",
+    "gn:country_code":"MA",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555254,
+    "gn:latitude":31.33,
+    "gn:longitude":-9.25,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Addou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Ada",
+        "Bou Addou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555254
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"255c8533d518ae30ed074b091fa6abf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633671
+        }
+    ],
+    "wof:id":1209633671,
+    "wof:lastmodified":1537664061,
+    "wof:name":"Bou Addou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25,
+    31.33,
+    -9.25,
+    31.33
+],
+  "geometry": {"coordinates":[-9.25,31.33],"type":"Point"}
+}

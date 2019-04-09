@@ -1,0 +1,73 @@
+{
+  "id": 1293898299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.59818,32.2406,-4.59818,32.2406",
+    "geom:latitude":32.2406,
+    "geom:longitude":-4.59818,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Al Haj Sa'id",
+    "gn:country_code":"MA",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560052,
+    "gn:latitude":32.2406,
+    "gn:longitude":-4.59818,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"A\u00eft Al Haj Sa\u2019id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Hadj Said",
+        "A\u00eft l\u2019Hadj Sa\u00efd",
+        "A\u00eft el Haj Sa\u00efd",
+        "A\u00eft Al Haj Sa\u2019id"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560052
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4c9b85907868b0c1d99b9918a8406e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1293898299,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293898299,
+    "wof:lastmodified":1537664190,
+    "wof:name":"Ait Al Haj Sa'id",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.59818,
+    32.2406,
+    -4.59818,
+    32.2406
+],
+  "geometry": {"coordinates":[-4.59818,32.2406],"type":"Point"}
+}

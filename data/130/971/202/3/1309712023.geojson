@@ -1,0 +1,67 @@
+{
+  "id": 1309712023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.12322,33.54594,-6.12322,33.54594",
+    "geom:latitude":33.54594,
+    "geom:longitude":-6.12322,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dar Mohamed Ou Agga",
+    "gn:country_code":"MA",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10959250,
+    "gn:latitude":33.54594,
+    "gn:longitude":-6.12322,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Mohamed Ou Agga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10959250
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7057b3e81078a31731a60468f807e0ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1309712023,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1309712023,
+    "wof:lastmodified":1537063507,
+    "wof:name":"Dar Mohamed Ou Agga",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.12322,
+    33.54594,
+    -6.12322,
+    33.54594
+],
+  "geometry": {"coordinates":[-6.12322,33.54594],"type":"Point"}
+}

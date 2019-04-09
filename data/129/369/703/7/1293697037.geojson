@@ -1,0 +1,72 @@
+{
+  "id": 1293697037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08508,30.94569,-8.08508,30.94569",
+    "geom:latitude":30.94569,
+    "geom:longitude":-8.08508,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Majjou",
+    "gn:country_code":"MA",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542745,
+    "gn:latitude":30.94569,
+    "gn:longitude":-8.08508,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Majjou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mezzou",
+        "Mejjou",
+        "Majjou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542745
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bf075ee6a45ddb5254c5407300f445f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1293697037,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293697037,
+    "wof:lastmodified":1537663659,
+    "wof:name":"Majjou",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08508,
+    30.94569000000001,
+    -8.08508,
+    30.94569000000001
+],
+  "geometry": {"coordinates":[-8.08508,30.94569000000001],"type":"Point"}
+}

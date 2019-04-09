@@ -1,0 +1,67 @@
+{
+  "id": 1226163181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.80457,31.12502,-9.80457,31.12502",
+    "geom:latitude":31.12502,
+    "geom:longitude":-9.80457,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouchene",
+    "gn:country_code":"MA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869283,
+    "gn:latitude":31.12502,
+    "gn:longitude":-9.80457,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ouchene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869283
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1da2374ceac39cbd646b574e38d46c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1226163181,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226163181,
+    "wof:lastmodified":1537050502,
+    "wof:name":"Ouchene",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.80457,
+    31.12502000000001,
+    -9.80457,
+    31.12502000000001
+],
+  "geometry": {"coordinates":[-9.80457,31.12502000000001],"type":"Point"}
+}

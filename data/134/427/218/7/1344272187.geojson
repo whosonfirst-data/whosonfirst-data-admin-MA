@@ -1,0 +1,73 @@
+{
+  "id": 1344272187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.67923,33.52466,-4.67923,33.52466",
+    "geom:latitude":33.52466,
+    "geom:longitude":-4.67923,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Tafraout",
+    "gn:country_code":"MA",
+    "gn:dem":1538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531849,
+    "gn:latitude":33.52466,
+    "gn:longitude":-4.67923,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tafraout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafrawi",
+        "Tafraoute",
+        "Tafraout A\u00eft Aliou Lahcen",
+        "Tafraout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531849
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ec1a39a4fa9e4cf9da229095c9636f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1344272187,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1344272187,
+    "wof:lastmodified":1537663478,
+    "wof:name":"Douar Tafraout",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.67923,
+    33.52466,
+    -4.67923,
+    33.52466
+],
+  "geometry": {"coordinates":[-4.67923,33.52466],"type":"Point"}
+}

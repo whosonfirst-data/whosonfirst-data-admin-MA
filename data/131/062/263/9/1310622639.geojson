@@ -1,0 +1,72 @@
+{
+  "id": 1310622639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.86732,33.02457,-7.86732,33.02457",
+    "geom:latitude":33.02457,
+    "geom:longitude":-7.86732,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zawyat Oulad Ben Nacer",
+    "gn:country_code":"MA",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526198,
+    "gn:latitude":33.02457,
+    "gn:longitude":-7.86732,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Zawyat Oulad Ben Na\u00e7er",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouiet Oulad Ben Naseur",
+        "Zaouiet Oulad Ben Nasser",
+        "Zawyat Oulad Ben Na\u00e7er"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526198
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"20137b82ea6ec74a4219896f6cc535f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1310622639,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1310622639,
+    "wof:lastmodified":1537663314,
+    "wof:name":"Zawyat Oulad Ben Nacer",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.86732,
+    33.02457,
+    -7.86732,
+    33.02457
+],
+  "geometry": {"coordinates":[-7.86732,33.02457],"type":"Point"}
+}

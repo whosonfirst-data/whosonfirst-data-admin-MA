@@ -1,0 +1,67 @@
+{
+  "id": 1293502353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2816,32.66599,-5.2816,32.66599",
+    "geom:latitude":32.66599,
+    "geom:longitude":-5.2816,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ouled Habboub",
+    "gn:country_code":"MA",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596415,
+    "gn:latitude":32.66599,
+    "gn:longitude":-5.2816,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Ouled Habboub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596415
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3522f6fdbc75489fe7994538e90a2020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1293502353,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293502353,
+    "wof:lastmodified":1536765917,
+    "wof:name":"Ouled Habboub",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2816,
+    32.66599,
+    -5.2816,
+    32.66599
+],
+  "geometry": {"coordinates":[-5.2816,32.66599],"type":"Point"}
+}

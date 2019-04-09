@@ -1,0 +1,71 @@
+{
+  "id": 1310424139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.95403,35.01557,-3.95403,35.01557",
+    "geom:latitude":35.01557,
+    "geom:longitude":-3.95403,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Maadene",
+    "gn:country_code":"MA",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549733,
+    "gn:latitude":35.01557,
+    "gn:longitude":-3.95403,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Maadene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Maaden",
+        "El Maadene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549733
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"db7dc6627ea7dac77ef0d430aace91db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1310424139,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310424139,
+    "wof:lastmodified":1537663848,
+    "wof:name":"El Maadene",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.95403,
+    35.01557,
+    -3.95403,
+    35.01557
+],
+  "geometry": {"coordinates":[-3.95403,35.01557],"type":"Point"}
+}

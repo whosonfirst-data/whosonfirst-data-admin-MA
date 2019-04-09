@@ -1,0 +1,71 @@
+{
+  "id": 1242692709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96512,31.88059,-5.96512,31.88059",
+    "geom:latitude":31.88059,
+    "geom:longitude":-5.96512,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Imidal",
+    "gn:country_code":"MA",
+    "gn:dem":2394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546214,
+    "gn:latitude":31.88059,
+    "gn:longitude":-5.96512,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imidal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imidar",
+        "Imidal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546214
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ca660095f4aa0d67e3f55eb34b354e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1242692709,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242692709,
+    "wof:lastmodified":1537663749,
+    "wof:name":"Imidal",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96512,
+    31.88059,
+    -5.96512,
+    31.88059
+],
+  "geometry": {"coordinates":[-5.96512,31.88059],"type":"Point"}
+}

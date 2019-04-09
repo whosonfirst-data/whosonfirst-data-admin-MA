@@ -1,0 +1,67 @@
+{
+  "id": 1343559887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.29349,32.53448,-6.29349,32.53448",
+    "geom:latitude":32.53448,
+    "geom:longitude":-6.29349,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cooperative El Khayr",
+    "gn:country_code":"MA",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":11470663,
+    "gn:latitude":32.53448,
+    "gn:longitude":-6.29349,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Coop\u00e9rative El Khayr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11470663
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"084d06d1d0f146471c0f17ceeeccdede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1343559887,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343559887,
+    "wof:lastmodified":1537096974,
+    "wof:name":"Cooperative El Khayr",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.29349,
+    32.53448,
+    -6.29349,
+    32.53448
+],
+  "geometry": {"coordinates":[-6.29349,32.53448],"type":"Point"}
+}

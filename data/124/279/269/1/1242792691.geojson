@@ -1,0 +1,72 @@
+{
+  "id": 1242792691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77381,35.03269,-5.77381,35.03269",
+    "geom:latitude":35.03269,
+    "geom:longitude":-5.77381,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tatoufet",
+    "gn:country_code":"MA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529338,
+    "gn:latitude":35.03269,
+    "gn:longitude":-5.77381,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tatoufet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campamento de Taatof",
+        "Taatof",
+        "Tatoufet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529338
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"49b86f9a2805d04e4abb4a43678cd655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1242792691,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242792691,
+    "wof:lastmodified":1537663406,
+    "wof:name":"Tatoufet",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77381,
+    35.03269,
+    -5.77381,
+    35.03269
+],
+  "geometry": {"coordinates":[-5.77381,35.03269],"type":"Point"}
+}

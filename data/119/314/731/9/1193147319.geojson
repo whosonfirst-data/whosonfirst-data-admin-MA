@@ -1,0 +1,72 @@
+{
+  "id": 1193147319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1331,34.17397,-5.1331,34.17397",
+    "geom:latitude":34.17397,
+    "geom:longitude":-5.1331,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ain Laabid",
+    "gn:country_code":"MA",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552148,
+    "gn:latitude":34.17397,
+    "gn:longitude":-5.1331,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ain Laabid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn La\u00e2bid",
+        "Douar A\u00efn Labid",
+        "Douar Ain Laabid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552148
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"af6f7cf4853e17126c5df404feb7f467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1193147319,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1193147319,
+    "wof:lastmodified":1537663992,
+    "wof:name":"Douar Ain Laabid",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1331,
+    34.17397,
+    -5.1331,
+    34.17397
+],
+  "geometry": {"coordinates":[-5.1331,34.17397],"type":"Point"}
+}

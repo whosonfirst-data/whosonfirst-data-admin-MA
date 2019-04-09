@@ -1,0 +1,74 @@
+{
+  "id": 1225866633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54691,32.81161,-8.54691,32.81161",
+    "geom:latitude":32.81161,
+    "geom:longitude":-8.54691,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zaouiet Ben Jare",
+    "gn:country_code":"MA",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526210,
+    "gn:latitude":32.81161,
+    "gn:longitude":-8.54691,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Zaouiet Ben Jare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia Ben Asem",
+        "Zaou\u00efa Ben Ajem",
+        "Zaouia bou Ayem",
+        "Zaouiet Ben Ajem",
+        "Zaouiet Ben Jare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526210
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e7794a20737c057c310bdde83d38679d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1225866633,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1225866633,
+    "wof:lastmodified":1537663314,
+    "wof:name":"Zaouiet Ben Jare",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54691,
+    32.81160999999999,
+    -8.54691,
+    32.81160999999999
+],
+  "geometry": {"coordinates":[-8.54691,32.81160999999999],"type":"Point"}
+}

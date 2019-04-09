@@ -1,0 +1,71 @@
+{
+  "id": 1226460965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52615,29.53524,-8.52615,29.53524",
+    "geom:latitude":29.53524,
+    "geom:longitude":-8.52615,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tagalouart",
+    "gn:country_code":"MA",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531762,
+    "gn:latitude":29.53524,
+    "gn:longitude":-8.52615,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagalouart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taga\u00efouart",
+        "Tagalouart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531762
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"66d1e729b0118d387e299d46ada31e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1226460965,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1226460965,
+    "wof:lastmodified":1537663475,
+    "wof:name":"Tagalouart",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52615,
+    29.53524,
+    -8.52615,
+    29.53524
+],
+  "geometry": {"coordinates":[-8.52615,29.53524],"type":"Point"}
+}

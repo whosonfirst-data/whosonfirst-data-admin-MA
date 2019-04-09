@@ -1,0 +1,69 @@
+{
+  "id": 1344152621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86,30.23,-8.86,30.23",
+    "geom:latitude":30.23,
+    "geom:longitude":-8.86,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"541.0",
+    "gn:admin3_code":"454105052.0",
+    "gn:asciiname":"Assads",
+    "gn:country_code":"MA",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2556991,
+    "gn:latitude":30.23,
+    "gn:longitude":-8.86,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Assads",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556991
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6ac17de415802ccf97c591a98ba11cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1344152621,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1344152621,
+    "wof:lastmodified":1536742407,
+    "wof:name":"Assads",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86,
+    30.23,
+    -8.86,
+    30.23
+],
+  "geometry": {"coordinates":[-8.86,30.23],"type":"Point"}
+}

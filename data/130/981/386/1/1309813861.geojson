@@ -1,0 +1,74 @@
+{
+  "id": 1309813861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.6098,34.53346,-5.6098,34.53346",
+    "geom:latitude":34.53346,
+    "geom:longitude":-5.6098,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lamamra",
+    "gn:country_code":"MA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550789,
+    "gn:latitude":34.53346,
+    "gn:longitude":-5.6098,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lamamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2019Amamra",
+        "Douar el Amamra",
+        "Lamanra",
+        "El Amamra",
+        "Lamamra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550789
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"72446f6935cfdb60e765c50b52c48907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1309813861,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1309813861,
+    "wof:lastmodified":1537663899,
+    "wof:name":"Lamamra",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6098,
+    34.53346,
+    -5.6098,
+    34.53346
+],
+  "geometry": {"coordinates":[-5.6098,34.53346],"type":"Point"}
+}

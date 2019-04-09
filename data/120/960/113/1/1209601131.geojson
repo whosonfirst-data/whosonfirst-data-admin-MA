@@ -1,0 +1,66 @@
+{
+  "id": 1209601131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75398,31.35026,-7.75398,31.35026",
+    "geom:latitude":31.35026,
+    "geom:longitude":-7.75398,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Timalisene",
+    "gn:country_code":"MA",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551161,
+    "gn:latitude":31.35026,
+    "gn:longitude":-7.75398,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Timalisene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timaliz\u00e8n",
+        "Douar Timalizene",
+        "Timalisene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551161
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"259dfe6200ef24730155d9b7e83702cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209601131
+        }
+    ],
+    "wof:id":1209601131,
+    "wof:lastmodified":1537663915,
+    "wof:name":"Timalisene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75398,
+    31.35026,
+    -7.75398,
+    31.35026
+],
+  "geometry": {"coordinates":[-7.75398,31.35026],"type":"Point"}
+}

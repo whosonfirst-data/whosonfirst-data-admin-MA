@@ -1,0 +1,77 @@
+{
+  "id": 890452951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57094,32.27536,-6.57094,32.27536",
+    "geom:latitude":32.27536,
+    "geom:longitude":-6.57094,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":14535,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0639\u064a\u0633\u0649 \u0628\u0646 \u0639\u0644\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Hammadi"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Hammadi (CR)",
+        "Sidi Hammadi (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Hammadi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546118,
+        "qs:id":629259,
+        "wk:page":"Sidi Hammadi"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052835,
+    "wof:geomhash":"31a549d676def98afb0417de3645b04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "localadmin_id":890452951,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890452951,
+    "wof:lastmodified":1527734187,
+    "wof:name":"Sidi Hammadi",
+    "wof:parent_id":1108784787,
+    "wof:placetype":"localadmin",
+    "wof:population":14535,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57094,
+    32.27536,
+    -6.57094,
+    32.27536
+],
+  "geometry": {"coordinates":[-6.57094,32.27536],"type":"Point"}
+}

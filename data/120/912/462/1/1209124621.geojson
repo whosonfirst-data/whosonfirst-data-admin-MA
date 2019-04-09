@@ -1,0 +1,67 @@
+{
+  "id": 1209124621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64525,30.60384,-7.64525,30.60384",
+    "geom:latitude":30.60384,
+    "geom:longitude":-7.64525,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Saddane",
+    "gn:country_code":"MA",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559150,
+    "gn:latitude":30.60384,
+    "gn:longitude":-7.64525,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Saddane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Sadd\u00e8n",
+        "A\u00eft Saden",
+        "A\u00eft Saddene",
+        "A\u00eft Saddane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559150
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"77be9b2a50e9e203292dc282a45a9b58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209124621
+        }
+    ],
+    "wof:id":1209124621,
+    "wof:lastmodified":1537664156,
+    "wof:name":"Ait Saddane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64525,
+    30.60384,
+    -7.64525,
+    30.60384
+],
+  "geometry": {"coordinates":[-7.64525,30.60384],"type":"Point"}
+}

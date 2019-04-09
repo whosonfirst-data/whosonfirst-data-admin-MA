@@ -1,0 +1,73 @@
+{
+  "id": 1326816191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.35638,31.70149,-7.35638,31.70149",
+    "geom:latitude":31.70149,
+    "geom:longitude":-7.35638,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Rguiaa",
+    "gn:country_code":"MA",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539362,
+    "gn:latitude":31.70149,
+    "gn:longitude":-7.35638,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Oulad Rgui\u00e2a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled rgui\u00e2te",
+        "Oulad Rguia\u2019a",
+        "Oulad Rguia",
+        "Oulad Rgui\u00e2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539362
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2359bf38234ba5d12219f708fba01ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1326816191,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326816191,
+    "wof:lastmodified":1537663566,
+    "wof:name":"Oulad Rguiaa",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.35638,
+    31.70149,
+    -7.35638,
+    31.70149
+],
+  "geometry": {"coordinates":[-7.35638,31.70149],"type":"Point"}
+}

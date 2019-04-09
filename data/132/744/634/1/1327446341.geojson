@@ -1,0 +1,71 @@
+{
+  "id": 1327446341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75553,30.15175,-7.75553,30.15175",
+    "geom:latitude":30.15175,
+    "geom:longitude":-7.75553,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tagourout",
+    "gn:country_code":"MA",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531607,
+    "gn:latitude":30.15175,
+    "gn:longitude":-7.75553,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagourout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagourgout",
+        "Tanrhouft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531607
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1557d4bb0465d6562dc7e0aeadc77925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1327446341,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327446341,
+    "wof:lastmodified":1537663470,
+    "wof:name":"Tagourout",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75553,
+    30.15175,
+    -7.75553,
+    30.15175
+],
+  "geometry": {"coordinates":[-7.75553,30.15175],"type":"Point"}
+}

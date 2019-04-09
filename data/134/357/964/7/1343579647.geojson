@@ -1,0 +1,73 @@
+{
+  "id": 1343579647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.7166,34.88927,-5.7166,34.88927",
+    "geom:latitude":34.88927,
+    "geom:longitude":-5.7166,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Laababda",
+    "gn:country_code":"MA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550858,
+    "gn:latitude":34.88927,
+    "gn:longitude":-5.7166,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Laababda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u00e2babda",
+        "Douar el Ababda",
+        "El Ababda",
+        "Douar Laababda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550858
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"04edd9925e85944ef14898816f85605a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1343579647,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343579647,
+    "wof:lastmodified":1537663903,
+    "wof:name":"Douar Laababda",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7166,
+    34.88927,
+    -5.7166,
+    34.88927
+],
+  "geometry": {"coordinates":[-5.7166,34.88927],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276462345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62521,31.74767,-7.62521,31.74767",
+    "geom:latitude":31.74767,
+    "geom:longitude":-7.62521,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ras Lain",
+    "gn:country_code":"MA",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550288,
+    "gn:latitude":31.74767,
+    "gn:longitude":-7.62521,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ras Lain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ras-el-A\u00efn",
+        "El Had",
+        "El Had de Ras el A\u00efn",
+        "Ras Lain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550288
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aa9b266b0856aa2076076bfcde06b245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1276462345,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276462345,
+    "wof:lastmodified":1537663876,
+    "wof:name":"Ras Lain",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62521,
+    31.74767,
+    -7.62521,
+    31.74767
+],
+  "geometry": {"coordinates":[-7.62521,31.74767],"type":"Point"}
+}

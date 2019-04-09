@@ -1,0 +1,75 @@
+{
+  "id": 890423781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13899,34.74966,-2.13899,34.74966",
+    "geom:latitude":34.74966,
+    "geom:longitude":-2.13899,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5082,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0644\u062d\u0633\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Sfa"
+    ],
+    "name:fra_x_variant":[
+        "Ain Sfa (CR)",
+        "Ain Sfa (Commune Rurale)"
+    ],
+    "qs:name":"Ain Sfa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890453895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545641,
+        "qs:id":628783
+    },
+    "wof:country":"MA",
+    "wof:created":1469051514,
+    "wof:geomhash":"e65647d4aafe4693fd86219c382768ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453895,
+            "localadmin_id":890423781,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890423781,
+    "wof:lastmodified":1505343477,
+    "wof:name":"Ain Sfa",
+    "wof:parent_id":890453895,
+    "wof:placetype":"localadmin",
+    "wof:population":5082,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13899,
+    34.74966,
+    -2.13899,
+    34.74966
+],
+  "geometry": {"coordinates":[-2.13899,34.74966],"type":"Point"}
+}

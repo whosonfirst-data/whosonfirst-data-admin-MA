@@ -1,0 +1,67 @@
+{
+  "id": 1210031297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.46872,31.35049,-9.46872,31.35049",
+    "geom:latitude":31.35049,
+    "geom:longitude":-9.46872,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tadouart",
+    "gn:country_code":"MA",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532008,
+    "gn:latitude":31.35049,
+    "gn:longitude":-9.46872,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tadouart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532008
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8bb9d5e31fcef2be125685f9c8e44687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1210031297,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1210031297,
+    "wof:lastmodified":1536388443,
+    "wof:name":"Tadouart",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.46872,
+    31.35049,
+    -9.46872,
+    31.35049
+],
+  "geometry": {"coordinates":[-9.46872,31.35049],"type":"Point"}
+}

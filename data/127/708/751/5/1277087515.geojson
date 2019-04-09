@@ -1,0 +1,67 @@
+{
+  "id": 1277087515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.65505,35.37066,-5.65505,35.37066",
+    "geom:latitude":35.37066,
+    "geom:longitude":-5.65505,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Khejjiouene",
+    "gn:country_code":"MA",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10952291,
+    "gn:latitude":35.37066,
+    "gn:longitude":-5.65505,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Khejjiouene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10952291
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"136661b4a9d4db01c11e350c0a183e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1277087515,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1277087515,
+    "wof:lastmodified":1536760872,
+    "wof:name":"Douar Khejjiouene",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.65505,
+    35.37066,
+    -5.65505,
+    35.37066
+],
+  "geometry": {"coordinates":[-5.65505,35.37066],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310116153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.23827,31.21444,-7.23827,31.21444",
+    "geom:latitude":31.21444,
+    "geom:longitude":-7.23827,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kasba de Timountout",
+    "gn:country_code":"MA",
+    "gn:dem":1830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544763,
+    "gn:latitude":31.21444,
+    "gn:longitude":-7.23827,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kasba de Timountout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544763
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"db04ee39499475487293eef2a6c78b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1310116153,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310116153,
+    "wof:lastmodified":1536980362,
+    "wof:name":"Kasba de Timountout",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.23827,
+    31.21444,
+    -7.23827,
+    31.21444
+],
+  "geometry": {"coordinates":[-7.23827,31.21444],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242792651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.08523,33.14766,-6.08523,33.14766",
+    "geom:latitude":33.14766,
+    "geom:longitude":-6.08523,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tazattout",
+    "gn:country_code":"MA",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529105,
+    "gn:latitude":33.14766,
+    "gn:longitude":-6.08523,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Tazattout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazetot",
+        "Taztot",
+        "Tazattout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529105
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d3aabc4a932c0287be8b468517a45961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1242792651,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1242792651,
+    "wof:lastmodified":1537663400,
+    "wof:name":"Tazattout",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.08523,
+    33.14765999999999,
+    -6.08523,
+    33.14765999999999
+],
+  "geometry": {"coordinates":[-6.08523,33.14765999999999],"type":"Point"}
+}

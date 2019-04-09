@@ -1,0 +1,67 @@
+{
+  "id": 1360188119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94391,35.06021,-5.94391,35.06021",
+    "geom:latitude":35.06021,
+    "geom:longitude":-5.94391,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Laourarda",
+    "gn:country_code":"MA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10933498,
+    "gn:latitude":35.06021,
+    "gn:longitude":-5.94391,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Laourarda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10933498
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ce2007a12c765fddb9d26b19cdf166a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1360188119,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1360188119,
+    "wof:lastmodified":1536797159,
+    "wof:name":"Laourarda",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94391,
+    35.06021,
+    -5.94391,
+    35.06021
+],
+  "geometry": {"coordinates":[-5.94391,35.06021],"type":"Point"}
+}

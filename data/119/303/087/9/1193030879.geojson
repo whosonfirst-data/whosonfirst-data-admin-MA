@@ -1,0 +1,70 @@
+{
+  "id": 1193030879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.63927,32.26013,-5.63927,32.26013",
+    "geom:latitude":32.26013,
+    "geom:longitude":-5.63927,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ali Widir",
+    "gn:country_code":"MA",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541065,
+    "gn:latitude":32.26013,
+    "gn:longitude":-5.63927,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Ali Widir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ou Ali Ou Idir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541065
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8aa8dec62c12175bceec2011a3bd9c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1193030879,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1193030879,
+    "wof:lastmodified":1537663632,
+    "wof:name":"Ali Widir",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.63927,
+    32.26013,
+    -5.63927,
+    32.26013
+],
+  "geometry": {"coordinates":[-5.63927,32.26013],"type":"Point"}
+}

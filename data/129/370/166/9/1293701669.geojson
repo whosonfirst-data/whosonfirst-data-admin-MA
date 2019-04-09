@@ -1,0 +1,73 @@
+{
+  "id": 1293701669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.44916,34.67336,-5.44916,34.67336",
+    "geom:latitude":34.67336,
+    "geom:longitude":-5.44916,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Lebsabes",
+    "gn:country_code":"MA",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553684,
+    "gn:latitude":34.67336,
+    "gn:longitude":-5.44916,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lebsabes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bsabesse",
+        "Bsabiss",
+        "Bsabis",
+        "Douar Lebsabes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553684
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"21b30f8edca0e8d7e1120cb3398bb214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1293701669,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293701669,
+    "wof:lastmodified":1537664039,
+    "wof:name":"Douar Lebsabes",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.44916,
+    34.67336,
+    -5.44916,
+    34.67336
+],
+  "geometry": {"coordinates":[-5.44916,34.67336],"type":"Point"}
+}

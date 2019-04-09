@@ -1,0 +1,64 @@
+{
+  "id": 1209635603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.79689,31.41905,-7.79689,31.41905",
+    "geom:latitude":31.41905,
+    "geom:longitude":-7.79689,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ayt Ou Bouhou",
+    "gn:country_code":"MA",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559322,
+    "gn:latitude":31.41905,
+    "gn:longitude":-7.79689,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ayt Ou Bouhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ou Bohou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559322
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"76312661735583e8dfbfec61e6ebf5d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209635603
+        }
+    ],
+    "wof:id":1209635603,
+    "wof:lastmodified":1537664163,
+    "wof:name":"Ayt Ou Bouhou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.79689,
+    31.41905,
+    -7.79689,
+    31.41905
+],
+  "geometry": {"coordinates":[-7.79689,31.41905],"type":"Point"}
+}

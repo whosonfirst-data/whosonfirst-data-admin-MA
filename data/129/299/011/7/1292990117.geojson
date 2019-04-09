@@ -1,0 +1,67 @@
+{
+  "id": 1292990117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93427,30.8833,-8.93427,30.8833",
+    "geom:latitude":30.8833,
+    "geom:longitude":-8.93427,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Iguidar",
+    "gn:country_code":"MA",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912071,
+    "gn:latitude":30.8833,
+    "gn:longitude":-8.93427,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Iguidar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912071
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ccc1ee4aa51f43223d9669e231216f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1292990117,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1292990117,
+    "wof:lastmodified":1537006343,
+    "wof:name":"Iguidar",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93427,
+    30.8833,
+    -8.93427,
+    30.8833
+],
+  "geometry": {"coordinates":[-8.93427,30.8833],"type":"Point"}
+}

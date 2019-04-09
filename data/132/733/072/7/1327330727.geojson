@@ -1,0 +1,67 @@
+{
+  "id": 1327330727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29505,33.08738,-7.29505,33.08738",
+    "geom:latitude":33.08738,
+    "geom:longitude":-7.29505,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zaamekra",
+    "gn:country_code":"MA",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936215,
+    "gn:latitude":33.08738,
+    "gn:longitude":-7.29505,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zaamekra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936215
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d30e654c8e2ec518e370193a0da0856a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1327330727,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1327330727,
+    "wof:lastmodified":1536826731,
+    "wof:name":"Zaamekra",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29505,
+    33.08738,
+    -7.29505,
+    33.08738
+],
+  "geometry": {"coordinates":[-7.29505,33.08738],"type":"Point"}
+}

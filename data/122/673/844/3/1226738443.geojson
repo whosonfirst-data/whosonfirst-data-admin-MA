@@ -1,0 +1,67 @@
+{
+  "id": 1226738443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.87269,29.35735,-9.87269,29.35735",
+    "geom:latitude":29.35735,
+    "geom:longitude":-9.87269,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Oubir",
+    "gn:country_code":"MA",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100832,
+    "gn:latitude":29.35735,
+    "gn:longitude":-9.87269,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oubir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100832
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba15c469f3e405c94594c21645c665ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1226738443,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226738443,
+    "wof:lastmodified":1536726442,
+    "wof:name":"Oubir",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.87269,
+    29.35735,
+    -9.87269,
+    29.35735
+],
+  "geometry": {"coordinates":[-9.87269,29.35735],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209221599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.98305,34.42322,-4.98305,34.42322",
+    "geom:latitude":34.42322,
+    "geom:longitude":-4.98305,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Mizah",
+    "gn:country_code":"MA",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10930340,
+    "gn:latitude":34.42322,
+    "gn:longitude":-4.98305,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Mizah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10930340
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ae99b34668ff331472c68a425bd2b8aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209221599
+        }
+    ],
+    "wof:id":1209221599,
+    "wof:lastmodified":1536293943,
+    "wof:name":"Douar Mizah",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.98305,
+    34.42322,
+    -4.98305,
+    34.42322
+],
+  "geometry": {"coordinates":[-4.98305,34.42322],"type":"Point"}
+}

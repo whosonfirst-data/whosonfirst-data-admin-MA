@@ -1,0 +1,67 @@
+{
+  "id": 1344071951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36058,33.04339,-5.36058,33.04339",
+    "geom:latitude":33.04339,
+    "geom:longitude":-5.36058,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kasba des Ait Moussa",
+    "gn:country_code":"MA",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544768,
+    "gn:latitude":33.04339,
+    "gn:longitude":-5.36058,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kasba des A\u00eft Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544768
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"953ec32afe445e59225bbb4209f4de94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1344071951,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1344071951,
+    "wof:lastmodified":1536857638,
+    "wof:name":"Kasba des Ait Moussa",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36058,
+    33.04339,
+    -5.36058,
+    33.04339
+],
+  "geometry": {"coordinates":[-5.36058,33.04339],"type":"Point"}
+}

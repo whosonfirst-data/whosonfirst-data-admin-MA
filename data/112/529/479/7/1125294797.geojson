@@ -1,0 +1,88 @@
+{
+  "id": 1125294797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95273,33.93675,-6.95273,33.93675",
+    "geom:latitude":33.93675,
+    "geom:longitude":-6.95273,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9241,
+    "gn:population":9241,
+    "iso:country":"MA",
+    "lbl:latitude":33.93675,
+    "lbl:longitude":-6.95273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0628\u0644\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Harhoura"
+    ],
+    "name:fra_x_variant":[
+        "Harhoura (MU)",
+        "Harhoura (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546138,
+    "qs_pg:gn_pop":9241,
+    "qs_pg:name":"Harhoura",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629278,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546138,
+        "qs_pg:id":629278
+    },
+    "wof:country":"MA",
+    "wof:created":1497043091,
+    "wof:geomhash":"3d8fdf2c9cf86b233ebd63049afd9b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "localadmin_id":1125294797,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1125294797,
+    "wof:lastmodified":1509387600,
+    "wof:name":"Harhoura",
+    "wof:parent_id":890429101,
+    "wof:placetype":"localadmin",
+    "wof:population":9241,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95273,
+    33.93675,
+    -6.95273,
+    33.93675
+],
+  "geometry": {"coordinates":[-6.95273,33.93675],"type":"Point"}
+}

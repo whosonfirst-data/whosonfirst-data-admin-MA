@@ -1,0 +1,88 @@
+{
+  "id": 1125330699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03236,31.45973,-9.03236,31.45973",
+    "geom:latitude":31.45973,
+    "geom:longitude":-9.03236,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7137,
+    "gn:population":7513,
+    "iso:country":"MA",
+    "lbl:latitude":31.45973,
+    "lbl:longitude":-9.03236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0645\u0632\u0648\u0636\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Moumna"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Moumna (CR)",
+        "Oulad Moumna (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546621,
+    "qs_pg:gn_pop":7137,
+    "qs_pg:name":"Oulad Moumna",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629723,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546621,
+        "qs_pg:id":629723
+    },
+    "wof:country":"MA",
+    "wof:created":1497045118,
+    "wof:geomhash":"abf69776840005e35b032a680d76c89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "localadmin_id":1125330699,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125330699,
+    "wof:lastmodified":1509388373,
+    "wof:name":"Oulad Moumna",
+    "wof:parent_id":890440847,
+    "wof:placetype":"localadmin",
+    "wof:population":7513,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03236,
+    31.45973,
+    -9.03236,
+    31.45973
+],
+  "geometry": {"coordinates":[-9.03236,31.45973],"type":"Point"}
+}

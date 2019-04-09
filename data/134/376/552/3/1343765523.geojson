@@ -1,0 +1,67 @@
+{
+  "id": 1343765523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.36843,35.04741,-4.36843,35.04741",
+    "geom:latitude":35.04741,
+    "geom:longitude":-4.36843,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Ihemmoutene",
+    "gn:country_code":"MA",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091456,
+    "gn:latitude":35.04741,
+    "gn:longitude":-4.36843,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ihemmoutene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091456
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dd925576c09847e2408d579a1d5ad2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1343765523,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343765523,
+    "wof:lastmodified":1536803541,
+    "wof:name":"Douar Ihemmoutene",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.36843,
+    35.04741,
+    -4.36843,
+    35.04741
+],
+  "geometry": {"coordinates":[-4.36843,35.04741],"type":"Point"}
+}

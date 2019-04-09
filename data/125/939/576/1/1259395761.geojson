@@ -1,0 +1,67 @@
+{
+  "id": 1259395761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.90066,35.6476,-5.90066,35.6476",
+    "geom:latitude":35.6476,
+    "geom:longitude":-5.90066,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar Salah Ben Zouila",
+    "gn:country_code":"MA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059586,
+    "gn:latitude":35.6476,
+    "gn:longitude":-5.90066,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Salah Ben Zouila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059586
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5748fb6427fd18d2cf0e950b1e88ede8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1259395761,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259395761,
+    "wof:lastmodified":1536983790,
+    "wof:name":"Dar Salah Ben Zouila",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.90066,
+    35.6476,
+    -5.90066,
+    35.6476
+],
+  "geometry": {"coordinates":[-5.90066,35.6476],"type":"Point"}
+}

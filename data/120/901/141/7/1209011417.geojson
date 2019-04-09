@@ -1,0 +1,61 @@
+{
+  "id": 1209011417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.27362,33.60576,-5.27362,33.60576",
+    "geom:latitude":33.60576,
+    "geom:longitude":-5.27362,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ait Ali Ou Alla",
+    "gn:country_code":"MA",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10976498,
+    "gn:latitude":33.60576,
+    "gn:longitude":-5.27362,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Ali Ou Alla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10976498
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0f2fcf9d09f72836f60b99598484fc22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209011417
+        }
+    ],
+    "wof:id":1209011417,
+    "wof:lastmodified":1536300434,
+    "wof:name":"Ait Ali Ou Alla",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.273619999999998,
+    33.60576,
+    -5.273619999999998,
+    33.60576
+],
+  "geometry": {"coordinates":[-5.27362,33.60576],"type":"Point"}
+}

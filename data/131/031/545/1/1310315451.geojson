@@ -1,0 +1,67 @@
+{
+  "id": 1310315451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.20382,35.40085,-5.20382,35.40085",
+    "geom:latitude":35.40085,
+    "geom:longitude":-5.20382,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Igammarene",
+    "gn:country_code":"MA",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571056,
+    "gn:latitude":35.40085,
+    "gn:longitude":-5.20382,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Igammarene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571056
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b550df7f86d5590b0f38902ee519999e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1310315451,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310315451,
+    "wof:lastmodified":1536693686,
+    "wof:name":"Igammarene",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.20382,
+    35.40085,
+    -5.20382,
+    35.40085
+],
+  "geometry": {"coordinates":[-5.20382,35.40085],"type":"Point"}
+}

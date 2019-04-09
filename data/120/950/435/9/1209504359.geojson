@@ -1,0 +1,61 @@
+{
+  "id": 1209504359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00348,30.64279,-8.00348,30.64279",
+    "geom:latitude":30.64279,
+    "geom:longitude":-8.00348,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sawlila",
+    "gn:country_code":"MA",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10917030,
+    "gn:latitude":30.64279,
+    "gn:longitude":-8.00348,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sawlila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10917030
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ddd79a9772082f5deb028a752fbaaac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209504359
+        }
+    ],
+    "wof:id":1209504359,
+    "wof:lastmodified":1536285082,
+    "wof:name":"Sawlila",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00348,
+    30.64279,
+    -8.00348,
+    30.64279
+],
+  "geometry": {"coordinates":[-8.00348,30.64279],"type":"Point"}
+}

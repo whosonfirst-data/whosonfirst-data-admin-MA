@@ -1,0 +1,61 @@
+{
+  "id": 1209119269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18871,34.86383,-5.18871,34.86383",
+    "geom:latitude":34.86383,
+    "geom:longitude":-5.18871,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Tourarene Essoufla",
+    "gn:country_code":"MA",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925753,
+    "gn:latitude":34.86383,
+    "gn:longitude":-5.18871,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tourarene Essoufla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925753
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"caf23908201c6d54fe847b6d3de43368",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209119269
+        }
+    ],
+    "wof:id":1209119269,
+    "wof:lastmodified":1536297155,
+    "wof:name":"Douar Tourarene Essoufla",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18871,
+    34.86383,
+    -5.18871,
+    34.86383
+],
+  "geometry": {"coordinates":[-5.18871,34.86383],"type":"Point"}
+}

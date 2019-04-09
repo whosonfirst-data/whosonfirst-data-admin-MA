@@ -1,0 +1,79 @@
+{
+  "id": 1243278893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.81063,29.78844,-9.81063,29.78844",
+    "geom:latitude":29.78844,
+    "geom:longitude":-9.81063,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Za Sidi Ouaggag",
+    "gn:country_code":"MA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526252,
+    "gn:latitude":29.78844,
+    "gn:longitude":-9.81063,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Za Sidi Ouaggag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Agulha"
+    ],
+    "name:eng_x_preferred":[
+        "Agulha"
+    ],
+    "name:und_x_variant":[
+        "Zaouit sidi ouagag",
+        "Zaouia Sidi Ouaggag",
+        "Zaouit Aglou",
+        "Za Sidi Ouaggag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526252
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0b5796752af2951f67720be05ecfb93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1243278893,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243278893,
+    "wof:lastmodified":1537663317,
+    "wof:name":"Za Sidi Ouaggag",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.81063,
+    29.78844,
+    -9.81063,
+    29.78844
+],
+  "geometry": {"coordinates":[-9.81063,29.78844],"type":"Point"}
+}

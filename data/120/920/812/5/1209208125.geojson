@@ -1,0 +1,61 @@
+{
+  "id": 1209208125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.56372,31.49585,-9.56372,31.49585",
+    "geom:latitude":31.49585,
+    "geom:longitude":-9.56372,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ait Lakhdar",
+    "gn:country_code":"MA",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946398,
+    "gn:latitude":31.49585,
+    "gn:longitude":-9.56372,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Lakhdar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946398
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"03905eff0d691ca04e8fcdbbb1ae45ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209208125
+        }
+    ],
+    "wof:id":1209208125,
+    "wof:lastmodified":1536294383,
+    "wof:name":"Douar Ait Lakhdar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.56372,
+    31.49585,
+    -9.56372,
+    31.49585
+],
+  "geometry": {"coordinates":[-9.56372,31.49585],"type":"Point"}
+}

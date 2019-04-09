@@ -1,0 +1,74 @@
+{
+  "id": 1309890531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5525,31.06262,-6.5525,31.06262",
+    "geom:latitude":31.06262,
+    "geom:longitude":-6.5525,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"440107073.0",
+    "gn:asciiname":"Skoura",
+    "gn:country_code":"MA",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2532628,
+    "gn:latitude":31.06262,
+    "gn:longitude":-6.5525,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Skoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skoura des Ahl el Oust",
+        "Skoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532628,
+        "wk:page":"Skoura"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d1e951171513aeb3df1b9feb9018aa73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1309890531,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309890531,
+    "wof:lastmodified":1537663502,
+    "wof:name":"Skoura",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5525,
+    31.06262000000001,
+    -6.5525,
+    31.06262000000001
+],
+  "geometry": {"coordinates":[-6.5525,31.06262000000001],"type":"Point"}
+}

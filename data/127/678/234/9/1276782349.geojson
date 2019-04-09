@@ -1,0 +1,72 @@
+{
+  "id": 1276782349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.86393,29.55309,-9.86393,29.55309",
+    "geom:latitude":29.55309,
+    "geom:longitude":-9.86393,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Douar Id Hammou Ou Taleb",
+    "gn:country_code":"MA",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547207,
+    "gn:latitude":29.55309,
+    "gn:longitude":-9.86393,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Id Hammou Ou Taleb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Hammou Ntable",
+        "Id Hammou n\u2019Taleb",
+        "Douar Id Hammou Ou Taleb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547207
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00224bceb6d437b1734b6d3baa0af2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1276782349,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276782349,
+    "wof:lastmodified":1537663782,
+    "wof:name":"Douar Id Hammou Ou Taleb",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.86393,
+    29.55309,
+    -9.86393,
+    29.55309
+],
+  "geometry": {"coordinates":[-9.86393,29.55309],"type":"Point"}
+}

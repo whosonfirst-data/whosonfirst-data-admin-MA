@@ -1,0 +1,67 @@
+{
+  "id": 1226048929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.88349,33.61869,-4.88349,33.61869",
+    "geom:latitude":33.61869,
+    "geom:longitude":-4.88349,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sidi El Ghazi",
+    "gn:country_code":"MA",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10976910,
+    "gn:latitude":33.61869,
+    "gn:longitude":-4.88349,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sidi El Ghazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10976910
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a973c353be70cf8c753d31b75035385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1226048929,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1226048929,
+    "wof:lastmodified":1536720881,
+    "wof:name":"Sidi El Ghazi",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.88349,
+    33.61869,
+    -4.88349,
+    33.61869
+],
+  "geometry": {"coordinates":[-4.88349,33.61869],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 890424095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.04759,34.92176,-6.04759,34.92176",
+    "geom:latitude":34.92176,
+    "geom:longitude":-6.04759,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":15990,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0627\u0645\u062d\u0645\u062f \u0627\u0644\u0634\u0644\u062d"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Boubker El Haj"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Boubker El Haj (CR)",
+        "Sidi Boubker El Haj (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Boubker El Haj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546910,
+        "gp:id":29401955,
+        "qs:id":629991,
+        "qs_pg:id":1205786,
+        "wd:id":"Q7508686",
+        "wk:page":"Sidi Boubker El Haj"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051529,
+    "wof:geomhash":"61bff05f3b0d0e84ec5b86dd9a9c6c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "localadmin_id":890424095,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":890424095,
+    "wof:lastmodified":1527727267,
+    "wof:name":"Sidi Boubker El Haj",
+    "wof:parent_id":890427533,
+    "wof:placetype":"localadmin",
+    "wof:population":15990,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.04759,
+    34.92176,
+    -6.04759,
+    34.92176
+],
+  "geometry": {"coordinates":[-6.04759,34.92176],"type":"Point"}
+}

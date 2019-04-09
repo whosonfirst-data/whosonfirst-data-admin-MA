@@ -1,0 +1,67 @@
+{
+  "id": 1276788443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48251,33.06973,-8.48251,33.06973",
+    "geom:latitude":33.06973,
+    "geom:longitude":-8.48251,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Cheikh Smail",
+    "gn:country_code":"MA",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471963,
+    "gn:latitude":33.06973,
+    "gn:longitude":-8.48251,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Douar Che\u00efkh Smail",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471963
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b0b39fc6b3018727ef146ca5bd16d3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1276788443,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1276788443,
+    "wof:lastmodified":1536666214,
+    "wof:name":"Douar Cheikh Smail",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48251,
+    33.06973,
+    -8.48251,
+    33.06973
+],
+  "geometry": {"coordinates":[-8.48251,33.06973],"type":"Point"}
+}

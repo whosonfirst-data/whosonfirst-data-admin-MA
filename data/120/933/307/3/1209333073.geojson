@@ -1,0 +1,66 @@
+{
+  "id": 1209333073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.35293,34.92997,-5.35293,34.92997",
+    "geom:latitude":34.92997,
+    "geom:longitude":-5.35293,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mokrisset",
+    "gn:country_code":"MA",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542024,
+    "gn:latitude":34.92997,
+    "gn:longitude":-5.35293,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mokrisset",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mokhrisset",
+        "Mokrisset",
+        "Mokhisset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542024
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5731d42bd9989403f64a4be2498ff1fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333073
+        }
+    ],
+    "wof:id":1209333073,
+    "wof:lastmodified":1537663648,
+    "wof:name":"Mokrisset",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.35293,
+    34.92997,
+    -5.35293,
+    34.92997
+],
+  "geometry": {"coordinates":[-5.35293,34.92997],"type":"Point"}
+}

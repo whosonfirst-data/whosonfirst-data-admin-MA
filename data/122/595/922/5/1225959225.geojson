@@ -1,0 +1,72 @@
+{
+  "id": 1225959225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.08938,32.34766,-4.08938,32.34766",
+    "geom:latitude":32.34766,
+    "geom:longitude":-4.08938,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Said Ou Amar",
+    "gn:country_code":"MA",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559115,
+    "gn:latitude":32.34766,
+    "gn:longitude":-4.08938,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Sa\u00efd Ou Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ait S\u2019Aoumar",
+        "A\u00eft Said Ouamar",
+        "A\u00eft Sa\u00efd Ou Amar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559115
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e441b07be69f3e52ec697f91bd7eedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1225959225,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1225959225,
+    "wof:lastmodified":1537664155,
+    "wof:name":"Ait Said Ou Amar",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.08938,
+    32.34766,
+    -4.08938,
+    32.34766
+],
+  "geometry": {"coordinates":[-4.08938,32.34766],"type":"Point"}
+}

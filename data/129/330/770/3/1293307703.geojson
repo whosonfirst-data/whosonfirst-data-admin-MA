@@ -1,0 +1,70 @@
+{
+  "id": 1293307703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.59582,32.34345,-3.59582,32.34345",
+    "geom:latitude":32.34345,
+    "geom:longitude":-3.59582,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Qorra",
+    "gn:country_code":"MA",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544165,
+    "gn:latitude":32.34345,
+    "gn:longitude":-3.59582,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Qorra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544165
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9fb6d2fcc133e4ff9c552bf76ceefa19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1293307703,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293307703,
+    "wof:lastmodified":1537663690,
+    "wof:name":"Qorra",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.59582,
+    32.34345,
+    -3.59582,
+    32.34345
+],
+  "geometry": {"coordinates":[-3.59582,32.34345],"type":"Point"}
+}

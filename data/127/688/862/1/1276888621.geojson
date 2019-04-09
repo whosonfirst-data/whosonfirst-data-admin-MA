@@ -1,0 +1,67 @@
+{
+  "id": 1276888621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92718,32.37114,-6.92718,32.37114",
+    "geom:latitude":32.37114,
+    "geom:longitude":-6.92718,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ksar Derrag",
+    "gn:country_code":"MA",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544018,
+    "gn:latitude":32.37114,
+    "gn:longitude":-6.92718,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ksar Derrag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544018
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f70645d3b01b448fea2c7270c6c7e502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "locality_id":1276888621,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1276888621,
+    "wof:lastmodified":1537028154,
+    "wof:name":"Ksar Derrag",
+    "wof:parent_id":1108784787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92718,
+    32.37114,
+    -6.92718,
+    32.37114
+],
+  "geometry": {"coordinates":[-6.92718,32.37114],"type":"Point"}
+}

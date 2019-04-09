@@ -1,0 +1,78 @@
+{
+  "id": 890417087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4241,35.06739,-4.4241,35.06739",
+    "geom:latitude":35.06739,
+    "geom:longitude":-4.4241,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":9461,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u062c\u0645\u064a\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Gmil"
+    ],
+    "name:fra_x_variant":[
+        "Bni Gmil (CR)",
+        "Bni Gmil (Commune Rurale)"
+    ],
+    "qs:name":"Bni Gmil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546358,
+        "qs:id":629466,
+        "wd:id":"Q1942317",
+        "wk:page":"Bni Gmil"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051179,
+    "wof:geomhash":"befc17f60fa297db64e1c69937b15a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "localadmin_id":890417087,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890417087,
+    "wof:lastmodified":1527782124,
+    "wof:name":"Bni Gmil",
+    "wof:parent_id":890429097,
+    "wof:placetype":"localadmin",
+    "wof:population":9461,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4241,
+    35.06739,
+    -4.4241,
+    35.06739
+],
+  "geometry": {"coordinates":[-4.4241,35.06739],"type":"Point"}
+}

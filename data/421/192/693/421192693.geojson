@@ -1,0 +1,75 @@
+{
+  "id": 421192693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.633022,30.533728,-8.633022,30.533728",
+    "geom:latitude":30.533728,
+    "geom:longitude":-8.633022,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0631\u0632\u0627\u0646",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0633\u0648\u0633 \u0640 \u0645\u0627\u0633\u0629 \u0640 \u062f\u0631\u0639\u0629",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1171815,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1531613,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1531613,
+        "qs:id":1171815
+    },
+    "wof:country":"MA",
+    "wof:created":1459009745,
+    "wof:geomhash":"feda122e97909114988f3e59b57ecd1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":421192693,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":421192693,
+    "wof:lastmodified":1499519228,
+    "wof:name":"\u0627\u0631\u0632\u0627\u0646",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.633022,
+    30.533728,
+    -8.633022,
+    30.533728
+],
+  "geometry": {"coordinates":[-8.633022,30.533728],"type":"Point"}
+}

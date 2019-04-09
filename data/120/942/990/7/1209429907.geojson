@@ -1,0 +1,64 @@
+{
+  "id": 1209429907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.75259,31.24827,-9.75259,31.24827",
+    "geom:latitude":31.24827,
+    "geom:longitude":-9.75259,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Id Ourich",
+    "gn:country_code":"MA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561149,
+    "gn:latitude":31.24827,
+    "gn:longitude":-9.75259,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Ourich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borj d\u2019Ahamorhra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561149
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"729606a0d3607756fb99788ab82aeee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429907
+        }
+    ],
+    "wof:id":1209429907,
+    "wof:lastmodified":1537664228,
+    "wof:name":"Id Ourich",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.75259,
+    31.24827,
+    -9.75259,
+    31.24827
+],
+  "geometry": {"coordinates":[-9.75259,31.24827],"type":"Point"}
+}

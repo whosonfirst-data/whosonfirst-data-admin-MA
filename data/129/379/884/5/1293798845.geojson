@@ -1,0 +1,72 @@
+{
+  "id": 1293798845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.35,34.1,-6.35,34.1",
+    "geom:latitude":34.1,
+    "geom:longitude":-6.35,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ain Zohra",
+    "gn:country_code":"MA",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565313,
+    "gn:latitude":34.1,
+    "gn:longitude":-6.35,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00efn Zohra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Johra",
+        "A\u00efn Zohra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565313,
+        "wk:page":"Ain_Johra"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"30dbe731f8cb10299d1c831a52bafb91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1293798845,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1293798845,
+    "wof:lastmodified":1537664262,
+    "wof:name":"Ain Zohra",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.35,
+    34.1,
+    -6.35,
+    34.1
+],
+  "geometry": {"coordinates":[-6.35,34.1],"type":"Point"}
+}

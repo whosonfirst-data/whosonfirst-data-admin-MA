@@ -1,0 +1,72 @@
+{
+  "id": 1344167313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.31379,34.59396,-5.31379,34.59396",
+    "geom:latitude":34.59396,
+    "geom:longitude":-5.31379,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Guedouma Es Seflia",
+    "gn:country_code":"MA",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548548,
+    "gn:latitude":34.59396,
+    "gn:longitude":-5.31379,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Guedouma Es Seflia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gdouma Seflya",
+        "Guedouma es Seflia",
+        "Douar Guedouma Es Seflia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548548
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6b024492b46ebb46af66e134cbbc79db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1344167313,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1344167313,
+    "wof:lastmodified":1537663812,
+    "wof:name":"Douar Guedouma Es Seflia",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.31379,
+    34.59396,
+    -5.31379,
+    34.59396
+],
+  "geometry": {"coordinates":[-5.31379,34.59396],"type":"Point"}
+}

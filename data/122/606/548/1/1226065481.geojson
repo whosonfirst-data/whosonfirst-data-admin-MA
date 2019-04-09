@@ -1,0 +1,67 @@
+{
+  "id": 1226065481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58784,31.36316,-9.58784,31.36316",
+    "geom:latitude":31.36316,
+    "geom:longitude":-9.58784,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Id Ajil",
+    "gn:country_code":"MA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946023,
+    "gn:latitude":31.36316,
+    "gn:longitude":-9.58784,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Id Ajil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946023
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"40dd14c88227a5f346f29282a37c005d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1226065481,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226065481,
+    "wof:lastmodified":1536696970,
+    "wof:name":"Douar Id Ajil",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58784,
+    31.36316,
+    -9.58784,
+    31.36316
+],
+  "geometry": {"coordinates":[-9.58784,31.36316],"type":"Point"}
+}

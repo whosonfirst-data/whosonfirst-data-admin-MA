@@ -1,0 +1,72 @@
+{
+  "id": 1242696245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.31022,28.48433,-10.31022,28.48433",
+    "geom:latitude":28.48433,
+    "geom:longitude":-10.31022,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tiglit",
+    "gn:country_code":"MA",
+    "gn:dem":315,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528564,
+    "gn:latitude":28.48433,
+    "gn:longitude":-10.31022,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiglit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiglite",
+        "Tiglit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528564
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fb2e46c7732fe96dbf873daf18852847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1242696245,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1242696245,
+    "wof:lastmodified":1537663390,
+    "wof:name":"Tiglit",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.31022,
+    28.48433,
+    -10.31022,
+    28.48433
+],
+  "geometry": {"coordinates":[-10.31022,28.48433],"type":"Point"}
+}

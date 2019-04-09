@@ -1,0 +1,67 @@
+{
+  "id": 1226328239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50767,31.40417,-7.50767,31.40417",
+    "geom:latitude":31.40417,
+    "geom:longitude":-7.50767,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Imiyzag",
+    "gn:country_code":"MA",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353808,
+    "gn:latitude":31.40417,
+    "gn:longitude":-7.50767,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Imiyzag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353808
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"77a7932973b6967e85c933e3e2c5f825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1226328239,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226328239,
+    "wof:lastmodified":1536814068,
+    "wof:name":"Imiyzag",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50767,
+    31.40417,
+    -7.50767,
+    31.40417
+],
+  "geometry": {"coordinates":[-7.50767,31.40417],"type":"Point"}
+}

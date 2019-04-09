@@ -1,0 +1,67 @@
+{
+  "id": 1327123567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06369,30.02325,-9.06369,30.02325",
+    "geom:latitude":30.02325,
+    "geom:longitude":-9.06369,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aouliz",
+    "gn:country_code":"MA",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131343,
+    "gn:latitude":30.02325,
+    "gn:longitude":-9.06369,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Aouliz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131343
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e5d9950a4e27774fb10c5e6de2a7e830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1327123567,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327123567,
+    "wof:lastmodified":1536627048,
+    "wof:name":"Aouliz",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06369,
+    30.02325,
+    -9.06369,
+    30.02325
+],
+  "geometry": {"coordinates":[-9.06369,30.02325],"type":"Point"}
+}

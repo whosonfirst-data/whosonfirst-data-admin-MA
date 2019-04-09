@@ -1,0 +1,70 @@
+{
+  "id": 1360303919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27022,31.84589,-8.27022,31.84589",
+    "geom:latitude":31.84589,
+    "geom:longitude":-8.27022,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi Dghoughi",
+    "gn:country_code":"MA",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2535164,
+    "gn:latitude":31.84589,
+    "gn:longitude":-8.27022,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Dghoughi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi-Drharhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2535164
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fa2304b325e2b896cecb0929ec021171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1360303919,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360303919,
+    "wof:lastmodified":1537663512,
+    "wof:name":"Sidi Dghoughi",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27022,
+    31.84589,
+    -8.27022,
+    31.84589
+],
+  "geometry": {"coordinates":[-8.27022,31.84589],"type":"Point"}
+}

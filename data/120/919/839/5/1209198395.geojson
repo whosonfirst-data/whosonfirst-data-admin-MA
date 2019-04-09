@@ -1,0 +1,61 @@
+{
+  "id": 1209198395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32386,29.53495,-9.32386,29.53495",
+    "geom:latitude":29.53495,
+    "geom:longitude":-9.32386,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ikhnoufa",
+    "gn:country_code":"MA",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129978,
+    "gn:latitude":29.53495,
+    "gn:longitude":-9.32386,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ikhnoufa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129978
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b2ed42aaac44d7a8a1d9935aebe00f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209198395
+        }
+    ],
+    "wof:id":1209198395,
+    "wof:lastmodified":1536294695,
+    "wof:name":"Ikhnoufa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32386,
+    29.53495,
+    -9.32386,
+    29.53495
+],
+  "geometry": {"coordinates":[-9.32386,29.53495],"type":"Point"}
+}

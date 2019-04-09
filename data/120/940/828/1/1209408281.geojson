@@ -1,0 +1,65 @@
+{
+  "id": 1209408281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01867,32.17975,-8.01867,32.17975",
+    "geom:latitude":32.17975,
+    "geom:longitude":-8.01867,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gharba",
+    "gn:country_code":"MA",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538213,
+    "gn:latitude":32.17975,
+    "gn:longitude":-8.01867,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Gharba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rharba",
+        "Gharba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538213
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9d1e2198638cd9b648ecbb2c345e39b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209408281
+        }
+    ],
+    "wof:id":1209408281,
+    "wof:lastmodified":1537663534,
+    "wof:name":"Gharba",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01867,
+    32.17975,
+    -8.01867,
+    32.17975
+],
+  "geometry": {"coordinates":[-8.01867,32.17975],"type":"Point"}
+}

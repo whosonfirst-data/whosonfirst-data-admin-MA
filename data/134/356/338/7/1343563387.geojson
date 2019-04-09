@@ -1,0 +1,67 @@
+{
+  "id": 1343563387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.60656,35.08276,-2.60656,35.08276",
+    "geom:latitude":35.08276,
+    "geom:longitude":-2.60656,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Bouyejra",
+    "gn:country_code":"MA",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092779,
+    "gn:latitude":35.08276,
+    "gn:longitude":-2.60656,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bouyejra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092779
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"575d906d2b41fa101a8da794a3d86593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1343563387,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1343563387,
+    "wof:lastmodified":1537092020,
+    "wof:name":"Douar Bouyejra",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.60656,
+    35.08276,
+    -2.60656,
+    35.08276
+],
+  "geometry": {"coordinates":[-2.60656,35.08276],"type":"Point"}
+}

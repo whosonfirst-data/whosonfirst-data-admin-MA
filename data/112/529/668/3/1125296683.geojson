@@ -1,0 +1,88 @@
+{
+  "id": 1125296683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.20407,31.48829,-7.20407,31.48829",
+    "geom:latitude":31.48829,
+    "geom:longitude":-7.20407,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":8112,
+    "gn:population":8112,
+    "iso:country":"MA",
+    "lbl:latitude":31.48829,
+    "lbl:longitude":-7.20407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u064a \u0628\u0648\u0633\u0644\u0647\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Hkim Ait Yzid"
+    ],
+    "name:fra_x_variant":[
+        "Ait Hkim Ait Yzid (CR)",
+        "Ait Hkim Ait Yzid (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546603,
+    "qs_pg:gn_pop":8112,
+    "qs_pg:name":"Ait Hkim Ait Yzid",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629704,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546603,
+        "qs_pg:id":629704
+    },
+    "wof:country":"MA",
+    "wof:created":1497043182,
+    "wof:geomhash":"d6dc671259cc32993497a0ce5f14a49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "localadmin_id":1125296683,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125296683,
+    "wof:lastmodified":1509387638,
+    "wof:name":"Ait Hkim Ait Yzid",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"localadmin",
+    "wof:population":8112,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.20407,
+    31.48829,
+    -7.20407,
+    31.48829
+],
+  "geometry": {"coordinates":[-7.20407,31.48829],"type":"Point"}
+}

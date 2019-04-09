@@ -1,0 +1,73 @@
+{
+  "id": 1293607589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7227,30.21825,-6.7227,30.21825",
+    "geom:latitude":30.21825,
+    "geom:longitude":-6.7227,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Osar en Nkheila",
+    "gn:country_code":"MA",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541313,
+    "gn:latitude":30.21825,
+    "gn:longitude":-6.7227,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Osar en Nkhe\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "En Kha\u00efla",
+        "Nkhe\u00efla",
+        "O\u00e7ar En Nkheyla",
+        "Osar en Nkhe\u00efla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541313
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9dc8082a01b8d5efc7d60cf8df817e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1293607589,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1293607589,
+    "wof:lastmodified":1537663636,
+    "wof:name":"Osar en Nkheila",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7227,
+    30.21825,
+    -6.7227,
+    30.21825
+],
+  "geometry": {"coordinates":[-6.7227,30.21825],"type":"Point"}
+}

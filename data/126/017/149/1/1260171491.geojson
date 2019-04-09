@@ -1,0 +1,72 @@
+{
+  "id": 1260171491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41072,31.26741,-7.41072,31.26741",
+    "geom:latitude":31.26741,
+    "geom:longitude":-7.41072,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Agalmous",
+    "gn:country_code":"MA",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561294,
+    "gn:latitude":31.26741,
+    "gn:longitude":-7.41072,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Agalmous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguelmouns",
+        "Aguelmous",
+        "Agalmous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561294
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8cd76c28d431f5cf3d4c271b2c393cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1260171491,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260171491,
+    "wof:lastmodified":1537664233,
+    "wof:name":"Agalmous",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41072,
+    31.26741,
+    -7.41072,
+    31.26741
+],
+  "geometry": {"coordinates":[-7.41072,31.26741],"type":"Point"}
+}

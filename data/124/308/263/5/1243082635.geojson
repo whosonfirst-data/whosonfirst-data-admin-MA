@@ -1,0 +1,71 @@
+{
+  "id": 1243082635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4976,32.45862,-4.4976,32.45862",
+    "geom:latitude":32.45862,
+    "geom:longitude":-4.4976,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Harou",
+    "gn:country_code":"MA",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559886,
+    "gn:latitude":32.45862,
+    "gn:longitude":-4.4976,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"A\u00eft Harou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Kharrou",
+        "A\u00eft Harou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559886
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a4d53651af4c35647d03c8eb0c835359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1243082635,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1243082635,
+    "wof:lastmodified":1537664184,
+    "wof:name":"Ait Harou",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4976,
+    32.45862,
+    -4.4976,
+    32.45862
+],
+  "geometry": {"coordinates":[-4.4976,32.45862],"type":"Point"}
+}

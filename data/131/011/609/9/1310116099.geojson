@@ -1,0 +1,70 @@
+{
+  "id": 1310116099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.8608,32.00935,-8.8608,32.00935",
+    "geom:latitude":32.00935,
+    "geom:longitude":-8.8608,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lekhbazat Dar Dhiba",
+    "gn:country_code":"MA",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549845,
+    "gn:latitude":32.00935,
+    "gn:longitude":-8.8608,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lekhbazat Dar Dhiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Khouissat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549845
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c51c64f22b5c4797056af9e62840836c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1310116099,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310116099,
+    "wof:lastmodified":1537663854,
+    "wof:name":"Douar Lekhbazat Dar Dhiba",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.8608,
+    32.00935,
+    -8.8608,
+    32.00935
+],
+  "geometry": {"coordinates":[-8.8608,32.00935],"type":"Point"}
+}

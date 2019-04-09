@@ -1,0 +1,67 @@
+{
+  "id": 1225855111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01602,32.33835,-6.01602,32.33835",
+    "geom:latitude":32.33835,
+    "geom:longitude":-6.01602,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Timsernit",
+    "gn:country_code":"MA",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527991,
+    "gn:latitude":32.33835,
+    "gn:longitude":-6.01602,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Timsernit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527991
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"44bc169dfe942df62ea87f24a0ce7fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1225855111,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1225855111,
+    "wof:lastmodified":1536999329,
+    "wof:name":"Timsernit",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01602,
+    32.33835,
+    -6.01602,
+    32.33835
+],
+  "geometry": {"coordinates":[-6.01602,32.33835],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890417191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.3632,32.66468,-5.3632,32.66468",
+    "geom:latitude":32.66468,
+    "geom:longitude":-5.3632,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":2621,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0627\u0633\u062d\u0627\u0642"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Saadelli"
+    ],
+    "name:fra_x_variant":[
+        "Ait Saadelli (CR)",
+        "Ait Saadelli (Commune Rurale)"
+    ],
+    "qs:name":"Ait Saadelli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546575,
+        "qs:id":629676,
+        "wd:id":"Q16826399",
+        "wk:page":"Ait Saadelli"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051187,
+    "wof:geomhash":"5ff0fe4ed4250889c1e4dee9985db7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "localadmin_id":890417191,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890417191,
+    "wof:lastmodified":1527782123,
+    "wof:name":"Ait Saadelli",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"localadmin",
+    "wof:population":2621,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3632,
+    32.66468,
+    -5.3632,
+    32.66468
+],
+  "geometry": {"coordinates":[-5.3632,32.66468],"type":"Point"}
+}

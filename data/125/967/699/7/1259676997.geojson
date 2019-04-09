@@ -1,0 +1,72 @@
+{
+  "id": 1259676997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.12337,32.23919,-6.12337,32.23919",
+    "geom:latitude":32.23919,
+    "geom:longitude":-6.12337,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tagalft",
+    "gn:country_code":"MA",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531564,
+    "gn:latitude":32.23919,
+    "gn:longitude":-6.12337,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tagalft",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagelft",
+        "Taguelft",
+        "Tagalft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531564
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"df9f85a61923164451870467d6033e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1259676997,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1259676997,
+    "wof:lastmodified":1537663469,
+    "wof:name":"Tagalft",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.12337,
+    32.23919,
+    -6.12337,
+    32.23919
+],
+  "geometry": {"coordinates":[-6.12337,32.23919],"type":"Point"}
+}

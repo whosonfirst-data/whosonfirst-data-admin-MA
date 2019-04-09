@@ -1,0 +1,78 @@
+{
+  "id": 890417003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32889,32.70132,-7.32889,32.70132",
+    "geom:latitude":32.70132,
+    "geom:longitude":-7.32889,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":4832,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0623\u062d\u0645\u062f \u0627\u0644\u062e\u062f\u064a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Boumehdi"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Boumehdi (CR)",
+        "Sidi Boumehdi (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Boumehdi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546264,
+        "qs:id":629391,
+        "wd:id":"Q12217637",
+        "wk:page":"Sidi Boumehdi"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051175,
+    "wof:geomhash":"47d6dd024d72944598adc2139fe0997e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":890417003,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890417003,
+    "wof:lastmodified":1527782125,
+    "wof:name":"Sidi Boumehdi",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":4832,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.32889,
+    32.70132,
+    -7.32889,
+    32.70132
+],
+  "geometry": {"coordinates":[-7.32889,32.70132],"type":"Point"}
+}

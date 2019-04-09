@@ -1,0 +1,72 @@
+{
+  "id": 1276137871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.25,31.46,-4.25,31.46",
+    "geom:latitude":31.46,
+    "geom:longitude":-4.25,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"El Hain",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550263,
+    "gn:latitude":31.46,
+    "gn:longitude":-4.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Ha\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lha\u00efn",
+        "El Ha\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550263
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ec567af841ce529e017c886bad48c207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1276137871,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1276137871,
+    "wof:lastmodified":1537663874,
+    "wof:name":"El Hain",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.25,
+    31.46,
+    -4.25,
+    31.46
+],
+  "geometry": {"coordinates":[-4.25,31.46],"type":"Point"}
+}

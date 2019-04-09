@@ -1,0 +1,67 @@
+{
+  "id": 1226355661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.55109,35.39608,-5.55109,35.39608",
+    "geom:latitude":35.39608,
+    "geom:longitude":-5.55109,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Talefta",
+    "gn:country_code":"MA",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11043639,
+    "gn:latitude":35.39608,
+    "gn:longitude":-5.55109,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Talefta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11043639
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"630a7fdfc93ef84fc7be261acd584977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1226355661,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226355661,
+    "wof:lastmodified":1536775744,
+    "wof:name":"Talefta",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.55109,
+    35.39608,
+    -5.55109,
+    35.39608
+],
+  "geometry": {"coordinates":[-5.55109,35.39608],"type":"Point"}
+}

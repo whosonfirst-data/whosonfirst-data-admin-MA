@@ -1,0 +1,67 @@
+{
+  "id": 1243467483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01069,35.06189,-6.01069,35.06189",
+    "geom:latitude":35.06189,
+    "geom:longitude":-6.01069,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Regraga",
+    "gn:country_code":"MA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10934412,
+    "gn:latitude":35.06189,
+    "gn:longitude":-6.01069,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Regraga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10934412
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"58dccf7d6c6b95e15314991ecd232e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1243467483,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243467483,
+    "wof:lastmodified":1536775740,
+    "wof:name":"Regraga",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01069,
+    35.06189000000001,
+    -6.01069,
+    35.06189000000001
+],
+  "geometry": {"coordinates":[-6.01069,35.06189000000001],"type":"Point"}
+}

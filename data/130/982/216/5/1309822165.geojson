@@ -1,0 +1,70 @@
+{
+  "id": 1309822165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83684,30.12416,-8.83684,30.12416",
+    "geom:latitude":30.12416,
+    "geom:longitude":-8.83684,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tayaght",
+    "gn:country_code":"MA",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531415,
+    "gn:latitude":30.12416,
+    "gn:longitude":-8.83684,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tayaght",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u00efart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531415
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4e39ccfe9eb10fcee26d0f7935dabf6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1309822165,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309822165,
+    "wof:lastmodified":1537663465,
+    "wof:name":"Tayaght",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83684,
+    30.12416,
+    -8.83684,
+    30.12416
+],
+  "geometry": {"coordinates":[-8.83684,30.12416],"type":"Point"}
+}

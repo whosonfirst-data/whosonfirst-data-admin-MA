@@ -1,0 +1,88 @@
+{
+  "id": 1125418597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21228,30.9245,-9.21228,30.9245",
+    "geom:latitude":30.9245,
+    "geom:longitude":-9.21228,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7603,
+    "gn:population":6915,
+    "iso:country":"MA",
+    "lbl:latitude":30.9245,
+    "lbl:longitude":-9.21228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0639\u064a\u0633\u0649 \u0627\u062d\u062d\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Assais"
+    ],
+    "name:fra_x_variant":[
+        "Assais (CR)",
+        "Assais (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546246,
+    "qs_pg:gn_pop":7603,
+    "qs_pg:name":"Assais",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629381,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546246,
+        "qs_pg:id":629381
+    },
+    "wof:country":"MA",
+    "wof:created":1497051812,
+    "wof:geomhash":"e2a0848756e071c5f93f09cb8b586b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "localadmin_id":1125418597,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125418597,
+    "wof:lastmodified":1509390422,
+    "wof:name":"Assais",
+    "wof:parent_id":890453939,
+    "wof:placetype":"localadmin",
+    "wof:population":6915,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21228,
+    30.9245,
+    -9.21228,
+    30.9245
+],
+  "geometry": {"coordinates":[-9.21228,30.9245],"type":"Point"}
+}

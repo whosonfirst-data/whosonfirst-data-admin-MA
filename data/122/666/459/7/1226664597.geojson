@@ -1,0 +1,71 @@
+{
+  "id": 1226664597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.70934,29.22142,-9.70934,29.22142",
+    "geom:latitude":29.22142,
+    "geom:longitude":-9.70934,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Bou Hammou",
+    "gn:country_code":"MA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547294,
+    "gn:latitude":29.22142,
+    "gn:longitude":-9.70934,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Bou Hammou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Bou Hamou",
+        "Id Bou Hammou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547294
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00e7c82147f43075f154ea84445a3ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1226664597,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1226664597,
+    "wof:lastmodified":1537663786,
+    "wof:name":"Id Bou Hammou",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.70934,
+    29.22142,
+    -9.70934,
+    29.22142
+],
+  "geometry": {"coordinates":[-9.70934,29.22142],"type":"Point"}
+}

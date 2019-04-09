@@ -1,0 +1,78 @@
+{
+  "id": 890420297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.52283,29.80265,-9.52283,29.80265",
+    "geom:latitude":29.80265,
+    "geom:longitude":-9.52283,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":7480,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0633\u0631\u064a\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Arbaa Rasmouka"
+    ],
+    "name:fra_x_variant":[
+        "Arbaa Rasmouka (CR)",
+        "Arbaa Rasmouka (Commune Rurale)"
+    ],
+    "qs:name":"Arbaa Rasmouka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546049,
+        "qs:id":629190,
+        "wd:id":"Q4784587",
+        "wk:page":"Arbaa Rasmouka"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051330,
+    "wof:geomhash":"b11c9ffb86f5dc1df81df34ffc51729b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "localadmin_id":890420297,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890420297,
+    "wof:lastmodified":1527792812,
+    "wof:name":"Arbaa Rasmouka",
+    "wof:parent_id":890428801,
+    "wof:placetype":"localadmin",
+    "wof:population":7480,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.52283,
+    29.80265,
+    -9.52283,
+    29.80265
+],
+  "geometry": {"coordinates":[-9.52283,29.80265],"type":"Point"}
+}

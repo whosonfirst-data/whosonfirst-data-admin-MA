@@ -1,0 +1,70 @@
+{
+  "id": 1226544829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75987,34.06786,-6.75987,34.06786",
+    "geom:latitude":34.06786,
+    "geom:longitude":-6.75987,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Lhaouat",
+    "gn:country_code":"MA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431341,
+    "gn:latitude":34.06786,
+    "gn:longitude":-6.75987,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Lhaouat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dr. Lhaouat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431341
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e1fe2f21cea8b286e585d873e6269d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":1226544829,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1226544829,
+    "wof:lastmodified":1537664290,
+    "wof:name":"Douar Lhaouat",
+    "wof:parent_id":1108784811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.75987,
+    34.06786,
+    -6.75987,
+    34.06786
+],
+  "geometry": {"coordinates":[-6.75987,34.06786],"type":"Point"}
+}

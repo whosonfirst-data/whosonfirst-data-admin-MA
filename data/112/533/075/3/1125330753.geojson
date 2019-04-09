@@ -1,0 +1,88 @@
+{
+  "id": 1125330753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02539,33.08603,-8.02539,33.08603",
+    "geom:latitude":33.08603,
+    "geom:longitude":-8.02539,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":5933,
+    "gn:population":5933,
+    "iso:country":"MA",
+    "lbl:latitude":33.08603,
+    "lbl:longitude":-8.02539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0627\u062d\u0644 \u0627\u0648\u0644\u0627\u062f \u0627\u062d\u0631\u064a\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Abdelkhaleq"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Abdelkhaleq (CR)",
+        "Sidi Abdelkhaleq (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546721,
+    "qs_pg:gn_pop":5933,
+    "qs_pg:name":"Sidi Abdelkhaleq",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629819,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546721,
+        "qs_pg:id":629819
+    },
+    "wof:country":"MA",
+    "wof:created":1497045121,
+    "wof:geomhash":"7202a2a651611f2cf5732d2d7f7005ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "localadmin_id":1125330753,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1125330753,
+    "wof:lastmodified":1509388374,
+    "wof:name":"Sidi Abdelkhaleq",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"localadmin",
+    "wof:population":5933,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02539,
+    33.08603,
+    -8.02539,
+    33.08603
+],
+  "geometry": {"coordinates":[-8.02539,33.08603],"type":"Point"}
+}

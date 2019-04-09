@@ -1,0 +1,67 @@
+{
+  "id": 1259392919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.56,29.53,-9.56,29.53",
+    "geom:latitude":29.53,
+    "geom:longitude":-9.56,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Er Rouiss",
+    "gn:country_code":"MA",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549295,
+    "gn:latitude":29.53,
+    "gn:longitude":-9.56,
+    "gn:modification_date":"2005-04-12",
+    "gn:name":"Er Rouiss",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549295
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9d16f95f63b55fafd269edbbc6b4d871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1259392919,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259392919,
+    "wof:lastmodified":1536987762,
+    "wof:name":"Er Rouiss",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.56,
+    29.53,
+    -9.56,
+    29.53
+],
+  "geometry": {"coordinates":[-9.56,29.53],"type":"Point"}
+}

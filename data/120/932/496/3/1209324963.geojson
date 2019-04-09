@@ -1,0 +1,65 @@
+{
+  "id": 1209324963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.92497,31.13859,-7.92497,31.13859",
+    "geom:latitude":31.13859,
+    "geom:longitude":-7.92497,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Arhrene",
+    "gn:country_code":"MA",
+    "gn:dem":1781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557209,
+    "gn:latitude":31.13859,
+    "gn:longitude":-7.92497,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Arhrene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arhr\u00e8n",
+        "Arhrene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557209
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b28dd83615c19ffa72b726eab585ac49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209324963
+        }
+    ],
+    "wof:id":1209324963,
+    "wof:lastmodified":1537664103,
+    "wof:name":"Arhrene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.92497,
+    31.13859,
+    -7.92497,
+    31.13859
+],
+  "geometry": {"coordinates":[-7.92497,31.13859],"type":"Point"}
+}

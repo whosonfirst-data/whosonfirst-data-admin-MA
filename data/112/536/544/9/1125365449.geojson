@@ -1,0 +1,88 @@
+{
+  "id": 1125365449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73263,31.6985,-7.73263,31.6985",
+    "geom:latitude":31.6985,
+    "geom:longitude":-7.73263,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":10972,
+    "gn:population":10972,
+    "iso:country":"MA",
+    "lbl:latitude":31.6985,
+    "lbl:longitude":-7.73263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Jaidate"
+    ],
+    "name:fra_x_variant":[
+        "Jaidate (CR)",
+        "Jaidate (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545603,
+    "qs_pg:gn_pop":10972,
+    "qs_pg:name":"Jaidate",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628744,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545603,
+        "qs_pg:id":628744
+    },
+    "wof:country":"MA",
+    "wof:created":1497047053,
+    "wof:geomhash":"a61802e99677e904ca2d0c0d22c49c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "localadmin_id":1125365449,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125365449,
+    "wof:lastmodified":1509389191,
+    "wof:name":"Jaidate",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"localadmin",
+    "wof:population":10972,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73263,
+    31.6985,
+    -7.73263,
+    31.6985
+],
+  "geometry": {"coordinates":[-7.73263,31.6985],"type":"Point"}
+}

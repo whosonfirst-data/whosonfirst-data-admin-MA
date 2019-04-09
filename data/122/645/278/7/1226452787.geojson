@@ -1,0 +1,72 @@
+{
+  "id": 1226452787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.12142,31.89829,-8.12142,31.89829",
+    "geom:latitude":31.89829,
+    "geom:longitude":-8.12142,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Mehdi el Menabhi",
+    "gn:country_code":"MA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549653,
+    "gn:latitude":31.89829,
+    "gn:longitude":-8.12142,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Mehdi el Menabhi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mehdi el Menebhi",
+        "Douar Mehdi el Menebi",
+        "El Mehdi el Menabhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549653
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e50fd2d74baf17387e93b2448a85c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1226452787,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226452787,
+    "wof:lastmodified":1537663843,
+    "wof:name":"El Mehdi el Menabhi",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.12142,
+    31.89829000000001,
+    -8.12142,
+    31.89829000000001
+],
+  "geometry": {"coordinates":[-8.12142,31.89829000000001],"type":"Point"}
+}

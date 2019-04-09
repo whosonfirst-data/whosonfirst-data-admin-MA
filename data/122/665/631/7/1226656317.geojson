@@ -1,0 +1,71 @@
+{
+  "id": 1226656317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.88903,29.37747,-9.88903,29.37747",
+    "geom:latitude":29.37747,
+    "geom:longitude":-9.88903,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ait Talbousene",
+    "gn:country_code":"MA",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558985,
+    "gn:latitude":29.37747,
+    "gn:longitude":-9.88903,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Talbousene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ait Talbusen",
+        "A\u00eft Talbousene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558985
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9ab312d16c9855e17fa05c37b1865123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1226656317,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226656317,
+    "wof:lastmodified":1537664150,
+    "wof:name":"Ait Talbousene",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.88903,
+    29.37747,
+    -9.88903,
+    29.37747
+],
+  "geometry": {"coordinates":[-9.88903,29.37747],"type":"Point"}
+}

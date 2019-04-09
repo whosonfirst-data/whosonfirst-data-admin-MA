@@ -1,0 +1,70 @@
+{
+  "id": 1259581289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.47063,32.74983,-4.47063,32.74983",
+    "geom:latitude":32.74983,
+    "geom:longitude":-4.47063,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"1330107112.0",
+    "gn:asciiname":"Amersid",
+    "gn:country_code":"MA",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2558122,
+    "gn:latitude":32.74983,
+    "gn:longitude":-4.47063,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Amersid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558122,
+        "wk:page":"Amersid"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"70effa592cdda7a0b5e0bd6b5ace2d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1259581289,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259581289,
+    "wof:lastmodified":1537568281,
+    "wof:name":"Amersid",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.47063,
+    32.74983,
+    -4.47063,
+    32.74983
+],
+  "geometry": {"coordinates":[-4.47063,32.74983],"type":"Point"}
+}

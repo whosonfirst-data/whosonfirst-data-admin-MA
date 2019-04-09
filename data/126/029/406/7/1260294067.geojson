@@ -1,0 +1,67 @@
+{
+  "id": 1260294067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.76752,35.1998,-4.76752,35.1998",
+    "geom:latitude":35.1998,
+    "geom:longitude":-4.76752,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Azerrariour",
+    "gn:country_code":"MA",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11068114,
+    "gn:latitude":35.1998,
+    "gn:longitude":-4.76752,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Azerrariour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11068114
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"10ff4959aafef6d49b46cca9146a1b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1260294067,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1260294067,
+    "wof:lastmodified":1536697857,
+    "wof:name":"Douar Azerrariour",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.76752,
+    35.1998,
+    -4.76752,
+    35.1998
+],
+  "geometry": {"coordinates":[-4.76752,35.1998],"type":"Point"}
+}

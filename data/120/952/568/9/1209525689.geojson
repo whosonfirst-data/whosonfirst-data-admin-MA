@@ -1,0 +1,67 @@
+{
+  "id": 1209525689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.07296,35.03408,-4.07296,35.03408",
+    "geom:latitude":35.03408,
+    "geom:longitude":-4.07296,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Ait Said",
+    "gn:country_code":"MA",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560163,
+    "gn:latitude":35.03408,
+    "gn:longitude":-4.07296,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ait Said",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ait Xaid",
+        "A\u00eft Cha\u00efd",
+        "A\u00eft Sa\u00efd",
+        "Douar Ait Said"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560163
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a608c843fdc153b6ae244478fc9a210d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525689
+        }
+    ],
+    "wof:id":1209525689,
+    "wof:lastmodified":1537664195,
+    "wof:name":"Douar Ait Said",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.07296,
+    35.03408,
+    -4.07296,
+    35.03408
+],
+  "geometry": {"coordinates":[-4.07296,35.03408],"type":"Point"}
+}

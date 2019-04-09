@@ -1,0 +1,67 @@
+{
+  "id": 1260384661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.84031,31.92125,-8.84031,31.92125",
+    "geom:latitude":31.92125,
+    "geom:longitude":-8.84031,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lehouaoussa",
+    "gn:country_code":"MA",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10427660,
+    "gn:latitude":31.92125,
+    "gn:longitude":-8.84031,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lehouaoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10427660
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d1285986d8fcc3361a99fdf127a91529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1260384661,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1260384661,
+    "wof:lastmodified":1537070397,
+    "wof:name":"Lehouaoussa",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.84031,
+    31.92125,
+    -8.84031,
+    31.92125
+],
+  "geometry": {"coordinates":[-8.84031,31.92125],"type":"Point"}
+}

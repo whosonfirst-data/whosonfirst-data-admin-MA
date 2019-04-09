@@ -1,0 +1,72 @@
+{
+  "id": 1360099977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.63824,35.42793,-5.63824,35.42793",
+    "geom:latitude":35.42793,
+    "geom:longitude":-5.63824,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dar Messid",
+    "gn:country_code":"MA",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552647,
+    "gn:latitude":35.42793,
+    "gn:longitude":-5.63824,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Messid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Mesied",
+        "D\u00e2r Messid",
+        "Dar Messid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552647
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"79afc710ba9697e40391225bc0f69919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1360099977,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1360099977,
+    "wof:lastmodified":1537664009,
+    "wof:name":"Dar Messid",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.63824,
+    35.42793,
+    -5.63824,
+    35.42793
+],
+  "geometry": {"coordinates":[-5.63824,35.42793],"type":"Point"}
+}

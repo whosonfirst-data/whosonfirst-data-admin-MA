@@ -1,0 +1,72 @@
+{
+  "id": 1293697021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.79688,35.2378,-5.79688,35.2378",
+    "geom:latitude":35.2378,
+    "geom:longitude":-5.79688,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dar Khorf",
+    "gn:country_code":"MA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552671,
+    "gn:latitude":35.2378,
+    "gn:longitude":-5.79688,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Khorf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Khrofa",
+        "Dar Khorfa",
+        "Dar Khorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552671
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"736a911eea0392d7e9d01c60c8d4ae29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1293697021,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293697021,
+    "wof:lastmodified":1537664010,
+    "wof:name":"Dar Khorf",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.79688,
+    35.2378,
+    -5.79688,
+    35.2378
+],
+  "geometry": {"coordinates":[-5.79688,35.2378],"type":"Point"}
+}

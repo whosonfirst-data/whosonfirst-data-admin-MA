@@ -1,0 +1,61 @@
+{
+  "id": 1209028345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50208,33.11533,-8.50208,33.11533",
+    "geom:latitude":33.11533,
+    "geom:longitude":-8.50208,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chorfa El Kouassem",
+    "gn:country_code":"MA",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471561,
+    "gn:latitude":33.11533,
+    "gn:longitude":-8.50208,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chorfa El Kouassem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471561
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9eccfdd894ce47d046ea806d87d6f8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209028345
+        }
+    ],
+    "wof:id":1209028345,
+    "wof:lastmodified":1536299925,
+    "wof:name":"Chorfa El Kouassem",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50208,
+    33.11533,
+    -8.50208,
+    33.11533
+],
+  "geometry": {"coordinates":[-8.50208,33.11533],"type":"Point"}
+}

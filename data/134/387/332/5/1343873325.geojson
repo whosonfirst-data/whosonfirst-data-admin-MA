@@ -1,0 +1,72 @@
+{
+  "id": 1343873325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.67173,35.33203,-5.67173,35.33203",
+    "geom:latitude":35.33203,
+    "geom:longitude":-5.67173,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Ain Ziana",
+    "gn:country_code":"MA",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560761,
+    "gn:latitude":35.33203,
+    "gn:longitude":-5.67173,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ain Ziana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Zijana",
+        "A\u00efn Ziana",
+        "Douar Ain Ziana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560761
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00cab75d91f5d7b911596cbbdfc19a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1343873325,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343873325,
+    "wof:lastmodified":1537664216,
+    "wof:name":"Douar Ain Ziana",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.67173,
+    35.33203,
+    -5.67173,
+    35.33203
+],
+  "geometry": {"coordinates":[-5.67173,35.33203],"type":"Point"}
+}

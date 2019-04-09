@@ -1,0 +1,67 @@
+{
+  "id": 1259583151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.38597,33.70349,-6.38597,33.70349",
+    "geom:latitude":33.70349,
+    "geom:longitude":-6.38597,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Station Lalla Chafya",
+    "gn:country_code":"MA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10959113,
+    "gn:latitude":33.70349,
+    "gn:longitude":-6.38597,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Station Lalla Chafya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10959113
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4a53b0b97a9289e5dbe8a7210bb66b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1259583151,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1259583151,
+    "wof:lastmodified":1536715645,
+    "wof:name":"Station Lalla Chafya",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.38597,
+    33.70349,
+    -6.38597,
+    33.70349
+],
+  "geometry": {"coordinates":[-6.38597,33.70349],"type":"Point"}
+}

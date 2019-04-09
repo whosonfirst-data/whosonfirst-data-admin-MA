@@ -1,0 +1,71 @@
+{
+  "id": 1343672049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5235,32.80221,-5.5235,32.80221",
+    "geom:latitude":32.80221,
+    "geom:longitude":-5.5235,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Talahyant",
+    "gn:country_code":"MA",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531166,
+    "gn:latitude":32.80221,
+    "gn:longitude":-5.5235,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Talahyant",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ialahiant",
+        "Talahyant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531166
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fc12b5bc3d240c4014a6dffc8f04a052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1343672049,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343672049,
+    "wof:lastmodified":1537663460,
+    "wof:name":"Talahyant",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5235,
+    32.80221,
+    -5.5235,
+    32.80221
+],
+  "geometry": {"coordinates":[-5.5235,32.80221],"type":"Point"}
+}

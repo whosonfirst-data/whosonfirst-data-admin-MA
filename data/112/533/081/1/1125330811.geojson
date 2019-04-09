@@ -1,0 +1,88 @@
+{
+  "id": 1125330811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.47137,31.90507,-7.47137,31.90507",
+    "geom:latitude":31.90507,
+    "geom:longitude":-7.47137,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11365,
+    "gn:population":11168,
+    "iso:country":"MA",
+    "lbl:latitude":31.90507,
+    "lbl:longitude":-7.47137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u062c\u0628\u064a\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Jouala"
+    ],
+    "name:fra_x_variant":[
+        "Jouala (CR)",
+        "Jouala (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546761,
+    "qs_pg:gn_pop":11365,
+    "qs_pg:name":"Jouala",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629862,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546761,
+        "qs_pg:id":629862
+    },
+    "wof:country":"MA",
+    "wof:created":1497045123,
+    "wof:geomhash":"b8a8c4c26661e46df12e64046cf46c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "localadmin_id":1125330811,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125330811,
+    "wof:lastmodified":1509388376,
+    "wof:name":"Jouala",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"localadmin",
+    "wof:population":11168,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.47137,
+    31.90507,
+    -7.47137,
+    31.90507
+],
+  "geometry": {"coordinates":[-7.47137,31.90507],"type":"Point"}
+}

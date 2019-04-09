@@ -1,0 +1,75 @@
+{
+  "id": 1259890235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.50842,32.68851,-4.50842,32.68851",
+    "geom:latitude":32.68851,
+    "geom:longitude":-4.50842,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tit Ourmas",
+    "gn:country_code":"MA",
+    "gn:dem":1370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527266,
+    "gn:latitude":32.68851,
+    "gn:longitude":-4.50842,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Tit Ourmas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tite n\u2019Ourmes",
+        "Tittormes",
+        "Tit n\u2019Ourmes",
+        "Tit Ourmas",
+        "Tit Nourmes Abreuvoir",
+        "Tit Nourmes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527266
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"38814b3ef398ae9ab5225179ca104b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1259890235,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259890235,
+    "wof:lastmodified":1537663349,
+    "wof:name":"Tit Ourmas",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.50842,
+    32.68851,
+    -4.50842,
+    32.68851
+],
+  "geometry": {"coordinates":[-4.50842,32.68851],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276558151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.63012,31.09559,-6.63012,31.09559",
+    "geom:latitude":31.09559,
+    "geom:longitude":-6.63012,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zouiat Madri",
+    "gn:country_code":"MA",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596178,
+    "gn:latitude":31.09559,
+    "gn:longitude":-6.63012,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Zouiat Madri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596178
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6c44b67c311ff58206e11b4b23f926cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1276558151,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276558151,
+    "wof:lastmodified":1536974271,
+    "wof:name":"Zouiat Madri",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.63012,
+    31.09559,
+    -6.63012,
+    31.09559
+],
+  "geometry": {"coordinates":[-6.63012,31.09559],"type":"Point"}
+}

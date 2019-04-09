@@ -1,0 +1,94 @@
+{
+  "id": 1125312943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.97604,34.05838,-4.97604,34.05838",
+    "geom:latitude":34.05838,
+    "geom:longitude":-4.97604,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":91289,
+    "gn:population":91289,
+    "iso:country":"MA",
+    "lbl:latitude":34.05838,
+    "lbl:longitude":-4.97604,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u062a \u0644\u0648\u062f\u0627\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0627\u0633"
+    ],
+    "name:ell_x_preferred":[
+        "Fez"
+    ],
+    "name:fra_x_preferred":[
+        "Fes-Medina"
+    ],
+    "name:fra_x_variant":[
+        "Fes-Medina (AR)",
+        "Fes-Medina (Arrondissement)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545721,
+    "qs_pg:gn_pop":91289,
+    "qs_pg:name":"Fes-Medina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":628863,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890454333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545721,
+        "qs_pg:id":628863
+    },
+    "wof:country":"MA",
+    "wof:created":1497044110,
+    "wof:geomhash":"fe8f1d435c481af6ab8619d2c721ad42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "localadmin_id":1125312943,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1125312943,
+    "wof:lastmodified":1509387931,
+    "wof:name":"Fes-Medina",
+    "wof:parent_id":890454333,
+    "wof:placetype":"localadmin",
+    "wof:population":91289,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.97604,
+    34.05838,
+    -4.97604,
+    34.05838
+],
+  "geometry": {"coordinates":[-4.97604,34.05838],"type":"Point"}
+}

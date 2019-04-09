@@ -1,0 +1,61 @@
+{
+  "id": 1209535987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.42957,31.65215,-9.42957,31.65215",
+    "geom:latitude":31.65215,
+    "geom:longitude":-9.42957,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ait Mhiriga",
+    "gn:country_code":"MA",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10947138,
+    "gn:latitude":31.65215,
+    "gn:longitude":-9.42957,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Mhiriga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10947138
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"06a450cc9d26e43ec7859329b005dd32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209535987
+        }
+    ],
+    "wof:id":1209535987,
+    "wof:lastmodified":1536284140,
+    "wof:name":"Douar Ait Mhiriga",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42957,
+    31.65215,
+    -9.42957,
+    31.65215
+],
+  "geometry": {"coordinates":[-9.42957,31.65215],"type":"Point"}
+}

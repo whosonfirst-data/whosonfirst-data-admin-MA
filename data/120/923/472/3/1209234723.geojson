@@ -1,0 +1,61 @@
+{
+  "id": 1209234723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58073,31.2865,-8.58073,31.2865",
+    "geom:latitude":31.2865,
+    "geom:longitude":-8.58073,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kennzar",
+    "gn:country_code":"MA",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950144,
+    "gn:latitude":31.2865,
+    "gn:longitude":-8.58073,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Kennzar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950144
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c6b29bc59d7fe1415f0c6e4a477f9893",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209234723
+        }
+    ],
+    "wof:id":1209234723,
+    "wof:lastmodified":1536293523,
+    "wof:name":"Kennzar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58073,
+    31.2865,
+    -8.58073,
+    31.2865
+],
+  "geometry": {"coordinates":[-8.58073,31.2865],"type":"Point"}
+}

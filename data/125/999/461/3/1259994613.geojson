@@ -1,0 +1,74 @@
+{
+  "id": 1259994613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57565,30.22968,-8.57565,30.22968",
+    "geom:latitude":30.22968,
+    "geom:longitude":-8.57565,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Taghawt",
+    "gn:country_code":"MA",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529862,
+    "gn:latitude":30.22968,
+    "gn:longitude":-8.57565,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taghawt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taghaout",
+        "Taraout",
+        "Tarhaoute",
+        "Tarhaout",
+        "Taghawt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529862
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"646504b11db993d2aad9ee9356bb8886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1259994613,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259994613,
+    "wof:lastmodified":1537663421,
+    "wof:name":"Taghawt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57565,
+    30.22968,
+    -8.57565,
+    30.22968
+],
+  "geometry": {"coordinates":[-8.57565,30.22968],"type":"Point"}
+}

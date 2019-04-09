@@ -1,0 +1,72 @@
+{
+  "id": 1209734009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.43599,32.03803,-7.43599,32.03803",
+    "geom:latitude":32.03803,
+    "geom:longitude":-7.43599,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar el Ksour",
+    "gn:country_code":"MA",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551762,
+    "gn:latitude":32.03803,
+    "gn:longitude":-7.43599,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar el Ksour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Ksour",
+        "El Ksour",
+        "Douar el Ksour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551762
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2bcb47b5b424bcfec1194ec97c2bb8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1209734009,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209734009,
+    "wof:lastmodified":1537663964,
+    "wof:name":"Douar el Ksour",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.43599,
+    32.03803,
+    -7.43599,
+    32.03803
+],
+  "geometry": {"coordinates":[-7.43599,32.03803],"type":"Point"}
+}

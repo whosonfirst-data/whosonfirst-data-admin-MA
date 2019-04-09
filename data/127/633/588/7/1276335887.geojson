@@ -1,0 +1,67 @@
+{
+  "id": 1276335887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.86159,34.24456,-4.86159,34.24456",
+    "geom:latitude":34.24456,
+    "geom:longitude":-4.86159,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moulay Abdelkader",
+    "gn:country_code":"MA",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10926895,
+    "gn:latitude":34.24456,
+    "gn:longitude":-4.86159,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Moulay Abdelkader",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10926895
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c1711769b58792db691022cbb3f6e76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1276335887,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1276335887,
+    "wof:lastmodified":1536775697,
+    "wof:name":"Moulay Abdelkader",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.86159,
+    34.24456,
+    -4.86159,
+    34.24456
+],
+  "geometry": {"coordinates":[-4.86159,34.24456],"type":"Point"}
+}

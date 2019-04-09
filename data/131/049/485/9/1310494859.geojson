@@ -1,0 +1,67 @@
+{
+  "id": 1310494859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.24481,32.77383,-6.24481,32.77383",
+    "geom:latitude":32.77383,
+    "geom:longitude":-6.24481,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ksar Stainet",
+    "gn:country_code":"MA",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543968,
+    "gn:latitude":32.77383,
+    "gn:longitude":-6.24481,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Ksar Sta\u00efnet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890422519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543968
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3dfdb345cb3a0e155b5585d3c9f3778c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422519,
+            "locality_id":1310494859,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1310494859,
+    "wof:lastmodified":1536933023,
+    "wof:name":"Ksar Stainet",
+    "wof:parent_id":890422519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.24481,
+    32.77383,
+    -6.24481,
+    32.77383
+],
+  "geometry": {"coordinates":[-6.24481,32.77383],"type":"Point"}
+}

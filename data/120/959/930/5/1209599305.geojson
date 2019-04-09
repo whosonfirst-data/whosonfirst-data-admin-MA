@@ -1,0 +1,61 @@
+{
+  "id": 1209599305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33165,29.52411,-9.33165,29.52411",
+    "geom:latitude":29.52411,
+    "geom:longitude":-9.33165,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Issoudr",
+    "gn:country_code":"MA",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129975,
+    "gn:latitude":29.52411,
+    "gn:longitude":-9.33165,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Issoudr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129975
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0d523bc103c840af6123e209ab0c4eb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209599305
+        }
+    ],
+    "wof:id":1209599305,
+    "wof:lastmodified":1536282221,
+    "wof:name":"Issoudr",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33165,
+    29.52411,
+    -9.33165,
+    29.52411
+],
+  "geometry": {"coordinates":[-9.33165,29.52411],"type":"Point"}
+}

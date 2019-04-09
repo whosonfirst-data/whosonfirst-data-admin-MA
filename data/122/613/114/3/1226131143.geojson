@@ -1,0 +1,67 @@
+{
+  "id": 1226131143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.99663,29.58304,-9.99663,29.58304",
+    "geom:latitude":29.58304,
+    "geom:longitude":-9.99663,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Douar n-Oucherim",
+    "gn:country_code":"MA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10886735,
+    "gn:latitude":29.58304,
+    "gn:longitude":-9.99663,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar n-Oucherim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10886735
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"be622f41f37fc63bf89d37014220d2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1226131143,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226131143,
+    "wof:lastmodified":1537095547,
+    "wof:name":"Douar n-Oucherim",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.99663,
+    29.58304,
+    -9.99663,
+    29.58304
+],
+  "geometry": {"coordinates":[-9.99663,29.58304],"type":"Point"}
+}

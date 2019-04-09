@@ -1,0 +1,72 @@
+{
+  "id": 1259593583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6245,33.21198,-4.6245,33.21198",
+    "geom:latitude":33.21198,
+    "geom:longitude":-4.6245,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait 'Atmane Ou Moussa",
+    "gn:country_code":"MA",
+    "gn:dem":1687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560454,
+    "gn:latitude":33.21198,
+    "gn:longitude":-4.6245,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft \u2019Atmane Ou Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Athmane Ou Moussa",
+        "A\u00eft Atmane Ou Moussa",
+        "A\u00eft \u2019Atmane Ou Moussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560454
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"087155a92f9672686ea0a3e188ddc19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1259593583,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1259593583,
+    "wof:lastmodified":1537664205,
+    "wof:name":"Ait 'Atmane Ou Moussa",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6245,
+    33.21198,
+    -4.6245,
+    33.21198
+],
+  "geometry": {"coordinates":[-4.6245,33.21198],"type":"Point"}
+}

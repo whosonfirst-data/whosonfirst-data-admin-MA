@@ -1,0 +1,71 @@
+{
+  "id": 1276226079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.02959,32.14684,-7.02959,32.14684",
+    "geom:latitude":32.14684,
+    "geom:longitude":-7.02959,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Imdahane",
+    "gn:country_code":"MA",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546325,
+    "gn:latitude":32.14684,
+    "gn:longitude":-7.02959,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Imdahane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imadahan",
+        "Imdahane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546325
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8daf7c2f1e5367487c4c7259aa668d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1276226079,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1276226079,
+    "wof:lastmodified":1537663752,
+    "wof:name":"Imdahane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.02959,
+    32.14684,
+    -7.02959,
+    32.14684
+],
+  "geometry": {"coordinates":[-7.02959,32.14684],"type":"Point"}
+}

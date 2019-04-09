@@ -1,0 +1,72 @@
+{
+  "id": 1276883535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.08598,33.90393,-5.08598,33.90393",
+    "geom:latitude":33.90393,
+    "geom:longitude":-5.08598,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ras Bou Rkaiz",
+    "gn:country_code":"MA",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551280,
+    "gn:latitude":33.90393,
+    "gn:longitude":-5.08598,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ras Bou Rka\u00efz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Rkeiz",
+        "Dar Ras Bou Rka\u00efz",
+        "Douar Ras Bou Rka\u00efz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551280
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"38c6a061fe86f4f9c4f990aefaa60180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1276883535,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1276883535,
+    "wof:lastmodified":1537663925,
+    "wof:name":"Douar Ras Bou Rkaiz",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.08598,
+    33.90393,
+    -5.08598,
+    33.90393
+],
+  "geometry": {"coordinates":[-5.08598,33.90393],"type":"Point"}
+}

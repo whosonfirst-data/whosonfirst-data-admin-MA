@@ -1,0 +1,67 @@
+{
+  "id": 1242661535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33699,30.65781,-9.33699,30.65781",
+    "geom:latitude":30.65781,
+    "geom:longitude":-9.33699,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Igourdane",
+    "gn:country_code":"MA",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11131775,
+    "gn:latitude":30.65781,
+    "gn:longitude":-9.33699,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Igourdane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131775
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"82d62f452634d1873400e1ca4a02dfcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1242661535,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242661535,
+    "wof:lastmodified":1536943479,
+    "wof:name":"Igourdane",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33699,
+    30.65781,
+    -9.33699,
+    30.65781
+],
+  "geometry": {"coordinates":[-9.33699,30.65781],"type":"Point"}
+}

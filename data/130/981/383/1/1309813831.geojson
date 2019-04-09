@@ -1,0 +1,72 @@
+{
+  "id": 1309813831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.67338,34.00438,-4.67338,34.00438",
+    "geom:latitude":34.00438,
+    "geom:longitude":-4.67338,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ait Bouzemmour",
+    "gn:country_code":"MA",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571658,
+    "gn:latitude":34.00438,
+    "gn:longitude":-4.67338,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ait Bouzemmour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00eft Ben Zemour",
+        "A\u00eft Ben Zemour",
+        "Douar Ait Bouzemmour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571658
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7c92f5e96516d0ab2942ce03cc4adb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1309813831,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1309813831,
+    "wof:lastmodified":1537664278,
+    "wof:name":"Douar Ait Bouzemmour",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.67338,
+    34.00438,
+    -4.67338,
+    34.00438
+],
+  "geometry": {"coordinates":[-4.67338,34.00438],"type":"Point"}
+}

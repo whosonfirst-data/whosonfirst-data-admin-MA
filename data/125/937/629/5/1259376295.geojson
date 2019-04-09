@@ -1,0 +1,67 @@
+{
+  "id": 1259376295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.72154,31.47918,-7.72154,31.47918",
+    "geom:latitude":31.47918,
+    "geom:longitude":-7.72154,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sidi Ibghi",
+    "gn:country_code":"MA",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353587,
+    "gn:latitude":31.47918,
+    "gn:longitude":-7.72154,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sidi Ibghi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353587
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"37517f718080d7f257758b7765274f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1259376295,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259376295,
+    "wof:lastmodified":1537011920,
+    "wof:name":"Sidi Ibghi",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.72154,
+    31.47918,
+    -7.72154,
+    31.47918
+],
+  "geometry": {"coordinates":[-7.72154,31.47918],"type":"Point"}
+}

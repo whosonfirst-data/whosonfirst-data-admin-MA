@@ -1,0 +1,61 @@
+{
+  "id": 1209400685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14368,32.08664,-9.14368,32.08664",
+    "geom:latitude":32.08664,
+    "geom:longitude":-9.14368,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad Mbarek Ben Amer",
+    "gn:country_code":"MA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949198,
+    "gn:latitude":32.08664,
+    "gn:longitude":-9.14368,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Mbarek Ben Amer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949198
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3bd49cfe6ffaaa8f37b916e29cb0164c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209400685
+        }
+    ],
+    "wof:id":1209400685,
+    "wof:lastmodified":1536288157,
+    "wof:name":"Douar Oulad Mbarek Ben Amer",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14368,
+    32.08664,
+    -9.14368,
+    32.08664
+],
+  "geometry": {"coordinates":[-9.14368,32.08664],"type":"Point"}
+}

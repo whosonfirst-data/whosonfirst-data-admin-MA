@@ -1,0 +1,72 @@
+{
+  "id": 1276788439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42578,32.8019,-7.42578,32.8019",
+    "geom:latitude":32.8019,
+    "geom:longitude":-7.42578,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dhaba",
+    "gn:country_code":"MA",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551638,
+    "gn:latitude":32.8019,
+    "gn:longitude":-7.42578,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dhaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Djilali Ben Regha\u00ef",
+        "Douar Jilali Ben Rerha\u00ef",
+        "Dhaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551638
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"59a9cce07758fdd5d81110958f7609dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1276788439,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1276788439,
+    "wof:lastmodified":1537663954,
+    "wof:name":"Dhaba",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42578,
+    32.8019,
+    -7.42578,
+    32.8019
+],
+  "geometry": {"coordinates":[-7.42578,32.8019],"type":"Point"}
+}

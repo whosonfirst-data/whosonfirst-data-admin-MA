@@ -1,0 +1,73 @@
+{
+  "id": 1326640241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7859,31.23209,-8.7859,31.23209",
+    "geom:latitude":31.23209,
+    "geom:longitude":-8.7859,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Agadir-n-Flas",
+    "gn:country_code":"MA",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561623,
+    "gn:latitude":31.23209,
+    "gn:longitude":-8.7859,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agadir-n-Flas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inflas Agadir",
+        "Agadir Inflass",
+        "Agadir Infless",
+        "Agadir-n-Flas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561623
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"982507947d4cab380b40cfb2a014a4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1326640241,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326640241,
+    "wof:lastmodified":1537664243,
+    "wof:name":"Agadir-n-Flas",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7859,
+    31.23209,
+    -8.7859,
+    31.23209
+],
+  "geometry": {"coordinates":[-8.7859,31.23209],"type":"Point"}
+}

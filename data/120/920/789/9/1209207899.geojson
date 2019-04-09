@@ -1,0 +1,61 @@
+{
+  "id": 1209207899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.46732,32.02186,-6.46732,32.02186",
+    "geom:latitude":32.02186,
+    "geom:longitude":-6.46732,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Iguer-n-Ouwoul",
+    "gn:country_code":"MA",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435783,
+    "gn:latitude":32.02186,
+    "gn:longitude":-6.46732,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Iguer-n-Ouwoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435783
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1645cc158f5be58e0c835a110578e2b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209207899
+        }
+    ],
+    "wof:id":1209207899,
+    "wof:lastmodified":1536294391,
+    "wof:name":"Iguer-n-Ouwoul",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.46732,
+    32.02186,
+    -6.46732,
+    32.02186
+],
+  "geometry": {"coordinates":[-6.46732,32.02186],"type":"Point"}
+}

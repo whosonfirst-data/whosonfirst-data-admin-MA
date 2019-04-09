@@ -1,0 +1,73 @@
+{
+  "id": 1243082611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48107,32.0113,-8.48107,32.0113",
+    "geom:latitude":32.0113,
+    "geom:longitude":-8.48107,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Ben Azzouz Er-Rich",
+    "gn:country_code":"MA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551303,
+    "gn:latitude":32.0113,
+    "gn:longitude":-8.48107,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Ben Azzouz Er-Rich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad ben Azzouz",
+        "Douar Oulad Ben Azzouz",
+        "Douar Ouled Ben Azzouz",
+        "Douar Oulad Ben Azzouz Er-Rich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551303
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"55e1c2f002f2a15ed5f0db29df0a9484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1243082611,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1243082611,
+    "wof:lastmodified":1537663927,
+    "wof:name":"Douar Oulad Ben Azzouz Er-Rich",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48107,
+    32.0113,
+    -8.48107,
+    32.0113
+],
+  "geometry": {"coordinates":[-8.48107,32.0113],"type":"Point"}
+}

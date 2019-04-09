@@ -1,0 +1,71 @@
+{
+  "id": 1309727081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53064,30.63967,-8.53064,30.63967",
+    "geom:latitude":30.63967,
+    "geom:longitude":-8.53064,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Oulad Mellouk",
+    "gn:country_code":"MA",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539556,
+    "gn:latitude":30.63967,
+    "gn:longitude":-8.53064,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Mellouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Malouk",
+        "Oulad Mellouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539556
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5a6ab9271b5f1c0a87483f21d0e8747b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1309727081,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309727081,
+    "wof:lastmodified":1537663576,
+    "wof:name":"Oulad Mellouk",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53064,
+    30.63967,
+    -8.53064,
+    30.63967
+],
+  "geometry": {"coordinates":[-8.53064,30.63967],"type":"Point"}
+}

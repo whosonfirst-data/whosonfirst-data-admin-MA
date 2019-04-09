@@ -1,0 +1,86 @@
+{
+  "id": 1125329987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.66318,24.046,-14.66318,24.046",
+    "geom:latitude":24.046,
+    "geom:longitude":-14.66318,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1273,
+    "gn:population":1273,
+    "iso:country":"MA",
+    "lbl:latitude":24.046,
+    "lbl:longitude":-14.66318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0627\u062e\u0644\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Bir Anzarane"
+    ],
+    "name:fra_x_variant":[
+        "Bir Anzarane (CR)",
+        "Bir Anzarane (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545634,
+    "qs_pg:gn_pop":1273,
+    "qs_pg:name":"Bir Anzarane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":628775,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545634,
+        "qs_pg:id":628775
+    },
+    "wof:country":"MA",
+    "wof:created":1497045079,
+    "wof:geomhash":"573c9dca011cc6b5d4e6175049a046e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "localadmin_id":1125329987,
+            "region_id":85673951
+        }
+    ],
+    "wof:id":1125329987,
+    "wof:lastmodified":1509388349,
+    "wof:name":"Bir Anzarane",
+    "wof:parent_id":85673951,
+    "wof:placetype":"localadmin",
+    "wof:population":1273,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.66318,
+    24.046,
+    -14.66318,
+    24.046
+],
+  "geometry": {"coordinates":[-14.66318,24.046],"type":"Point"}
+}

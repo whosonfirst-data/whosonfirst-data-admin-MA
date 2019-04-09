@@ -1,0 +1,73 @@
+{
+  "id": 1243182509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.70819,35.78318,-5.70819,35.78318",
+    "geom:latitude":35.78318,
+    "geom:longitude":-5.70819,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ain Zaytouna",
+    "gn:country_code":"MA",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560763,
+    "gn:latitude":35.78318,
+    "gn:longitude":-5.70819,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ain Zaytouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dxar-ez-Zeitun",
+        "A\u00efn Zeituna",
+        "A\u00efn Ze\u00efto\u00fbria",
+        "Ain Zaytouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560763
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6155e29842558c50bfc0a4aa8065f7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1243182509,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243182509,
+    "wof:lastmodified":1537664216,
+    "wof:name":"Ain Zaytouna",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.70819,
+    35.78318,
+    -5.70819,
+    35.78318
+],
+  "geometry": {"coordinates":[-5.70819,35.78318],"type":"Point"}
+}

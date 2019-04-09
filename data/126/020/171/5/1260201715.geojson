@@ -1,0 +1,73 @@
+{
+  "id": 1260201715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96423,32.78887,-4.96423,32.78887",
+    "geom:latitude":32.78887,
+    "geom:longitude":-4.96423,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Iloussane",
+    "gn:country_code":"MA",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559788,
+    "gn:latitude":32.78887,
+    "gn:longitude":-4.96423,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"A\u00eft Iloussane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Ait Ihoussane",
+        "A\u00eft Illoucene",
+        "A\u00eft Illoussene",
+        "A\u00eft Iloussane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559788
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8cc8cd7db9202583600c33dcdf7352ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1260201715,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1260201715,
+    "wof:lastmodified":1537664180,
+    "wof:name":"Ait Iloussane",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96423,
+    32.78887,
+    -4.96423,
+    32.78887
+],
+  "geometry": {"coordinates":[-4.96423,32.78887],"type":"Point"}
+}

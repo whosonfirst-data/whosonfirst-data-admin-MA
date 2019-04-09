@@ -1,0 +1,74 @@
+{
+  "id": 1310511743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.31137,34.93411,-5.31137,34.93411",
+    "geom:latitude":34.93411,
+    "geom:longitude":-5.31137,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beni Bouraiah",
+    "gn:country_code":"MA",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555912,
+    "gn:latitude":34.93411,
+    "gn:longitude":-5.31137,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Beni Boura\u00efah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Beni Boura\u00efah",
+        "B\u00e9ni Bra\u00efh",
+        "Beni Bourba\u00efa",
+        "Beni Bourha\u00efa",
+        "Beni Boura\u00efah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555912
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ca50cfc3bfe745697de4de62ab7ba679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1310511743,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310511743,
+    "wof:lastmodified":1537664074,
+    "wof:name":"Beni Bouraiah",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.31137,
+    34.93411,
+    -5.31137,
+    34.93411
+],
+  "geometry": {"coordinates":[-5.31137,34.93411],"type":"Point"}
+}

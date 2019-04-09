@@ -1,0 +1,67 @@
+{
+  "id": 1209625509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41012,30.37761,-7.41012,30.37761",
+    "geom:latitude":30.37761,
+    "geom:longitude":-7.41012,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bettal n'Ouidi",
+    "gn:country_code":"MA",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555405,
+    "gn:latitude":30.37761,
+    "gn:longitude":-7.41012,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bettal n\u2019Ouidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Btal n\u2019Aidi",
+        "Bettal n\u2019Idi",
+        "Bettal n Widi",
+        "Bettal n\u2019Ouidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555405
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7a6cb64744a6b28539aff35c3f30de54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625509
+        }
+    ],
+    "wof:id":1209625509,
+    "wof:lastmodified":1537664063,
+    "wof:name":"Bettal n'Ouidi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41012,
+    30.37761,
+    -7.41012,
+    30.37761
+],
+  "geometry": {"coordinates":[-7.41012,30.37761],"type":"Point"}
+}

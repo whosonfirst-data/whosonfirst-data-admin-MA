@@ -1,0 +1,67 @@
+{
+  "id": 1309698131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9085,32.5629,-7.9085,32.5629",
+    "geom:latitude":32.5629,
+    "geom:longitude":-7.9085,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lekbir",
+    "gn:country_code":"MA",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10935551,
+    "gn:latitude":32.5629,
+    "gn:longitude":-7.9085,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lekbir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10935551
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b42ceea0a8b22638463ccad60d28125a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1309698131,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309698131,
+    "wof:lastmodified":1537083213,
+    "wof:name":"Douar Lekbir",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9085,
+    32.5629,
+    -7.9085,
+    32.5629
+],
+  "geometry": {"coordinates":[-7.9085,32.5629],"type":"Point"}
+}

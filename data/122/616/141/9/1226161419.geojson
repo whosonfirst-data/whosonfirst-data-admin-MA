@@ -1,0 +1,74 @@
+{
+  "id": 1226161419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.60272,34.67065,-5.60272,34.67065",
+    "geom:latitude":34.67065,
+    "geom:longitude":-5.60272,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Laararsa",
+    "gn:country_code":"MA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550723,
+    "gn:latitude":34.67065,
+    "gn:longitude":-5.60272,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Laararsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00e2rarsate",
+        "Douar el Ararsa",
+        "El Arana",
+        "El Ararsa",
+        "Laararsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550723
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"722a550a4d0d99e97336f13fc469b2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1226161419,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1226161419,
+    "wof:lastmodified":1537663894,
+    "wof:name":"Laararsa",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.60272,
+    34.67065,
+    -5.60272,
+    34.67065
+],
+  "geometry": {"coordinates":[-5.60272,34.67065],"type":"Point"}
+}

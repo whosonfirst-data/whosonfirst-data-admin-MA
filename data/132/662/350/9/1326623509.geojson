@@ -1,0 +1,73 @@
+{
+  "id": 1326623509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08108,31.52645,-8.08108,31.52645",
+    "geom:latitude":31.52645,
+    "geom:longitude":-8.08108,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ba'qila",
+    "gn:country_code":"MA",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544210,
+    "gn:latitude":31.52645,
+    "gn:longitude":-8.08108,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Ba\u2019qila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Kila",
+        "Kila",
+        "Kita",
+        "Douar Ba\u2019qila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544210
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"feafe83c2a586cdd430a5ede00897b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1326623509,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326623509,
+    "wof:lastmodified":1537663691,
+    "wof:name":"Douar Ba'qila",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08108,
+    31.52645,
+    -8.08108,
+    31.52645
+],
+  "geometry": {"coordinates":[-8.08108,31.52645],"type":"Point"}
+}

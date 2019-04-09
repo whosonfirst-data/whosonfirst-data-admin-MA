@@ -1,0 +1,73 @@
+{
+  "id": 1242775823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.93961,32.06914,-5.93961,32.06914",
+    "geom:latitude":32.06914,
+    "geom:longitude":-5.93961,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"1208109092.0",
+    "gn:asciiname":"Anergui",
+    "gn:country_code":"MA",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2559366,
+    "gn:latitude":32.06914,
+    "gn:longitude":-5.93961,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Anergui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ouanergui",
+        "Anergui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559366
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d4acf7418618e0618d70bed9bcf85ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1242775823,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242775823,
+    "wof:lastmodified":1537664164,
+    "wof:name":"Anergui",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.93961,
+    32.06914,
+    -5.93961,
+    32.06914
+],
+  "geometry": {"coordinates":[-5.93961,32.06914],"type":"Point"}
+}

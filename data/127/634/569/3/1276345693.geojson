@@ -1,0 +1,72 @@
+{
+  "id": 1276345693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58,31.96,-7.58,31.96",
+    "geom:latitude":31.96,
+    "geom:longitude":-7.58,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Ech Chidmia",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550957,
+    "gn:latitude":31.96,
+    "gn:longitude":-7.58,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ech Chidmia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Chidmia",
+        "Ech Chidmia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550957
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"17ade39ac5a0f39c084f386242dba8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1276345693,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276345693,
+    "wof:lastmodified":1537663907,
+    "wof:name":"Ech Chidmia",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58,
+    31.96,
+    -7.58,
+    31.96
+],
+  "geometry": {"coordinates":[-7.58,31.96],"type":"Point"}
+}

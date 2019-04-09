@@ -1,0 +1,67 @@
+{
+  "id": 1276538055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33085,30.23156,-9.33085,30.23156",
+    "geom:latitude":30.23156,
+    "geom:longitude":-9.33085,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tou Ouktir",
+    "gn:country_code":"MA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945574,
+    "gn:latitude":30.23156,
+    "gn:longitude":-9.33085,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tou Ouktir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945574
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a3f59f13da3b5c4a96b41e3b9401ae1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1276538055,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276538055,
+    "wof:lastmodified":1537000886,
+    "wof:name":"Tou Ouktir",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33085,
+    30.23156,
+    -9.33085,
+    30.23156
+],
+  "geometry": {"coordinates":[-9.33085,30.23156],"type":"Point"}
+}

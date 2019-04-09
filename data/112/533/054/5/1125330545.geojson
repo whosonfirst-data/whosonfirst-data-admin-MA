@@ -1,0 +1,88 @@
+{
+  "id": 1125330545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9182,32.01894,-8.9182,32.01894",
+    "geom:latitude":32.01894,
+    "geom:longitude":-8.9182,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":16697,
+    "gn:population":18335,
+    "iso:country":"MA",
+    "lbl:latitude":32.01894,
+    "lbl:longitude":-8.9182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u062d\u062f\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Lamrasla"
+    ],
+    "name:fra_x_variant":[
+        "Lamrasla (CR)",
+        "Lamrasla (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546522,
+    "qs_pg:gn_pop":16697,
+    "qs_pg:name":"Lamrasla",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629628,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546522,
+        "qs_pg:id":629628
+    },
+    "wof:country":"MA",
+    "wof:created":1497045108,
+    "wof:geomhash":"77fa78e11014cc529f5b4d674b18ecec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "localadmin_id":1125330545,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1125330545,
+    "wof:lastmodified":1509388365,
+    "wof:name":"Lamrasla",
+    "wof:parent_id":890445397,
+    "wof:placetype":"localadmin",
+    "wof:population":18335,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9182,
+    32.01894,
+    -8.9182,
+    32.01894
+],
+  "geometry": {"coordinates":[-8.9182,32.01894],"type":"Point"}
+}

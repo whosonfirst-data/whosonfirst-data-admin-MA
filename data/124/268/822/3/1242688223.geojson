@@ -1,0 +1,73 @@
+{
+  "id": 1242688223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.62284,34.8519,-5.62284,34.8519",
+    "geom:latitude":34.8519,
+    "geom:longitude":-5.62284,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Asjen",
+    "gn:country_code":"MA",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556552,
+    "gn:latitude":34.8519,
+    "gn:longitude":-5.62284,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Asjen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azj\u00e8n",
+        "Asjene",
+        "Azjene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556552,
+        "wk:page":"Asjen"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"83312629b12257c72c0e755d368434f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1242688223,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242688223,
+    "wof:lastmodified":1537664088,
+    "wof:name":"Asjen",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.62284,
+    34.8519,
+    -5.62284,
+    34.8519
+],
+  "geometry": {"coordinates":[-5.62284,34.8519],"type":"Point"}
+}

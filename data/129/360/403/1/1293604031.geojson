@@ -1,0 +1,71 @@
+{
+  "id": 1293604031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.13758,31.61459,-9.13758,31.61459",
+    "geom:latitude":31.61459,
+    "geom:longitude":-9.13758,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Mouarid",
+    "gn:country_code":"MA",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549538,
+    "gn:latitude":31.61459,
+    "gn:longitude":-9.13758,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Mouarid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Mouarid",
+        "El Mouarid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549538
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"54afb66b7c5601937072bb303c1e94bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1293604031,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293604031,
+    "wof:lastmodified":1537663838,
+    "wof:name":"El Mouarid",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13758,
+    31.61459,
+    -9.13758,
+    31.61459
+],
+  "geometry": {"coordinates":[-9.13758,31.61459],"type":"Point"}
+}

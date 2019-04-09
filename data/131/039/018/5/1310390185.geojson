@@ -1,0 +1,73 @@
+{
+  "id": 1310390185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.20812,31.95286,-5.20812,31.95286",
+    "geom:latitude":31.95286,
+    "geom:longitude":-5.20812,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"1320105052.0",
+    "gn:asciiname":"Assoul",
+    "gn:country_code":"MA",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2556835,
+    "gn:latitude":31.95286,
+    "gn:longitude":-5.20812,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Assoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assoul Ksar",
+        "Assoul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556835
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7989a087228b2f20e396da9cd0da27ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1310390185,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310390185,
+    "wof:lastmodified":1537664094,
+    "wof:name":"Assoul",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.20812,
+    31.95286,
+    -5.20812,
+    31.95286
+],
+  "geometry": {"coordinates":[-5.20812,31.95286],"type":"Point"}
+}

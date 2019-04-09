@@ -1,0 +1,66 @@
+{
+  "id": 1209633707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.86898,35.4806,-5.86898,35.4806",
+    "geom:latitude":35.4806,
+    "geom:longitude":-5.86898,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Amarat",
+    "gn:country_code":"MA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550784,
+    "gn:latitude":35.4806,
+    "gn:longitude":-5.86898,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Amarat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cherija",
+        "El Amarat",
+        "Amarat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550784
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d275d8a3c011a0b40efe0ff3efe209e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633707
+        }
+    ],
+    "wof:id":1209633707,
+    "wof:lastmodified":1537663898,
+    "wof:name":"Amarat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.86898,
+    35.4806,
+    -5.86898,
+    35.4806
+],
+  "geometry": {"coordinates":[-5.86898,35.4806],"type":"Point"}
+}

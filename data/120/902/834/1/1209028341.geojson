@@ -1,0 +1,61 @@
+{
+  "id": 1209028341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70053,32.95591,-8.70053,32.95591",
+    "geom:latitude":32.95591,
+    "geom:longitude":-8.70053,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Laguilchate",
+    "gn:country_code":"MA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367169,
+    "gn:latitude":32.95591,
+    "gn:longitude":-8.70053,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laguilchate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367169
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f6b2955b477258023b348a3860c89e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209028341
+        }
+    ],
+    "wof:id":1209028341,
+    "wof:lastmodified":1536299925,
+    "wof:name":"Douar Laguilchate",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70053,
+    32.95591,
+    -8.70053,
+    32.95591
+],
+  "geometry": {"coordinates":[-8.70053,32.95591],"type":"Point"}
+}

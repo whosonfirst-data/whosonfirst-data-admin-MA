@@ -1,0 +1,65 @@
+{
+  "id": 1209625473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.12864,31.14239,-7.12864,31.14239",
+    "geom:latitude":31.14239,
+    "geom:longitude":-7.12864,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Farse",
+    "gn:country_code":"MA",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571861,
+    "gn:latitude":31.14239,
+    "gn:longitude":-7.12864,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Farse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Farse",
+        "A\u00eft Fars"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571861
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a39d0a71943c58c2909e8a418ca42ddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625473
+        }
+    ],
+    "wof:id":1209625473,
+    "wof:lastmodified":1537664279,
+    "wof:name":"Ait Farse",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.12864,
+    31.14239,
+    -7.12864,
+    31.14239
+],
+  "geometry": {"coordinates":[-7.12864,31.14239],"type":"Point"}
+}

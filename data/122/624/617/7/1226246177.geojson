@@ -1,0 +1,67 @@
+{
+  "id": 1226246177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.90386,35.75846,-5.90386,35.75846",
+    "geom:latitude":35.75846,
+    "geom:longitude":-5.90386,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khandeq Lgour",
+    "gn:country_code":"MA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060058,
+    "gn:latitude":35.75846,
+    "gn:longitude":-5.90386,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Khandeq Lgour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060058
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"66d1b648d9996c96011d4f96a73d00d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1226246177,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226246177,
+    "wof:lastmodified":1536933723,
+    "wof:name":"Khandeq Lgour",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.90386,
+    35.75846,
+    -5.90386,
+    35.75846
+],
+  "geometry": {"coordinates":[-5.90386,35.75846],"type":"Point"}
+}

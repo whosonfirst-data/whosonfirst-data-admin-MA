@@ -1,0 +1,72 @@
+{
+  "id": 1276133875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.7247,34.6837,-5.7247,34.6837",
+    "geom:latitude":34.6837,
+    "geom:longitude":-5.7247,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Leahura",
+    "gn:country_code":"MA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549742,
+    "gn:latitude":34.6837,
+    "gn:longitude":-5.7247,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Leahura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Lbane",
+        "El Lbane",
+        "Douar Leahura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549742
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c420b4dd79781beddc624f953d17552e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1276133875,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276133875,
+    "wof:lastmodified":1537663848,
+    "wof:name":"Douar Leahura",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7247,
+    34.6837,
+    -5.7247,
+    34.6837
+],
+  "geometry": {"coordinates":[-5.7247,34.6837],"type":"Point"}
+}

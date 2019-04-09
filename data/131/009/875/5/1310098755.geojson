@@ -1,0 +1,71 @@
+{
+  "id": 1310098755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.73798,31.98273,-6.73798,31.98273",
+    "geom:latitude":31.98273,
+    "geom:longitude":-6.73798,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Anazzad",
+    "gn:country_code":"MA",
+    "gn:dem":970,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557669,
+    "gn:latitude":31.98273,
+    "gn:longitude":-6.73798,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Anazzad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anzad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557669
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"05c6e946c2f922ad0909fea499ae4949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310098755,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310098755,
+    "wof:lastmodified":1537664115,
+    "wof:name":"Anazzad",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73798,
+    31.98273,
+    -6.73798,
+    31.98273
+],
+  "geometry": {"coordinates":[-6.73798,31.98273],"type":"Point"}
+}

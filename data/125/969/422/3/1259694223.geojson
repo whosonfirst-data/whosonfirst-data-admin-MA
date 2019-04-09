@@ -1,0 +1,71 @@
+{
+  "id": 1259694223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.04103,35.08002,-6.04103,35.08002",
+    "geom:latitude":35.08002,
+    "geom:longitude":-6.04103,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chlihat",
+    "gn:country_code":"MA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569640,
+    "gn:latitude":35.08002,
+    "gn:longitude":-6.04103,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Chlihat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chlihate",
+        "Chlihat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569640
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6e09993778e5a507ff3967520fdf74e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1259694223,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259694223,
+    "wof:lastmodified":1537664270,
+    "wof:name":"Chlihat",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.04103,
+    35.08002,
+    -6.04103,
+    35.08002
+],
+  "geometry": {"coordinates":[-6.04103,35.08002],"type":"Point"}
+}

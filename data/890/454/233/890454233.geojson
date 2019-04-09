@@ -1,0 +1,78 @@
+{
+  "id": 890454233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.56548,33.58945,-7.56548,33.58945",
+    "geom:latitude":33.58945,
+    "geom:longitude":-7.56548,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":145834,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0627\u0631\u064a\u0641 (\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Mers-Sultan"
+    ],
+    "name:fra_x_variant":[
+        "Mers-Sultan (AR)",
+        "Mers-Sultan (Arrondissement)"
+    ],
+    "qs:name":"Mers-Sultan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673905,
+        890442533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545967,
+        "qs:id":629110,
+        "wd:id":"Q3306635",
+        "wk:page":"Mers Sultan"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052891,
+    "wof:geomhash":"45cb8a41849654de05015a4818710050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442533,
+            "localadmin_id":890454233,
+            "region_id":85673905
+        }
+    ],
+    "wof:id":890454233,
+    "wof:lastmodified":1527735429,
+    "wof:name":"Mers-Sultan",
+    "wof:parent_id":890442533,
+    "wof:placetype":"localadmin",
+    "wof:population":145834,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.56548,
+    33.58945,
+    -7.56548,
+    33.58945
+],
+  "geometry": {"coordinates":[-7.56548,33.58945],"type":"Point"}
+}

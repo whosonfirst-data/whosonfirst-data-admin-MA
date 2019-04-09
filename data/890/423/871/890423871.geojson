@@ -1,0 +1,78 @@
+{
+  "id": 890423871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.17843,35.15613,-4.17843,35.15613",
+    "geom:latitude":35.15613,
+    "geom:longitude":-4.17843,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":8092,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0627\u0636\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Rouadi"
+    ],
+    "name:fra_x_variant":[
+        "Rouadi (CR)",
+        "Rouadi (Commune Rurale)"
+    ],
+    "qs:name":"Rouadi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545810,
+        "qs:id":628953,
+        "wd:id":"Q7370731",
+        "wk:page":"Rouadi"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051518,
+    "wof:geomhash":"8c155db23dcf264c8423e2ea5c58a8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "localadmin_id":890423871,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890423871,
+    "wof:lastmodified":1527727273,
+    "wof:name":"Rouadi",
+    "wof:parent_id":890429097,
+    "wof:placetype":"localadmin",
+    "wof:population":8092,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.17843,
+    35.15613,
+    -4.17843,
+    35.15613
+],
+  "geometry": {"coordinates":[-4.17843,35.15613],"type":"Point"}
+}

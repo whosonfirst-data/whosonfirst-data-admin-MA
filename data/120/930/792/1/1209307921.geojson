@@ -1,0 +1,64 @@
+{
+  "id": 1209307921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07407,31.96702,-7.07407,31.96702",
+    "geom:latitude":31.96702,
+    "geom:longitude":-7.07407,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lakrakcha",
+    "gn:country_code":"MA",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558473,
+    "gn:latitude":31.96702,
+    "gn:longitude":-7.07407,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Lakrakcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Khakcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558473
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"de9b641ca621f7cc1dce862566760ca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209307921
+        }
+    ],
+    "wof:id":1209307921,
+    "wof:lastmodified":1537664137,
+    "wof:name":"Lakrakcha",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07407,
+    31.96702,
+    -7.07407,
+    31.96702
+],
+  "geometry": {"coordinates":[-7.07407,31.96702],"type":"Point"}
+}

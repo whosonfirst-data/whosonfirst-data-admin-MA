@@ -1,0 +1,67 @@
+{
+  "id": 1209936769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64029,31.90969,-7.64029,31.90969",
+    "geom:latitude":31.90969,
+    "geom:longitude":-7.64029,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ben Ebbih",
+    "gn:country_code":"MA",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10911995,
+    "gn:latitude":31.90969,
+    "gn:longitude":-7.64029,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ben Ebbih",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10911995
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7fd3ba6fa0f996388e7299501bcceb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1209936769,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209936769,
+    "wof:lastmodified":1536390290,
+    "wof:name":"Douar Ben Ebbih",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64029,
+    31.90969,
+    -7.64029,
+    31.90969
+],
+  "geometry": {"coordinates":[-7.64029,31.90969],"type":"Point"}
+}

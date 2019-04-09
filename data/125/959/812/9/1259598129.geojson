@@ -1,0 +1,71 @@
+{
+  "id": 1259598129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23882,32.37613,-8.23882,32.37613",
+    "geom:latitude":32.37613,
+    "geom:longitude":-8.23882,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Jriouat",
+    "gn:country_code":"MA",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544926,
+    "gn:latitude":32.37613,
+    "gn:longitude":-8.23882,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Jriouat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jriouete",
+        "Jriouet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544926
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0a341301b6235c0c098be0e45c829192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1259598129,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259598129,
+    "wof:lastmodified":1537663708,
+    "wof:name":"Douar Jriouat",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23882,
+    32.37613,
+    -8.23882,
+    32.37613
+],
+  "geometry": {"coordinates":[-8.23882,32.37613],"type":"Point"}
+}

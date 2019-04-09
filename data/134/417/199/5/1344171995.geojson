@@ -1,0 +1,73 @@
+{
+  "id": 1344171995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29784,31.38154,-8.29784,31.38154",
+    "geom:latitude":31.38154,
+    "geom:longitude":-8.29784,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Jorf",
+    "gn:country_code":"MA",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550051,
+    "gn:latitude":31.38154,
+    "gn:longitude":-8.29784,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Jorf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jorf",
+        "Douar el Jorf",
+        "El Jorf",
+        "Al Jorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550051
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b43ce31c2202d86ccd6007425618aade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1344171995,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1344171995,
+    "wof:lastmodified":1537663862,
+    "wof:name":"Al Jorf",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29784,
+    31.38154,
+    -8.29784,
+    31.38154
+],
+  "geometry": {"coordinates":[-8.29784,31.38154],"type":"Point"}
+}

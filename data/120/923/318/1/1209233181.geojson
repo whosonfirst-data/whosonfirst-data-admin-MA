@@ -1,0 +1,66 @@
+{
+  "id": 1209233181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.23365,31.22548,-4.23365,31.22548",
+    "geom:latitude":31.22548,
+    "geom:longitude":-4.23365,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zawiyat El Maati",
+    "gn:country_code":"MA",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526349,
+    "gn:latitude":31.22548,
+    "gn:longitude":-4.23365,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zawiyat El M\u00e0ati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar el Maati",
+        "Zaouia el Maati",
+        "Zawiyat El M\u00e0ati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526349
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"05ef9780343da42b10a4c73037721166",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209233181
+        }
+    ],
+    "wof:id":1209233181,
+    "wof:lastmodified":1537663325,
+    "wof:name":"Zawiyat El Maati",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.23365,
+    31.22548,
+    -4.23365,
+    31.22548
+],
+  "geometry": {"coordinates":[-4.23365,31.22548],"type":"Point"}
+}

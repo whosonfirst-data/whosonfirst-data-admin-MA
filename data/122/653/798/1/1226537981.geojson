@@ -1,0 +1,67 @@
+{
+  "id": 1226537981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.11939,31.74686,-7.11939,31.74686",
+    "geom:latitude":31.74686,
+    "geom:longitude":-7.11939,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dar Jakir",
+    "gn:country_code":"MA",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545203,
+    "gn:latitude":31.74686,
+    "gn:longitude":-7.11939,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Dar Jakir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545203
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4a85794950b2fbd4504b53787a0499ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226537981,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226537981,
+    "wof:lastmodified":1537008568,
+    "wof:name":"Dar Jakir",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.11939,
+    31.74686,
+    -7.11939,
+    31.74686
+],
+  "geometry": {"coordinates":[-7.11939,31.74686],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259401227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.87049,35.74493,-5.87049,35.74493",
+    "geom:latitude":35.74493,
+    "geom:longitude":-5.87049,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Branese Laqdima",
+    "gn:country_code":"MA",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553728,
+    "gn:latitude":35.74493,
+    "gn:longitude":-5.87049,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Branese Laqdima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Branez",
+        "Douar Branes",
+        "Branes",
+        "Douar Branese Laqdima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553728
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba0be2df67f23295bd68b803303ede83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1259401227,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259401227,
+    "wof:lastmodified":1537664041,
+    "wof:name":"Douar Branese Laqdima",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.87049,
+    35.74493,
+    -5.87049,
+    35.74493
+],
+  "geometry": {"coordinates":[-5.87049,35.74493],"type":"Point"}
+}

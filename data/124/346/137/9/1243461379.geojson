@@ -1,0 +1,67 @@
+{
+  "id": 1243461379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.72338,34.11481,-4.72338,34.11481",
+    "geom:latitude":34.11481,
+    "geom:longitude":-4.72338,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mellah Lghoula",
+    "gn:country_code":"MA",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11042166,
+    "gn:latitude":34.11481,
+    "gn:longitude":-4.72338,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Mellah Lghoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11042166
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"de2efbad75f1247cb157ed63c065b15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1243461379,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1243461379,
+    "wof:lastmodified":1536784444,
+    "wof:name":"Mellah Lghoula",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.72338,
+    34.11481,
+    -4.72338,
+    34.11481
+],
+  "geometry": {"coordinates":[-4.72338,34.11481],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242989197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.4341,35.31442,-5.4341,35.31442",
+    "geom:latitude":35.31442,
+    "geom:longitude":-5.4341,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Aouraghene",
+    "gn:country_code":"MA",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557514,
+    "gn:latitude":35.31442,
+    "gn:longitude":-5.4341,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Aouraghene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aouragouene",
+        "Aourarhene",
+        "Douar Aouraghene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557514
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b3ee5a1334b94609d66643143db0e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1242989197,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242989197,
+    "wof:lastmodified":1537664111,
+    "wof:name":"Douar Aouraghene",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.4341,
+    35.31442,
+    -5.4341,
+    35.31442
+],
+  "geometry": {"coordinates":[-5.4341,35.31442],"type":"Point"}
+}

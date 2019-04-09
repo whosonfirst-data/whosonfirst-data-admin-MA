@@ -1,0 +1,71 @@
+{
+  "id": 1259798523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94541,34.3114,-5.94541,34.3114",
+    "geom:latitude":34.3114,
+    "geom:longitude":-5.94541,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Mzoura",
+    "gn:country_code":"MA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551525,
+    "gn:latitude":34.3114,
+    "gn:longitude":-5.94541,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Mzoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mzoura",
+        "Douar Mzoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551525
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f7b77d7a0357062cba1803b1fcee1363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1259798523,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1259798523,
+    "wof:lastmodified":1537663946,
+    "wof:name":"Douar Mzoura",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94541,
+    34.3114,
+    -5.94541,
+    34.3114
+],
+  "geometry": {"coordinates":[-5.94541,34.3114],"type":"Point"}
+}

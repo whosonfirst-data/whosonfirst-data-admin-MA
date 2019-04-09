@@ -1,0 +1,71 @@
+{
+  "id": 1242670825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92113,32.03406,-6.92113,32.03406",
+    "geom:latitude":32.03406,
+    "geom:longitude":-6.92113,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Boucha'ou",
+    "gn:country_code":"MA",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560297,
+    "gn:latitude":32.03406,
+    "gn:longitude":-6.92113,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft Boucha\u2019ou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Boucha\u2019ou",
+        "A\u00eft Bouchahou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560297
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2af42b32aa7a60a68e5ff9b7e2155159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1242670825,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242670825,
+    "wof:lastmodified":1537664199,
+    "wof:name":"Ait Boucha'ou",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92113,
+    32.03406,
+    -6.92113,
+    32.03406
+],
+  "geometry": {"coordinates":[-6.92113,32.03406],"type":"Point"}
+}

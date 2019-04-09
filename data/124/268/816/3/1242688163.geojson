@@ -1,0 +1,67 @@
+{
+  "id": 1242688163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.56,30.0,-5.56,30.0",
+    "geom:latitude":30.0,
+    "geom:longitude":-5.56,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ksar Jdid",
+    "gn:country_code":"MA",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543992,
+    "gn:latitude":30.0,
+    "gn:longitude":-5.56,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ksar Jdid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543992
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"10d092a37fba2a98819f7b43c2ed146c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1242688163,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242688163,
+    "wof:lastmodified":1536904614,
+    "wof:name":"Ksar Jdid",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.56,
+    30.0,
+    -5.56,
+    30.0
+],
+  "geometry": {"coordinates":[-5.56,30.0],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293798827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0,29.61,-10.0,29.61",
+    "geom:latitude":29.61,
+    "geom:longitude":-10.0,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Oudsemlalt",
+    "gn:country_code":"MA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540720,
+    "gn:latitude":29.61,
+    "gn:longitude":-10.0,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oudsemlalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540720
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3b81c39d4885ae5d4aa56654de152d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293798827,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293798827,
+    "wof:lastmodified":1536834199,
+    "wof:name":"Oudsemlalt",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0,
+    29.61,
+    -10.0,
+    29.61
+],
+  "geometry": {"coordinates":[-10.0,29.61],"type":"Point"}
+}

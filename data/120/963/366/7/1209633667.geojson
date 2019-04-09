@@ -1,0 +1,67 @@
+{
+  "id": 1209633667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.44051,31.721,-9.44051,31.721",
+    "geom:latitude":31.721,
+    "geom:longitude":-9.44051,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Jbilat",
+    "gn:country_code":"MA",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545148,
+    "gn:latitude":31.721,
+    "gn:longitude":-9.44051,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Jbilat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibaylat",
+        "Jbaylat",
+        "Jebailate",
+        "Douar Jbilat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545148
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f6227f59016f6dabfc0117f7ac27b66f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633667
+        }
+    ],
+    "wof:id":1209633667,
+    "wof:lastmodified":1537663714,
+    "wof:name":"Douar Jbilat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.44051,
+    31.721,
+    -9.44051,
+    31.721
+],
+  "geometry": {"coordinates":[-9.44051,31.721],"type":"Point"}
+}

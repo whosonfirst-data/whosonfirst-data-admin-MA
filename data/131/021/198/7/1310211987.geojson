@@ -1,0 +1,67 @@
+{
+  "id": 1310211987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.87981,33.66434,-4.87981,33.66434",
+    "geom:latitude":33.66434,
+    "geom:longitude":-4.87981,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ibouaa",
+    "gn:country_code":"MA",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921482,
+    "gn:latitude":33.66434,
+    "gn:longitude":-4.87981,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ibouaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921482
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"42fee2bf5f8db6e446962bca3ec45f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1310211987,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1310211987,
+    "wof:lastmodified":1536841802,
+    "wof:name":"Douar Ibouaa",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.87981,
+    33.66434,
+    -4.87981,
+    33.66434
+],
+  "geometry": {"coordinates":[-4.87981,33.66434],"type":"Point"}
+}

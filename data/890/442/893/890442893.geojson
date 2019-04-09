@@ -1,0 +1,67 @@
+{
+  "id": 890442893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.22862,32.10928,-1.22862,32.10928",
+    "geom:latitude":32.10928,
+    "geom:longitude":-1.22862,
+    "gn:country":"MA",
+    "gn:fcode":"AREA",
+    "gn:pop":12516,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Bureau Coop\u00e9ration Internationale D\u00e9centralis\u00e9e",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942456,
+        "gp:id":1535465,
+        "qs:id":653122
+    },
+    "wof:country":"MA",
+    "wof:created":1469052386,
+    "wof:geomhash":"c8dbf50c408b45f89de0c039653e9135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":890442893,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890442893,
+    "wof:lastmodified":1505343590,
+    "wof:name":"Bureau Coop\u00e9ration Internationale D\u00e9centralis\u00e9e",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:population":12516,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.22862,
+    32.10928,
+    -1.22862,
+    32.10928
+],
+  "geometry": {"coordinates":[-1.22862,32.10928],"type":"Point"}
+}

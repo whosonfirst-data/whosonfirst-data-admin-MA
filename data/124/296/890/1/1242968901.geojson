@@ -1,0 +1,72 @@
+{
+  "id": 1242968901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.29038,31.96118,-6.29038,31.96118",
+    "geom:latitude":31.96118,
+    "geom:longitude":-6.29038,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Agard-n-ou 'Rab",
+    "gn:country_code":"MA",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596185,
+    "gn:latitude":31.96118,
+    "gn:longitude":-6.29038,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Agard-n-ou \u2019Rab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apuerd n-Wa\u2019rab",
+        "Apuerd n\u2019Ouarab",
+        "Agard-n-ou \u2019Rab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596185
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"25d71b6474a83da6541a1802a360c12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1242968901,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242968901,
+    "wof:lastmodified":1537664284,
+    "wof:name":"Agard-n-ou 'Rab",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.29038,
+    31.96118,
+    -6.29038,
+    31.96118
+],
+  "geometry": {"coordinates":[-6.29038,31.96118],"type":"Point"}
+}

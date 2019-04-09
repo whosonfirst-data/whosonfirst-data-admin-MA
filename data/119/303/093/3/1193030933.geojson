@@ -1,0 +1,72 @@
+{
+  "id": 1193030933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05453,32.22038,-9.05453,32.22038",
+    "geom:latitude":32.22038,
+    "geom:longitude":-9.05453,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Abd el Kader",
+    "gn:country_code":"MA",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562151,
+    "gn:latitude":32.22038,
+    "gn:longitude":-9.05453,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Abd el Kader",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Abdelkader",
+        "L\u00efana",
+        "Abd el Kader"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562151
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6ce9dedf2f8071d277939c09c56ca3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1193030933,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1193030933,
+    "wof:lastmodified":1537664255,
+    "wof:name":"Abd el Kader",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05453,
+    32.22038,
+    -9.05453,
+    32.22038
+],
+  "geometry": {"coordinates":[-9.05453,32.22038],"type":"Point"}
+}

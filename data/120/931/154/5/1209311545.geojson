@@ -1,0 +1,61 @@
+{
+  "id": 1209311545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07392,32.95325,-8.07392,32.95325",
+    "geom:latitude":32.95325,
+    "geom:longitude":-8.07392,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lafrach",
+    "gn:country_code":"MA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367851,
+    "gn:latitude":32.95325,
+    "gn:longitude":-8.07392,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lafrach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367851
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7d6b2d443696da079fda34dae4ccced7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209311545
+        }
+    ],
+    "wof:id":1209311545,
+    "wof:lastmodified":1536291011,
+    "wof:name":"Lafrach",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07392,
+    32.95325,
+    -8.07392,
+    32.95325
+],
+  "geometry": {"coordinates":[-8.07392,32.95325],"type":"Point"}
+}

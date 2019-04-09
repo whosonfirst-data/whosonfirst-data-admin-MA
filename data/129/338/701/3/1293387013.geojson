@@ -1,0 +1,67 @@
+{
+  "id": 1293387013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54729,33.03677,-8.54729,33.03677",
+    "geom:latitude":33.03677,
+    "geom:longitude":-8.54729,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sidi Mohamed Laghrib",
+    "gn:country_code":"MA",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471652,
+    "gn:latitude":33.03677,
+    "gn:longitude":-8.54729,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sidi Mohamed Laghrib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471652
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bf5cdd2839ac057eb35d781f82e8f0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1293387013,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293387013,
+    "wof:lastmodified":1536932652,
+    "wof:name":"Sidi Mohamed Laghrib",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54729,
+    33.03677,
+    -8.54729,
+    33.03677
+],
+  "geometry": {"coordinates":[-8.54729,33.03677],"type":"Point"}
+}

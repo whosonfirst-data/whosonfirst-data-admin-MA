@@ -1,0 +1,67 @@
+{
+  "id": 1260170623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26828,29.89862,-9.26828,29.89862",
+    "geom:latitude":29.89862,
+    "geom:longitude":-9.26828,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Ibourk",
+    "gn:country_code":"MA",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130443,
+    "gn:latitude":29.89862,
+    "gn:longitude":-9.26828,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ibourk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130443
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"70601883faa4dfc012533dce2f18d4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1260170623,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260170623,
+    "wof:lastmodified":1536864272,
+    "wof:name":"Ait Ibourk",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26828,
+    29.89862,
+    -9.26828,
+    29.89862
+],
+  "geometry": {"coordinates":[-9.26828,29.89862],"type":"Point"}
+}

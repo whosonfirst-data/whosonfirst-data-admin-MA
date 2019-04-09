@@ -1,0 +1,71 @@
+{
+  "id": 1343477271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.39786,30.68121,-5.39786,30.68121",
+    "geom:latitude":30.68121,
+    "geom:longitude":-5.39786,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tifrit",
+    "gn:country_code":"MA",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528610,
+    "gn:latitude":30.68121,
+    "gn:longitude":-5.39786,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tifrit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ifert",
+        "Tifrit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528610
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e67590f349819f902094fc0688f69664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1343477271,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343477271,
+    "wof:lastmodified":1537663390,
+    "wof:name":"Tifrit",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.39786,
+    30.68121,
+    -5.39786,
+    30.68121
+],
+  "geometry": {"coordinates":[-5.39786,30.68121],"type":"Point"}
+}

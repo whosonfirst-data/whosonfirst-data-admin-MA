@@ -1,0 +1,67 @@
+{
+  "id": 1226446033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.67168,35.01167,-5.67168,35.01167",
+    "geom:latitude":35.01167,
+    "geom:longitude":-5.67168,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Dar El Altar",
+    "gn:country_code":"MA",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10933856,
+    "gn:latitude":35.01167,
+    "gn:longitude":-5.67168,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Dar El Altar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10933856
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"62242dc78d442e99f6d6d8b8c3024f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1226446033,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226446033,
+    "wof:lastmodified":1536644418,
+    "wof:name":"Douar Dar El Altar",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.67168,
+    35.01167,
+    -5.67168,
+    35.01167
+],
+  "geometry": {"coordinates":[-5.67168,35.01167],"type":"Point"}
+}

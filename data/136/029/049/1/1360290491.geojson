@@ -1,0 +1,67 @@
+{
+  "id": 1360290491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.17649,34.60415,-6.17649,34.60415",
+    "geom:latitude":34.60415,
+    "geom:longitude":-6.17649,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Laqouaha",
+    "gn:country_code":"MA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11014512,
+    "gn:latitude":34.60415,
+    "gn:longitude":-6.17649,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Laqouaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11014512
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9317bb5c0d9bc6bc205aaf34b6dc6725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1360290491,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1360290491,
+    "wof:lastmodified":1536648974,
+    "wof:name":"Laqouaha",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.17649,
+    34.60415,
+    -6.17649,
+    34.60415
+],
+  "geometry": {"coordinates":[-6.17649,34.60415],"type":"Point"}
+}

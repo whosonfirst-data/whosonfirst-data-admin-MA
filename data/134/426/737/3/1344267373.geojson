@@ -1,0 +1,72 @@
+{
+  "id": 1344267373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.55586,32.92449,-5.55586,32.92449",
+    "geom:latitude":32.92449,
+    "geom:longitude":-5.55586,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Arouggou",
+    "gn:country_code":"MA",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557162,
+    "gn:latitude":32.92449,
+    "gn:longitude":-5.55586,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Arouggou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aroggou",
+        "Arrougou",
+        "Arouggou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557162
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"65d48692de69d281ac1356d02803b2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1344267373,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1344267373,
+    "wof:lastmodified":1537664102,
+    "wof:name":"Arouggou",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.55586,
+    32.92449000000001,
+    -5.55586,
+    32.92449000000001
+],
+  "geometry": {"coordinates":[-5.55586,32.92449000000001],"type":"Point"}
+}

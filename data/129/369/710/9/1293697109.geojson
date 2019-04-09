@@ -1,0 +1,72 @@
+{
+  "id": 1293697109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.15097,29.29902,-10.15097,29.29902",
+    "geom:latitude":29.29902,
+    "geom:longitude":-10.15097,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Erkount",
+    "gn:country_code":"MA",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549348,
+    "gn:latitude":29.29902,
+    "gn:longitude":-10.15097,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Erkount",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ercunt",
+        "Ercut",
+        "Erkount"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549348
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"279c2adee957894043c86c272c093aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293697109,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293697109,
+    "wof:lastmodified":1537663831,
+    "wof:name":"Erkount",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.15097,
+    29.29902,
+    -10.15097,
+    29.29902
+],
+  "geometry": {"coordinates":[-10.15097,29.29902],"type":"Point"}
+}

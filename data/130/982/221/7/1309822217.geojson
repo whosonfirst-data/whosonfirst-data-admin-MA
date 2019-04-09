@@ -1,0 +1,70 @@
+{
+  "id": 1309822217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19249,29.7844,-9.19249,29.7844",
+    "geom:latitude":29.7844,
+    "geom:longitude":-9.19249,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tizkwane",
+    "gn:country_code":"MA",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527075,
+    "gn:latitude":29.7844,
+    "gn:longitude":-9.19249,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tizkwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tizoukane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527075
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"74ff99ba8a1f596c82bb04c100ae221f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1309822217,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309822217,
+    "wof:lastmodified":1537663343,
+    "wof:name":"Tizkwane",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19249,
+    29.7844,
+    -9.19249,
+    29.7844
+],
+  "geometry": {"coordinates":[-9.19249,29.7844],"type":"Point"}
+}

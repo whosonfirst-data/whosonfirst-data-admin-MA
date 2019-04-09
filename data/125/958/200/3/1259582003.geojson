@@ -1,0 +1,73 @@
+{
+  "id": 1259582003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.30001,31.85885,-6.30001,31.85885",
+    "geom:latitude":31.85885,
+    "geom:longitude":-6.30001,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Amane Mallouln",
+    "gn:country_code":"MA",
+    "gn:dem":2030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558310,
+    "gn:latitude":31.85885,
+    "gn:longitude":-6.30001,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Amane Mallouln",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amane Melloulene",
+        "Amane Melloul",
+        "Amane Mellouln",
+        "Amane Mallouln"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558310
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"565d705a804ad229250dc0e27f333aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1259582003,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1259582003,
+    "wof:lastmodified":1537664134,
+    "wof:name":"Amane Mallouln",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.30001,
+    31.85885,
+    -6.30001,
+    31.85885
+],
+  "geometry": {"coordinates":[-6.30001,31.85885],"type":"Point"}
+}

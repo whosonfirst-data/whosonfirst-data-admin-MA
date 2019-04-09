@@ -1,0 +1,66 @@
+{
+  "id": 1209019395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.20164,35.03477,-5.20164,35.03477",
+    "geom:latitude":35.03477,
+    "geom:longitude":-5.20164,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oulad d'Ajoud",
+    "gn:country_code":"MA",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539940,
+    "gn:latitude":35.03477,
+    "gn:longitude":-5.20164,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad d\u2019Ajoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulad Aiud",
+        "Oulad de Ajoud",
+        "Oulad d\u2019Ajoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539940
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b945ab346db5e609b553006455b3bc6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019395
+        }
+    ],
+    "wof:id":1209019395,
+    "wof:lastmodified":1537663597,
+    "wof:name":"Oulad d'Ajoud",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.20164,
+    35.03477,
+    -5.20164,
+    35.03477
+],
+  "geometry": {"coordinates":[-5.20164,35.03477],"type":"Point"}
+}

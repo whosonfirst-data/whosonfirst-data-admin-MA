@@ -1,0 +1,65 @@
+{
+  "id": 1209019373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.17632,35.07726,-3.17632,35.07726",
+    "geom:latitude":35.07726,
+    "geom:longitude":-3.17632,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tamseracht",
+    "gn:country_code":"MA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530470,
+    "gn:latitude":35.07726,
+    "gn:longitude":-3.17632,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamseracht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamrakte",
+        "Tamseracht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530470
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a92d1da81e865eac64908a2a1986952c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019373
+        }
+    ],
+    "wof:id":1209019373,
+    "wof:lastmodified":1537663439,
+    "wof:name":"Tamseracht",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.17632,
+    35.07726,
+    -3.17632,
+    35.07726
+],
+  "geometry": {"coordinates":[-3.17632,35.07726],"type":"Point"}
+}

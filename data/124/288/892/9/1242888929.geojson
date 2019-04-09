@@ -1,0 +1,73 @@
+{
+  "id": 1242888929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.63747,34.37321,-4.63747,34.37321",
+    "geom:latitude":34.37321,
+    "geom:longitude":-4.63747,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Moudnine",
+    "gn:country_code":"MA",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551540,
+    "gn:latitude":34.37321,
+    "gn:longitude":-4.63747,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Moudnine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mouderina",
+        "Douar Moudnine",
+        "Douar Laoudnine",
+        "Douar Lmoudaine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551540
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"366cd6ff529dfd3b3eab86598a9040a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1242888929,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1242888929,
+    "wof:lastmodified":1537663947,
+    "wof:name":"Douar Moudnine",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.63747,
+    34.37321,
+    -4.63747,
+    34.37321
+],
+  "geometry": {"coordinates":[-4.63747,34.37321],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209224919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.29333,30.37051,-9.29333,30.37051",
+    "geom:latitude":30.37051,
+    "geom:longitude":-9.29333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Douar Saiyed",
+    "gn:country_code":"MA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552528,
+    "gn:latitude":30.37051,
+    "gn:longitude":-9.29333,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Saiyed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saiied",
+        "A\u00eft Sa\u00efd",
+        "Dar Sa\u00efd",
+        "Douar Saiyed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552528
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"97a734aef7bba589a119e95e42ed1b95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224919
+        }
+    ],
+    "wof:id":1209224919,
+    "wof:lastmodified":1537664005,
+    "wof:name":"Douar Saiyed",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.29333,
+    30.37051,
+    -9.29333,
+    30.37051
+],
+  "geometry": {"coordinates":[-9.29333,30.37051],"type":"Point"}
+}

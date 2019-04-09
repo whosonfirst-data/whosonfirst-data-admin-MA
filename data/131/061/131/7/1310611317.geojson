@@ -1,0 +1,71 @@
+{
+  "id": 1310611317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.30458,33.48166,-4.30458,33.48166",
+    "geom:latitude":33.48166,
+    "geom:longitude":-4.30458,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait Bou Slimane",
+    "gn:country_code":"MA",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560205,
+    "gn:latitude":33.48166,
+    "gn:longitude":-4.30458,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Bou Slimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Bousselmane",
+        "A\u00eft Bou Slimane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560205
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"68ca422a4faee84b497ba6c84f4fc5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1310611317,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1310611317,
+    "wof:lastmodified":1537664196,
+    "wof:name":"Ait Bou Slimane",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.30458,
+    33.48166,
+    -4.30458,
+    33.48166
+],
+  "geometry": {"coordinates":[-4.30458,33.48166],"type":"Point"}
+}

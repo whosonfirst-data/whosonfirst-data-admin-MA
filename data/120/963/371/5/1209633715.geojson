@@ -1,0 +1,66 @@
+{
+  "id": 1209633715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.46742,34.96285,-4.46742,34.96285",
+    "geom:latitude":34.96285,
+    "geom:longitude":-4.46742,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bougarda",
+    "gn:country_code":"MA",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554913,
+    "gn:latitude":34.96285,
+    "gn:longitude":-4.46742,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bougarda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boughrada",
+        "Bourharda",
+        "Bougarda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554913
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e99bb09fee079a0f2b25706b57b52d78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633715
+        }
+    ],
+    "wof:id":1209633715,
+    "wof:lastmodified":1537664056,
+    "wof:name":"Bougarda",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.46742,
+    34.96285,
+    -4.46742,
+    34.96285
+],
+  "geometry": {"coordinates":[-4.46742,34.96285],"type":"Point"}
+}

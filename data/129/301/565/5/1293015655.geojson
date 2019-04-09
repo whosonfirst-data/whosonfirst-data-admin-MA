@@ -1,0 +1,71 @@
+{
+  "id": 1293015655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01697,34.46649,-6.01697,34.46649",
+    "geom:latitude":34.46649,
+    "geom:longitude":-6.01697,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Aroussiine",
+    "gn:country_code":"MA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550646,
+    "gn:latitude":34.46649,
+    "gn:longitude":-6.01697,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Aroussiine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Aroussiyne",
+        "El Aroussiine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550646
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2f4e56fa01d0c7acd3c1249675cd1030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1293015655,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1293015655,
+    "wof:lastmodified":1537663891,
+    "wof:name":"El Aroussiine",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01697,
+    34.46649,
+    -6.01697,
+    34.46649
+],
+  "geometry": {"coordinates":[-6.01697,34.46649],"type":"Point"}
+}

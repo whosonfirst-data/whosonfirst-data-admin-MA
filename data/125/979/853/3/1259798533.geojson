@@ -1,0 +1,67 @@
+{
+  "id": 1259798533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.07074,30.47529,-9.07074,30.47529",
+    "geom:latitude":30.47529,
+    "geom:longitude":-9.07074,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Amersal",
+    "gn:country_code":"MA",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558124,
+    "gn:latitude":30.47529,
+    "gn:longitude":-9.07074,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Amersal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558124
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"26f98ee741c6b3e921700cce66dc7d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1259798533,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259798533,
+    "wof:lastmodified":1536901517,
+    "wof:name":"Amersal",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.07074,
+    30.47529,
+    -9.07074,
+    30.47529
+],
+  "geometry": {"coordinates":[-9.07074,30.47529],"type":"Point"}
+}

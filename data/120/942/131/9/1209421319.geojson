@@ -1,0 +1,61 @@
+{
+  "id": 1209421319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58559,33.49777,-5.58559,33.49777",
+    "geom:latitude":33.49777,
+    "geom:longitude":-5.58559,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dar Mouha Ou Assou",
+    "gn:country_code":"MA",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970644,
+    "gn:latitude":33.49777,
+    "gn:longitude":-5.58559,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Mouha Ou Assou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970644
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c5545de7994f6a3f8e7d6127526cbad6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209421319
+        }
+    ],
+    "wof:id":1209421319,
+    "wof:lastmodified":1536287522,
+    "wof:name":"Dar Mouha Ou Assou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58559,
+    33.49777,
+    -5.58559,
+    33.49777
+],
+  "geometry": {"coordinates":[-5.58559,33.49777],"type":"Point"}
+}

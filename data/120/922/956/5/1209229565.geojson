@@ -1,0 +1,65 @@
+{
+  "id": 1209229565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24586,31.17099,-8.24586,31.17099",
+    "geom:latitude":31.17099,
+    "geom:longitude":-8.24586,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Hamed",
+    "gn:country_code":"MA",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559943,
+    "gn:latitude":31.17099,
+    "gn:longitude":-8.24586,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Hamed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Hamad",
+        "A\u00eft Hamed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559943
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2cea20e6e0273fc1ee4954d3316b1d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229565
+        }
+    ],
+    "wof:id":1209229565,
+    "wof:lastmodified":1537664186,
+    "wof:name":"Ait Hamed",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.24586,
+    31.17099,
+    -8.24586,
+    31.17099
+],
+  "geometry": {"coordinates":[-8.24586,31.17099],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209223763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15676,34.80662,-5.15676,34.80662",
+    "geom:latitude":34.80662,
+    "geom:longitude":-5.15676,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Lahmaydiyine Bou Cheikh",
+    "gn:country_code":"MA",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925989,
+    "gn:latitude":34.80662,
+    "gn:longitude":-5.15676,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lahmaydiyine Bou Cheikh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925989
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d3e51128aeefbb1f7f8c7d3f1fa617d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209223763
+        }
+    ],
+    "wof:id":1209223763,
+    "wof:lastmodified":1536293869,
+    "wof:name":"Douar Lahmaydiyine Bou Cheikh",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.15676,
+    34.80662,
+    -5.15676,
+    34.80662
+],
+  "geometry": {"coordinates":[-5.15676,34.80662],"type":"Point"}
+}

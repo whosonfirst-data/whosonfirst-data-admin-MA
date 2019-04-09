@@ -1,0 +1,64 @@
+{
+  "id": 1209408083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.65246,32.08527,-6.65246,32.08527",
+    "geom:latitude":32.08527,
+    "geom:longitude":-6.65246,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ihjjamen",
+    "gn:country_code":"MA",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546477,
+    "gn:latitude":32.08527,
+    "gn:longitude":-6.65246,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ihjjamen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikhejem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546477
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"65df57311cb8a8d162ca3091f39b3089",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209408083
+        }
+    ],
+    "wof:id":1209408083,
+    "wof:lastmodified":1537663757,
+    "wof:name":"Ihjjamen",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.65246,
+    32.08527,
+    -6.65246,
+    32.08527
+],
+  "geometry": {"coordinates":[-6.65246,32.08527],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125295071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54248,32.60828,-8.54248,32.60828",
+    "geom:latitude":32.60828,
+    "geom:longitude":-8.54248,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":22737,
+    "gn:population":22737,
+    "iso:country":"MA",
+    "lbl:latitude":32.60828,
+    "lbl:longitude":-8.54248,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u062a\u0633\u064a\u0631\u064a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Bouhmame"
+    ],
+    "name:fra_x_variant":[
+        "Bouhmame (CR)",
+        "Bouhmame (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546281,
+    "qs_pg:gn_pop":22737,
+    "qs_pg:name":"Bouhmame",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":629408,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546281,
+        "qs_pg:id":629408
+    },
+    "wof:country":"MA",
+    "wof:created":1497043102,
+    "wof:geomhash":"6fe79a98d3365ad0fd2a850eb8589d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "localadmin_id":1125295071,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1125295071,
+    "wof:lastmodified":1509387606,
+    "wof:name":"Bouhmame",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"localadmin",
+    "wof:population":22737,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54248,
+    32.60828,
+    -8.54248,
+    32.60828
+],
+  "geometry": {"coordinates":[-8.54248,32.60828],"type":"Point"}
+}

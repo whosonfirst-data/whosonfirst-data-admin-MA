@@ -1,0 +1,72 @@
+{
+  "id": 1193155455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.88181,35.70384,-5.88181,35.70384",
+    "geom:latitude":35.70384,
+    "geom:longitude":-5.88181,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Chouiqrich",
+    "gn:country_code":"MA",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553192,
+    "gn:latitude":35.70384,
+    "gn:longitude":-5.88181,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Chouiqrich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouikarris",
+        "Chouikrech",
+        "Douar Chouiqrich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553192
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a1f6444140dab3a233253f2142127c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1193155455,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1193155455,
+    "wof:lastmodified":1537664027,
+    "wof:name":"Douar Chouiqrich",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.88181,
+    35.70384,
+    -5.88181,
+    35.70384
+],
+  "geometry": {"coordinates":[-5.88181,35.70384],"type":"Point"}
+}

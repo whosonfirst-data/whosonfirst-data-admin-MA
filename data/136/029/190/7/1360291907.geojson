@@ -1,0 +1,67 @@
+{
+  "id": 1360291907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15934,34.48714,-5.15934,34.48714",
+    "geom:latitude":34.48714,
+    "geom:longitude":-5.15934,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Kseb",
+    "gn:country_code":"MA",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985620,
+    "gn:latitude":34.48714,
+    "gn:longitude":-5.15934,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Kseb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985620
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"330d4dbe33d640bd63cb92aa7a1e3b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1360291907,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1360291907,
+    "wof:lastmodified":1536646778,
+    "wof:name":"Douar Kseb",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.15934,
+    34.48714,
+    -5.15934,
+    34.48714
+],
+  "geometry": {"coordinates":[-5.15934,34.48714],"type":"Point"}
+}

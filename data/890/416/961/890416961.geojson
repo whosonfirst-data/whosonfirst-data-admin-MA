@@ -1,0 +1,75 @@
+{
+  "id": 890416961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15775,30.07121,-9.15775,30.07121",
+    "geom:latitude":30.07121,
+    "geom:longitude":-9.15775,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":4767,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ait Baha"
+    ],
+    "name:fra_x_variant":[
+        "Ait Baha (MU)",
+        "Ait Baha (Commune Urbaine)"
+    ],
+    "qs:name":"Ait Baha",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546195,
+        "qs:id":629334,
+        "wd:id":"Q2876468",
+        "wk:page":"Ait Baha"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051173,
+    "wof:geomhash":"9c9e476ecf72ea3780da49cb4ad3d056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "localadmin_id":890416961,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890416961,
+    "wof:lastmodified":1527792802,
+    "wof:name":"Ait Baha",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"localadmin",
+    "wof:population":4767,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15775,
+    30.07121,
+    -9.15775,
+    30.07121
+],
+  "geometry": {"coordinates":[-9.15775,30.07121],"type":"Point"}
+}

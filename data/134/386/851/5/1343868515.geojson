@@ -1,0 +1,72 @@
+{
+  "id": 1343868515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48433,32.40199,-8.48433,32.40199",
+    "geom:latitude":32.40199,
+    "geom:longitude":-8.48433,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar El Koudia",
+    "gn:country_code":"MA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553616,
+    "gn:latitude":32.40199,
+    "gn:longitude":-8.48433,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar El Koudia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Caid Sa\u00efd ben Daou\u00efa",
+        "Ca\u00efd Sa\u00efd Ben Daouia",
+        "Douar El Koudia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553616
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"56cc6cada2b0139b6a137fc3df470c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1343868515,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343868515,
+    "wof:lastmodified":1537664038,
+    "wof:name":"Douar El Koudia",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48433,
+    32.40199,
+    -8.48433,
+    32.40199
+],
+  "geometry": {"coordinates":[-8.48433,32.40199],"type":"Point"}
+}

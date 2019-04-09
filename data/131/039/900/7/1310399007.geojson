@@ -1,0 +1,67 @@
+{
+  "id": 1310399007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14261,31.32394,-9.14261,31.32394",
+    "geom:latitude":31.32394,
+    "geom:longitude":-9.14261,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait bel Houssein",
+    "gn:country_code":"MA",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10924728,
+    "gn:latitude":31.32394,
+    "gn:longitude":-9.14261,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft bel Houssein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10924728
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"52c10896fe296440eadcc29405b6737d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1310399007,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310399007,
+    "wof:lastmodified":1537067682,
+    "wof:name":"Ait bel Houssein",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14261,
+    31.32394,
+    -9.14261,
+    31.32394
+],
+  "geometry": {"coordinates":[-9.14261,31.32394],"type":"Point"}
+}

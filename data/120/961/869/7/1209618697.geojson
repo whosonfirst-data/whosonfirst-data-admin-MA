@@ -1,0 +1,61 @@
+{
+  "id": 1209618697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.00417,34.99497,-6.00417,34.99497",
+    "geom:latitude":34.99497,
+    "geom:longitude":-6.00417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Oulad Bourbie",
+    "gn:country_code":"MA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969709,
+    "gn:latitude":34.99497,
+    "gn:longitude":-6.00417,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Bourbie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969709
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7de03be28fdda33c9a953f6a68b3c10b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209618697
+        }
+    ],
+    "wof:id":1209618697,
+    "wof:lastmodified":1536281596,
+    "wof:name":"Oulad Bourbie",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0041699999999985,
+    34.99497,
+    -6.0041699999999985,
+    34.99497
+],
+  "geometry": {"coordinates":[-6.00417,34.99497],"type":"Point"}
+}

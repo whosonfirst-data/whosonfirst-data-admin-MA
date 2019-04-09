@@ -1,0 +1,67 @@
+{
+  "id": 1309727057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.31461,33.41235,-4.31461,33.41235",
+    "geom:latitude":33.41235,
+    "geom:longitude":-4.31461,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait Cherif",
+    "gn:country_code":"MA",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560151,
+    "gn:latitude":33.41235,
+    "gn:longitude":-4.31461,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Cherif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560151
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"725d0a2ca6193ee13354dba556c0dce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1309727057,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1309727057,
+    "wof:lastmodified":1537042766,
+    "wof:name":"Ait Cherif",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.31461,
+    33.41235,
+    -4.31461,
+    33.41235
+],
+  "geometry": {"coordinates":[-4.31461,33.41235],"type":"Point"}
+}

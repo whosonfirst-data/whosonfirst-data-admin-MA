@@ -1,0 +1,65 @@
+{
+  "id": 1209014781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14282,35.02545,-6.14282,35.02545",
+    "geom:latitude":35.02545,
+    "geom:longitude":-6.14282,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Laghouazi",
+    "gn:country_code":"MA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569629,
+    "gn:latitude":35.02545,
+    "gn:longitude":-6.14282,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Laghouazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Larhouazi",
+        "Laghouazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569629
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3d545ca8bad859718f53cc3c9d31207e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209014781
+        }
+    ],
+    "wof:id":1209014781,
+    "wof:lastmodified":1537664270,
+    "wof:name":"Laghouazi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14282,
+    35.02545,
+    -6.14282,
+    35.02545
+],
+  "geometry": {"coordinates":[-6.14282,35.02545],"type":"Point"}
+}

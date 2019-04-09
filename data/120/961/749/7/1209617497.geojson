@@ -1,0 +1,61 @@
+{
+  "id": 1209617497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.57703,35.11754,-3.57703,35.11754",
+    "geom:latitude":35.11754,
+    "geom:longitude":-3.57703,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Ijeyyarene",
+    "gn:country_code":"MA",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999329,
+    "gn:latitude":35.11754,
+    "gn:longitude":-3.57703,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ijeyyarene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999329
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"529321957b88cd040e15553cf0f4edac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209617497
+        }
+    ],
+    "wof:id":1209617497,
+    "wof:lastmodified":1536281637,
+    "wof:name":"Douar Ijeyyarene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.57703,
+    35.117540000000005,
+    -3.57703,
+    35.117540000000005
+],
+  "geometry": {"coordinates":[-3.57703,35.11754000000001],"type":"Point"}
+}

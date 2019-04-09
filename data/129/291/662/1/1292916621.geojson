@@ -1,0 +1,67 @@
+{
+  "id": 1292916621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.02081,35.07359,-4.02081,35.07359",
+    "geom:latitude":35.07359,
+    "geom:longitude":-4.02081,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Ait Brahim",
+    "gn:country_code":"MA",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092017,
+    "gn:latitude":35.07359,
+    "gn:longitude":-4.02081,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092017
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b630557391818e4cc2d5f5e1d0f5acf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1292916621,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1292916621,
+    "wof:lastmodified":1536613472,
+    "wof:name":"Douar Ait Brahim",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.02081,
+    35.07359,
+    -4.02081,
+    35.07359
+],
+  "geometry": {"coordinates":[-4.02081,35.07359],"type":"Point"}
+}

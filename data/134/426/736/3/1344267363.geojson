@@ -1,0 +1,72 @@
+{
+  "id": 1344267363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.56853,30.71454,-9.56853,30.71454",
+    "geom:latitude":30.71454,
+    "geom:longitude":-9.56853,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"In Kourma",
+    "gn:country_code":"MA",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545929,
+    "gn:latitude":30.71454,
+    "gn:longitude":-9.56853,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"In Kourma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inkourma",
+        "Innkourma",
+        "In Kourma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545929
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c086d47c2f4e493a4ff3573aa1804707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1344267363,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1344267363,
+    "wof:lastmodified":1537663739,
+    "wof:name":"In Kourma",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.56853,
+    30.71454,
+    -9.56853,
+    30.71454
+],
+  "geometry": {"coordinates":[-9.56853,30.71454],"type":"Point"}
+}

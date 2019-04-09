@@ -1,0 +1,61 @@
+{
+  "id": 1209408283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19837,32.28928,-8.19837,32.28928",
+    "geom:latitude":32.28928,
+    "geom:longitude":-8.19837,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Talba",
+    "gn:country_code":"MA",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794610,
+    "gn:latitude":32.28928,
+    "gn:longitude":-8.19837,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Talba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794610
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"99cc1a01c75b41ebf4289c1d978fbe2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209408283
+        }
+    ],
+    "wof:id":1209408283,
+    "wof:lastmodified":1536287923,
+    "wof:name":"Douar Talba",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.198369999999999,
+    32.28928,
+    -8.198369999999999,
+    32.28928
+],
+  "geometry": {"coordinates":[-8.19837,32.28928],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209911127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.69172,32.61157,-8.69172,32.61157",
+    "geom:latitude":32.61157,
+    "geom:longitude":-8.69172,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar El Arouj",
+    "gn:country_code":"MA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867830,
+    "gn:latitude":32.61157,
+    "gn:longitude":-8.69172,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Arouj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867830
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"638ad307d094c5299c141e0b8ff2f6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1209911127,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1209911127,
+    "wof:lastmodified":1536378663,
+    "wof:name":"Douar El Arouj",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.69172,
+    32.61157,
+    -8.69172,
+    32.61157
+],
+  "geometry": {"coordinates":[-8.69172,32.61157],"type":"Point"}
+}

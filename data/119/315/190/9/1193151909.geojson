@@ -1,0 +1,72 @@
+{
+  "id": 1193151909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58427,30.22388,-7.58427,30.22388",
+    "geom:latitude":30.22388,
+    "geom:longitude":-7.58427,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lamdint",
+    "gn:country_code":"MA",
+    "gn:dem":1573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549670,
+    "gn:latitude":30.22388,
+    "gn:longitude":-7.58427,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lamdint",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemdint",
+        "El Medinet",
+        "Lamdint"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549670
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4e5be555bded370940c2dea5fe220181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1193151909,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1193151909,
+    "wof:lastmodified":1537663845,
+    "wof:name":"Lamdint",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58427,
+    30.22388,
+    -7.58427,
+    30.22388
+],
+  "geometry": {"coordinates":[-7.58427,30.22388],"type":"Point"}
+}

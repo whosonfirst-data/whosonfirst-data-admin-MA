@@ -1,0 +1,71 @@
+{
+  "id": 1276137861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62508,31.5356,-7.62508,31.5356",
+    "geom:latitude":31.5356,
+    "geom:longitude":-7.62508,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Guers",
+    "gn:country_code":"MA",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548469,
+    "gn:latitude":31.5356,
+    "gn:longitude":-7.62508,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Guers",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guarsse",
+        "Guers"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548469
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c743fbc9dfad4fcb428ad271151e092b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1276137861,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276137861,
+    "wof:lastmodified":1537663811,
+    "wof:name":"Guers",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62508,
+    31.5356,
+    -7.62508,
+    31.5356
+],
+  "geometry": {"coordinates":[-7.62508,31.5356],"type":"Point"}
+}

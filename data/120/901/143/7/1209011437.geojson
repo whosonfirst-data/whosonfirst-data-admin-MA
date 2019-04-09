@@ -1,0 +1,61 @@
+{
+  "id": 1209011437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.73722,34.00087,-4.73722,34.00087",
+    "geom:latitude":34.00087,
+    "geom:longitude":-4.73722,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ait Hamza",
+    "gn:country_code":"MA",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11042364,
+    "gn:latitude":34.00087,
+    "gn:longitude":-4.73722,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Hamza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11042364
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8d4c85597c29b0ecde464573146aa403",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209011437
+        }
+    ],
+    "wof:id":1209011437,
+    "wof:lastmodified":1536300433,
+    "wof:name":"Douar Ait Hamza",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.73722,
+    34.00087,
+    -4.73722,
+    34.00087
+],
+  "geometry": {"coordinates":[-4.73722,34.00087],"type":"Point"}
+}

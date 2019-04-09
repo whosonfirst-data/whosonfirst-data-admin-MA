@@ -1,0 +1,72 @@
+{
+  "id": 1259977647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18379,31.69217,-7.18379,31.69217",
+    "geom:latitude":31.69217,
+    "geom:longitude":-7.18379,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Bou Amrane",
+    "gn:country_code":"MA",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560280,
+    "gn:latitude":31.69217,
+    "gn:longitude":-7.18379,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ait Bou Amrane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft bou Amra",
+        "A\u00eft Bou Hamra",
+        "Ait Bou Amrane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560280
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8fc9e755a4a1356254cdbf21821848b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1259977647,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1259977647,
+    "wof:lastmodified":1537664199,
+    "wof:name":"Ait Bou Amrane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18379,
+    31.69217,
+    -7.18379,
+    31.69217
+],
+  "geometry": {"coordinates":[-7.18379,31.69217],"type":"Point"}
+}

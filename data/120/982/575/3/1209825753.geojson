@@ -1,0 +1,67 @@
+{
+  "id": 1209825753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72502,34.4256,-3.72502,34.4256",
+    "geom:latitude":34.4256,
+    "geom:longitude":-3.72502,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Koudiat Tizi Ghefar",
+    "gn:country_code":"MA",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544134,
+    "gn:latitude":34.4256,
+    "gn:longitude":-3.72502,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Koudiat Tizi Ghefar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544134
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f76663cbd669553c809f683b660735ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1209825753,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1209825753,
+    "wof:lastmodified":1536373876,
+    "wof:name":"Koudiat Tizi Ghefar",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72502,
+    34.4256,
+    -3.72502,
+    34.4256
+],
+  "geometry": {"coordinates":[-3.72502,34.4256],"type":"Point"}
+}

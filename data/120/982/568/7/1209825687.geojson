@@ -1,0 +1,72 @@
+{
+  "id": 1209825687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.79067,33.80395,-3.79067,33.80395",
+    "geom:latitude":33.80395,
+    "geom:longitude":-3.79067,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Ioumarene",
+    "gn:country_code":"MA",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551651,
+    "gn:latitude":33.80395,
+    "gn:longitude":-3.79067,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ioumarene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iomar\u00e8n",
+        "I\u00f4marene",
+        "Douar Ioumarene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551651
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3965b823d99d06f6972b6e8f4a8e3d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1209825687,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1209825687,
+    "wof:lastmodified":1537663955,
+    "wof:name":"Douar Ioumarene",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.79067,
+    33.80395,
+    -3.79067,
+    33.80395
+],
+  "geometry": {"coordinates":[-3.79067,33.80395],"type":"Point"}
+}

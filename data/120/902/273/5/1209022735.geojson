@@ -1,0 +1,67 @@
+{
+  "id": 1209022735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91624,31.935,-8.91624,31.935",
+    "geom:latitude":31.935,
+    "geom:longitude":-8.91624,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Abbad Ben El Haj",
+    "gn:country_code":"MA",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552177,
+    "gn:latitude":31.935,
+    "gn:longitude":-8.91624,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Abbad Ben El Haj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Abad bel Haj",
+        "Ouled hadj",
+        "Douar Abd el Hajj",
+        "Oulad Abbad Ben El Haj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552177
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8c1638c0b70bb626717ccea711d82657",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209022735
+        }
+    ],
+    "wof:id":1209022735,
+    "wof:lastmodified":1537663995,
+    "wof:name":"Oulad Abbad Ben El Haj",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91624,
+    31.935,
+    -8.91624,
+    31.935
+],
+  "geometry": {"coordinates":[-8.91624,31.935],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890441203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3984,34.7765,-3.3984,34.7765",
+    "geom:latitude":34.7765,
+    "geom:longitude":-3.3984,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5765,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u064a\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Boubker"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Boubker (CR)",
+        "Oulad Boubker (Commune Rurale)"
+    ],
+    "qs:name":"Oulad Boubker",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546073,
+        "qs:id":629216,
+        "wd:id":"Q17013217",
+        "wk:page":"Oulad Boubker"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052313,
+    "wof:geomhash":"debe5c2300a99d649be87f9695592f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "localadmin_id":890441203,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890441203,
+    "wof:lastmodified":1527727228,
+    "wof:name":"Oulad Boubker",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"localadmin",
+    "wof:population":5765,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3984,
+    34.7765,
+    -3.3984,
+    34.7765
+],
+  "geometry": {"coordinates":[-3.3984,34.7765],"type":"Point"}
+}

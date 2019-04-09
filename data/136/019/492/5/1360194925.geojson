@@ -1,0 +1,72 @@
+{
+  "id": 1360194925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.13962,35.47235,-5.13962,35.47235",
+    "geom:latitude":35.47235,
+    "geom:longitude":-5.13962,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Imsaoussene",
+    "gn:country_code":"MA",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549391,
+    "gn:latitude":35.47235,
+    "gn:longitude":-5.13962,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imsaoussene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emzouzene",
+        "Imsoussene",
+        "Imsaoussene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549391
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5090901fe1558969c18ea8b474cb583d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1360194925,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1360194925,
+    "wof:lastmodified":1537663832,
+    "wof:name":"Imsaoussene",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.13962,
+    35.47235,
+    -5.13962,
+    35.47235
+],
+  "geometry": {"coordinates":[-5.13962,35.47235],"type":"Point"}
+}

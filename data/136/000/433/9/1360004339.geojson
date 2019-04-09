@@ -1,0 +1,71 @@
+{
+  "id": 1360004339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.18829,33.90602,-4.18829,33.90602",
+    "geom:latitude":33.90602,
+    "geom:longitude":-4.18829,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Fahs",
+    "gn:country_code":"MA",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550482,
+    "gn:latitude":33.90602,
+    "gn:longitude":-4.18829,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Fahs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Fahs",
+        "El Fahs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550482
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e4879ff394c7b9704aa8833f621f2627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1360004339,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1360004339,
+    "wof:lastmodified":1537663883,
+    "wof:name":"El Fahs",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.18829,
+    33.90602,
+    -4.18829,
+    33.90602
+],
+  "geometry": {"coordinates":[-4.18829,33.90602],"type":"Point"}
+}

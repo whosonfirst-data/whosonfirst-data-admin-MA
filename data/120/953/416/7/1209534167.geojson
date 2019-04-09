@@ -1,0 +1,64 @@
+{
+  "id": 1209534167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78772,30.22081,-8.78772,30.22081",
+    "geom:latitude":30.22081,
+    "geom:longitude":-8.78772,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tamsalghat",
+    "gn:country_code":"MA",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530260,
+    "gn:latitude":30.22081,
+    "gn:longitude":-8.78772,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamsalghat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanrhrat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530260
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2e07b89a6160bb7215086f9932548326",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209534167
+        }
+    ],
+    "wof:id":1209534167,
+    "wof:lastmodified":1537663432,
+    "wof:name":"Tamsalghat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78772,
+    30.22081,
+    -8.78772,
+    30.22081
+],
+  "geometry": {"coordinates":[-8.78772,30.22081],"type":"Point"}
+}

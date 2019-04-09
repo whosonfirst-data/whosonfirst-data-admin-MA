@@ -1,0 +1,67 @@
+{
+  "id": 1326928407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.45902,32.21505,-6.45902,32.21505",
+    "geom:latitude":32.21505,
+    "geom:longitude":-6.45902,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Bou Zid",
+    "gn:country_code":"MA",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560191,
+    "gn:latitude":32.21505,
+    "gn:longitude":-6.45902,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft Bou Zid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560191
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6240186ce6384620b2f8e88c762c13ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1326928407,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1326928407,
+    "wof:lastmodified":1536910638,
+    "wof:name":"Ait Bou Zid",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.45902,
+    32.21505,
+    -6.45902,
+    32.21505
+],
+  "geometry": {"coordinates":[-6.45902,32.21505],"type":"Point"}
+}

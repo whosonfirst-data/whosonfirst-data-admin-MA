@@ -1,0 +1,67 @@
+{
+  "id": 1360199489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.79961,32.26955,-6.79961,32.26955",
+    "geom:latitude":32.26955,
+    "geom:longitude":-6.79961,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Bennour al Hsasna",
+    "gn:country_code":"MA",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560342,
+    "gn:latitude":32.26955,
+    "gn:longitude":-6.79961,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Bennour al Hsasna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560342
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0d60a57589825a902667d095e46ca37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "locality_id":1360199489,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1360199489,
+    "wof:lastmodified":1536781059,
+    "wof:name":"Ait Bennour al Hsasna",
+    "wof:parent_id":1108784787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.79961,
+    32.26955,
+    -6.79961,
+    32.26955
+],
+  "geometry": {"coordinates":[-6.79961,32.26955],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242587963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.93265,33.82189,-5.93265,33.82189",
+    "geom:latitude":33.82189,
+    "geom:longitude":-5.93265,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bataille",
+    "gn:country_code":"MA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532438,
+    "gn:latitude":33.82189,
+    "gn:longitude":-5.93265,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bataille",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souk-el Arba-de-l\u2019Oued-Beth",
+        "Camp Bataille",
+        "Souk el Arbaa de l\u2019Oued Beht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532438
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3eefc25b0ffa2217c52791bc6bec2617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1242587963,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1242587963,
+    "wof:lastmodified":1537663498,
+    "wof:name":"Bataille",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.93265,
+    33.82189,
+    -5.93265,
+    33.82189
+],
+  "geometry": {"coordinates":[-5.93265,33.82189],"type":"Point"}
+}

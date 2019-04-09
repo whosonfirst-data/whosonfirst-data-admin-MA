@@ -1,0 +1,73 @@
+{
+  "id": 1343873311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34675,32.06038,-8.34675,32.06038",
+    "geom:latitude":32.06038,
+    "geom:longitude":-8.34675,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Haddi Ben Bouazza",
+    "gn:country_code":"MA",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551657,
+    "gn:latitude":32.06038,
+    "gn:longitude":-8.34675,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Haddi Ben Bouazza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Haddi Ben Bouazza",
+        "Heddi ben bou Azza",
+        "Douar Heddi Ben Bou Azza",
+        "Douar Haddi Ben Bouazza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551657
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8a92f1b7791b06fd420e8448a195a5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1343873311,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343873311,
+    "wof:lastmodified":1537663956,
+    "wof:name":"Douar Haddi Ben Bouazza",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34675,
+    32.06038,
+    -8.34675,
+    32.06038
+],
+  "geometry": {"coordinates":[-8.34675,32.06038],"type":"Point"}
+}

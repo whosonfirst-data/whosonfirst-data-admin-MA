@@ -1,0 +1,67 @@
+{
+  "id": 1276664503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.16514,34.25161,-5.16514,34.25161",
+    "geom:latitude":34.25161,
+    "geom:longitude":-5.16514,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar El Hammouchi",
+    "gn:country_code":"MA",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985394,
+    "gn:latitude":34.25161,
+    "gn:longitude":-5.16514,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Hammouchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985394
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bedba7c2754e35a5007d022f2e47b44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1276664503,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1276664503,
+    "wof:lastmodified":1536830961,
+    "wof:name":"Douar El Hammouchi",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.16514,
+    34.25161,
+    -5.16514,
+    34.25161
+],
+  "geometry": {"coordinates":[-5.16514,34.25161],"type":"Point"}
+}

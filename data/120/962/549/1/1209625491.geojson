@@ -1,0 +1,67 @@
+{
+  "id": 1209625491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37789,31.37404,-8.37789,31.37404",
+    "geom:latitude":31.37404,
+    "geom:longitude":-8.37789,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tamghlecht",
+    "gn:country_code":"MA",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530664,
+    "gn:latitude":31.37404,
+    "gn:longitude":-8.37789,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamghlecht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Tamrhlecht",
+        "Tamaghlachet",
+        "Tamerhlecht",
+        "Tamghlecht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530664
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00f638c29e323dd412148f25d6f7a34c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625491
+        }
+    ],
+    "wof:id":1209625491,
+    "wof:lastmodified":1537663444,
+    "wof:name":"Tamghlecht",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37789,
+    31.37404,
+    -8.37789,
+    31.37404
+],
+  "geometry": {"coordinates":[-8.37789,31.37404],"type":"Point"}
+}

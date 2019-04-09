@@ -1,0 +1,67 @@
+{
+  "id": 1243361659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.53873,32.77264,-5.53873,32.77264",
+    "geom:latitude":32.77264,
+    "geom:longitude":-5.53873,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Bakhil",
+    "gn:country_code":"MA",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10966025,
+    "gn:latitude":32.77264,
+    "gn:longitude":-5.53873,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"El Bakhil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10966025
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4cf5a6a69c293125f0dd74ad7c65475e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1243361659,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1243361659,
+    "wof:lastmodified":1536928563,
+    "wof:name":"El Bakhil",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.53873,
+    32.77264,
+    -5.53873,
+    32.77264
+],
+  "geometry": {"coordinates":[-5.53873,32.77264],"type":"Point"}
+}

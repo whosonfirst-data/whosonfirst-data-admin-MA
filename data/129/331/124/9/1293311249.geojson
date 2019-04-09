@@ -1,0 +1,72 @@
+{
+  "id": 1293311249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94303,35.04409,-5.94303,35.04409",
+    "geom:latitude":35.04409,
+    "geom:longitude":-5.94303,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oulad Hmayed Kherichfa",
+    "gn:country_code":"MA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539767,
+    "gn:latitude":35.04409,
+    "gn:longitude":-5.94303,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Hmayed Kherichfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Hamid",
+        "Oulad Hamid Kherichfa",
+        "Oulad Hmayed Kherichfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539767
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8e72ffafabf1780d71b0108b3d3ecbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1293311249,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293311249,
+    "wof:lastmodified":1537663588,
+    "wof:name":"Oulad Hmayed Kherichfa",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94303,
+    35.04409,
+    -5.94303,
+    35.04409
+],
+  "geometry": {"coordinates":[-5.94303,35.04409],"type":"Point"}
+}

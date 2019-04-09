@@ -1,0 +1,64 @@
+{
+  "id": 1209633773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88462,32.63368,-8.88462,32.63368",
+    "geom:latitude":32.63368,
+    "geom:longitude":-8.88462,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Zaouiat Sidi Ahmed Ben Rehal",
+    "gn:country_code":"MA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551139,
+    "gn:latitude":32.63368,
+    "gn:longitude":-8.88462,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Zaouiat Sidi Ahmed Ben Rehal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Zaouia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551139
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d675b7031ae19502505ff399a1356751",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633773
+        }
+    ],
+    "wof:id":1209633773,
+    "wof:lastmodified":1537663914,
+    "wof:name":"Douar Zaouiat Sidi Ahmed Ben Rehal",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88462,
+    32.63368,
+    -8.88462,
+    32.63368
+],
+  "geometry": {"coordinates":[-8.88462,32.63368],"type":"Point"}
+}

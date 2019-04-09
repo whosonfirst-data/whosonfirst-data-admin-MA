@@ -1,0 +1,67 @@
+{
+  "id": 1327423071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41242,30.86009,-8.41242,30.86009",
+    "geom:latitude":30.86009,
+    "geom:longitude":-8.41242,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ighil",
+    "gn:country_code":"MA",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10917462,
+    "gn:latitude":30.86009,
+    "gn:longitude":-8.41242,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ighil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10917462
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"898d7fa380463fea599354897e6eb770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1327423071,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327423071,
+    "wof:lastmodified":1536694494,
+    "wof:name":"Ighil",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41242,
+    30.86009,
+    -8.41242,
+    30.86009
+],
+  "geometry": {"coordinates":[-8.41242,30.86009],"type":"Point"}
+}

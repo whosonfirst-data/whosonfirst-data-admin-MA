@@ -1,0 +1,67 @@
+{
+  "id": 1326640159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58303,31.15009,-9.58303,31.15009",
+    "geom:latitude":31.15009,
+    "geom:longitude":-9.58303,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Idourane",
+    "gn:country_code":"MA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547087,
+    "gn:latitude":31.15009,
+    "gn:longitude":-9.58303,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Idourane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547087
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"da0f881078a3b1d44ebae0c222a293bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1326640159,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326640159,
+    "wof:lastmodified":1536827337,
+    "wof:name":"Idourane",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58303,
+    31.15009,
+    -9.58303,
+    31.15009
+],
+  "geometry": {"coordinates":[-9.58303,31.15009],"type":"Point"}
+}

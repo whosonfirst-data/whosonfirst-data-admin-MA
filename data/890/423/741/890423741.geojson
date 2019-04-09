@@ -1,0 +1,78 @@
+{
+  "id": 890423741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3307,31.91916,-7.3307,31.91916",
+    "geom:latitude":31.91916,
+    "geom:longitude":-7.3307,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":10107,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0648\u0627\u0644\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Laatamna"
+    ],
+    "name:fra_x_variant":[
+        "Laatamna (CR)",
+        "Laatamna (Commune Rurale)"
+    ],
+    "qs:name":"Laatamna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545427,
+        "qs:id":628573,
+        "wd:id":"Q6466608",
+        "wk:page":"Laatamna"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051510,
+    "wof:geomhash":"6e7e97db85ad903627a27635c6fb8bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "localadmin_id":890423741,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890423741,
+    "wof:lastmodified":1527727271,
+    "wof:name":"Laatamna",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"localadmin",
+    "wof:population":10107,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3307,
+    31.91916,
+    -7.3307,
+    31.91916
+],
+  "geometry": {"coordinates":[-7.3307,31.91916],"type":"Point"}
+}

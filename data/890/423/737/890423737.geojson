@@ -1,0 +1,78 @@
+{
+  "id": 890423737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.39768,31.57875,-7.39768,31.57875",
+    "geom:latitude":31.57875,
+    "geom:longitude":-7.39768,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":14583,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0632\u0648\u0632\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tazart"
+    ],
+    "name:fra_x_variant":[
+        "Tazart (CR)",
+        "Tazart (Commune Rurale)"
+    ],
+    "qs:name":"Tazart",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545426,
+        "qs:id":628572,
+        "wd:id":"Q7690401",
+        "wk:page":"Tazart"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051510,
+    "wof:geomhash":"2a2d8e0be2539e35418162a5381cf172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "localadmin_id":890423737,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890423737,
+    "wof:lastmodified":1527727269,
+    "wof:name":"Tazart",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"localadmin",
+    "wof:population":14583,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.39768,
+    31.57875,
+    -7.39768,
+    31.57875
+],
+  "geometry": {"coordinates":[-7.39768,31.57875],"type":"Point"}
+}

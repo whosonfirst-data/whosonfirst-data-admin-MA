@@ -1,0 +1,67 @@
+{
+  "id": 1343961505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2086,35.38179,-5.2086,35.38179",
+    "geom:latitude":35.38179,
+    "geom:longitude":-5.2086,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kaf Bouknadel",
+    "gn:country_code":"MA",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10847947,
+    "gn:latitude":35.38179,
+    "gn:longitude":-5.2086,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Kaf Bouknadel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10847947
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ef3e940c2d61d0d64ee45802a6f514b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1343961505,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343961505,
+    "wof:lastmodified":1537017705,
+    "wof:name":"Kaf Bouknadel",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2086,
+    35.38179,
+    -5.2086,
+    35.38179
+],
+  "geometry": {"coordinates":[-5.2086,35.38179],"type":"Point"}
+}

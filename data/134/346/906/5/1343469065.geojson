@@ -1,0 +1,76 @@
+{
+  "id": 1343469065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15379,35.39554,-5.15379,35.39554",
+    "geom:latitude":35.39554,
+    "geom:longitude":-5.15379,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tizgharine",
+    "gn:country_code":"MA",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527455,
+    "gn:latitude":35.39554,
+    "gn:longitude":-5.15379,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tizgharine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazgharine",
+        "Tisgarin",
+        "Tizrharine",
+        "Tisgerine",
+        "Tizgarin",
+        "Tisgarine",
+        "Tizgharine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527455
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a439af8ae9574dc3e0d7db86a094b53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1343469065,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343469065,
+    "wof:lastmodified":1537663355,
+    "wof:name":"Tizgharine",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.15379,
+    35.39554000000001,
+    -5.15379,
+    35.39554000000001
+],
+  "geometry": {"coordinates":[-5.15379,35.39554000000001],"type":"Point"}
+}

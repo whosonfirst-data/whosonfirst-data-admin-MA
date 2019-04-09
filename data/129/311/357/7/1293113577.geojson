@@ -1,0 +1,71 @@
+{
+  "id": 1293113577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5688,31.28643,-6.5688,31.28643",
+    "geom:latitude":31.28643,
+    "geom:longitude":-6.5688,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tiliwine",
+    "gn:country_code":"MA",
+    "gn:dem":1597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528274,
+    "gn:latitude":31.28643,
+    "gn:longitude":-6.5688,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiliwine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiliouine",
+        "Tiliwine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528274
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3437968e9ef0159f309587b4040320d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1293113577,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293113577,
+    "wof:lastmodified":1537663380,
+    "wof:name":"Tiliwine",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5688,
+    31.28643,
+    -6.5688,
+    31.28643
+],
+  "geometry": {"coordinates":[-6.5688,31.28643],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343457327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.93444,32.0382,-6.93444,32.0382",
+    "geom:latitude":32.0382,
+    "geom:longitude":-6.93444,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Mancour",
+    "gn:country_code":"MA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559586,
+    "gn:latitude":32.0382,
+    "gn:longitude":-6.93444,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft Man\u00e7our",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Man\u00e7our",
+        "A\u00eft Mansour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559586
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3788fb2168250e10a8c5f744c0a81b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343457327,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343457327,
+    "wof:lastmodified":1537664172,
+    "wof:name":"Ait Mancour",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.93444,
+    32.0382,
+    -6.93444,
+    32.0382
+],
+  "geometry": {"coordinates":[-6.93444,32.0382],"type":"Point"}
+}

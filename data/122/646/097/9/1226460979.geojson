@@ -1,0 +1,72 @@
+{
+  "id": 1226460979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.63107,33.01526,-5.63107,33.01526",
+    "geom:latitude":33.01526,
+    "geom:longitude":-5.63107,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Borj",
+    "gn:country_code":"MA",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550556,
+    "gn:latitude":33.01526,
+    "gn:longitude":-5.63107,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Borj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bordj",
+        "El Borj",
+        "Al Borj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550556
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8640ceb01cbd8a9f435d267672d30a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1226460979,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226460979,
+    "wof:lastmodified":1537663886,
+    "wof:name":"Al Borj",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.63107,
+    33.01526,
+    -5.63107,
+    33.01526
+],
+  "geometry": {"coordinates":[-5.63107,33.01526],"type":"Point"}
+}

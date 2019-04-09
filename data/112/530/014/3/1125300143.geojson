@@ -1,0 +1,88 @@
+{
+  "id": 1125300143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.08011,35.21563,-3.08011,35.21563",
+    "geom:latitude":35.21563,
+    "geom:longitude":-3.08011,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9623,
+    "gn:population":8930,
+    "iso:country":"MA",
+    "lbl:latitude":35.21563,
+    "lbl:longitude":-3.08011,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0633\u064a\u062f\u0627\u0644 \u0644\u0648\u0637\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Sidel Jbel"
+    ],
+    "name:fra_x_variant":[
+        "Bni Sidel Jbel (CR)",
+        "Bni Sidel Jbel (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547053,
+    "qs_pg:gn_pop":9623,
+    "qs_pg:name":"Bni Sidel Jbel",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":630132,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547053,
+        "qs_pg:id":630132
+    },
+    "wof:country":"MA",
+    "wof:created":1497043376,
+    "wof:geomhash":"ed42f900c48a867eb142f2f5ccadb253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "localadmin_id":1125300143,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1125300143,
+    "wof:lastmodified":1509387696,
+    "wof:name":"Bni Sidel Jbel",
+    "wof:parent_id":890455271,
+    "wof:placetype":"localadmin",
+    "wof:population":8930,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.08011,
+    35.21563,
+    -3.08011,
+    35.21563
+],
+  "geometry": {"coordinates":[-3.08011,35.21563],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360194935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.86216,30.42301,-7.86216,30.42301",
+    "geom:latitude":30.42301,
+    "geom:longitude":-7.86216,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Alaggou",
+    "gn:country_code":"MA",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558557,
+    "gn:latitude":30.42301,
+    "gn:longitude":-7.86216,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Alaggou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Algou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558557
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aeae395dce65310a2a9e01e6313af4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1360194935,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360194935,
+    "wof:lastmodified":1537664139,
+    "wof:name":"Alaggou",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.86216,
+    30.42301,
+    -7.86216,
+    30.42301
+],
+  "geometry": {"coordinates":[-7.86216,30.42301],"type":"Point"}
+}

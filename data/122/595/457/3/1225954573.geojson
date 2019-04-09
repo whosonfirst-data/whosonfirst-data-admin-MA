@@ -1,0 +1,71 @@
+{
+  "id": 1225954573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.53,31.58,-7.53,31.58",
+    "geom:latitude":31.58,
+    "geom:longitude":-7.53,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ali Ou Mbarek",
+    "gn:country_code":"MA",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552106,
+    "gn:latitude":31.58,
+    "gn:longitude":-7.53,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ali Ou Mbarek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ali ou Mha\u00efk",
+        "Douar Ali Ou Mbarek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552106
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"17a56d9ac41218c6cc1878bf88808171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1225954573,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1225954573,
+    "wof:lastmodified":1537663990,
+    "wof:name":"Douar Ali Ou Mbarek",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53,
+    31.58,
+    -7.53,
+    31.58
+],
+  "geometry": {"coordinates":[-7.53,31.58],"type":"Point"}
+}

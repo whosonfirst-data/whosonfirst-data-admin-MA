@@ -1,0 +1,67 @@
+{
+  "id": 1309901189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21958,29.57013,-9.21958,29.57013",
+    "geom:latitude":29.57013,
+    "geom:longitude":-9.21958,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Imi-n-Tanat",
+    "gn:country_code":"MA",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130208,
+    "gn:latitude":29.57013,
+    "gn:longitude":-9.21958,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Imi-n-Tanat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130208
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"241d3c3e651b64f07480d576e0707a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1309901189,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309901189,
+    "wof:lastmodified":1536793880,
+    "wof:name":"Imi-n-Tanat",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21958,
+    29.57013,
+    -9.21958,
+    29.57013
+],
+  "geometry": {"coordinates":[-9.21958,29.57013],"type":"Point"}
+}

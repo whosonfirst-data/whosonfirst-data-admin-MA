@@ -1,0 +1,67 @@
+{
+  "id": 1343761941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.84852,33.67159,-6.84852,33.67159",
+    "geom:latitude":33.67159,
+    "geom:longitude":-6.84852,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Laaraare Lgharbiya",
+    "gn:country_code":"MA",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10797565,
+    "gn:latitude":33.67159,
+    "gn:longitude":-6.84852,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laaraare Lgharbiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10797565
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2064e950dd82eb3050ba01dc80cb6ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1343761941,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1343761941,
+    "wof:lastmodified":1536808468,
+    "wof:name":"Douar Laaraare Lgharbiya",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84852,
+    33.67159,
+    -6.84852,
+    33.67159
+],
+  "geometry": {"coordinates":[-6.84852,33.67159],"type":"Point"}
+}

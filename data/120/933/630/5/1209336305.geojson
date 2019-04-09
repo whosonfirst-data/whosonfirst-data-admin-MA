@@ -1,0 +1,61 @@
+{
+  "id": 1209336305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32665,33.01154,-7.32665,33.01154",
+    "geom:latitude":33.01154,
+    "geom:longitude":-7.32665,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Bou Allala",
+    "gn:country_code":"MA",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936144,
+    "gn:latitude":33.01154,
+    "gn:longitude":-7.32665,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Bou Allala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936144
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d8d020a487d26bae5d06da0048908d53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209336305
+        }
+    ],
+    "wof:id":1209336305,
+    "wof:lastmodified":1536290209,
+    "wof:name":"Oulad Bou Allala",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.32665,
+    33.011540000000004,
+    -7.32665,
+    33.011540000000004
+],
+  "geometry": {"coordinates":[-7.32665,33.01154],"type":"Point"}
+}

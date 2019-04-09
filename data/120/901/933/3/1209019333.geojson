@@ -1,0 +1,67 @@
+{
+  "id": 1209019333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.91698,34.95365,-5.91698,34.95365",
+    "geom:latitude":34.95365,
+    "geom:longitude":-5.91698,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Siyyar Boujnah",
+    "gn:country_code":"MA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551246,
+    "gn:latitude":34.95365,
+    "gn:longitude":-5.91698,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Siyyar Boujnah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Siar",
+        "Syar-Boujenah",
+        "Douar Siar",
+        "Douar Siyyar Boujnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551246
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"90246c001137d8d753fe5834094612e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019333
+        }
+    ],
+    "wof:id":1209019333,
+    "wof:lastmodified":1537663922,
+    "wof:name":"Douar Siyyar Boujnah",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.91698,
+    34.95365,
+    -5.91698,
+    34.95365
+],
+  "geometry": {"coordinates":[-5.91698,34.95365],"type":"Point"}
+}

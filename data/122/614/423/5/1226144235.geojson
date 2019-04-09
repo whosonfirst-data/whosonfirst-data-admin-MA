@@ -1,0 +1,67 @@
+{
+  "id": 1226144235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.8074,33.68382,-4.8074,33.68382",
+    "geom:latitude":33.68382,
+    "geom:longitude":-4.8074,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ait Ali Aarab",
+    "gn:country_code":"MA",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10977169,
+    "gn:latitude":33.68382,
+    "gn:longitude":-4.8074,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Ali Aarab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10977169
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"67495e7b13edbedda4229423982fad2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1226144235,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1226144235,
+    "wof:lastmodified":1537076781,
+    "wof:name":"Ait Ali Aarab",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8074,
+    33.68382,
+    -4.8074,
+    33.68382
+],
+  "geometry": {"coordinates":[-4.8074,33.68382],"type":"Point"}
+}

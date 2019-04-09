@@ -1,0 +1,66 @@
+{
+  "id": 1209525715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.04274,33.95554,-5.04274,33.95554",
+    "geom:latitude":33.95554,
+    "geom:longitude":-5.04274,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Lebabda",
+    "gn:country_code":"MA",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551578,
+    "gn:latitude":33.95554,
+    "gn:longitude":-5.04274,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lebabda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lababadat",
+        "Dar Lebabda",
+        "Douar Lebabda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551578
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"738e2b5706a6689eb3f4c835bf060f04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525715
+        }
+    ],
+    "wof:id":1209525715,
+    "wof:lastmodified":1537663950,
+    "wof:name":"Douar Lebabda",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.04274,
+    33.95554,
+    -5.04274,
+    33.95554
+],
+  "geometry": {"coordinates":[-5.04274,33.95554],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209127841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.14,33.38,-7.14,33.38",
+    "geom:latitude":33.38,
+    "geom:longitude":-7.14,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"611103072.0",
+    "gn:asciiname":"Mellila",
+    "gn:country_code":"MA",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2565241,
+    "gn:latitude":33.38,
+    "gn:longitude":-7.14,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Mellila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565241
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"56b1ab58a55d91f56b14206c0b4edfc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209127841
+        }
+    ],
+    "wof:id":1209127841,
+    "wof:lastmodified":1536296900,
+    "wof:name":"Mellila",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.14,
+    33.38,
+    -7.14,
+    33.38
+],
+  "geometry": {"coordinates":[-7.14,33.38],"type":"Point"}
+}

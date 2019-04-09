@@ -1,0 +1,72 @@
+{
+  "id": 1310716729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.40071,29.89657,-9.40071,29.89657",
+    "geom:latitude":29.89657,
+    "geom:longitude":-9.40071,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Douar Stine",
+    "gn:country_code":"MA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551191,
+    "gn:latitude":29.89657,
+    "gn:longitude":-9.40071,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Stine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adouar Ste\u00efh",
+        "Douar Stine",
+        "Douar Ouchrit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551191
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2e3495d530c3e6370fdce2b824f689b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1310716729,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310716729,
+    "wof:lastmodified":1537663918,
+    "wof:name":"Douar Stine",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.40071,
+    29.89657,
+    -9.40071,
+    29.89657
+],
+  "geometry": {"coordinates":[-9.40071,29.89657],"type":"Point"}
+}

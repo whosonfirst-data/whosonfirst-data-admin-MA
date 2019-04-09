@@ -1,0 +1,71 @@
+{
+  "id": 1293684827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.88652,31.70536,-6.88652,31.70536",
+    "geom:latitude":31.70536,
+    "geom:longitude":-6.88652,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Igouzouln",
+    "gn:country_code":"MA",
+    "gn:dem":1020,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546696,
+    "gn:latitude":31.70536,
+    "gn:longitude":-6.88652,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Igouzouln",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igousouln"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546696
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"39854c1469a3556e478fafec400ebed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1293684827,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1293684827,
+    "wof:lastmodified":1537663765,
+    "wof:name":"Igouzouln",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.88652,
+    31.70536,
+    -6.88652,
+    31.70536
+],
+  "geometry": {"coordinates":[-6.88652,31.70536],"type":"Point"}
+}

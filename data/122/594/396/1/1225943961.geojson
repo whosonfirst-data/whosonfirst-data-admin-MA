@@ -1,0 +1,67 @@
+{
+  "id": 1225943961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.33245,34.61474,-6.33245,34.61474",
+    "geom:latitude":34.61474,
+    "geom:longitude":-6.33245,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Brahma",
+    "gn:country_code":"MA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969296,
+    "gn:latitude":34.61474,
+    "gn:longitude":-6.33245,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Brahma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969296
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"00d4c761419ba3971a8936880b90a2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1225943961,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1225943961,
+    "wof:lastmodified":1536870866,
+    "wof:name":"Brahma",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.33245,
+    34.61474,
+    -6.33245,
+    34.61474
+],
+  "geometry": {"coordinates":[-6.33245,34.61474],"type":"Point"}
+}

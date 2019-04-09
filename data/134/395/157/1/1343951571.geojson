@@ -1,0 +1,67 @@
+{
+  "id": 1343951571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.26181,31.5968,-7.26181,31.5968",
+    "geom:latitude":31.5968,
+    "geom:longitude":-7.26181,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sidi Rahhal",
+    "gn:country_code":"MA",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354470,
+    "gn:latitude":31.5968,
+    "gn:longitude":-7.26181,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sidi Rahhal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354470
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a96a9da782fc02b8063c13df0fb99b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1343951571,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343951571,
+    "wof:lastmodified":1537031512,
+    "wof:name":"Sidi Rahhal",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.26181,
+    31.5968,
+    -7.26181,
+    31.5968
+],
+  "geometry": {"coordinates":[-7.26181,31.5968],"type":"Point"}
+}

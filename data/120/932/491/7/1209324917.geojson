@@ -1,0 +1,66 @@
+{
+  "id": 1209324917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.76993,34.68984,-5.76993,34.68984",
+    "geom:latitude":34.68984,
+    "geom:longitude":-5.76993,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Laaroussiyine",
+    "gn:country_code":"MA",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551244,
+    "gn:latitude":34.68984,
+    "gn:longitude":-5.76993,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Laaroussiyine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Ahmed el Aroussi",
+        "Douar Sidi Ahmed el Aroussi",
+        "Douar Laaroussiyine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551244
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dfd670e281ecae95dc04a7f0d76231b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209324917
+        }
+    ],
+    "wof:id":1209324917,
+    "wof:lastmodified":1537663922,
+    "wof:name":"Douar Laaroussiyine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.76993,
+    34.68984,
+    -5.76993,
+    34.68984
+],
+  "geometry": {"coordinates":[-5.76993,34.68984],"type":"Point"}
+}

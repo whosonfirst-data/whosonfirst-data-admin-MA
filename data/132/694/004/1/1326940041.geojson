@@ -1,0 +1,65 @@
+{
+  "id": 1326940041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.8881,34.82383,-1.8881,34.82383",
+    "geom:latitude":34.82383,
+    "geom:longitude":-1.8881,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dar El Haj Moslih",
+    "gn:country_code":"MA",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10957530,
+    "gn:latitude":34.82383,
+    "gn:longitude":-1.8881,
+    "gn:modification_date":"2017-10-06",
+    "gn:name":"Dar El Haj Moslih",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10957530
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c017e555ede48d1ab2b5a5422f590382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326940041,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1326940041,
+    "wof:lastmodified":1536893146,
+    "wof:name":"Dar El Haj Moslih",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.8881,
+    34.82383,
+    -1.8881,
+    34.82383
+],
+  "geometry": {"coordinates":[-1.8881,34.82383],"type":"Point"}
+}

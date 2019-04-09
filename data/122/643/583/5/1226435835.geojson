@@ -1,0 +1,67 @@
+{
+  "id": 1226435835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.59957,31.3743,-9.59957,31.3743",
+    "geom:latitude":31.3743,
+    "geom:longitude":-9.59957,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Id Balla",
+    "gn:country_code":"MA",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946366,
+    "gn:latitude":31.3743,
+    "gn:longitude":-9.59957,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Id Balla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946366
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"30248caff5393815b46c76201dee5b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1226435835,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226435835,
+    "wof:lastmodified":1536659850,
+    "wof:name":"Douar Id Balla",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.59957,
+    31.3743,
+    -9.59957,
+    31.3743
+],
+  "geometry": {"coordinates":[-9.59957,31.3743],"type":"Point"}
+}

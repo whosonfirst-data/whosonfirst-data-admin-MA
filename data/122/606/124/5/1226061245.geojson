@@ -1,0 +1,67 @@
+{
+  "id": 1226061245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36,30.65,-9.36,30.65",
+    "geom:latitude":30.65,
+    "geom:longitude":-9.36,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Assafid",
+    "gn:country_code":"MA",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568896,
+    "gn:latitude":30.65,
+    "gn:longitude":-9.36,
+    "gn:modification_date":"2005-04-12",
+    "gn:name":"Assafid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568896
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1bf45fad7c067322795b58258dd5c517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1226061245,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226061245,
+    "wof:lastmodified":1536703107,
+    "wof:name":"Assafid",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36,
+    30.65,
+    -9.36,
+    30.65
+],
+  "geometry": {"coordinates":[-9.36,30.65],"type":"Point"}
+}

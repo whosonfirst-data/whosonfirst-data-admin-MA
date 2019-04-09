@@ -1,0 +1,67 @@
+{
+  "id": 1344263955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.69611,34.35413,-4.69611,34.35413",
+    "geom:latitude":34.35413,
+    "geom:longitude":-4.69611,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Brancs",
+    "gn:country_code":"MA",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11042735,
+    "gn:latitude":34.35413,
+    "gn:longitude":-4.69611,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Brancs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11042735
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bef9aaeb096b9430785bf1bf1a9a5818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1344263955,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1344263955,
+    "wof:lastmodified":1537075943,
+    "wof:name":"Douar Brancs",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.69611,
+    34.35413,
+    -4.69611,
+    34.35413
+],
+  "geometry": {"coordinates":[-4.69611,34.35413],"type":"Point"}
+}

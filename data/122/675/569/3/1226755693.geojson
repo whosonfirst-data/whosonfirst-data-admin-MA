@@ -1,0 +1,67 @@
+{
+  "id": 1226755693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.37832,35.05343,-3.37832,35.05343",
+    "geom:latitude":35.05343,
+    "geom:longitude":-3.37832,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Berghazrane",
+    "gn:country_code":"MA",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092747,
+    "gn:latitude":35.05343,
+    "gn:longitude":-3.37832,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Berghazrane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092747
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e10698a016fd9dedf1e78d096504bb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1226755693,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1226755693,
+    "wof:lastmodified":1536701418,
+    "wof:name":"Berghazrane",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.37832,
+    35.05343,
+    -3.37832,
+    35.05343
+],
+  "geometry": {"coordinates":[-3.37832,35.05343],"type":"Point"}
+}

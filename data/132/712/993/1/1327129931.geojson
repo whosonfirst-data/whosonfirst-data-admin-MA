@@ -1,0 +1,72 @@
+{
+  "id": 1327129931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98709,31.45609,-7.98709,31.45609",
+    "geom:latitude":31.45609,
+    "geom:longitude":-7.98709,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Taddert",
+    "gn:country_code":"MA",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532057,
+    "gn:latitude":31.45609,
+    "gn:longitude":-7.98709,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Taddert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Taddert",
+        "Taddart",
+        "Taddert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532057
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b8516810cdb2f861d853f4624bf80f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1327129931,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327129931,
+    "wof:lastmodified":1537663484,
+    "wof:name":"Taddert",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98709,
+    31.45609,
+    -7.98709,
+    31.45609
+],
+  "geometry": {"coordinates":[-7.98709,31.45609],"type":"Point"}
+}

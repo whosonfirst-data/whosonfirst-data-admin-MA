@@ -1,0 +1,67 @@
+{
+  "id": 1327219687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42143,32.23289,-7.42143,32.23289",
+    "geom:latitude":32.23289,
+    "geom:longitude":-7.42143,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Souassa",
+    "gn:country_code":"MA",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10935121,
+    "gn:latitude":32.23289,
+    "gn:longitude":-7.42143,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Souassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10935121
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"892d554def1e3e2db90f4ec301cced96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1327219687,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327219687,
+    "wof:lastmodified":1536987212,
+    "wof:name":"Douar Souassa",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42143,
+    32.23289,
+    -7.42143,
+    32.23289
+],
+  "geometry": {"coordinates":[-7.42143,32.23289],"type":"Point"}
+}

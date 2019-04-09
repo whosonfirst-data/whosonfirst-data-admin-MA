@@ -1,0 +1,73 @@
+{
+  "id": 1327249835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.32822,32.3521,-5.32822,32.3521",
+    "geom:latitude":32.3521,
+    "geom:longitude":-5.32822,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ayt Merzoug",
+    "gn:country_code":"MA",
+    "gn:dem":2179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559549,
+    "gn:latitude":32.3521,
+    "gn:longitude":-5.32822,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Ayt Merzoug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Marzougue",
+        "Ayt Merzoug",
+        "A\u00eft Merzoug",
+        "A\u00eft Merzouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559549
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"16c0f91032df4ae0e1434c3164addae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1327249835,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327249835,
+    "wof:lastmodified":1537664170,
+    "wof:name":"Ayt Merzoug",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.32822,
+    32.3521,
+    -5.32822,
+    32.3521
+],
+  "geometry": {"coordinates":[-5.32822,32.3521],"type":"Point"}
+}

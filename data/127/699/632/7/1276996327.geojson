@@ -1,0 +1,71 @@
+{
+  "id": 1276996327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.52845,35.16583,-3.52845,35.16583",
+    "geom:latitude":35.16583,
+    "geom:longitude":-3.52845,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Souab",
+    "gn:country_code":"MA",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532514,
+    "gn:latitude":35.16583,
+    "gn:longitude":-3.52845,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Souab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suab",
+        "Souab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532514
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"97989e36288b899f153d50e300691922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1276996327,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1276996327,
+    "wof:lastmodified":1537663500,
+    "wof:name":"Souab",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.52845,
+    35.16583,
+    -3.52845,
+    35.16583
+],
+  "geometry": {"coordinates":[-3.52845,35.16583],"type":"Point"}
+}

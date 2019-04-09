@@ -1,0 +1,67 @@
+{
+  "id": 1209834119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.23988,33.4425,-4.23988,33.4425",
+    "geom:latitude":33.4425,
+    "geom:longitude":-4.23988,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Issiboutene",
+    "gn:country_code":"MA",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545417,
+    "gn:latitude":33.4425,
+    "gn:longitude":-4.23988,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Issiboutene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545417
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d78e17ba638bd92e9d1ea4d98c0ff8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1209834119,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1209834119,
+    "wof:lastmodified":1536395667,
+    "wof:name":"Issiboutene",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.23988,
+    33.4425,
+    -4.23988,
+    33.4425
+],
+  "geometry": {"coordinates":[-4.23988,33.4425],"type":"Point"}
+}

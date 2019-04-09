@@ -1,0 +1,66 @@
+{
+  "id": 1209630145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.53287,31.54559,-9.53287,31.54559",
+    "geom:latitude":31.54559,
+    "geom:longitude":-9.53287,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lahmamda",
+    "gn:country_code":"MA",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550118,
+    "gn:latitude":31.54559,
+    "gn:longitude":-9.53287,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lahmamda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Amenda",
+        "El Hemamda",
+        "Douar Lahmamda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550118
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"44a0f80495f736c2bf81f1692da42521",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209630145
+        }
+    ],
+    "wof:id":1209630145,
+    "wof:lastmodified":1537663865,
+    "wof:name":"Douar Lahmamda",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.53287,
+    31.54559,
+    -9.53287,
+    31.54559
+],
+  "geometry": {"coordinates":[-9.53287,31.54559],"type":"Point"}
+}

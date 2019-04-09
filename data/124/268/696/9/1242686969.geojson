@@ -1,0 +1,67 @@
+{
+  "id": 1242686969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.63919,35.16064,-4.63919,35.16064",
+    "geom:latitude":35.16064,
+    "geom:longitude":-4.63919,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar Mohamed Badhou",
+    "gn:country_code":"MA",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11068437,
+    "gn:latitude":35.16064,
+    "gn:longitude":-4.63919,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Mohamed Badhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11068437
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"45643c35d71c7d6369dfe0e0abcca91d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1242686969,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242686969,
+    "wof:lastmodified":1536906392,
+    "wof:name":"Dar Mohamed Badhou",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.63919,
+    35.16064,
+    -4.63919,
+    35.16064
+],
+  "geometry": {"coordinates":[-4.63919,35.16064],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225964525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31874,32.06306,-9.31874,32.06306",
+    "geom:latitude":32.06306,
+    "geom:longitude":-9.31874,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar Siguer Fcala",
+    "gn:country_code":"MA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11366673,
+    "gn:latitude":32.06306,
+    "gn:longitude":-9.31874,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Siguer F\u00e7ala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11366673
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"34b2eff0db5eba98c932e8eaba90b86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1225964525,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1225964525,
+    "wof:lastmodified":1536841204,
+    "wof:name":"Dar Siguer Fcala",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31874,
+    32.06306,
+    -9.31874,
+    32.06306
+],
+  "geometry": {"coordinates":[-9.31874,32.06306],"type":"Point"}
+}

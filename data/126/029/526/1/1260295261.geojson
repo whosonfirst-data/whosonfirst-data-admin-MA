@@ -1,0 +1,74 @@
+{
+  "id": 1260295261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33316,29.61656,-9.33316,29.61656",
+    "geom:latitude":29.61656,
+    "geom:longitude":-9.33316,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ouchehane",
+    "gn:country_code":"MA",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540775,
+    "gn:latitude":29.61656,
+    "gn:longitude":-9.33316,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouchehane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouchen",
+        "Ouchen n\u2019Tlilis",
+        "Ouchene n\u2019Tlilis",
+        "Ouchehane",
+        "Ouchene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540775
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5c40b05fdcd9b675aaac3eac1a6e7fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1260295261,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260295261,
+    "wof:lastmodified":1537663627,
+    "wof:name":"Ouchehane",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33316,
+    29.61656,
+    -9.33316,
+    29.61656
+],
+  "geometry": {"coordinates":[-9.33316,29.61656],"type":"Point"}
+}

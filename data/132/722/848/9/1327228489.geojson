@@ -1,0 +1,67 @@
+{
+  "id": 1327228489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55719,32.98102,-7.55719,32.98102",
+    "geom:latitude":32.98102,
+    "geom:longitude":-7.55719,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouafiine",
+    "gn:country_code":"MA",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11434273,
+    "gn:latitude":32.98102,
+    "gn:longitude":-7.55719,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Ouafiine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11434273
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"12612044c6a54d2d69814d57d249ca79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1327228489,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1327228489,
+    "wof:lastmodified":1536974789,
+    "wof:name":"Ouafiine",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55719,
+    32.98102,
+    -7.55719,
+    32.98102
+],
+  "geometry": {"coordinates":[-7.55719,32.98102],"type":"Point"}
+}

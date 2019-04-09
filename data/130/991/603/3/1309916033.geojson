@@ -1,0 +1,72 @@
+{
+  "id": 1309916033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.837,35.66227,-5.837,35.66227",
+    "geom:latitude":35.66227,
+    "geom:longitude":-5.837,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Ain Dalya Lkebira",
+    "gn:country_code":"MA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560901,
+    "gn:latitude":35.66227,
+    "gn:longitude":-5.837,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ain Dalya Lkebira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Dalia Kbira",
+        "A\u00efn Dalia Kebira",
+        "Douar Ain Dalya Lkebira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560901
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b08bd23881f19d2ce751e46892ae07f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1309916033,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1309916033,
+    "wof:lastmodified":1537664222,
+    "wof:name":"Douar Ain Dalya Lkebira",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.837,
+    35.66227,
+    -5.837,
+    35.66227
+],
+  "geometry": {"coordinates":[-5.837,35.66227],"type":"Point"}
+}

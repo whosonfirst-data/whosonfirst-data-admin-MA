@@ -1,0 +1,67 @@
+{
+  "id": 1242674699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.15713,32.99874,-7.15713,32.99874",
+    "geom:latitude":32.99874,
+    "geom:longitude":-7.15713,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Toualeb",
+    "gn:country_code":"MA",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936708,
+    "gn:latitude":32.99874,
+    "gn:longitude":-7.15713,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Toualeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936708
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f11b258f5ce9fa31cb54f90d1f188dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1242674699,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1242674699,
+    "wof:lastmodified":1536924663,
+    "wof:name":"Douar Toualeb",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.15713,
+    32.99874000000001,
+    -7.15713,
+    32.99874000000001
+],
+  "geometry": {"coordinates":[-7.15713,32.99874000000001],"type":"Point"}
+}

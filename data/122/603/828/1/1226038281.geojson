@@ -1,0 +1,67 @@
+{
+  "id": 1226038281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.50035,32.88824,-5.50035,32.88824",
+    "geom:latitude":32.88824,
+    "geom:longitude":-5.50035,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tabaraakiout",
+    "gn:country_code":"MA",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10966190,
+    "gn:latitude":32.88824,
+    "gn:longitude":-5.50035,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tabara\u00e2k\u00efout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10966190
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fbc8041b12d547fe388ebc2021004080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1226038281,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226038281,
+    "wof:lastmodified":1536736020,
+    "wof:name":"Tabaraakiout",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.50035,
+    32.88824,
+    -5.50035,
+    32.88824
+],
+  "geometry": {"coordinates":[-5.50035,32.88824],"type":"Point"}
+}

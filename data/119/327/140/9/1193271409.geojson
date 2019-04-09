@@ -1,0 +1,72 @@
+{
+  "id": 1193271409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.28628,31.45977,-7.28628,31.45977",
+    "geom:latitude":31.45977,
+    "geom:longitude":-7.28628,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Abadou",
+    "gn:country_code":"MA",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571601,
+    "gn:latitude":31.45977,
+    "gn:longitude":-7.28628,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Abadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abaddou",
+        "Abado",
+        "Abadou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571601
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c8fc618b0b390dde0ea27771caa0c92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1193271409,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1193271409,
+    "wof:lastmodified":1537664277,
+    "wof:name":"Abadou",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.28628,
+    31.45977,
+    -7.28628,
+    31.45977
+],
+  "geometry": {"coordinates":[-7.28628,31.45977],"type":"Point"}
+}

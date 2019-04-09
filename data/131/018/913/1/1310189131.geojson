@@ -1,0 +1,67 @@
+{
+  "id": 1310189131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.42775,30.19936,-9.42775,30.19936",
+    "geom:latitude":30.19936,
+    "geom:longitude":-9.42775,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ljayra",
+    "gn:country_code":"MA",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10374977,
+    "gn:latitude":30.19936,
+    "gn:longitude":-9.42775,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ljayra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10374977
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4155b5fa556b4594285fc081c91fb87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1310189131,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310189131,
+    "wof:lastmodified":1536874992,
+    "wof:name":"Ljayra",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42775,
+    30.19936,
+    -9.42775,
+    30.19936
+],
+  "geometry": {"coordinates":[-9.42775,30.19936],"type":"Point"}
+}

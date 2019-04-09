@@ -1,0 +1,66 @@
+{
+  "id": 1209019341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10041,30.88429,-9.10041,30.88429",
+    "geom:latitude":30.88429,
+    "geom:longitude":-9.10041,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Khetab Oufella",
+    "gn:country_code":"MA",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559688,
+    "gn:latitude":30.88429,
+    "gn:longitude":-9.10041,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Khetab Oufella",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ktab",
+        "A\u00eft Ktab Oufella",
+        "A\u00eft Khetab Oufella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559688
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e6b2512bf05a59d6a145ee21b858d213",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019341
+        }
+    ],
+    "wof:id":1209019341,
+    "wof:lastmodified":1537664177,
+    "wof:name":"Ait Khetab Oufella",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10041,
+    30.88429,
+    -9.10041,
+    30.88429
+],
+  "geometry": {"coordinates":[-9.10041,30.88429],"type":"Point"}
+}

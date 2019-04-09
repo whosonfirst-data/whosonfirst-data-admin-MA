@@ -1,0 +1,67 @@
+{
+  "id": 1309804873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.29558,33.90787,-5.29558,33.90787",
+    "geom:latitude":33.90787,
+    "geom:longitude":-5.29558,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dar Ris Said",
+    "gn:country_code":"MA",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025294,
+    "gn:latitude":33.90787,
+    "gn:longitude":-5.29558,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Ris Said",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025294
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b56fc01cf866f7b0f75b23c61d9e555a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1309804873,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1309804873,
+    "wof:lastmodified":1536933126,
+    "wof:name":"Dar Ris Said",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.29558,
+    33.90787,
+    -5.29558,
+    33.90787
+],
+  "geometry": {"coordinates":[-5.29558,33.90787],"type":"Point"}
+}

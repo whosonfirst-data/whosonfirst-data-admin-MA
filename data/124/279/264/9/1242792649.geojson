@@ -1,0 +1,73 @@
+{
+  "id": 1242792649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.60694,31.03973,-5.60694,31.03973",
+    "geom:latitude":31.03973,
+    "geom:longitude":-5.60694,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"T'addi-n-Ou-Hazza",
+    "gn:country_code":"MA",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528493,
+    "gn:latitude":31.03973,
+    "gn:longitude":-5.60694,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"T\u2019addi-n-Ou-Hazza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiguemmi n\u2019Ouezza",
+        "T\u2019addi n\u2019Ouhezza",
+        "Taddi n\u2019Oughezza",
+        "T\u2019addi-n-Ou-Hazza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528493
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"04f4b3cfdfcfe8b509963916e4c21a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1242792649,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242792649,
+    "wof:lastmodified":1537663388,
+    "wof:name":"T'addi-n-Ou-Hazza",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.60694,
+    31.03973,
+    -5.60694,
+    31.03973
+],
+  "geometry": {"coordinates":[-5.60694,31.03973],"type":"Point"}
+}

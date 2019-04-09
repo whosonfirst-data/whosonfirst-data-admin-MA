@@ -1,0 +1,67 @@
+{
+  "id": 1293383917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.36682,30.63093,-8.36682,30.63093",
+    "geom:latitude":30.63093,
+    "geom:longitude":-8.36682,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tamzagt",
+    "gn:country_code":"MA",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11144382,
+    "gn:latitude":30.63093,
+    "gn:longitude":-8.36682,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tamzagt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11144382
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"30a3ec79af5367b1432ac2e622d35002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1293383917,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293383917,
+    "wof:lastmodified":1536937099,
+    "wof:name":"Tamzagt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.36682,
+    30.63093,
+    -8.36682,
+    30.63093
+],
+  "geometry": {"coordinates":[-8.36682,30.63093],"type":"Point"}
+}

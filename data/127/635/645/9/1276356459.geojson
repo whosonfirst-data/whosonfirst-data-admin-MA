@@ -1,0 +1,67 @@
+{
+  "id": 1276356459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91047,32.00535,-8.91047,32.00535",
+    "geom:latitude":32.00535,
+    "geom:longitude":-8.91047,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lhormat",
+    "gn:country_code":"MA",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637066,
+    "gn:latitude":32.00535,
+    "gn:longitude":-8.91047,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lhormat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637066
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e5be3bb83bb37d05b07d06f7ad575254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1276356459,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1276356459,
+    "wof:lastmodified":1536747386,
+    "wof:name":"Lhormat",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91047,
+    32.00535,
+    -8.91047,
+    32.00535
+],
+  "geometry": {"coordinates":[-8.91047,32.00535],"type":"Point"}
+}

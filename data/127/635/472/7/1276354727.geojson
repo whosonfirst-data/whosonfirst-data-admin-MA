@@ -1,0 +1,71 @@
+{
+  "id": 1276354727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35074,30.36295,-8.35074,30.36295",
+    "geom:latitude":30.36295,
+    "geom:longitude":-8.35074,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait el Ghazi",
+    "gn:country_code":"MA",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560025,
+    "gn:latitude":30.36295,
+    "gn:longitude":-8.35074,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft el Ghazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft el Rhazi",
+        "A\u00eft el Ghazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560025
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5bb74ec4098e04c81ec56539707eab2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1276354727,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276354727,
+    "wof:lastmodified":1537664189,
+    "wof:name":"Ait el Ghazi",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35074,
+    30.36295,
+    -8.35074,
+    30.36295
+],
+  "geometry": {"coordinates":[-8.35074,30.36295],"type":"Point"}
+}

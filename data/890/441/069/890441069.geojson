@@ -1,0 +1,78 @@
+{
+  "id": 890441069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99258,30.75358,-7.99258,30.75358",
+    "geom:latitude":30.75358,
+    "geom:longitude":-7.99258,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":7440,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0648\u0646\u0627\u064a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ouzioua"
+    ],
+    "name:fra_x_variant":[
+        "Ouzioua (CR)",
+        "Ouzioua (Commune Rurale)"
+    ],
+    "qs:name":"Ouzioua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545865,
+        "qs:id":629009,
+        "wd:id":"Q7113174",
+        "wk:page":"Ouzioua"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052308,
+    "wof:geomhash":"d0f3fd646c2522ac6f73323e9cf9fa0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":890441069,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890441069,
+    "wof:lastmodified":1527727234,
+    "wof:name":"Ouzioua",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":7440,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99258,
+    30.75358,
+    -7.99258,
+    30.75358
+],
+  "geometry": {"coordinates":[-7.99258,30.75358],"type":"Point"}
+}

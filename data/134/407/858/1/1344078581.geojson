@@ -1,0 +1,67 @@
+{
+  "id": 1344078581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63169,33.03424,-8.63169,33.03424",
+    "geom:latitude":33.03424,
+    "geom:longitude":-8.63169,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Lissir",
+    "gn:country_code":"MA",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471587,
+    "gn:latitude":33.03424,
+    "gn:longitude":-8.63169,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Oulad Lissir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471587
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cdafa14651e665142f338e1965c337f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1344078581,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1344078581,
+    "wof:lastmodified":1536848409,
+    "wof:name":"Oulad Lissir",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63169,
+    33.03424,
+    -8.63169,
+    33.03424
+],
+  "geometry": {"coordinates":[-8.63169,33.03424],"type":"Point"}
+}

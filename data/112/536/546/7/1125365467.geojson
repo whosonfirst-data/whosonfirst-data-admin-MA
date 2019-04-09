@@ -1,0 +1,88 @@
+{
+  "id": 1125365467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08879,30.74548,-8.08879,30.74548",
+    "geom:latitude":30.74548,
+    "geom:longitude":-8.08879,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6666,
+    "gn:population":6666,
+    "iso:country":"MA",
+    "lbl:latitude":30.74548,
+    "lbl:longitude":-8.08879,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0646\u0632\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tisrasse"
+    ],
+    "name:fra_x_variant":[
+        "Tisrasse (CR)",
+        "Tisrasse (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545880,
+    "qs_pg:gn_pop":6666,
+    "qs_pg:name":"Tisrasse",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629025,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545880,
+        "qs_pg:id":629025
+    },
+    "wof:country":"MA",
+    "wof:created":1497047054,
+    "wof:geomhash":"7a50ffb3823e74ba75dd4051c221e5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":1125365467,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125365467,
+    "wof:lastmodified":1509389192,
+    "wof:name":"Tisrasse",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":6666,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08879,
+    30.74548,
+    -8.08879,
+    30.74548
+],
+  "geometry": {"coordinates":[-8.08879,30.74548],"type":"Point"}
+}

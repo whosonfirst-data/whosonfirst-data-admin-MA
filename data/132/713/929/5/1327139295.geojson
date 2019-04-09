@@ -1,0 +1,75 @@
+{
+  "id": 1327139295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.27331,34.67452,-5.27331,34.67452",
+    "geom:latitude":34.67452,
+    "geom:longitude":-5.27331,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"481.0",
+    "gn:admin3_code":"548107172.0",
+    "gn:asciiname":"Teroual",
+    "gn:country_code":"MA",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2529656,
+    "gn:latitude":34.67452,
+    "gn:longitude":-5.27331,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Teroual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taroual",
+        "Terual",
+        "Teroual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529656,
+        "wk:page":"Teroual"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4d3dfdf167f0848b1811c060d4446031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1327139295,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327139295,
+    "wof:lastmodified":1537663415,
+    "wof:name":"Teroual",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.27331,
+    34.67452,
+    -5.27331,
+    34.67452
+],
+  "geometry": {"coordinates":[-5.27331,34.67452],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209117939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.81096,35.02998,-2.81096,35.02998",
+    "geom:latitude":35.02998,
+    "geom:longitude":-2.81096,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Oulad Lehlas",
+    "gn:country_code":"MA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10962448,
+    "gn:latitude":35.02998,
+    "gn:longitude":-2.81096,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Lehlas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10962448
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"37035db7b05372aff5e7df7f4fcf5e1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209117939
+        }
+    ],
+    "wof:id":1209117939,
+    "wof:lastmodified":1536297197,
+    "wof:name":"Oulad Lehlas",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.81096,
+    35.02998,
+    -2.81096,
+    35.02998
+],
+  "geometry": {"coordinates":[-2.81096,35.02998],"type":"Point"}
+}

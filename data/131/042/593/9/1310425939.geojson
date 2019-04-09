@@ -1,0 +1,67 @@
+{
+  "id": 1310425939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08404,31.35979,-8.08404,31.35979",
+    "geom:latitude":31.35979,
+    "geom:longitude":-8.08404,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Akhlig",
+    "gn:country_code":"MA",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965029,
+    "gn:latitude":31.35979,
+    "gn:longitude":-8.08404,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Akhlig",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965029
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7e04f9dd9bfe1a2956af43ad7bff470d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1310425939,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310425939,
+    "wof:lastmodified":1537030492,
+    "wof:name":"Douar Akhlig",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08404,
+    31.35979,
+    -8.08404,
+    31.35979
+],
+  "geometry": {"coordinates":[-8.08404,31.35979],"type":"Point"}
+}

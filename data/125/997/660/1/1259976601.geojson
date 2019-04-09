@@ -1,0 +1,67 @@
+{
+  "id": 1259976601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76564,32.77786,-8.76564,32.77786",
+    "geom:latitude":32.77786,
+    "geom:longitude":-8.76564,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Ben Fatma",
+    "gn:country_code":"MA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11366923,
+    "gn:latitude":32.77786,
+    "gn:longitude":-8.76564,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ben Fatma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11366923
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2134cec421bddeca0e2d43bd3967229b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1259976601,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259976601,
+    "wof:lastmodified":1536644494,
+    "wof:name":"Douar Ben Fatma",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76564,
+    32.77786,
+    -8.76564,
+    32.77786
+],
+  "geometry": {"coordinates":[-8.76564,32.77786],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193026297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.83,34.9,-4.83,34.9",
+    "geom:latitude":34.9,
+    "geom:longitude":-4.83,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Acherodene",
+    "gn:country_code":"MA",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562019,
+    "gn:latitude":34.9,
+    "gn:longitude":-4.83,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Acherodene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562019
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"14e12f55a2d67bb9db79b18945ee0653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1193026297,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1193026297,
+    "wof:lastmodified":1536367483,
+    "wof:name":"Acherodene",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.83,
+    34.9,
+    -4.83,
+    34.9
+],
+  "geometry": {"coordinates":[-4.83,34.9],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259784759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.87428,34.49095,-4.87428,34.49095",
+    "geom:latitude":34.49095,
+    "geom:longitude":-4.87428,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Charnouf",
+    "gn:country_code":"MA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11042678,
+    "gn:latitude":34.49095,
+    "gn:longitude":-4.87428,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Charnouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11042678
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"81e3e56bbca5f38c195d020939437f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1259784759,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1259784759,
+    "wof:lastmodified":1536921990,
+    "wof:name":"Douar Charnouf",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.87428,
+    34.49095,
+    -4.87428,
+    34.49095
+],
+  "geometry": {"coordinates":[-4.87428,34.49095],"type":"Point"}
+}

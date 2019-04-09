@@ -1,0 +1,65 @@
+{
+  "id": 1209608359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.85678,32.0952,-6.85678,32.0952",
+    "geom:latitude":32.0952,
+    "geom:longitude":-6.85678,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Moulay Calah",
+    "gn:country_code":"MA",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559487,
+    "gn:latitude":32.0952,
+    "gn:longitude":-6.85678,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft Moulay \u00c7alah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Moulay \u00c7alah",
+        "A\u00eft Moulay Salah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559487
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6b116b576cbf6eca1820da71a84bf2a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209608359
+        }
+    ],
+    "wof:id":1209608359,
+    "wof:lastmodified":1537664168,
+    "wof:name":"Ait Moulay Calah",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.85678,
+    32.0952,
+    -6.85678,
+    32.0952
+],
+  "geometry": {"coordinates":[-6.85678,32.0952],"type":"Point"}
+}

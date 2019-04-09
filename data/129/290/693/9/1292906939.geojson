@@ -1,0 +1,67 @@
+{
+  "id": 1292906939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.31007,35.10543,-4.31007,35.10543",
+    "geom:latitude":35.10543,
+    "geom:longitude":-4.31007,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Lemaaret",
+    "gn:country_code":"MA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091486,
+    "gn:latitude":35.10543,
+    "gn:longitude":-4.31007,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lemaaret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091486
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3d9667946312ae1e790f377a2fd718d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1292906939,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1292906939,
+    "wof:lastmodified":1536628142,
+    "wof:name":"Douar Lemaaret",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.31007,
+    35.10543,
+    -4.31007,
+    35.10543
+],
+  "geometry": {"coordinates":[-4.31007,35.10543],"type":"Point"}
+}

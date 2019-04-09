@@ -1,0 +1,71 @@
+{
+  "id": 1225863343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.07526,29.32437,-10.07526,29.32437",
+    "geom:latitude":29.32437,
+    "geom:longitude":-10.07526,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Bouad",
+    "gn:country_code":"MA",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547301,
+    "gn:latitude":29.32437,
+    "gn:longitude":-10.07526,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Bouad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Bueh",
+        "Id Bouad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547301
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0885a6ce85f4d7ea81271af27495e8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1225863343,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225863343,
+    "wof:lastmodified":1537663787,
+    "wof:name":"Id Bouad",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.07526,
+    29.32437,
+    -10.07526,
+    29.32437
+],
+  "geometry": {"coordinates":[-10.07526,29.32437],"type":"Point"}
+}

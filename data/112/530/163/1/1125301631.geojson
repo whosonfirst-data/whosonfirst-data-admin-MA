@@ -1,0 +1,88 @@
+{
+  "id": 1125301631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.19626,34.34101,-4.19626,34.34101",
+    "geom:latitude":34.34101,
+    "geom:longitude":-4.19626,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":13678,
+    "gn:population":11866,
+    "iso:country":"MA",
+    "lbl:latitude":34.34101,
+    "lbl:longitude":-4.19626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0645\u0631\u0632\u0648\u0642\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Lent"
+    ],
+    "name:fra_x_variant":[
+        "Bni Lent (CR)",
+        "Bni Lent (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547066,
+    "qs_pg:gn_pop":13678,
+    "qs_pg:name":"Bni Lent",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":630148,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547066,
+        "qs_pg:id":630148
+    },
+    "wof:country":"MA",
+    "wof:created":1497043461,
+    "wof:geomhash":"ef5fe4149ddedc7942e476045b821039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "localadmin_id":1125301631,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125301631,
+    "wof:lastmodified":1509387724,
+    "wof:name":"Bni Lent",
+    "wof:parent_id":890436791,
+    "wof:placetype":"localadmin",
+    "wof:population":11866,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.19626,
+    34.34101,
+    -4.19626,
+    34.34101
+],
+  "geometry": {"coordinates":[-4.19626,34.34101],"type":"Point"}
+}

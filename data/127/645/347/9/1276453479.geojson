@@ -1,0 +1,73 @@
+{
+  "id": 1276453479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.79263,34.39363,-4.79263,34.39363",
+    "geom:latitude":34.39363,
+    "geom:longitude":-4.79263,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Myayha",
+    "gn:country_code":"MA",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551548,
+    "gn:latitude":34.39363,
+    "gn:longitude":-4.79263,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Myayha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miaiha",
+        "El Myayha",
+        "Douar Mia\u00efha",
+        "Douar Myayha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551548
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"70bf0a32f9d9e66e4546b0f76678758f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1276453479,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1276453479,
+    "wof:lastmodified":1537663948,
+    "wof:name":"Douar Myayha",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.79263,
+    34.39363,
+    -4.79263,
+    34.39363
+],
+  "geometry": {"coordinates":[-4.79263,34.39363],"type":"Point"}
+}

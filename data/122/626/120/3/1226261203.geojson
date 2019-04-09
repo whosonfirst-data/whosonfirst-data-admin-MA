@@ -1,0 +1,72 @@
+{
+  "id": 1226261203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5849,32.21829,-8.5849,32.21829",
+    "geom:latitude":32.21829,
+    "geom:longitude":-8.5849,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lekhrab",
+    "gn:country_code":"MA",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551604,
+    "gn:latitude":32.21829,
+    "gn:longitude":-8.5849,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lekhrab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Kharba",
+        "Douar Kherba",
+        "Douar Lekhrab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551604
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e3ec0ca6a3b0f84e82a985e51269ffd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1226261203,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226261203,
+    "wof:lastmodified":1537663952,
+    "wof:name":"Douar Lekhrab",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5849,
+    32.21829,
+    -8.5849,
+    32.21829
+],
+  "geometry": {"coordinates":[-8.5849,32.21829],"type":"Point"}
+}

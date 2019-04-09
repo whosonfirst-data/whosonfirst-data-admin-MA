@@ -1,0 +1,88 @@
+{
+  "id": 1125330091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.5574,33.57714,-7.5574,33.57714",
+    "geom:latitude":33.57714,
+    "geom:longitude":-7.5574,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":186748,
+    "gn:population":186748,
+    "iso:country":"MA",
+    "lbl:latitude":33.57714,
+    "lbl:longitude":-7.5574,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0633\u0628\u0639 (\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Al-Fida"
+    ],
+    "name:fra_x_variant":[
+        "Al-Fida (AR)",
+        "Al-Fida (Arrondissement)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545868,
+    "qs_pg:gn_pop":186748,
+    "qs_pg:name":"Al-Fida",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":629012,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673905,
+        890442533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545868,
+        "qs_pg:id":629012
+    },
+    "wof:country":"MA",
+    "wof:created":1497045084,
+    "wof:geomhash":"dbe2e9f28834cae4a4cfd6ec065e7fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442533,
+            "localadmin_id":1125330091,
+            "region_id":85673905
+        }
+    ],
+    "wof:id":1125330091,
+    "wof:lastmodified":1509388351,
+    "wof:name":"Al-Fida",
+    "wof:parent_id":890442533,
+    "wof:placetype":"localadmin",
+    "wof:population":186748,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.5574,
+    33.57714,
+    -7.5574,
+    33.57714
+],
+  "geometry": {"coordinates":[-7.5574,33.57714],"type":"Point"}
+}

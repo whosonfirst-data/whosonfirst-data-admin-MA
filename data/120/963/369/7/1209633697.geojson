@@ -1,0 +1,61 @@
+{
+  "id": 1209633697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.38446,32.44368,-6.38446,32.44368",
+    "geom:latitude":32.44368,
+    "geom:longitude":-6.38446,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bzaza",
+    "gn:country_code":"MA",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553655,
+    "gn:latitude":32.44368,
+    "gn:longitude":-6.38446,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bzaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553655
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"386df9f2410c052985d16664341a1fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633697
+        }
+    ],
+    "wof:id":1209633697,
+    "wof:lastmodified":1536281109,
+    "wof:name":"Bzaza",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.38446,
+    32.44368,
+    -6.38446,
+    32.44368
+],
+  "geometry": {"coordinates":[-6.38446,32.44368],"type":"Point"}
+}

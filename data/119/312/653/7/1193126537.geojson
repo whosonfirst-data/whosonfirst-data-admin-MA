@@ -1,0 +1,67 @@
+{
+  "id": 1193126537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70114,30.29586,-8.70114,30.29586",
+    "geom:latitude":30.29586,
+    "geom:longitude":-8.70114,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Afrad",
+    "gn:country_code":"MA",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11143475,
+    "gn:latitude":30.29586,
+    "gn:longitude":-8.70114,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Afrad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11143475
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"77836480869cee2d4bc9af4f22f313fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1193126537,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1193126537,
+    "wof:lastmodified":1536380318,
+    "wof:name":"Afrad",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70114,
+    30.29586,
+    -8.70114,
+    30.29586
+],
+  "geometry": {"coordinates":[-8.70114,30.29586],"type":"Point"}
+}

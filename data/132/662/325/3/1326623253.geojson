@@ -1,0 +1,70 @@
+{
+  "id": 1326623253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52877,32.42276,-6.52877,32.42276",
+    "geom:latitude":32.42276,
+    "geom:longitude":-6.52877,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Douar Ahl Souss",
+    "gn:country_code":"MA",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561068,
+    "gn:latitude":32.42276,
+    "gn:longitude":-6.52877,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Douar Ahl Souss",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahl Souss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561068
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"09564a5cd4f201fd0ad479e83b74a557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "locality_id":1326623253,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1326623253,
+    "wof:lastmodified":1537664227,
+    "wof:name":"Douar Ahl Souss",
+    "wof:parent_id":1108784787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.52877,
+    32.42276,
+    -6.52877,
+    32.42276
+],
+  "geometry": {"coordinates":[-6.52877,32.42276],"type":"Point"}
+}

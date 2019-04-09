@@ -1,0 +1,73 @@
+{
+  "id": 1242788055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.49272,30.98976,-8.49272,30.98976",
+    "geom:latitude":30.98976,
+    "geom:longitude":-8.49272,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ansa",
+    "gn:country_code":"MA",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557805,
+    "gn:latitude":30.98976,
+    "gn:longitude":-8.49272,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anassa",
+        "Aneza",
+        "Anessa",
+        "Ansa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557805
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4ae90885d3ab3b69cfbb06258ba0c0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1242788055,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242788055,
+    "wof:lastmodified":1537664119,
+    "wof:name":"Ansa",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.49272,
+    30.98976,
+    -8.49272,
+    30.98976
+],
+  "geometry": {"coordinates":[-8.49272,30.98976],"type":"Point"}
+}

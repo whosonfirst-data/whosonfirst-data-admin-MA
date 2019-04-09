@@ -1,0 +1,67 @@
+{
+  "id": 1276238695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.96,34.4,-3.96,34.4",
+    "geom:latitude":34.4,
+    "geom:longitude":-3.96,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Bou Atia",
+    "gn:country_code":"MA",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555128,
+    "gn:latitude":34.4,
+    "gn:longitude":-3.96,
+    "gn:modification_date":"2005-04-12",
+    "gn:name":"Bou Atia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555128
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b3151220b168e6e349a42b8da170ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1276238695,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1276238695,
+    "wof:lastmodified":1536905607,
+    "wof:name":"Bou Atia",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.96,
+    34.4,
+    -3.96,
+    34.4
+],
+  "geometry": {"coordinates":[-3.96,34.4],"type":"Point"}
+}

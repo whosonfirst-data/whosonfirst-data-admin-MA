@@ -1,0 +1,79 @@
+{
+  "id": 1327418585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.26565,31.28318,-4.26565,31.28318",
+    "geom:latitude":31.28318,
+    "geom:longitude":-4.26565,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Recani",
+    "gn:country_code":"MA",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538027,
+    "gn:latitude":31.28318,
+    "gn:longitude":-4.26565,
+    "gn:modification_date":"2018-05-18",
+    "gn:name":"Re\u00e7ani",
+    "gn:population":20469,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0441\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Risani",
+        "Rissani",
+        "Re\u00e7ani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538027,
+        "wk:page":"Rissani"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"24ea194f4b463c7b217ac105d23c5548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1327418585,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327418585,
+    "wof:lastmodified":1537663531,
+    "wof:name":"Recani",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:population":20469,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.26565,
+    31.28318,
+    -4.26565,
+    31.28318
+],
+  "geometry": {"coordinates":[-4.26565,31.28318],"type":"Point"}
+}

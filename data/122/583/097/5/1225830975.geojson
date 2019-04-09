@@ -1,0 +1,67 @@
+{
+  "id": 1225830975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11122,31.02257,-9.11122,31.02257",
+    "geom:latitude":31.02257,
+    "geom:longitude":-9.11122,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait el Haj Messaoud",
+    "gn:country_code":"MA",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149029,
+    "gn:latitude":31.02257,
+    "gn:longitude":-9.11122,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft el Haj Messaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149029
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7214ed510da2ca770d246bb68153a598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1225830975,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1225830975,
+    "wof:lastmodified":1537033527,
+    "wof:name":"Ait el Haj Messaoud",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11122,
+    31.02257,
+    -9.11122,
+    31.02257
+],
+  "geometry": {"coordinates":[-9.11122,31.02257],"type":"Point"}
+}

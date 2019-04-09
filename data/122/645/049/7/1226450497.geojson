@@ -1,0 +1,67 @@
+{
+  "id": 1226450497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.08423,35.1761,-3.08423,35.1761",
+    "geom:latitude":35.1761,
+    "geom:longitude":-3.08423,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Iberdaene",
+    "gn:country_code":"MA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961092,
+    "gn:latitude":35.1761,
+    "gn:longitude":-3.08423,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Iberdaene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961092
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e7683da9a0322d72ba067ccb20364455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1226450497,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1226450497,
+    "wof:lastmodified":1536637429,
+    "wof:name":"Iberdaene",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.08423,
+    35.1761,
+    -3.08423,
+    35.1761
+],
+  "geometry": {"coordinates":[-3.08423,35.1761],"type":"Point"}
+}

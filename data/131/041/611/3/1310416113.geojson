@@ -1,0 +1,73 @@
+{
+  "id": 1310416113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73833,32.01376,-8.73833,32.01376",
+    "geom:latitude":32.01376,
+    "geom:longitude":-8.73833,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Leghoualem Lahteyba",
+    "gn:country_code":"MA",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538103,
+    "gn:latitude":32.01376,
+    "gn:longitude":-8.73833,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Leghoualem Lahteyba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghoualem Koba",
+        "Douar Rhoualem",
+        "Rhoualem",
+        "Leghoualem Lahteyba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538103
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"330f37110536d5a8c361dbf92385ef34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1310416113,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310416113,
+    "wof:lastmodified":1537663533,
+    "wof:name":"Leghoualem Lahteyba",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73833,
+    32.01376,
+    -8.73833,
+    32.01376
+],
+  "geometry": {"coordinates":[-8.73833,32.01376],"type":"Point"}
+}

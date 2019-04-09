@@ -1,0 +1,71 @@
+{
+  "id": 1259502029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.33552,34.69237,-5.33552,34.69237",
+    "geom:latitude":34.69237,
+    "geom:longitude":-5.33552,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ain es Souk",
+    "gn:country_code":"MA",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560859,
+    "gn:latitude":34.69237,
+    "gn:longitude":-5.33552,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00efn es Souk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Souk",
+        "A\u00efn es Souk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560859
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2aa69b0a0a7cd2b8d0819e4fced3f5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1259502029,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259502029,
+    "wof:lastmodified":1537664220,
+    "wof:name":"Ain es Souk",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.33552,
+    34.69237,
+    -5.33552,
+    34.69237
+],
+  "geometry": {"coordinates":[-5.33552,34.69237],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242775807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13518,32.58181,-6.13518,32.58181",
+    "geom:latitude":32.58181,
+    "geom:longitude":-6.13518,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bou Mersid",
+    "gn:country_code":"MA",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554296,
+    "gn:latitude":32.58181,
+    "gn:longitude":-6.13518,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Bou Mersid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Bou Mensit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554296
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0805e06e31ac0e6afc06ec12ceb6977f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1242775807,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242775807,
+    "wof:lastmodified":1537664048,
+    "wof:name":"Bou Mersid",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13518,
+    32.58181,
+    -6.13518,
+    32.58181
+],
+  "geometry": {"coordinates":[-6.13518,32.58181],"type":"Point"}
+}

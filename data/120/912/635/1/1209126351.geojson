@@ -1,0 +1,61 @@
+{
+  "id": 1209126351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.025,31.99154,-9.025,31.99154",
+    "geom:latitude":31.99154,
+    "geom:longitude":-9.025,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Sidi Mhamed",
+    "gn:country_code":"MA",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912285,
+    "gn:latitude":31.99154,
+    "gn:longitude":-9.025,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Sidi Mhamed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912285
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9fb6b198429a5ec3933af5d696599317",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209126351
+        }
+    ],
+    "wof:id":1209126351,
+    "wof:lastmodified":1536296945,
+    "wof:name":"Oulad Sidi Mhamed",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.025,
+    31.991540000000004,
+    -9.025,
+    31.991540000000004
+],
+  "geometry": {"coordinates":[-9.025,31.99154],"type":"Point"}
+}

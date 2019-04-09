@@ -1,0 +1,67 @@
+{
+  "id": 1242688143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.09091,34.85315,-3.09091,34.85315",
+    "geom:latitude":34.85315,
+    "geom:longitude":-3.09091,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zawyat Ribat",
+    "gn:country_code":"MA",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526151,
+    "gn:latitude":34.85315,
+    "gn:longitude":-3.09091,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zawyat Ribat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526151
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8f400bec6bdee019976f8de1b35d981c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1242688143,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1242688143,
+    "wof:lastmodified":1536904643,
+    "wof:name":"Zawyat Ribat",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.09091,
+    34.85315,
+    -3.09091,
+    34.85315
+],
+  "geometry": {"coordinates":[-3.09091,34.85315],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309822223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74064,31.19512,-8.74064,31.19512",
+    "geom:latitude":31.19512,
+    "geom:longitude":-8.74064,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Telas",
+    "gn:country_code":"MA",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527018,
+    "gn:latitude":31.19512,
+    "gn:longitude":-8.74064,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Telas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tlest",
+        "Tless",
+        "Telas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527018
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f445e242fff55ef580ce8dd4dbb0d7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1309822223,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309822223,
+    "wof:lastmodified":1537663341,
+    "wof:name":"Telas",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74064,
+    31.19512000000001,
+    -8.74064,
+    31.19512000000001
+],
+  "geometry": {"coordinates":[-8.74064,31.19512000000001],"type":"Point"}
+}

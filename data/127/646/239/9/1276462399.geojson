@@ -1,0 +1,72 @@
+{
+  "id": 1276462399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.43124,32.3181,-5.43124,32.3181",
+    "geom:latitude":32.3181,
+    "geom:longitude":-5.43124,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Agheddou",
+    "gn:country_code":"MA",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557281,
+    "gn:latitude":32.3181,
+    "gn:longitude":-5.43124,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Agheddou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arheddou",
+        "Aghedou",
+        "Agheddou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557281
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"70bb8e1ead0d607feeae3ac749dbf1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1276462399,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1276462399,
+    "wof:lastmodified":1537664104,
+    "wof:name":"Agheddou",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.43124,
+    32.3181,
+    -5.43124,
+    32.3181
+],
+  "geometry": {"coordinates":[-5.43124,32.3181],"type":"Point"}
+}

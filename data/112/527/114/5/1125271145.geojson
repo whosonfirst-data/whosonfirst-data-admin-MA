@@ -1,0 +1,88 @@
+{
+  "id": 1125271145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.65019,34.49816,-3.65019,34.49816",
+    "geom:latitude":34.49816,
+    "geom:longitude":-3.65019,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9891,
+    "gn:population":9891,
+    "iso:country":"MA",
+    "lbl:latitude":34.49816,
+    "lbl:longitude":-3.65019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0643\u064a\u062a\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Mazguitam"
+    ],
+    "name:fra_x_variant":[
+        "Mazguitam (CR)",
+        "Mazguitam (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547089,
+    "qs_pg:gn_pop":9891,
+    "qs_pg:name":"Mazguitam",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":630171,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547089,
+        "qs_pg:id":630171
+    },
+    "wof:country":"MA",
+    "wof:created":1497042133,
+    "wof:geomhash":"4d58052bf64f8d43af708a7d457319d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "localadmin_id":1125271145,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125271145,
+    "wof:lastmodified":1509387022,
+    "wof:name":"Mazguitam",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"localadmin",
+    "wof:population":9891,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.65019,
+    34.49816,
+    -3.65019,
+    34.49816
+],
+  "geometry": {"coordinates":[-3.65019,34.49816],"type":"Point"}
+}

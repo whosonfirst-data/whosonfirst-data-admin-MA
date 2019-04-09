@@ -1,0 +1,67 @@
+{
+  "id": 1360295779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2,32.41,-6.2,32.41",
+    "geom:latitude":32.41,
+    "geom:longitude":-6.2,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Douar Messaoud",
+    "gn:country_code":"MA",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551552,
+    "gn:latitude":32.41,
+    "gn:longitude":-6.2,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Messaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551552
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d4aa959d9fd81d195ad99b9951ab4252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1360295779,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1360295779,
+    "wof:lastmodified":1536640690,
+    "wof:name":"Douar Messaoud",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2,
+    32.41,
+    -6.2,
+    32.41
+],
+  "geometry": {"coordinates":[-6.2,32.41],"type":"Point"}
+}

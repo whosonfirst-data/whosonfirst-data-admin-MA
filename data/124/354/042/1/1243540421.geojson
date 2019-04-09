@@ -1,0 +1,73 @@
+{
+  "id": 1243540421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16491,31.51207,-8.16491,31.51207",
+    "geom:latitude":31.51207,
+    "geom:longitude":-8.16491,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Guebbas",
+    "gn:country_code":"MA",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550369,
+    "gn:latitude":31.51207,
+    "gn:longitude":-8.16491,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Al Guebbas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Guebbas",
+        "El Guerba",
+        "El Guebbas",
+        "Al Guebbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550369
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"712eb25d12d7489bf4db0cf9a3c26e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1243540421,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243540421,
+    "wof:lastmodified":1537663878,
+    "wof:name":"Al Guebbas",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16491,
+    31.51207,
+    -8.16491,
+    31.51207
+],
+  "geometry": {"coordinates":[-8.16491,31.51207],"type":"Point"}
+}

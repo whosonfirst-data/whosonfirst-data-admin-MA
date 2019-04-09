@@ -1,0 +1,70 @@
+{
+  "id": 1360079805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.731,32.76758,-8.731,32.76758",
+    "geom:latitude":32.76758,
+    "geom:longitude":-8.731,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Lahmamna",
+    "gn:country_code":"MA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551732,
+    "gn:latitude":32.76758,
+    "gn:longitude":-8.731,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Lahmamna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Rhoualma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551732
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bb23dbf60c8b672d688fa251923c9634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1360079805,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1360079805,
+    "wof:lastmodified":1537663962,
+    "wof:name":"Douar Lahmamna",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.731,
+    32.76758,
+    -8.731,
+    32.76758
+],
+  "geometry": {"coordinates":[-8.731,32.76758],"type":"Point"}
+}

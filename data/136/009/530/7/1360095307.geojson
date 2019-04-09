@@ -1,0 +1,71 @@
+{
+  "id": 1360095307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.28308,35.55906,-5.28308,35.55906",
+    "geom:latitude":35.55906,
+    "geom:longitude":-5.28308,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Talmadi",
+    "gn:country_code":"MA",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529021,
+    "gn:latitude":35.55906,
+    "gn:longitude":-5.28308,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Talmadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Telmadi",
+        "Talmadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529021
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4c8d856bc457176d1c4f482073974b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1360095307,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1360095307,
+    "wof:lastmodified":1537663398,
+    "wof:name":"Talmadi",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.28308,
+    35.55905999999999,
+    -5.28308,
+    35.55905999999999
+],
+  "geometry": {"coordinates":[-5.28308,35.55905999999999],"type":"Point"}
+}

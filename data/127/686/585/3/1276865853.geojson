@@ -1,0 +1,67 @@
+{
+  "id": 1276865853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48355,30.31785,-9.48355,30.31785",
+    "geom:latitude":30.31785,
+    "geom:longitude":-9.48355,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dar Ben Simane",
+    "gn:country_code":"MA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10375104,
+    "gn:latitude":30.31785,
+    "gn:longitude":-9.48355,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Ben Simane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10375104
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7b82506d89adaf6c8bdc59524d272eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429093,
+            "locality_id":1276865853,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276865853,
+    "wof:lastmodified":1537057438,
+    "wof:name":"Dar Ben Simane",
+    "wof:parent_id":890429093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48355,
+    30.31785,
+    -9.48355,
+    30.31785
+],
+  "geometry": {"coordinates":[-9.48355,30.31785],"type":"Point"}
+}

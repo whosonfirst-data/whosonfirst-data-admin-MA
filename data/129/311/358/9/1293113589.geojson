@@ -1,0 +1,72 @@
+{
+  "id": 1293113589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.06678,34.68367,-6.06678,34.68367",
+    "geom:latitude":34.68367,
+    "geom:longitude":-6.06678,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oulad Abdallah",
+    "gn:country_code":"MA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540414,
+    "gn:latitude":34.68367,
+    "gn:longitude":-6.06678,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Abdallah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Abdallah",
+        "Ouled Abdellah",
+        "Oulad Abdallah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540414
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c920a21bc2ae1ed46679850782aa6ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1293113589,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1293113589,
+    "wof:lastmodified":1537663621,
+    "wof:name":"Oulad Abdallah",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.06678,
+    34.68367,
+    -6.06678,
+    34.68367
+],
+  "geometry": {"coordinates":[-6.06678,34.68367],"type":"Point"}
+}

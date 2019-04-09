@@ -1,0 +1,73 @@
+{
+  "id": 1343755175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.3245,32.43498,-6.3245,32.43498",
+    "geom:latitude":32.43498,
+    "geom:longitude":-6.3245,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"91.0",
+    "gn:asciiname":"Oulad Yaich",
+    "gn:country_code":"MA",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539114,
+    "gn:latitude":32.43498,
+    "gn:longitude":-6.3245,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Oulad Ya\u00efch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Yaiche",
+        "Ouled A\u00efch",
+        "Oulad Ya\u00efch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539114
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e8d327c1bafe34ccc0789d628cfa3eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1343755175,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343755175,
+    "wof:lastmodified":1537663553,
+    "wof:name":"Oulad Yaich",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.3245,
+    32.43498,
+    -6.3245,
+    32.43498
+],
+  "geometry": {"coordinates":[-6.3245,32.43498],"type":"Point"}
+}

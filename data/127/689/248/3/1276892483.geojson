@@ -1,0 +1,67 @@
+{
+  "id": 1276892483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86164,30.87548,-8.86164,30.87548",
+    "geom:latitude":30.87548,
+    "geom:longitude":-8.86164,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Outna",
+    "gn:country_code":"MA",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538551,
+    "gn:latitude":30.87548,
+    "gn:longitude":-8.86164,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Outna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538551
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e206ddb79ac4f62c9914428df9f89e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1276892483,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276892483,
+    "wof:lastmodified":1537023224,
+    "wof:name":"Outna",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86164,
+    30.87548,
+    -8.86164,
+    30.87548
+],
+  "geometry": {"coordinates":[-8.86164,30.87548],"type":"Point"}
+}

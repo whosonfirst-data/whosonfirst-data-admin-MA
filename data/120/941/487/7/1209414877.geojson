@@ -1,0 +1,61 @@
+{
+  "id": 1209414877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.79606,33.57317,-5.79606,33.57317",
+    "geom:latitude":33.57317,
+    "geom:longitude":-5.79606,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Moulay Bouazza",
+    "gn:country_code":"MA",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10960136,
+    "gn:latitude":33.57317,
+    "gn:longitude":-5.79606,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Moulay Bouazza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10960136
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"64508c4f595b63c51398f86e85fed3f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209414877
+        }
+    ],
+    "wof:id":1209414877,
+    "wof:lastmodified":1536287721,
+    "wof:name":"Moulay Bouazza",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.79606,
+    33.573170000000005,
+    -5.79606,
+    33.573170000000005
+],
+  "geometry": {"coordinates":[-5.79606,33.57317],"type":"Point"}
+}

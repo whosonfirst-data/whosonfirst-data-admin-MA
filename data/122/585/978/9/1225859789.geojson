@@ -1,0 +1,70 @@
+{
+  "id": 1225859789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.83872,30.91606,-6.83872,30.91606",
+    "geom:latitude":30.91606,
+    "geom:longitude":-6.83872,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ghalil",
+    "gn:country_code":"MA",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2538227,
+    "gn:latitude":30.91606,
+    "gn:longitude":-6.83872,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ghalil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Rhallil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538227
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bba9a498c550959ed387938e53b327d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1225859789,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225859789,
+    "wof:lastmodified":1537663534,
+    "wof:name":"Ghalil",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.83872,
+    30.91606,
+    -6.83872,
+    30.91606
+],
+  "geometry": {"coordinates":[-6.83872,30.91606],"type":"Point"}
+}

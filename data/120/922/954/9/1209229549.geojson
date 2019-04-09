@@ -1,0 +1,67 @@
+{
+  "id": 1209229549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.35616,34.60239,-6.35616,34.60239",
+    "geom:latitude":34.60239,
+    "geom:longitude":-6.35616,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Labrouga",
+    "gn:country_code":"MA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550498,
+    "gn:latitude":34.60239,
+    "gn:longitude":-6.35616,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Labrouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Brouga",
+        "El Brouja",
+        "El Brouga",
+        "Labrouga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550498
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6f562bf5ca5af5f795f1ae92b66af811",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229549
+        }
+    ],
+    "wof:id":1209229549,
+    "wof:lastmodified":1537663883,
+    "wof:name":"Labrouga",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.35616,
+    34.60239,
+    -6.35616,
+    34.60239
+],
+  "geometry": {"coordinates":[-6.35616,34.60239],"type":"Point"}
+}

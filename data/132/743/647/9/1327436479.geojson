@@ -1,0 +1,72 @@
+{
+  "id": 1327436479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.77186,34.08175,-6.77186,34.08175",
+    "geom:latitude":34.08175,
+    "geom:longitude":-6.77186,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dour Mika",
+    "gn:country_code":"MA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431284,
+    "gn:latitude":34.08175,
+    "gn:longitude":-6.77186,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Dour Mika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Mika",
+        "Dr. Mika",
+        "Dour Mika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431284
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"13025381e54ace0c4a221e24626f4feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":1327436479,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1327436479,
+    "wof:lastmodified":1537664290,
+    "wof:name":"Dour Mika",
+    "wof:parent_id":1108784811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.77186,
+    34.08175,
+    -6.77186,
+    34.08175
+],
+  "geometry": {"coordinates":[-6.77186,34.08175],"type":"Point"}
+}

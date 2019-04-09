@@ -1,0 +1,70 @@
+{
+  "id": 1226238545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.33394,31.96957,-4.33394,31.96957",
+    "geom:latitude":31.96957,
+    "geom:longitude":-4.33394,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dar Al Hamra",
+    "gn:country_code":"MA",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552762,
+    "gn:latitude":31.96957,
+    "gn:longitude":-4.33394,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Dar Al Hamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar el Hamra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552762
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ecb4b2956dbbfc46989064bcdeeb93af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1226238545,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226238545,
+    "wof:lastmodified":1537664013,
+    "wof:name":"Dar Al Hamra",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.33394,
+    31.96957,
+    -4.33394,
+    31.96957
+],
+  "geometry": {"coordinates":[-4.33394,31.96957],"type":"Point"}
+}

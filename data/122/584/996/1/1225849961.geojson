@@ -1,0 +1,67 @@
+{
+  "id": 1225849961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92983,33.67144,-6.92983,33.67144",
+    "geom:latitude":33.67144,
+    "geom:longitude":-6.92983,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Souis",
+    "gn:country_code":"MA",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10918780,
+    "gn:latitude":33.67144,
+    "gn:longitude":-6.92983,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Souis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10918780
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0bd848205a70a1043f53b7742d0d72c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1225849961,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1225849961,
+    "wof:lastmodified":1537006825,
+    "wof:name":"Souis",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92983,
+    33.67144,
+    -6.92983,
+    33.67144
+],
+  "geometry": {"coordinates":[-6.92983,33.67144],"type":"Point"}
+}

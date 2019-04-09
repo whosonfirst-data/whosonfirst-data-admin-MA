@@ -1,0 +1,61 @@
+{
+  "id": 1209198423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.30113,30.62142,-9.30113,30.62142",
+    "geom:latitude":30.62142,
+    "geom:longitude":-9.30113,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Iril",
+    "gn:country_code":"MA",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131780,
+    "gn:latitude":30.62142,
+    "gn:longitude":-9.30113,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Iril",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131780
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cebd36dca8429c1a77141366b468bd87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209198423
+        }
+    ],
+    "wof:id":1209198423,
+    "wof:lastmodified":1536294694,
+    "wof:name":"Iril",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.30113,
+    30.62142,
+    -9.30113,
+    30.62142
+],
+  "geometry": {"coordinates":[-9.30113,30.62142],"type":"Point"}
+}

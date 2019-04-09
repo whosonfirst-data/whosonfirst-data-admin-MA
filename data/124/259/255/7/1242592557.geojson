@@ -1,0 +1,74 @@
+{
+  "id": 1242592557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.40646,34.82612,-3.40646,34.82612",
+    "geom:latitude":34.82612,
+    "geom:longitude":-3.40646,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Et Tleta Bou Beker",
+    "gn:country_code":"MA",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549163,
+    "gn:latitude":34.82612,
+    "gn:longitude":-3.40646,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Et Tleta Bou Beker",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soko Tzelatza de Bu Beker",
+        "Zoco et Telata Ulad Bubquer",
+        "Telata bu Beker",
+        "Zoco Tzelatza Bu-Beker",
+        "Et Tleta Bou Beker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549163
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ddf72c2b99b56cd201e839155648dd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1242592557,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1242592557,
+    "wof:lastmodified":1537663825,
+    "wof:name":"Et Tleta Bou Beker",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.40646,
+    34.82612,
+    -3.40646,
+    34.82612
+],
+  "geometry": {"coordinates":[-3.40646,34.82612],"type":"Point"}
+}

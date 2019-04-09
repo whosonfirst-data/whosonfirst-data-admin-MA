@@ -1,0 +1,72 @@
+{
+  "id": 1343951357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.63721,31.86535,-6.63721,31.86535",
+    "geom:latitude":31.86535,
+    "geom:longitude":-6.63721,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ouchkoul",
+    "gn:country_code":"MA",
+    "gn:dem":1355,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540465,
+    "gn:latitude":31.86535,
+    "gn:longitude":-6.63721,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ouchkoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oukechoud",
+        "Ouchkoul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540465
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"efa019a741ca7ea5527c52e139ce6243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343951357,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343951357,
+    "wof:lastmodified":1537663623,
+    "wof:name":"Ouchkoul",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.63721,
+    31.86535,
+    -6.63721,
+    31.86535
+],
+  "geometry": {"coordinates":[-6.63721,31.86535],"type":"Point"}
+}

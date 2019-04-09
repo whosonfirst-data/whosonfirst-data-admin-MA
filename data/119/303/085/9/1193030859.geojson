@@ -1,0 +1,71 @@
+{
+  "id": 1193030859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.96482,34.96087,-3.96482,34.96087",
+    "geom:latitude":34.96087,
+    "geom:longitude":-3.96482,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ait Messaoud",
+    "gn:country_code":"MA",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559539,
+    "gn:latitude":34.96087,
+    "gn:longitude":-3.96482,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Messaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ali Moussa",
+        "A\u00eft Messaoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559539
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"256acbe8309fca73f149c08f245c5eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1193030859,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1193030859,
+    "wof:lastmodified":1537664170,
+    "wof:name":"Ait Messaoud",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.96482,
+    34.96087,
+    -3.96482,
+    34.96087
+],
+  "geometry": {"coordinates":[-3.96482,34.96087],"type":"Point"}
+}

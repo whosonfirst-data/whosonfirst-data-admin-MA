@@ -1,0 +1,66 @@
+{
+  "id": 1209121061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5507,32.30886,-4.5507,32.30886",
+    "geom:latitude":32.30886,
+    "geom:longitude":-4.5507,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Igourramane",
+    "gn:country_code":"MA",
+    "gn:dem":1370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546699,
+    "gn:latitude":32.30886,
+    "gn:longitude":-4.5507,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Igourramane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igourane",
+        "Igourramene",
+        "Igourramane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546699
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e2ed3d3ff19e1db6f71ff7c17423a9d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209121061
+        }
+    ],
+    "wof:id":1209121061,
+    "wof:lastmodified":1537663765,
+    "wof:name":"Igourramane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5507,
+    32.30886,
+    -4.5507,
+    32.30886
+],
+  "geometry": {"coordinates":[-4.5507,32.30886],"type":"Point"}
+}

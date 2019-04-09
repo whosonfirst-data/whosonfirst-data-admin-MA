@@ -1,0 +1,75 @@
+{
+  "id": 890440883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.76994,32.74553,-7.76994,32.74553",
+    "geom:latitude":32.74553,
+    "geom:longitude":-7.76994,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":10414,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0627\u0644\u0639\u0627\u064a\u062f\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Mohammed  Ben R"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Mohammed  Ben R (CR)",
+        "Sidi Mohammed  Ben R (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Mohammed  Ben R",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545469,
+        "qs:id":628617
+    },
+    "wof:country":"MA",
+    "wof:created":1469052300,
+    "wof:geomhash":"f049ac382351f0bec3cd7e6900ba39b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":890440883,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890440883,
+    "wof:lastmodified":1505343579,
+    "wof:name":"Sidi Mohammed  Ben R",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":10414,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76994,
+    32.74553,
+    -7.76994,
+    32.74553
+],
+  "geometry": {"coordinates":[-7.76994,32.74553],"type":"Point"}
+}

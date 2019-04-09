@@ -1,0 +1,68 @@
+{
+  "id": 1243261699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.65855,31.99503,-6.65855,31.99503",
+    "geom:latitude":31.99503,
+    "geom:longitude":-6.65855,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ikensal",
+    "gn:country_code":"MA",
+    "gn:dem":1143,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546496,
+    "gn:latitude":31.99503,
+    "gn:longitude":-6.65855,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ikensal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546496
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7e06e5ccba7c452132635505ca6167cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1243261699,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1243261699,
+    "wof:lastmodified":1537068882,
+    "wof:name":"Ikensal",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.65855,
+    31.99503,
+    -6.65855,
+    31.99503
+],
+  "geometry": {"coordinates":[-6.65855,31.99503],"type":"Point"}
+}

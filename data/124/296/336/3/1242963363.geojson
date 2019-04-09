@@ -1,0 +1,67 @@
+{
+  "id": 1242963363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.13542,31.12403,-7.13542,31.12403",
+    "geom:latitude":31.12403,
+    "geom:longitude":-7.13542,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ifaryadne",
+    "gn:country_code":"MA",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950866,
+    "gn:latitude":31.12403,
+    "gn:longitude":-7.13542,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ifaryadne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950866
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"940c388a58e1d058c91bf1ba7c33cd6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1242963363,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242963363,
+    "wof:lastmodified":1537004311,
+    "wof:name":"Ifaryadne",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.13542,
+    31.12403,
+    -7.13542,
+    31.12403
+],
+  "geometry": {"coordinates":[-7.13542,31.12403],"type":"Point"}
+}

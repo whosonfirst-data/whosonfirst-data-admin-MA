@@ -1,0 +1,64 @@
+{
+  "id": 1209229545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01587,35.48103,-6.01587,35.48103",
+    "geom:latitude":35.48103,
+    "geom:longitude":-6.01587,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ghaliyine",
+    "gn:country_code":"MA",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551008,
+    "gn:latitude":35.48103,
+    "gn:longitude":-6.01587,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ghaliyine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Draliyne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551008
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8d4f7ee91b2da4294185d9f9cb27ead8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229545
+        }
+    ],
+    "wof:id":1209229545,
+    "wof:lastmodified":1537663909,
+    "wof:name":"Ghaliyine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01587,
+    35.48103,
+    -6.01587,
+    35.48103
+],
+  "geometry": {"coordinates":[-6.01587,35.48103],"type":"Point"}
+}

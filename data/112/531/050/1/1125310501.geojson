@@ -1,0 +1,88 @@
+{
+  "id": 1125310501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.22715,31.19005,-9.22715,31.19005",
+    "geom:latitude":31.19005,
+    "geom:longitude":-9.22715,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":8226,
+    "gn:population":7541,
+    "iso:country":"MA",
+    "lbl:latitude":31.19005,
+    "lbl:longitude":-9.22715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0639\u0628\u0648\u0637"
+    ],
+    "name:fra_x_preferred":[
+        "Bouabout Amdlane"
+    ],
+    "name:fra_x_variant":[
+        "Bouabout Amdlane (CR)",
+        "Bouabout Amdlane (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545463,
+    "qs_pg:gn_pop":8226,
+    "qs_pg:name":"Bouabout Amdlane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628611,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545463,
+        "qs_pg:id":628611
+    },
+    "wof:country":"MA",
+    "wof:created":1497043950,
+    "wof:geomhash":"ae605d62d69f9fc211834f0b1b5db9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "localadmin_id":1125310501,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125310501,
+    "wof:lastmodified":1509387881,
+    "wof:name":"Bouabout Amdlane",
+    "wof:parent_id":890440847,
+    "wof:placetype":"localadmin",
+    "wof:population":7541,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22715,
+    31.19005,
+    -9.22715,
+    31.19005
+],
+  "geometry": {"coordinates":[-9.22715,31.19005],"type":"Point"}
+}

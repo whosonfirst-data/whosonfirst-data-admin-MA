@@ -1,0 +1,72 @@
+{
+  "id": 1210026695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49413,32.01472,-7.49413,32.01472",
+    "geom:latitude":32.01472,
+    "geom:longitude":-7.49413,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ben Vella",
+    "gn:country_code":"MA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555502,
+    "gn:latitude":32.01472,
+    "gn:longitude":-7.49413,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ben Vella",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar ben Jella",
+        "Banjala",
+        "Ben Vella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555502
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f50c9e13cb70a98c218a8aa64fa00069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1210026695,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1210026695,
+    "wof:lastmodified":1537664065,
+    "wof:name":"Ben Vella",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49413,
+    32.01472,
+    -7.49413,
+    32.01472
+],
+  "geometry": {"coordinates":[-7.49413,32.01472],"type":"Point"}
+}

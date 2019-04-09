@@ -1,0 +1,71 @@
+{
+  "id": 1293802505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.44714,30.25535,-7.44714,30.25535",
+    "geom:latitude":30.25535,
+    "geom:longitude":-7.44714,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taourirt n'Ounissi",
+    "gn:country_code":"MA",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560484,
+    "gn:latitude":30.25535,
+    "gn:longitude":-7.44714,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taourirt n\u2019Ounissi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Anissi Taourirt",
+        "Taourirt n\u2019Ounissi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560484
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5d27f0aab3af01a01875a876221f3c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1293802505,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293802505,
+    "wof:lastmodified":1537664206,
+    "wof:name":"Taourirt n'Ounissi",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.44714,
+    30.25535,
+    -7.44714,
+    30.25535
+],
+  "geometry": {"coordinates":[-7.44714,30.25535],"type":"Point"}
+}

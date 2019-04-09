@@ -1,0 +1,73 @@
+{
+  "id": 1293010865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.44297,33.98503,-3.44297,33.98503",
+    "geom:latitude":33.98503,
+    "geom:longitude":-3.44297,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bou Yakoubet",
+    "gn:country_code":"MA",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553815,
+    "gn:latitude":33.98503,
+    "gn:longitude":-3.44297,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Yakoubet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Yacoubat",
+        "Bou Yaqoubet",
+        "Bou Yakoubat",
+        "Bou Yakoubet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553815
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"397b5e9130e7fa90e6fc425d39fd83d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1293010865,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293010865,
+    "wof:lastmodified":1537664042,
+    "wof:name":"Bou Yakoubet",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.44297,
+    33.98503,
+    -3.44297,
+    33.98503
+],
+  "geometry": {"coordinates":[-3.44297,33.98503],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292926159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2492,31.51234,-8.2492,31.51234",
+    "geom:latitude":31.51234,
+    "geom:longitude":-8.2492,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Touddert",
+    "gn:country_code":"MA",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558906,
+    "gn:latitude":31.51234,
+    "gn:longitude":-8.2492,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"A\u00eft Touddert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00eft Touddert",
+        "A\u00eft Toudart",
+        "A\u00eft Touddert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558906
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b7e17477e21c91eb54a5e4ef27912123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1292926159,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1292926159,
+    "wof:lastmodified":1537664148,
+    "wof:name":"Ait Touddert",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2492,
+    31.51234,
+    -8.2492,
+    31.51234
+],
+  "geometry": {"coordinates":[-8.2492,31.51234],"type":"Point"}
+}

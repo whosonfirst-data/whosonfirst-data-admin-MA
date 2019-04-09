@@ -1,0 +1,61 @@
+{
+  "id": 1209408077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.39852,31.81979,-6.39852,31.81979",
+    "geom:latitude":31.81979,
+    "geom:longitude":-6.39852,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tigounday",
+    "gn:country_code":"MA",
+    "gn:dem":2084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359242,
+    "gn:latitude":31.81979,
+    "gn:longitude":-6.39852,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tigounday",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359242
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e1e8aefa97149365ce6caf0d570c431e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209408077
+        }
+    ],
+    "wof:id":1209408077,
+    "wof:lastmodified":1536287929,
+    "wof:name":"Tigounday",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.39852,
+    31.81979,
+    -6.39852,
+    31.81979
+],
+  "geometry": {"coordinates":[-6.39852,31.81979],"type":"Point"}
+}

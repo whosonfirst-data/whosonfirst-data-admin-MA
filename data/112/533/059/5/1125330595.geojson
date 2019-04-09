@@ -1,0 +1,88 @@
+{
+  "id": 1125330595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.14018,34.50962,-5.14018,34.50962",
+    "geom:latitude":34.50962,
+    "geom:longitude":-5.14018,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":16602,
+    "gn:population":14347,
+    "iso:country":"MA",
+    "lbl:latitude":34.50962,
+    "lbl:longitude":-5.14018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u063a\u0648\u0627\u0632\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Moulay Bouchta"
+    ],
+    "name:fra_x_variant":[
+        "Moulay Bouchta (CR)",
+        "Moulay Bouchta (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546537,
+    "qs_pg:gn_pop":16602,
+    "qs_pg:name":"Moulay Bouchta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629642,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546537,
+        "qs_pg:id":629642
+    },
+    "wof:country":"MA",
+    "wof:created":1497045112,
+    "wof:geomhash":"62a00fafa55323364b4d490bfa9b698c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "localadmin_id":1125330595,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125330595,
+    "wof:lastmodified":1509388369,
+    "wof:name":"Moulay Bouchta",
+    "wof:parent_id":890418103,
+    "wof:placetype":"localadmin",
+    "wof:population":14347,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.14018,
+    34.50962,
+    -5.14018,
+    34.50962
+],
+  "geometry": {"coordinates":[-5.14018,34.50962],"type":"Point"}
+}

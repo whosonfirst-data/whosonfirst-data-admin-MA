@@ -1,0 +1,67 @@
+{
+  "id": 1243075567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.66747,35.11427,-3.66747,35.11427",
+    "geom:latitude":35.11427,
+    "geom:longitude":-3.66747,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Iabbadene",
+    "gn:country_code":"MA",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092348,
+    "gn:latitude":35.11427,
+    "gn:longitude":-3.66747,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Iabbadene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092348
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"065717bf7c97638f87696c1f0d02dfce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1243075567,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243075567,
+    "wof:lastmodified":1536842069,
+    "wof:name":"Douar Iabbadene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.66747,
+    35.11427,
+    -3.66747,
+    35.11427
+],
+  "geometry": {"coordinates":[-3.66747,35.11427],"type":"Point"}
+}

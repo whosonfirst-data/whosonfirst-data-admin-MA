@@ -1,0 +1,67 @@
+{
+  "id": 1209825719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.42606,34.84317,-4.42606,34.84317",
+    "geom:latitude":34.84317,
+    "geom:longitude":-4.42606,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Adouz",
+    "gn:country_code":"MA",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561868,
+    "gn:latitude":34.84317,
+    "gn:longitude":-4.42606,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Adouz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561868
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"72a684c9b5640790b8454867de88f175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1209825719,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1209825719,
+    "wof:lastmodified":1536373910,
+    "wof:name":"Adouz",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.42606,
+    34.84317,
+    -4.42606,
+    34.84317
+],
+  "geometry": {"coordinates":[-4.42606,34.84317],"type":"Point"}
+}

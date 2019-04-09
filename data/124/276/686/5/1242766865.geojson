@@ -1,0 +1,67 @@
+{
+  "id": 1242766865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.56405,30.15363,-9.56405,30.15363",
+    "geom:latitude":30.15363,
+    "geom:longitude":-9.56405,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Bayda",
+    "gn:country_code":"MA",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945271,
+    "gn:latitude":30.15363,
+    "gn:longitude":-9.56405,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Bayda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945271
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e785bfbea8c14ead5f089f4fb6222f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1242766865,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242766865,
+    "wof:lastmodified":1536791437,
+    "wof:name":"Ait Bayda",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.56405,
+    30.15363,
+    -9.56405,
+    30.15363
+],
+  "geometry": {"coordinates":[-9.56405,30.15363],"type":"Point"}
+}

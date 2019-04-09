@@ -1,0 +1,64 @@
+{
+  "id": 1209633717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.72657,33.04005,-5.72657,33.04005",
+    "geom:latitude":33.04005,
+    "geom:longitude":-5.72657,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ziyyar",
+    "gn:country_code":"MA",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2525985,
+    "gn:latitude":33.04005,
+    "gn:longitude":-5.72657,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ziyyar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ziar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2525985
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f581b3af4e2d84715c565a9d17d113ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633717
+        }
+    ],
+    "wof:id":1209633717,
+    "wof:lastmodified":1537663308,
+    "wof:name":"Ziyyar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.72657,
+    33.04005,
+    -5.72657,
+    33.04005
+],
+  "geometry": {"coordinates":[-5.72657,33.04005],"type":"Point"}
+}

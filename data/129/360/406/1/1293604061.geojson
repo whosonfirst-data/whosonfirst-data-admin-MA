@@ -1,0 +1,72 @@
+{
+  "id": 1293604061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.53516,31.97344,-7.53516,31.97344",
+    "geom:latitude":31.97344,
+    "geom:longitude":-7.53516,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Bir Lkouch",
+    "gn:country_code":"MA",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555338,
+    "gn:latitude":31.97344,
+    "gn:longitude":-7.53516,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bir Lkouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir el Kouch",
+        "Bir Kouch",
+        "Douar Bir Lkouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555338
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f7eab2e665d2dfedd64d63f2daa4f6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1293604061,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293604061,
+    "wof:lastmodified":1537664063,
+    "wof:name":"Douar Bir Lkouch",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53516,
+    31.97344,
+    -7.53516,
+    31.97344
+],
+  "geometry": {"coordinates":[-7.53516,31.97344],"type":"Point"}
+}

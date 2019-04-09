@@ -1,0 +1,75 @@
+{
+  "id": 421190139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.537624,31.52742,-5.537624,31.52742",
+    "geom:latitude":31.52742,
+    "geom:longitude":-5.537624,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u062a\u064a\u0646\u063a\u064a\u0631",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0633\u0648\u0633 \u0640 \u0645\u0627\u0633\u0629 \u0640 \u062f\u0631\u0639\u0629",
+    "qs:photos":951,
+    "qs:photos_1k":193,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":951,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118314,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1541877,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1541877,
+        "qs:id":1118314
+    },
+    "wof:country":"MA",
+    "wof:created":1459009648,
+    "wof:geomhash":"8698fe95020ec2c8740d92ddf80c949d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":421190139,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":421190139,
+    "wof:lastmodified":1499519194,
+    "wof:name":"\u062a\u064a\u0646\u063a\u064a\u0631",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.537624,
+    31.52742,
+    -5.537624,
+    31.52742
+],
+  "geometry": {"coordinates":[-5.537624,31.52742],"type":"Point"}
+}

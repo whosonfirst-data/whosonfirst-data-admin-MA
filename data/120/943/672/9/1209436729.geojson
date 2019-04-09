@@ -1,0 +1,61 @@
+{
+  "id": 1209436729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32905,33.51989,-7.32905,33.51989",
+    "geom:latitude":33.51989,
+    "geom:longitude":-7.32905,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Chantouf",
+    "gn:country_code":"MA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10917886,
+    "gn:latitude":33.51989,
+    "gn:longitude":-7.32905,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Chantouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10917886
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"55ce1f3cfa6b948d0f97e443eb6c8b9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209436729
+        }
+    ],
+    "wof:id":1209436729,
+    "wof:lastmodified":1536287082,
+    "wof:name":"Oulad Chantouf",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.32905,
+    33.519890000000004,
+    -7.32905,
+    33.519890000000004
+],
+  "geometry": {"coordinates":[-7.32905,33.51989],"type":"Point"}
+}

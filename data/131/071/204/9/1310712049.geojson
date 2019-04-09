@@ -1,0 +1,72 @@
+{
+  "id": 1310712049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0,33.5,-7.0,33.5",
+    "geom:latitude":33.5,
+    "geom:longitude":-7.0,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Ain el Hamra",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569104,
+    "gn:latitude":33.5,
+    "gn:longitude":-7.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00efn el Hamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn al Hamra",
+        "A\u00efn el Hamra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569104
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"56eff7145fe0f6d6d5cd45368820f7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1310712049,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1310712049,
+    "wof:lastmodified":1537664268,
+    "wof:name":"Ain el Hamra",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0,
+    33.5,
+    -7.0,
+    33.5
+],
+  "geometry": {"coordinates":[-7.0,33.5],"type":"Point"}
+}

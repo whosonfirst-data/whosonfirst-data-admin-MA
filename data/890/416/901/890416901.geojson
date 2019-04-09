@@ -1,0 +1,78 @@
+{
+  "id": 890416901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.53146,32.862,-7.53146,32.862",
+    "geom:latitude":32.862,
+    "geom:longitude":-7.53146,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":6774,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u062f \u0633\u0639\u064a\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Sghir"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Sghir (CR)",
+        "Oulad Sghir (Commune Rurale)"
+    ],
+    "qs:name":"Oulad Sghir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546085,
+        "qs:id":629228,
+        "wd:id":"Q7110427",
+        "wk:page":"Oulad Sghir"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051170,
+    "wof:geomhash":"9311e6fc3b57282bab869aa4a9d2634b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":890416901,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890416901,
+    "wof:lastmodified":1527792798,
+    "wof:name":"Oulad Sghir",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":6774,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53146,
+    32.862,
+    -7.53146,
+    32.862
+],
+  "geometry": {"coordinates":[-7.53146,32.862],"type":"Point"}
+}

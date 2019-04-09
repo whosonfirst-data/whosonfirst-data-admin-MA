@@ -1,0 +1,66 @@
+{
+  "id": 1209613057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.74354,31.92261,-6.74354,31.92261",
+    "geom:latitude":31.92261,
+    "geom:longitude":-6.74354,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait 'Ali",
+    "gn:country_code":"MA",
+    "gn:dem":1132,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560352,
+    "gn:latitude":31.92261,
+    "gn:longitude":-6.74354,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"A\u00eft \u2019Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft \u2019Ali",
+        "A\u00eft Benichou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560352
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cfeea656eac7ef54bd1cab8d2f206120",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209613057
+        }
+    ],
+    "wof:id":1209613057,
+    "wof:lastmodified":1537664201,
+    "wof:name":"Ait 'Ali",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.74354,
+    31.92261,
+    -6.74354,
+    31.92261
+],
+  "geometry": {"coordinates":[-6.74354,31.92261],"type":"Point"}
+}

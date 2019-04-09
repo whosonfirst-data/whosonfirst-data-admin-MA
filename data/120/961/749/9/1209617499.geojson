@@ -1,0 +1,61 @@
+{
+  "id": 1209617499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.67088,35.04747,-3.67088,35.04747",
+    "geom:latitude":35.04747,
+    "geom:longitude":-3.67088,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Bni Bouykbach",
+    "gn:country_code":"MA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092308,
+    "gn:latitude":35.04747,
+    "gn:longitude":-3.67088,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bni Bouykbach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092308
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"57492fcb2c6073842e64bdec9e0cb61b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209617499
+        }
+    ],
+    "wof:id":1209617499,
+    "wof:lastmodified":1536281637,
+    "wof:name":"Douar Bni Bouykbach",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.67088,
+    35.047470000000004,
+    -3.67088,
+    35.047470000000004
+],
+  "geometry": {"coordinates":[-3.67088,35.04747],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310511761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.42643,34.93187,-4.42643,34.93187",
+    "geom:latitude":34.93187,
+    "geom:longitude":-4.42643,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Imaziouene",
+    "gn:country_code":"MA",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546333,
+    "gn:latitude":34.93187,
+    "gn:longitude":-4.42643,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imaziouene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546333
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"787f978b2776914af6636c3802c9006e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1310511761,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310511761,
+    "wof:lastmodified":1536908070,
+    "wof:name":"Imaziouene",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.42643,
+    34.93187,
+    -4.42643,
+    34.93187
+],
+  "geometry": {"coordinates":[-4.42643,34.93187],"type":"Point"}
+}

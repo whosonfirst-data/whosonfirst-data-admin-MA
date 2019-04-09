@@ -1,0 +1,64 @@
+{
+  "id": 1209525667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62243,32.17159,-7.62243,32.17159",
+    "geom:latitude":32.17159,
+    "geom:longitude":-7.62243,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Ahmed Ben El Haj",
+    "gn:country_code":"MA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556030,
+    "gn:latitude":32.17159,
+    "gn:longitude":-7.62243,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Ahmed Ben El Haj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben el Maati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556030
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1c3d097198a23d23a7caa480a3b6c166",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525667
+        }
+    ],
+    "wof:id":1209525667,
+    "wof:lastmodified":1537664077,
+    "wof:name":"Douar Oulad Ahmed Ben El Haj",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62243,
+    32.17159,
+    -7.62243,
+    32.17159
+],
+  "geometry": {"coordinates":[-7.62243,32.17159],"type":"Point"}
+}

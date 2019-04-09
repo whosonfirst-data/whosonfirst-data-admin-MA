@@ -1,0 +1,73 @@
+{
+  "id": 1243082631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.51557,34.76545,-5.51557,34.76545",
+    "geom:latitude":34.76545,
+    "geom:longitude":-5.51557,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mnasra",
+    "gn:country_code":"MA",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542602,
+    "gn:latitude":34.76545,
+    "gn:longitude":-5.51557,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mnasra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Menasra",
+        "Menacra",
+        "Menasra",
+        "Mnasra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542602
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0c2ac2e1623c0b533090cfc92aeb44f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1243082631,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243082631,
+    "wof:lastmodified":1537663657,
+    "wof:name":"Mnasra",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.51557,
+    34.76545,
+    -5.51557,
+    34.76545
+],
+  "geometry": {"coordinates":[-5.51557,34.76545],"type":"Point"}
+}

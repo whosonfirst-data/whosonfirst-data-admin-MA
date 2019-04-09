@@ -1,0 +1,67 @@
+{
+  "id": 1226457435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.86972,33.68525,-4.86972,33.68525",
+    "geom:latitude":33.68525,
+    "geom:longitude":-4.86972,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jiber",
+    "gn:country_code":"MA",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545003,
+    "gn:latitude":33.68525,
+    "gn:longitude":-4.86972,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jiber",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545003
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"355f3a14832b4b5eaa8f404414b1ba85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1226457435,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1226457435,
+    "wof:lastmodified":1536626746,
+    "wof:name":"Jiber",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.86972,
+    33.68525,
+    -4.86972,
+    33.68525
+],
+  "geometry": {"coordinates":[-4.86972,33.68525],"type":"Point"}
+}

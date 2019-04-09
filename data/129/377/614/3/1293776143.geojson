@@ -1,0 +1,67 @@
+{
+  "id": 1293776143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58969,32.83398,-8.58969,32.83398",
+    "geom:latitude":32.83398,
+    "geom:longitude":-8.58969,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Khaybat",
+    "gn:country_code":"MA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367279,
+    "gn:latitude":32.83398,
+    "gn:longitude":-8.58969,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Khaybat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367279
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b76f8f40c6230d1d678a1e9ccecde877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1293776143,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293776143,
+    "wof:lastmodified":1536866766,
+    "wof:name":"Douar Khaybat",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58969,
+    32.83398,
+    -8.58969,
+    32.83398
+],
+  "geometry": {"coordinates":[-8.58969,32.83398],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259894801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.99274,35.31108,-4.99274,35.31108",
+    "geom:latitude":35.31108,
+    "geom:longitude":-4.99274,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Bella",
+    "gn:country_code":"MA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554358,
+    "gn:latitude":35.31108,
+    "gn:longitude":-4.99274,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bella",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boula",
+        "Boulla",
+        "Douar Bella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554358
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"58587d69d2aeae88ecb74d9ebd3ec966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1259894801,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259894801,
+    "wof:lastmodified":1537664049,
+    "wof:name":"Douar Bella",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.99274,
+    35.31108,
+    -4.99274,
+    35.31108
+],
+  "geometry": {"coordinates":[-4.99274,35.31108],"type":"Point"}
+}

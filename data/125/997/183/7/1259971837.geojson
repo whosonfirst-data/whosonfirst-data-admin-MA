@@ -1,0 +1,67 @@
+{
+  "id": 1259971837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48635,32.74312,-8.48635,32.74312",
+    "geom:latitude":32.74312,
+    "geom:longitude":-8.48635,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Laghrayes",
+    "gn:country_code":"MA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795596,
+    "gn:latitude":32.74312,
+    "gn:longitude":-8.48635,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laghrayes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795596
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5ff65b8f7d4395bc1e1fb8e809624e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1259971837,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259971837,
+    "wof:lastmodified":1536651780,
+    "wof:name":"Douar Laghrayes",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48635,
+    32.74312,
+    -8.48635,
+    32.74312
+],
+  "geometry": {"coordinates":[-8.48635,32.74312],"type":"Point"}
+}

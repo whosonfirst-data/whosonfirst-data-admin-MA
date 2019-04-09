@@ -1,0 +1,61 @@
+{
+  "id": 1209609815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71315,32.97402,-8.71315,32.97402",
+    "geom:latitude":32.97402,
+    "geom:longitude":-8.71315,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Oulad Sidi 'Abbou",
+    "gn:country_code":"MA",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367130,
+    "gn:latitude":32.97402,
+    "gn:longitude":-8.71315,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Sidi \u2019Abbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367130
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"599d4f2b7aa135ab2489348eb1a73cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209609815
+        }
+    ],
+    "wof:id":1209609815,
+    "wof:lastmodified":1536281885,
+    "wof:name":"Douar Oulad Sidi 'Abbou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71315,
+    32.97402,
+    -8.71315,
+    32.97402
+],
+  "geometry": {"coordinates":[-8.71315,32.97402],"type":"Point"}
+}

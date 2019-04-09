@@ -1,0 +1,70 @@
+{
+  "id": 1343876857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53547,29.90067,-8.53547,29.90067",
+    "geom:latitude":29.90067,
+    "geom:longitude":-8.53547,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Amallou",
+    "gn:country_code":"MA",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558338,
+    "gn:latitude":29.90067,
+    "gn:longitude":-8.53547,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Amallou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amalou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558338
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2e3ecc9768046f27fb5e21fe9d66f1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1343876857,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1343876857,
+    "wof:lastmodified":1537664134,
+    "wof:name":"Amallou",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53547,
+    29.90067,
+    -8.53547,
+    29.90067
+],
+  "geometry": {"coordinates":[-8.53547,29.90067],"type":"Point"}
+}

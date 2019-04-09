@@ -1,0 +1,72 @@
+{
+  "id": 1259397509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.53936,30.85246,-7.53936,30.85246",
+    "geom:latitude":30.85246,
+    "geom:longitude":-7.53936,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Nabdas",
+    "gn:country_code":"MA",
+    "gn:dem":1817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559432,
+    "gn:latitude":30.85246,
+    "gn:longitude":-7.53936,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Nabdas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt neb das",
+        "A\u00eft Nebdas",
+        "A\u00eft Nabdas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559432
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5841009eca1257323f203d856bd9c68a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1259397509,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259397509,
+    "wof:lastmodified":1537664167,
+    "wof:name":"Ait Nabdas",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53936,
+    30.85246,
+    -7.53936,
+    30.85246
+],
+  "geometry": {"coordinates":[-7.53936,30.85246],"type":"Point"}
+}

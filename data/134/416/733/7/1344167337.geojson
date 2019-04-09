@@ -1,0 +1,72 @@
+{
+  "id": 1344167337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.30699,31.7551,-5.30699,31.7551",
+    "geom:latitude":31.7551,
+    "geom:longitude":-5.30699,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tahoudat",
+    "gn:country_code":"MA",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530206,
+    "gn:latitude":31.7551,
+    "gn:longitude":-5.30699,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tahoudat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar taouda\u00e2t",
+        "Taoudat",
+        "Tahoudat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530206
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"401f4ab9113fc14f15a03ec82226859a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1344167337,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1344167337,
+    "wof:lastmodified":1537663431,
+    "wof:name":"Tahoudat",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.30699,
+    31.7551,
+    -5.30699,
+    31.7551
+],
+  "geometry": {"coordinates":[-5.30699,31.7551],"type":"Point"}
+}

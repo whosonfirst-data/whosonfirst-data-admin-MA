@@ -1,0 +1,67 @@
+{
+  "id": 1310113729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.21705,35.14799,-3.21705,35.14799",
+    "geom:latitude":35.14799,
+    "geom:longitude":-3.21705,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Legdira",
+    "gn:country_code":"MA",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10845172,
+    "gn:latitude":35.14799,
+    "gn:longitude":-3.21705,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Legdira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10845172
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b3a1984fcb8004bb840a0b3c88e361c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1310113729,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1310113729,
+    "wof:lastmodified":1536983771,
+    "wof:name":"Legdira",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.21705,
+    35.14799,
+    -3.21705,
+    35.14799
+],
+  "geometry": {"coordinates":[-3.21705,35.14799],"type":"Point"}
+}

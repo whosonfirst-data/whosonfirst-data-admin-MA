@@ -1,0 +1,67 @@
+{
+  "id": 1310020865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.53251,30.89948,-9.53251,30.89948",
+    "geom:latitude":30.89948,
+    "geom:longitude":-9.53251,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Dounj",
+    "gn:country_code":"MA",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560102,
+    "gn:latitude":30.89948,
+    "gn:longitude":-9.53251,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Dounj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560102
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d0bfbd6c2989a71dede1be92a76dbc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1310020865,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310020865,
+    "wof:lastmodified":1536618948,
+    "wof:name":"Ait Dounj",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.53251,
+    30.89948,
+    -9.53251,
+    30.89948
+],
+  "geometry": {"coordinates":[-9.53251,30.89948],"type":"Point"}
+}

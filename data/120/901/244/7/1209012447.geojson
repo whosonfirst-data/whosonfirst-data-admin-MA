@@ -1,0 +1,61 @@
+{
+  "id": 1209012447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.93694,34.7323,-1.93694,34.7323",
+    "geom:latitude":34.7323,
+    "geom:longitude":-1.93694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Oulad Litim",
+    "gn:country_code":"MA",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10957285,
+    "gn:latitude":34.7323,
+    "gn:longitude":-1.93694,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Litim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10957285
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"de4d41a79a9fd10f9fd27dfabfd47a16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209012447
+        }
+    ],
+    "wof:id":1209012447,
+    "wof:lastmodified":1536300402,
+    "wof:name":"Douar Oulad Litim",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.93694,
+    34.7323,
+    -1.93694,
+    34.7323
+],
+  "geometry": {"coordinates":[-1.93694,34.7323],"type":"Point"}
+}

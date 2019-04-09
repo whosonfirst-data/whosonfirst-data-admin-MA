@@ -1,0 +1,74 @@
+{
+  "id": 1360069385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91262,30.52917,-7.91262,30.52917",
+    "geom:latitude":30.52917,
+    "geom:longitude":-7.91262,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"541.0",
+    "gn:admin3_code":"454101111.0",
+    "gn:asciiname":"Taliouine",
+    "gn:country_code":"MA",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2531014,
+    "gn:latitude":30.52917,
+    "gn:longitude":-7.91262,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Taliouine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talioune",
+        "Taliouine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531014,
+        "wk:page":"Taliouine"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"37812a9aa037e25f44fff14a3a6e8248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1360069385,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360069385,
+    "wof:lastmodified":1537663453,
+    "wof:name":"Taliouine",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91262,
+    30.52917,
+    -7.91262,
+    30.52917
+],
+  "geometry": {"coordinates":[-7.91262,30.52917],"type":"Point"}
+}

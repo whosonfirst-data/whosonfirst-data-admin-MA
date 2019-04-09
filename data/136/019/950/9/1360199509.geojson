@@ -1,0 +1,70 @@
+{
+  "id": 1360199509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.6677,35.71397,-5.6677,35.71397",
+    "geom:latitude":35.71397,
+    "geom:longitude":-5.6677,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tafoughalet",
+    "gn:country_code":"MA",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526560,
+    "gn:latitude":35.71397,
+    "gn:longitude":-5.6677,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tafoughalet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tzafougaltz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526560
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"085df4f99587d7947d207b5b49032a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1360199509,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1360199509,
+    "wof:lastmodified":1537663331,
+    "wof:name":"Tafoughalet",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6677,
+    35.71397,
+    -5.6677,
+    35.71397
+],
+  "geometry": {"coordinates":[-5.6677,35.71397],"type":"Point"}
+}

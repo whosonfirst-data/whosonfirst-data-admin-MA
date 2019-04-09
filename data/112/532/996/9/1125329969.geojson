@@ -1,0 +1,86 @@
+{
+  "id": 1125329969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.06349,27.18064,-13.06349,27.18064",
+    "geom:latitude":27.18064,
+    "geom:longitude":-13.06349,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":179542,
+    "gn:population":179542,
+    "iso:country":"MA",
+    "lbl:latitude":27.18064,
+    "lbl:longitude":-13.06349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0633\u0649 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Laayoune"
+    ],
+    "name:fra_x_variant":[
+        "Laayoune (MU)",
+        "Laayoune (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545631,
+    "qs_pg:gn_pop":179542,
+    "qs_pg:name":"Laayoune",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":628772,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545631,
+        "qs_pg:id":628772
+    },
+    "wof:country":"MA",
+    "wof:created":1497045078,
+    "wof:geomhash":"76d1662ebb89a6988e8abdeea7f679c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "localadmin_id":1125329969,
+            "region_id":85673941
+        }
+    ],
+    "wof:id":1125329969,
+    "wof:lastmodified":1509388348,
+    "wof:name":"Laayoune",
+    "wof:parent_id":85673941,
+    "wof:placetype":"localadmin",
+    "wof:population":179542,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.06349,
+    27.18064,
+    -13.06349,
+    27.18064
+],
+  "geometry": {"coordinates":[-13.06349,27.18064],"type":"Point"}
+}

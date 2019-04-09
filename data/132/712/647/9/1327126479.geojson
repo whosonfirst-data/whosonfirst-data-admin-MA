@@ -1,0 +1,74 @@
+{
+  "id": 1327126479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60258,33.05631,-8.60258,33.05631",
+    "geom:latitude":33.05631,
+    "geom:longitude":-8.60258,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Chorfa Mehajba",
+    "gn:country_code":"MA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551942,
+    "gn:latitude":33.05631,
+    "gn:longitude":-8.60258,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Douar Chorfa Mehajba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chorfa",
+        "Douar Chorfa",
+        "Chorfa Ahl El A\u00efn",
+        "Douar Charfa",
+        "Douar Chorfa Mehajba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551942
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0e86d77a9f1d21840d0b8afba1aaed7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1327126479,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1327126479,
+    "wof:lastmodified":1537663977,
+    "wof:name":"Douar Chorfa Mehajba",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60258,
+    33.05631,
+    -8.60258,
+    33.05631
+],
+  "geometry": {"coordinates":[-8.60258,33.05631],"type":"Point"}
+}

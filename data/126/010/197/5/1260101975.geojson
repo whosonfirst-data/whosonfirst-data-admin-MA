@@ -1,0 +1,67 @@
+{
+  "id": 1260101975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52063,32.90008,-8.52063,32.90008",
+    "geom:latitude":32.90008,
+    "geom:longitude":-8.52063,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar Guebbas",
+    "gn:country_code":"MA",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367419,
+    "gn:latitude":32.90008,
+    "gn:longitude":-8.52063,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Guebbas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367419
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5e3d0d3130967671fde9962ff79992d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1260101975,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1260101975,
+    "wof:lastmodified":1536961399,
+    "wof:name":"Dar Guebbas",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52063,
+    32.90008,
+    -8.52063,
+    32.90008
+],
+  "geometry": {"coordinates":[-8.52063,32.90008],"type":"Point"}
+}

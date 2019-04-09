@@ -1,0 +1,67 @@
+{
+  "id": 1225929697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78061,31.72348,-7.78061,31.72348",
+    "geom:latitude":31.72348,
+    "geom:longitude":-7.78061,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Azib Amar",
+    "gn:country_code":"MA",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10428200,
+    "gn:latitude":31.72348,
+    "gn:longitude":-7.78061,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Azib Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10428200
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0c63ba5a573e07c788d29c9baaeaae9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1225929697,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1225929697,
+    "wof:lastmodified":1536892311,
+    "wof:name":"Douar Azib Amar",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78061,
+    31.72348,
+    -7.78061,
+    31.72348
+],
+  "geometry": {"coordinates":[-7.78061,31.72348],"type":"Point"}
+}

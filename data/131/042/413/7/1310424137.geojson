@@ -1,0 +1,71 @@
+{
+  "id": 1310424137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.386,31.12982,-7.386,31.12982",
+    "geom:latitude":31.12982,
+    "geom:longitude":-7.386,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Izourhar",
+    "gn:country_code":"MA",
+    "gn:dem":1594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545248,
+    "gn:latitude":31.12982,
+    "gn:longitude":-7.386,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Izourhar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ighern Azougar",
+        "Izourhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545248
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a9ea4c9bd4a94b4bb2985a3f636dd01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1310424137,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310424137,
+    "wof:lastmodified":1537663717,
+    "wof:name":"Izourhar",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.386,
+    31.12982,
+    -7.386,
+    31.12982
+],
+  "geometry": {"coordinates":[-7.386,31.12982],"type":"Point"}
+}

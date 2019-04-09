@@ -1,0 +1,71 @@
+{
+  "id": 1276883547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.86225,32.51214,-7.86225,32.51214",
+    "geom:latitude":32.51214,
+    "geom:longitude":-7.86225,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Semda",
+    "gn:country_code":"MA",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537462,
+    "gn:latitude":32.51214,
+    "gn:longitude":-7.86225,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Semda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Semda",
+        "Semda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537462
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a91ef282b0222da5972921550441bea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1276883547,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276883547,
+    "wof:lastmodified":1537663521,
+    "wof:name":"Semda",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.86225,
+    32.51214,
+    -7.86225,
+    32.51214
+],
+  "geometry": {"coordinates":[-7.86225,32.51214],"type":"Point"}
+}

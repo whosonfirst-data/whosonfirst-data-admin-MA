@@ -1,0 +1,88 @@
+{
+  "id": 1125312881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.90704,33.9278,-6.90704,33.9278",
+    "geom:latitude":33.9278,
+    "geom:longitude":-6.90704,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":225084,
+    "gn:population":225084,
+    "iso:country":"MA",
+    "lbl:latitude":33.9278,
+    "lbl:longitude":-6.90704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0645\u0627\u0637\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Temara"
+    ],
+    "name:fra_x_variant":[
+        "Temara (MU)",
+        "Temara (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545720,
+    "qs_pg:gn_pop":225084,
+    "qs_pg:name":"Temara",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":628862,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545720,
+        "qs_pg:id":628862
+    },
+    "wof:country":"MA",
+    "wof:created":1497044108,
+    "wof:geomhash":"947724c37e65ce16538124c8c3fe85e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "localadmin_id":1125312881,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1125312881,
+    "wof:lastmodified":1509387930,
+    "wof:name":"Temara",
+    "wof:parent_id":890429101,
+    "wof:placetype":"localadmin",
+    "wof:population":225084,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.90704,
+    33.9278,
+    -6.90704,
+    33.9278
+],
+  "geometry": {"coordinates":[-6.90704,33.9278],"type":"Point"}
+}

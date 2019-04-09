@@ -1,0 +1,65 @@
+{
+  "id": 1209625505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.61829,34.70187,-4.61829,34.70187",
+    "geom:latitude":34.70187,
+    "geom:longitude":-4.61829,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taounat el Kchour",
+    "gn:country_code":"MA",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530152,
+    "gn:latitude":34.70187,
+    "gn:longitude":-4.61829,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taounat el Kchour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taounate el Kchour",
+        "Taounat el Kchour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530152
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"786137a875ca8efbb0a5c8d3761b6d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625505
+        }
+    ],
+    "wof:id":1209625505,
+    "wof:lastmodified":1537663429,
+    "wof:name":"Taounat el Kchour",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.61829,
+    34.70187,
+    -4.61829,
+    34.70187
+],
+  "geometry": {"coordinates":[-4.61829,34.70187],"type":"Point"}
+}

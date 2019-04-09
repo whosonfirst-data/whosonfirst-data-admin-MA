@@ -1,0 +1,72 @@
+{
+  "id": 1293303013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05378,34.148,-5.05378,34.148",
+    "geom:latitude":34.148,
+    "geom:longitude":-5.05378,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Echoum",
+    "gn:country_code":"MA",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551448,
+    "gn:latitude":34.148,
+    "gn:longitude":-5.05378,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Echoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Chom El Arbi\u00e2a",
+        "Douar Oulad Choum",
+        "Douar Oulad Echoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551448
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f0b20dbceda9b9bfb6a3fb439ac59a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1293303013,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293303013,
+    "wof:lastmodified":1537663939,
+    "wof:name":"Douar Oulad Echoum",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05378,
+    34.148,
+    -5.05378,
+    34.148
+],
+  "geometry": {"coordinates":[-5.05378,34.148],"type":"Point"}
+}

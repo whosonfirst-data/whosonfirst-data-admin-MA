@@ -1,0 +1,67 @@
+{
+  "id": 1226457399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31647,31.12277,-7.31647,31.12277",
+    "geom:latitude":31.12277,
+    "geom:longitude":-7.31647,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Babrimali",
+    "gn:country_code":"MA",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556387,
+    "gn:latitude":31.12277,
+    "gn:longitude":-7.31647,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Babrimali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556387
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"09a23f9ad30a34335fc817f8e6fb82f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1226457399,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226457399,
+    "wof:lastmodified":1536626804,
+    "wof:name":"Babrimali",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31647,
+    31.12277000000001,
+    -7.31647,
+    31.12277000000001
+],
+  "geometry": {"coordinates":[-7.31647,31.12277000000001],"type":"Point"}
+}

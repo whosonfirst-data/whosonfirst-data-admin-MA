@@ -1,0 +1,72 @@
+{
+  "id": 1226261253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64286,31.0843,-7.64286,31.0843",
+    "geom:latitude":31.0843,
+    "geom:longitude":-7.64286,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tighremt",
+    "gn:country_code":"MA",
+    "gn:dem":2000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527556,
+    "gn:latitude":31.0843,
+    "gn:longitude":-7.64286,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tighremt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tighremt-n-Ouazdidene",
+        "Tirhremt",
+        "Tighremt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527556
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4e2c5356543658d18abc402217931dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1226261253,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226261253,
+    "wof:lastmodified":1537663358,
+    "wof:name":"Tighremt",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64286,
+    31.0843,
+    -7.64286,
+    31.0843
+],
+  "geometry": {"coordinates":[-7.64286,31.0843],"type":"Point"}
+}

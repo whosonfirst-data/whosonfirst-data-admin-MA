@@ -1,0 +1,73 @@
+{
+  "id": 1242575623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.03238,32.56536,-6.03238,32.56536",
+    "geom:latitude":32.56536,
+    "geom:longitude":-6.03238,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Ksiba",
+    "gn:country_code":"MA",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544793,
+    "gn:latitude":32.56536,
+    "gn:longitude":-6.03238,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"El Ksiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Yakoub",
+        "Kasba A\u00eft Youdi",
+        "El Ksiba",
+        "Ksiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544793
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fb725906f5e3d73df54a19a8f52e2066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1242575623,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242575623,
+    "wof:lastmodified":1537663703,
+    "wof:name":"El Ksiba",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.03238,
+    32.56536,
+    -6.03238,
+    32.56536
+],
+  "geometry": {"coordinates":[-6.03238,32.56536],"type":"Point"}
+}

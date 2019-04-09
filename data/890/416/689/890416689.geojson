@@ -1,0 +1,75 @@
+{
+  "id": 890416689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.3223,28.47075,-11.3223,28.47075",
+    "geom:latitude":28.47075,
+    "geom:longitude":-11.3223,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":6294,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u0646\u0637\u0627\u0646  (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Elouatia"
+    ],
+    "name:fra_x_variant":[
+        "Elouatia (MU)",
+        "Elouatia (Commune Urbaine)"
+    ],
+    "qs:name":"Elouatia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890418107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545522,
+        "qs:id":628667
+    },
+    "wof:country":"MA",
+    "wof:created":1469051149,
+    "wof:geomhash":"919d99103b814828ffe8cee3daf42acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418107,
+            "localadmin_id":890416689,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":890416689,
+    "wof:lastmodified":1505343434,
+    "wof:name":"Elouatia",
+    "wof:parent_id":890418107,
+    "wof:placetype":"localadmin",
+    "wof:population":6294,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.3223,
+    28.47075,
+    -11.3223,
+    28.47075
+],
+  "geometry": {"coordinates":[-11.3223,28.47075],"type":"Point"}
+}

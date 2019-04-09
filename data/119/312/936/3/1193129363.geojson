@@ -1,0 +1,73 @@
+{
+  "id": 1193129363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.56082,32.81162,-7.56082,32.81162",
+    "geom:latitude":32.81162,
+    "geom:longitude":-7.56082,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oulad Ami Er-Rerhai",
+    "gn:country_code":"MA",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540255,
+    "gn:latitude":32.81162,
+    "gn:longitude":-7.56082,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Oulad Ami Er-Rerha\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Ould Kaddour el Askri",
+        "Oulad \u00c2mi Ragha\u00ef",
+        "Oulad Ami er Rerha\u00ef",
+        "Oulad Ami Er-Rerha\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540255
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6e2b1b6461ffd951134a81df1bdae122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1193129363,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1193129363,
+    "wof:lastmodified":1537663613,
+    "wof:name":"Oulad Ami Er-Rerhai",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.56082,
+    32.81162,
+    -7.56082,
+    32.81162
+],
+  "geometry": {"coordinates":[-7.56082,32.81162],"type":"Point"}
+}

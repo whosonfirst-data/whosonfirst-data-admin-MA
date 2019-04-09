@@ -1,0 +1,80 @@
+{
+  "id": 890416925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.24358,33.07141,-7.24358,33.07141",
+    "geom:latitude":33.07141,
+    "geom:longitude":-7.24358,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":21360,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0645\u0639\u0627\u062f\u0646\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Ben Ahmed"
+    ],
+    "name:fra_x_variant":[
+        "Ben Ahmed (MU)",
+        "Ben Ahmed (Commune Urbaine)"
+    ],
+    "qs:name":"Ben Ahmed",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:latitude":"33.11194444",
+    "wd:longitude":"-7.40583333",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546108,
+        "qs:id":629249,
+        "wd:id":"Q2294808",
+        "wk:page":"Ben Ahmed"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051172,
+    "wof:geomhash":"2c0dcfe7848fb810c2119476cf14a887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":890416925,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890416925,
+    "wof:lastmodified":1527792802,
+    "wof:name":"Ben Ahmed",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":21360,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.24358,
+    33.07141,
+    -7.24358,
+    33.07141
+],
+  "geometry": {"coordinates":[-7.24358,33.07141],"type":"Point"}
+}

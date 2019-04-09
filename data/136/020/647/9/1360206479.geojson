@@ -1,0 +1,67 @@
+{
+  "id": 1360206479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.47706,33.07805,-7.47706,33.07805",
+    "geom:latitude":33.07805,
+    "geom:longitude":-7.47706,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Zaghdoud",
+    "gn:country_code":"MA",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10798132,
+    "gn:latitude":33.07805,
+    "gn:longitude":-7.47706,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Zaghdoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10798132
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b54d20058821cece6c16b15b13f6199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "locality_id":1360206479,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1360206479,
+    "wof:lastmodified":1536771133,
+    "wof:name":"Oulad Zaghdoud",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.47706,
+    33.07805,
+    -7.47706,
+    33.07805
+],
+  "geometry": {"coordinates":[-7.47706,33.07805],"type":"Point"}
+}

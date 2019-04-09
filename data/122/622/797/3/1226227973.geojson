@@ -1,0 +1,67 @@
+{
+  "id": 1226227973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4685,31.62138,-9.4685,31.62138",
+    "geom:latitude":31.62138,
+    "geom:longitude":-9.4685,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Abbou",
+    "gn:country_code":"MA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10899973,
+    "gn:latitude":31.62138,
+    "gn:longitude":-9.4685,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Abbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10899973
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"96882c97c572a82e0ba67a3e5cb03994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1226227973,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226227973,
+    "wof:lastmodified":1536959262,
+    "wof:name":"Ait Abbou",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4685,
+    31.62138,
+    -9.4685,
+    31.62138
+],
+  "geometry": {"coordinates":[-9.4685,31.62138],"type":"Point"}
+}

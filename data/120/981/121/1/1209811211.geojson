@@ -1,0 +1,67 @@
+{
+  "id": 1209811211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1659,31.3819,-9.1659,31.3819",
+    "geom:latitude":31.3819,
+    "geom:longitude":-9.1659,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Sidi Hammou",
+    "gn:country_code":"MA",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10924734,
+    "gn:latitude":31.3819,
+    "gn:longitude":-9.1659,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Sidi Hammou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10924734
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"41389e1acadff1a15653f8ab6d84d322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1209811211,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209811211,
+    "wof:lastmodified":1536386353,
+    "wof:name":"Ait Sidi Hammou",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1659,
+    31.3819,
+    -9.1659,
+    31.3819
+],
+  "geometry": {"coordinates":[-9.1659,31.3819],"type":"Point"}
+}

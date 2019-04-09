@@ -1,0 +1,67 @@
+{
+  "id": 1209902039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31911,31.10514,-8.31911,31.10514",
+    "geom:latitude":31.10514,
+    "geom:longitude":-8.31911,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tnirt",
+    "gn:country_code":"MA",
+    "gn:dem":1692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149398,
+    "gn:latitude":31.10514,
+    "gn:longitude":-8.31911,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tnirt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149398
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3ced27f9e16e119b80819d5c3371676c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1209902039,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209902039,
+    "wof:lastmodified":1536385996,
+    "wof:name":"Tnirt",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31911,
+    31.10514,
+    -8.31911,
+    31.10514
+],
+  "geometry": {"coordinates":[-8.31911,31.10514],"type":"Point"}
+}

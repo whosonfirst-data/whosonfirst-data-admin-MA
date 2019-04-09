@@ -1,0 +1,88 @@
+{
+  "id": 1125365519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.12031,29.40816,-9.12031,29.40816",
+    "geom:latitude":29.40816,
+    "geom:longitude":-9.12031,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":5428,
+    "gn:population":5428,
+    "iso:country":"MA",
+    "lbl:latitude":29.40816,
+    "lbl:longitude":-9.12031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0641\u0644\u0627  \u0627\u063a\u064a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Ouafqa"
+    ],
+    "name:fra_x_variant":[
+        "Ait Ouafqa (CR)",
+        "Ait Ouafqa (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546510,
+    "qs_pg:gn_pop":5428,
+    "qs_pg:name":"Ait Ouafqa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629616,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546510,
+        "qs_pg:id":629616
+    },
+    "wof:country":"MA",
+    "wof:created":1497047057,
+    "wof:geomhash":"e82b3d72f3863dab1dd6f42ef56826e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "localadmin_id":1125365519,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1125365519,
+    "wof:lastmodified":1509389193,
+    "wof:name":"Ait Ouafqa",
+    "wof:parent_id":890453851,
+    "wof:placetype":"localadmin",
+    "wof:population":5428,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12031,
+    29.40816,
+    -9.12031,
+    29.40816
+],
+  "geometry": {"coordinates":[-9.12031,29.40816],"type":"Point"}
+}

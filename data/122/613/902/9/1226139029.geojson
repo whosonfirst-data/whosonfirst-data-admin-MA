@@ -1,0 +1,67 @@
+{
+  "id": 1226139029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.22699,31.77058,-4.22699,31.77058",
+    "geom:latitude":31.77058,
+    "geom:longitude":-4.22699,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Qacba",
+    "gn:country_code":"MA",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11366164,
+    "gn:latitude":31.77058,
+    "gn:longitude":-4.22699,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Qacba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11366164
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aae09d055aa103d5cfea1a2011a27c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1226139029,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226139029,
+    "wof:lastmodified":1537084245,
+    "wof:name":"Qacba",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.22699,
+    31.77058,
+    -4.22699,
+    31.77058
+],
+  "geometry": {"coordinates":[-4.22699,31.77058],"type":"Point"}
+}

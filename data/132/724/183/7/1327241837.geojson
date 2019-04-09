@@ -1,0 +1,73 @@
+{
+  "id": 1327241837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.92757,35.74665,-5.92757,35.74665",
+    "geom:latitude":35.74665,
+    "geom:longitude":-5.92757,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Jbila",
+    "gn:country_code":"MA",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545170,
+    "gn:latitude":35.74665,
+    "gn:longitude":-5.92757,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Jbila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e9bila",
+        "Jibila",
+        "Jbila",
+        "Douar Jbila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545170
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bf387fa97f8a994be1b39eee2d541edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1327241837,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327241837,
+    "wof:lastmodified":1537663715,
+    "wof:name":"Douar Jbila",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.92757,
+    35.74665,
+    -5.92757,
+    35.74665
+],
+  "geometry": {"coordinates":[-5.92757,35.74665],"type":"Point"}
+}

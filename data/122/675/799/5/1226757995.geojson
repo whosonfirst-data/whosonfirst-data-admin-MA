@@ -1,0 +1,71 @@
+{
+  "id": 1226757995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.37072,32.53678,-4.37072,32.53678",
+    "geom:latitude":32.53678,
+    "geom:longitude":-4.37072,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Abbart",
+    "gn:country_code":"MA",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562189,
+    "gn:latitude":32.53678,
+    "gn:longitude":-4.37072,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Abbart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abbari",
+        "Abbart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562189
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d97763af2615eed72e84b792c9948c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1226757995,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226757995,
+    "wof:lastmodified":1537664255,
+    "wof:name":"Abbart",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.37072,
+    32.53678,
+    -4.37072,
+    32.53678
+],
+  "geometry": {"coordinates":[-4.37072,32.53678],"type":"Point"}
+}

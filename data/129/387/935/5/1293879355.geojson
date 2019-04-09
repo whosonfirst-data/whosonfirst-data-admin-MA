@@ -1,0 +1,67 @@
+{
+  "id": 1293879355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49132,31.36924,-7.49132,31.36924",
+    "geom:latitude":31.36924,
+    "geom:longitude":-7.49132,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Izarwal",
+    "gn:country_code":"MA",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353917,
+    "gn:latitude":31.36924,
+    "gn:longitude":-7.49132,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Izarwal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353917
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f79eaac66838683976bee56f11f77dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1293879355,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293879355,
+    "wof:lastmodified":1536719702,
+    "wof:name":"Izarwal",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49132,
+    31.36924,
+    -7.49132,
+    31.36924
+],
+  "geometry": {"coordinates":[-7.49132,31.36924],"type":"Point"}
+}

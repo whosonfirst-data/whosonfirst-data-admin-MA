@@ -1,0 +1,67 @@
+{
+  "id": 1309799375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74568,31.57754,-8.74568,31.57754",
+    "geom:latitude":31.57754,
+    "geom:longitude":-8.74568,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar El Haddaji",
+    "gn:country_code":"MA",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10947908,
+    "gn:latitude":31.57754,
+    "gn:longitude":-8.74568,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar El Haddaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10947908
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"18aa26df0e6279aabf95c144a8d6ad6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1309799375,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309799375,
+    "wof:lastmodified":1536940985,
+    "wof:name":"Dar El Haddaji",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74568,
+    31.57754000000001,
+    -8.74568,
+    31.57754000000001
+],
+  "geometry": {"coordinates":[-8.74568,31.57754000000001],"type":"Point"}
+}

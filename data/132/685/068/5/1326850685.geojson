@@ -1,0 +1,67 @@
+{
+  "id": 1326850685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.54368,31.46988,-9.54368,31.46988",
+    "geom:latitude":31.46988,
+    "geom:longitude":-9.54368,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ihaddadene",
+    "gn:country_code":"MA",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946447,
+    "gn:latitude":31.46988,
+    "gn:longitude":-9.54368,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ihaddadene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946447
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"449309bf9987f38f5146d079001e394f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1326850685,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326850685,
+    "wof:lastmodified":1537021279,
+    "wof:name":"Douar Ihaddadene",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.54368,
+    31.46988,
+    -9.54368,
+    31.46988
+],
+  "geometry": {"coordinates":[-9.54368,31.46988],"type":"Point"}
+}

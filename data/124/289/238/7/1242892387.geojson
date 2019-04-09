@@ -1,0 +1,73 @@
+{
+  "id": 1242892387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.85727,35.06702,-4.85727,35.06702",
+    "geom:latitude":35.06702,
+    "geom:longitude":-4.85727,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Tandert",
+    "gn:country_code":"MA",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530751,
+    "gn:latitude":35.06702,
+    "gn:longitude":-4.85727,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tandert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tendret",
+        "Tamderetz",
+        "Tamderets",
+        "Douar Tandert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530751
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"07fad04e42880547c4eb3766c1e923f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1242892387,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242892387,
+    "wof:lastmodified":1537663446,
+    "wof:name":"Douar Tandert",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.85727,
+    35.06702,
+    -4.85727,
+    35.06702
+],
+  "geometry": {"coordinates":[-4.85727,35.06702],"type":"Point"}
+}

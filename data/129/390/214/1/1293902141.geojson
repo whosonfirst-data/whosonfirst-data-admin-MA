@@ -1,0 +1,67 @@
+{
+  "id": 1293902141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.52202,33.2479,-7.52202,33.2479",
+    "geom:latitude":33.2479,
+    "geom:longitude":-7.52202,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dar Ahmed Ben Hammadi",
+    "gn:country_code":"MA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553036,
+    "gn:latitude":33.2479,
+    "gn:longitude":-7.52202,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Dar Ahmed Ben Hammadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553036
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ed9f046aee1657ea0638ac47479470fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "locality_id":1293902141,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293902141,
+    "wof:lastmodified":1536686486,
+    "wof:name":"Dar Ahmed Ben Hammadi",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52202,
+    33.2479,
+    -7.52202,
+    33.2479
+],
+  "geometry": {"coordinates":[-7.52202,33.2479],"type":"Point"}
+}

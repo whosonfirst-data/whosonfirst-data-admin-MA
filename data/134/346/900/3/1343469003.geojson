@@ -1,0 +1,72 @@
+{
+  "id": 1343469003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5728,34.62525,-5.5728,34.62525",
+    "geom:latitude":34.62525,
+    "geom:longitude":-5.5728,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aouifat",
+    "gn:country_code":"MA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557582,
+    "gn:latitude":34.62525,
+    "gn:longitude":-5.5728,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aouifat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00e2ouifate",
+        "Aouifate",
+        "Aouifat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557582
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aa2f6bad0084d75be5c632f02a2b5280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1343469003,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1343469003,
+    "wof:lastmodified":1537664113,
+    "wof:name":"Aouifat",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5728,
+    34.62525,
+    -5.5728,
+    34.62525
+],
+  "geometry": {"coordinates":[-5.5728,34.62525],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209019369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.6487,34.36654,-2.6487,34.36654",
+    "geom:latitude":34.36654,
+    "geom:longitude":-2.6487,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dar Hamada",
+    "gn:country_code":"MA",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552709,
+    "gn:latitude":34.36654,
+    "gn:longitude":-2.6487,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Hamada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Hoummada",
+        "Dar Hammada",
+        "Dar Homada",
+        "Dar Hamada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552709
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f4809d4250b1f654911a63ce002fb8dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019369
+        }
+    ],
+    "wof:id":1209019369,
+    "wof:lastmodified":1537664011,
+    "wof:name":"Dar Hamada",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.6487,
+    34.36654,
+    -2.6487,
+    34.36654
+],
+  "geometry": {"coordinates":[-2.6487,34.36654],"type":"Point"}
+}

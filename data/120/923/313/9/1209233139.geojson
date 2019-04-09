@@ -1,0 +1,66 @@
+{
+  "id": 1209233139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.25,31.45,-4.25,31.45",
+    "geom:latitude":31.45,
+    "geom:longitude":-4.25,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Oulad Abdenbi",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540399,
+    "gn:latitude":31.45,
+    "gn:longitude":-4.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oulad Abdenbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Abdanebi",
+        "Oulad Abdenbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540399
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5345cc0ed8c93b46852b127f74c2bf38",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209233139
+        }
+    ],
+    "wof:id":1209233139,
+    "wof:lastmodified":1537663620,
+    "wof:name":"Oulad Abdenbi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.25,
+    31.45,
+    -4.25,
+    31.45
+],
+  "geometry": {"coordinates":[-4.25,31.45],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225962691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.21578,32.55756,-5.21578,32.55756",
+    "geom:latitude":32.55756,
+    "geom:longitude":-5.21578,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Boudra' n-Ayt Bou'li",
+    "gn:country_code":"MA",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596421,
+    "gn:latitude":32.55756,
+    "gn:longitude":-5.21578,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Boudra\u2019 n-Ayt Bou\u2019li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boudra\u2019 n-Ayt Bou\u2019li",
+        "Bou Dra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596421
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8fb7e9253dae866c95ab5b9f16e26364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1225962691,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1225962691,
+    "wof:lastmodified":1537664287,
+    "wof:name":"Boudra' n-Ayt Bou'li",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.21578,
+    32.55756,
+    -5.21578,
+    32.55756
+],
+  "geometry": {"coordinates":[-5.21578,32.55756],"type":"Point"}
+}

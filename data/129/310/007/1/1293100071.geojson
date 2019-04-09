@@ -1,0 +1,67 @@
+{
+  "id": 1293100071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.42947,34.42032,-4.42947,34.42032",
+    "geom:latitude":34.42032,
+    "geom:longitude":-4.42947,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ghaylane",
+    "gn:country_code":"MA",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11099948,
+    "gn:latitude":34.42032,
+    "gn:longitude":-4.42947,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ghaylane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11099948
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8cd40fd54d01883b7364241e14c321ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1293100071,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293100071,
+    "wof:lastmodified":1536847495,
+    "wof:name":"Douar Ghaylane",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.42947,
+    34.42032,
+    -4.42947,
+    34.42032
+],
+  "geometry": {"coordinates":[-4.42947,34.42032],"type":"Point"}
+}

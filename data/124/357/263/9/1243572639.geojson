@@ -1,0 +1,72 @@
+{
+  "id": 1243572639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.582,34.20404,-2.582,34.20404",
+    "geom:latitude":34.20404,
+    "geom:longitude":-2.582,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bour Oulad Isghi",
+    "gn:country_code":"MA",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2554081,
+    "gn:latitude":34.20404,
+    "gn:longitude":-2.582,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bour Oulad Isghi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bour Oulad Isrh",
+        "Bour Oulad Isrhi",
+        "Bour Oulad Isghi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554081
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b2d53d2d8bd59747d300841fa95bcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "locality_id":1243572639,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243572639,
+    "wof:lastmodified":1537664045,
+    "wof:name":"Bour Oulad Isghi",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.582,
+    34.20404,
+    -2.582,
+    34.20404
+],
+  "geometry": {"coordinates":[-2.582,34.20404],"type":"Point"}
+}

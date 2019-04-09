@@ -1,0 +1,71 @@
+{
+  "id": 1259601553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6701,32.4382,-4.6701,32.4382",
+    "geom:latitude":32.4382,
+    "geom:longitude":-4.6701,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait 'Azzou",
+    "gn:country_code":"MA",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560420,
+    "gn:latitude":32.4382,
+    "gn:longitude":-4.6701,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"A\u00eft \u2019Azzou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft \u2019Azzou",
+        "A\u00eft Azzou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560420
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b2dfb3caae239f19d3df5ec30511f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1259601553,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259601553,
+    "wof:lastmodified":1537664204,
+    "wof:name":"Ait 'Azzou",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6701,
+    32.4382,
+    -4.6701,
+    32.4382
+],
+  "geometry": {"coordinates":[-4.6701,32.4382],"type":"Point"}
+}

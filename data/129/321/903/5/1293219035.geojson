@@ -1,0 +1,70 @@
+{
+  "id": 1293219035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.13598,34.39986,-4.13598,34.39986",
+    "geom:latitude":34.39986,
+    "geom:longitude":-4.13598,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Bab Rmel",
+    "gn:country_code":"MA",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556389,
+    "gn:latitude":34.39986,
+    "gn:longitude":-4.13598,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bab Rmel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bab Remel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556389
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"14f5756f1f3fdea4fda93ecbbf6496f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1293219035,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293219035,
+    "wof:lastmodified":1537664084,
+    "wof:name":"Douar Bab Rmel",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.13598,
+    34.39986,
+    -4.13598,
+    34.39986
+],
+  "geometry": {"coordinates":[-4.13598,34.39986],"type":"Point"}
+}

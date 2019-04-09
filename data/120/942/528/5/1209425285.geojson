@@ -1,0 +1,61 @@
+{
+  "id": 1209425285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77665,32.84167,-5.77665,32.84167",
+    "geom:latitude":32.84167,
+    "geom:longitude":-5.77665,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Nouh",
+    "gn:country_code":"MA",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596365,
+    "gn:latitude":32.84167,
+    "gn:longitude":-5.77665,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"A\u00eft Nouh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596365
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dd031a3e0b22cad286df0446daa322a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425285
+        }
+    ],
+    "wof:id":1209425285,
+    "wof:lastmodified":1536287400,
+    "wof:name":"Ait Nouh",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77665,
+    32.84167,
+    -5.77665,
+    32.84167
+],
+  "geometry": {"coordinates":[-5.77665,32.84167],"type":"Point"}
+}

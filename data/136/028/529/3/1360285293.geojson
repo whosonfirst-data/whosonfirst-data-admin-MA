@@ -1,0 +1,67 @@
+{
+  "id": 1360285293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.83365,34.89957,-5.83365,34.89957",
+    "geom:latitude":34.89957,
+    "geom:longitude":-5.83365,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Zouitna",
+    "gn:country_code":"MA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10992561,
+    "gn:latitude":34.89957,
+    "gn:longitude":-5.83365,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Zouitna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10992561
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2df33f2ca66e4d6b6e53cd248f85ab37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1360285293,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1360285293,
+    "wof:lastmodified":1536656927,
+    "wof:name":"Douar Zouitna",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.83365,
+    34.89957,
+    -5.83365,
+    34.89957
+],
+  "geometry": {"coordinates":[-5.83365,34.89957],"type":"Point"}
+}

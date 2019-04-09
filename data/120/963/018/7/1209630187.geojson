@@ -1,0 +1,61 @@
+{
+  "id": 1209630187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75909,30.75003,-8.75909,30.75003",
+    "geom:latitude":30.75003,
+    "geom:longitude":-8.75909,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sidi Silmane",
+    "gn:country_code":"MA",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532956,
+    "gn:latitude":30.75003,
+    "gn:longitude":-8.75909,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Silmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532956
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"44b24e48981dfad938b5700aced35950",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209630187
+        }
+    ],
+    "wof:id":1209630187,
+    "wof:lastmodified":1536281214,
+    "wof:name":"Sidi Silmane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.759089999999999,
+    30.75003,
+    -8.759089999999999,
+    30.75003
+],
+  "geometry": {"coordinates":[-8.75909,30.75003],"type":"Point"}
+}

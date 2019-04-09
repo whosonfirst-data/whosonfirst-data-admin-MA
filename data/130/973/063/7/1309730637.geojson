@@ -1,0 +1,70 @@
+{
+  "id": 1309730637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.57735,30.01882,-9.57735,30.01882",
+    "geom:latitude":30.01882,
+    "geom:longitude":-9.57735,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Bella",
+    "gn:country_code":"MA",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560381,
+    "gn:latitude":30.01882,
+    "gn:longitude":-9.57735,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ait Bella",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Bella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560381
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fd7a2e6c3bf908c39601c0da0abc16cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1309730637,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309730637,
+    "wof:lastmodified":1537664202,
+    "wof:name":"Ait Bella",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.57735,
+    30.01882,
+    -9.57735,
+    30.01882
+],
+  "geometry": {"coordinates":[-9.57735,30.01882],"type":"Point"}
+}

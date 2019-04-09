@@ -1,0 +1,67 @@
+{
+  "id": 1327452811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.5472,30.36652,-7.5472,30.36652",
+    "geom:latitude":30.36652,
+    "geom:longitude":-7.5472,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Agdal",
+    "gn:country_code":"MA",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147839,
+    "gn:latitude":30.36652,
+    "gn:longitude":-7.5472,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Agdal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147839
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e7a419ca1b3c41dc7e1219f376217765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1327452811,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327452811,
+    "wof:lastmodified":1536651161,
+    "wof:name":"Agdal",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.5472,
+    30.36652,
+    -7.5472,
+    30.36652
+],
+  "geometry": {"coordinates":[-7.5472,30.36652],"type":"Point"}
+}

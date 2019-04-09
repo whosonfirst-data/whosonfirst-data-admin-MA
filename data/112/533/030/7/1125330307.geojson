@@ -1,0 +1,88 @@
+{
+  "id": 1125330307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33789,29.51352,-9.33789,29.51352",
+    "geom:latitude":29.51352,
+    "geom:longitude":-9.33789,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":8134,
+    "gn:population":8134,
+    "iso:country":"MA",
+    "lbl:latitude":29.51352,
+    "lbl:longitude":-9.33789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0631\u0628\u0639\u0627\u0621 \u0623\u064a\u062a \u0623\u062d\u0645\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Ida Ou Gougmar"
+    ],
+    "name:fra_x_variant":[
+        "Ida Ou Gougmar (CR)",
+        "Ida Ou Gougmar (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546182,
+    "qs_pg:gn_pop":8134,
+    "qs_pg:name":"Ida Ou Gougmar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629320,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546182,
+        "qs_pg:id":629320
+    },
+    "wof:country":"MA",
+    "wof:created":1497045094,
+    "wof:geomhash":"0b6a8195ac1989d95e39e081fb6c5d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "localadmin_id":1125330307,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125330307,
+    "wof:lastmodified":1509388358,
+    "wof:name":"Ida Ou Gougmar",
+    "wof:parent_id":890428801,
+    "wof:placetype":"localadmin",
+    "wof:population":8134,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33789,
+    29.51352,
+    -9.33789,
+    29.51352
+],
+  "geometry": {"coordinates":[-9.33789,29.51352],"type":"Point"}
+}

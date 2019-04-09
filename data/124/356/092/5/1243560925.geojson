@@ -1,0 +1,67 @@
+{
+  "id": 1243560925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.45444,34.34777,-4.45444,34.34777",
+    "geom:latitude":34.34777,
+    "geom:longitude":-4.45444,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Bakkar",
+    "gn:country_code":"MA",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10932911,
+    "gn:latitude":34.34777,
+    "gn:longitude":-4.45444,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bakkar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10932911
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a37395ce87add1b1aea31461021512d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1243560925,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1243560925,
+    "wof:lastmodified":1536639509,
+    "wof:name":"Douar Bakkar",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.45444,
+    34.34777,
+    -4.45444,
+    34.34777
+],
+  "geometry": {"coordinates":[-4.45444,34.34777],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293219033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.48205,30.36134,-7.48205,30.36134",
+    "geom:latitude":30.36134,
+    "geom:longitude":-7.48205,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tagdicht",
+    "gn:country_code":"MA",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531672,
+    "gn:latitude":30.36134,
+    "gn:longitude":-7.48205,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagdicht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagoudicht",
+        "Tagdicht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531672
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ff800bbb05f38db88f27d465adf4276b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1293219033,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293219033,
+    "wof:lastmodified":1537663472,
+    "wof:name":"Tagdicht",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.48205,
+    30.36134,
+    -7.48205,
+    30.36134
+],
+  "geometry": {"coordinates":[-7.48205,30.36134],"type":"Point"}
+}

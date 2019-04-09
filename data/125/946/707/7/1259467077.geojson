@@ -1,0 +1,67 @@
+{
+  "id": 1259467077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37442,29.62938,-9.37442,29.62938",
+    "geom:latitude":29.62938,
+    "geom:longitude":-9.37442,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiwoulaln",
+    "gn:country_code":"MA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130010,
+    "gn:latitude":29.62938,
+    "gn:longitude":-9.37442,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiwoulaln",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130010
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9ac00fe5d2ff20d2b1fe70a0c1d18615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1259467077,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259467077,
+    "wof:lastmodified":1536881671,
+    "wof:name":"Tiwoulaln",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37442,
+    29.62938,
+    -9.37442,
+    29.62938
+],
+  "geometry": {"coordinates":[-9.37442,29.62938],"type":"Point"}
+}

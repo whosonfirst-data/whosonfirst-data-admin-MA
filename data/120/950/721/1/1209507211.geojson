@@ -1,0 +1,61 @@
+{
+  "id": 1209507211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19455,32.55595,-8.19455,32.55595",
+    "geom:latitude":32.55595,
+    "geom:longitude":-8.19455,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khyam Oulad Houda",
+    "gn:country_code":"MA",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795371,
+    "gn:latitude":32.55595,
+    "gn:longitude":-8.19455,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Khyam Oulad Houda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795371
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f86d24ab75e698ad6f4f98f195d27173",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209507211
+        }
+    ],
+    "wof:id":1209507211,
+    "wof:lastmodified":1536284996,
+    "wof:name":"Khyam Oulad Houda",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.19455,
+    32.55595,
+    -8.19455,
+    32.55595
+],
+  "geometry": {"coordinates":[-8.19455,32.55595],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276445705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18407,34.74992,-5.18407,34.74992",
+    "geom:latitude":34.74992,
+    "geom:longitude":-5.18407,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Kaf Lghoul",
+    "gn:country_code":"MA",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925678,
+    "gn:latitude":34.74992,
+    "gn:longitude":-5.18407,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Kaf Lghoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925678
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7e36a12857e27018b0fd4ac4600fc75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1276445705,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1276445705,
+    "wof:lastmodified":1536626142,
+    "wof:name":"Douar Kaf Lghoul",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18407,
+    34.74992,
+    -5.18407,
+    34.74992
+],
+  "geometry": {"coordinates":[-5.18407,34.74992],"type":"Point"}
+}

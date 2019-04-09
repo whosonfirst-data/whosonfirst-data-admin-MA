@@ -1,0 +1,88 @@
+{
+  "id": 1125319807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9626,34.84335,-4.9626,34.84335",
+    "geom:latitude":34.84335,
+    "geom:longitude":-4.9626,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":16559,
+    "gn:population":15820,
+    "iso:country":"MA",
+    "lbl:latitude":34.84335,
+    "lbl:longitude":-4.9626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u0634\u0627\u0634\u0627\u0637"
+    ],
+    "name:fra_x_preferred":[
+        "Mansoura"
+    ],
+    "name:fra_x_variant":[
+        "Mansoura (CR)",
+        "Mansoura (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545992,
+    "qs_pg:gn_pop":16559,
+    "qs_pg:name":"Mansoura",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629135,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545992,
+        "qs_pg:id":629135
+    },
+    "wof:country":"MA",
+    "wof:created":1497044465,
+    "wof:geomhash":"307ba567bb928eda63a17c1e511f97e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "localadmin_id":1125319807,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125319807,
+    "wof:lastmodified":1509388093,
+    "wof:name":"Mansoura",
+    "wof:parent_id":890453883,
+    "wof:placetype":"localadmin",
+    "wof:population":15820,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9626,
+    34.84335,
+    -4.9626,
+    34.84335
+],
+  "geometry": {"coordinates":[-4.9626,34.84335],"type":"Point"}
+}

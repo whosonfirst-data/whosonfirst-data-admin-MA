@@ -1,0 +1,78 @@
+{
+  "id": 890417101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50849,31.85965,-6.50849,31.85965",
+    "geom:latitude":31.85965,
+    "geom:longitude":-6.50849,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":21742,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0643\u0648\u062f\u064a \u0646\u0644\u062e\u064a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Ait M Hamed"
+    ],
+    "name:fra_x_variant":[
+        "Ait M Hamed (CR)",
+        "Ait M Hamed (Commune Rurale)"
+    ],
+    "qs:name":"Ait M Hamed",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546367,
+        "qs:id":629472,
+        "wd:id":"Q4699250",
+        "wk:page":"Ait M'Hamed"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051181,
+    "wof:geomhash":"11e9bc500a0556564f7ebb7704f8a672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "localadmin_id":890417101,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890417101,
+    "wof:lastmodified":1527782123,
+    "wof:name":"Ait M Hamed",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"localadmin",
+    "wof:population":21742,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50849,
+    31.85965,
+    -6.50849,
+    31.85965
+],
+  "geometry": {"coordinates":[-6.50849,31.85965],"type":"Point"}
+}

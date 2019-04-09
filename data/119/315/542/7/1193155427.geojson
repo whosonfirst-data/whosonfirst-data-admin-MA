@@ -1,0 +1,67 @@
+{
+  "id": 1193155427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.23991,35.30859,-5.23991,35.30859",
+    "geom:latitude":35.30859,
+    "geom:longitude":-5.23991,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Boujiane",
+    "gn:country_code":"MA",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554540,
+    "gn:latitude":35.30859,
+    "gn:longitude":-5.23991,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Boujiane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554540
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e4440c619ddc9c87f52f0095b4b6ce78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1193155427,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1193155427,
+    "wof:lastmodified":1536373751,
+    "wof:name":"Boujiane",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.23991,
+    35.30859,
+    -5.23991,
+    35.30859
+],
+  "geometry": {"coordinates":[-5.23991,35.30859],"type":"Point"}
+}

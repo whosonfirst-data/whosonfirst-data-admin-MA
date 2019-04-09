@@ -1,0 +1,67 @@
+{
+  "id": 1242675759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.19698,32.55352,-6.19698,32.55352",
+    "geom:latitude":32.55352,
+    "geom:longitude":-6.19698,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait m'khalt",
+    "gn:country_code":"MA",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11470806,
+    "gn:latitude":32.55352,
+    "gn:longitude":-6.19698,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"A\u00eft m\u2019khalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11470806
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"96ca5d788c3f65e57b01e75ea94f4261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1242675759,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242675759,
+    "wof:lastmodified":1536923096,
+    "wof:name":"Ait m'khalt",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.19698,
+    32.55352,
+    -6.19698,
+    32.55352
+],
+  "geometry": {"coordinates":[-6.19698,32.55352],"type":"Point"}
+}

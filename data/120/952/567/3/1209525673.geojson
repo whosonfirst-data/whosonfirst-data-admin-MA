@@ -1,0 +1,66 @@
+{
+  "id": 1209525673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25969,29.70491,-9.25969,29.70491",
+    "geom:latitude":29.70491,
+    "geom:longitude":-9.25969,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Z'al",
+    "gn:country_code":"MA",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558793,
+    "gn:latitude":29.70491,
+    "gn:longitude":-9.25969,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Z\u2019al",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft-Ziah",
+        "A\u00eft Zial",
+        "A\u00eft Z\u2019al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558793
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0504e05fd1e8e84aa2748e74831b7bee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525673
+        }
+    ],
+    "wof:id":1209525673,
+    "wof:lastmodified":1537664144,
+    "wof:name":"Ait Z'al",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25969,
+    29.70491,
+    -9.25969,
+    29.70491
+],
+  "geometry": {"coordinates":[-9.25969,29.70491],"type":"Point"}
+}

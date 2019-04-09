@@ -1,0 +1,67 @@
+{
+  "id": 1209825663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14416,30.60258,-6.14416,30.60258",
+    "geom:latitude":30.60258,
+    "geom:longitude":-6.14416,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zaouia Ifrioun",
+    "gn:country_code":"MA",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526336,
+    "gn:latitude":30.60258,
+    "gn:longitude":-6.14416,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zaouia Ifrioun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526336
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5daf0c2fcf735531caa2d603b19f23cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1209825663,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209825663,
+    "wof:lastmodified":1536373965,
+    "wof:name":"Zaouia Ifrioun",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14416,
+    30.60258,
+    -6.14416,
+    30.60258
+],
+  "geometry": {"coordinates":[-6.14416,30.60258],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890441033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0115,30.91265,-9.0115,30.91265",
+    "geom:latitude":30.91265,
+    "geom:longitude":-9.0115,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":8673,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u063a\u0627\u0646\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Timezgadiouine"
+    ],
+    "name:fra_x_variant":[
+        "Timezgadiouine (CR)",
+        "Timezgadiouine (Commune Rurale)"
+    ],
+    "qs:name":"Timezgadiouine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545849,
+        "qs:id":628992,
+        "wd:id":"Q7806641",
+        "wk:page":"Timezgadiouine"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052306,
+    "wof:geomhash":"385f70c78ebfceb63a398fc0639c3453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "localadmin_id":890441033,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890441033,
+    "wof:lastmodified":1527727233,
+    "wof:name":"Timezgadiouine",
+    "wof:parent_id":890440847,
+    "wof:placetype":"localadmin",
+    "wof:population":8673,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0115,
+    30.91265,
+    -9.0115,
+    30.91265
+],
+  "geometry": {"coordinates":[-9.0115,30.91265],"type":"Point"}
+}

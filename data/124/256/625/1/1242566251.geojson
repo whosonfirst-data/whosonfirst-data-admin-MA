@@ -1,0 +1,67 @@
+{
+  "id": 1242566251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.94416,29.46525,-9.94416,29.46525",
+    "geom:latitude":29.46525,
+    "geom:longitude":-9.94416,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Id Talab",
+    "gn:country_code":"MA",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100601,
+    "gn:latitude":29.46525,
+    "gn:longitude":-9.94416,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Talab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100601
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"89942b338029ee3aeb792386eaae97a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1242566251,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242566251,
+    "wof:lastmodified":1537076905,
+    "wof:name":"Id Talab",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.94416,
+    29.46525,
+    -9.94416,
+    29.46525
+],
+  "geometry": {"coordinates":[-9.94416,29.46525],"type":"Point"}
+}

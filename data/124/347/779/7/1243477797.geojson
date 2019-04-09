@@ -1,0 +1,70 @@
+{
+  "id": 1243477797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.76475,34.08412,-6.76475,34.08412",
+    "geom:latitude":34.08412,
+    "geom:longitude":-6.76475,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Sidi Abdellah",
+    "gn:country_code":"MA",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431283,
+    "gn:latitude":34.08412,
+    "gn:longitude":-6.76475,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Sidi Abdellah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dr. Sidi Abdellah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431283
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"015ce83fcc884244977e4d81693b1a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":1243477797,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1243477797,
+    "wof:lastmodified":1537664290,
+    "wof:name":"Douar Sidi Abdellah",
+    "wof:parent_id":1108784811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.76475,
+    34.08412,
+    -6.76475,
+    34.08412
+],
+  "geometry": {"coordinates":[-6.76475,34.08412],"type":"Point"}
+}

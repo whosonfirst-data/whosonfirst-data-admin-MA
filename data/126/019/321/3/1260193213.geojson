@@ -1,0 +1,67 @@
+{
+  "id": 1260193213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.70979,30.94791,-6.70979,30.94791",
+    "geom:latitude":30.94791,
+    "geom:longitude":-6.70979,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Afeggou",
+    "gn:country_code":"MA",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561817,
+    "gn:latitude":30.94791,
+    "gn:longitude":-6.70979,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Afeggou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561817
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"369802a33f95cd35a80cabdd4a0db683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1260193213,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260193213,
+    "wof:lastmodified":1536833507,
+    "wof:name":"Afeggou",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.70979,
+    30.94791,
+    -6.70979,
+    30.94791
+],
+  "geometry": {"coordinates":[-6.70979,30.94791],"type":"Point"}
+}

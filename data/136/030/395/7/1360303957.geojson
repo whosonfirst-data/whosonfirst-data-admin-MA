@@ -1,0 +1,67 @@
+{
+  "id": 1360303957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.90397,31.57143,-5.90397,31.57143",
+    "geom:latitude":31.57143,
+    "geom:longitude":-5.90397,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tirbadouine",
+    "gn:country_code":"MA",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596241,
+    "gn:latitude":31.57143,
+    "gn:longitude":-5.90397,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Tirbadouine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596241
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"72b87ae5e878d04e79ccf325e80e8876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1360303957,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360303957,
+    "wof:lastmodified":1536628149,
+    "wof:name":"Tirbadouine",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.90397,
+    31.57143,
+    -5.90397,
+    31.57143
+],
+  "geometry": {"coordinates":[-5.90397,31.57143],"type":"Point"}
+}

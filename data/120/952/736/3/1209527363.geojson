@@ -1,0 +1,61 @@
+{
+  "id": 1209527363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.31275,34.64109,-2.31275,34.64109",
+    "geom:latitude":34.64109,
+    "geom:longitude":-2.31275,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dar Oulad El Qadi",
+    "gn:country_code":"MA",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10998556,
+    "gn:latitude":34.64109,
+    "gn:longitude":-2.31275,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Oulad El Qadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10998556
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8d8d8cc9feca9d6846ce53fcd50a482f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209527363
+        }
+    ],
+    "wof:id":1209527363,
+    "wof:lastmodified":1536284392,
+    "wof:name":"Dar Oulad El Qadi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.31275,
+    34.641090000000005,
+    -2.31275,
+    34.641090000000005
+],
+  "geometry": {"coordinates":[-2.31275,34.64109000000001],"type":"Point"}
+}

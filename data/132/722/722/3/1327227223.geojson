@@ -1,0 +1,67 @@
+{
+  "id": 1327227223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23525,31.38558,-9.23525,31.38558",
+    "geom:latitude":31.38558,
+    "geom:longitude":-9.23525,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait el Bari",
+    "gn:country_code":"MA",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10924658,
+    "gn:latitude":31.38558,
+    "gn:longitude":-9.23525,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft el Bari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10924658
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c5ef9908b4d49bc11851dfa3b44689dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1327227223,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327227223,
+    "wof:lastmodified":1536976537,
+    "wof:name":"Ait el Bari",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23525,
+    31.38558,
+    -9.23525,
+    31.38558
+],
+  "geometry": {"coordinates":[-9.23525,31.38558],"type":"Point"}
+}

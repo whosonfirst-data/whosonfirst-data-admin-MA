@@ -1,0 +1,67 @@
+{
+  "id": 1310204743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.12138,33.68266,-6.12138,33.68266",
+    "geom:latitude":33.68266,
+    "geom:longitude":-6.12138,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ait Mhanna",
+    "gn:country_code":"MA",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10960078,
+    "gn:latitude":33.68266,
+    "gn:longitude":-6.12138,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Mhanna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10960078
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b54bd94822451a22b71494a3502028db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1310204743,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1310204743,
+    "wof:lastmodified":1536852268,
+    "wof:name":"Ait Mhanna",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.12138,
+    33.68266,
+    -6.12138,
+    33.68266
+],
+  "geometry": {"coordinates":[-6.12138,33.68266],"type":"Point"}
+}

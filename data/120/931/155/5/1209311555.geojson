@@ -1,0 +1,61 @@
+{
+  "id": 1209311555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11874,32.89142,-8.11874,32.89142",
+    "geom:latitude":32.89142,
+    "geom:longitude":-8.11874,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oullad Youssef",
+    "gn:country_code":"MA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367727,
+    "gn:latitude":32.89142,
+    "gn:longitude":-8.11874,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oullad Youssef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367727
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"30b408ae709b0602e61e4985e0b927fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209311555
+        }
+    ],
+    "wof:id":1209311555,
+    "wof:lastmodified":1536291011,
+    "wof:name":"Oullad Youssef",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.118739999999999,
+    32.891420000000004,
+    -8.118739999999999,
+    32.891420000000004
+],
+  "geometry": {"coordinates":[-8.11874,32.89142],"type":"Point"}
+}

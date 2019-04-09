@@ -1,0 +1,67 @@
+{
+  "id": 1226541247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.67728,33.72563,-5.67728,33.72563",
+    "geom:latitude":33.72563,
+    "geom:longitude":-5.67728,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dar Boussif",
+    "gn:country_code":"MA",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970847,
+    "gn:latitude":33.72563,
+    "gn:longitude":-5.67728,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Boussif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970847
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b80365572dc97c73667a9dd97fd4755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1226541247,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226541247,
+    "wof:lastmodified":1537003772,
+    "wof:name":"Dar Boussif",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.67728,
+    33.72563,
+    -5.67728,
+    33.72563
+],
+  "geometry": {"coordinates":[-5.67728,33.72563],"type":"Point"}
+}

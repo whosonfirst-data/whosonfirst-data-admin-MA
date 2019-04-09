@@ -1,0 +1,71 @@
+{
+  "id": 1226360885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56872,31.20294,-8.56872,31.20294",
+    "geom:latitude":31.20294,
+    "geom:longitude":-8.56872,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tissili n'Ait Hossein",
+    "gn:country_code":"MA",
+    "gn:dem":1594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527314,
+    "gn:latitude":31.20294,
+    "gn:longitude":-8.56872,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tissili n\u2019A\u00eft Hosse\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tissili n\u2019A\u00eft Hosse\u00efne",
+        "Tissili n\u2019A\u00eft Hosse\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527314
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d9b6236424d1eab9f7489a851e49eb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1226360885,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226360885,
+    "wof:lastmodified":1537663350,
+    "wof:name":"Tissili n'Ait Hossein",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56872,
+    31.20294,
+    -8.56872,
+    31.20294
+],
+  "geometry": {"coordinates":[-8.56872,31.20294],"type":"Point"}
+}

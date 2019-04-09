@@ -1,0 +1,71 @@
+{
+  "id": 1243165307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.70241,32.37334,-6.70241,32.37334",
+    "geom:latitude":32.37334,
+    "geom:longitude":-6.70241,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Oulad N'ouma",
+    "gn:country_code":"MA",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539408,
+    "gn:latitude":32.37334,
+    "gn:longitude":-6.70241,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Oulad N\u2019ouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad N\u2019ouma",
+        "Oulad Nouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539408
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a8f9eab6dfd96b6192c60c540ef3652d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "locality_id":1243165307,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1243165307,
+    "wof:lastmodified":1537663568,
+    "wof:name":"Oulad N'ouma",
+    "wof:parent_id":1108784787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.70241,
+    32.37334,
+    -6.70241,
+    32.37334
+],
+  "geometry": {"coordinates":[-6.70241,32.37334],"type":"Point"}
+}

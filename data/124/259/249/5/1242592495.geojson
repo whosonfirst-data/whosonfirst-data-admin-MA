@@ -1,0 +1,71 @@
+{
+  "id": 1242592495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.07062,31.26409,-6.07062,31.26409",
+    "geom:latitude":31.26409,
+    "geom:longitude":-6.07062,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Sidi el Haj",
+    "gn:country_code":"MA",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559062,
+    "gn:latitude":31.26409,
+    "gn:longitude":-6.07062,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Sidi el Haj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Sidi el Hajj",
+        "A\u00eft Sidi el Haj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559062
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2ea85c5548e2aa66eb54cf8dc4dc01ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1242592495,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242592495,
+    "wof:lastmodified":1537664153,
+    "wof:name":"Ait Sidi el Haj",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.07062,
+    31.26409,
+    -6.07062,
+    31.26409
+],
+  "geometry": {"coordinates":[-6.07062,31.26409],"type":"Point"}
+}

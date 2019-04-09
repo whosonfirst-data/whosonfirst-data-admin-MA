@@ -1,0 +1,78 @@
+{
+  "id": 890416743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1264,30.03543,-9.1264,30.03543",
+    "geom:latitude":30.03543,
+    "geom:longitude":-9.1264,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":4339,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648\u0643\u0631\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Mzal"
+    ],
+    "name:fra_x_variant":[
+        "Ait Mzal (CR)",
+        "Ait Mzal (Commune Rurale)"
+    ],
+    "qs:name":"Ait Mzal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545644,
+        "qs:id":628786,
+        "wd:id":"Q4699255",
+        "wk:page":"Ait Mzal"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051158,
+    "wof:geomhash":"0b833e1adc49634567c455b4ea30f367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "localadmin_id":890416743,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890416743,
+    "wof:lastmodified":1527792806,
+    "wof:name":"Ait Mzal",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"localadmin",
+    "wof:population":4339,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1264,
+    30.03543,
+    -9.1264,
+    30.03543
+],
+  "geometry": {"coordinates":[-9.1264,30.03543],"type":"Point"}
+}

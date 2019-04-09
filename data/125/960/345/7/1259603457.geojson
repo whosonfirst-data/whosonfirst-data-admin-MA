@@ -1,0 +1,67 @@
+{
+  "id": 1259603457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45705,32.30678,-8.45705,32.30678",
+    "geom:latitude":32.30678,
+    "geom:longitude":-8.45705,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sourat",
+    "gn:country_code":"MA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10640870,
+    "gn:latitude":32.30678,
+    "gn:longitude":-8.45705,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sourat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10640870
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba8f698e106d56e57abdf60596195393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1259603457,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259603457,
+    "wof:lastmodified":1536686062,
+    "wof:name":"Sourat",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45705,
+    32.30678,
+    -8.45705,
+    32.30678
+],
+  "geometry": {"coordinates":[-8.45705,32.30678],"type":"Point"}
+}

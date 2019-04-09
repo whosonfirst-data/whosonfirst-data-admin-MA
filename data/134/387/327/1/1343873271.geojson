@@ -1,0 +1,70 @@
+{
+  "id": 1343873271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57615,35.28993,-5.57615,35.28993",
+    "geom:latitude":35.28993,
+    "geom:longitude":-5.57615,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Tajzaret",
+    "gn:country_code":"MA",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531502,
+    "gn:latitude":35.28993,
+    "gn:longitude":-5.57615,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tajzaret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taguezart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531502
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6797c75f3bc06c65462c24df13ed6943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1343873271,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343873271,
+    "wof:lastmodified":1537663467,
+    "wof:name":"Douar Tajzaret",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57615,
+    35.28993,
+    -5.57615,
+    35.28993
+],
+  "geometry": {"coordinates":[-5.57615,35.28993],"type":"Point"}
+}

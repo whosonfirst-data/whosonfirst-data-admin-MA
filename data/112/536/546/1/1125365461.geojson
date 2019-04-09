@@ -1,0 +1,88 @@
+{
+  "id": 1125365461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90182,30.72795,-8.90182,30.72795",
+    "geom:latitude":30.72795,
+    "geom:longitude":-8.90182,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9267,
+    "gn:population":7999,
+    "iso:country":"MA",
+    "lbl:latitude":30.72795,
+    "lbl:longitude":-8.90182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u062f\u062d\u0645\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Tafraouten"
+    ],
+    "name:fra_x_variant":[
+        "Tafraouten (CR)",
+        "Tafraouten (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545752,
+    "qs_pg:gn_pop":9267,
+    "qs_pg:name":"Tafraouten",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628897,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545752,
+        "qs_pg:id":628897
+    },
+    "wof:country":"MA",
+    "wof:created":1497047054,
+    "wof:geomhash":"259b40175576f47e7d6773721006444b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":1125365461,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125365461,
+    "wof:lastmodified":1509389192,
+    "wof:name":"Tafraouten",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":7999,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90182,
+    30.72795,
+    -8.90182,
+    30.72795
+],
+  "geometry": {"coordinates":[-8.90182,30.72795],"type":"Point"}
+}

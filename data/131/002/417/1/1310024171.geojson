@@ -1,0 +1,73 @@
+{
+  "id": 1310024171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9776,30.86363,-7.9776,30.86363",
+    "geom:latitude":30.86363,
+    "geom:longitude":-7.9776,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tanmagalt",
+    "gn:country_code":"MA",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530306,
+    "gn:latitude":30.86363,
+    "gn:longitude":-7.9776,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tanmagalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanmagalte",
+        "Tanmag",
+        "Tanmaguelt",
+        "Tanmagalt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530306
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"61ad3d885ecb30827ec3521c5ca1ef91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1310024171,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310024171,
+    "wof:lastmodified":1537663434,
+    "wof:name":"Tanmagalt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9776,
+    30.86363,
+    -7.9776,
+    30.86363
+],
+  "geometry": {"coordinates":[-7.9776,30.86363],"type":"Point"}
+}

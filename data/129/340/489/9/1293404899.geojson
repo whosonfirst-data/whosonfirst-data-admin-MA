@@ -1,0 +1,72 @@
+{
+  "id": 1293404899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.32942,35.14372,-3.32942,35.14372",
+    "geom:latitude":35.14372,
+    "geom:longitude":-3.32942,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bouqallal",
+    "gn:country_code":"MA",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554506,
+    "gn:latitude":35.14372,
+    "gn:longitude":-3.32942,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bouqallal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u00fbkell\u00e2",
+        "Bo\u00fbkell\u00e2l",
+        "Bouqallal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554506
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"98cd5ffa83d535f805294d668674c9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1293404899,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293404899,
+    "wof:lastmodified":1537664051,
+    "wof:name":"Bouqallal",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.32942,
+    35.14372,
+    -3.32942,
+    35.14372
+],
+  "geometry": {"coordinates":[-3.32942,35.14372],"type":"Point"}
+}

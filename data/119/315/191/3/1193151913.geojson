@@ -1,0 +1,70 @@
+{
+  "id": 1193151913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.71515,34.14101,-4.71515,34.14101",
+    "geom:latitude":34.14101,
+    "geom:longitude":-4.71515,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Lamhirima",
+    "gn:country_code":"MA",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551755,
+    "gn:latitude":34.14101,
+    "gn:longitude":-4.71515,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lamhirima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Mehirma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551755
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d0840e7cee4ee4c5272d5f0624ebe342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1193151913,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1193151913,
+    "wof:lastmodified":1537663963,
+    "wof:name":"Douar Lamhirima",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.71515,
+    34.14100999999999,
+    -4.71515,
+    34.14100999999999
+],
+  "geometry": {"coordinates":[-4.71515,34.14100999999999],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209307763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9585,32.11514,-6.9585,32.11514",
+    "geom:latitude":32.11514,
+    "geom:longitude":-6.9585,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Ichou",
+    "gn:country_code":"MA",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435205,
+    "gn:latitude":32.11514,
+    "gn:longitude":-6.9585,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"A\u00eft Ichou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435205
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d8a551a6934e18b9c5df476d4bfb6446",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209307763
+        }
+    ],
+    "wof:id":1209307763,
+    "wof:lastmodified":1536291134,
+    "wof:name":"Ait Ichou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9585,
+    32.115140000000004,
+    -6.9585,
+    32.115140000000004
+],
+  "geometry": {"coordinates":[-6.9585,32.11514],"type":"Point"}
+}

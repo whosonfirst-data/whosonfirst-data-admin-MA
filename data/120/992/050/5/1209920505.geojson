@@ -1,0 +1,67 @@
+{
+  "id": 1209920505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.04518,34.06478,-5.04518,34.06478",
+    "geom:latitude":34.06478,
+    "geom:longitude":-5.04518,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sidi Makhlouz",
+    "gn:country_code":"MA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984854,
+    "gn:latitude":34.06478,
+    "gn:longitude":-5.04518,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sidi Makhlouz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984854
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"75bb16cf2d34399c14dd57923c5c0c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1209920505,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1209920505,
+    "wof:lastmodified":1536368898,
+    "wof:name":"Sidi Makhlouz",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.04518,
+    34.06478,
+    -5.04518,
+    34.06478
+],
+  "geometry": {"coordinates":[-5.04518,34.06478],"type":"Point"}
+}

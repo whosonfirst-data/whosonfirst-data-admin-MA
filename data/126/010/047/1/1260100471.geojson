@@ -1,0 +1,67 @@
+{
+  "id": 1260100471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26403,31.10201,-8.26403,31.10201",
+    "geom:latitude":31.10201,
+    "geom:longitude":-8.26403,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tal' at Wareg",
+    "gn:country_code":"MA",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149425,
+    "gn:latitude":31.10201,
+    "gn:longitude":-8.26403,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tal\u2019 at Wareg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149425
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a38338ced8f2251c15504ac14c9f31d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1260100471,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1260100471,
+    "wof:lastmodified":1536963510,
+    "wof:name":"Tal' at Wareg",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26403,
+    31.10201,
+    -8.26403,
+    31.10201
+],
+  "geometry": {"coordinates":[-8.26403,31.10201],"type":"Point"}
+}

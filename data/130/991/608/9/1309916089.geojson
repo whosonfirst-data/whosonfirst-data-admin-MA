@@ -1,0 +1,76 @@
+{
+  "id": 1309916089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58186,35.36555,-5.58186,35.36555",
+    "geom:latitude":35.36555,
+    "geom:longitude":-5.58186,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Afernou Lfouqi",
+    "gn:country_code":"MA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561779,
+    "gn:latitude":35.36555,
+    "gn:longitude":-5.58186,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Afernou Lfouqi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afern\u00fa Foki",
+        "Afernou",
+        "Afarnel Foqui",
+        "Afernoun",
+        "Afernun",
+        "Aferno\u00fb el Fouki",
+        "Douar Afernou Lfouqi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561779
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ab662b4e09d7134d31d7e4ec61867b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1309916089,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1309916089,
+    "wof:lastmodified":1537664247,
+    "wof:name":"Douar Afernou Lfouqi",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58186,
+    35.36555,
+    -5.58186,
+    35.36555
+],
+  "geometry": {"coordinates":[-5.58186,35.36555],"type":"Point"}
+}

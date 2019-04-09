@@ -1,0 +1,75 @@
+{
+  "id": 1226139031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.44628,30.69356,-6.44628,30.69356",
+    "geom:latitude":30.69356,
+    "geom:longitude":-6.44628,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"587.0",
+    "gn:admin3_code":"458701011.0",
+    "gn:asciiname":"Agdz",
+    "gn:country_code":"MA",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2561539,
+    "gn:latitude":30.69356,
+    "gn:longitude":-6.44628,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Agdz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Agdz",
+        "Agoz",
+        "Agdz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561539,
+        "wk:page":"Agdz"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6329c2bf478b0173aa4eb81444d88fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1226139031,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226139031,
+    "wof:lastmodified":1537664240,
+    "wof:name":"Agdz",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.44628,
+    30.69356,
+    -6.44628,
+    30.69356
+],
+  "geometry": {"coordinates":[-6.44628,30.69356],"type":"Point"}
+}

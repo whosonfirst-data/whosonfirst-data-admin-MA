@@ -1,0 +1,64 @@
+{
+  "id": 1209019363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.69506,34.32971,-5.69506,34.32971",
+    "geom:latitude":34.32971,
+    "geom:longitude":-5.69506,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad Jellal",
+    "gn:country_code":"MA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539680,
+    "gn:latitude":34.32971,
+    "gn:longitude":-5.69506,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Jellal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Jellal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539680
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fadd726cf1c8d5a8011846ee6e021450",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019363
+        }
+    ],
+    "wof:id":1209019363,
+    "wof:lastmodified":1537663583,
+    "wof:name":"Douar Oulad Jellal",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.69506,
+    34.32971,
+    -5.69506,
+    34.32971
+],
+  "geometry": {"coordinates":[-5.69506,34.32971],"type":"Point"}
+}

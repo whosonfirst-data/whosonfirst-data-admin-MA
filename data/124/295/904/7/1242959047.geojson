@@ -1,0 +1,67 @@
+{
+  "id": 1242959047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.01731,30.87759,-9.01731,30.87759",
+    "geom:latitude":30.87759,
+    "geom:longitude":-9.01731,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Amdirher",
+    "gn:country_code":"MA",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11132821,
+    "gn:latitude":30.87759,
+    "gn:longitude":-9.01731,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Amdirher",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11132821
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dc40f7887fc312031184605df308b2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1242959047,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242959047,
+    "wof:lastmodified":1537010604,
+    "wof:name":"Amdirher",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.01731,
+    30.87759,
+    -9.01731,
+    30.87759
+],
+  "geometry": {"coordinates":[-9.01731,30.87759],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209124571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57693,30.45914,-8.57693,30.45914",
+    "geom:latitude":30.45914,
+    "geom:longitude":-8.57693,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ayt Ben Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560374,
+    "gn:latitude":30.45914,
+    "gn:longitude":-8.57693,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ayt Ben Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ben Ahmed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560374
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7699fb1abd865f54cb9c46afd92e36a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209124571
+        }
+    ],
+    "wof:id":1209124571,
+    "wof:lastmodified":1537664202,
+    "wof:name":"Ayt Ben Ahmed",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57693,
+    30.45914,
+    -8.57693,
+    30.45914
+],
+  "geometry": {"coordinates":[-8.57693,30.45914],"type":"Point"}
+}

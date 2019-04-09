@@ -1,0 +1,61 @@
+{
+  "id": 1209435177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39827,31.39926,-8.39827,31.39926",
+    "geom:latitude":31.39926,
+    "geom:longitude":-8.39827,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zawia Tiqlit",
+    "gn:country_code":"MA",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963282,
+    "gn:latitude":31.39926,
+    "gn:longitude":-8.39827,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zawia Tiqlit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963282
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bdc4e04a93b2305a35b477adec88c9e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209435177
+        }
+    ],
+    "wof:id":1209435177,
+    "wof:lastmodified":1536287126,
+    "wof:name":"Zawia Tiqlit",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39827,
+    31.39926,
+    -8.39827,
+    31.39926
+],
+  "geometry": {"coordinates":[-8.39827,31.39926],"type":"Point"}
+}

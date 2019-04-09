@@ -1,0 +1,71 @@
+{
+  "id": 1293502373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34545,29.49048,-9.34545,29.49048",
+    "geom:latitude":29.49048,
+    "geom:longitude":-9.34545,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Ouarab",
+    "gn:country_code":"MA",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547117,
+    "gn:latitude":29.49048,
+    "gn:longitude":-9.34545,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Ouarab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Gourab",
+        "Id Ouarab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547117
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"72ab515a62dcfe6cb6f15db9c21abb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293502373,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293502373,
+    "wof:lastmodified":1537663779,
+    "wof:name":"Id Ouarab",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34545,
+    29.49048,
+    -9.34545,
+    29.49048
+],
+  "geometry": {"coordinates":[-9.34545,29.49048],"type":"Point"}
+}

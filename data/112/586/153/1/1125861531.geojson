@@ -1,0 +1,78 @@
+{
+  "id": 1125861531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.11643,31.02722,-5.11643,31.02722",
+    "geom:latitude":31.02722,
+    "geom:longitude":-5.11643,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1197,
+    "gn:population":1197,
+    "iso:country":"MA",
+    "lbl:latitude":31.02722,
+    "lbl:longitude":-5.11643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2596325,
+    "qs_pg:gn_pop":1197,
+    "qs_pg:name":"Jebel Tiskaouine",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":91891,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596325,
+        "qs_pg:id":91891
+    },
+    "wof:country":"MA",
+    "wof:created":1497293848,
+    "wof:geomhash":"cc7ad4a63c18b7128b278195bb7a1096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1125861531,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125861531,
+    "wof:lastmodified":1509396669,
+    "wof:name":"Jebel Tiskaouine",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:population":1197,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.11643,
+    31.02722,
+    -5.11643,
+    31.02722
+],
+  "geometry": {"coordinates":[-5.11643,31.02722],"type":"Point"}
+}

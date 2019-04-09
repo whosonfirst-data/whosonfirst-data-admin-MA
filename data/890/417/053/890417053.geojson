@@ -1,0 +1,77 @@
+{
+  "id": 890417053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.51613,33.45884,-7.51613,33.45884",
+    "geom:latitude":33.45884,
+    "geom:longitude":-7.51613,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":14653,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0627\u0648\u0631\u064a\u0628\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Mediouna"
+    ],
+    "name:fra_x_variant":[
+        "Mediouna (MU)",
+        "Mediouna (Commune Urbaine)"
+    ],
+    "qs:name":"Mediouna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673905,
+        890424151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546315,
+        "qs:id":629430,
+        "wk:page":"Mediouna"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051178,
+    "wof:geomhash":"7e3c0f1540cd48a16cb6b7658dfa5197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424151,
+            "localadmin_id":890417053,
+            "region_id":85673905
+        }
+    ],
+    "wof:id":890417053,
+    "wof:lastmodified":1527782121,
+    "wof:name":"Mediouna",
+    "wof:parent_id":890424151,
+    "wof:placetype":"localadmin",
+    "wof:population":14653,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.51613,
+    33.45884,
+    -7.51613,
+    33.45884
+],
+  "geometry": {"coordinates":[-7.51613,33.45884],"type":"Point"}
+}

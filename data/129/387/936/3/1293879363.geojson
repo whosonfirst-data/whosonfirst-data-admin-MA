@@ -1,0 +1,67 @@
+{
+  "id": 1293879363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18635,32.34527,-9.18635,32.34527",
+    "geom:latitude":32.34527,
+    "geom:longitude":-9.18635,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Gharraba",
+    "gn:country_code":"MA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10868489,
+    "gn:latitude":32.34527,
+    "gn:longitude":-9.18635,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Gharraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10868489
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"55585eaf6cbb9bd40a3d4cf593ccd1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1293879363,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293879363,
+    "wof:lastmodified":1536719693,
+    "wof:name":"Douar Gharraba",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18635,
+    32.34527,
+    -9.18635,
+    32.34527
+],
+  "geometry": {"coordinates":[-9.18635,32.34527],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242688227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91443,30.62437,-8.91443,30.62437",
+    "geom:latitude":30.62437,
+    "geom:longitude":-8.91443,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mtoudda",
+    "gn:country_code":"MA",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541552,
+    "gn:latitude":30.62437,
+    "gn:longitude":-8.91443,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mtoudda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia Mtoudde",
+        "Mtouda",
+        "Metoudda",
+        "Mtoudda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541552
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"54341b3ce2c308fca653aff4b121e847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1242688227,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242688227,
+    "wof:lastmodified":1537663641,
+    "wof:name":"Mtoudda",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91443,
+    30.62437000000001,
+    -8.91443,
+    30.62437000000001
+],
+  "geometry": {"coordinates":[-8.91443,30.62437000000001],"type":"Point"}
+}

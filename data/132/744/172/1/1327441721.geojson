@@ -1,0 +1,71 @@
+{
+  "id": 1327441721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.38925,34.36118,-5.38925,34.36118",
+    "geom:latitude":34.36118,
+    "geom:longitude":-5.38925,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Rehamena",
+    "gn:country_code":"MA",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551274,
+    "gn:latitude":34.36118,
+    "gn:longitude":-5.38925,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Rehamena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rehamna",
+        "Douar Rehamena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551274
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e7668e6d0f74fe481339e36bdda48887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1327441721,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1327441721,
+    "wof:lastmodified":1537663925,
+    "wof:name":"Douar Rehamena",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.38925,
+    34.36118,
+    -5.38925,
+    34.36118
+],
+  "geometry": {"coordinates":[-5.38925,34.36118],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293288601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38829,30.36314,-9.38829,30.36314",
+    "geom:latitude":30.36314,
+    "geom:longitude":-9.38829,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hangar",
+    "gn:country_code":"MA",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10375081,
+    "gn:latitude":30.36314,
+    "gn:longitude":-9.38829,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hangar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10375081
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5289e99227b155581eba385b03d64ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429093,
+            "locality_id":1293288601,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293288601,
+    "wof:lastmodified":1537070687,
+    "wof:name":"Hangar",
+    "wof:parent_id":890429093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38829,
+    30.36314,
+    -9.38829,
+    30.36314
+],
+  "geometry": {"coordinates":[-9.38829,30.36314],"type":"Point"}
+}

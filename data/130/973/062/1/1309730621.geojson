@@ -1,0 +1,73 @@
+{
+  "id": 1309730621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77245,32.46847,-5.77245,32.46847",
+    "geom:latitude":32.46847,
+    "geom:longitude":-5.77245,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tizi Nisly",
+    "gn:country_code":"MA",
+    "gn:dem":1434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527127,
+    "gn:latitude":32.46847,
+    "gn:longitude":-5.77245,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Tizi Nisly",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tizi-Nisly",
+        "Tizi n\u2019Isly",
+        "Tizi Nisly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527127,
+        "wk:page":"Tizi_N%27Isly"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e5f9aa970f4f675f4311411fbc4522e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1309730621,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1309730621,
+    "wof:lastmodified":1537663344,
+    "wof:name":"Tizi Nisly",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77245,
+    32.46847,
+    -5.77245,
+    32.46847
+],
+  "geometry": {"coordinates":[-5.77245,32.46847],"type":"Point"}
+}

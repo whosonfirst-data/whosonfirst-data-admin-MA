@@ -1,0 +1,72 @@
+{
+  "id": 1327331621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.30272,32.02055,-6.30272,32.02055",
+    "geom:latitude":32.02055,
+    "geom:longitude":-6.30272,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait 'Ali 'Abdallah",
+    "gn:country_code":"MA",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560590,
+    "gn:latitude":32.02055,
+    "gn:longitude":-6.30272,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft \u2019Ali \u2019Abdallah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ait Ali Ou Abdellah",
+        "A\u00eft Ali Ou Abdallah",
+        "A\u00eft \u2019Ali \u2019Abdallah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560590
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"517c0462d9badfb831702e8a9c095339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1327331621,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1327331621,
+    "wof:lastmodified":1537664210,
+    "wof:name":"Ait 'Ali 'Abdallah",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.30272,
+    32.02055,
+    -6.30272,
+    32.02055
+],
+  "geometry": {"coordinates":[-6.30272,32.02055],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226457397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.69308,30.96401,-6.69308,30.96401",
+    "geom:latitude":30.96401,
+    "geom:longitude":-6.69308,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tarkacht",
+    "gn:country_code":"MA",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545769,
+    "gn:latitude":30.96401,
+    "gn:longitude":-6.69308,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tarkacht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarhacht",
+        "Taracht",
+        "Irherm n\u2019Tarracht",
+        "Terkacht",
+        "Terkecht",
+        "Tarkcht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545769
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"258355194d365a0e84329f9dfeb3f442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1226457397,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226457397,
+    "wof:lastmodified":1537663732,
+    "wof:name":"Tarkacht",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.69308,
+    30.96401,
+    -6.69308,
+    30.96401
+],
+  "geometry": {"coordinates":[-6.69308,30.96401],"type":"Point"}
+}

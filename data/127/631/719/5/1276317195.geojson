@@ -1,0 +1,67 @@
+{
+  "id": 1276317195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.00687,30.02419,-9.00687,30.02419",
+    "geom:latitude":30.02419,
+    "geom:longitude":-9.00687,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tassila",
+    "gn:country_code":"MA",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131362,
+    "gn:latitude":30.02419,
+    "gn:longitude":-9.00687,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tassila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131362
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0eae948c7665e1bc86a50066f1c8d05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1276317195,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276317195,
+    "wof:lastmodified":1536800419,
+    "wof:name":"Tassila",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00687,
+    30.02419,
+    -9.00687,
+    30.02419
+],
+  "geometry": {"coordinates":[-9.00687,30.02419],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326839475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.40498,35.08379,-4.40498,35.08379",
+    "geom:latitude":35.08379,
+    "geom:longitude":-4.40498,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar Aoqa Massaoud",
+    "gn:country_code":"MA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091159,
+    "gn:latitude":35.08379,
+    "gn:longitude":-4.40498,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Aoqa Massaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091159
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a2a5f6d81d1643835c5761755dd4cf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1326839475,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1326839475,
+    "wof:lastmodified":1537036649,
+    "wof:name":"Dar Aoqa Massaoud",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.40498,
+    35.08379,
+    -4.40498,
+    35.08379
+],
+  "geometry": {"coordinates":[-4.40498,35.08379],"type":"Point"}
+}

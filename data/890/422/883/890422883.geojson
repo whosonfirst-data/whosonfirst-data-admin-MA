@@ -1,0 +1,78 @@
+{
+  "id": 890422883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52536,31.03706,-8.52536,31.03706",
+    "geom:latitude":31.03706,
+    "geom:longitude":-8.52536,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":9873,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0645\u0627\u0633\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Imindounit"
+    ],
+    "name:fra_x_variant":[
+        "Imindounit (CR)",
+        "Imindounit (Commune Rurale)"
+    ],
+    "qs:name":"Imindounit",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546630,
+        "qs:id":629732,
+        "wd:id":"Q6004090",
+        "wk:page":"Imindounit"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051470,
+    "wof:geomhash":"b72381cb4ef4e34ae57c23d0895f17db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "localadmin_id":890422883,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890422883,
+    "wof:lastmodified":1527727163,
+    "wof:name":"Imindounit",
+    "wof:parent_id":890440847,
+    "wof:placetype":"localadmin",
+    "wof:population":9873,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52536,
+    31.03706,
+    -8.52536,
+    31.03706
+],
+  "geometry": {"coordinates":[-8.52536,31.03706],"type":"Point"}
+}

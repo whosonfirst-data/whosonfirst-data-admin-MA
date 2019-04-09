@@ -1,0 +1,67 @@
+{
+  "id": 1209425199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02188,31.94972,-8.02188,31.94972",
+    "geom:latitude":31.94972,
+    "geom:longitude":-8.02188,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Maaouiya",
+    "gn:country_code":"MA",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543052,
+    "gn:latitude":31.94972,
+    "gn:longitude":-8.02188,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Maaouiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Maouia",
+        "Mouaouia",
+        "Maouia",
+        "Douar Maaouiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543052
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eaadfa4557aeac6f375f4b75f721a833",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425199
+        }
+    ],
+    "wof:id":1209425199,
+    "wof:lastmodified":1537663665,
+    "wof:name":"Douar Maaouiya",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02188,
+    31.94972000000001,
+    -8.02188,
+    31.94972000000001
+],
+  "geometry": {"coordinates":[-8.02188,31.94972000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226257759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.51941,32.20436,-2.51941,32.20436",
+    "geom:latitude":32.20436,
+    "geom:longitude":-2.51941,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ain Chair",
+    "gn:country_code":"MA",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560908,
+    "gn:latitude":32.20436,
+    "gn:longitude":-2.51941,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00efn Cha\u00efr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560908
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8f665ce14fc95f7a949cca9ee19dbd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1226257759,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1226257759,
+    "wof:lastmodified":1536916757,
+    "wof:name":"Ain Chair",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.51941,
+    32.20436,
+    -2.51941,
+    32.20436
+],
+  "geometry": {"coordinates":[-2.51941,32.20436],"type":"Point"}
+}

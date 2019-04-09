@@ -1,0 +1,72 @@
+{
+  "id": 1225962727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.35435,29.4924,-9.35435,29.4924",
+    "geom:latitude":29.4924,
+    "geom:longitude":-9.35435,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Lahsene",
+    "gn:country_code":"MA",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547173,
+    "gn:latitude":29.4924,
+    "gn:longitude":-9.35435,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Lahsene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Lahcen",
+        "Id Lahsen",
+        "Id Lahsene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547173
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c612bf8c77d7d1ded077d13648ce728f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1225962727,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225962727,
+    "wof:lastmodified":1537663781,
+    "wof:name":"Id Lahsene",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.35435,
+    29.4924,
+    -9.35435,
+    29.4924
+],
+  "geometry": {"coordinates":[-9.35435,29.4924],"type":"Point"}
+}

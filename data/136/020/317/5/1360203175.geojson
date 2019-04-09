@@ -1,0 +1,72 @@
+{
+  "id": 1360203175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36589,35.13397,-5.36589,35.13397",
+    "geom:latitude":35.13397,
+    "geom:longitude":-5.36589,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mansoura",
+    "gn:country_code":"MA",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542558,
+    "gn:latitude":35.13397,
+    "gn:longitude":-5.36589,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mansoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menzora",
+        "Mansora",
+        "Mansoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542558
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"54608f4f64d68b64918ff23e233681da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1360203175,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1360203175,
+    "wof:lastmodified":1537663657,
+    "wof:name":"Mansoura",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36589,
+    35.13397,
+    -5.36589,
+    35.13397
+],
+  "geometry": {"coordinates":[-5.36589,35.13397],"type":"Point"}
+}

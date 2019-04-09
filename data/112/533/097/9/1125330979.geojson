@@ -1,0 +1,88 @@
+{
+  "id": 1125330979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.06907,34.26809,-4.06907,34.26809",
+    "geom:latitude":34.26809,
+    "geom:longitude":-4.06907,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4070,
+    "gn:population":3890,
+    "iso:country":"MA",
+    "lbl:latitude":34.26809,
+    "lbl:longitude":-4.06907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0643\u0646\u0627\u0633\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Meknassa Al Gharbia"
+    ],
+    "name:fra_x_variant":[
+        "Meknassa Al Gharbia (CR)",
+        "Meknassa Al Gharbia (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547068,
+    "qs_pg:gn_pop":4070,
+    "qs_pg:name":"Meknassa Al Gharbia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":630150,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547068,
+        "qs_pg:id":630150
+    },
+    "wof:country":"MA",
+    "wof:created":1497045133,
+    "wof:geomhash":"8597d398013e99d4e5bfa413b9916ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "localadmin_id":1125330979,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125330979,
+    "wof:lastmodified":1509388380,
+    "wof:name":"Meknassa Al Gharbia",
+    "wof:parent_id":890436791,
+    "wof:placetype":"localadmin",
+    "wof:population":3890,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.06907,
+    34.26809,
+    -4.06907,
+    34.26809
+],
+  "geometry": {"coordinates":[-4.06907,34.26809],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226452745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.24353,35.14591,-3.24353,35.14591",
+    "geom:latitude":35.14591,
+    "geom:longitude":-3.24353,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lemsara",
+    "gn:country_code":"MA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543422,
+    "gn:latitude":35.14591,
+    "gn:longitude":-3.24353,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lemsara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lems\u00e2ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543422
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c8843ac295fb3b4d004e67d45f453400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1226452745,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1226452745,
+    "wof:lastmodified":1537663673,
+    "wof:name":"Lemsara",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.24353,
+    35.14591,
+    -3.24353,
+    35.14591
+],
+  "geometry": {"coordinates":[-3.24353,35.14591],"type":"Point"}
+}

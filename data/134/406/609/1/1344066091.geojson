@@ -1,0 +1,67 @@
+{
+  "id": 1344066091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.29229,34.57544,-5.29229,34.57544",
+    "geom:latitude":34.57544,
+    "geom:longitude":-5.29229,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Lhajriyine",
+    "gn:country_code":"MA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10923851,
+    "gn:latitude":34.57544,
+    "gn:longitude":-5.29229,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lhajriyine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10923851
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2fd1ed923d05f9d259363f60d2318cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1344066091,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1344066091,
+    "wof:lastmodified":1536866048,
+    "wof:name":"Douar Lhajriyine",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.29229,
+    34.57544,
+    -5.29229,
+    34.57544
+],
+  "geometry": {"coordinates":[-5.29229,34.57544],"type":"Point"}
+}

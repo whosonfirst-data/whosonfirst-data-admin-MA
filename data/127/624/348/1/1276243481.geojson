@@ -1,0 +1,73 @@
+{
+  "id": 1276243481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.08539,32.0008,-9.08539,32.0008",
+    "geom:latitude":32.0008,
+    "geom:longitude":-9.08539,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Zouizat",
+    "gn:country_code":"MA",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2525887,
+    "gn:latitude":32.0008,
+    "gn:longitude":-9.08539,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Zouizat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Tha\u00efm",
+        "Zouirate",
+        "Zouirat",
+        "Douar Zouizat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2525887
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"443675ea55d9fdc955c90e43092f4bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1276243481,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1276243481,
+    "wof:lastmodified":1537663306,
+    "wof:name":"Douar Zouizat",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.08539,
+    32.0008,
+    -9.08539,
+    32.0008
+],
+  "geometry": {"coordinates":[-9.08539,32.0008],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226457407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.30194,33.74643,-7.30194,33.74643",
+    "geom:latitude":33.74643,
+    "geom:longitude":-7.30194,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Mansouria",
+    "gn:country_code":"MA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558428,
+    "gn:latitude":33.74643,
+    "gn:longitude":-7.30194,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Mansouria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Mansoriyeh"
+    ],
+    "name:eng_x_preferred":[
+        "Mansoriyeh"
+    ],
+    "name:und_x_variant":[
+        "Al Man\u00e7ouriya",
+        "Kasba Mansouriah",
+        "Minaret de Mansuria",
+        "Mansouriah",
+        "Mansouria",
+        "El Mansouria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558428
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6e2f8c1873f2100fa3b9d3a07a2c5e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1226457407,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1226457407,
+    "wof:lastmodified":1537664136,
+    "wof:name":"El Mansouria",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.30194,
+    33.74643,
+    -7.30194,
+    33.74643
+],
+  "geometry": {"coordinates":[-7.30194,33.74643],"type":"Point"}
+}

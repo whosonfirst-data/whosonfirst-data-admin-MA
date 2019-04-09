@@ -1,0 +1,72 @@
+{
+  "id": 1326748855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.80668,35.03432,-2.80668,35.03432",
+    "geom:latitude":35.03432,
+    "geom:longitude":-2.80668,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Oulad Kaddour Ou Hmad",
+    "gn:country_code":"MA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539661,
+    "gn:latitude":35.03432,
+    "gn:longitude":-2.80668,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Kaddour Ou Hmad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Kaddnur ou Hamed",
+        "Oulad Kaddour ou Hamed",
+        "Douar Oulad Kaddour Ou Hmad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539661
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5981e1813f149b733fb34f7e2ce83c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1326748855,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1326748855,
+    "wof:lastmodified":1537663582,
+    "wof:name":"Douar Oulad Kaddour Ou Hmad",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.80668,
+    35.03432,
+    -2.80668,
+    35.03432
+],
+  "geometry": {"coordinates":[-2.80668,35.03432],"type":"Point"}
+}

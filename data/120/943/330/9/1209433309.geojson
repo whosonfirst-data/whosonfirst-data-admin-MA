@@ -1,0 +1,66 @@
+{
+  "id": 1209433309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77711,35.36981,-5.77711,35.36981",
+    "geom:latitude":35.36981,
+    "geom:longitude":-5.77711,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Ain Souar",
+    "gn:country_code":"MA",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560860,
+    "gn:latitude":35.36981,
+    "gn:longitude":-5.77711,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ain Souar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Souar",
+        "A\u00efn es Souar",
+        "Douar Ain Souar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560860
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bb67619a4f6574ea16afc9c5894f19f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209433309
+        }
+    ],
+    "wof:id":1209433309,
+    "wof:lastmodified":1537664220,
+    "wof:name":"Douar Ain Souar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77711,
+    35.36981,
+    -5.77711,
+    35.36981
+],
+  "geometry": {"coordinates":[-5.77711,35.36981],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242981133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.70161,32.35968,-5.70161,32.35968",
+    "geom:latitude":32.35968,
+    "geom:longitude":-5.70161,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Boumia",
+    "gn:country_code":"MA",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554282,
+    "gn:latitude":32.35968,
+    "gn:longitude":-5.70161,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Boumia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Mia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554282
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"06086009d9f9fa2e3ffb0d8f378fac7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1242981133,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242981133,
+    "wof:lastmodified":1537664048,
+    "wof:name":"Boumia",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.70161,
+    32.35968,
+    -5.70161,
+    32.35968
+],
+  "geometry": {"coordinates":[-5.70161,32.35968],"type":"Point"}
+}

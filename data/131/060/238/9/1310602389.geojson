@@ -1,0 +1,75 @@
+{
+  "id": 1310602389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.99509,33.94633,-4.99509,33.94633",
+    "geom:latitude":33.94633,
+    "geom:longitude":-4.99509,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"231.0",
+    "gn:admin3_code":"1423181012.0",
+    "gn:asciiname":"Oulad Tayeb",
+    "gn:country_code":"MA",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2539139,
+    "gn:latitude":33.94633,
+    "gn:longitude":-4.99509,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Oulad Tayeb",
+    "gn:population":500,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0430\u0434 \u0422\u0430\u0439\u0438\u0431"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890454333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539139
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"84a69546753cddd973d9f1f7b0a5b154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":1310602389,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1310602389,
+    "wof:lastmodified":1537663554,
+    "wof:name":"Oulad Tayeb",
+    "wof:parent_id":890454333,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.99509,
+    33.94633,
+    -4.99509,
+    33.94633
+],
+  "geometry": {"coordinates":[-4.99509,33.94633],"type":"Point"}
+}

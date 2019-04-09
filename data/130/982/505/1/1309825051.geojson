@@ -1,0 +1,71 @@
+{
+  "id": 1309825051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.00846,31.52249,-5.00846,31.52249",
+    "geom:latitude":31.52249,
+    "geom:longitude":-5.00846,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait M'ammar Oujdid",
+    "gn:country_code":"MA",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596347,
+    "gn:latitude":31.52249,
+    "gn:longitude":-5.00846,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"A\u00eft M\u2019ammar Oujdid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft M\u2019ammar Oujdid",
+        "A\u00eft Mameur Oujedid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596347
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7d13fa2dd2503eb4f9520aca8d809468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1309825051,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1309825051,
+    "wof:lastmodified":1537664286,
+    "wof:name":"Ait M'ammar Oujdid",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.00846,
+    31.52249,
+    -5.00846,
+    31.52249
+],
+  "geometry": {"coordinates":[-5.00846,31.52249],"type":"Point"}
+}

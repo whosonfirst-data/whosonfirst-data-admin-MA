@@ -1,0 +1,67 @@
+{
+  "id": 1343547035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.34264,31.67781,-7.34264,31.67781",
+    "geom:latitude":31.67781,
+    "geom:longitude":-7.34264,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Moro",
+    "gn:country_code":"MA",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354494,
+    "gn:latitude":31.67781,
+    "gn:longitude":-7.34264,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Moro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354494
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1a55c7189c39da13230e151f2cff69f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1343547035,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343547035,
+    "wof:lastmodified":1536619195,
+    "wof:name":"Moro",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.34264,
+    31.67781,
+    -7.34264,
+    31.67781
+],
+  "geometry": {"coordinates":[-7.34264,31.67781],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360194969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91671,29.60635,-8.91671,29.60635",
+    "geom:latitude":29.60635,
+    "geom:longitude":-8.91671,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Souk Tleta de Tasserirt",
+    "gn:country_code":"MA",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532406,
+    "gn:latitude":29.60635,
+    "gn:longitude":-8.91671,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Souk Tleta de Tasserirt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ej Jemaa de Tasserirt",
+        "Souk de Tasserirt",
+        "Souk Tleta de Tasserirt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532406
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"805ea07552b1f78672c4c466df052700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1360194969,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360194969,
+    "wof:lastmodified":1537663495,
+    "wof:name":"Souk Tleta de Tasserirt",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91671,
+    29.60635,
+    -8.91671,
+    29.60635
+],
+  "geometry": {"coordinates":[-8.91671,29.60635],"type":"Point"}
+}

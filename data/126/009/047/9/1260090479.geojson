@@ -1,0 +1,72 @@
+{
+  "id": 1260090479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.415,30.45702,-7.415,30.45702",
+    "geom:latitude":30.45702,
+    "geom:longitude":-7.415,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kourkda",
+    "gn:country_code":"MA",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544093,
+    "gn:latitude":30.45702,
+    "gn:longitude":-7.415,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kourkda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kourkouda",
+        "Kourkoude",
+        "Kourkda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544093
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8c8aae4278d0e5093619b73535a9fe3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1260090479,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260090479,
+    "wof:lastmodified":1537663689,
+    "wof:name":"Kourkda",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.415,
+    30.45702,
+    -7.415,
+    30.45702
+],
+  "geometry": {"coordinates":[-7.415,30.45702],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209534197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.43762,34.61528,-5.43762,34.61528",
+    "geom:latitude":34.61528,
+    "geom:longitude":-5.43762,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bourkiz",
+    "gn:country_code":"MA",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554094,
+    "gn:latitude":34.61528,
+    "gn:longitude":-5.43762,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bourkiz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Bouchrih",
+        "Bourkiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554094
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e6b15d0b3349a4f5e91e6e45b14f582c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209534197
+        }
+    ],
+    "wof:id":1209534197,
+    "wof:lastmodified":1537664045,
+    "wof:name":"Bourkiz",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.43762,
+    34.61528,
+    -5.43762,
+    34.61528
+],
+  "geometry": {"coordinates":[-5.43762,34.61528],"type":"Point"}
+}

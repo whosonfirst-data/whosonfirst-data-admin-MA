@@ -1,0 +1,71 @@
+{
+  "id": 1259894873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.13709,29.28871,-10.13709,29.28871",
+    "geom:latitude":29.28871,
+    "geom:longitude":-10.13709,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Anbed",
+    "gn:country_code":"MA",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557848,
+    "gn:latitude":29.28871,
+    "gn:longitude":-10.13709,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Anbed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anebed",
+        "Anbed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557848
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d737623418ec6f4c8ebbf1076170aa59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1259894873,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259894873,
+    "wof:lastmodified":1537664121,
+    "wof:name":"Anbed",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.13709,
+    29.28871,
+    -10.13709,
+    29.28871
+],
+  "geometry": {"coordinates":[-10.13709,29.28871],"type":"Point"}
+}

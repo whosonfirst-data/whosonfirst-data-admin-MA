@@ -1,0 +1,75 @@
+{
+  "id": 1310215337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76926,31.99898,-8.76926,31.99898",
+    "geom:latitude":31.99898,
+    "geom:longitude":-8.76926,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Laabichat",
+    "gn:country_code":"MA",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543850,
+    "gn:latitude":31.99898,
+    "gn:longitude":-8.76926,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Laabichat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Labichat",
+        "Lahabichate",
+        "Labichat",
+        "Lahabichat",
+        "Douar Laabichat",
+        "Laabicha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543850
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a23b3b91b8914242fae78d1313d00944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1310215337,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310215337,
+    "wof:lastmodified":1537663681,
+    "wof:name":"Douar Laabichat",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76926,
+    31.99898,
+    -8.76926,
+    31.99898
+],
+  "geometry": {"coordinates":[-8.76926,31.99898],"type":"Point"}
+}

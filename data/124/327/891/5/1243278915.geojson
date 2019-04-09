@@ -1,0 +1,71 @@
+{
+  "id": 1243278915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2866,29.99919,-8.2866,29.99919",
+    "geom:latitude":29.99919,
+    "geom:longitude":-8.2866,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Assa Tagmout",
+    "gn:country_code":"MA",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556928,
+    "gn:latitude":29.99919,
+    "gn:longitude":-8.2866,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Assa Tagmout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assa n\u2019 Igueld",
+        "Aassa Tagmout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556928
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a4e309d42bf0dc60759148124d992179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1243278915,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1243278915,
+    "wof:lastmodified":1537664096,
+    "wof:name":"Assa Tagmout",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2866,
+    29.99919,
+    -8.2866,
+    29.99919
+],
+  "geometry": {"coordinates":[-8.2866,29.99919],"type":"Point"}
+}

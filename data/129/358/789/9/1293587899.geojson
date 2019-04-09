@@ -1,0 +1,73 @@
+{
+  "id": 1293587899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61736,31.61508,-6.61736,31.61508",
+    "geom:latitude":31.61508,
+    "geom:longitude":-6.61736,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Assamer",
+    "gn:country_code":"MA",
+    "gn:dem":1844,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556940,
+    "gn:latitude":31.61508,
+    "gn:longitude":-6.61736,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Assamer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assammar",
+        "Assameur",
+        "Assamer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556940
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"22da6c3eaad27669476cf7b03d9b2620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1293587899,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1293587899,
+    "wof:lastmodified":1537664097,
+    "wof:name":"Assamer",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61736,
+    31.61508,
+    -6.61736,
+    31.61508
+],
+  "geometry": {"coordinates":[-6.61736,31.61508],"type":"Point"}
+}

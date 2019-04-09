@@ -1,0 +1,67 @@
+{
+  "id": 1260095197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.33603,32.3334,-6.33603,32.3334",
+    "geom:latitude":32.3334,
+    "geom:longitude":-6.33603,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Somaa",
+    "gn:country_code":"MA",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532519,
+    "gn:latitude":32.3334,
+    "gn:longitude":-6.33603,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Somaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532519
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"96c8627fceb577abc915bb5979eea168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1260095197,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1260095197,
+    "wof:lastmodified":1536970770,
+    "wof:name":"Somaa",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.33603,
+    32.3334,
+    -6.33603,
+    32.3334
+],
+  "geometry": {"coordinates":[-6.33603,32.3334],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343868479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.86412,34.25505,-5.86412,34.25505",
+    "geom:latitude":34.25505,
+    "geom:longitude":-5.86412,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad Boutabet",
+    "gn:country_code":"MA",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551450,
+    "gn:latitude":34.25505,
+    "gn:longitude":-5.86412,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Boutabet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled boutabate",
+        "Douar Oulad Boutabet",
+        "Douar Oulad Bou Thabet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551450
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2e350217baa8cf0e8e1e67f55dbcf416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1343868479,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1343868479,
+    "wof:lastmodified":1537663939,
+    "wof:name":"Douar Oulad Boutabet",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.86412,
+    34.25505,
+    -5.86412,
+    34.25505
+],
+  "geometry": {"coordinates":[-5.86412,34.25505],"type":"Point"}
+}

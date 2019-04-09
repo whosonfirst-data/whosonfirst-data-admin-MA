@@ -1,0 +1,67 @@
+{
+  "id": 1293103725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75346,33.82275,-6.75346,33.82275",
+    "geom:latitude":33.82275,
+    "geom:longitude":-6.75346,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dar Abdellah",
+    "gn:country_code":"MA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940760,
+    "gn:latitude":33.82275,
+    "gn:longitude":-6.75346,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Abdellah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940760
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"387f5be7be36c25984f12aa285592552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1293103725,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1293103725,
+    "wof:lastmodified":1536842253,
+    "wof:name":"Dar Abdellah",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.75346,
+    33.82275,
+    -6.75346,
+    33.82275
+],
+  "geometry": {"coordinates":[-6.75346,33.82275],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125313127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.92226,35.48797,-5.92226,35.48797",
+    "geom:latitude":35.48797,
+    "geom:longitude":-5.92226,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":12946,
+    "gn:population":12946,
+    "iso:country":"MA",
+    "lbl:latitude":35.48797,
+    "lbl:longitude":-5.92226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0627\u0644\u064a\u064a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Lkhaloua"
+    ],
+    "name:fra_x_variant":[
+        "Lkhaloua (CR)",
+        "Lkhaloua (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545724,
+    "qs_pg:gn_pop":12946,
+    "qs_pg:name":"Lkhaloua",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628866,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545724,
+        "qs_pg:id":628866
+    },
+    "wof:country":"MA",
+    "wof:created":1497044122,
+    "wof:geomhash":"2920bb6eab4878175cb68a4225fd82c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "localadmin_id":1125313127,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125313127,
+    "wof:lastmodified":1509387935,
+    "wof:name":"Lkhaloua",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"localadmin",
+    "wof:population":12946,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.92226,
+    35.48797,
+    -5.92226,
+    35.48797
+],
+  "geometry": {"coordinates":[-5.92226,35.48797],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209630153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.50795,31.66463,-9.50795,31.66463",
+    "geom:latitude":31.66463,
+    "geom:longitude":-9.50795,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lakaaka",
+    "gn:country_code":"MA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543809,
+    "gn:latitude":31.66463,
+    "gn:longitude":-9.50795,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lakaaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Kraker",
+        "Lakaaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543809
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7bc687b038375da926cbc2d0814b8dc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209630153
+        }
+    ],
+    "wof:id":1209630153,
+    "wof:lastmodified":1537663679,
+    "wof:name":"Lakaaka",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.50795,
+    31.66463,
+    -9.50795,
+    31.66463
+],
+  "geometry": {"coordinates":[-9.50795,31.66463],"type":"Point"}
+}

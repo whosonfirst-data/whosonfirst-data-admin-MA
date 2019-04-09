@@ -1,0 +1,88 @@
+{
+  "id": 1125329775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.84965,34.51588,-3.84965,34.51588",
+    "geom:latitude":34.51588,
+    "geom:longitude":-3.84965,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3456,
+    "gn:population":2730,
+    "iso:country":"MA",
+    "lbl:latitude":34.51588,
+    "lbl:longitude":-3.84965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u062c\u0628\u0627\u0631\u0646\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Jbarna"
+    ],
+    "name:fra_x_variant":[
+        "Jbarna (CR)",
+        "Jbarna (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545570,
+    "qs_pg:gn_pop":3456,
+    "qs_pg:name":"Jbarna",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":628710,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545570,
+        "qs_pg:id":628710
+    },
+    "wof:country":"MA",
+    "wof:created":1497045067,
+    "wof:geomhash":"a61a71c170a2d4983018580065a8248e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "localadmin_id":1125329775,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125329775,
+    "wof:lastmodified":1509388342,
+    "wof:name":"Jbarna",
+    "wof:parent_id":890436791,
+    "wof:placetype":"localadmin",
+    "wof:population":2730,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.84965,
+    34.51588,
+    -3.84965,
+    34.51588
+],
+  "geometry": {"coordinates":[-3.84965,34.51588],"type":"Point"}
+}

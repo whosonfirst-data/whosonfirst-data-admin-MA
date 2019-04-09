@@ -1,0 +1,61 @@
+{
+  "id": 1209307939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.95191,32.14708,-8.95191,32.14708",
+    "geom:latitude":32.14708,
+    "geom:longitude":-8.95191,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lehraychiya Khenifrat",
+    "gn:country_code":"MA",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637594,
+    "gn:latitude":32.14708,
+    "gn:longitude":-8.95191,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lehraychiya Khenifrat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637594
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c05b93af250e784f1c9f45b466d7a4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209307939
+        }
+    ],
+    "wof:id":1209307939,
+    "wof:lastmodified":1536291129,
+    "wof:name":"Douar Lehraychiya Khenifrat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95191,
+    32.147079999999995,
+    -8.95191,
+    32.147079999999995
+],
+  "geometry": {"coordinates":[-8.95191,32.14708],"type":"Point"}
+}

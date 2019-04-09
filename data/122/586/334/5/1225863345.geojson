@@ -1,0 +1,71 @@
+{
+  "id": 1225863345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6,32.65,-4.6,32.65",
+    "geom:latitude":32.65,
+    "geom:longitude":-4.6,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Izeroual",
+    "gn:country_code":"MA",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545300,
+    "gn:latitude":32.65,
+    "gn:longitude":-4.6,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Izeroual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azeroual",
+        "Izeroual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545300
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"93dc1d2bdb31901f001eb15d66e40b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1225863345,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1225863345,
+    "wof:lastmodified":1537663719,
+    "wof:name":"Izeroual",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6,
+    32.65,
+    -4.6,
+    32.65
+],
+  "geometry": {"coordinates":[-4.6,32.65],"type":"Point"}
+}

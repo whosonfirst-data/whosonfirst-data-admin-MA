@@ -1,0 +1,78 @@
+{
+  "id": 890445533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.08697,28.43288,-11.08697,28.43288",
+    "geom:latitude":28.43288,
+    "geom:longitude":-11.08697,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":60560,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0643\u0644\u064a\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tan Tan"
+    ],
+    "name:fra_x_variant":[
+        "Tan Tan (MU)",
+        "Tan Tan (Commune Urbaine)"
+    ],
+    "qs:name":"Tan Tan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":313,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890418107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546224,
+        "qs:id":629359,
+        "wd:id":"Q936316",
+        "wk:page":"Tan-Tan"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052513,
+    "wof:geomhash":"786c4e88648be546808f0ab6a52df1d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418107,
+            "localadmin_id":890445533,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":890445533,
+    "wof:lastmodified":1527792867,
+    "wof:name":"Tan Tan",
+    "wof:parent_id":890418107,
+    "wof:placetype":"localadmin",
+    "wof:population":60560,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.08697,
+    28.43288,
+    -11.08697,
+    28.43288
+],
+  "geometry": {"coordinates":[-11.08697,28.43288],"type":"Point"}
+}

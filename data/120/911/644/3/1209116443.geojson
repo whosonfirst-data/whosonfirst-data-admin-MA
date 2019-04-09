@@ -1,0 +1,65 @@
+{
+  "id": 1209116443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.40716,32.83967,-4.40716,32.83967",
+    "geom:latitude":32.83967,
+    "geom:longitude":-4.40716,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Semrhouni",
+    "gn:country_code":"MA",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537452,
+    "gn:latitude":32.83967,
+    "gn:longitude":-4.40716,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Semrhouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smouhouni",
+        "Semrhouni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537452
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f3e32b838d6fde88cdecf0169bb0fb36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209116443
+        }
+    ],
+    "wof:id":1209116443,
+    "wof:lastmodified":1537663521,
+    "wof:name":"Semrhouni",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.40716,
+    32.83967,
+    -4.40716,
+    32.83967
+],
+  "geometry": {"coordinates":[-4.40716,32.83967],"type":"Point"}
+}

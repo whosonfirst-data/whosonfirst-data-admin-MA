@@ -1,0 +1,61 @@
+{
+  "id": 1209206759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85849,32.97628,-7.85849,32.97628",
+    "geom:latitude":32.97628,
+    "geom:longitude":-7.85849,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Ahmed ben Slimane",
+    "gn:country_code":"MA",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11368741,
+    "gn:latitude":32.97628,
+    "gn:longitude":-7.85849,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Ahmed ben Slimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11368741
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8713cb154753e38054888ac40971dcab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209206759
+        }
+    ],
+    "wof:id":1209206759,
+    "wof:lastmodified":1536294429,
+    "wof:name":"Oulad Ahmed ben Slimane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85849,
+    32.97628,
+    -7.85849,
+    32.97628
+],
+  "geometry": {"coordinates":[-7.85849,32.97628],"type":"Point"}
+}

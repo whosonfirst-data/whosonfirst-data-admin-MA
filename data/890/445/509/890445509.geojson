@@ -1,0 +1,78 @@
+{
+  "id": 890445509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.18188,32.64782,-6.18188,32.64782",
+    "geom:latitude":32.64782,
+    "geom:longitude":-6.18188,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":11122,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u0633\u0639\u064a\u062f \u0627\u0644\u0648\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Semguet"
+    ],
+    "name:fra_x_variant":[
+        "Semguet (CR)",
+        "Semguet (Commune Rurale)"
+    ],
+    "qs:name":"Semguet",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545418,
+        "qs:id":628564,
+        "wd:id":"Q7449253",
+        "wk:page":"Semguet"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052512,
+    "wof:geomhash":"d9e5479442c445d31cd24228be0b5ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "localadmin_id":890445509,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890445509,
+    "wof:lastmodified":1527792871,
+    "wof:name":"Semguet",
+    "wof:parent_id":890452779,
+    "wof:placetype":"localadmin",
+    "wof:population":11122,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.18188,
+    32.64782,
+    -6.18188,
+    32.64782
+],
+  "geometry": {"coordinates":[-6.18188,32.64782],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360183287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.90801,32.92913,-6.90801,32.92913",
+    "geom:latitude":32.92913,
+    "geom:longitude":-6.90801,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dar el Caid",
+    "gn:country_code":"MA",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553636,
+    "gn:latitude":32.92913,
+    "gn:longitude":-6.90801,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Dar el Ca\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar el Ca\u00efd",
+        "Ca\u00efd Dar el"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890422519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553636
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b762704dae0e186fe0833aad940f5740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422519,
+            "locality_id":1360183287,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1360183287,
+    "wof:lastmodified":1537664039,
+    "wof:name":"Dar el Caid",
+    "wof:parent_id":890422519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.90801,
+    32.92913,
+    -6.90801,
+    32.92913
+],
+  "geometry": {"coordinates":[-6.90801,32.92913],"type":"Point"}
+}

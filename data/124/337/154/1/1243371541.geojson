@@ -1,0 +1,67 @@
+{
+  "id": 1243371541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.15928,35.20933,-3.15928,35.20933",
+    "geom:latitude":35.20933,
+    "geom:longitude":-3.15928,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zarroura",
+    "gn:country_code":"MA",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10845085,
+    "gn:latitude":35.20933,
+    "gn:longitude":-3.15928,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zarroura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10845085
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c524afe061c140c3c4cdfbbae7e7f063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1243371541,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243371541,
+    "wof:lastmodified":1536913979,
+    "wof:name":"Zarroura",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.15928,
+    35.20933,
+    -3.15928,
+    35.20933
+],
+  "geometry": {"coordinates":[-3.15928,35.20933],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259965589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96793,31.94464,-7.96793,31.94464",
+    "geom:latitude":31.94464,
+    "geom:longitude":-7.96793,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ezzyoud",
+    "gn:country_code":"MA",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10910505,
+    "gn:latitude":31.94464,
+    "gn:longitude":-7.96793,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ezzyoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10910505
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba962be2fdca6f02214ac10fb6af6cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1259965589,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259965589,
+    "wof:lastmodified":1536661000,
+    "wof:name":"Ezzyoud",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96793,
+    31.94464,
+    -7.96793,
+    31.94464
+],
+  "geometry": {"coordinates":[-7.96793,31.94464],"type":"Point"}
+}

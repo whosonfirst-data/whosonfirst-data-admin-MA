@@ -1,0 +1,71 @@
+{
+  "id": 1259401171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.10089,35.03795,-6.10089,35.03795",
+    "geom:latitude":35.03795,
+    "geom:longitude":-6.10089,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Aouamra",
+    "gn:country_code":"MA",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550750,
+    "gn:latitude":35.03795,
+    "gn:longitude":-6.10089,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Aouamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aoumara",
+        "El Aouamra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550750
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3ce2573443e5573472ebfdf893d60782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1259401171,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259401171,
+    "wof:lastmodified":1537663896,
+    "wof:name":"El Aouamra",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.10089,
+    35.03795,
+    -6.10089,
+    35.03795
+],
+  "geometry": {"coordinates":[-6.10089,35.03795],"type":"Point"}
+}

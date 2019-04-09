@@ -1,0 +1,71 @@
+{
+  "id": 1260304247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83189,31.34678,-8.83189,31.34678",
+    "geom:latitude":31.34678,
+    "geom:longitude":-8.83189,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Haiba",
+    "gn:country_code":"MA",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550268,
+    "gn:latitude":31.34678,
+    "gn:longitude":-8.83189,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Ha\u00efba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ha\u00efba",
+        "El Ha\u00efba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550268
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"168f4017a07e2f8feb7ab0aa14230e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1260304247,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1260304247,
+    "wof:lastmodified":1537663874,
+    "wof:name":"El Haiba",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83189,
+    31.34678,
+    -8.83189,
+    31.34678
+],
+  "geometry": {"coordinates":[-8.83189,31.34678],"type":"Point"}
+}

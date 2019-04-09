@@ -1,0 +1,67 @@
+{
+  "id": 1242663383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07102,31.48725,-8.07102,31.48725",
+    "geom:latitude":31.48725,
+    "geom:longitude":-8.07102,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar el Aouina",
+    "gn:country_code":"MA",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965110,
+    "gn:latitude":31.48725,
+    "gn:longitude":-8.07102,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar el Aou\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965110
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f2986c12d37050f3d98bd320610d01a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1242663383,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242663383,
+    "wof:lastmodified":1536940936,
+    "wof:name":"Douar el Aouina",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07102,
+    31.48725,
+    -8.07102,
+    31.48725
+],
+  "geometry": {"coordinates":[-8.07102,31.48725],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890452997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.38808,33.93874,-5.38808,33.93874",
+    "geom:latitude":33.93874,
+    "geom:longitude":-5.38808,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":13626,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0627\u0644\u0645\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Oued Jdida"
+    ],
+    "name:fra_x_variant":[
+        "Oued Jdida (CR)",
+        "Oued Jdida (Commune Rurale)"
+    ],
+    "qs:name":"Oued Jdida",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546969,
+        "qs:id":630053,
+        "wd:id":"Q7110279",
+        "wk:page":"Oued Jdida"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052837,
+    "wof:geomhash":"f89f42f8166bdf8ecedf2bd49af79504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "localadmin_id":890452997,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890452997,
+    "wof:lastmodified":1527734183,
+    "wof:name":"Oued Jdida",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"localadmin",
+    "wof:population":13626,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.38808,
+    33.93874,
+    -5.38808,
+    33.93874
+],
+  "geometry": {"coordinates":[-5.38808,33.93874],"type":"Point"}
+}

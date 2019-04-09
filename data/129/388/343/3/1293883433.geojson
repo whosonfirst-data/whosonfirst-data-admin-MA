@@ -1,0 +1,67 @@
+{
+  "id": 1293883433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.73678,33.82098,-6.73678,33.82098",
+    "geom:latitude":33.82098,
+    "geom:longitude":-6.73678,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Razq",
+    "gn:country_code":"MA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10919348,
+    "gn:latitude":33.82098,
+    "gn:longitude":-6.73678,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Razq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10919348
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6c101da34905ab263e792efc5e0f8ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1293883433,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1293883433,
+    "wof:lastmodified":1536713779,
+    "wof:name":"Oulad Razq",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73678,
+    33.82098,
+    -6.73678,
+    33.82098
+],
+  "geometry": {"coordinates":[-6.73678,33.82098],"type":"Point"}
+}

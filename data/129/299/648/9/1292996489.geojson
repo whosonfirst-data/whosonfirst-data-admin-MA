@@ -1,0 +1,70 @@
+{
+  "id": 1292996489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0201,32.93209,-8.0201,32.93209",
+    "geom:latitude":32.93209,
+    "geom:longitude":-8.0201,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kradid",
+    "gn:country_code":"MA",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551783,
+    "gn:latitude":32.93209,
+    "gn:longitude":-8.0201,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kradid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Keradid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551783
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"85898d18ad4022f898365b71233b32c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1292996489,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1292996489,
+    "wof:lastmodified":1537663965,
+    "wof:name":"Kradid",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0201,
+    32.93209,
+    -8.0201,
+    32.93209
+],
+  "geometry": {"coordinates":[-8.0201,32.93209],"type":"Point"}
+}

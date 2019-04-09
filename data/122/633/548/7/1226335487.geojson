@@ -1,0 +1,73 @@
+{
+  "id": 1226335487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.49149,32.1114,-6.49149,32.1114",
+    "geom:latitude":32.1114,
+    "geom:longitude":-6.49149,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Wa'rda",
+    "gn:country_code":"MA",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559353,
+    "gn:latitude":32.1114,
+    "gn:longitude":-6.49149,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft Wa\u2019rda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Uarda",
+        "A\u00eft Ouarda",
+        "A\u00eft Wa\u2019rda",
+        "Ayt Warda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559353
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d58580488bc7384ca3acdc3996aea915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226335487,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226335487,
+    "wof:lastmodified":1537664164,
+    "wof:name":"Ait Wa'rda",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.49149,
+    32.1114,
+    -6.49149,
+    32.1114
+],
+  "geometry": {"coordinates":[-6.49149,32.1114],"type":"Point"}
+}

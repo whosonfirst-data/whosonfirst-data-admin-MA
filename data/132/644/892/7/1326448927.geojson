@@ -1,0 +1,71 @@
+{
+  "id": 1326448927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.98449,32.30158,-3.98449,32.30158",
+    "geom:latitude":32.30158,
+    "geom:longitude":-3.98449,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Toulal",
+    "gn:country_code":"MA",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526753,
+    "gn:latitude":32.30158,
+    "gn:longitude":-3.98449,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Toulal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toula",
+        "Toulal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526753
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"25f0f52bcb483bb17651637d0d179cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1326448927,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1326448927,
+    "wof:lastmodified":1537663335,
+    "wof:name":"Toulal",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.98449,
+    32.30158,
+    -3.98449,
+    32.30158
+],
+  "geometry": {"coordinates":[-3.98449,32.30158],"type":"Point"}
+}

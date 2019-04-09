@@ -1,0 +1,78 @@
+{
+  "id": 890417085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.30265,35.64341,-5.30265,35.64341",
+    "geom:latitude":35.64341,
+    "geom:longitude":-5.30265,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":39011,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631\u0627\u0621"
+    ],
+    "name:fra_x_preferred":[
+        "Martil"
+    ],
+    "name:fra_x_variant":[
+        "Martil (MU)",
+        "Martil (Commune Urbaine)"
+    ],
+    "qs:name":"Martil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546337,
+        "qs:id":629448,
+        "wd:id":"Q2626632",
+        "wk:page":"Martil"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051179,
+    "wof:geomhash":"05a8be45fad214a0972c5f409f4658f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784777,
+            "localadmin_id":890417085,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":890417085,
+    "wof:lastmodified":1527782121,
+    "wof:name":"Martil",
+    "wof:parent_id":1108784777,
+    "wof:placetype":"localadmin",
+    "wof:population":39011,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.30265,
+    35.64341,
+    -5.30265,
+    35.64341
+],
+  "geometry": {"coordinates":[-5.30265,35.64341],"type":"Point"}
+}

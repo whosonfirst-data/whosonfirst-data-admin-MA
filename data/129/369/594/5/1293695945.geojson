@@ -1,0 +1,67 @@
+{
+  "id": 1293695945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.30689,35.01229,-4.30689,35.01229",
+    "geom:latitude":35.01229,
+    "geom:longitude":-4.30689,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Afras Chouk",
+    "gn:country_code":"MA",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091527,
+    "gn:latitude":35.01229,
+    "gn:longitude":-4.30689,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Afras Chouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091527
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1679f8343213f7727ed65c35b16c03ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1293695945,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293695945,
+    "wof:lastmodified":1536983012,
+    "wof:name":"Douar Afras Chouk",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.30689,
+    35.01229,
+    -4.30689,
+    35.01229
+],
+  "geometry": {"coordinates":[-4.30689,35.01229],"type":"Point"}
+}

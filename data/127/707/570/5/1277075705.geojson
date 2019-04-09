@@ -1,0 +1,67 @@
+{
+  "id": 1277075705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.04183,34.08362,-4.04183,34.08362",
+    "geom:latitude":34.08362,
+    "geom:longitude":-4.04183,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Bab Lehri",
+    "gn:country_code":"MA",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10932527,
+    "gn:latitude":34.08362,
+    "gn:longitude":-4.04183,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bab Lehri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10932527
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7ac8189fe4d8ec1410f57e46d68720c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1277075705,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1277075705,
+    "wof:lastmodified":1536778281,
+    "wof:name":"Douar Bab Lehri",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.04183,
+    34.08362,
+    -4.04183,
+    34.08362
+],
+  "geometry": {"coordinates":[-4.04183,34.08362],"type":"Point"}
+}

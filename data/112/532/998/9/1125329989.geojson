@@ -1,0 +1,86 @@
+{
+  "id": 1125329989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.78162,23.44159,-13.78162,23.44159",
+    "geom:latitude":23.44159,
+    "geom:longitude":-13.78162,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":275,
+    "gn:population":275,
+    "iso:country":"MA",
+    "lbl:latitude":23.44159,
+    "lbl:longitude":-13.78162,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0646\u0632\u0631\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Gleibat El Foula"
+    ],
+    "name:fra_x_variant":[
+        "Gleibat El Foula (CR)",
+        "Gleibat El Foula (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545635,
+    "qs_pg:gn_pop":275,
+    "qs_pg:name":"Gleibat El Foula",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":628776,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632217,
+        85681349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545635,
+        "qs_pg:id":628776
+    },
+    "wof:country":"MA",
+    "wof:created":1497045079,
+    "wof:geomhash":"d3e98190e25fa0ae1575431192c4bb78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632217,
+            "localadmin_id":1125329989,
+            "region_id":85681349
+        }
+    ],
+    "wof:id":1125329989,
+    "wof:lastmodified":1509388349,
+    "wof:name":"Gleibat El Foula",
+    "wof:parent_id":85681349,
+    "wof:placetype":"localadmin",
+    "wof:population":275,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.78162,
+    23.44159,
+    -13.78162,
+    23.44159
+],
+  "geometry": {"coordinates":[-13.78162,23.44159],"type":"Point"}
+}

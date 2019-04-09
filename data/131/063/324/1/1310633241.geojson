@@ -1,0 +1,67 @@
+{
+  "id": 1310633241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.56144,33.70485,-6.56144,33.70485",
+    "geom:latitude":33.70485,
+    "geom:longitude":-6.56144,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar El Mouisikha",
+    "gn:country_code":"MA",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940420,
+    "gn:latitude":33.70485,
+    "gn:longitude":-6.56144,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Mouisikha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940420
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fa7c7990a17320b854727694e969d808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1310633241,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1310633241,
+    "wof:lastmodified":1536732935,
+    "wof:name":"Douar El Mouisikha",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.56144,
+    33.70485,
+    -6.56144,
+    33.70485
+],
+  "geometry": {"coordinates":[-6.56144,33.70485],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243472939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31638,31.46047,-9.31638,31.46047",
+    "geom:latitude":31.46047,
+    "geom:longitude":-9.31638,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kourimat",
+    "gn:country_code":"MA",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544094,
+    "gn:latitude":31.46047,
+    "gn:longitude":-9.31638,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kourimat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Djem\u00e2",
+        "Korimate",
+        "El Jem\u00e2",
+        "Kourimate",
+        "Sebt-Korimate",
+        "Kourimat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544094,
+        "wk:page":"Korimate"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"80a87a9222686a27e7ba8b61738a9616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1243472939,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243472939,
+    "wof:lastmodified":1537663689,
+    "wof:name":"Kourimat",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31638,
+    31.46047,
+    -9.31638,
+    31.46047
+],
+  "geometry": {"coordinates":[-9.31638,31.46047],"type":"Point"}
+}

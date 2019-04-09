@@ -1,0 +1,72 @@
+{
+  "id": 1277089293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.65766,34.31817,-4.65766,34.31817",
+    "geom:latitude":34.31817,
+    "geom:longitude":-4.65766,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Lqolla",
+    "gn:country_code":"MA",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551771,
+    "gn:latitude":34.31817,
+    "gn:longitude":-4.65766,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lqolla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aukolla",
+        "Douar el Kolla",
+        "Douar Lqolla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551771
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cf1454c89f84f3bf99881ad1a8d9fd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1277089293,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1277089293,
+    "wof:lastmodified":1537663964,
+    "wof:name":"Douar Lqolla",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.65766,
+    34.31817,
+    -4.65766,
+    34.31817
+],
+  "geometry": {"coordinates":[-4.65766,34.31817],"type":"Point"}
+}

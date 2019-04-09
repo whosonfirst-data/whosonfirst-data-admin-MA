@@ -1,0 +1,67 @@
+{
+  "id": 1343473761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.23,29.21,-10.23,29.21",
+    "geom:latitude":29.21,
+    "geom:longitude":-10.23,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ez-xela Kim",
+    "gn:country_code":"MA",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549088,
+    "gn:latitude":29.21,
+    "gn:longitude":-10.23,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ez-xela Kim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549088
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c07d9b75f3be7ec097194f9eff340cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1343473761,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343473761,
+    "wof:lastmodified":1536727230,
+    "wof:name":"Ez-xela Kim",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.23,
+    29.21,
+    -10.23,
+    29.21
+],
+  "geometry": {"coordinates":[-10.23,29.21],"type":"Point"}
+}

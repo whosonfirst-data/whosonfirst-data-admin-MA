@@ -1,0 +1,73 @@
+{
+  "id": 1226743237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.13089,32.22893,-8.13089,32.22893",
+    "geom:latitude":32.22893,
+    "geom:longitude":-8.13089,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Simhat",
+    "gn:country_code":"MA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532556,
+    "gn:latitude":32.22893,
+    "gn:longitude":-8.13089,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Simhat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar es Smihat",
+        "Smihate",
+        "Smihat",
+        "Simhat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532556
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eb47117c39207b444a6d45f9f59e953b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1226743237,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226743237,
+    "wof:lastmodified":1537663501,
+    "wof:name":"Simhat",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.13089,
+    32.22893,
+    -8.13089,
+    32.22893
+],
+  "geometry": {"coordinates":[-8.13089,32.22893],"type":"Point"}
+}

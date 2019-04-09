@@ -1,0 +1,64 @@
+{
+  "id": 1209103087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09604,32.99594,-8.09604,32.99594",
+    "geom:latitude":32.99594,
+    "geom:longitude":-8.09604,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mohamed ben Mohammed",
+    "gn:country_code":"MA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551543,
+    "gn:latitude":32.99594,
+    "gn:longitude":-8.09604,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Mohamed ben Mohammed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Mohammed ben Mohammed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551543
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e65d2a30ddac5ffdadf4234a3990881",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209103087
+        }
+    ],
+    "wof:id":1209103087,
+    "wof:lastmodified":1537663947,
+    "wof:name":"Mohamed ben Mohammed",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09604,
+    32.99594,
+    -8.09604,
+    32.99594
+],
+  "geometry": {"coordinates":[-8.09604,32.99594],"type":"Point"}
+}

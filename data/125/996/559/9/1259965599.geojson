@@ -1,0 +1,67 @@
+{
+  "id": 1259965599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.72427,32.30328,-8.72427,32.30328",
+    "geom:latitude":32.30328,
+    "geom:longitude":-8.72427,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Hammou Kherraz",
+    "gn:country_code":"MA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10639726,
+    "gn:latitude":32.30328,
+    "gn:longitude":-8.72427,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Hammou Kherraz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10639726
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0b0d8fda2e30e0e475c6cee2a92a6581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1259965599,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259965599,
+    "wof:lastmodified":1536660988,
+    "wof:name":"Oulad Hammou Kherraz",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.72427,
+    32.30328,
+    -8.72427,
+    32.30328
+],
+  "geometry": {"coordinates":[-8.72427,32.30328],"type":"Point"}
+}

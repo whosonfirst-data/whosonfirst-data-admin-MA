@@ -1,0 +1,67 @@
+{
+  "id": 1242798019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6811,31.62016,-8.6811,31.62016",
+    "geom:latitude":31.62016,
+    "geom:longitude":-8.6811,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar Farouq",
+    "gn:country_code":"MA",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10947969,
+    "gn:latitude":31.62016,
+    "gn:longitude":-8.6811,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Farouq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10947969
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"10c8bbdee6950439bb5a59c133f751bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1242798019,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242798019,
+    "wof:lastmodified":1536745935,
+    "wof:name":"Dar Farouq",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6811,
+    31.62016,
+    -8.6811,
+    31.62016
+],
+  "geometry": {"coordinates":[-8.6811,31.62016],"type":"Point"}
+}

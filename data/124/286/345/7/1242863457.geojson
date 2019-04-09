@@ -1,0 +1,67 @@
+{
+  "id": 1242863457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.07717,29.83018,-9.07717,29.83018",
+    "geom:latitude":29.83018,
+    "geom:longitude":-9.07717,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tifight",
+    "gn:country_code":"MA",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130742,
+    "gn:latitude":29.83018,
+    "gn:longitude":-9.07717,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tifight",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130742
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"11c4fa286765a23c78f982870b755d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1242863457,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242863457,
+    "wof:lastmodified":1536651766,
+    "wof:name":"Tifight",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.07717,
+    29.83018,
+    -9.07717,
+    29.83018
+],
+  "geometry": {"coordinates":[-9.07717,29.83018],"type":"Point"}
+}

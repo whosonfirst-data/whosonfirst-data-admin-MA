@@ -1,0 +1,74 @@
+{
+  "id": 1277000057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.89909,34.78918,-5.89909,34.78918",
+    "geom:latitude":34.78918,
+    "geom:longitude":-5.89909,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad Hmidi",
+    "gn:country_code":"MA",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539853,
+    "gn:latitude":34.78918,
+    "gn:longitude":-5.89909,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Hmidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad el Hamidi",
+        "Ouled el Hamidi",
+        "Oulad al Hamidi",
+        "Oulad el Hamidi",
+        "Douar Oulad Hmidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539853
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1a636b1f4c5c8c1eed97a85f18a27f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1277000057,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1277000057,
+    "wof:lastmodified":1537663592,
+    "wof:name":"Douar Oulad Hmidi",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.89909,
+    34.78918,
+    -5.89909,
+    34.78918
+],
+  "geometry": {"coordinates":[-5.89909,34.78918],"type":"Point"}
+}

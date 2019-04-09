@@ -1,0 +1,72 @@
+{
+  "id": 1343469049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36727,34.06815,-5.36727,34.06815",
+    "geom:latitude":34.06815,
+    "geom:longitude":-5.36727,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kaf Hemara",
+    "gn:country_code":"MA",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544892,
+    "gn:latitude":34.06815,
+    "gn:longitude":-5.36727,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kaf Hemara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kej Hnana",
+        "Kef Hemara",
+        "Kaf Hemara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544892
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"12dbe2c93b89de59e6528a4db27af926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1343469049,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343469049,
+    "wof:lastmodified":1537663707,
+    "wof:name":"Kaf Hemara",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36727,
+    34.06815,
+    -5.36727,
+    34.06815
+],
+  "geometry": {"coordinates":[-5.36727,34.06815],"type":"Point"}
+}

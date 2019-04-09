@@ -1,0 +1,67 @@
+{
+  "id": 1343353733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53665,32.95388,-8.53665,32.95388",
+    "geom:latitude":32.95388,
+    "geom:longitude":-8.53665,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar La'rabda",
+    "gn:country_code":"MA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367386,
+    "gn:latitude":32.95388,
+    "gn:longitude":-8.53665,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar La\u2019rabda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367386
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9e421492b550745e9a394e6988db7c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1343353733,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343353733,
+    "wof:lastmodified":1536900317,
+    "wof:name":"Douar La'rabda",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53665,
+    32.95388,
+    -8.53665,
+    32.95388
+],
+  "geometry": {"coordinates":[-8.53665,32.95388],"type":"Point"}
+}

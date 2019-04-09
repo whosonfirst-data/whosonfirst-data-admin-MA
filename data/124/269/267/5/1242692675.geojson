@@ -1,0 +1,76 @@
+{
+  "id": 1242692675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.33924,33.68407,-7.33924,33.68407",
+    "geom:latitude":33.68407,
+    "geom:longitude":-7.33924,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beni Yakhlef",
+    "gn:country_code":"MA",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558436,
+    "gn:latitude":33.68407,
+    "gn:longitude":-7.33924,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Beni Yakhlef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint-Jean de Fedala",
+        "Louizia",
+        "Ellouizia",
+        "Al Lwiziya",
+        "Elluoizia",
+        "Al Luwayz\u012byah",
+        "Beni Yakhlef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890424147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558436
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"97b220008f2446e10c12fa26b2c955c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424147,
+            "locality_id":1242692675,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1242692675,
+    "wof:lastmodified":1537664137,
+    "wof:name":"Beni Yakhlef",
+    "wof:parent_id":890424147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.33924,
+    33.68407,
+    -7.33924,
+    33.68407
+],
+  "geometry": {"coordinates":[-7.33924,33.68407],"type":"Point"}
+}

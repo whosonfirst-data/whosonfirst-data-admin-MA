@@ -1,0 +1,67 @@
+{
+  "id": 1225843667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.48662,32.20845,-6.48662,32.20845",
+    "geom:latitude":32.20845,
+    "geom:longitude":-6.48662,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Haddou ou Nacar",
+    "gn:country_code":"MA",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435743,
+    "gn:latitude":32.20845,
+    "gn:longitude":-6.48662,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"A\u00eft Haddou ou Na\u00e7ar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435743
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"227f01680939eaa7445fc74141a3b1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1225843667,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1225843667,
+    "wof:lastmodified":1537015991,
+    "wof:name":"Ait Haddou ou Nacar",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.48662,
+    32.20845,
+    -6.48662,
+    32.20845
+],
+  "geometry": {"coordinates":[-6.48662,32.20845],"type":"Point"}
+}

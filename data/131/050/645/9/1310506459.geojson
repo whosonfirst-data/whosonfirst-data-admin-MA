@@ -1,0 +1,67 @@
+{
+  "id": 1310506459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.67112,34.20473,-6.67112,34.20473",
+    "geom:latitude":34.20473,
+    "geom:longitude":-6.67112,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hamri",
+    "gn:country_code":"MA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10797333,
+    "gn:latitude":34.20473,
+    "gn:longitude":-6.67112,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hamri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10797333
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5dc03e390821394e4131b6b4a448972c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1310506459,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1310506459,
+    "wof:lastmodified":1536915992,
+    "wof:name":"Hamri",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.67112,
+    34.20473,
+    -6.67112,
+    34.20473
+],
+  "geometry": {"coordinates":[-6.67112,34.20473],"type":"Point"}
+}

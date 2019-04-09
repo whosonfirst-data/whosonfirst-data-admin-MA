@@ -1,0 +1,66 @@
+{
+  "id": 1209433281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.02414,32.32203,-9.02414,32.32203",
+    "geom:latitude":32.32203,
+    "geom:longitude":-9.02414,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Laflalha",
+    "gn:country_code":"MA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548937,
+    "gn:latitude":32.32203,
+    "gn:longitude":-9.02414,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Laflalha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Felalha",
+        "Laflalha",
+        "Felalha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548937
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"71c9f2e7440c373b7c4d50a8f54ef8a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209433281
+        }
+    ],
+    "wof:id":1209433281,
+    "wof:lastmodified":1537663819,
+    "wof:name":"Laflalha",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.02414,
+    32.32203,
+    -9.02414,
+    32.32203
+],
+  "geometry": {"coordinates":[-9.02414,32.32203],"type":"Point"}
+}

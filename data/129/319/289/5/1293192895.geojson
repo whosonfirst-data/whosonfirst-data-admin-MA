@@ -1,0 +1,67 @@
+{
+  "id": 1293192895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46231,33.04021,-8.46231,33.04021",
+    "geom:latitude":33.04021,
+    "geom:longitude":-8.46231,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar Hamou Ben Brikat",
+    "gn:country_code":"MA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471986,
+    "gn:latitude":33.04021,
+    "gn:longitude":-8.46231,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Dar Hamou Ben Brikat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471986
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6ba5094b3c20460d8f2984f433f04c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1293192895,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293192895,
+    "wof:lastmodified":1536715109,
+    "wof:name":"Dar Hamou Ben Brikat",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46231,
+    33.04020999999999,
+    -8.46231,
+    33.04020999999999
+],
+  "geometry": {"coordinates":[-8.46231,33.04020999999999],"type":"Point"}
+}

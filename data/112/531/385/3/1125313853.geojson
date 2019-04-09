@@ -1,0 +1,88 @@
+{
+  "id": 1125313853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98048,32.88321,-5.98048,32.88321",
+    "geom:latitude":32.88321,
+    "geom:longitude":-5.98048,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11251,
+    "gn:population":16808,
+    "iso:country":"MA",
+    "lbl:latitude":32.88321,
+    "lbl:longitude":-5.98048,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0623\u0645 \u0627\u0644\u0633\u0644\u0637\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Lamine"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Lamine (CR)",
+        "Sidi Lamine (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545730,
+    "qs_pg:gn_pop":11251,
+    "qs_pg:name":"Sidi Lamine",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628872,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545730,
+        "qs_pg:id":628872
+    },
+    "wof:country":"MA",
+    "wof:created":1497044165,
+    "wof:geomhash":"0712c39ca8c2030ca5892fc4f14c64f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "localadmin_id":1125313853,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1125313853,
+    "wof:lastmodified":1509387949,
+    "wof:name":"Sidi Lamine",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"localadmin",
+    "wof:population":16808,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98048,
+    32.88321,
+    -5.98048,
+    32.88321
+],
+  "geometry": {"coordinates":[-5.98048,32.88321],"type":"Point"}
+}

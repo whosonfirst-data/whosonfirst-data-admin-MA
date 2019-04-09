@@ -1,0 +1,75 @@
+{
+  "id": 1242696343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.78167,34.77679,-4.78167,34.77679",
+    "geom:latitude":34.77679,
+    "geom:longitude":-4.78167,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Arba de Tazouguert",
+    "gn:country_code":"MA",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550675,
+    "gn:latitude":34.77679,
+    "gn:longitude":-4.78167,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Arba de Tazouguert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazzouguert",
+        "El Hahouch",
+        "El-Arbaa de Tazugart",
+        "El Arba de Tazougert",
+        "El Arbaa de Tazouguert",
+        "El Arba de Tazouguert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550675
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b651945c1f00c6b48e87e14d93158234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1242696343,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1242696343,
+    "wof:lastmodified":1537663893,
+    "wof:name":"El Arba de Tazouguert",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.78167,
+    34.77679000000001,
+    -4.78167,
+    34.77679000000001
+],
+  "geometry": {"coordinates":[-4.78167,34.77679000000001],"type":"Point"}
+}

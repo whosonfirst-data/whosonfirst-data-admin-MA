@@ -1,0 +1,70 @@
+{
+  "id": 1309697035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.90167,31.62079,-4.90167,31.62079",
+    "geom:latitude":31.62079,
+    "geom:longitude":-4.90167,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Galta",
+    "gn:country_code":"MA",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596342,
+    "gn:latitude":31.62079,
+    "gn:longitude":-4.90167,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Al Galta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Guelta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596342
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4e76f61a104c22ab0e31171827ca3953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1309697035,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1309697035,
+    "wof:lastmodified":1537664286,
+    "wof:name":"Al Galta",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.90167,
+    31.62079,
+    -4.90167,
+    31.62079
+],
+  "geometry": {"coordinates":[-4.90167,31.62079],"type":"Point"}
+}

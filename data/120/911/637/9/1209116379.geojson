@@ -1,0 +1,67 @@
+{
+  "id": 1209116379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8037,29.55693,-9.8037,29.55693",
+    "geom:latitude":29.55693,
+    "geom:longitude":-9.8037,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ikhef Ighir",
+    "gn:country_code":"MA",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546472,
+    "gn:latitude":29.55693,
+    "gn:longitude":-9.8037,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ikhef Ighir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikhfi Irhir",
+        "Irfirhir",
+        "Ikhfi Ighir",
+        "Ikhef Ighir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546472
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"de3e733096ae1a619db3641d841ca725",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209116379
+        }
+    ],
+    "wof:id":1209116379,
+    "wof:lastmodified":1537663757,
+    "wof:name":"Ikhef Ighir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8037,
+    29.55693,
+    -9.8037,
+    29.55693
+],
+  "geometry": {"coordinates":[-9.8037,29.55693],"type":"Point"}
+}

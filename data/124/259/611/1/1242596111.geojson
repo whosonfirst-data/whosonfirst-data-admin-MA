@@ -1,0 +1,71 @@
+{
+  "id": 1242596111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48317,31.17356,-8.48317,31.17356",
+    "geom:latitude":31.17356,
+    "geom:longitude":-8.48317,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tal'at Ilemti",
+    "gn:country_code":"MA",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531112,
+    "gn:latitude":31.17356,
+    "gn:longitude":-8.48317,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tal\u2019at Ilemti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tal\u2019at Ilemti",
+        "Talat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531112
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"03f0d1de48de651c235f58f22f00b6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1242596111,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242596111,
+    "wof:lastmodified":1537663458,
+    "wof:name":"Tal'at Ilemti",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48317,
+    31.17356,
+    -8.48317,
+    31.17356
+],
+  "geometry": {"coordinates":[-8.48317,31.17356],"type":"Point"}
+}

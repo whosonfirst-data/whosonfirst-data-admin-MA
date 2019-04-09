@@ -1,0 +1,67 @@
+{
+  "id": 1293502417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.77766,32.30843,-3.77766,32.30843",
+    "geom:latitude":32.30843,
+    "geom:longitude":-3.77766,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Boulbourhlal",
+    "gn:country_code":"MA",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554395,
+    "gn:latitude":32.30843,
+    "gn:longitude":-3.77766,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Boulbourhlal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554395
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"197a1f66492c258e11c785205d8fbbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1293502417,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293502417,
+    "wof:lastmodified":1536765821,
+    "wof:name":"Boulbourhlal",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.77766,
+    32.30843,
+    -3.77766,
+    32.30843
+],
+  "geometry": {"coordinates":[-3.77766,32.30843],"type":"Point"}
+}

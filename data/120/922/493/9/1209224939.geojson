@@ -1,0 +1,65 @@
+{
+  "id": 1209224939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.88773,34.40579,-4.88773,34.40579",
+    "geom:latitude":34.40579,
+    "geom:longitude":-4.88773,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Bel Kaab",
+    "gn:country_code":"MA",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540169,
+    "gn:latitude":34.40579,
+    "gn:longitude":-4.88773,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Bel Kaab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Ben Lekka\u00e2b",
+        "Oulad Bel Kaab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540169
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e4532330a766a5fa463b2f7ec3c23617",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224939
+        }
+    ],
+    "wof:id":1209224939,
+    "wof:lastmodified":1537663609,
+    "wof:name":"Douar Oulad Bel Kaab",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.88773,
+    34.40579,
+    -4.88773,
+    34.40579
+],
+  "geometry": {"coordinates":[-4.88773,34.40579],"type":"Point"}
+}

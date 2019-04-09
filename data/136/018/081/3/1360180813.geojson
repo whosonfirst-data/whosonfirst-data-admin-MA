@@ -1,0 +1,67 @@
+{
+  "id": 1360180813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.56633,30.76643,-9.56633,30.76643",
+    "geom:latitude":30.76643,
+    "geom:longitude":-9.56633,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tama Ouzier",
+    "gn:country_code":"MA",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10901094,
+    "gn:latitude":30.76643,
+    "gn:longitude":-9.56633,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tama Ouzier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10901094
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a5ec8f845c68626c3d5f74f173aa4b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1360180813,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360180813,
+    "wof:lastmodified":1536807299,
+    "wof:name":"Tama Ouzier",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.56633,
+    30.76643,
+    -9.56633,
+    30.76643
+],
+  "geometry": {"coordinates":[-9.56633,30.76643],"type":"Point"}
+}

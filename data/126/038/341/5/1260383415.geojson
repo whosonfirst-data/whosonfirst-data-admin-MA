@@ -1,0 +1,67 @@
+{
+  "id": 1260383415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.40494,32.70115,-7.40494,32.70115",
+    "geom:latitude":32.70115,
+    "geom:longitude":-7.40494,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Qouabaa",
+    "gn:country_code":"MA",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936035,
+    "gn:latitude":32.70115,
+    "gn:longitude":-7.40494,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Qouabaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936035
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"834cc56df1b399349ab8973ce1e325a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1260383415,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1260383415,
+    "wof:lastmodified":1537072017,
+    "wof:name":"Douar Qouabaa",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40494,
+    32.70115,
+    -7.40494,
+    32.70115
+],
+  "geometry": {"coordinates":[-7.40494,32.70115],"type":"Point"}
+}

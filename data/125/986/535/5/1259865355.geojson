@@ -1,0 +1,67 @@
+{
+  "id": 1259865355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.74467,31.52325,-7.74467,31.52325",
+    "geom:latitude":31.52325,
+    "geom:longitude":-7.74467,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bouaaouid",
+    "gn:country_code":"MA",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909295,
+    "gn:latitude":31.52325,
+    "gn:longitude":-7.74467,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bouaaouid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909295
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"22ab8d77a6e363daf083c541a0a0c605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1259865355,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259865355,
+    "wof:lastmodified":1536805180,
+    "wof:name":"Bouaaouid",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.74467,
+    31.52325,
+    -7.74467,
+    31.52325
+],
+  "geometry": {"coordinates":[-7.74467,31.52325],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209014733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47065,29.87548,-9.47065,29.87548",
+    "geom:latitude":29.87548,
+    "geom:longitude":-9.47065,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Taddment",
+    "gn:country_code":"MA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532069,
+    "gn:latitude":29.87548,
+    "gn:longitude":-9.47065,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taddment",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadmant",
+        "Taddemant",
+        "Taddment"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532069
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"51f5e90e919e226b597c58d6200ff03c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209014733
+        }
+    ],
+    "wof:id":1209014733,
+    "wof:lastmodified":1537663485,
+    "wof:name":"Taddment",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47065,
+    29.87548,
+    -9.47065,
+    29.87548
+],
+  "geometry": {"coordinates":[-9.47065,29.87548],"type":"Point"}
+}

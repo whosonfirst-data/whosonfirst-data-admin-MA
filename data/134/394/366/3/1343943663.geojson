@@ -1,0 +1,67 @@
+{
+  "id": 1343943663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75,31.25,-7.75,31.25",
+    "geom:latitude":31.25,
+    "geom:longitude":-7.75,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tifertane",
+    "gn:country_code":"MA",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528685,
+    "gn:latitude":31.25,
+    "gn:longitude":-7.75,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tifertane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528685
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8d715d27bce2846548b5a8b52d94ea00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1343943663,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343943663,
+    "wof:lastmodified":1537042551,
+    "wof:name":"Tifertane",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75,
+    31.25,
+    -7.75,
+    31.25
+],
+  "geometry": {"coordinates":[-7.75,31.25],"type":"Point"}
+}

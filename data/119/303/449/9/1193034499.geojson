@@ -1,0 +1,71 @@
+{
+  "id": 1193034499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1353,32.19715,-5.1353,32.19715",
+    "geom:latitude":32.19715,
+    "geom:longitude":-5.1353,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tabrijjat",
+    "gn:country_code":"MA",
+    "gn:dem":1831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532154,
+    "gn:latitude":32.19715,
+    "gn:longitude":-5.1353,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tabrijjat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabrijat",
+        "Tabrijjat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532154
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4dedfafa8bfbe23bfdd1d182c763ec13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1193034499,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1193034499,
+    "wof:lastmodified":1537663488,
+    "wof:name":"Tabrijjat",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1353,
+    32.19715,
+    -5.1353,
+    32.19715
+],
+  "geometry": {"coordinates":[-5.1353,32.19715],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310424167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.03074,33.83356,-6.03074,33.83356",
+    "geom:latitude":33.83356,
+    "geom:longitude":-6.03074,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dar 'Ali Ben Khetou",
+    "gn:country_code":"MA",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553024,
+    "gn:latitude":33.83356,
+    "gn:longitude":-6.03074,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar \u2019Ali Ben Khetou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ali Ben Khetou",
+        "Dar Ali Ben Khetou",
+        "Dar \u2019Ali Ben Khetou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553024
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"942bdb9d09309d440cc5ae36eeb58c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1310424167,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1310424167,
+    "wof:lastmodified":1537664023,
+    "wof:name":"Dar 'Ali Ben Khetou",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.03074,
+    33.83356,
+    -6.03074,
+    33.83356
+],
+  "geometry": {"coordinates":[-6.03074,33.83356],"type":"Point"}
+}

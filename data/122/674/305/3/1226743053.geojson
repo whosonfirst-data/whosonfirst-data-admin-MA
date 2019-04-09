@@ -1,0 +1,73 @@
+{
+  "id": 1226743053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.78283,31.74405,-6.78283,31.74405",
+    "geom:latitude":31.74405,
+    "geom:longitude":-6.78283,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bou'antar",
+    "gn:country_code":"MA",
+    "gn:dem":1039,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552020,
+    "gn:latitude":31.74405,
+    "gn:longitude":-6.78283,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Bou\u2019antar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boanter",
+        "Douar Bou Anter",
+        "Bou\u2019antar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552020
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cd5ae6f5f99a6533275361a81007e314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226743053,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226743053,
+    "wof:lastmodified":1537663983,
+    "wof:name":"Bou'antar",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.78283,
+    31.74405,
+    -6.78283,
+    31.74405
+],
+  "geometry": {"coordinates":[-6.78283,31.74405],"type":"Point"}
+}

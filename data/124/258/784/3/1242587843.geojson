@@ -1,0 +1,71 @@
+{
+  "id": 1242587843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.57305,34.56096,-3.57305,34.56096",
+    "geom:latitude":34.56096,
+    "geom:longitude":-3.57305,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tirni",
+    "gn:country_code":"MA",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527505,
+    "gn:latitude":34.56096,
+    "gn:longitude":-3.57305,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tirni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Et Terni ou Ouaouerni",
+        "Tirni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527505
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1c8ea54084a7d04cd2da472e075f6199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1242587843,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1242587843,
+    "wof:lastmodified":1537663356,
+    "wof:name":"Tirni",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.57305,
+    34.56095999999999,
+    -3.57305,
+    34.56095999999999
+],
+  "geometry": {"coordinates":[-3.57305,34.56095999999999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327429583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.72615,31.60838,-6.72615,31.60838",
+    "geom:latitude":31.60838,
+    "geom:longitude":-6.72615,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tagassalt",
+    "gn:country_code":"MA",
+    "gn:dem":2110,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531747,
+    "gn:latitude":31.60838,
+    "gn:longitude":-6.72615,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tagassalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531747
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"426f66959513ddead76ff15f669fe2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1327429583,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1327429583,
+    "wof:lastmodified":1536684870,
+    "wof:name":"Tagassalt",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.72615,
+    31.60838,
+    -6.72615,
+    31.60838
+],
+  "geometry": {"coordinates":[-6.72615,31.60838],"type":"Point"}
+}

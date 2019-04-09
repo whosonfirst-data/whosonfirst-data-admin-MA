@@ -1,0 +1,67 @@
+{
+  "id": 1259900185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2262,31.79897,-9.2262,31.79897",
+    "geom:latitude":31.79897,
+    "geom:longitude":-9.2262,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Hmayn",
+    "gn:country_code":"MA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10911245,
+    "gn:latitude":31.79897,
+    "gn:longitude":-9.2262,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Hmayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10911245
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5e7709e0910b84398f1ff54792c6a401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1259900185,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259900185,
+    "wof:lastmodified":1536755164,
+    "wof:name":"Douar Hmayn",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2262,
+    31.79897,
+    -9.2262,
+    31.79897
+],
+  "geometry": {"coordinates":[-9.2262,31.79897],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209224915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89119,30.25832,-7.89119,30.25832",
+    "geom:latitude":30.25832,
+    "geom:longitude":-7.89119,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Anammar",
+    "gn:country_code":"MA",
+    "gn:dem":1658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557873,
+    "gn:latitude":30.25832,
+    "gn:longitude":-7.89119,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Anammar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anammer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557873
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"599e94ce67144d26643db9aa570b1382",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224915
+        }
+    ],
+    "wof:id":1209224915,
+    "wof:lastmodified":1537664121,
+    "wof:name":"Anammar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89119,
+    30.25832,
+    -7.89119,
+    30.25832
+],
+  "geometry": {"coordinates":[-7.89119,30.25832],"type":"Point"}
+}

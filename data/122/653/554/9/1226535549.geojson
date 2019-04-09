@@ -1,0 +1,67 @@
+{
+  "id": 1226535549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.15372,32.50198,-6.15372,32.50198",
+    "geom:latitude":32.50198,
+    "geom:longitude":-6.15372,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait m'hannd",
+    "gn:country_code":"MA",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11470824,
+    "gn:latitude":32.50198,
+    "gn:longitude":-6.15372,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"A\u00eft m\u2019hannd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11470824
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b7929b540c648a663403ca1a13117aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1226535549,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226535549,
+    "wof:lastmodified":1537012066,
+    "wof:name":"Ait m'hannd",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.15372,
+    32.50198,
+    -6.15372,
+    32.50198
+],
+  "geometry": {"coordinates":[-6.15372,32.50198],"type":"Point"}
+}

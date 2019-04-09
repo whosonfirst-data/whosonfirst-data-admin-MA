@@ -1,0 +1,67 @@
+{
+  "id": 1310416215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.56,34.8,-3.56,34.8",
+    "geom:latitude":34.8,
+    "geom:longitude":-3.56,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Ababda",
+    "gn:country_code":"MA",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552184,
+    "gn:latitude":34.8,
+    "gn:longitude":-3.56,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ababda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552184
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ab76fbddd195d7853a85ad813c117e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1310416215,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1310416215,
+    "wof:lastmodified":1537043932,
+    "wof:name":"Douar Ababda",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.56,
+    34.8,
+    -3.56,
+    34.8
+],
+  "geometry": {"coordinates":[-3.56,34.8],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243274329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1532,32.38864,-4.1532,32.38864",
+    "geom:latitude":32.38864,
+    "geom:longitude":-4.1532,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Talharit",
+    "gn:country_code":"MA",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531027,
+    "gn:latitude":32.38864,
+    "gn:longitude":-4.1532,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Talharit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tallahrit",
+        "Talharite",
+        "Talharit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531027
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"86c5f7ab25d286617b619bfc34d8c6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1243274329,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1243274329,
+    "wof:lastmodified":1537663454,
+    "wof:name":"Talharit",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1532,
+    32.38864,
+    -4.1532,
+    32.38864
+],
+  "geometry": {"coordinates":[-4.1532,32.38864],"type":"Point"}
+}

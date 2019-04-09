@@ -1,0 +1,67 @@
+{
+  "id": 1226534467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.83665,33.02913,-7.83665,33.02913",
+    "geom:latitude":33.02913,
+    "geom:longitude":-7.83665,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chtawa",
+    "gn:country_code":"MA",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11472530,
+    "gn:latitude":33.02913,
+    "gn:longitude":-7.83665,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chtawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11472530
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"287c368d5ef94bad614e68a5d29dde02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1226534467,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1226534467,
+    "wof:lastmodified":1537013650,
+    "wof:name":"Chtawa",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.83665,
+    33.02913,
+    -7.83665,
+    33.02913
+],
+  "geometry": {"coordinates":[-7.83665,33.02913],"type":"Point"}
+}

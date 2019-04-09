@@ -1,0 +1,61 @@
+{
+  "id": 1209508449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31524,31.36321,-8.31524,31.36321",
+    "geom:latitude":31.36321,
+    "geom:longitude":-8.31524,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Ga'ida",
+    "gn:country_code":"MA",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963119,
+    "gn:latitude":31.36321,
+    "gn:longitude":-8.31524,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Al Ga\u2019\u00efda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963119
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c5c23e2f2bf389f36a7b0d94854399b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209508449
+        }
+    ],
+    "wof:id":1209508449,
+    "wof:lastmodified":1536284959,
+    "wof:name":"Al Ga'ida",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31524,
+    31.36321,
+    -8.31524,
+    31.36321
+],
+  "geometry": {"coordinates":[-8.31524,31.36321],"type":"Point"}
+}

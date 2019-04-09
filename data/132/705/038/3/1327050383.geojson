@@ -1,0 +1,67 @@
+{
+  "id": 1327050383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58773,31.2614,-9.58773,31.2614",
+    "geom:latitude":31.2614,
+    "geom:longitude":-9.58773,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar Id Yahya",
+    "gn:country_code":"MA",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946310,
+    "gn:latitude":31.2614,
+    "gn:longitude":-9.58773,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Id Yahya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946310
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"06a40f115c9fc49b4167a7507a580dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1327050383,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327050383,
+    "wof:lastmodified":1536734661,
+    "wof:name":"Dar Id Yahya",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58773,
+    31.2614,
+    -9.58773,
+    31.2614
+],
+  "geometry": {"coordinates":[-9.58773,31.2614],"type":"Point"}
+}

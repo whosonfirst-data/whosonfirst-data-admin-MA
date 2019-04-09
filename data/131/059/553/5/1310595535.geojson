@@ -1,0 +1,67 @@
+{
+  "id": 1310595535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78472,30.6036,-8.78472,30.6036",
+    "geom:latitude":30.6036,
+    "geom:longitude":-8.78472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zaouiet El Maader",
+    "gn:country_code":"MA",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948887,
+    "gn:latitude":30.6036,
+    "gn:longitude":-8.78472,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zaouiet El Maader",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948887
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f0155f296f2524076144856ab8e82e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1310595535,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310595535,
+    "wof:lastmodified":1536787547,
+    "wof:name":"Zaouiet El Maader",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78472,
+    30.6036,
+    -8.78472,
+    30.6036
+],
+  "geometry": {"coordinates":[-8.78472,30.6036],"type":"Point"}
+}

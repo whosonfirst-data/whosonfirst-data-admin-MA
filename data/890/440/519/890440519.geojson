@@ -1,0 +1,88 @@
+{
+  "id": 890440519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.02734,34.31548,-5.02734,34.31548",
+    "geom:latitude":34.31548,
+    "geom:longitude":-5.02734,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":13567,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u064a \u0628\u0648\u0634\u062a\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0644\u0627\u062f \u0627\u062d\u0633\u064a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi El Abed"
+    ],
+    "name:fra_x_variant":[
+        "Sidi El Abed (CR)",
+        "Sidi El Abed (Commune Rurale)",
+        "Sidi Abed",
+        "Sidi Abed (CR)",
+        "Sidi Abed (Commune Rurale)"
+    ],
+    "qs:name":"Sidi El Abed",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546279,
+        "qs:id":629318,
+        "qs_pg:id":629406,
+        "wd:id":"Q12217603",
+        "wk:page":"Sidi El Abed"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052286,
+    "wof:geomhash":"ac3f1b33cfb2d43d7fb883aaffd0cb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "localadmin_id":890440519,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890440519,
+    "wof:lastmodified":1527727105,
+    "wof:name":"Sidi El Abed",
+    "wof:parent_id":890418103,
+    "wof:placetype":"localadmin",
+    "wof:population":13567,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.02734,
+    34.31548,
+    -5.02734,
+    34.31548
+],
+  "geometry": {"coordinates":[-5.02734,34.31548],"type":"Point"}
+}

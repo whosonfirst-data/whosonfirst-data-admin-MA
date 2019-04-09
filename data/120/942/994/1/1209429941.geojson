@@ -1,0 +1,66 @@
+{
+  "id": 1209429941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.23776,29.01928,-10.23776,29.01928",
+    "geom:latitude":29.01928,
+    "geom:longitude":-10.23776,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tiliuin",
+    "gn:country_code":"MA",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528275,
+    "gn:latitude":29.01928,
+    "gn:longitude":-10.23776,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiliuin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etrasim",
+        "Tracim",
+        "Tiliuin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528275
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f70a73c5c0b82ad759cc383241ec226a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429941
+        }
+    ],
+    "wof:id":1209429941,
+    "wof:lastmodified":1537663380,
+    "wof:name":"Tiliuin",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.23776,
+    29.01928,
+    -10.23776,
+    29.01928
+],
+  "geometry": {"coordinates":[-10.23776,29.01928],"type":"Point"}
+}

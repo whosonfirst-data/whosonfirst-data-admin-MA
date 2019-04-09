@@ -1,0 +1,73 @@
+{
+  "id": 1343868553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.59138,34.19949,-4.59138,34.19949",
+    "geom:latitude":34.19949,
+    "geom:longitude":-4.59138,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Bouchamat",
+    "gn:country_code":"MA",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571652,
+    "gn:latitude":34.19949,
+    "gn:longitude":-4.59138,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bouchamat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Bouchamate",
+        "Bouchermat",
+        "Bouchamat",
+        "Douar Bouchamat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571652
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bf5a582e2cf543a5ac5d01be16f03a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1343868553,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343868553,
+    "wof:lastmodified":1537664277,
+    "wof:name":"Douar Bouchamat",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.59138,
+    34.19949,
+    -4.59138,
+    34.19949
+],
+  "geometry": {"coordinates":[-4.59138,34.19949],"type":"Point"}
+}

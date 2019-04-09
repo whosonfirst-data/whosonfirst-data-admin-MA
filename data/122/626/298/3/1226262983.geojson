@@ -1,0 +1,67 @@
+{
+  "id": 1226262983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.49558,31.49904,-9.49558,31.49904",
+    "geom:latitude":31.49904,
+    "geom:longitude":-9.49558,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ait El Haj",
+    "gn:country_code":"MA",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10899969,
+    "gn:latitude":31.49904,
+    "gn:longitude":-9.49558,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait El Haj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10899969
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6d32262623288bedfa3dc0d457150bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1226262983,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226262983,
+    "wof:lastmodified":1536909152,
+    "wof:name":"Douar Ait El Haj",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.49558,
+    31.49904,
+    -9.49558,
+    31.49904
+],
+  "geometry": {"coordinates":[-9.49558,31.49904],"type":"Point"}
+}

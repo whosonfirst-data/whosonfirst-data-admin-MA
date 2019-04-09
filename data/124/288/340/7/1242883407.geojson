@@ -1,0 +1,67 @@
+{
+  "id": 1242883407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.44369,35.64272,-5.44369,35.64272",
+    "geom:latitude":35.64272,
+    "geom:longitude":-5.44369,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar Abderranim Habane",
+    "gn:country_code":"MA",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100113,
+    "gn:latitude":35.64272,
+    "gn:longitude":-5.44369,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Abderranim Habane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100113
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5add0339e1c299f19839781a01168d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1242883407,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242883407,
+    "wof:lastmodified":1536621052,
+    "wof:name":"Dar Abderranim Habane",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.44369,
+    35.64272000000001,
+    -5.44369,
+    35.64272000000001
+],
+  "geometry": {"coordinates":[-5.44369,35.64272000000001],"type":"Point"}
+}

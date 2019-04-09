@@ -1,0 +1,67 @@
+{
+  "id": 1209630221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65456,31.24693,-8.65456,31.24693",
+    "geom:latitude":31.24693,
+    "geom:longitude":-8.65456,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Zaouia Sidi Rehal",
+    "gn:country_code":"MA",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526248,
+    "gn:latitude":31.24693,
+    "gn:longitude":-8.65456,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zaouia Sidi Rehal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi-Rahhal",
+        "Zaouia Sidi Rahal",
+        "Sidi Rahal",
+        "Zaouia Sidi Rehal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526248
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f9c84093e04df5458b5dd7fc5eb1987a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209630221
+        }
+    ],
+    "wof:id":1209630221,
+    "wof:lastmodified":1537663317,
+    "wof:name":"Zaouia Sidi Rehal",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65456,
+    31.24693,
+    -8.65456,
+    31.24693
+],
+  "geometry": {"coordinates":[-8.65456,31.24693],"type":"Point"}
+}

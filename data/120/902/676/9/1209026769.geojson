@@ -1,0 +1,61 @@
+{
+  "id": 1209026769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10761,32.27379,-8.10761,32.27379",
+    "geom:latitude":32.27379,
+    "geom:longitude":-8.10761,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chdayda",
+    "gn:country_code":"MA",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867956,
+    "gn:latitude":32.27379,
+    "gn:longitude":-8.10761,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Chdayda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867956
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1862483323c2d0f2dea3e7d87fb9878f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209026769
+        }
+    ],
+    "wof:id":1209026769,
+    "wof:lastmodified":1536299972,
+    "wof:name":"Chdayda",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.107610000000001,
+    32.273790000000005,
+    -8.107610000000001,
+    32.273790000000005
+],
+  "geometry": {"coordinates":[-8.10761,32.27379000000001],"type":"Point"}
+}

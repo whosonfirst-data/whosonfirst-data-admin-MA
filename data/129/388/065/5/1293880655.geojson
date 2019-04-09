@@ -1,0 +1,71 @@
+{
+  "id": 1293880655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58556,32.95337,-8.58556,32.95337",
+    "geom:latitude":32.95337,
+    "geom:longitude":-8.58556,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dar Ben Allou",
+    "gn:country_code":"MA",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552994,
+    "gn:latitude":32.95337,
+    "gn:longitude":-8.58556,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Dar Ben Allou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Ben Alou",
+        "Dar Ben Allou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552994
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"16ddd3020d6b56cc1dc9b3a8c2d08798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1293880655,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293880655,
+    "wof:lastmodified":1537664021,
+    "wof:name":"Dar Ben Allou",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58556,
+    32.95337,
+    -8.58556,
+    32.95337
+],
+  "geometry": {"coordinates":[-8.58556,32.95337],"type":"Point"}
+}

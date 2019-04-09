@@ -1,0 +1,72 @@
+{
+  "id": 1242587857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0646,32.40168,-5.0646,32.40168",
+    "geom:latitude":32.40168,
+    "geom:longitude":-5.0646,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Louggagh",
+    "gn:country_code":"MA",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543328,
+    "gn:latitude":32.40168,
+    "gn:longitude":-5.0646,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Louggagh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lougaghe",
+        "Louggouarh",
+        "Louggagh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543328
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b44c42d7ab92c48d90c5e74e711e3314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1242587857,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1242587857,
+    "wof:lastmodified":1537663670,
+    "wof:name":"Louggagh",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0646,
+    32.40168,
+    -5.0646,
+    32.40168
+],
+  "geometry": {"coordinates":[-5.0646,32.40168],"type":"Point"}
+}

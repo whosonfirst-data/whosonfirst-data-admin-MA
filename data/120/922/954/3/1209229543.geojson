@@ -1,0 +1,67 @@
+{
+  "id": 1209229543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.66107,34.2638,-5.66107,34.2638",
+    "geom:latitude":34.2638,
+    "geom:longitude":-5.66107,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Gourinat el Haricha",
+    "gn:country_code":"MA",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551692,
+    "gn:latitude":34.2638,
+    "gn:longitude":-5.66107,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Gourinat el Haricha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gourinat al Haricha",
+        "Dar Gourinat el Haricha",
+        "Grinatte Haricha",
+        "Douar Gourinat el Haricha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551692
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"69c27d0e9dee7cdb14047eb249e0ea96",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229543
+        }
+    ],
+    "wof:id":1209229543,
+    "wof:lastmodified":1537663958,
+    "wof:name":"Douar Gourinat el Haricha",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.66107,
+    34.2638,
+    -5.66107,
+    34.2638
+],
+  "geometry": {"coordinates":[-5.66107,34.2638],"type":"Point"}
+}

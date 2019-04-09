@@ -1,0 +1,72 @@
+{
+  "id": 1242796183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.83371,32.61585,-7.83371,32.61585",
+    "geom:latitude":32.61585,
+    "geom:longitude":-7.83371,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Rahmoun",
+    "gn:country_code":"MA",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539383,
+    "gn:latitude":32.61585,
+    "gn:longitude":-7.83371,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Rahmoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Rahmoune",
+        "Ouled rahmoune",
+        "Oulad Rahmoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539383
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3b65ba49b89224016529a70ed9983837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1242796183,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242796183,
+    "wof:lastmodified":1537663567,
+    "wof:name":"Oulad Rahmoun",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.83371,
+    32.61585,
+    -7.83371,
+    32.61585
+],
+  "geometry": {"coordinates":[-7.83371,32.61585],"type":"Point"}
+}

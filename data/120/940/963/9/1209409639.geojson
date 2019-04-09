@@ -1,0 +1,61 @@
+{
+  "id": 1209409639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.23346,33.18755,-7.23346,33.18755",
+    "geom:latitude":33.18755,
+    "geom:longitude":-7.23346,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sidi Abdelkarim",
+    "gn:country_code":"MA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10938956,
+    "gn:latitude":33.18755,
+    "gn:longitude":-7.23346,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sidi Abdelkarim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10938956
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6514cf5e995458af240506386c5c7c50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209409639
+        }
+    ],
+    "wof:id":1209409639,
+    "wof:lastmodified":1536287881,
+    "wof:name":"Sidi Abdelkarim",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.233460000000001,
+    33.18755,
+    -7.233460000000001,
+    33.18755
+],
+  "geometry": {"coordinates":[-7.23346,33.18755],"type":"Point"}
+}

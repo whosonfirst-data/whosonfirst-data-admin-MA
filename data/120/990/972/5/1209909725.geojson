@@ -1,0 +1,67 @@
+{
+  "id": 1209909725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77845,31.64332,-7.77845,31.64332",
+    "geom:latitude":31.64332,
+    "geom:longitude":-7.77845,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Laghmisiala",
+    "gn:country_code":"MA",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10428086,
+    "gn:latitude":31.64332,
+    "gn:longitude":-7.77845,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laghmisiala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10428086
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2e8d2446758c95d24b3e610e2b15eca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1209909725,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209909725,
+    "wof:lastmodified":1536380087,
+    "wof:name":"Douar Laghmisiala",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77845,
+    31.64332000000001,
+    -7.77845,
+    31.64332000000001
+],
+  "geometry": {"coordinates":[-7.77845,31.64332000000001],"type":"Point"}
+}

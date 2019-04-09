@@ -1,0 +1,78 @@
+{
+  "id": 890436499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.02372,35.47833,-6.02372,35.47833",
+    "geom:latitude":35.47833,
+    "geom:longitude":-6.02372,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":28120,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0627\u062d\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Assilah"
+    ],
+    "name:fra_x_variant":[
+        "Assilah (MU)",
+        "Assilah (Commune Urbaine)"
+    ],
+    "qs:name":"Assilah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":343,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546678,
+        "qs:id":629783,
+        "wd:id":"Q730328",
+        "wk:page":"Asilah"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052113,
+    "wof:geomhash":"4b8d43482a0b12c252633cc77b83a27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "localadmin_id":890436499,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":890436499,
+    "wof:lastmodified":1527735401,
+    "wof:name":"Assilah",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"localadmin",
+    "wof:population":28120,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.02372,
+    35.47833,
+    -6.02372,
+    35.47833
+],
+  "geometry": {"coordinates":[-6.02372,35.47833],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309824373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58716,30.49598,-9.58716,30.49598",
+    "geom:latitude":30.49598,
+    "geom:longitude":-9.58716,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tsoufidene",
+    "gn:country_code":"MA",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8542215,
+    "gn:latitude":30.49598,
+    "gn:longitude":-9.58716,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tsoufidene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8542215
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a9a51e075ba6f7dd0a80b0460d93f8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1309824373,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309824373,
+    "wof:lastmodified":1536904563,
+    "wof:name":"Tsoufidene",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58716,
+    30.49598,
+    -9.58716,
+    30.49598
+],
+  "geometry": {"coordinates":[-9.58716,30.49598],"type":"Point"}
+}

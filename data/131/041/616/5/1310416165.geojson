@@ -1,0 +1,72 @@
+{
+  "id": 1310416165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91,31.61,-7.91,31.61",
+    "geom:latitude":31.61,
+    "geom:longitude":-7.91,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sfiani",
+    "gn:country_code":"MA",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537378,
+    "gn:latitude":31.61,
+    "gn:longitude":-7.91,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sfiani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sfiani",
+        "Sefiani",
+        "Sfiani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537378
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5d8e0ae013d76b275e7d3b7d29e41d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1310416165,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310416165,
+    "wof:lastmodified":1537663520,
+    "wof:name":"Sfiani",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91,
+    31.61,
+    -7.91,
+    31.61
+],
+  "geometry": {"coordinates":[-7.91,31.61],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327123541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.97163,29.61254,-9.97163,29.61254",
+    "geom:latitude":29.61254,
+    "geom:longitude":-9.97163,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Douar Bou Touira",
+    "gn:country_code":"MA",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10886459,
+    "gn:latitude":29.61254,
+    "gn:longitude":-9.97163,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bou Touira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10886459
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aa0883477876c02f053d145e436c3488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1327123541,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327123541,
+    "wof:lastmodified":1536627091,
+    "wof:name":"Douar Bou Touira",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.97163,
+    29.61254000000001,
+    -9.97163,
+    29.61254000000001
+],
+  "geometry": {"coordinates":[-9.97163,29.61254000000001],"type":"Point"}
+}

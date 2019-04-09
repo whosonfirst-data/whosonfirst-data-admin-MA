@@ -1,0 +1,67 @@
+{
+  "id": 1242597991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.43953,31.55035,-9.43953,31.55035",
+    "geom:latitude":31.55035,
+    "geom:longitude":-9.43953,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ait Ettaoussi",
+    "gn:country_code":"MA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10899888,
+    "gn:latitude":31.55035,
+    "gn:longitude":-9.43953,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Ettaoussi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10899888
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"01c86d6435669b9db286f06147b2f829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1242597991,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242597991,
+    "wof:lastmodified":1537032896,
+    "wof:name":"Douar Ait Ettaoussi",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.43953,
+    31.55035,
+    -9.43953,
+    31.55035
+],
+  "geometry": {"coordinates":[-9.43953,31.55035],"type":"Point"}
+}

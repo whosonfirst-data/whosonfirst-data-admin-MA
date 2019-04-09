@@ -1,0 +1,66 @@
+{
+  "id": 1209224923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.30109,31.27179,-8.30109,31.27179",
+    "geom:latitude":31.27179,
+    "geom:longitude":-8.30109,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ben Bwiha",
+    "gn:country_code":"MA",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556043,
+    "gn:latitude":31.27179,
+    "gn:longitude":-8.30109,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ben Bwiha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ben Bouiha",
+        "Ben Bouiha",
+        "Ben Bwiha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556043
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1f9ffd2bb6b027ae1628bc88359b75a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224923
+        }
+    ],
+    "wof:id":1209224923,
+    "wof:lastmodified":1537664078,
+    "wof:name":"Ben Bwiha",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30109,
+    31.27179000000001,
+    -8.30109,
+    31.27179000000001
+],
+  "geometry": {"coordinates":[-8.30109,31.27179000000001],"type":"Point"}
+}

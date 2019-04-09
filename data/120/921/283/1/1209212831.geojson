@@ -1,0 +1,65 @@
+{
+  "id": 1209212831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29103,31.70286,-7.29103,31.70286",
+    "geom:latitude":31.70286,
+    "geom:longitude":-7.29103,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Oulad Bissi",
+    "gn:country_code":"MA",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540093,
+    "gn:latitude":31.70286,
+    "gn:longitude":-7.29103,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Oulad Bissi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bessel",
+        "Oulad Bissi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540093
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6a01c958ea779a10457299008ec2f21e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209212831
+        }
+    ],
+    "wof:id":1209212831,
+    "wof:lastmodified":1537663604,
+    "wof:name":"Oulad Bissi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29103,
+    31.70286,
+    -7.29103,
+    31.70286
+],
+  "geometry": {"coordinates":[-7.29103,31.70286],"type":"Point"}
+}

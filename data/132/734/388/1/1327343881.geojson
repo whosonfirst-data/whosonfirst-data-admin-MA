@@ -1,0 +1,74 @@
+{
+  "id": 1327343881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78909,32.25559,-8.78909,32.25559",
+    "geom:latitude":32.25559,
+    "geom:longitude":-8.78909,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lemaayzat",
+    "gn:country_code":"MA",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549704,
+    "gn:latitude":32.25559,
+    "gn:longitude":-8.78909,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lemaayzat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Ma\u00efzat",
+        "El-Ma\u00efzate",
+        "Ma\u00efzat",
+        "El Ma\u00efzat",
+        "Lemaayzat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549704
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"033e17187ef94bae7550048422c029a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1327343881,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1327343881,
+    "wof:lastmodified":1537663846,
+    "wof:name":"Lemaayzat",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78909,
+    32.25559000000001,
+    -8.78909,
+    32.25559000000001
+],
+  "geometry": {"coordinates":[-8.78909,32.25559000000001],"type":"Point"}
+}

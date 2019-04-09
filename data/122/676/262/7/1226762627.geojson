@@ -1,0 +1,74 @@
+{
+  "id": 1226762627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77646,34.67029,-5.77646,34.67029",
+    "geom:latitude":34.67029,
+    "geom:longitude":-5.77646,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Maarif Sedra",
+    "gn:country_code":"MA",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551567,
+    "gn:latitude":34.67029,
+    "gn:longitude":-5.77646,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Maarif Sedra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maa\u2019rif Sedra",
+        "Ma\u00e2rir Sadra",
+        "Maarif Sedra",
+        "Douar M\u00e2arif Sedra",
+        "Douar Maarif Sedra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551567
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5eba6e4a661cae22d7d6b3415d2cd615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1226762627,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1226762627,
+    "wof:lastmodified":1537663949,
+    "wof:name":"Douar Maarif Sedra",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77646,
+    34.67029,
+    -5.77646,
+    34.67029
+],
+  "geometry": {"coordinates":[-5.77646,34.67029],"type":"Point"}
+}

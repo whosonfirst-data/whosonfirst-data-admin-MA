@@ -1,0 +1,61 @@
+{
+  "id": 1209019397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.35851,33.69789,-5.35851,33.69789",
+    "geom:latitude":33.69789,
+    "geom:longitude":-5.35851,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait Moulay Tahar",
+    "gn:country_code":"MA",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559486,
+    "gn:latitude":33.69789,
+    "gn:longitude":-5.35851,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Moulay Tahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559486
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8c0572832edb80e0febc9076673d4463",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019397
+        }
+    ],
+    "wof:id":1209019397,
+    "wof:lastmodified":1536300192,
+    "wof:name":"Ait Moulay Tahar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.35851,
+    33.69789,
+    -5.35851,
+    33.69789
+],
+  "geometry": {"coordinates":[-5.35851,33.69789],"type":"Point"}
+}

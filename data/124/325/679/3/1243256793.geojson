@@ -1,0 +1,74 @@
+{
+  "id": 1243256793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18755,31.60572,-7.18755,31.60572",
+    "geom:latitude":31.60572,
+    "geom:longitude":-7.18755,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tafraint",
+    "gn:country_code":"MA",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531844,
+    "gn:latitude":31.60572,
+    "gn:longitude":-7.18755,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tafraint",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafrant",
+        "Tafrent",
+        "Tafernte",
+        "Tafra\u00efnt",
+        "Tafraint"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531844
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a9147bf1ea0505d2e8293d9c2625f35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1243256793,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1243256793,
+    "wof:lastmodified":1537663478,
+    "wof:name":"Tafraint",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18755,
+    31.60572,
+    -7.18755,
+    31.60572
+],
+  "geometry": {"coordinates":[-7.18755,31.60572],"type":"Point"}
+}

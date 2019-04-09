@@ -1,0 +1,73 @@
+{
+  "id": 1226038283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92504,31.56095,-6.92504,31.56095",
+    "geom:latitude":31.56095,
+    "geom:longitude":-6.92504,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Igalwane",
+    "gn:country_code":"MA",
+    "gn:dem":1686,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546360,
+    "gn:latitude":31.56095,
+    "gn:longitude":-6.92504,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Igalwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iguelouane",
+        "Imaoun n\u2019Iguelouane",
+        "Igalwane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546360
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ef372d3ed7f8e2d05ddaf8a7f9bea2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226038283,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226038283,
+    "wof:lastmodified":1537663753,
+    "wof:name":"Igalwane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92504,
+    31.56095,
+    -6.92504,
+    31.56095
+],
+  "geometry": {"coordinates":[-6.92504,31.56095],"type":"Point"}
+}

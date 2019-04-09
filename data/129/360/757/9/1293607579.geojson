@@ -1,0 +1,71 @@
+{
+  "id": 1293607579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.6356,34.02551,-5.6356,34.02551",
+    "geom:latitude":34.02551,
+    "geom:longitude":-5.6356,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Mrabtine",
+    "gn:country_code":"MA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551533,
+    "gn:latitude":34.02551,
+    "gn:longitude":-5.6356,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Mrabtine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Merabtin",
+        "Douar Mrabtine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551533
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8f6738311248833f1bcf5ca5159f5493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1293607579,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293607579,
+    "wof:lastmodified":1537663946,
+    "wof:name":"Douar Mrabtine",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6356,
+    34.02551,
+    -5.6356,
+    34.02551
+],
+  "geometry": {"coordinates":[-5.6356,34.02551],"type":"Point"}
+}

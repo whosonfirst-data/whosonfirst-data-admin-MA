@@ -1,0 +1,88 @@
+{
+  "id": 1125296723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7921,31.42765,-7.7921,31.42765",
+    "geom:latitude":31.42765,
+    "geom:longitude":-7.7921,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":21931,
+    "gn:population":25220,
+    "iso:country":"MA",
+    "lbl:latitude":31.42765,
+    "lbl:longitude":-7.7921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u062d\u0643\u064a\u0645  \u0623\u064a\u062a  \u064a\u0632\u064a\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Ghmate"
+    ],
+    "name:fra_x_variant":[
+        "Ghmate (CR)",
+        "Ghmate (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546604,
+    "qs_pg:gn_pop":21931,
+    "qs_pg:name":"Ghmate",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":629705,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546604,
+        "qs_pg:id":629705
+    },
+    "wof:country":"MA",
+    "wof:created":1497043184,
+    "wof:geomhash":"069c643f41713e4c02ecde4372c3aa91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "localadmin_id":1125296723,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125296723,
+    "wof:lastmodified":1509387638,
+    "wof:name":"Ghmate",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"localadmin",
+    "wof:population":25220,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7921,
+    31.42765,
+    -7.7921,
+    31.42765
+],
+  "geometry": {"coordinates":[-7.7921,31.42765],"type":"Point"}
+}

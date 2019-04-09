@@ -1,0 +1,71 @@
+{
+  "id": 1242892389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90254,29.51202,-8.90254,29.51202",
+    "geom:latitude":29.51202,
+    "geom:longitude":-8.90254,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Bou Nouh",
+    "gn:country_code":"MA",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560226,
+    "gn:latitude":29.51202,
+    "gn:longitude":-8.90254,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Bou Nouh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Boumouh",
+        "A\u00eft Bou Nouh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560226
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d1dd92470c1a6cef20cf682abecefc26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1242892389,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242892389,
+    "wof:lastmodified":1537664197,
+    "wof:name":"Ait Bou Nouh",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90254,
+    29.51202,
+    -8.90254,
+    29.51202
+],
+  "geometry": {"coordinates":[-8.90254,29.51202],"type":"Point"}
+}

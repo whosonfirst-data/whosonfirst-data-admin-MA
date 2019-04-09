@@ -1,0 +1,73 @@
+{
+  "id": 1360303933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.43056,30.68036,-6.43056,30.68036",
+    "geom:latitude":30.68036,
+    "geom:longitude":-6.43056,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aouriz",
+    "gn:country_code":"MA",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538681,
+    "gn:latitude":30.68036,
+    "gn:longitude":-6.43056,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aour\u00eez",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouriz",
+        "Ourhiz",
+        "Aouriz",
+        "Aour\u00eez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538681
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1422789e2e5c3b7471b3859acb873e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1360303933,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360303933,
+    "wof:lastmodified":1537663541,
+    "wof:name":"Aouriz",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.43056,
+    30.68036,
+    -6.43056,
+    30.68036
+],
+  "geometry": {"coordinates":[-6.43056,30.68036],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209028337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.27072,33.17471,-7.27072,33.17471",
+    "geom:latitude":33.17471,
+    "geom:longitude":-7.27072,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Zouayer Oulad Saleh",
+    "gn:country_code":"MA",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936435,
+    "gn:latitude":33.17471,
+    "gn:longitude":-7.27072,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Zouayer Oulad Saleh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936435
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ab7dc6120f589e8c6ba4ee37483b8fed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209028337
+        }
+    ],
+    "wof:id":1209028337,
+    "wof:lastmodified":1536299925,
+    "wof:name":"Douar Zouayer Oulad Saleh",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.27072,
+    33.17471,
+    -7.27072,
+    33.17471
+],
+  "geometry": {"coordinates":[-7.27072,33.17471],"type":"Point"}
+}

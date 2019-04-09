@@ -1,0 +1,67 @@
+{
+  "id": 1309808575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.47123,33.60914,-6.47123,33.60914",
+    "geom:latitude":33.60914,
+    "geom:longitude":-6.47123,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dar Bou Amar",
+    "gn:country_code":"MA",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936922,
+    "gn:latitude":33.60914,
+    "gn:longitude":-6.47123,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Bou Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936922
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ca91498000c6a4c9c300e2e42ee18312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1309808575,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1309808575,
+    "wof:lastmodified":1536927717,
+    "wof:name":"Dar Bou Amar",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.47123,
+    33.60914,
+    -6.47123,
+    33.60914
+],
+  "geometry": {"coordinates":[-6.47123,33.60914],"type":"Point"}
+}

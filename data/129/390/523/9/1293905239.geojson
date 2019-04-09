@@ -1,0 +1,71 @@
+{
+  "id": 1293905239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42034,32.89782,-7.42034,32.89782",
+    "geom:latitude":32.89782,
+    "geom:longitude":-7.42034,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Koudiat Oulad Bou Sba'",
+    "gn:country_code":"MA",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540112,
+    "gn:latitude":32.89782,
+    "gn:longitude":-7.42034,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Koudiat Oulad Bou Sba\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koudiat Oulad Bou Sba\u2019",
+        "Koudia Oulad Ben Sb\u00e2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540112
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"06abde322e556e0b945b2f1854c1c3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1293905239,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293905239,
+    "wof:lastmodified":1537663605,
+    "wof:name":"Koudiat Oulad Bou Sba'",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42034,
+    32.89782,
+    -7.42034,
+    32.89782
+],
+  "geometry": {"coordinates":[-7.42034,32.89782],"type":"Point"}
+}

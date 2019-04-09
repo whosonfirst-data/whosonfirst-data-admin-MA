@@ -1,0 +1,66 @@
+{
+  "id": 1209630205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07731,30.76481,-8.07731,30.76481",
+    "geom:latitude":30.76481,
+    "geom:longitude":-8.07731,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Amaznas",
+    "gn:country_code":"MA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557909,
+    "gn:latitude":30.76481,
+    "gn:longitude":-8.07731,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Amaznas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amznass",
+        "Amznes",
+        "Amaznas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557909
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d04a0ef9075744945fb3222232238223",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209630205
+        }
+    ],
+    "wof:id":1209630205,
+    "wof:lastmodified":1537664123,
+    "wof:name":"Amaznas",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07731,
+    30.76481,
+    -8.07731,
+    30.76481
+],
+  "geometry": {"coordinates":[-8.07731,30.76481],"type":"Point"}
+}

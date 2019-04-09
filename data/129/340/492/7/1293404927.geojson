@@ -1,0 +1,71 @@
+{
+  "id": 1293404927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69308,31.95207,-7.69308,31.95207",
+    "geom:latitude":31.95207,
+    "geom:longitude":-7.69308,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi Bouchta",
+    "gn:country_code":"MA",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2535871,
+    "gn:latitude":31.95207,
+    "gn:longitude":-7.69308,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Bouchta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Bouchta",
+        "Sidi Bouchta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2535871
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0895a1f7c3451169c052c513f95f6189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1293404927,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293404927,
+    "wof:lastmodified":1537663514,
+    "wof:name":"Sidi Bouchta",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69308,
+    31.95207000000001,
+    -7.69308,
+    31.95207000000001
+],
+  "geometry": {"coordinates":[-7.69308,31.95207000000001],"type":"Point"}
+}

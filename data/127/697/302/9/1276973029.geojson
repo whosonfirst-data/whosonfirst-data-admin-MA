@@ -1,0 +1,67 @@
+{
+  "id": 1276973029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.76878,31.22603,-9.76878,31.22603",
+    "geom:latitude":31.22603,
+    "geom:longitude":-9.76878,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Id Mohamed",
+    "gn:country_code":"MA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869376,
+    "gn:latitude":31.22603,
+    "gn:longitude":-9.76878,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Mohamed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869376
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"db43371fdfef3b0f8c9fdbc35d7c3587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1276973029,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276973029,
+    "wof:lastmodified":1536916949,
+    "wof:name":"Id Mohamed",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.76878,
+    31.22603,
+    -9.76878,
+    31.22603
+],
+  "geometry": {"coordinates":[-9.76878,31.22603],"type":"Point"}
+}

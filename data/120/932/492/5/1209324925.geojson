@@ -1,0 +1,66 @@
+{
+  "id": 1209324925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.31384,34.21319,-4.31384,34.21319",
+    "geom:latitude":34.21319,
+    "geom:longitude":-4.31384,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar El Koudia Lhmra",
+    "gn:country_code":"MA",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547986,
+    "gn:latitude":34.21319,
+    "gn:longitude":-4.31384,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar El Koudia Lhmra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Gada el Hamra",
+        "El Gada el Hamra",
+        "Douar El Koudia Lhmra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547986
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d964d00a9e288c2c659b0bb97dbea8f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209324925
+        }
+    ],
+    "wof:id":1209324925,
+    "wof:lastmodified":1537663804,
+    "wof:name":"Douar El Koudia Lhmra",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.31384,
+    34.21319,
+    -4.31384,
+    34.21319
+],
+  "geometry": {"coordinates":[-4.31384,34.21319],"type":"Point"}
+}

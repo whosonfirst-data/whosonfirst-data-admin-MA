@@ -1,0 +1,73 @@
+{
+  "id": 1310424113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.14736,31.22972,-7.14736,31.22972",
+    "geom:latitude":31.22972,
+    "geom:longitude":-7.14736,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tagandoucht",
+    "gn:country_code":"MA",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531737,
+    "gn:latitude":31.22972,
+    "gn:longitude":-7.14736,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagandoucht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taguendouchte",
+        "Tagentoucht",
+        "Taguendoucht",
+        "Tagandoucht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531737
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"655126ef9d485e65823de9456226843a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1310424113,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310424113,
+    "wof:lastmodified":1537663474,
+    "wof:name":"Tagandoucht",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.14736,
+    31.22972,
+    -7.14736,
+    31.22972
+],
+  "geometry": {"coordinates":[-7.14736,31.22972],"type":"Point"}
+}

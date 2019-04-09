@@ -1,0 +1,71 @@
+{
+  "id": 1225954551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.94513,34.43915,-3.94513,34.43915",
+    "geom:latitude":34.43915,
+    "geom:longitude":-3.94513,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dar Caid",
+    "gn:country_code":"MA",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552921,
+    "gn:latitude":34.43915,
+    "gn:longitude":-3.94513,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Ca\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Ca\u00efd",
+        "Dar Ca\u00efd Azzouz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552921
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1c03cf9ac909b7fae5a89d4a7480c159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1225954551,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1225954551,
+    "wof:lastmodified":1537664019,
+    "wof:name":"Dar Caid",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.94513,
+    34.43915,
+    -3.94513,
+    34.43915
+],
+  "geometry": {"coordinates":[-3.94513,34.43915],"type":"Point"}
+}

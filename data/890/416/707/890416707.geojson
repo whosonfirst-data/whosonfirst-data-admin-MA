@@ -1,0 +1,78 @@
+{
+  "id": 890416707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.23729,34.93199,-2.23729,34.93199",
+    "geom:latitude":34.93199,
+    "geom:longitude":-2.23729,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":2975,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u062d\u0641\u064a\u0631 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Erreggada"
+    ],
+    "name:fra_x_variant":[
+        "Ain Erreggada (MU)",
+        "Ain Erreggada (Commune Urbaine)"
+    ],
+    "qs:name":"Ain Erreggada",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545533,
+        "qs:id":628676,
+        "wd:id":"Q2876313",
+        "wk:page":"Ain Erreggada"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051151,
+    "wof:geomhash":"4f633fb4b607045f2e3e01de6f94b31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "localadmin_id":890416707,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890416707,
+    "wof:lastmodified":1527792799,
+    "wof:name":"Ain Erreggada",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"localadmin",
+    "wof:population":2975,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.23729,
+    34.93199,
+    -2.23729,
+    34.93199
+],
+  "geometry": {"coordinates":[-2.23729,34.93199],"type":"Point"}
+}

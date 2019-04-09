@@ -1,0 +1,67 @@
+{
+  "id": 1310700365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57281,31.98727,-6.57281,31.98727",
+    "geom:latitude":31.98727,
+    "geom:longitude":-6.57281,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mizam",
+    "gn:country_code":"MA",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359193,
+    "gn:latitude":31.98727,
+    "gn:longitude":-6.57281,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Mizam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359193
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a2eff3f16e6cad1d0b2b4ed2180044f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310700365,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310700365,
+    "wof:lastmodified":1536634479,
+    "wof:name":"Mizam",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57281,
+    31.98727,
+    -6.57281,
+    31.98727
+],
+  "geometry": {"coordinates":[-6.57281,31.98727],"type":"Point"}
+}

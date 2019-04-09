@@ -1,0 +1,67 @@
+{
+  "id": 1343759971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19841,31.65338,-7.19841,31.65338",
+    "geom:latitude":31.65338,
+    "geom:longitude":-7.19841,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Ousouss",
+    "gn:country_code":"MA",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354550,
+    "gn:latitude":31.65338,
+    "gn:longitude":-7.19841,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Ousouss",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354550
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0f494fafae748aa3b13c0904fd174161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343759971,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343759971,
+    "wof:lastmodified":1536811177,
+    "wof:name":"Ait Ousouss",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19841,
+    31.65338,
+    -7.19841,
+    31.65338
+],
+  "geometry": {"coordinates":[-7.19841,31.65338],"type":"Point"}
+}

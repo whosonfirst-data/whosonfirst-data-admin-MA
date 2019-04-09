@@ -1,0 +1,61 @@
+{
+  "id": 1209508489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99098,31.39992,-7.99098,31.39992",
+    "geom:latitude":31.39992,
+    "geom:longitude":-7.99098,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sidi 'Ali Ben Mess'aoud",
+    "gn:country_code":"MA",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353236,
+    "gn:latitude":31.39992,
+    "gn:longitude":-7.99098,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sidi \u2019Ali Ben Mess\u2019aoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353236
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"57ebe3962e0a3bc2bfa447920ff2bb63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209508489
+        }
+    ],
+    "wof:id":1209508489,
+    "wof:lastmodified":1536284958,
+    "wof:name":"Sidi 'Ali Ben Mess'aoud",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99098,
+    31.39992,
+    -7.99098,
+    31.39992
+],
+  "geometry": {"coordinates":[-7.99098,31.39992],"type":"Point"}
+}

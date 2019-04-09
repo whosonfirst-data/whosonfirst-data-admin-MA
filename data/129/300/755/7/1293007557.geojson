@@ -1,0 +1,67 @@
+{
+  "id": 1293007557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15136,34.23022,-5.15136,34.23022",
+    "geom:latitude":34.23022,
+    "geom:longitude":-5.15136,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Echnanfa",
+    "gn:country_code":"MA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922539,
+    "gn:latitude":34.23022,
+    "gn:longitude":-5.15136,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Echnanfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922539
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e2b08e1c138f62d76c7c8e9937dae831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1293007557,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293007557,
+    "wof:lastmodified":1536981163,
+    "wof:name":"Douar Echnanfa",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.15136,
+    34.23022,
+    -5.15136,
+    34.23022
+],
+  "geometry": {"coordinates":[-5.15136,34.23022],"type":"Point"}
+}

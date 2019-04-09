@@ -1,0 +1,67 @@
+{
+  "id": 1226336937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47107,33.19208,-8.47107,33.19208",
+    "geom:latitude":33.19208,
+    "geom:longitude":-8.47107,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar El Adir",
+    "gn:country_code":"MA",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551897,
+    "gn:latitude":33.19208,
+    "gn:longitude":-8.47107,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Douar El Adir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551897
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c23f017b897ac2515e46f7c6faa39177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1226336937,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226336937,
+    "wof:lastmodified":1536802192,
+    "wof:name":"Douar El Adir",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47107,
+    33.19208,
+    -8.47107,
+    33.19208
+],
+  "geometry": {"coordinates":[-8.47107,33.19208],"type":"Point"}
+}

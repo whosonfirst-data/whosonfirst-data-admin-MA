@@ -1,0 +1,65 @@
+{
+  "id": 1209229583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.96588,29.61285,-8.96588,29.61285",
+    "geom:latitude":29.61285,
+    "geom:longitude":-8.96588,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tansemt",
+    "gn:country_code":"MA",
+    "gn:dem":1343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530251,
+    "gn:latitude":29.61285,
+    "gn:longitude":-8.96588,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tansemt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanssimette",
+        "Tansemt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530251
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e3c3ed2531cec5a23912ef1e7469a4be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229583
+        }
+    ],
+    "wof:id":1209229583,
+    "wof:lastmodified":1537663432,
+    "wof:name":"Tansemt",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.96588,
+    29.61285,
+    -8.96588,
+    29.61285
+],
+  "geometry": {"coordinates":[-8.96588,29.61285],"type":"Point"}
+}

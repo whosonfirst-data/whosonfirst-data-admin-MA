@@ -1,0 +1,64 @@
+{
+  "id": 1209530621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39721,30.98576,-8.39721,30.98576",
+    "geom:latitude":30.98576,
+    "geom:longitude":-8.39721,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Awdid",
+    "gn:country_code":"MA",
+    "gn:dem":2040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557610,
+    "gn:latitude":30.98576,
+    "gn:longitude":-8.39721,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Awdid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aoudid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557610
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"453b88714268acd79907fb7ae6cdd75b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209530621
+        }
+    ],
+    "wof:id":1209530621,
+    "wof:lastmodified":1537664113,
+    "wof:name":"Awdid",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39721,
+    30.98576,
+    -8.39721,
+    30.98576
+],
+  "geometry": {"coordinates":[-8.39721,30.98576],"type":"Point"}
+}

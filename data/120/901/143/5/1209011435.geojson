@@ -1,0 +1,61 @@
+{
+  "id": 1209011435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.30588,34.31138,-4.30588,34.31138",
+    "geom:latitude":34.31138,
+    "geom:longitude":-4.30588,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Lkaf",
+    "gn:country_code":"MA",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10933144,
+    "gn:latitude":34.31138,
+    "gn:longitude":-4.30588,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lkaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10933144
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b0ca2380e3c234393a7b81b53daa1ef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209011435
+        }
+    ],
+    "wof:id":1209011435,
+    "wof:lastmodified":1536300433,
+    "wof:name":"Douar Lkaf",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.30588,
+    34.31138,
+    -4.30588,
+    34.31138
+],
+  "geometry": {"coordinates":[-4.30588,34.31138],"type":"Point"}
+}

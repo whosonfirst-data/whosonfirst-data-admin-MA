@@ -1,0 +1,72 @@
+{
+  "id": 1360095295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90679,32.23032,-8.90679,32.23032",
+    "geom:latitude":32.23032,
+    "geom:longitude":-8.90679,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Jilali",
+    "gn:country_code":"MA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538969,
+    "gn:latitude":32.23032,
+    "gn:longitude":-8.90679,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Jilali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Jillali",
+        "Ouled Jilali",
+        "Douar Oulad Jilali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538969
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0ae85bd2dc304abb7c73d81cd58551cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1360095295,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1360095295,
+    "wof:lastmodified":1537663546,
+    "wof:name":"Douar Oulad Jilali",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90679,
+    32.23032,
+    -8.90679,
+    32.23032
+],
+  "geometry": {"coordinates":[-8.90679,32.23032],"type":"Point"}
+}

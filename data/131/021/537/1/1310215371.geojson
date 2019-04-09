@@ -1,0 +1,74 @@
+{
+  "id": 1310215371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93872,31.672,-8.93872,31.672",
+    "geom:latitude":31.672,
+    "geom:longitude":-8.93872,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Ahsinate",
+    "gn:country_code":"MA",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552819,
+    "gn:latitude":31.672,
+    "gn:longitude":-8.93872,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Ahsinate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lahsinat",
+        "Dar el Ahsinat",
+        "El Ahsinat",
+        "Dar el Ahsinate",
+        "El Ahsinate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552819
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ec63c353f3ce2e3a823c2c3bba5c6c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1310215371,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310215371,
+    "wof:lastmodified":1537664014,
+    "wof:name":"El Ahsinate",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93872,
+    31.672,
+    -8.93872,
+    31.672
+],
+  "geometry": {"coordinates":[-8.93872,31.672],"type":"Point"}
+}

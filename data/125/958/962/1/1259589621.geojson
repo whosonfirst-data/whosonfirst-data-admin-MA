@@ -1,0 +1,67 @@
+{
+  "id": 1259589621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.29722,34.29624,-5.29722,34.29624",
+    "geom:latitude":34.29624,
+    "geom:longitude":-5.29722,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Meghayrat",
+    "gn:country_code":"MA",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985184,
+    "gn:latitude":34.29624,
+    "gn:longitude":-5.29722,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Meghayrat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985184
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"36beaec411c5e47a4e1ad9b7bfa72af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1259589621,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1259589621,
+    "wof:lastmodified":1536706177,
+    "wof:name":"Douar Meghayrat",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.29722,
+    34.29624,
+    -5.29722,
+    34.29624
+],
+  "geometry": {"coordinates":[-5.29722,34.29624],"type":"Point"}
+}

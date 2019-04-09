@@ -1,0 +1,67 @@
+{
+  "id": 1242966703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90314,32.19527,-8.90314,32.19527",
+    "geom:latitude":32.19527,
+    "geom:longitude":-8.90314,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Tahar Ben El Arbi",
+    "gn:country_code":"MA",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637670,
+    "gn:latitude":32.19527,
+    "gn:longitude":-8.90314,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tahar Ben El Arbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637670
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3ad1b433ae288f3156f7727027b912af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1242966703,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1242966703,
+    "wof:lastmodified":1536999512,
+    "wof:name":"Douar Tahar Ben El Arbi",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90314,
+    32.19527,
+    -8.90314,
+    32.19527
+],
+  "geometry": {"coordinates":[-8.90314,32.19527],"type":"Point"}
+}

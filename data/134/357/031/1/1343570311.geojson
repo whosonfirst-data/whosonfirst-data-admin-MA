@@ -1,0 +1,67 @@
+{
+  "id": 1343570311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.60405,35.62703,-5.60405,35.62703",
+    "geom:latitude":35.62703,
+    "geom:longitude":-5.60405,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Lemrajae",
+    "gn:country_code":"MA",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955354,
+    "gn:latitude":35.62703,
+    "gn:longitude":-5.60405,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lemrajae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955354
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"683fd2d3b4b04915e911a9bf77f1621e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1343570311,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343570311,
+    "wof:lastmodified":1537082004,
+    "wof:name":"Douar Lemrajae",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.60405,
+    35.62703,
+    -5.60405,
+    35.62703
+],
+  "geometry": {"coordinates":[-5.60405,35.62703],"type":"Point"}
+}

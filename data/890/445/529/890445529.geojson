@@ -1,0 +1,78 @@
+{
+  "id": 890445529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.46944,33.62026,-7.46944,33.62026",
+    "geom:latitude":33.62026,
+    "geom:longitude":-7.46944,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":288677,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0627\u0644\u0628\u0631\u0646\u0648\u0635\u064a (\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Moumen"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Moumen (AR)",
+        "Sidi Moumen (Arrondissement)"
+    ],
+    "qs:name":"Sidi Moumen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673905,
+        890442533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545891,
+        "qs:id":629035,
+        "wd:id":"Q3483272",
+        "wk:page":"Sidi Moumen"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052513,
+    "wof:geomhash":"b4d896614b3671564e0826f05d118f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442533,
+            "localadmin_id":890445529,
+            "region_id":85673905
+        }
+    ],
+    "wof:id":890445529,
+    "wof:lastmodified":1527792870,
+    "wof:name":"Sidi Moumen",
+    "wof:parent_id":890442533,
+    "wof:placetype":"localadmin",
+    "wof:population":288677,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.46944,
+    33.62026,
+    -7.46944,
+    33.62026
+],
+  "geometry": {"coordinates":[-7.46944,33.62026],"type":"Point"}
+}

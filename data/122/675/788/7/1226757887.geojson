@@ -1,0 +1,70 @@
+{
+  "id": 1226757887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.23434,35.04142,-5.23434,35.04142",
+    "geom:latitude":35.04142,
+    "geom:longitude":-5.23434,
+    "gn:asciiname":"Tayroukt",
+    "gn:country_code":"MA",
+    "gn:dem":947,
+    "gn:elevation":"1200.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11396026,
+    "gn:latitude":35.04142,
+    "gn:longitude":-5.23434,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Tayroukt",
+    "gn:population":200,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11396026
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5e2d714471c9fdc6845df823d4c8364d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1226757887,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226757887,
+    "wof:lastmodified":1536698233,
+    "wof:name":"Tayroukt",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.23434,
+    35.04142,
+    -5.23434,
+    35.04142
+],
+  "geometry": {"coordinates":[-5.23434,35.04142],"type":"Point"}
+}

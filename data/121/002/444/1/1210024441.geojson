@@ -1,0 +1,80 @@
+{
+  "id": 1210024441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.96209,32.53379,-1.96209,32.53379",
+    "geom:latitude":32.53379,
+    "geom:longitude":-1.96209,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"251.0",
+    "gn:admin3_code":"825101011.0",
+    "gn:asciiname":"Bouarfa",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2555157,
+    "gn:latitude":32.53379,
+    "gn:longitude":-1.96209,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Bouarfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bouafra"
+    ],
+    "name:fra_x_variant":[
+        "Bou Arfa"
+    ],
+    "name:und_x_variant":[
+        "Bordj de Bou Arfa",
+        "Buarfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555157
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d660faf64f278a42196adca9c25fdcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1210024441,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1210024441,
+    "wof:lastmodified":1537664059,
+    "wof:name":"Bouarfa",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.96209,
+    32.53379,
+    -1.96209,
+    32.53379
+],
+  "geometry": {"coordinates":[-1.96209,32.53379],"type":"Point"}
+}

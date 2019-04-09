@@ -1,0 +1,73 @@
+{
+  "id": 1243182515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.90169,35.1236,-4.90169,35.1236",
+    "geom:latitude":35.1236,
+    "geom:longitude":-4.90169,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Tarrilane",
+    "gn:country_code":"MA",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530121,
+    "gn:latitude":35.1236,
+    "gn:longitude":-4.90169,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tarrilane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taourat",
+        "Taourart",
+        "Taourarte",
+        "Douar Tarrilane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530121
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a6fabd7fd5ce146463d8458681b589a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1243182515,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243182515,
+    "wof:lastmodified":1537663428,
+    "wof:name":"Douar Tarrilane",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.90169,
+    35.1236,
+    -4.90169,
+    35.1236
+],
+  "geometry": {"coordinates":[-4.90169,35.1236],"type":"Point"}
+}

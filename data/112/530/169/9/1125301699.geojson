@@ -1,0 +1,88 @@
+{
+  "id": 1125301699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.19767,34.70198,-4.19767,34.70198",
+    "geom:latitude":34.70198,
+    "geom:longitude":-4.19767,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":21453,
+    "gn:population":14669,
+    "iso:country":"MA",
+    "lbl:latitude":34.70198,
+    "lbl:longitude":-4.19767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0636\u064a\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tamedit"
+    ],
+    "name:fra_x_variant":[
+        "Tamedit (CR)",
+        "Tamedit (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547084,
+    "qs_pg:gn_pop":21453,
+    "qs_pg:name":"Tamedit",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":630166,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547084,
+        "qs_pg:id":630166
+    },
+    "wof:country":"MA",
+    "wof:created":1497043465,
+    "wof:geomhash":"c615d79d5cb4d05cfd53f1a7351765ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "localadmin_id":1125301699,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125301699,
+    "wof:lastmodified":1509387724,
+    "wof:name":"Tamedit",
+    "wof:parent_id":890418103,
+    "wof:placetype":"localadmin",
+    "wof:population":14669,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.19767,
+    34.70198,
+    -4.19767,
+    34.70198
+],
+  "geometry": {"coordinates":[-4.19767,34.70198],"type":"Point"}
+}

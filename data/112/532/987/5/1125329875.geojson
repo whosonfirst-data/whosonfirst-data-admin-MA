@@ -1,0 +1,88 @@
+{
+  "id": 1125329875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.52981,28.94263,-10.52981,28.94263",
+    "geom:latitude":28.94263,
+    "geom:longitude":-10.52981,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1089,
+    "gn:population":1089,
+    "iso:country":"MA",
+    "lbl:latitude":28.94263,
+    "lbl:longitude":-10.52981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0631\u064a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Echatea El Abied"
+    ],
+    "name:fra_x_variant":[
+        "Echatea El Abied (CR)",
+        "Echatea El Abied (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545598,
+    "qs_pg:gn_pop":1089,
+    "qs_pg:name":"Echatea El Abied",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":628738,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545598,
+        "qs_pg:id":628738
+    },
+    "wof:country":"MA",
+    "wof:created":1497045072,
+    "wof:geomhash":"4d4b3b5e97ec521b8b9db578bd050da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "localadmin_id":1125329875,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1125329875,
+    "wof:lastmodified":1509388345,
+    "wof:name":"Echatea El Abied",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"localadmin",
+    "wof:population":1089,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.52981,
+    28.94263,
+    -10.52981,
+    28.94263
+],
+  "geometry": {"coordinates":[-10.52981,28.94263],"type":"Point"}
+}

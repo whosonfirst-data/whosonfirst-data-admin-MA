@@ -1,0 +1,61 @@
+{
+  "id": 1209425281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.9882,35.41079,-2.9882,35.41079",
+    "geom:latitude":35.41079,
+    "geom:longitude":-2.9882,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bou Mahroud",
+    "gn:country_code":"MA",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554331,
+    "gn:latitude":35.41079,
+    "gn:longitude":-2.9882,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Mahroud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554331
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e7c4338448724b8803bf2337f16f94ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425281
+        }
+    ],
+    "wof:id":1209425281,
+    "wof:lastmodified":1536287400,
+    "wof:name":"Bou Mahroud",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9882,
+    35.41079000000001,
+    -2.9882,
+    35.41079000000001
+],
+  "geometry": {"coordinates":[-2.9882,35.41079000000001],"type":"Point"}
+}

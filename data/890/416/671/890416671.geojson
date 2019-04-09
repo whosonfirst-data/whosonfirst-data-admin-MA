@@ -1,0 +1,75 @@
+{
+  "id": 890416671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.76353,35.57723,-5.76353,35.57723",
+    "geom:latitude":35.57723,
+    "geom:longitude":-5.76353,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":3071,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u0644\u062d\u0628\u064a\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Dar Chaoui"
+    ],
+    "name:fra_x_variant":[
+        "Dar Chaoui (CR)",
+        "Dar Chaoui (Commune Rurale)"
+    ],
+    "qs:name":"Dar Chaoui",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545507,
+        "qs:id":628652
+    },
+    "wof:country":"MA",
+    "wof:created":1469051148,
+    "wof:geomhash":"9f2cad6885268e5dee11eb5aac206105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "localadmin_id":890416671,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":890416671,
+    "wof:lastmodified":1505343434,
+    "wof:name":"Dar Chaoui",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"localadmin",
+    "wof:population":3071,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.76353,
+    35.57723,
+    -5.76353,
+    35.57723
+],
+  "geometry": {"coordinates":[-5.76353,35.57723],"type":"Point"}
+}

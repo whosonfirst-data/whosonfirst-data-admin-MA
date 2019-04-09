@@ -1,0 +1,67 @@
+{
+  "id": 1226543475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.56985,35.66327,-5.56985,35.66327",
+    "geom:latitude":35.66327,
+    "geom:longitude":-5.56985,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Houmat Jhayraj",
+    "gn:country_code":"MA",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955284,
+    "gn:latitude":35.66327,
+    "gn:longitude":-5.56985,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Houmat Jhayraj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955284
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d4fbfa3f5e024e876e968853e83da577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1226543475,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226543475,
+    "wof:lastmodified":1537000529,
+    "wof:name":"Douar Houmat Jhayraj",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.56985,
+    35.66327000000001,
+    -5.56985,
+    35.66327000000001
+],
+  "geometry": {"coordinates":[-5.56985,35.66327000000001],"type":"Point"}
+}

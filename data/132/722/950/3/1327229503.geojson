@@ -1,0 +1,73 @@
+{
+  "id": 1327229503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.00724,31.64088,-7.00724,31.64088",
+    "geom:latitude":31.64088,
+    "geom:longitude":-7.00724,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Taglaout",
+    "gn:country_code":"MA",
+    "gn:dem":1400,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531719,
+    "gn:latitude":31.64088,
+    "gn:longitude":-7.00724,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Taglaout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taglawt",
+        "Taglaout",
+        "Taghrout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531719
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"63d8c1969b781209b495a4adca50bcaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1327229503,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1327229503,
+    "wof:lastmodified":1537663474,
+    "wof:name":"Taglaout",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.00724,
+    31.64088,
+    -7.00724,
+    31.64088
+],
+  "geometry": {"coordinates":[-7.00724,31.64088],"type":"Point"}
+}

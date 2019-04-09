@@ -1,0 +1,67 @@
+{
+  "id": 1293473821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58671,30.37096,-8.58671,30.37096",
+    "geom:latitude":30.37096,
+    "geom:longitude":-8.58671,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Azour-n-Idegh",
+    "gn:country_code":"MA",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11143529,
+    "gn:latitude":30.37096,
+    "gn:longitude":-8.58671,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Azour-n-Idegh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11143529
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"99bcb52cf0d1f339f2f8cfebaab467df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1293473821,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293473821,
+    "wof:lastmodified":1536806579,
+    "wof:name":"Azour-n-Idegh",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58671,
+    30.37096,
+    -8.58671,
+    30.37096
+],
+  "geometry": {"coordinates":[-8.58671,30.37096],"type":"Point"}
+}

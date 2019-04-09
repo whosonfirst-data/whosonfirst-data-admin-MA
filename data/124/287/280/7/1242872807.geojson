@@ -1,0 +1,70 @@
+{
+  "id": 1242872807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.01281,32.08452,-7.01281,32.08452",
+    "geom:latitude":32.08452,
+    "geom:longitude":-7.01281,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Zenngour",
+    "gn:country_code":"MA",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526059,
+    "gn:latitude":32.08452,
+    "gn:longitude":-7.01281,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Zenngour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zengour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526059
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e8b9e9f0e8d7bf8c1da087309341eda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1242872807,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242872807,
+    "wof:lastmodified":1537663309,
+    "wof:name":"Zenngour",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.01281,
+    32.08452,
+    -7.01281,
+    32.08452
+],
+  "geometry": {"coordinates":[-7.01281,32.08452],"type":"Point"}
+}

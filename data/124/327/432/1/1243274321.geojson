@@ -1,0 +1,72 @@
+{
+  "id": 1243274321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.76,31.56,-7.76,31.56",
+    "geom:latitude":31.56,
+    "geom:longitude":-7.76,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Oulja",
+    "gn:country_code":"MA",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549460,
+    "gn:latitude":31.56,
+    "gn:longitude":-7.76,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Oulja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Oulja",
+        "El Oualja",
+        "El Oulja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549460
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f46aead4a0a5489348b2a37b729056f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1243274321,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243274321,
+    "wof:lastmodified":1537663835,
+    "wof:name":"El Oulja",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76,
+    31.56,
+    -7.76,
+    31.56
+],
+  "geometry": {"coordinates":[-7.76,31.56],"type":"Point"}
+}

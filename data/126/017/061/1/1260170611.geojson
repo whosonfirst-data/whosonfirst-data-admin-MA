@@ -1,0 +1,67 @@
+{
+  "id": 1260170611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.92355,30.81094,-7.92355,30.81094",
+    "geom:latitude":30.81094,
+    "geom:longitude":-7.92355,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aqqa-n-Talat",
+    "gn:country_code":"MA",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147947,
+    "gn:latitude":30.81094,
+    "gn:longitude":-7.92355,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Aqqa-n-Talat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147947
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5d67cb9ca9613086d0137961c3a1b605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1260170611,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260170611,
+    "wof:lastmodified":1536864285,
+    "wof:name":"Aqqa-n-Talat",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.92355,
+    30.81094,
+    -7.92355,
+    30.81094
+],
+  "geometry": {"coordinates":[-7.92355,30.81094],"type":"Point"}
+}

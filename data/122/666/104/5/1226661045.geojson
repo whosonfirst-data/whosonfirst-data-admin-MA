@@ -1,0 +1,70 @@
+{
+  "id": 1226661045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.02378,34.92998,-6.02378,34.92998",
+    "geom:latitude":34.92998,
+    "geom:longitude":-6.02378,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lemkarza",
+    "gn:country_code":"MA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552642,
+    "gn:latitude":34.92998,
+    "gn:longitude":-6.02378,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lemkarza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Mkarza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552642
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"886bb3ce03a2f3ef10e81e1adcbbf705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1226661045,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1226661045,
+    "wof:lastmodified":1537664009,
+    "wof:name":"Lemkarza",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.02378,
+    34.92998,
+    -6.02378,
+    34.92998
+],
+  "geometry": {"coordinates":[-6.02378,34.92998],"type":"Point"}
+}

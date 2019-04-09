@@ -1,0 +1,67 @@
+{
+  "id": 1310223499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41089,30.26725,-8.41089,30.26725",
+    "geom:latitude":30.26725,
+    "geom:longitude":-8.41089,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Afern",
+    "gn:country_code":"MA",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561784,
+    "gn:latitude":30.26725,
+    "gn:longitude":-8.41089,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Afern",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561784
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4ac9c2b6d384d97c38e788ce0f11835a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1310223499,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310223499,
+    "wof:lastmodified":1536825341,
+    "wof:name":"Afern",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41089,
+    30.26725,
+    -8.41089,
+    30.26725
+],
+  "geometry": {"coordinates":[-8.41089,30.26725],"type":"Point"}
+}

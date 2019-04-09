@@ -1,0 +1,61 @@
+{
+  "id": 1209028333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41271,32.68132,-7.41271,32.68132",
+    "geom:latitude":32.68132,
+    "geom:longitude":-7.41271,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Oulad Boukhris",
+    "gn:country_code":"MA",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10935945,
+    "gn:latitude":32.68132,
+    "gn:longitude":-7.41271,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Boukhris",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10935945
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"400b5f991964eea9bc135aba387cf2d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209028333
+        }
+    ],
+    "wof:id":1209028333,
+    "wof:lastmodified":1536299925,
+    "wof:name":"Douar Oulad Boukhris",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.4127100000000015,
+    32.68132,
+    -7.4127100000000015,
+    32.68132
+],
+  "geometry": {"coordinates":[-7.41271,32.68132],"type":"Point"}
+}

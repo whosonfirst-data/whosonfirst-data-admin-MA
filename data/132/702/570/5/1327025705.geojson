@@ -1,0 +1,67 @@
+{
+  "id": 1327025705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.25561,31.85571,-7.25561,31.85571",
+    "geom:latitude":31.85571,
+    "geom:longitude":-7.25561,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Qaydiya Laqdima",
+    "gn:country_code":"MA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11355316,
+    "gn:latitude":31.85571,
+    "gn:longitude":-7.25561,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Al Qaydiya Laqdima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11355316
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e4e5dedf76a0f9349b463037ddb4a312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1327025705,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327025705,
+    "wof:lastmodified":1536770657,
+    "wof:name":"Al Qaydiya Laqdima",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.25561,
+    31.85571,
+    -7.25561,
+    31.85571
+],
+  "geometry": {"coordinates":[-7.25561,31.85571],"type":"Point"}
+}

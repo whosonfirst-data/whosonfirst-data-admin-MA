@@ -1,0 +1,88 @@
+{
+  "id": 1125330937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.38019,35.62918,-5.38019,35.62918",
+    "geom:latitude":35.62918,
+    "geom:longitude":-5.38019,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9970,
+    "gn:population":9177,
+    "iso:country":"MA",
+    "lbl:latitude":35.62918,
+    "lbl:longitude":-5.38019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0644\u064a\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Mallalienne"
+    ],
+    "name:fra_x_variant":[
+        "Mallalienne (CR)",
+        "Mallalienne (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547038,
+    "qs_pg:gn_pop":9970,
+    "qs_pg:name":"Mallalienne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":630118,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547038,
+        "qs_pg:id":630118
+    },
+    "wof:country":"MA",
+    "wof:created":1497045130,
+    "wof:geomhash":"ba6b00d8c15c32fdf9c235bbd865daa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "localadmin_id":1125330937,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125330937,
+    "wof:lastmodified":1509388379,
+    "wof:name":"Mallalienne",
+    "wof:parent_id":890421483,
+    "wof:placetype":"localadmin",
+    "wof:population":9177,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.38019,
+    35.62918,
+    -5.38019,
+    35.62918
+],
+  "geometry": {"coordinates":[-5.38019,35.62918],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276867743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.44917,31.29332,-9.44917,31.29332",
+    "geom:latitude":31.29332,
+    "geom:longitude":-9.44917,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Borj Arhioul",
+    "gn:country_code":"MA",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10924210,
+    "gn:latitude":31.29332,
+    "gn:longitude":-9.44917,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Borj Arhioul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10924210
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"47403a1065d3b5ebf59ad03a08f2beec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1276867743,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276867743,
+    "wof:lastmodified":1537055052,
+    "wof:name":"Borj Arhioul",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.44917,
+    31.29332,
+    -9.44917,
+    31.29332
+],
+  "geometry": {"coordinates":[-9.44917,31.29332],"type":"Point"}
+}

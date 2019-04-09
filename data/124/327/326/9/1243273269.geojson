@@ -1,0 +1,67 @@
+{
+  "id": 1243273269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.55331,35.69376,-5.55331,35.69376",
+    "geom:latitude":35.69376,
+    "geom:longitude":-5.55331,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Mqadmach",
+    "gn:country_code":"MA",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955244,
+    "gn:latitude":35.69376,
+    "gn:longitude":-5.55331,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Mqadmach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955244
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d42a735ec0ef006f88f9d47be7977763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1243273269,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243273269,
+    "wof:lastmodified":1537052829,
+    "wof:name":"Douar Mqadmach",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.55331,
+    35.69376,
+    -5.55331,
+    35.69376
+],
+  "geometry": {"coordinates":[-5.55331,35.69376],"type":"Point"}
+}

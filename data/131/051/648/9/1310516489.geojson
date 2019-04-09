@@ -1,0 +1,75 @@
+{
+  "id": 1310516489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.8084,34.41801,-5.8084,34.41801",
+    "geom:latitude":34.41801,
+    "geom:longitude":-5.8084,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar el Abiat",
+    "gn:country_code":"MA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552823,
+    "gn:latitude":34.41801,
+    "gn:longitude":-5.8084,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar el Abiat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Labyet",
+        "Douar el Abiat",
+        "Al Abiat",
+        "El Abiate",
+        "El Ablate",
+        "Dar el Abiat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552823
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b5300f2f74a64f467ba500606cfd049e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1310516489,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1310516489,
+    "wof:lastmodified":1537664015,
+    "wof:name":"Douar el Abiat",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.8084,
+    34.41801,
+    -5.8084,
+    34.41801
+],
+  "geometry": {"coordinates":[-5.8084,34.41801],"type":"Point"}
+}

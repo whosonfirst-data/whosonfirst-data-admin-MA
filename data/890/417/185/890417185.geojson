@@ -1,0 +1,75 @@
+{
+  "id": 890417185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58526,29.29143,-9.58526,29.29143",
+    "geom:latitude":29.29143,
+    "geom:longitude":-9.58526,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5233,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u062a \u0627\u0644\u0646\u0627\u0628\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Abdallah  Ou Be"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Abdallah  Ou Be (CR)",
+        "Sidi Abdallah  Ou Be (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Abdallah  Ou Be",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546571,
+        "qs:id":629672
+    },
+    "wof:country":"MA",
+    "wof:created":1469051187,
+    "wof:geomhash":"9a492ecd070895ac83c5d657779991ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "localadmin_id":890417185,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890417185,
+    "wof:lastmodified":1505343437,
+    "wof:name":"Sidi Abdallah  Ou Be",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"localadmin",
+    "wof:population":5233,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58526,
+    29.29143,
+    -9.58526,
+    29.29143
+],
+  "geometry": {"coordinates":[-9.58526,29.29143],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276865005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.59675,32.45417,-6.59675,32.45417",
+    "geom:latitude":32.45417,
+    "geom:longitude":-6.59675,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Douar Oulad Rgui'a",
+    "gn:country_code":"MA",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539366,
+    "gn:latitude":32.45417,
+    "gn:longitude":-6.59675,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Douar Oulad Rgui\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Rouki\u2019a",
+        "Oulad Regui\u00e2a",
+        "Douar Oulad Rgui\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539366
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5c2acac057994fcb60ace51734b6f795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "locality_id":1276865005,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1276865005,
+    "wof:lastmodified":1537663566,
+    "wof:name":"Douar Oulad Rgui'a",
+    "wof:parent_id":1108784787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.59675,
+    32.45417,
+    -6.59675,
+    32.45417
+],
+  "geometry": {"coordinates":[-6.59675,32.45417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293686521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.74373,34.07176,-6.74373,34.07176",
+    "geom:latitude":34.07176,
+    "geom:longitude":-6.74373,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lafarge",
+    "gn:country_code":"MA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10920940,
+    "gn:latitude":34.07176,
+    "gn:longitude":-6.74373,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lafarge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10920940
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cb755abd739ea1f68cf3c4f67984c019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":1293686521,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1293686521,
+    "wof:lastmodified":1536996648,
+    "wof:name":"Lafarge",
+    "wof:parent_id":1108784811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.74373,
+    34.07176,
+    -6.74373,
+    34.07176
+],
+  "geometry": {"coordinates":[-6.74373,34.07176],"type":"Point"}
+}

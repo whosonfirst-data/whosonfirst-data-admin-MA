@@ -1,0 +1,61 @@
+{
+  "id": 1209624401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.56864,34.75806,-5.56864,34.75806",
+    "geom:latitude":34.75806,
+    "geom:longitude":-5.56864,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Fej El Kalaa",
+    "gn:country_code":"MA",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10923237,
+    "gn:latitude":34.75806,
+    "gn:longitude":-5.56864,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Fej El Kalaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10923237
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f463406d35ba1d2ed397b9829e5647fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209624401
+        }
+    ],
+    "wof:id":1209624401,
+    "wof:lastmodified":1536281405,
+    "wof:name":"Douar Fej El Kalaa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.56864,
+    34.75806,
+    -5.56864,
+    34.75806
+],
+  "geometry": {"coordinates":[-5.56864,34.75806],"type":"Point"}
+}

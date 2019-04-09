@@ -1,0 +1,61 @@
+{
+  "id": 1209435225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.54969,32.194,-7.54969,32.194",
+    "geom:latitude":32.194,
+    "geom:longitude":-7.54969,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar Akkar Mhamed",
+    "gn:country_code":"MA",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10928485,
+    "gn:latitude":32.194,
+    "gn:longitude":-7.54969,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Akkar Mhamed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10928485
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e43b13624568b127d69f8320cf96f46e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209435225
+        }
+    ],
+    "wof:id":1209435225,
+    "wof:lastmodified":1536287124,
+    "wof:name":"Dar Akkar Mhamed",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.549689999999999,
+    32.194,
+    -7.549689999999999,
+    32.194
+],
+  "geometry": {"coordinates":[-7.54969,32.194],"type":"Point"}
+}

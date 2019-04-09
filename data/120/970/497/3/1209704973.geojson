@@ -1,0 +1,67 @@
+{
+  "id": 1209704973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.08541,29.9617,-9.08541,29.9617",
+    "geom:latitude":29.9617,
+    "geom:longitude":-9.08541,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ifirniyne",
+    "gn:country_code":"MA",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130692,
+    "gn:latitude":29.9617,
+    "gn:longitude":-9.08541,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ifirniyne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130692
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7c5f60750c92537e105fb4bd222ebad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1209704973,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209704973,
+    "wof:lastmodified":1536393272,
+    "wof:name":"Ifirniyne",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.08541,
+    29.9617,
+    -9.08541,
+    29.9617
+],
+  "geometry": {"coordinates":[-9.08541,29.9617],"type":"Point"}
+}

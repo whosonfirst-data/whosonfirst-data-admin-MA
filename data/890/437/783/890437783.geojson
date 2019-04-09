@@ -1,0 +1,78 @@
+{
+  "id": 890437783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.6386,32.06375,-5.6386,32.06375",
+    "geom:latitude":32.06375,
+    "geom:longitude":-5.6386,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":8222,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0627\u0632\u0645\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Imilchil"
+    ],
+    "name:fra_x_variant":[
+        "Imilchil (CR)",
+        "Imilchil (Commune Rurale)"
+    ],
+    "qs:name":"Imilchil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":443,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546044,
+        "qs:id":629185,
+        "wd:id":"Q2676569",
+        "wk:page":"Imilchil"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052166,
+    "wof:geomhash":"b3d410f0467217b6168bffbf61cc2f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "localadmin_id":890437783,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890437783,
+    "wof:lastmodified":1527729750,
+    "wof:name":"Imilchil",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"localadmin",
+    "wof:population":8222,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6386,
+    32.06375,
+    -5.6386,
+    32.06375
+],
+  "geometry": {"coordinates":[-5.6386,32.06375],"type":"Point"}
+}

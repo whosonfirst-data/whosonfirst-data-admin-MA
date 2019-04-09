@@ -1,0 +1,67 @@
+{
+  "id": 1293709403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06725,31.95665,-9.06725,31.95665",
+    "geom:latitude":31.95665,
+    "geom:longitude":-9.06725,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Laalaouna",
+    "gn:country_code":"MA",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912226,
+    "gn:latitude":31.95665,
+    "gn:longitude":-9.06725,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Laalaouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912226
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a4ebdfe134bb9f59a8d4fb9e2d23daec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1293709403,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293709403,
+    "wof:lastmodified":1536964367,
+    "wof:name":"Laalaouna",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06725,
+    31.95665,
+    -9.06725,
+    31.95665
+],
+  "geometry": {"coordinates":[-9.06725,31.95665],"type":"Point"}
+}

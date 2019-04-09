@@ -1,0 +1,71 @@
+{
+  "id": 1276345771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.45,35.1,-5.45,35.1",
+    "geom:latitude":35.1,
+    "geom:longitude":-5.45,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Zerkat",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526028,
+    "gn:latitude":35.1,
+    "gn:longitude":-5.45,
+    "gn:modification_date":"2005-04-12",
+    "gn:name":"Zerkat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azerkat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526028
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cf973f9f4e7f10902b5e10262a292206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1276345771,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1276345771,
+    "wof:lastmodified":1537663309,
+    "wof:name":"Zerkat",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.45,
+    35.1,
+    -5.45,
+    35.1
+],
+  "geometry": {"coordinates":[-5.45,35.1],"type":"Point"}
+}

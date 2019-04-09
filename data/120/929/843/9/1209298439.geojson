@@ -1,0 +1,61 @@
+{
+  "id": 1209298439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93708,30.67307,-8.93708,30.67307",
+    "geom:latitude":30.67307,
+    "geom:longitude":-8.93708,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bou Oulgou",
+    "gn:country_code":"MA",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948735,
+    "gn:latitude":30.67307,
+    "gn:longitude":-8.93708,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bou Oulgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948735
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2d64db94e7c134d3e0203b7f9c2f11a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209298439
+        }
+    ],
+    "wof:id":1209298439,
+    "wof:lastmodified":1536291442,
+    "wof:name":"Bou Oulgou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93708,
+    30.673070000000006,
+    -8.93708,
+    30.673070000000006
+],
+  "geometry": {"coordinates":[-8.93708,30.67307000000001],"type":"Point"}
+}

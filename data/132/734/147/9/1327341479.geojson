@@ -1,0 +1,67 @@
+{
+  "id": 1327341479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.20239,35.19722,-3.20239,35.19722",
+    "geom:latitude":35.19722,
+    "geom:longitude":-3.20239,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Afza",
+    "gn:country_code":"MA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10845102,
+    "gn:latitude":35.19722,
+    "gn:longitude":-3.20239,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Afza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10845102
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9d02c6ab407457275c5ab802388c0602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1327341479,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1327341479,
+    "wof:lastmodified":1536811494,
+    "wof:name":"Afza",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.20239,
+    35.19722,
+    -3.20239,
+    35.19722
+],
+  "geometry": {"coordinates":[-3.20239,35.19722],"type":"Point"}
+}

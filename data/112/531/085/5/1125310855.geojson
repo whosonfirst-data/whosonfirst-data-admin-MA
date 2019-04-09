@@ -1,0 +1,88 @@
+{
+  "id": 1125310855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.94627,32.24232,-7.94627,32.24232",
+    "geom:latitude":32.24232,
+    "geom:longitude":-7.94627,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":62693,
+    "gn:population":62693,
+    "iso:country":"MA",
+    "lbl:latitude":32.24232,
+    "lbl:longitude":-7.94627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0648\u0627\u0645\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Ben Guerir"
+    ],
+    "name:fra_x_variant":[
+        "Ben Guerir (MU)",
+        "Ben Guerir (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545468,
+    "qs_pg:gn_pop":62693,
+    "qs_pg:name":"Ben Guerir",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":628616,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545468,
+        "qs_pg:id":628616
+    },
+    "wof:country":"MA",
+    "wof:created":1497043972,
+    "wof:geomhash":"933cf03a1382308653b22da38b54a90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "localadmin_id":1125310855,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125310855,
+    "wof:lastmodified":1509387888,
+    "wof:name":"Ben Guerir",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"localadmin",
+    "wof:population":62693,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.94627,
+    32.24232,
+    -7.94627,
+    32.24232
+],
+  "geometry": {"coordinates":[-7.94627,32.24232],"type":"Point"}
+}

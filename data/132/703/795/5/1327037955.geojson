@@ -1,0 +1,67 @@
+{
+  "id": 1327037955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.84343,35.06982,-2.84343,35.06982",
+    "geom:latitude":35.06982,
+    "geom:longitude":-2.84343,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dar Lfachtafi",
+    "gn:country_code":"MA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10962401,
+    "gn:latitude":35.06982,
+    "gn:longitude":-2.84343,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Lfachtafi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10962401
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7e962b7ce2c0eccc46470a22cc9740fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1327037955,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1327037955,
+    "wof:lastmodified":1536752291,
+    "wof:name":"Dar Lfachtafi",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.84343,
+    35.06982,
+    -2.84343,
+    35.06982
+],
+  "geometry": {"coordinates":[-2.84343,35.06982],"type":"Point"}
+}

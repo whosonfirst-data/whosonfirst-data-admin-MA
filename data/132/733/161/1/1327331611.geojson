@@ -1,0 +1,75 @@
+{
+  "id": 1327331611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.83225,32.94987,-5.83225,32.94987",
+    "geom:latitude":32.94987,
+    "geom:longitude":-5.83225,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"1330105212.0",
+    "gn:asciiname":"Sidi Amar",
+    "gn:country_code":"MA",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2536370,
+    "gn:latitude":32.94987,
+    "gn:longitude":-5.83225,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Sidi Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ben Amar",
+        "Sidi Ammar",
+        "Dechra Sidi Amar",
+        "Sidi Amar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2536370
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"74090dbf3df49fb3ba2172aa2a04097c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1327331611,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327331611,
+    "wof:lastmodified":1537663516,
+    "wof:name":"Sidi Amar",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.83225,
+    32.94987,
+    -5.83225,
+    32.94987
+],
+  "geometry": {"coordinates":[-5.83225,32.94987],"type":"Point"}
+}

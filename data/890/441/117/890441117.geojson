@@ -1,0 +1,75 @@
+{
+  "id": 890441117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.51435,33.09495,-6.51435,33.09495",
+    "geom:latitude":33.09495,
+    "geom:longitude":-6.51435,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":8465,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0628\u062e\u0627\u062a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Fennane"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Fennane (CR)",
+        "Oulad Fennane (Commune Rurale)"
+    ],
+    "qs:name":"Oulad Fennane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890422519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545972,
+        "qs:id":629115
+    },
+    "wof:country":"MA",
+    "wof:created":1469052309,
+    "wof:geomhash":"84dd29d2bd2b53a008166b290346e24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422519,
+            "localadmin_id":890441117,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890441117,
+    "wof:lastmodified":1505343580,
+    "wof:name":"Oulad Fennane",
+    "wof:parent_id":890422519,
+    "wof:placetype":"localadmin",
+    "wof:population":8465,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.51435,
+    33.09495,
+    -6.51435,
+    33.09495
+],
+  "geometry": {"coordinates":[-6.51435,33.09495],"type":"Point"}
+}

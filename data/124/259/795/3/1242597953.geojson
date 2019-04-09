@@ -1,0 +1,67 @@
+{
+  "id": 1242597953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.69005,30.84609,-9.69005,30.84609",
+    "geom:latitude":30.84609,
+    "geom:longitude":-9.69005,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouaderzane",
+    "gn:country_code":"MA",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10900804,
+    "gn:latitude":30.84609,
+    "gn:longitude":-9.69005,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ouaderzane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10900804
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ea165283da8b3b9251d6f0b0618d544f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1242597953,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242597953,
+    "wof:lastmodified":1537032949,
+    "wof:name":"Ouaderzane",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.69005,
+    30.84609,
+    -9.69005,
+    30.84609
+],
+  "geometry": {"coordinates":[-9.69005,30.84609],"type":"Point"}
+}

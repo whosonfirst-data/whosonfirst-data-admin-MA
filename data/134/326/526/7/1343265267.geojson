@@ -1,0 +1,67 @@
+{
+  "id": 1343265267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5148,35.42604,-5.5148,35.42604",
+    "geom:latitude":35.42604,
+    "geom:longitude":-5.5148,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Raouat",
+    "gn:country_code":"MA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11043605,
+    "gn:latitude":35.42604,
+    "gn:longitude":-5.5148,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Raouat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11043605
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"abe31235a669cdd616672833f43a255d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1343265267,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343265267,
+    "wof:lastmodified":1537026731,
+    "wof:name":"Raouat",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5148,
+    35.42604,
+    -5.5148,
+    35.42604
+],
+  "geometry": {"coordinates":[-5.5148,35.42604],"type":"Point"}
+}

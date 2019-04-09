@@ -1,0 +1,73 @@
+{
+  "id": 1277068891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5583,33.22001,-8.5583,33.22001",
+    "geom:latitude":33.22001,
+    "geom:longitude":-8.5583,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jafra",
+    "gn:country_code":"MA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551647,
+    "gn:latitude":33.22001,
+    "gn:longitude":-8.5583,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Jafra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaafra",
+        "Ej Ja\u00e2rfa",
+        "Douar J\u00e2fra",
+        "Jafra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551647
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"01974c87a6f931109094d7c2a0a95dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1277068891,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1277068891,
+    "wof:lastmodified":1537663955,
+    "wof:name":"Jafra",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5583,
+    33.22000999999999,
+    -8.5583,
+    33.22000999999999
+],
+  "geometry": {"coordinates":[-8.5583,33.22000999999999],"type":"Point"}
+}

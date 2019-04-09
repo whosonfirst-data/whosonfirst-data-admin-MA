@@ -1,0 +1,88 @@
+{
+  "id": 1125365439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.50293,34.11904,-5.50293,34.11904",
+    "geom:latitude":34.11904,
+    "geom:longitude":-5.50293,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4180,
+    "gn:population":4180,
+    "iso:country":"MA",
+    "lbl:latitude":34.11904,
+    "lbl:longitude":-5.50293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0642\u0627\u0648\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Karmet Ben Salem"
+    ],
+    "name:fra_x_variant":[
+        "Karmet Ben Salem (CR)",
+        "Karmet Ben Salem (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545575,
+    "qs_pg:gn_pop":4180,
+    "qs_pg:name":"Karmet Ben Salem",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":628715,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545575,
+        "qs_pg:id":628715
+    },
+    "wof:country":"MA",
+    "wof:created":1497047053,
+    "wof:geomhash":"95ef05b17057ff3f78b5f98d6b82eab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "localadmin_id":1125365439,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1125365439,
+    "wof:lastmodified":1509389191,
+    "wof:name":"Karmet Ben Salem",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"localadmin",
+    "wof:population":4180,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.50293,
+    34.11904,
+    -5.50293,
+    34.11904
+],
+  "geometry": {"coordinates":[-5.50293,34.11904],"type":"Point"}
+}

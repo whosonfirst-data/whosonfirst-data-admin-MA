@@ -1,0 +1,61 @@
+{
+  "id": 1209013657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.55507,35.54766,-5.55507,35.54766",
+    "geom:latitude":35.54766,
+    "geom:longitude":-5.55507,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Ain Lahsen",
+    "gn:country_code":"MA",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059897,
+    "gn:latitude":35.54766,
+    "gn:longitude":-5.55507,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ain Lahsen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059897
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2de9a7ab802f3bf534f3137f47572c20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209013657
+        }
+    ],
+    "wof:id":1209013657,
+    "wof:lastmodified":1536300364,
+    "wof:name":"Douar Ain Lahsen",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.55507,
+    35.54766,
+    -5.55507,
+    35.54766
+],
+  "geometry": {"coordinates":[-5.55507,35.54766],"type":"Point"}
+}

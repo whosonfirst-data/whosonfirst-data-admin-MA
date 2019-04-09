@@ -1,0 +1,67 @@
+{
+  "id": 1343550437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21883,30.89876,-8.21883,30.89876",
+    "geom:latitude":30.89876,
+    "geom:longitude":-8.21883,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tama'rout",
+    "gn:country_code":"MA",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11144469,
+    "gn:latitude":30.89876,
+    "gn:longitude":-8.21883,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tama\u2019rout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11144469
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7ebb2a5bc1b68ced90121bf774b94efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1343550437,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343550437,
+    "wof:lastmodified":1536614038,
+    "wof:name":"Tama'rout",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21883,
+    30.89876,
+    -8.21883,
+    30.89876
+],
+  "geometry": {"coordinates":[-8.21883,30.89876],"type":"Point"}
+}

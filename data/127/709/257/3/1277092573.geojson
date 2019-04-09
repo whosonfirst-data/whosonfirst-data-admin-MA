@@ -1,0 +1,70 @@
+{
+  "id": 1277092573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.43239,35.10861,-4.43239,35.10861",
+    "geom:latitude":35.10861,
+    "geom:longitude":-4.43239,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Kerker",
+    "gn:country_code":"MA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544548,
+    "gn:latitude":35.10861,
+    "gn:longitude":-4.43239,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Kerker",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kerker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544548
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1625e90af09b2f3e99207c7a61c45b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1277092573,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1277092573,
+    "wof:lastmodified":1537663696,
+    "wof:name":"Douar Kerker",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.43239,
+    35.10861,
+    -4.43239,
+    35.10861
+],
+  "geometry": {"coordinates":[-4.43239,35.10861],"type":"Point"}
+}

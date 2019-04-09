@@ -1,0 +1,71 @@
+{
+  "id": 1209714249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.36564,31.91711,-6.36564,31.91711",
+    "geom:latitude":31.91711,
+    "geom:longitude":-6.36564,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ac Amane",
+    "gn:country_code":"MA",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596193,
+    "gn:latitude":31.91711,
+    "gn:longitude":-6.36564,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"A\u00e7 Amane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00e7 Amane",
+        "Assamane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596193
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c734a8857f7a119e0f3058536c58ea65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1209714249,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1209714249,
+    "wof:lastmodified":1537664284,
+    "wof:name":"Ac Amane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.36564,
+    31.91711,
+    -6.36564,
+    31.91711
+],
+  "geometry": {"coordinates":[-6.36564,31.91711],"type":"Point"}
+}

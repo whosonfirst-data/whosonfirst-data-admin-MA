@@ -1,0 +1,73 @@
+{
+  "id": 1310323557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.92685,34.04106,-5.92685,34.04106",
+    "geom:latitude":34.04106,
+    "geom:longitude":-5.92685,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Kansera",
+    "gn:country_code":"MA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550031,
+    "gn:latitude":34.04106,
+    "gn:longitude":-5.92685,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Kansera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kansera",
+        "El Kansera du Beth",
+        "El-Kannsera",
+        "El Kansera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550031
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3893de24d39bac9e724249f1053980ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1310323557,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1310323557,
+    "wof:lastmodified":1537663861,
+    "wof:name":"El Kansera",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.92685,
+    34.04105999999999,
+    -5.92685,
+    34.04105999999999
+],
+  "geometry": {"coordinates":[-5.92685,34.04105999999999],"type":"Point"}
+}

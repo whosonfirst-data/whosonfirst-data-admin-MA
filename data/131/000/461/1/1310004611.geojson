@@ -1,0 +1,73 @@
+{
+  "id": 1310004611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.68757,31.69804,-6.68757,31.69804",
+    "geom:latitude":31.69804,
+    "geom:longitude":-6.68757,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Waggouwn",
+    "gn:country_code":"MA",
+    "gn:dem":1351,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558888,
+    "gn:latitude":31.69804,
+    "gn:longitude":-6.68757,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"A\u00eft Waggouwn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Waggoun",
+        "A\u00eft Ouaggoun",
+        "A\u00eft Waggouwn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558888
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8f7b8d3d96f652e6cb6a65304701f6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310004611,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310004611,
+    "wof:lastmodified":1537664147,
+    "wof:name":"Ait Waggouwn",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.68757,
+    31.69804,
+    -6.68757,
+    31.69804
+],
+  "geometry": {"coordinates":[-6.68757,31.69804],"type":"Point"}
+}

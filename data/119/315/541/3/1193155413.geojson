@@ -1,0 +1,67 @@
+{
+  "id": 1193155413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18003,32.46437,-5.18003,32.46437",
+    "geom:latitude":32.46437,
+    "geom:longitude":-5.18003,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Khijja",
+    "gn:country_code":"MA",
+    "gn:dem":1860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559685,
+    "gn:latitude":32.46437,
+    "gn:longitude":-5.18003,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Khijja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559685
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0e4c94d79fb6b5be04f46498fcd8e0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1193155413,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1193155413,
+    "wof:lastmodified":1536373766,
+    "wof:name":"Ait Khijja",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18003,
+    32.46437,
+    -5.18003,
+    32.46437
+],
+  "geometry": {"coordinates":[-5.18003,32.46437],"type":"Point"}
+}

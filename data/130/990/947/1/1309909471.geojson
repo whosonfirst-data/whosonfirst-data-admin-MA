@@ -1,0 +1,67 @@
+{
+  "id": 1309909471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.21821,35.53438,-5.21821,35.53438",
+    "geom:latitude":35.53438,
+    "geom:longitude":-5.21821,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Houmat Essania",
+    "gn:country_code":"MA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956008,
+    "gn:latitude":35.53438,
+    "gn:longitude":-5.21821,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Houmat Essania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956008
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a3e4909677b23787d053539a934190a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1309909471,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1309909471,
+    "wof:lastmodified":1536782112,
+    "wof:name":"Houmat Essania",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.21821,
+    35.53438,
+    -5.21821,
+    35.53438
+],
+  "geometry": {"coordinates":[-5.21821,35.53438],"type":"Point"}
+}

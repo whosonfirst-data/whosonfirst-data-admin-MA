@@ -1,0 +1,71 @@
+{
+  "id": 1259793955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89584,29.64351,-7.89584,29.64351",
+    "geom:latitude":29.64351,
+    "geom:longitude":-7.89584,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Ayoun",
+    "gn:country_code":"MA",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550616,
+    "gn:latitude":29.64351,
+    "gn:longitude":-7.89584,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Ayoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Aio\u00fbn",
+        "El Ayoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550616
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f9df663e679673aa8906f11724c83793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1259793955,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1259793955,
+    "wof:lastmodified":1537663890,
+    "wof:name":"El Ayoun",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89584,
+    29.64351,
+    -7.89584,
+    29.64351
+],
+  "geometry": {"coordinates":[-7.89584,29.64351],"type":"Point"}
+}

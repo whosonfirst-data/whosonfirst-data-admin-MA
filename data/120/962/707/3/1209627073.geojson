@@ -1,0 +1,64 @@
+{
+  "id": 1209627073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.32591,35.17119,-3.32591,35.17119",
+    "geom:latitude":35.17119,
+    "geom:longitude":-3.32591,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ijehhouhene",
+    "gn:country_code":"MA",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470909,
+    "gn:latitude":35.17119,
+    "gn:longitude":-3.32591,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ijehhouhene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ijchhouhene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470909
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4564c7104c2a5011d5e3b5c55f609123",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209627073
+        }
+    ],
+    "wof:id":1209627073,
+    "wof:lastmodified":1537664290,
+    "wof:name":"Ijehhouhene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.32591,
+    35.17119,
+    -3.32591,
+    35.17119
+],
+  "geometry": {"coordinates":[-3.32591,35.17119],"type":"Point"}
+}

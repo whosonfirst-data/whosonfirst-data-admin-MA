@@ -1,0 +1,61 @@
+{
+  "id": 1209300369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.60348,31.32627,-9.60348,31.32627",
+    "geom:latitude":31.32627,
+    "geom:longitude":-9.60348,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Adaghaz",
+    "gn:country_code":"MA",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946135,
+    "gn:latitude":31.32627,
+    "gn:longitude":-9.60348,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Adaghaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946135
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"69ddbcee39aa3d342ddd3a9aafc26e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209300369
+        }
+    ],
+    "wof:id":1209300369,
+    "wof:lastmodified":1536291379,
+    "wof:name":"Douar Adaghaz",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.60348,
+    31.32627,
+    -9.60348,
+    31.32627
+],
+  "geometry": {"coordinates":[-9.60348,31.32627],"type":"Point"}
+}

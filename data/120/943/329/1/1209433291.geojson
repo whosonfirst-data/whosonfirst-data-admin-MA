@@ -1,0 +1,66 @@
+{
+  "id": 1209433291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99694,30.24687,-7.99694,30.24687",
+    "geom:latitude":30.24687,
+    "geom:longitude":-7.99694,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tamtalt",
+    "gn:country_code":"MA",
+    "gn:dem":1545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530435,
+    "gn:latitude":30.24687,
+    "gn:longitude":-7.99694,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamtalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamtelte",
+        "Tamtelt",
+        "Tamtalt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530435
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"37d70c6c8362bee16d7d937315cfc2b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209433291
+        }
+    ],
+    "wof:id":1209433291,
+    "wof:lastmodified":1537663438,
+    "wof:name":"Tamtalt",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99694,
+    30.24687,
+    -7.99694,
+    30.24687
+],
+  "geometry": {"coordinates":[-7.99694,30.24687],"type":"Point"}
+}

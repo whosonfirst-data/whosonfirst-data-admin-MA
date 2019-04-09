@@ -1,0 +1,66 @@
+{
+  "id": 1209116453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.60192,30.17442,-9.60192,30.17442",
+    "geom:latitude":30.17442,
+    "geom:longitude":-9.60192,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Laazib",
+    "gn:country_code":"MA",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550613,
+    "gn:latitude":30.17442,
+    "gn:longitude":-9.60192,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Laazib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lazib",
+        "El Azib",
+        "Laazib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550613
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ccfd1701784daa736d6234551f879d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209116453
+        }
+    ],
+    "wof:id":1209116453,
+    "wof:lastmodified":1537663890,
+    "wof:name":"Laazib",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.60192,
+    30.17442,
+    -9.60192,
+    30.17442
+],
+  "geometry": {"coordinates":[-9.60192,30.17442],"type":"Point"}
+}

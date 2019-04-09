@@ -1,0 +1,71 @@
+{
+  "id": 1225954479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.53,31.68,-9.53,31.68",
+    "geom:latitude":31.68,
+    "geom:longitude":-9.53,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bouih Ben Aissa",
+    "gn:country_code":"MA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554700,
+    "gn:latitude":31.68,
+    "gn:longitude":-9.53,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bouih Ben A\u00efssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Bou\u00ef Ben A\u00efssa",
+        "Bouih Ben A\u00efssa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554700
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0820a593cbbc565be6c4d435bb9510d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1225954479,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1225954479,
+    "wof:lastmodified":1537664053,
+    "wof:name":"Bouih Ben Aissa",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.53,
+    31.68,
+    -9.53,
+    31.68
+],
+  "geometry": {"coordinates":[-9.53,31.68],"type":"Point"}
+}

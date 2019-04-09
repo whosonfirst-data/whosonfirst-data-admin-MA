@@ -1,0 +1,88 @@
+{
+  "id": 1125418591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48665,31.95604,-8.48665,31.95604",
+    "geom:latitude":31.95604,
+    "geom:longitude":-8.48665,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":18224,
+    "gn:population":18224,
+    "iso:country":"MA",
+    "lbl:latitude":31.95604,
+    "lbl:longitude":-8.48665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u062e\u0648\u0627\u0644\u0642\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Ras El Ain"
+    ],
+    "name:fra_x_variant":[
+        "Ras El Ain (CR)",
+        "Ras El Ain (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545788,
+    "qs_pg:gn_pop":18224,
+    "qs_pg:name":"Ras El Ain",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628931,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545788,
+        "qs_pg:id":628931
+    },
+    "wof:country":"MA",
+    "wof:created":1497051811,
+    "wof:geomhash":"300d2dc0dd336ee0ea1d0e9b82b7d5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "localadmin_id":1125418591,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1125418591,
+    "wof:lastmodified":1509390422,
+    "wof:name":"Ras El Ain",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"localadmin",
+    "wof:population":18224,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48665,
+    31.95604,
+    -8.48665,
+    31.95604
+],
+  "geometry": {"coordinates":[-8.48665,31.95604],"type":"Point"}
+}

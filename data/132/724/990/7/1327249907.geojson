@@ -1,0 +1,72 @@
+{
+  "id": 1327249907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.57161,31.57432,-9.57161,31.57432",
+    "geom:latitude":31.57432,
+    "geom:longitude":-9.57161,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Amara",
+    "gn:country_code":"MA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560525,
+    "gn:latitude":31.57432,
+    "gn:longitude":-9.57161,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ait Amara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Hassi Regreg",
+        "A\u00eft Amara",
+        "Ait Amara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560525
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"64b9722d8417156b2f872721d06a6663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1327249907,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327249907,
+    "wof:lastmodified":1537664208,
+    "wof:name":"Ait Amara",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.57161,
+    31.57432,
+    -9.57161,
+    31.57432
+],
+  "geometry": {"coordinates":[-9.57161,31.57432],"type":"Point"}
+}

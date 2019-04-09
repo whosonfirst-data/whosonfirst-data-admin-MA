@@ -1,0 +1,65 @@
+{
+  "id": 1209116447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.84427,31.19223,-8.84427,31.19223",
+    "geom:latitude":31.19223,
+    "geom:longitude":-8.84427,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Qacba Et Tahtaniya",
+    "gn:country_code":"MA",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544791,
+    "gn:latitude":31.19223,
+    "gn:longitude":-8.84427,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Qa\u00e7ba Et Tahtaniya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qa\u00e7ba Et Tahtaniya",
+        "Kasba Amjott"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544791
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"589d4152f53cdaa49c0a9e671bd9d5f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209116447
+        }
+    ],
+    "wof:id":1209116447,
+    "wof:lastmodified":1537663703,
+    "wof:name":"Al Qacba Et Tahtaniya",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.84427,
+    31.19223,
+    -8.84427,
+    31.19223
+],
+  "geometry": {"coordinates":[-8.84427,31.19223],"type":"Point"}
+}

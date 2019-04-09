@@ -1,0 +1,67 @@
+{
+  "id": 1310124455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.24472,33.07317,-5.24472,33.07317",
+    "geom:latitude":33.07317,
+    "geom:longitude":-5.24472,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dar Caid Bou Youssef",
+    "gn:country_code":"MA",
+    "gn:dem":1743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552916,
+    "gn:latitude":33.07317,
+    "gn:longitude":-5.24472,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Caid Bou Youssef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        890429095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552916
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"48747311164592bcdbacc2e585b7e016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429095,
+            "locality_id":1310124455,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1310124455,
+    "wof:lastmodified":1536968860,
+    "wof:name":"Dar Caid Bou Youssef",
+    "wof:parent_id":890429095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.24472,
+    33.07317,
+    -5.24472,
+    33.07317
+],
+  "geometry": {"coordinates":[-5.24472,33.07317],"type":"Point"}
+}

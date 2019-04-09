@@ -1,0 +1,71 @@
+{
+  "id": 1360194945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.03761,32.31521,-4.03761,32.31521",
+    "geom:latitude":32.31521,
+    "geom:longitude":-4.03761,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tafendast",
+    "gn:country_code":"MA",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531955,
+    "gn:latitude":32.31521,
+    "gn:longitude":-4.03761,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tafendast",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafoudast",
+        "Tafendast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531955
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"800154f2621d4e7b3371c89d5f0b6155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1360194945,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1360194945,
+    "wof:lastmodified":1537663481,
+    "wof:name":"Tafendast",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.03761,
+    32.31521,
+    -4.03761,
+    32.31521
+],
+  "geometry": {"coordinates":[-4.03761,32.31521],"type":"Point"}
+}

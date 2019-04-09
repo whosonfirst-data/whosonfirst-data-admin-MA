@@ -1,0 +1,67 @@
+{
+  "id": 1360170619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82668,31.68048,-7.82668,31.68048",
+    "geom:latitude":31.68048,
+    "geom:longitude":-7.82668,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Shoura",
+    "gn:country_code":"MA",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10428087,
+    "gn:latitude":31.68048,
+    "gn:longitude":-7.82668,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Shoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10428087
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"97fa99c7bc775e647dbdf679dbbfa5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1360170619,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360170619,
+    "wof:lastmodified":1536821443,
+    "wof:name":"Douar Shoura",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82668,
+    31.68048,
+    -7.82668,
+    31.68048
+],
+  "geometry": {"coordinates":[-7.82668,31.68048],"type":"Point"}
+}

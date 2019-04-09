@@ -1,0 +1,71 @@
+{
+  "id": 1276567167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.14812,34.31937,-3.14812,34.31937",
+    "geom:latitude":34.31937,
+    "geom:longitude":-3.14812,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Agreb",
+    "gn:country_code":"MA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550830,
+    "gn:latitude":34.31937,
+    "gn:longitude":-3.14812,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Agreb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Agrab",
+        "El Agreb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550830
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3e0ed4a04993f5ca71bb178821a92ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "locality_id":1276567167,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1276567167,
+    "wof:lastmodified":1537663901,
+    "wof:name":"El Agreb",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.14812,
+    34.31937,
+    -3.14812,
+    34.31937
+],
+  "geometry": {"coordinates":[-3.14812,34.31937],"type":"Point"}
+}

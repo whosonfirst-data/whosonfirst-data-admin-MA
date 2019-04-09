@@ -1,0 +1,67 @@
+{
+  "id": 1310521771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.73404,31.34354,-9.73404,31.34354",
+    "geom:latitude":31.34354,
+    "geom:longitude":-9.73404,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bou Balloughou",
+    "gn:country_code":"MA",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945816,
+    "gn:latitude":31.34354,
+    "gn:longitude":-9.73404,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bou Balloughou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945816
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8575d75b0e37e3f11118133232324985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1310521771,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310521771,
+    "wof:lastmodified":1536893170,
+    "wof:name":"Bou Balloughou",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.73404,
+    31.34354,
+    -9.73404,
+    31.34354
+],
+  "geometry": {"coordinates":[-9.73404,31.34354],"type":"Point"}
+}

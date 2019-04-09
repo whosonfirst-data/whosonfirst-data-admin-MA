@@ -1,0 +1,72 @@
+{
+  "id": 1310511727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.67433,35.66189,-5.67433,35.66189",
+    "geom:latitude":35.66189,
+    "geom:longitude":-5.67433,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Braraq",
+    "gn:country_code":"MA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555489,
+    "gn:latitude":35.66189,
+    "gn:longitude":-5.67433,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Braraq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brarak",
+        "Berarak",
+        "Braraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555489
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b4901cc06d87defb290f77d91d59e6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1310511727,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310511727,
+    "wof:lastmodified":1537664065,
+    "wof:name":"Braraq",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.67433,
+    35.66189,
+    -5.67433,
+    35.66189
+],
+  "geometry": {"coordinates":[-5.67433,35.66189],"type":"Point"}
+}

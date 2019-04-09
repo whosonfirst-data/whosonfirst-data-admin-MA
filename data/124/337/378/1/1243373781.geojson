@@ -1,0 +1,71 @@
+{
+  "id": 1243373781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.88,34.32201,-4.88,34.32201",
+    "geom:latitude":34.32201,
+    "geom:longitude":-4.88,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar el Bkhata",
+    "gn:country_code":"MA",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551849,
+    "gn:latitude":34.32201,
+    "gn:longitude":-4.88,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar el Bkhata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Bekiala",
+        "Douar el Bkhata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551849
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2c9fd3797f8b558d9ff683dd0395bf04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1243373781,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1243373781,
+    "wof:lastmodified":1537663970,
+    "wof:name":"Douar el Bkhata",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.88,
+    34.32201,
+    -4.88,
+    34.32201
+],
+  "geometry": {"coordinates":[-4.88,34.32201],"type":"Point"}
+}

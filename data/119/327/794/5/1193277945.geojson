@@ -1,0 +1,67 @@
+{
+  "id": 1193277945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.48574,35.05327,-3.48574,35.05327",
+    "geom:latitude":35.05327,
+    "geom:longitude":-3.48574,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ikharchichene",
+    "gn:country_code":"MA",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092576,
+    "gn:latitude":35.05327,
+    "gn:longitude":-3.48574,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ikharchichene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092576
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"45cc357d696456dd0f991701a2d37962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1193277945,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1193277945,
+    "wof:lastmodified":1536364641,
+    "wof:name":"Ikharchichene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.48574,
+    35.05327,
+    -3.48574,
+    35.05327
+],
+  "geometry": {"coordinates":[-3.48574,35.05327],"type":"Point"}
+}

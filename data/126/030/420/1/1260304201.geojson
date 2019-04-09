@@ -1,0 +1,71 @@
+{
+  "id": 1260304201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32621,30.53417,-9.32621,30.53417",
+    "geom:latitude":30.53417,
+    "geom:longitude":-9.32621,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ameskroud",
+    "gn:country_code":"MA",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558103,
+    "gn:latitude":30.53417,
+    "gn:longitude":-9.32621,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ameskroud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ameskhoud",
+        "Ameskroud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558103
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"01aecba9dc7939b7c81a1bab9cfa759c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1260304201,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260304201,
+    "wof:lastmodified":1537664128,
+    "wof:name":"Ameskroud",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32621,
+    30.53417,
+    -9.32621,
+    30.53417
+],
+  "geometry": {"coordinates":[-9.32621,30.53417],"type":"Point"}
+}

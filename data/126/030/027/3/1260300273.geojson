@@ -1,0 +1,73 @@
+{
+  "id": 1260300273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.56177,32.76649,-5.56177,32.76649",
+    "geom:latitude":32.76649,
+    "geom:longitude":-5.56177,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lennda",
+    "gn:country_code":"MA",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545780,
+    "gn:latitude":32.76649,
+    "gn:longitude":-5.56177,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Lennda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Irherm Lenda",
+        "Linda",
+        "Lennda",
+        "Lenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545780
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ef94d5d71176c68232566e2ce5e163a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1260300273,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1260300273,
+    "wof:lastmodified":1537663733,
+    "wof:name":"Lennda",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.56177,
+    32.76649,
+    -5.56177,
+    32.76649
+],
+  "geometry": {"coordinates":[-5.56177,32.76649],"type":"Point"}
+}

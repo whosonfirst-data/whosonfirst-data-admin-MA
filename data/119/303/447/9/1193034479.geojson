@@ -1,0 +1,72 @@
+{
+  "id": 1193034479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.43046,34.53509,-5.43046,34.53509",
+    "geom:latitude":34.53509,
+    "geom:longitude":-5.43046,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Lhart",
+    "gn:country_code":"MA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550144,
+    "gn:latitude":34.53509,
+    "gn:longitude":-5.43046,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lhart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Harte",
+        "El Hart",
+        "Douar Lhart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550144
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"48b7c509db39343dcf02d1e49749c9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1193034479,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1193034479,
+    "wof:lastmodified":1537663867,
+    "wof:name":"Douar Lhart",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.43046,
+    34.53509,
+    -5.43046,
+    34.53509
+],
+  "geometry": {"coordinates":[-5.43046,34.53509],"type":"Point"}
+}

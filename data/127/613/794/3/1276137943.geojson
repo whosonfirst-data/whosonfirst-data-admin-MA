@@ -1,0 +1,72 @@
+{
+  "id": 1276137943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62458,32.08102,-8.62458,32.08102",
+    "geom:latitude":32.08102,
+    "geom:longitude":-8.62458,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Echemmaia Est",
+    "gn:country_code":"MA",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553382,
+    "gn:latitude":32.08102,
+    "gn:longitude":-8.62458,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Echemmaia Est",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasba el Chema\u00efa",
+        "Chema\u00efa",
+        "Echemmaia Est"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553382
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"74fc3fcae31541a0d2765cbaa5f93a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1276137943,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1276137943,
+    "wof:lastmodified":1537664033,
+    "wof:name":"Echemmaia Est",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62458,
+    32.08102,
+    -8.62458,
+    32.08102
+],
+  "geometry": {"coordinates":[-8.62458,32.08102],"type":"Point"}
+}

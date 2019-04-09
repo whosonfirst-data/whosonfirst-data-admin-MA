@@ -1,0 +1,61 @@
+{
+  "id": 1209126373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78189,31.25443,-7.78189,31.25443",
+    "geom:latitude":31.25443,
+    "geom:longitude":-7.78189,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aguermawne",
+    "gn:country_code":"MA",
+    "gn:dem":2001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353527,
+    "gn:latitude":31.25443,
+    "gn:longitude":-7.78189,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Aguermawne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353527
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d2df4a6237441bb52ef22e4339e0018d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209126373
+        }
+    ],
+    "wof:id":1209126373,
+    "wof:lastmodified":1536296945,
+    "wof:name":"Aguermawne",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78189,
+    31.25443,
+    -7.78189,
+    31.25443
+],
+  "geometry": {"coordinates":[-7.78189,31.25443],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209421329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.59638,33.78769,-5.59638,33.78769",
+    "geom:latitude":33.78769,
+    "geom:longitude":-5.59638,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Aquensar",
+    "gn:country_code":"MA",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10976411,
+    "gn:latitude":33.78769,
+    "gn:longitude":-5.59638,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Aquensar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10976411
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2ab1ea369925736cdf8b3fc85dbfbf2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209421329
+        }
+    ],
+    "wof:id":1209421329,
+    "wof:lastmodified":1536287521,
+    "wof:name":"Douar Aquensar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.59638,
+    33.787690000000005,
+    -5.59638,
+    33.787690000000005
+],
+  "geometry": {"coordinates":[-5.59638,33.78769],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125295793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.00403,33.40742,-4.00403,33.40742",
+    "geom:latitude":33.40742,
+    "geom:longitude":-4.00403,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6669,
+    "gn:population":5212,
+    "iso:country":"MA",
+    "lbl:latitude":33.40742,
+    "lbl:longitude":-4.00403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0634\u0642\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Ali Youssef"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Ali Youssef (CR)",
+        "Oulad Ali Youssef (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546441,
+    "qs_pg:gn_pop":6669,
+    "qs_pg:name":"Oulad Ali Youssef",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629543,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546441,
+        "qs_pg:id":629543
+    },
+    "wof:country":"MA",
+    "wof:created":1497043137,
+    "wof:geomhash":"8caa2af7145eeaa25773a0b7a7eb4d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "localadmin_id":1125295793,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1125295793,
+    "wof:lastmodified":1509387620,
+    "wof:name":"Oulad Ali Youssef",
+    "wof:parent_id":890436419,
+    "wof:placetype":"localadmin",
+    "wof:population":5212,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.00403,
+    33.40742,
+    -4.00403,
+    33.40742
+],
+  "geometry": {"coordinates":[-4.00403,33.40742],"type":"Point"}
+}

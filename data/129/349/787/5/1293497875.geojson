@@ -1,0 +1,74 @@
+{
+  "id": 1293497875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41036,30.42916,-7.41036,30.42916",
+    "geom:latitude":30.42916,
+    "geom:longitude":-7.41036,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kasbat Ait Mesri",
+    "gn:country_code":"MA",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543360,
+    "gn:latitude":30.42916,
+    "gn:longitude":-7.41036,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kasbat A\u00eft Mesri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u00e7bat A\u00eft Mesri",
+        "A\u00eft Mesri",
+        "Lekbt",
+        "Lkasbet",
+        "Kasbat A\u00eft Mesri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543360
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"96b8bef0500aa6909a699782c4c64a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1293497875,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293497875,
+    "wof:lastmodified":1537663671,
+    "wof:name":"Kasbat Ait Mesri",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41036,
+    30.42916,
+    -7.41036,
+    30.42916
+],
+  "geometry": {"coordinates":[-7.41036,30.42916],"type":"Point"}
+}

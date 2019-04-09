@@ -1,0 +1,78 @@
+{
+  "id": 890440727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.33912,32.18115,-6.33912,32.18115",
+    "geom:latitude":32.18115,
+    "geom:longitude":-6.33912,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5000,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0643\u0633\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Ouaouizeght"
+    ],
+    "name:fra_x_variant":[
+        "Ouaouizeght (CR)",
+        "Ouaouizeght (Commune Rurale)"
+    ],
+    "qs:name":"Ouaouizeght",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546816,
+        "qs:id":629920,
+        "wd:id":"Q3357934",
+        "wk:page":"Ouaouizeght"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052295,
+    "wof:geomhash":"a2a1f17a3571178883425ff53ffc2fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "localadmin_id":890440727,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890440727,
+    "wof:lastmodified":1527727111,
+    "wof:name":"Ouaouizeght",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"localadmin",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.33912,
+    32.18115,
+    -6.33912,
+    32.18115
+],
+  "geometry": {"coordinates":[-6.33912,32.18115],"type":"Point"}
+}

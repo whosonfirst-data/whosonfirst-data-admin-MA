@@ -1,0 +1,73 @@
+{
+  "id": 1310116177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.82107,34.43995,-4.82107,34.43995",
+    "geom:latitude":34.43995,
+    "geom:longitude":-4.82107,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Bab Lahjar",
+    "gn:country_code":"MA",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556408,
+    "gn:latitude":34.43995,
+    "gn:longitude":-4.82107,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bab Lahjar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Bab el Hajar",
+        "Bab Lahjar",
+        "Bab el Hajar",
+        "Douar Bab Lahjar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556408
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"90fe33afff8fbb56838b9112d4b84282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1310116177,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310116177,
+    "wof:lastmodified":1537664084,
+    "wof:name":"Douar Bab Lahjar",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.82107,
+    34.43995,
+    -4.82107,
+    34.43995
+],
+  "geometry": {"coordinates":[-4.82107,34.43995],"type":"Point"}
+}

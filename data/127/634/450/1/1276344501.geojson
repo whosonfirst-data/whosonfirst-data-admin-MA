@@ -1,0 +1,67 @@
+{
+  "id": 1276344501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2287,35.53566,-5.2287,35.53566",
+    "geom:latitude":35.53566,
+    "geom:longitude":-5.2287,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Houmat Lqaytoune",
+    "gn:country_code":"MA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956015,
+    "gn:latitude":35.53566,
+    "gn:longitude":-5.2287,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Houmat Lqaytoune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956015
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"75c8b90c58bb7c47fb60f686d161d58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1276344501,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1276344501,
+    "wof:lastmodified":1536763718,
+    "wof:name":"Houmat Lqaytoune",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2287,
+    35.53566,
+    -5.2287,
+    35.53566
+],
+  "geometry": {"coordinates":[-5.2287,35.53566],"type":"Point"}
+}

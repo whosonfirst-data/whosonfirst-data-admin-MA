@@ -1,0 +1,67 @@
+{
+  "id": 1226150015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.57262,33.51099,-4.57262,33.51099",
+    "geom:latitude":33.51099,
+    "geom:longitude":-4.57262,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tighza Lherch",
+    "gn:country_code":"MA",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10843812,
+    "gn:latitude":33.51099,
+    "gn:longitude":-4.57262,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tighza Lherch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10843812
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9f2984ecb5880ad0b4a2f114e8bd87d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1226150015,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1226150015,
+    "wof:lastmodified":1537068509,
+    "wof:name":"Tighza Lherch",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.57262,
+    33.51099,
+    -4.57262,
+    33.51099
+],
+  "geometry": {"coordinates":[-4.57262,33.51099],"type":"Point"}
+}

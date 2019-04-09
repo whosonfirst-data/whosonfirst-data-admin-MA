@@ -1,0 +1,72 @@
+{
+  "id": 1210031301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.88907,29.3742,-9.88907,29.3742",
+    "geom:latitude":29.3742,
+    "geom:longitude":-9.88907,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Warkour",
+    "gn:country_code":"MA",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528475,
+    "gn:latitude":29.3742,
+    "gn:longitude":-9.88907,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Warkour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tirchemnion el Garde",
+        "Tiguenmi U el Gord",
+        "Id Warkour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528475
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"af058da7d2567a88698b73b076a79c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1210031301,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1210031301,
+    "wof:lastmodified":1537663387,
+    "wof:name":"Id Warkour",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.88907,
+    29.3742,
+    -9.88907,
+    29.3742
+],
+  "geometry": {"coordinates":[-9.88907,29.3742],"type":"Point"}
+}

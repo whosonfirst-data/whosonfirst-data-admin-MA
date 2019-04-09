@@ -1,0 +1,67 @@
+{
+  "id": 1276991393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08,30.21,-8.08,30.21",
+    "geom:latitude":30.21,
+    "geom:longitude":-8.08,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Irhzig",
+    "gn:country_code":"MA",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559759,
+    "gn:latitude":30.21,
+    "gn:longitude":-8.08,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Irhzig",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559759
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"341c5e26666457854053d5fc48db8ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1276991393,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276991393,
+    "wof:lastmodified":1536891205,
+    "wof:name":"Ait Irhzig",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08,
+    30.21,
+    -8.08,
+    30.21
+],
+  "geometry": {"coordinates":[-8.08,30.21],"type":"Point"}
+}

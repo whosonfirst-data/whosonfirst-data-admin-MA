@@ -1,0 +1,70 @@
+{
+  "id": 1293405009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82897,30.11007,-8.82897,30.11007",
+    "geom:latitude":30.11007,
+    "geom:longitude":-8.82897,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Iwzlit",
+    "gn:country_code":"MA",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545870,
+    "gn:latitude":30.11007,
+    "gn:longitude":-8.82897,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Iwzlit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iouzlit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545870
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0e6dcf098e96e2142b886c4882d2dd6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1293405009,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293405009,
+    "wof:lastmodified":1537663737,
+    "wof:name":"Iwzlit",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82897,
+    30.11007,
+    -8.82897,
+    30.11007
+],
+  "geometry": {"coordinates":[-8.82897,30.11007],"type":"Point"}
+}

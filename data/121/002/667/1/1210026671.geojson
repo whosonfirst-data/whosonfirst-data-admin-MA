@@ -1,0 +1,71 @@
+{
+  "id": 1210026671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.22604,29.23107,-10.22604,29.23107",
+    "geom:latitude":29.23107,
+    "geom:longitude":-10.22604,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bou Ragloua",
+    "gn:country_code":"MA",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554152,
+    "gn:latitude":29.23107,
+    "gn:longitude":-10.22604,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Ragloua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ragba El Kaid Hamed",
+        "Bou Ragloua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554152
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cad9c930493940131759d9aad3ed4e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1210026671,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1210026671,
+    "wof:lastmodified":1537664046,
+    "wof:name":"Bou Ragloua",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.22604,
+    29.23107000000001,
+    -10.22604,
+    29.23107000000001
+],
+  "geometry": {"coordinates":[-10.22604,29.23107000000001],"type":"Point"}
+}

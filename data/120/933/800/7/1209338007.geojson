@@ -1,0 +1,61 @@
+{
+  "id": 1209338007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.60899,33.69994,-6.60899,33.69994",
+    "geom:latitude":33.69994,
+    "geom:longitude":-6.60899,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Oulad Mimoun I",
+    "gn:country_code":"MA",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940438,
+    "gn:latitude":33.69994,
+    "gn:longitude":-6.60899,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Mimoun I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940438
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"64c4aa89937c672f1a1b59e2b85fe9af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209338007
+        }
+    ],
+    "wof:id":1209338007,
+    "wof:lastmodified":1536290154,
+    "wof:name":"Douar Oulad Mimoun I",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.60899,
+    33.699940000000005,
+    -6.60899,
+    33.699940000000005
+],
+  "geometry": {"coordinates":[-6.60899,33.69994000000001],"type":"Point"}
+}

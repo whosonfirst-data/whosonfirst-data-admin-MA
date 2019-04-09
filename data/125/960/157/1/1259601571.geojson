@@ -1,0 +1,72 @@
+{
+  "id": 1259601571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.24998,34.49599,-4.24998,34.49599",
+    "geom:latitude":34.49599,
+    "geom:longitude":-4.24998,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ahl El Oued",
+    "gn:country_code":"MA",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561096,
+    "gn:latitude":34.49599,
+    "gn:longitude":-4.24998,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ahl El Oued",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aheli el Oued",
+        "Ahl el Oued",
+        "Douar Ahl El Oued"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561096
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"06358c4cf21046ad13eef2856de4a6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1259601571,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1259601571,
+    "wof:lastmodified":1537664227,
+    "wof:name":"Douar Ahl El Oued",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.24998,
+    34.49599,
+    -4.24998,
+    34.49599
+],
+  "geometry": {"coordinates":[-4.24998,34.49599],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309916019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.52244,34.68009,-3.52244,34.68009",
+    "geom:latitude":34.68009,
+    "geom:longitude":-3.52244,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ibn Aisset",
+    "gn:country_code":"MA",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540342,
+    "gn:latitude":34.68009,
+    "gn:longitude":-3.52244,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ibn A\u00efsset",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibu A\u00efsset",
+        "Oulad A\u00efssa",
+        "Oulad A\u00efssat",
+        "Ibn A\u00efsset"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540342
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b9f0a318b96af2b213ec12ae75747e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1309916019,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1309916019,
+    "wof:lastmodified":1537663617,
+    "wof:name":"Ibn Aisset",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.52244,
+    34.68009,
+    -3.52244,
+    34.68009
+],
+  "geometry": {"coordinates":[-3.52244,34.68009],"type":"Point"}
+}

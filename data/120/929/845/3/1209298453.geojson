@@ -1,0 +1,61 @@
+{
+  "id": 1209298453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05361,29.97484,-9.05361,29.97484",
+    "geom:latitude":29.97484,
+    "geom:longitude":-9.05361,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Timgrad",
+    "gn:country_code":"MA",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130511,
+    "gn:latitude":29.97484,
+    "gn:longitude":-9.05361,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Timgrad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130511
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dfb82f162e76642185d0b6e2dc9170c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209298453
+        }
+    ],
+    "wof:id":1209298453,
+    "wof:lastmodified":1536291442,
+    "wof:name":"Timgrad",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05361,
+    29.974840000000004,
+    -9.05361,
+    29.974840000000004
+],
+  "geometry": {"coordinates":[-9.05361,29.97484],"type":"Point"}
+}

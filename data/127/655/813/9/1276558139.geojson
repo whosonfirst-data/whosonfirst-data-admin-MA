@@ -1,0 +1,74 @@
+{
+  "id": 1276558139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57059,34.85622,-5.57059,34.85622",
+    "geom:latitude":34.85622,
+    "geom:longitude":-5.57059,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Essetar",
+    "gn:country_code":"MA",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551192,
+    "gn:latitude":34.85622,
+    "gn:longitude":-5.57059,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Essetar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Star",
+        "Douar Ster",
+        "Ster",
+        "Douar Star",
+        "Douar Essetar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551192
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1ef99172b49620eb97158931a4a3ac95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1276558139,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1276558139,
+    "wof:lastmodified":1537663918,
+    "wof:name":"Douar Essetar",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57059,
+    34.85622,
+    -5.57059,
+    34.85622
+],
+  "geometry": {"coordinates":[-5.57059,34.85622],"type":"Point"}
+}

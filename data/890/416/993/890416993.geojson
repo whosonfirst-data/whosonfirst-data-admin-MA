@@ -1,0 +1,78 @@
+{
+  "id": 890416993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62727,31.90845,-7.62727,31.90845",
+    "geom:latitude":31.90845,
+    "geom:longitude":-7.62727,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5662,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0643\u0648\u0631\u0629 \u0627\u0644\u062d\u062f\u0631\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Akarma"
+    ],
+    "name:fra_x_variant":[
+        "Akarma (CR)",
+        "Akarma (Commune Rurale)"
+    ],
+    "qs:name":"Akarma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546214,
+        "qs:id":629352,
+        "wd:id":"Q4700298",
+        "wk:page":"Akarma"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051174,
+    "wof:geomhash":"767074cd547814d3a854f6c76bf2abeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "localadmin_id":890416993,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890416993,
+    "wof:lastmodified":1527792803,
+    "wof:name":"Akarma",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"localadmin",
+    "wof:population":5662,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62727,
+    31.90845,
+    -7.62727,
+    31.90845
+],
+  "geometry": {"coordinates":[-7.62727,31.90845],"type":"Point"}
+}

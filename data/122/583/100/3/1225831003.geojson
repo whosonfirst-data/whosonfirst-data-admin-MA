@@ -1,0 +1,67 @@
+{
+  "id": 1225831003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69866,31.60487,-7.69866,31.60487",
+    "geom:latitude":31.60487,
+    "geom:longitude":-7.69866,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Ben Daoudi",
+    "gn:country_code":"MA",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909326,
+    "gn:latitude":31.60487,
+    "gn:longitude":-7.69866,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Ben Daoudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909326
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"271424c322d31c4c850c8c90cfa5b5d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1225831003,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1225831003,
+    "wof:lastmodified":1537033487,
+    "wof:name":"Ait Ben Daoudi",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69866,
+    31.60487,
+    -7.69866,
+    31.60487
+],
+  "geometry": {"coordinates":[-7.69866,31.60487],"type":"Point"}
+}

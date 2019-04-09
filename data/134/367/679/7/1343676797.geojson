@@ -1,0 +1,73 @@
+{
+  "id": 1343676797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3785,31.25385,-8.3785,31.25385",
+    "geom:latitude":31.25385,
+    "geom:longitude":-8.3785,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Faida",
+    "gn:country_code":"MA",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550477,
+    "gn:latitude":31.25385,
+    "gn:longitude":-8.3785,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Fa\u00efda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Fa\u00efdet",
+        "El Fa\u00efdat",
+        "El Fa\u00efda",
+        "Al Fa\u00efda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550477
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bc3ae8e60a629846bdd78e208e69d7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1343676797,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343676797,
+    "wof:lastmodified":1537663883,
+    "wof:name":"Al Faida",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3785,
+    31.25385,
+    -8.3785,
+    31.25385
+],
+  "geometry": {"coordinates":[-8.3785,31.25385],"type":"Point"}
+}

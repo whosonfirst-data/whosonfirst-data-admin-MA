@@ -1,0 +1,72 @@
+{
+  "id": 1259493645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.84155,34.18733,-4.84155,34.18733",
+    "geom:latitude":34.18733,
+    "geom:longitude":-4.84155,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Enngad",
+    "gn:country_code":"MA",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551386,
+    "gn:latitude":34.18733,
+    "gn:longitude":-4.84155,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Enngad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Ankad",
+        "Douar Oulad Megued",
+        "Douar Oulad Enngad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551386
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c5842c840a8d31b27b16fc7caf340430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1259493645,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1259493645,
+    "wof:lastmodified":1537663934,
+    "wof:name":"Douar Oulad Enngad",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.84155,
+    34.18733,
+    -4.84155,
+    34.18733
+],
+  "geometry": {"coordinates":[-4.84155,34.18733],"type":"Point"}
+}

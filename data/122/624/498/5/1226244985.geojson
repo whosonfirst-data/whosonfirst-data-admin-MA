@@ -1,0 +1,67 @@
+{
+  "id": 1226244985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.53289,35.07766,-2.53289,35.07766",
+    "geom:latitude":35.07766,
+    "geom:longitude":-2.53289,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Tmadet",
+    "gn:country_code":"MA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092938,
+    "gn:latitude":35.07766,
+    "gn:longitude":-2.53289,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tmadet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092938
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f98a955479fa513d6b772c35a2c26a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1226244985,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1226244985,
+    "wof:lastmodified":1536935458,
+    "wof:name":"Douar Tmadet",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.53289,
+    35.07765999999999,
+    -2.53289,
+    35.07765999999999
+],
+  "geometry": {"coordinates":[-2.53289,35.07765999999999],"type":"Point"}
+}

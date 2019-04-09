@@ -1,0 +1,67 @@
+{
+  "id": 1292913667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.6928,30.9728,-6.6928,30.9728",
+    "geom:latitude":30.9728,
+    "geom:longitude":-6.6928,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Galmous",
+    "gn:country_code":"MA",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596531,
+    "gn:latitude":30.9728,
+    "gn:longitude":-6.6928,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Galmous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596531
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"34e60a49866a0dab6da0015e306290de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1292913667,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1292913667,
+    "wof:lastmodified":1536617944,
+    "wof:name":"Galmous",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.6928,
+    30.9728,
+    -6.6928,
+    30.9728
+],
+  "geometry": {"coordinates":[-6.6928,30.9728],"type":"Point"}
+}

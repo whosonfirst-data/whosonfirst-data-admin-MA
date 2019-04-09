@@ -1,0 +1,70 @@
+{
+  "id": 1242788057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.16346,35.1056,-4.16346,35.1056",
+    "geom:latitude":35.1056,
+    "geom:longitude":-4.16346,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Tiguet",
+    "gn:country_code":"MA",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529055,
+    "gn:latitude":35.1056,
+    "gn:longitude":-4.16346,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tiguet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tegot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529055
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f215cd4e2eb2e8ac53777d17da8bce9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1242788057,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1242788057,
+    "wof:lastmodified":1537663398,
+    "wof:name":"Douar Tiguet",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.16346,
+    35.1056,
+    -4.16346,
+    35.1056
+],
+  "geometry": {"coordinates":[-4.16346,35.1056],"type":"Point"}
+}

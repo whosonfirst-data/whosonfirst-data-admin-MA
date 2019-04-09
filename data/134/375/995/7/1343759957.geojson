@@ -1,0 +1,72 @@
+{
+  "id": 1343759957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.6068,31.80222,-6.6068,31.80222",
+    "geom:latitude":31.80222,
+    "geom:longitude":-6.6068,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Taghrout",
+    "gn:country_code":"MA",
+    "gn:dem":1691,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529741,
+    "gn:latitude":31.80222,
+    "gn:longitude":-6.6068,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Taghrout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarhrout",
+        "Taghrout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529741
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"81ede35cd6f7dde7d7515dbfca263a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343759957,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343759957,
+    "wof:lastmodified":1537663418,
+    "wof:name":"Taghrout",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.6068,
+    31.80222,
+    -6.6068,
+    31.80222
+],
+  "geometry": {"coordinates":[-6.6068,31.80222],"type":"Point"}
+}

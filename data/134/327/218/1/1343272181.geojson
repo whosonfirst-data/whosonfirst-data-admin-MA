@@ -1,0 +1,73 @@
+{
+  "id": 1343272181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.35047,31.55693,-9.35047,31.55693",
+    "geom:latitude":31.55693,
+    "geom:longitude":-9.35047,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ait Ben Hida",
+    "gn:country_code":"MA",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559959,
+    "gn:latitude":31.55693,
+    "gn:longitude":-9.35047,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ait Ben Hida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Moktar",
+        "A\u00eft Ha\u00efda",
+        "A\u00eft Ben Ha\u00efda",
+        "Douar Ait Ben Hida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559959
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a4ab13bd1e005a4ccd906b60d6241273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1343272181,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343272181,
+    "wof:lastmodified":1537664187,
+    "wof:name":"Douar Ait Ben Hida",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.35047,
+    31.55693,
+    -9.35047,
+    31.55693
+],
+  "geometry": {"coordinates":[-9.35047,31.55693],"type":"Point"}
+}

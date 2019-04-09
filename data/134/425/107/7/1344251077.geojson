@@ -1,0 +1,67 @@
+{
+  "id": 1344251077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34853,29.95403,-9.34853,29.95403",
+    "geom:latitude":29.95403,
+    "geom:longitude":-9.34853,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ou Irgui",
+    "gn:country_code":"MA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130474,
+    "gn:latitude":29.95403,
+    "gn:longitude":-9.34853,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ou Irgui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130474
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"60b390a7f2cdef86254cc4f92d070f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1344251077,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1344251077,
+    "wof:lastmodified":1537094577,
+    "wof:name":"Ou Irgui",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34853,
+    29.95403,
+    -9.34853,
+    29.95403
+],
+  "geometry": {"coordinates":[-9.34853,29.95403],"type":"Point"}
+}

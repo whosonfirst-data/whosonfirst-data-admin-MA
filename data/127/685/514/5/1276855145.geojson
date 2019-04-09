@@ -1,0 +1,67 @@
+{
+  "id": 1276855145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37831,30.01353,-9.37831,30.01353",
+    "geom:latitude":30.01353,
+    "geom:longitude":-9.37831,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Yassine",
+    "gn:country_code":"MA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945449,
+    "gn:latitude":30.01353,
+    "gn:longitude":-9.37831,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Yassine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945449
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"358955e101e7f8e760c4479382865818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1276855145,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276855145,
+    "wof:lastmodified":1537071184,
+    "wof:name":"Ait Yassine",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37831,
+    30.01353,
+    -9.37831,
+    30.01353
+],
+  "geometry": {"coordinates":[-9.37831,30.01353],"type":"Point"}
+}

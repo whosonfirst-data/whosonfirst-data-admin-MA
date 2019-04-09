@@ -1,0 +1,67 @@
+{
+  "id": 1292916617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.84713,35.1262,-3.84713,35.1262",
+    "geom:latitude":35.1262,
+    "geom:longitude":-3.84713,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Bouzanbou",
+    "gn:country_code":"MA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559221,
+    "gn:latitude":35.1262,
+    "gn:longitude":-3.84713,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Bouzanbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559221
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a0e8f7766b169cf4d87c720f8b0eee75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1292916617,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1292916617,
+    "wof:lastmodified":1536613480,
+    "wof:name":"Douar Bouzanbou",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.84713,
+    35.1262,
+    -3.84713,
+    35.1262
+],
+  "geometry": {"coordinates":[-3.84713,35.1262],"type":"Point"}
+}

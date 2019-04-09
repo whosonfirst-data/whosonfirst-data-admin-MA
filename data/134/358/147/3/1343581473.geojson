@@ -1,0 +1,67 @@
+{
+  "id": 1343581473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21347,31.2728,-9.21347,31.2728",
+    "geom:latitude":31.2728,
+    "geom:longitude":-9.21347,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bi Houzene",
+    "gn:country_code":"MA",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10924611,
+    "gn:latitude":31.2728,
+    "gn:longitude":-9.21347,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bi Houzene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10924611
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ed83529c2a4f03b5b1c3222c61d17048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1343581473,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343581473,
+    "wof:lastmodified":1537066279,
+    "wof:name":"Bi Houzene",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21347,
+    31.2728,
+    -9.21347,
+    31.2728
+],
+  "geometry": {"coordinates":[-9.21347,31.2728],"type":"Point"}
+}

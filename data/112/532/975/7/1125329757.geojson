@@ -1,0 +1,88 @@
+{
+  "id": 1125329757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.51605,30.59368,-9.51605,30.59368",
+    "geom:latitude":30.59368,
+    "geom:longitude":-9.51605,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4873,
+    "gn:population":4128,
+    "iso:country":"MA",
+    "lbl:latitude":30.59368,
+    "lbl:longitude":-9.51605,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u064a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Aqesri"
+    ],
+    "name:fra_x_variant":[
+        "Aqesri (CR)",
+        "Aqesri (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545567,
+    "qs_pg:gn_pop":4873,
+    "qs_pg:name":"Aqesri",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":628707,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545567,
+        "qs_pg:id":628707
+    },
+    "wof:country":"MA",
+    "wof:created":1497045067,
+    "wof:geomhash":"21d668cb7472787dce7c248f1de01bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "localadmin_id":1125329757,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125329757,
+    "wof:lastmodified":1509388342,
+    "wof:name":"Aqesri",
+    "wof:parent_id":890429099,
+    "wof:placetype":"localadmin",
+    "wof:population":4128,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.51605,
+    30.59368,
+    -9.51605,
+    30.59368
+],
+  "geometry": {"coordinates":[-9.51605,30.59368],"type":"Point"}
+}

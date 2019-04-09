@@ -1,0 +1,72 @@
+{
+  "id": 1309818639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28875,30.85428,-8.28875,30.85428",
+    "geom:latitude":30.85428,
+    "geom:longitude":-8.28875,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ighir",
+    "gn:country_code":"MA",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545717,
+    "gn:latitude":30.85428,
+    "gn:longitude":-8.28875,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ighir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ighira",
+        "Irhira",
+        "Ighir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545717
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7d082df46882d86b438218fedee6986d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1309818639,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309818639,
+    "wof:lastmodified":1537663729,
+    "wof:name":"Ighir",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28875,
+    30.85428,
+    -8.28875,
+    30.85428
+],
+  "geometry": {"coordinates":[-8.28875,30.85428],"type":"Point"}
+}

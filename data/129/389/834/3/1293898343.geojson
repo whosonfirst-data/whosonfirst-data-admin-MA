@@ -1,0 +1,73 @@
+{
+  "id": 1293898343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55415,32.09159,-8.55415,32.09159",
+    "geom:latitude":32.09159,
+    "geom:longitude":-8.55415,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Essouabra",
+    "gn:country_code":"MA",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551203,
+    "gn:latitude":32.09159,
+    "gn:longitude":-8.55415,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Essouabra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souabra",
+        "Souabia",
+        "Douar Souabia",
+        "Douar Essouabra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551203
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8bd565e2a37d8f319e3dce56ad2859df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1293898343,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293898343,
+    "wof:lastmodified":1537663919,
+    "wof:name":"Douar Essouabra",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55415,
+    32.09159,
+    -8.55415,
+    32.09159
+],
+  "geometry": {"coordinates":[-8.55415,32.09159],"type":"Point"}
+}

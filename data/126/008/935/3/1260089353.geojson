@@ -1,0 +1,67 @@
+{
+  "id": 1260089353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.59629,34.96562,-5.59629,34.96562",
+    "geom:latitude":34.96562,
+    "geom:longitude":-5.59629,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Laaddamine",
+    "gn:country_code":"MA",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10923460,
+    "gn:latitude":34.96562,
+    "gn:longitude":-5.59629,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laaddamine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10923460
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba88ca6b0eb9b317bb12ca6d7fd6298a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1260089353,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1260089353,
+    "wof:lastmodified":1536978845,
+    "wof:name":"Douar Laaddamine",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.59629,
+    34.96562,
+    -5.59629,
+    34.96562
+],
+  "geometry": {"coordinates":[-5.59629,34.96562],"type":"Point"}
+}

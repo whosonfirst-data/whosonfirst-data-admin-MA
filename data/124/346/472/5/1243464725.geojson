@@ -1,0 +1,72 @@
+{
+  "id": 1243464725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.83598,30.44226,-7.83598,30.44226",
+    "geom:latitude":30.44226,
+    "geom:longitude":-7.83598,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Rahhou",
+    "gn:country_code":"MA",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526386,
+    "gn:latitude":30.44226,
+    "gn:longitude":-7.83598,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Rahhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Raho",
+        "Zaouia A\u00eft Raho",
+        "A\u00eft Rahhou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526386
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fb34de3ca4560d2c31042651459fc51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1243464725,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243464725,
+    "wof:lastmodified":1537663327,
+    "wof:name":"Ait Rahhou",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.83598,
+    30.44226,
+    -7.83598,
+    30.44226
+],
+  "geometry": {"coordinates":[-7.83598,30.44226],"type":"Point"}
+}

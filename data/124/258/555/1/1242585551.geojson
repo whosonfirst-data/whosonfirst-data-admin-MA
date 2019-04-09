@@ -1,0 +1,67 @@
+{
+  "id": 1242585551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.43721,34.7542,-2.43721,34.7542",
+    "geom:latitude":34.7542,
+    "geom:longitude":-2.43721,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Oulad Moussa El Haj",
+    "gn:country_code":"MA",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11067376,
+    "gn:latitude":34.7542,
+    "gn:longitude":-2.43721,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Moussa El Haj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11067376
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"819b9d7b42ea7ce67b2f2fbfef9391e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":1242585551,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1242585551,
+    "wof:lastmodified":1537050002,
+    "wof:name":"Douar Oulad Moussa El Haj",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.43721,
+    34.7542,
+    -2.43721,
+    34.7542
+],
+  "geometry": {"coordinates":[-2.43721,34.7542],"type":"Point"}
+}

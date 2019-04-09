@@ -1,0 +1,88 @@
+{
+  "id": 1125313729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.81587,33.95537,-6.81587,33.95537",
+    "geom:latitude":33.95537,
+    "geom:longitude":-6.81587,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":26702,
+    "gn:population":26702,
+    "iso:country":"MA",
+    "lbl:latitude":33.95537,
+    "lbl:longitude":-6.81587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u064a\u062c\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Souissi"
+    ],
+    "name:fra_x_variant":[
+        "Souissi (AR)",
+        "Souissi (Arrondissement)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545729,
+    "qs_pg:gn_pop":26702,
+    "qs_pg:name":"Souissi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":628871,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890437999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545729,
+        "qs_pg:id":628871
+    },
+    "wof:country":"MA",
+    "wof:created":1497044159,
+    "wof:geomhash":"2f649285f6fe5adb824262393272df52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890437999,
+            "localadmin_id":1125313729,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1125313729,
+    "wof:lastmodified":1509387945,
+    "wof:name":"Souissi",
+    "wof:parent_id":890437999,
+    "wof:placetype":"localadmin",
+    "wof:population":26702,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.81587,
+    33.95537,
+    -6.81587,
+    33.95537
+],
+  "geometry": {"coordinates":[-6.81587,33.95537],"type":"Point"}
+}

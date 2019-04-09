@@ -1,0 +1,67 @@
+{
+  "id": 1209701567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.70852,31.0463,-9.70852,31.0463",
+    "geom:latitude":31.0463,
+    "geom:longitude":-9.70852,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Id Ben El Khayr",
+    "gn:country_code":"MA",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869049,
+    "gn:latitude":31.0463,
+    "gn:longitude":-9.70852,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Ben El Khayr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869049
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bec5fa57fde58d54fa996e4cb0fcfba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1209701567,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209701567,
+    "wof:lastmodified":1536394734,
+    "wof:name":"Id Ben El Khayr",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.70852,
+    31.0463,
+    -9.70852,
+    31.0463
+],
+  "geometry": {"coordinates":[-9.70852,31.0463],"type":"Point"}
+}

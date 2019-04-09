@@ -1,0 +1,67 @@
+{
+  "id": 1344063287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.65211,34.06338,-5.65211,34.06338",
+    "geom:latitude":34.06338,
+    "geom:longitude":-5.65211,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Bel Koura",
+    "gn:country_code":"MA",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984077,
+    "gn:latitude":34.06338,
+    "gn:longitude":-5.65211,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bel Koura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984077
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"232cd6b637184ba255ada6e1dfe1bbd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1344063287,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1344063287,
+    "wof:lastmodified":1536870326,
+    "wof:name":"Douar Bel Koura",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.65211,
+    34.06338,
+    -5.65211,
+    34.06338
+],
+  "geometry": {"coordinates":[-5.65211,34.06338],"type":"Point"}
+}

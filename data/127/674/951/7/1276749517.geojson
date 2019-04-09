@@ -1,0 +1,67 @@
+{
+  "id": 1276749517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21649,31.69639,-8.21649,31.69639",
+    "geom:latitude":31.69639,
+    "geom:longitude":-8.21649,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bouyma",
+    "gn:country_code":"MA",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970955,
+    "gn:latitude":31.69639,
+    "gn:longitude":-8.21649,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bouyma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970955
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4bdb7f6342cb2c1510737dca2f1063da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1276749517,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276749517,
+    "wof:lastmodified":1536718641,
+    "wof:name":"Bouyma",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21649,
+    31.69639,
+    -8.21649,
+    31.69639
+],
+  "geometry": {"coordinates":[-8.21649,31.69639],"type":"Point"}
+}

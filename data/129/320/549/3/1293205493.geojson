@@ -1,0 +1,67 @@
+{
+  "id": 1293205493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.46511,33.79571,-6.46511,33.79571",
+    "geom:latitude":33.79571,
+    "geom:longitude":-6.46511,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Mahdi",
+    "gn:country_code":"MA",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10964692,
+    "gn:latitude":33.79571,
+    "gn:longitude":-6.46511,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Mahdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10964692
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8b70a9edc7e8b4d76da18254b1ef0ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1293205493,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1293205493,
+    "wof:lastmodified":1536696767,
+    "wof:name":"Oulad Mahdi",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.46511,
+    33.79571,
+    -6.46511,
+    33.79571
+],
+  "geometry": {"coordinates":[-6.46511,33.79571],"type":"Point"}
+}

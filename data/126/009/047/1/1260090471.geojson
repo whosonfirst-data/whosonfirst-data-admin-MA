@@ -1,0 +1,75 @@
+{
+  "id": 1260090471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.26275,30.92551,-7.26275,30.92551",
+    "geom:latitude":30.92551,
+    "geom:longitude":-7.26275,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Croub",
+    "gn:country_code":"MA",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532356,
+    "gn:latitude":30.92551,
+    "gn:longitude":-7.26275,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"\u00c7roub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seroub",
+        "Srhob",
+        "Sghob",
+        "\u00c7roub",
+        "Ksar Srob",
+        "Sroub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532356
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"25968cdfde0c83d2bb59ab26ce28a674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1260090471,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260090471,
+    "wof:lastmodified":1537663494,
+    "wof:name":"Croub",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.26275,
+    30.92551,
+    -7.26275,
+    30.92551
+],
+  "geometry": {"coordinates":[-7.26275,30.92551],"type":"Point"}
+}

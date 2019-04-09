@@ -1,0 +1,72 @@
+{
+  "id": 1343272155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.04957,29.4817,-10.04957,29.4817",
+    "geom:latitude":29.4817,
+    "geom:longitude":-10.04957,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sidi Bou n'Kenadi",
+    "gn:country_code":"MA",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2535556,
+    "gn:latitude":29.4817,
+    "gn:longitude":-10.04957,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Bou n\u2019Kenadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Bu el Kenadil",
+        "Sidi Bu el Kenadi",
+        "Sidi Bou n\u2019Kenadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2535556
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c2a83647e8caac4669a31c5dc01d20f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1343272155,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343272155,
+    "wof:lastmodified":1537663513,
+    "wof:name":"Sidi Bou n'Kenadi",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.04957,
+    29.4817,
+    -10.04957,
+    29.4817
+],
+  "geometry": {"coordinates":[-10.04957,29.4817],"type":"Point"}
+}

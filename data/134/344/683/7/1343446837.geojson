@@ -1,0 +1,67 @@
+{
+  "id": 1343446837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.77315,32.03095,-8.77315,32.03095",
+    "geom:latitude":32.03095,
+    "geom:longitude":-8.77315,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Srahns",
+    "gn:country_code":"MA",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637430,
+    "gn:latitude":32.03095,
+    "gn:longitude":-8.77315,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Srahns",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637430
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f6217c4bc70b2255b19d410f3d45381d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1343446837,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343446837,
+    "wof:lastmodified":1536766345,
+    "wof:name":"Douar Srahns",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.77315,
+    32.03095,
+    -8.77315,
+    32.03095
+],
+  "geometry": {"coordinates":[-8.77315,32.03095],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242579831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.9212,35.09439,-2.9212,35.09439",
+    "geom:latitude":35.09439,
+    "geom:longitude":-2.9212,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ibouhriyene",
+    "gn:country_code":"MA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961544,
+    "gn:latitude":35.09439,
+    "gn:longitude":-2.9212,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ibouhriyene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961544
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7218064485d11735ca4913a55001f5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1242579831,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1242579831,
+    "wof:lastmodified":1537057878,
+    "wof:name":"Ibouhriyene",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9212,
+    35.09439,
+    -2.9212,
+    35.09439
+],
+  "geometry": {"coordinates":[-2.9212,35.09439],"type":"Point"}
+}

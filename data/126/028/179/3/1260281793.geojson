@@ -1,0 +1,73 @@
+{
+  "id": 1260281793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.93392,31.99866,-6.93392,31.99866",
+    "geom:latitude":31.99866,
+    "geom:longitude":-6.93392,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Masqawn",
+    "gn:country_code":"MA",
+    "gn:dem":795,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543058,
+    "gn:latitude":31.99866,
+    "gn:longitude":-6.93392,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Masqawn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mascaoun",
+        "Maokaoun",
+        "Masqawn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543058
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9780d5756f60d5cfb91ad36fc20c43dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1260281793,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1260281793,
+    "wof:lastmodified":1537663665,
+    "wof:name":"Masqawn",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.93392,
+    31.99866,
+    -6.93392,
+    31.99866
+],
+  "geometry": {"coordinates":[-6.93392,31.99866],"type":"Point"}
+}

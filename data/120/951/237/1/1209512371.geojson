@@ -1,0 +1,61 @@
+{
+  "id": 1209512371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.46354,32.83327,-7.46354,32.83327",
+    "geom:latitude":32.83327,
+    "geom:longitude":-7.46354,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Al Ghazra",
+    "gn:country_code":"MA",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11434694,
+    "gn:latitude":32.83327,
+    "gn:longitude":-7.46354,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Al Ghazra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11434694
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"164d897ccaadde181955e9b2c401d841",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209512371
+        }
+    ],
+    "wof:id":1209512371,
+    "wof:lastmodified":1536284842,
+    "wof:name":"Al Ghazra",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.463539999999999,
+    32.83327,
+    -7.463539999999999,
+    32.83327
+],
+  "geometry": {"coordinates":[-7.46354,32.83327],"type":"Point"}
+}

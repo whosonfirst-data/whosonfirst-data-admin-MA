@@ -1,0 +1,70 @@
+{
+  "id": 1242966683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.5066,31.90603,-7.5066,31.90603",
+    "geom:latitude":31.90603,
+    "geom:longitude":-7.5066,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lekrarma",
+    "gn:country_code":"MA",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549773,
+    "gn:latitude":31.90603,
+    "gn:longitude":-7.5066,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Lekrarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Krarma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549773
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"87054068155a81f54956602c9c7f7b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1242966683,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242966683,
+    "wof:lastmodified":1537663850,
+    "wof:name":"Douar Lekrarma",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.5066,
+    31.90603,
+    -7.5066,
+    31.90603
+],
+  "geometry": {"coordinates":[-7.5066,31.90603],"type":"Point"}
+}

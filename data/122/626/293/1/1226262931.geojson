@@ -1,0 +1,67 @@
+{
+  "id": 1226262931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1973,32.37832,-8.1973,32.37832",
+    "geom:latitude":32.37832,
+    "geom:longitude":-8.1973,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khryam Haroute",
+    "gn:country_code":"MA",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794780,
+    "gn:latitude":32.37832,
+    "gn:longitude":-8.1973,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Khryam Haroute",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794780
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"971083c73f5329517b4a3c5678651b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1226262931,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226262931,
+    "wof:lastmodified":1536909227,
+    "wof:name":"Khryam Haroute",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1973,
+    32.37832,
+    -8.1973,
+    32.37832
+],
+  "geometry": {"coordinates":[-8.1973,32.37832],"type":"Point"}
+}

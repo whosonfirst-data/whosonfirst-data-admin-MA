@@ -1,0 +1,67 @@
+{
+  "id": 1259963735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47289,30.65924,-9.47289,30.65924",
+    "geom:latitude":30.65924,
+    "geom:longitude":-9.47289,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiourarane",
+    "gn:country_code":"MA",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131696,
+    "gn:latitude":30.65924,
+    "gn:longitude":-9.47289,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiourarane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131696
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ca57fa4d265ca1d4df84c22df4facd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":1259963735,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259963735,
+    "wof:lastmodified":1536663628,
+    "wof:name":"Tiourarane",
+    "wof:parent_id":890429099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47289,
+    30.65924,
+    -9.47289,
+    30.65924
+],
+  "geometry": {"coordinates":[-9.47289,30.65924],"type":"Point"}
+}

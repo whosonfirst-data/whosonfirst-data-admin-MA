@@ -1,0 +1,67 @@
+{
+  "id": 1293684829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.67466,32.70794,-6.67466,32.70794",
+    "geom:latitude":32.70794,
+    "geom:longitude":-6.67466,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Douar Ayt Al Moudden",
+    "gn:country_code":"MA",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11470167,
+    "gn:latitude":32.70794,
+    "gn:longitude":-6.67466,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Douar Ayt Al Moudden",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890422519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11470167
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4d8fcbd09b6980fd8710a8a9b402c0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422519,
+            "locality_id":1293684829,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293684829,
+    "wof:lastmodified":1536999133,
+    "wof:name":"Douar Ayt Al Moudden",
+    "wof:parent_id":890422519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.67466,
+    32.70794,
+    -6.67466,
+    32.70794
+],
+  "geometry": {"coordinates":[-6.67466,32.70794],"type":"Point"}
+}

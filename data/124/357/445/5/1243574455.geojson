@@ -1,0 +1,67 @@
+{
+  "id": 1243574455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.80198,31.96462,-7.80198,31.96462",
+    "geom:latitude":31.96462,
+    "geom:longitude":-7.80198,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Sidi Rahal",
+    "gn:country_code":"MA",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10911467,
+    "gn:latitude":31.96462,
+    "gn:longitude":-7.80198,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Sidi Rahal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10911467
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"06efee43831764b6755eb0730666d7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1243574455,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243574455,
+    "wof:lastmodified":1536619001,
+    "wof:name":"Oulad Sidi Rahal",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.80198,
+    31.96462,
+    -7.80198,
+    31.96462
+],
+  "geometry": {"coordinates":[-7.80198,31.96462],"type":"Point"}
+}

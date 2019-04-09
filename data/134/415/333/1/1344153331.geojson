@@ -1,0 +1,67 @@
+{
+  "id": 1344153331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.05905,31.03721,-6.05905,31.03721",
+    "geom:latitude":31.03721,
+    "geom:longitude":-6.05905,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ifrane",
+    "gn:country_code":"MA",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951685,
+    "gn:latitude":31.03721,
+    "gn:longitude":-6.05905,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ifrane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951685
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d3535b29d31c5e73e5b38088b6eef891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1344153331,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1344153331,
+    "wof:lastmodified":1536741416,
+    "wof:name":"Ifrane",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.05905,
+    31.03721,
+    -6.05905,
+    31.03721
+],
+  "geometry": {"coordinates":[-6.05905,31.03721],"type":"Point"}
+}

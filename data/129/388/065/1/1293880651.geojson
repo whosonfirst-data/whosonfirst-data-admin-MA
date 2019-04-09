@@ -1,0 +1,67 @@
+{
+  "id": 1293880651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.26509,33.50579,-7.26509,33.50579",
+    "geom:latitude":33.50579,
+    "geom:longitude":-7.26509,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hasnaoua",
+    "gn:country_code":"MA",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10917965,
+    "gn:latitude":33.50579,
+    "gn:longitude":-7.26509,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hasnaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10917965
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8d7e72c2105869aff0c4b3450f28c11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1293880651,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293880651,
+    "wof:lastmodified":1536717819,
+    "wof:name":"Hasnaoua",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.26509,
+    33.50579,
+    -7.26509,
+    33.50579
+],
+  "geometry": {"coordinates":[-7.26509,33.50579],"type":"Point"}
+}

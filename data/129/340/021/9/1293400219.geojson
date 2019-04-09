@@ -1,0 +1,71 @@
+{
+  "id": 1293400219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.22691,32.11338,-1.22691,32.11338",
+    "geom:latitude":32.11338,
+    "geom:longitude":-1.22691,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Maiz Tahtani",
+    "gn:country_code":"MA",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549702,
+    "gn:latitude":32.11338,
+    "gn:longitude":-1.22691,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Ma\u00efz Tahtani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ma\u00efz",
+        "El Ma\u00efz Tahtani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549702
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"699ff73c7348c07bfb4caebaf3fc98a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1293400219,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293400219,
+    "wof:lastmodified":1537663846,
+    "wof:name":"El Maiz Tahtani",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.22691,
+    32.11338,
+    -1.22691,
+    32.11338
+],
+  "geometry": {"coordinates":[-1.22691,32.11338],"type":"Point"}
+}

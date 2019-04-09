@@ -1,0 +1,67 @@
+{
+  "id": 1243158085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.21278,32.29422,-7.21278,32.29422",
+    "geom:latitude":32.29422,
+    "geom:longitude":-7.21278,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad Serhinia",
+    "gn:country_code":"MA",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11368183,
+    "gn:latitude":32.29422,
+    "gn:longitude":-7.21278,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Serhinia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11368183
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cc31b0a6538e2701037fb0efff872202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1243158085,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243158085,
+    "wof:lastmodified":1536724681,
+    "wof:name":"Douar Oulad Serhinia",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.21278,
+    32.29422,
+    -7.21278,
+    32.29422
+],
+  "geometry": {"coordinates":[-7.21278,32.29422],"type":"Point"}
+}

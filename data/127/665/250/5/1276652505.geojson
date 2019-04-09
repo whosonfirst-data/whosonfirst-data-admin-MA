@@ -1,0 +1,67 @@
+{
+  "id": 1276652505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.12893,32.11248,-8.12893,32.11248",
+    "geom:latitude":32.11248,
+    "geom:longitude":-8.12893,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Reguibet",
+    "gn:country_code":"MA",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367008,
+    "gn:latitude":32.11248,
+    "gn:longitude":-8.12893,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Reguibet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367008
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"449a927954a9ca55608ae26408409740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1276652505,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276652505,
+    "wof:lastmodified":1536847042,
+    "wof:name":"Reguibet",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.12893,
+    32.11248,
+    -8.12893,
+    32.11248
+],
+  "geometry": {"coordinates":[-8.12893,32.11248],"type":"Point"}
+}

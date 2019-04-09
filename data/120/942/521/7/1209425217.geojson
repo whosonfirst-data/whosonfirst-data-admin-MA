@@ -1,0 +1,61 @@
+{
+  "id": 1209425217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4,30.36,-8.4,30.36",
+    "geom:latitude":30.36,
+    "geom:longitude":-8.4,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ihassanine",
+    "gn:country_code":"MA",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546572,
+    "gn:latitude":30.36,
+    "gn:longitude":-8.4,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ihassanine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546572
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4887057b594ead595381c020fa260207",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425217
+        }
+    ],
+    "wof:id":1209425217,
+    "wof:lastmodified":1536287402,
+    "wof:name":"Ihassanine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4,
+    30.36,
+    -8.4,
+    30.36
+],
+  "geometry": {"coordinates":[-8.4,30.36],"type":"Point"}
+}

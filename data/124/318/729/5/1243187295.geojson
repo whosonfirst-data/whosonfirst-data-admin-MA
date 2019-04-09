@@ -1,0 +1,71 @@
+{
+  "id": 1243187295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.94063,35.24226,-2.94063,35.24226",
+    "geom:latitude":35.24226,
+    "geom:longitude":-2.94063,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ikebbouzene",
+    "gn:country_code":"MA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546504,
+    "gn:latitude":35.24226,
+    "gn:longitude":-2.94063,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ikebbouzene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikebpouzene",
+        "Ikebbouzene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546504
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1c11bb60362a7d350e011eab10c126e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1243187295,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243187295,
+    "wof:lastmodified":1537663758,
+    "wof:name":"Ikebbouzene",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.94063,
+    35.24225999999999,
+    -2.94063,
+    35.24225999999999
+],
+  "geometry": {"coordinates":[-2.94063,35.24225999999999],"type":"Point"}
+}

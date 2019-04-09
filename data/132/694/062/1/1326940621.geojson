@@ -1,0 +1,67 @@
+{
+  "id": 1326940621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.64792,31.45444,-6.64792,31.45444",
+    "geom:latitude":31.45444,
+    "geom:longitude":-6.64792,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tamezrit",
+    "gn:country_code":"MA",
+    "gn:dem":2647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530617,
+    "gn:latitude":31.45444,
+    "gn:longitude":-6.64792,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamezrit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530617
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"db3b9bbf0583b25cb8980f5b7d195f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1326940621,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1326940621,
+    "wof:lastmodified":1536892286,
+    "wof:name":"Tamezrit",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.64792,
+    31.45444,
+    -6.64792,
+    31.45444
+],
+  "geometry": {"coordinates":[-6.64792,31.45444],"type":"Point"}
+}

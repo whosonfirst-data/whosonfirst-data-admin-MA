@@ -1,0 +1,88 @@
+{
+  "id": 1125298077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41901,33.2172,-8.41901,33.2172",
+    "geom:latitude":33.2172,
+    "geom:longitude":-8.41901,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":32589,
+    "gn:population":28821,
+    "iso:country":"MA",
+    "lbl:latitude":33.2172,
+    "lbl:longitude":-8.41901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u062a\u0648\u0643\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Haouzia"
+    ],
+    "name:fra_x_variant":[
+        "Haouzia (CR)",
+        "Haouzia (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546789,
+    "qs_pg:gn_pop":32589,
+    "qs_pg:name":"Haouzia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":629892,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546789,
+        "qs_pg:id":629892
+    },
+    "wof:country":"MA",
+    "wof:created":1497043262,
+    "wof:geomhash":"7d168cf2e935b4eab207f8892a1c1e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "localadmin_id":1125298077,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1125298077,
+    "wof:lastmodified":1509387660,
+    "wof:name":"Haouzia",
+    "wof:parent_id":890445399,
+    "wof:placetype":"localadmin",
+    "wof:population":28821,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41901,
+    33.2172,
+    -8.41901,
+    33.2172
+],
+  "geometry": {"coordinates":[-8.41901,33.2172],"type":"Point"}
+}

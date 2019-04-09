@@ -1,0 +1,73 @@
+{
+  "id": 1310298485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73261,32.52016,-7.73261,32.52016",
+    "geom:latitude":32.52016,
+    "geom:longitude":-7.73261,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ed-Dehour",
+    "gn:country_code":"MA",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552204,
+    "gn:latitude":32.52016,
+    "gn:longitude":-7.73261,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ed-Dehour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar ed Dohor",
+        "Ed Dehour",
+        "Dohor",
+        "Ed-Dehour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552204
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"52c38022fb4f09eb38615648e3a037b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1310298485,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310298485,
+    "wof:lastmodified":1537663996,
+    "wof:name":"Ed-Dehour",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73261,
+    32.52016,
+    -7.73261,
+    32.52016
+],
+  "geometry": {"coordinates":[-7.73261,32.52016],"type":"Point"}
+}

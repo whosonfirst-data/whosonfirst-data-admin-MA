@@ -1,0 +1,67 @@
+{
+  "id": 1343365905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.42564,33.53201,-5.42564,33.53201",
+    "geom:latitude":33.53201,
+    "geom:longitude":-5.42564,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bou Lebraouig",
+    "gn:country_code":"MA",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10374596,
+    "gn:latitude":33.53201,
+    "gn:longitude":-5.42564,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bou Lebraouig",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        890429095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10374596
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4a420df7f0106fa2c81f16a5058fb454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429095,
+            "locality_id":1343365905,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343365905,
+    "wof:lastmodified":1536881909,
+    "wof:name":"Bou Lebraouig",
+    "wof:parent_id":890429095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.42564,
+    33.53201,
+    -5.42564,
+    33.53201
+],
+  "geometry": {"coordinates":[-5.42564,33.53201],"type":"Point"}
+}

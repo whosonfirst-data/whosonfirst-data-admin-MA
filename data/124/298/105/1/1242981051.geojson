@@ -1,0 +1,72 @@
+{
+  "id": 1242981051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2163,35.47287,-5.2163,35.47287",
+    "geom:latitude":35.47287,
+    "geom:longitude":-5.2163,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sidi Kasem",
+    "gn:country_code":"MA",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571038,
+    "gn:latitude":35.47287,
+    "gn:longitude":-5.2163,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Kasem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zouia Sidi Kacem",
+        "Zou\u00efet Sidi Kacem",
+        "Sidi Kasem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571038
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cab3094481163464b544b4767dd07735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1242981051,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242981051,
+    "wof:lastmodified":1537664274,
+    "wof:name":"Sidi Kasem",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2163,
+    35.47287,
+    -5.2163,
+    35.47287
+],
+  "geometry": {"coordinates":[-5.2163,35.47287],"type":"Point"}
+}

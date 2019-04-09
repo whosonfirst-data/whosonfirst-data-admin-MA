@@ -1,0 +1,66 @@
+{
+  "id": 1209525713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0785,34.77521,-6.0785,34.77521",
+    "geom:latitude":34.77521,
+    "geom:longitude":-6.0785,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lalla Rhano",
+    "gn:country_code":"MA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543626,
+    "gn:latitude":34.77521,
+    "gn:longitude":-6.0785,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lalla Rhano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled lalla ghanou",
+        "Lalla Ghano",
+        "Lalla Rhano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543626
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"407502a6697872dab45af70aebc1ebc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525713
+        }
+    ],
+    "wof:id":1209525713,
+    "wof:lastmodified":1537663678,
+    "wof:name":"Lalla Rhano",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0785,
+    34.77520999999999,
+    -6.0785,
+    34.77520999999999
+],
+  "geometry": {"coordinates":[-6.0785,34.77520999999999],"type":"Point"}
+}

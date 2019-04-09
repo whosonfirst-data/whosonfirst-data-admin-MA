@@ -1,0 +1,67 @@
+{
+  "id": 1243383879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.51439,31.32065,-9.51439,31.32065",
+    "geom:latitude":31.32065,
+    "geom:longitude":-9.51439,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Talaint",
+    "gn:country_code":"MA",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946114,
+    "gn:latitude":31.32065,
+    "gn:longitude":-9.51439,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Talaint",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946114
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"95080a2a3b12341d7a25cd088f3ea0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1243383879,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243383879,
+    "wof:lastmodified":1536895661,
+    "wof:name":"Douar Talaint",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.51439,
+    31.32065,
+    -9.51439,
+    31.32065
+],
+  "geometry": {"coordinates":[-9.51439,31.32065],"type":"Point"}
+}

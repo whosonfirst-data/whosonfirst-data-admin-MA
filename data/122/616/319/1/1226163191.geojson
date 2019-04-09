@@ -1,0 +1,67 @@
+{
+  "id": 1226163191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07124,32.39963,-8.07124,32.39963",
+    "geom:latitude":32.39963,
+    "geom:longitude":-8.07124,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Laaroussi",
+    "gn:country_code":"MA",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795872,
+    "gn:latitude":32.39963,
+    "gn:longitude":-8.07124,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Laaroussi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795872
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f2f6de04d1fe4c20d8ded3cfa65c83bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1226163191,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226163191,
+    "wof:lastmodified":1537050487,
+    "wof:name":"Oulad Laaroussi",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07124,
+    32.39963,
+    -8.07124,
+    32.39963
+],
+  "geometry": {"coordinates":[-8.07124,32.39963],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226257747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.26481,35.38185,-5.26481,35.38185",
+    "geom:latitude":35.38185,
+    "geom:longitude":-5.26481,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Idaoudene",
+    "gn:country_code":"MA",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547390,
+    "gn:latitude":35.38185,
+    "gn:longitude":-5.26481,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Idaoudene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547390
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9f423b064851b82a9af54318d906a9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1226257747,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226257747,
+    "wof:lastmodified":1536916774,
+    "wof:name":"Idaoudene",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.26481,
+    35.38185,
+    -5.26481,
+    35.38185
+],
+  "geometry": {"coordinates":[-5.26481,35.38185],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293284443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2107,32.61492,-8.2107,32.61492",
+    "geom:latitude":32.61492,
+    "geom:longitude":-8.2107,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Leakak",
+    "gn:country_code":"MA",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795292,
+    "gn:latitude":32.61492,
+    "gn:longitude":-8.2107,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Leakak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795292
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a556ce82c3f55e3b829f705369ddbc6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1293284443,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293284443,
+    "wof:lastmodified":1537076633,
+    "wof:name":"Douar Leakak",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2107,
+    32.61492,
+    -8.2107,
+    32.61492
+],
+  "geometry": {"coordinates":[-8.2107,32.61492],"type":"Point"}
+}

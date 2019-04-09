@@ -1,0 +1,71 @@
+{
+  "id": 1293015633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.96832,33.92481,-3.96832,33.92481",
+    "geom:latitude":33.92481,
+    "geom:longitude":-3.96832,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Es Sahrij",
+    "gn:country_code":"MA",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549266,
+    "gn:latitude":33.92481,
+    "gn:longitude":-3.96832,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Es Sahrij",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es Sahrij",
+        "Es Sehrij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549266
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"34938ad15e3270f2e38d24fe8cfa2726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1293015633,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293015633,
+    "wof:lastmodified":1537663828,
+    "wof:name":"Douar Es Sahrij",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.96832,
+    33.92481,
+    -3.96832,
+    33.92481
+],
+  "geometry": {"coordinates":[-3.96832,33.92481],"type":"Point"}
+}

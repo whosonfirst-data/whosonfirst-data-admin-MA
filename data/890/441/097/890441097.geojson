@@ -1,0 +1,78 @@
+{
+  "id": 890441097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29568,32.0271,-7.29568,32.0271",
+    "geom:latitude":32.0271,
+    "geom:longitude":-7.29568,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":6497,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u0627\u0635\u0628\u064a\u062d"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Yaacoub"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Yaacoub (CR)",
+        "Oulad Yaacoub (Commune Rurale)"
+    ],
+    "qs:name":"Oulad Yaacoub",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545889,
+        "qs:id":629033,
+        "wd:id":"Q7110431",
+        "wk:page":"Oulad Yaacoub"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052308,
+    "wof:geomhash":"1d9d2291914cc6c65526d9a534240611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "localadmin_id":890441097,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890441097,
+    "wof:lastmodified":1527727229,
+    "wof:name":"Oulad Yaacoub",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"localadmin",
+    "wof:population":6497,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29568,
+    32.0271,
+    -7.29568,
+    32.0271
+],
+  "geometry": {"coordinates":[-7.29568,32.0271],"type":"Point"}
+}

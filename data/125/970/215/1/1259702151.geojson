@@ -1,0 +1,73 @@
+{
+  "id": 1259702151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3295,31.55046,-9.3295,31.55046",
+    "geom:latitude":31.55046,
+    "geom:longitude":-9.3295,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ait Ouarar",
+    "gn:country_code":"MA",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552479,
+    "gn:latitude":31.55046,
+    "gn:longitude":-9.3295,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ait Ouarar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Raoui",
+        "Douar Sidi Mohammed Rouhi",
+        "Dar Sidi Raoui",
+        "Douar Ait Ouarar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552479
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"710a7558d29e445c0561fb9669ffb095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1259702151,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259702151,
+    "wof:lastmodified":1537664004,
+    "wof:name":"Douar Ait Ouarar",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3295,
+    31.55046,
+    -9.3295,
+    31.55046
+],
+  "geometry": {"coordinates":[-9.3295,31.55046],"type":"Point"}
+}

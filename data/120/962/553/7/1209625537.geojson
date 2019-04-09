@@ -1,0 +1,65 @@
+{
+  "id": 1209625537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.62941,29.3867,-9.62941,29.3867",
+    "geom:latitude":29.3867,
+    "geom:longitude":-9.62941,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Ou Salah",
+    "gn:country_code":"MA",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547081,
+    "gn:latitude":29.3867,
+    "gn:longitude":-9.62941,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Ou Salah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Salah",
+        "Id Ou Salah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547081
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3c96e8ea280a4c68d68f57dcb3e0adda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625537
+        }
+    ],
+    "wof:id":1209625537,
+    "wof:lastmodified":1537663777,
+    "wof:name":"Id Ou Salah",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.62941,
+    29.3867,
+    -9.62941,
+    29.3867
+],
+  "geometry": {"coordinates":[-9.62941,29.3867],"type":"Point"}
+}

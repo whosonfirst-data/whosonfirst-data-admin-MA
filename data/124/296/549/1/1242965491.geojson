@@ -1,0 +1,67 @@
+{
+  "id": 1242965491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.20835,32.85824,-7.20835,32.85824",
+    "geom:latitude":32.85824,
+    "geom:longitude":-7.20835,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar Mohamed Ben Sma'il",
+    "gn:country_code":"MA",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435013,
+    "gn:latitude":32.85824,
+    "gn:longitude":-7.20835,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Dar Mohamed Ben Sma\u2019il",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435013
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b7af499025bef1614424d6ae0f453873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1242965491,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1242965491,
+    "wof:lastmodified":1537001258,
+    "wof:name":"Dar Mohamed Ben Sma'il",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.20835,
+    32.85824,
+    -7.20835,
+    32.85824
+],
+  "geometry": {"coordinates":[-7.20835,32.85824],"type":"Point"}
+}

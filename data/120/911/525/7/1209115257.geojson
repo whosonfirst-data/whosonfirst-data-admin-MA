@@ -1,0 +1,61 @@
+{
+  "id": 1209115257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.24744,35.11637,-4.24744,35.11637",
+    "geom:latitude":35.11637,
+    "geom:longitude":-4.24744,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Tamassint",
+    "gn:country_code":"MA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091706,
+    "gn:latitude":35.11637,
+    "gn:longitude":-4.24744,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tamassint",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091706
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"440803fea5b98e9c6a2327c73561d05f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209115257
+        }
+    ],
+    "wof:id":1209115257,
+    "wof:lastmodified":1536297274,
+    "wof:name":"Douar Tamassint",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.24744,
+    35.11637,
+    -4.24744,
+    35.11637
+],
+  "geometry": {"coordinates":[-4.24744,35.11637],"type":"Point"}
+}

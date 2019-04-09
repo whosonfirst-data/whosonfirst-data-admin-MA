@@ -1,0 +1,73 @@
+{
+  "id": 1343979799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60834,32.9947,-8.60834,32.9947",
+    "geom:latitude":32.9947,
+    "geom:longitude":-8.60834,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Rouhala",
+    "gn:country_code":"MA",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551258,
+    "gn:latitude":32.9947,
+    "gn:longitude":-8.60834,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Rouhala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rouahla",
+        "Douar Rhouhala",
+        "Douar Rouahla",
+        "Douar Rouhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551258
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"41adf07f57845d3c6894a55aef8f720f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1343979799,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343979799,
+    "wof:lastmodified":1537663923,
+    "wof:name":"Douar Rouhala",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60834,
+    32.9947,
+    -8.60834,
+    32.9947
+],
+  "geometry": {"coordinates":[-8.60834,32.9947],"type":"Point"}
+}

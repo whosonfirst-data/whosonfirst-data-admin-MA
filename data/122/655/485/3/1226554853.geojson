@@ -1,0 +1,67 @@
+{
+  "id": 1226554853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9,31.81,-6.9,31.81",
+    "geom:latitude":31.81,
+    "geom:longitude":-6.9,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Salah Imerouane",
+    "gn:country_code":"MA",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559103,
+    "gn:latitude":31.81,
+    "gn:longitude":-6.9,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Salah Imerouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559103
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"baf46480f3cd1d784768f0589ccd746e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226554853,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226554853,
+    "wof:lastmodified":1536984047,
+    "wof:name":"Ait Salah Imerouane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9,
+    31.81,
+    -6.9,
+    31.81
+],
+  "geometry": {"coordinates":[-6.9,31.81],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209425169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.697,34.86159,-5.697,34.86159",
+    "geom:latitude":34.86159,
+    "geom:longitude":-5.697,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Touirta",
+    "gn:country_code":"MA",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551149,
+    "gn:latitude":34.86159,
+    "gn:longitude":-5.697,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Touirta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taourita",
+        "Touerta",
+        "Douar Touerta",
+        "Douar Touirta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551149
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"598ec1e9b6b276181bb18ef412c92dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425169
+        }
+    ],
+    "wof:id":1209425169,
+    "wof:lastmodified":1537663915,
+    "wof:name":"Douar Touirta",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.697,
+    34.86159,
+    -5.697,
+    34.86159
+],
+  "geometry": {"coordinates":[-5.697,34.86159],"type":"Point"}
+}

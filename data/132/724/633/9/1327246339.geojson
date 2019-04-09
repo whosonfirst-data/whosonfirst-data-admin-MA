@@ -1,0 +1,72 @@
+{
+  "id": 1327246339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0,30.38,-8.0,30.38",
+    "geom:latitude":30.38,
+    "geom:longitude":-8.0,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Tirga",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527656,
+    "gn:latitude":30.38,
+    "gn:longitude":-8.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tirga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tirga A\u00eft Lahzen",
+        "Tirga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527656
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0dac43d3dd3d8862a2e791f17f1aefda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1327246339,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327246339,
+    "wof:lastmodified":1537663362,
+    "wof:name":"Tirga",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0,
+    30.38,
+    -8.0,
+    30.38
+],
+  "geometry": {"coordinates":[-8.0,30.38],"type":"Point"}
+}

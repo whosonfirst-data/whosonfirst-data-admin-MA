@@ -1,0 +1,67 @@
+{
+  "id": 1292912551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1107,35.33857,-5.1107,35.33857",
+    "geom:latitude":35.33857,
+    "geom:longitude":-5.1107,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Aata",
+    "gn:country_code":"MA",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10954465,
+    "gn:latitude":35.33857,
+    "gn:longitude":-5.1107,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Aata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10954465
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a9e7f952fabe7db9735a5f7b3d0d6f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1292912551,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1292912551,
+    "wof:lastmodified":1536619607,
+    "wof:name":"Douar Aata",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1107,
+    35.33857000000001,
+    -5.1107,
+    35.33857000000001
+],
+  "geometry": {"coordinates":[-5.1107,35.33857000000001],"type":"Point"}
+}

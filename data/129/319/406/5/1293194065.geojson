@@ -1,0 +1,67 @@
+{
+  "id": 1293194065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.45141,32.16213,-7.45141,32.16213",
+    "geom:latitude":32.16213,
+    "geom:longitude":-7.45141,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Tlat",
+    "gn:country_code":"MA",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10935082,
+    "gn:latitude":32.16213,
+    "gn:longitude":-7.45141,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tlat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10935082
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"56afc4a1328de4d16b6d31ae160faf78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1293194065,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293194065,
+    "wof:lastmodified":1536713422,
+    "wof:name":"Douar Tlat",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.45141,
+    32.16213,
+    -7.45141,
+    32.16213
+],
+  "geometry": {"coordinates":[-7.45141,32.16213],"type":"Point"}
+}

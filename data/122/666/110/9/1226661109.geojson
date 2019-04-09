@@ -1,0 +1,71 @@
+{
+  "id": 1226661109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31,29.95,-7.31,29.95",
+    "geom:latitude":29.95,
+    "geom:longitude":-7.31,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tamjerjt",
+    "gn:country_code":"MA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530561,
+    "gn:latitude":29.95,
+    "gn:longitude":-7.31,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamjerjt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamjert",
+        "Tamjerjt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530561
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aa76e133c2dde24bacaf5959fac80ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1226661109,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1226661109,
+    "wof:lastmodified":1537663441,
+    "wof:name":"Tamjerjt",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31,
+    29.95,
+    -7.31,
+    29.95
+],
+  "geometry": {"coordinates":[-7.31,29.95],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125330925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57686,35.56209,-5.57686,35.56209",
+    "geom:latitude":35.56209,
+    "geom:longitude":-5.57686,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6552,
+    "gn:population":6742,
+    "iso:country":"MA",
+    "lbl:latitude":35.56209,
+    "lbl:longitude":-5.57686,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0632\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Lahsan"
+    ],
+    "name:fra_x_variant":[
+        "Ain Lahsan (CR)",
+        "Ain Lahsan (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547035,
+    "qs_pg:gn_pop":6552,
+    "qs_pg:name":"Ain Lahsan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":630115,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547035,
+        "qs_pg:id":630115
+    },
+    "wof:country":"MA",
+    "wof:created":1497045129,
+    "wof:geomhash":"3b7d86a73b2df044997267e4a4896e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "localadmin_id":1125330925,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125330925,
+    "wof:lastmodified":1509388379,
+    "wof:name":"Ain Lahsan",
+    "wof:parent_id":890421483,
+    "wof:placetype":"localadmin",
+    "wof:population":6742,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57686,
+    35.56209,
+    -5.57686,
+    35.56209
+],
+  "geometry": {"coordinates":[-5.57686,35.56209],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209229505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29354,31.8972,-8.29354,31.8972",
+    "geom:latitude":31.8972,
+    "geom:longitude":-8.29354,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Mrimdat",
+    "gn:country_code":"MA",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551494,
+    "gn:latitude":31.8972,
+    "gn:longitude":-8.29354,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Mrimdat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Ahmida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551494
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b91245925ac8a2ced7fe7244c5704295",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229505
+        }
+    ],
+    "wof:id":1209229505,
+    "wof:lastmodified":1537663943,
+    "wof:name":"Douar Mrimdat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29354,
+    31.8972,
+    -8.29354,
+    31.8972
+],
+  "geometry": {"coordinates":[-8.29354,31.8972],"type":"Point"}
+}

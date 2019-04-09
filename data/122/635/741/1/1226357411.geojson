@@ -1,0 +1,73 @@
+{
+  "id": 1226357411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.46415,32.18281,-4.46415,32.18281",
+    "geom:latitude":32.18281,
+    "geom:longitude":-4.46415,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ayt Seddour",
+    "gn:country_code":"MA",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559093,
+    "gn:latitude":32.18281,
+    "gn:longitude":-4.46415,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Ayt Seddour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borj de Seddour",
+        "Bordj de Seddour",
+        "A\u00eft Seddour",
+        "Ayt Seddour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559093
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"919998e593096acef6fac0d26ce6c945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1226357411,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226357411,
+    "wof:lastmodified":1537664154,
+    "wof:name":"Ayt Seddour",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.46415,
+    32.18281,
+    -4.46415,
+    32.18281
+],
+  "geometry": {"coordinates":[-4.46415,32.18281],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292899323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14922,31.07349,-9.14922,31.07349",
+    "geom:latitude":31.07349,
+    "geom:longitude":-9.14922,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Amzdarn",
+    "gn:country_code":"MA",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11148900,
+    "gn:latitude":31.07349,
+    "gn:longitude":-9.14922,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Amzdarn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11148900
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f2ae5aafca65806a7522cd5db3ce52d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1292899323,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1292899323,
+    "wof:lastmodified":1536639943,
+    "wof:name":"Amzdarn",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14922,
+    31.07349,
+    -9.14922,
+    31.07349
+],
+  "geometry": {"coordinates":[-9.14922,31.07349],"type":"Point"}
+}

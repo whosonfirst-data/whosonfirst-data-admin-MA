@@ -1,0 +1,71 @@
+{
+  "id": 1225855099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.02809,35.33662,-3.02809,35.33662",
+    "geom:latitude":35.33662,
+    "geom:longitude":-3.02809,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ed Dar Aouragh",
+    "gn:country_code":"MA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565022,
+    "gn:latitude":35.33662,
+    "gn:longitude":-3.02809,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ed Dar Aouragh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ed Dar Aourarh",
+        "Ed Dar Aouragh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565022
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6162467b32d5c915b97ddafdf36f5328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1225855099,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1225855099,
+    "wof:lastmodified":1537664260,
+    "wof:name":"Ed Dar Aouragh",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.02809,
+    35.33662,
+    -3.02809,
+    35.33662
+],
+  "geometry": {"coordinates":[-3.02809,35.33662],"type":"Point"}
+}

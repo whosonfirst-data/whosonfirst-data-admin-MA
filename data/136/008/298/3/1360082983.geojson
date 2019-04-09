@@ -1,0 +1,67 @@
+{
+  "id": 1360082983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.1098,31.67247,-7.1098,31.67247",
+    "geom:latitude":31.67247,
+    "geom:longitude":-7.1098,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Waziz",
+    "gn:country_code":"MA",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354757,
+    "gn:latitude":31.67247,
+    "gn:longitude":-7.1098,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait W\u00e0ziz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354757
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e00597b51b838ed5f48cbc28fac5fbb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1360082983,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1360082983,
+    "wof:lastmodified":1536949029,
+    "wof:name":"Ait Waziz",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.1098,
+    31.67247,
+    -7.1098,
+    31.67247
+],
+  "geometry": {"coordinates":[-7.1098,31.67247],"type":"Point"}
+}

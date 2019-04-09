@@ -1,0 +1,72 @@
+{
+  "id": 1259376289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14762,31.50698,-8.14762,31.50698",
+    "geom:latitude":31.50698,
+    "geom:longitude":-8.14762,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Gheya",
+    "gn:country_code":"MA",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538152,
+    "gn:latitude":31.50698,
+    "gn:longitude":-8.14762,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Gheya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Rheya",
+        "Rheya",
+        "Douar Gheya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538152
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c0b9ea1fab5bc5731ffc6215a34b216e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1259376289,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259376289,
+    "wof:lastmodified":1537663534,
+    "wof:name":"Douar Gheya",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14762,
+    31.50698,
+    -8.14762,
+    31.50698
+],
+  "geometry": {"coordinates":[-8.14762,31.50698],"type":"Point"}
+}

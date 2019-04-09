@@ -1,0 +1,61 @@
+{
+  "id": 1209613831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.93728,31.42932,-6.93728,31.42932",
+    "geom:latitude":31.42932,
+    "geom:longitude":-6.93728,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Agansou-n-Oumassine",
+    "gn:country_code":"MA",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951353,
+    "gn:latitude":31.42932,
+    "gn:longitude":-6.93728,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Agansou-n-Oumassine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951353
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"46937ac307e37fafefc98c92472c2254",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209613831
+        }
+    ],
+    "wof:id":1209613831,
+    "wof:lastmodified":1536281758,
+    "wof:name":"Agansou-n-Oumassine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.93728,
+    31.42932,
+    -6.93728,
+    31.42932
+],
+  "geometry": {"coordinates":[-6.93728,31.42932],"type":"Point"}
+}

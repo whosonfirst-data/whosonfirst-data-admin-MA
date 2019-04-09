@@ -1,0 +1,88 @@
+{
+  "id": 1125330693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78366,31.39129,-8.78366,31.39129",
+    "geom:latitude":31.39129,
+    "geom:longitude":-8.78366,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6313,
+    "gn:population":7431,
+    "iso:country":"MA",
+    "lbl:latitude":31.39129,
+    "lbl:longitude":-8.78366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0647\u062f\u064a\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Hadi"
+    ],
+    "name:fra_x_variant":[
+        "Ait Hadi (CR)",
+        "Ait Hadi (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546619,
+    "qs_pg:gn_pop":6313,
+    "qs_pg:name":"Ait Hadi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629721,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546619,
+        "qs_pg:id":629721
+    },
+    "wof:country":"MA",
+    "wof:created":1497045117,
+    "wof:geomhash":"27a45807644bd89045b6797c373861f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "localadmin_id":1125330693,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125330693,
+    "wof:lastmodified":1509388372,
+    "wof:name":"Ait Hadi",
+    "wof:parent_id":890440847,
+    "wof:placetype":"localadmin",
+    "wof:population":7431,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78366,
+    31.39129,
+    -8.78366,
+    31.39129
+],
+  "geometry": {"coordinates":[-8.78366,31.39129],"type":"Point"}
+}

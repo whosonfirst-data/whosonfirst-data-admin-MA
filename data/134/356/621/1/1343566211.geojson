@@ -1,0 +1,67 @@
+{
+  "id": 1343566211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14808,34.80078,-6.14808,34.80078",
+    "geom:latitude":34.80078,
+    "geom:longitude":-6.14808,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nouadem",
+    "gn:country_code":"MA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10938093,
+    "gn:latitude":34.80078,
+    "gn:longitude":-6.14808,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Nouadem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10938093
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"87df59044a6777cec2515d448a96a17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1343566211,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1343566211,
+    "wof:lastmodified":1537087913,
+    "wof:name":"Nouadem",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14808,
+    34.80078,
+    -6.14808,
+    34.80078
+],
+  "geometry": {"coordinates":[-6.14808,34.80078],"type":"Point"}
+}

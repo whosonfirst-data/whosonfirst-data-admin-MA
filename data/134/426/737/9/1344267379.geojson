@@ -1,0 +1,71 @@
+{
+  "id": 1344267379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52706,31.17295,-8.52706,31.17295",
+    "geom:latitude":31.17295,
+    "geom:longitude":-8.52706,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ouarourhad",
+    "gn:country_code":"MA",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540856,
+    "gn:latitude":31.17295,
+    "gn:longitude":-8.52706,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouarourhad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ououarouhad",
+        "Ouarourhad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540856
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a3ca895819ae78333f27c2bad4632c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1344267379,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1344267379,
+    "wof:lastmodified":1537663628,
+    "wof:name":"Ouarourhad",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52706,
+    31.17295,
+    -8.52706,
+    31.17295
+],
+  "geometry": {"coordinates":[-8.52706,31.17295],"type":"Point"}
+}

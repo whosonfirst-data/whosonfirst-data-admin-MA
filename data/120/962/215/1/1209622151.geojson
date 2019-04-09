@@ -1,0 +1,61 @@
+{
+  "id": 1209622151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1037,34.32552,-5.1037,34.32552",
+    "geom:latitude":34.32552,
+    "geom:longitude":-5.1037,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Sidi Abed",
+    "gn:country_code":"MA",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985490,
+    "gn:latitude":34.32552,
+    "gn:longitude":-5.1037,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Sidi Abed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985490
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"524dfea7e2785bc03b2bf954dd549175",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209622151
+        }
+    ],
+    "wof:id":1209622151,
+    "wof:lastmodified":1536281480,
+    "wof:name":"Douar Sidi Abed",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1037,
+    34.325520000000004,
+    -5.1037,
+    34.325520000000004
+],
+  "geometry": {"coordinates":[-5.1037,34.32552],"type":"Point"}
+}

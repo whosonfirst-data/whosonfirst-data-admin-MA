@@ -1,0 +1,73 @@
+{
+  "id": 1326540279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.91732,29.60487,-9.91732,29.60487",
+    "geom:latitude":29.60487,
+    "geom:longitude":-9.91732,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Souk el Arba n Sahel",
+    "gn:country_code":"MA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561884,
+    "gn:latitude":29.60487,
+    "gn:longitude":-9.91732,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Souk el Arba n S\u00e2hel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adouar n\u2019Yahya",
+        "el Arbaa",
+        "Souk al Arba n Sahal",
+        "Souk el Arba n S\u00e2hel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561884
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9123bf5cbbfb87ee58fc22a81eb8cc96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1326540279,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1326540279,
+    "wof:lastmodified":1537664250,
+    "wof:name":"Souk el Arba n Sahel",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.91732,
+    29.60487,
+    -9.91732,
+    29.60487
+],
+  "geometry": {"coordinates":[-9.91732,29.60487],"type":"Point"}
+}

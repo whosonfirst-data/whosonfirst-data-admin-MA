@@ -1,0 +1,75 @@
+{
+  "id": 890417199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19567,32.51309,-7.19567,32.51309",
+    "geom:latitude":32.51309,
+    "geom:longitude":-7.19567,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":16222,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0634\u064a\u062f (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Elborouj"
+    ],
+    "name:fra_x_variant":[
+        "Elborouj (MU)",
+        "Elborouj (Commune Urbaine)"
+    ],
+    "qs:name":"Elborouj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546706,
+        "qs:id":629803
+    },
+    "wof:country":"MA",
+    "wof:created":1469051188,
+    "wof:geomhash":"2110185e53936e5dabcbc85d488c7ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":890417199,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890417199,
+    "wof:lastmodified":1505343437,
+    "wof:name":"Elborouj",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":16222,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19567,
+    32.51309,
+    -7.19567,
+    32.51309
+],
+  "geometry": {"coordinates":[-7.19567,32.51309],"type":"Point"}
+}

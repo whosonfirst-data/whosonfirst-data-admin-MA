@@ -1,0 +1,70 @@
+{
+  "id": 1293404945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.67847,35.64784,-5.67847,35.64784",
+    "geom:latitude":35.64784,
+    "geom:longitude":-5.67847,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jouamaa",
+    "gn:country_code":"MA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570640,
+    "gn:latitude":35.64784,
+    "gn:longitude":-5.67847,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jouamaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Jouam\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570640
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"370c7a4cfc4ef8c124ad0e018f11bbf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1293404945,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293404945,
+    "wof:lastmodified":1537664273,
+    "wof:name":"Jouamaa",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.67847,
+    35.64784,
+    -5.67847,
+    35.64784
+],
+  "geometry": {"coordinates":[-5.67847,35.64784],"type":"Point"}
+}

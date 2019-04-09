@@ -1,0 +1,72 @@
+{
+  "id": 1293400185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76252,31.9565,-8.76252,31.9565",
+    "geom:latitude":31.9565,
+    "geom:longitude":-8.76252,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kordane",
+    "gn:country_code":"MA",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544178,
+    "gn:latitude":31.9565,
+    "gn:longitude":-8.76252,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kordane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Kordane",
+        "Zourdane",
+        "Kordane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544178
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a11e6103d18c5f41d3071bf62f53a5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1293400185,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293400185,
+    "wof:lastmodified":1537663690,
+    "wof:name":"Kordane",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76252,
+    31.9565,
+    -8.76252,
+    31.9565
+],
+  "geometry": {"coordinates":[-8.76252,31.9565],"type":"Point"}
+}

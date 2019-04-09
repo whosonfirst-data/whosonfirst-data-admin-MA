@@ -1,0 +1,72 @@
+{
+  "id": 1226554895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.42229,28.83778,-10.42229,28.83778",
+    "geom:latitude":28.83778,
+    "geom:longitude":-10.42229,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Labiar",
+    "gn:country_code":"MA",
+    "gn:dem":162,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543871,
+    "gn:latitude":28.83778,
+    "gn:longitude":-10.42229,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Labiar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Abiar",
+        "Labiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543871
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"801af7bee96590adcb78af6ed11fc4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1226554895,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1226554895,
+    "wof:lastmodified":1537663681,
+    "wof:name":"Labiar",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.42229,
+    28.83778,
+    -10.42229,
+    28.83778
+],
+  "geometry": {"coordinates":[-10.42229,28.83778],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259998051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.69927,35.04893,-3.69927,35.04893",
+    "geom:latitude":35.04893,
+    "geom:longitude":-3.69927,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Sidi Bouiachi",
+    "gn:country_code":"MA",
+    "gn:dem":475,
+    "gn:elevation":"450.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2535760,
+    "gn:latitude":35.04893,
+    "gn:longitude":-3.69927,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Sidi Bouiachi",
+    "gn:population":160,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Buiahi",
+        "Sidi Bouiachi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2535760
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e57796737a709d759a12f4189a7f85cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1259998051,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1259998051,
+    "wof:lastmodified":1537663514,
+    "wof:name":"Sidi Bouiachi",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.69927,
+    35.04893,
+    -3.69927,
+    35.04893
+],
+  "geometry": {"coordinates":[-3.69927,35.04893],"type":"Point"}
+}

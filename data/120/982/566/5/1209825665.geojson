@@ -1,0 +1,73 @@
+{
+  "id": 1209825665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47944,30.2148,-9.47944,30.2148",
+    "geom:latitude":30.2148,
+    "geom:longitude":-9.47944,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aghorays",
+    "gn:country_code":"MA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557230,
+    "gn:latitude":30.2148,
+    "gn:longitude":-9.47944,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aghorays",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arhoreis",
+        "Arhra\u00efsse",
+        "Arhora\u00efs",
+        "Aghorays"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557230
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6f7ecb2f9653d18ce465e33661711ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1209825665,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209825665,
+    "wof:lastmodified":1537664103,
+    "wof:name":"Aghorays",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47944,
+    30.2148,
+    -9.47944,
+    30.2148
+],
+  "geometry": {"coordinates":[-9.47944,30.2148],"type":"Point"}
+}

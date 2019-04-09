@@ -1,0 +1,66 @@
+{
+  "id": 1209633693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.86173,34.62974,-5.86173,34.62974",
+    "geom:latitude":34.62974,
+    "geom:longitude":-5.86173,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad El Mekki",
+    "gn:country_code":"MA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551430,
+    "gn:latitude":34.62974,
+    "gn:longitude":-5.86173,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad El Mekki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad el Mekki",
+        "Ouled Sidi el Mekki",
+        "Douar Oulad El Mekki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551430
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d2c8c3e78989b982d80bbc6ed77a0d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633693
+        }
+    ],
+    "wof:id":1209633693,
+    "wof:lastmodified":1537663938,
+    "wof:name":"Douar Oulad El Mekki",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.86173,
+    34.62974000000001,
+    -5.86173,
+    34.62974000000001
+],
+  "geometry": {"coordinates":[-5.86173,34.62974000000001],"type":"Point"}
+}

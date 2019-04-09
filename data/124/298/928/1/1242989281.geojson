@@ -1,0 +1,71 @@
+{
+  "id": 1242989281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.70714,32.23524,-5.70714,32.23524",
+    "geom:latitude":32.23524,
+    "geom:longitude":-5.70714,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tassent",
+    "gn:country_code":"MA",
+    "gn:dem":1910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529432,
+    "gn:latitude":32.23524,
+    "gn:longitude":-5.70714,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tassent",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tassennt",
+        "Tassent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529432
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d5f86e351aedd5bb9d1c4486a9f8a5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1242989281,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1242989281,
+    "wof:lastmodified":1537663409,
+    "wof:name":"Tassent",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.70714,
+    32.23524,
+    -5.70714,
+    32.23524
+],
+  "geometry": {"coordinates":[-5.70714,32.23524],"type":"Point"}
+}

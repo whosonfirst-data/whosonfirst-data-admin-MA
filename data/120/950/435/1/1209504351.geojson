@@ -1,0 +1,61 @@
+{
+  "id": 1209504351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73999,30.50435,-8.73999,30.50435",
+    "geom:latitude":30.50435,
+    "geom:longitude":-8.73999,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jemaa el Kebir",
+    "gn:country_code":"MA",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11144178,
+    "gn:latitude":30.50435,
+    "gn:longitude":-8.73999,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Jemaa el Kebir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11144178
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"059714e946958b1c7a7e54b44dc6d182",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209504351
+        }
+    ],
+    "wof:id":1209504351,
+    "wof:lastmodified":1536285082,
+    "wof:name":"Jemaa el Kebir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.739989999999999,
+    30.50435,
+    -8.739989999999999,
+    30.50435
+],
+  "geometry": {"coordinates":[-8.73999,30.50435],"type":"Point"}
+}

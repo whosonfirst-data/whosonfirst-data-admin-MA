@@ -1,0 +1,67 @@
+{
+  "id": 1243464727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.54434,33.61078,-5.54434,33.61078",
+    "geom:latitude":33.61078,
+    "geom:longitude":-5.54434,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"DELETE",
+    "gn:country_code":"MA",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8542350,
+    "gn:latitude":33.61078,
+    "gn:longitude":-5.54434,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"DELETE",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8542350
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"053f2a0f09b4392a27f32b76f18cb13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1243464727,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1243464727,
+    "wof:lastmodified":1536779601,
+    "wof:name":"DELETE",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.54434,
+    33.61078,
+    -5.54434,
+    33.61078
+],
+  "geometry": {"coordinates":[-5.54434,33.61078],"type":"Point"}
+}

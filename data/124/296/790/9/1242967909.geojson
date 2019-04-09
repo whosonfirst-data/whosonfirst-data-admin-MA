@@ -1,0 +1,67 @@
+{
+  "id": 1242967909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81217,32.56956,-8.81217,32.56956",
+    "geom:latitude":32.56956,
+    "geom:longitude":-8.81217,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Lehoundda",
+    "gn:country_code":"MA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10796395,
+    "gn:latitude":32.56956,
+    "gn:longitude":-8.81217,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lehoundda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10796395
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"17743de44f810c172bfbdf60bd8a6896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1242967909,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1242967909,
+    "wof:lastmodified":1536997772,
+    "wof:name":"Douar Lehoundda",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81217,
+    32.56956,
+    -8.81217,
+    32.56956
+],
+  "geometry": {"coordinates":[-8.81217,32.56956],"type":"Point"}
+}

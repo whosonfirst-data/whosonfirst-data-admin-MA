@@ -1,0 +1,72 @@
+{
+  "id": 1276996279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25,31.88,-9.25,31.88",
+    "geom:latitude":31.88,
+    "geom:longitude":-9.25,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Radi",
+    "gn:country_code":"MA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538460,
+    "gn:latitude":31.88,
+    "gn:longitude":-9.25,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Radi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Tahar Ben Abbou",
+        "Douar Tahar Bou Abbou",
+        "Radi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538460
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8dc3382de1798b48df6df95aa759d60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1276996279,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276996279,
+    "wof:lastmodified":1537663539,
+    "wof:name":"Radi",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25,
+    31.88,
+    -9.25,
+    31.88
+],
+  "geometry": {"coordinates":[-9.25,31.88],"type":"Point"}
+}

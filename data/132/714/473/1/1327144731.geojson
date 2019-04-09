@@ -1,0 +1,78 @@
+{
+  "id": 1327144731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.02321,34.55964,-3.02321,34.55964",
+    "geom:latitude":34.55964,
+    "geom:longitude":-3.02321,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Melqa el Ouidane",
+    "gn:country_code":"MA",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542616,
+    "gn:latitude":34.55964,
+    "gn:longitude":-3.02321,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Melqa el Ouidane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camp Berteaux",
+        "Berteaux",
+        "Camp Berteau",
+        "Melga el Ouidane",
+        "Melg el Ouidane",
+        "Melqu-el-Ouidane",
+        "Melga al Widane",
+        "Melqa el Ouidane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542616,
+        "wk:page":"Melg_El_Ouidane"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f6e9e53e2b0a9927d1b7b34f7b00aa6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "locality_id":1327144731,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1327144731,
+    "wof:lastmodified":1537663658,
+    "wof:name":"Melqa el Ouidane",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.02321,
+    34.55964,
+    -3.02321,
+    34.55964
+],
+  "geometry": {"coordinates":[-3.02321,34.55964],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310320205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.1563,29.32897,-10.1563,29.32897",
+    "geom:latitude":29.32897,
+    "geom:longitude":-10.1563,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ait Hamed Ou Said",
+    "gn:country_code":"MA",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559941,
+    "gn:latitude":29.32897,
+    "gn:longitude":-10.1563,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Hamed Ou Sa\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ait Hamet U Said",
+        "Ait Hamed U Said",
+        "A\u00eft Hamed Ou Sa\u00efd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559941
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f55d41d1e4e1cf5cffb8d9c8ff414615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1310320205,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310320205,
+    "wof:lastmodified":1537664186,
+    "wof:name":"Ait Hamed Ou Said",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.1563,
+    29.32897,
+    -10.1563,
+    29.32897
+],
+  "geometry": {"coordinates":[-10.1563,29.32897],"type":"Point"}
+}

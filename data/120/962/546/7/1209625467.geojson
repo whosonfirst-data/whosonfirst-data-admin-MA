@@ -1,0 +1,61 @@
+{
+  "id": 1209625467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.91,34.56,-4.91,34.56",
+    "geom:latitude":34.56,
+    "geom:longitude":-4.91,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Moulay Hassene",
+    "gn:country_code":"MA",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541810,
+    "gn:latitude":34.56,
+    "gn:longitude":-4.91,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Moulay Hassene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541810
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a8a841426b2010dc24eb18f6e5ae7d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625467
+        }
+    ],
+    "wof:id":1209625467,
+    "wof:lastmodified":1536281369,
+    "wof:name":"Moulay Hassene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.91,
+    34.56,
+    -4.91,
+    34.56
+],
+  "geometry": {"coordinates":[-4.91,34.56],"type":"Point"}
+}

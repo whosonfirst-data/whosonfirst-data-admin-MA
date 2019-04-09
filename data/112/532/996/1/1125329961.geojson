@@ -1,0 +1,88 @@
+{
+  "id": 1125329961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.06633,34.18104,-6.06633,34.18104",
+    "geom:latitude":34.18104,
+    "geom:longitude":-6.06633,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":31080,
+    "gn:population":31080,
+    "iso:country":"MA",
+    "lbl:latitude":34.18104,
+    "lbl:longitude":-6.06633,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0645\u0639\u064a\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Dar Bel Amri"
+    ],
+    "name:fra_x_variant":[
+        "Dar Bel Amri (CR)",
+        "Dar Bel Amri (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545630,
+    "qs_pg:gn_pop":31080,
+    "qs_pg:name":"Dar Bel Amri",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":628771,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545630,
+        "qs_pg:id":628771
+    },
+    "wof:country":"MA",
+    "wof:created":1497045078,
+    "wof:geomhash":"40f93fa5a5cecdd3ea8338ea811949f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "localadmin_id":1125329961,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1125329961,
+    "wof:lastmodified":1509388348,
+    "wof:name":"Dar Bel Amri",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"localadmin",
+    "wof:population":31080,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.06633,
+    34.18104,
+    -6.06633,
+    34.18104
+],
+  "geometry": {"coordinates":[-6.06633,34.18104],"type":"Point"}
+}

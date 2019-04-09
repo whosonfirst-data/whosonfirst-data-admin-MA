@@ -1,0 +1,75 @@
+{
+  "id": 1293483319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76275,31.54351,-8.76275,31.54351",
+    "geom:latitude":31.54351,
+    "geom:longitude":-8.76275,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"161.0",
+    "gn:admin3_code":"716101011.0",
+    "gn:asciiname":"Chichaoua",
+    "gn:country_code":"MA",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2553303,
+    "gn:latitude":31.54351,
+    "gn:longitude":-8.76275,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Chichaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mzala Chichaoua",
+        "Chichaua",
+        "Chichaoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553303,
+        "wk:page":"Chichaoua"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"97129cb48616a17381b6accde0fa3cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1293483319,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293483319,
+    "wof:lastmodified":1537664031,
+    "wof:name":"Chichaoua",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76275,
+    31.54351,
+    -8.76275,
+    31.54351
+],
+  "geometry": {"coordinates":[-8.76275,31.54351],"type":"Point"}
+}

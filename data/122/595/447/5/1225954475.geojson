@@ -1,0 +1,72 @@
+{
+  "id": 1225954475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.81991,30.73683,-7.81991,30.73683",
+    "geom:latitude":30.73683,
+    "geom:longitude":-7.81991,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tiskht",
+    "gn:country_code":"MA",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527353,
+    "gn:latitude":30.73683,
+    "gn:longitude":-7.81991,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiskht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tissekhte n\u2019A\u00eft Ouadif",
+        "Tissekht",
+        "Tiskht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527353
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4c603e6115877787486e68b0c99ba03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1225954475,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225954475,
+    "wof:lastmodified":1537663351,
+    "wof:name":"Tiskht",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.81991,
+    30.73683,
+    -7.81991,
+    30.73683
+],
+  "geometry": {"coordinates":[-7.81991,30.73683],"type":"Point"}
+}

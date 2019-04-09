@@ -1,0 +1,73 @@
+{
+  "id": 1276133917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.84942,33.18975,-3.84942,33.18975",
+    "geom:latitude":33.18975,
+    "geom:longitude":-3.84942,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taggour",
+    "gn:country_code":"MA",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529057,
+    "gn:latitude":33.18975,
+    "gn:longitude":-3.84942,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Taggour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Touggour",
+        "Touggourt",
+        "Teggour",
+        "Taggour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529057
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d5ed8e3b973d50d9270a33cfb567d2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1276133917,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1276133917,
+    "wof:lastmodified":1537663398,
+    "wof:name":"Taggour",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.84942,
+    33.18975,
+    -3.84942,
+    33.18975
+],
+  "geometry": {"coordinates":[-3.84942,33.18975],"type":"Point"}
+}

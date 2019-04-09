@@ -1,0 +1,67 @@
+{
+  "id": 1226157981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.3,34.76,-6.3,34.76",
+    "geom:latitude":34.76,
+    "geom:longitude":-6.3,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Dar Khanacha",
+    "gn:country_code":"MA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552673,
+    "gn:latitude":34.76,
+    "gn:longitude":-6.3,
+    "gn:modification_date":"2005-04-12",
+    "gn:name":"Dar Khanacha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552673
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0942a882f4f0a116a6f9b39b143e403d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1226157981,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1226157981,
+    "wof:lastmodified":1537057465,
+    "wof:name":"Dar Khanacha",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.3,
+    34.76,
+    -6.3,
+    34.76
+],
+  "geometry": {"coordinates":[-6.3,34.76],"type":"Point"}
+}

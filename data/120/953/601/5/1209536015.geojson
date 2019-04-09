@@ -1,0 +1,61 @@
+{
+  "id": 1209536015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6986,32.19803,-8.6986,32.19803",
+    "geom:latitude":32.19803,
+    "geom:longitude":-8.6986,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Labrahma",
+    "gn:country_code":"MA",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10638498,
+    "gn:latitude":32.19803,
+    "gn:longitude":-8.6986,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Labrahma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10638498
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9ec4ac8c8a402299b6c47b41110ef3e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209536015
+        }
+    ],
+    "wof:id":1209536015,
+    "wof:lastmodified":1536284139,
+    "wof:name":"Douar Labrahma",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6986,
+    32.19803,
+    -8.6986,
+    32.19803
+],
+  "geometry": {"coordinates":[-8.6986,32.19803],"type":"Point"}
+}

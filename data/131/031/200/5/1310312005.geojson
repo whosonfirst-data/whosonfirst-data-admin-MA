@@ -1,0 +1,67 @@
+{
+  "id": 1310312005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.61189,33.94817,-4.61189,33.94817",
+    "geom:latitude":33.94817,
+    "geom:longitude":-4.61189,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Essedra",
+    "gn:country_code":"MA",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983894,
+    "gn:latitude":33.94817,
+    "gn:longitude":-4.61189,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Essedra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983894
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a8d5470cc64ad0d29bf5d972897d75b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1310312005,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1310312005,
+    "wof:lastmodified":1536698730,
+    "wof:name":"Douar Essedra",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.61189,
+    33.94817,
+    -4.61189,
+    33.94817
+],
+  "geometry": {"coordinates":[-4.61189,33.94817],"type":"Point"}
+}

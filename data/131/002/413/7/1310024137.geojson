@@ -1,0 +1,71 @@
+{
+  "id": 1310024137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.46997,34.77084,-5.46997,34.77084",
+    "geom:latitude":34.77084,
+    "geom:longitude":-5.46997,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chentil",
+    "gn:country_code":"MA",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553367,
+    "gn:latitude":34.77084,
+    "gn:longitude":-5.46997,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Chentil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chenntil",
+        "Chentil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553367
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"facf5b5352eaa3bca022809e61ee1369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1310024137,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310024137,
+    "wof:lastmodified":1537664032,
+    "wof:name":"Chentil",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.46997,
+    34.77084,
+    -5.46997,
+    34.77084
+],
+  "geometry": {"coordinates":[-5.46997,34.77084],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209307925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.38838,31.60832,-7.38838,31.60832",
+    "geom:latitude":31.60832,
+    "geom:longitude":-7.38838,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ifardene",
+    "gn:country_code":"MA",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547030,
+    "gn:latitude":31.60832,
+    "gn:longitude":-7.38838,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ifardene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iferd\u00e8n",
+        "Ifardene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547030
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b2e86d6f060e13aa69a25504e0c1df0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209307925
+        }
+    ],
+    "wof:id":1209307925,
+    "wof:lastmodified":1537663776,
+    "wof:name":"Ifardene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.38838,
+    31.60832000000001,
+    -7.38838,
+    31.60832000000001
+],
+  "geometry": {"coordinates":[-7.38838,31.60832000000001],"type":"Point"}
+}

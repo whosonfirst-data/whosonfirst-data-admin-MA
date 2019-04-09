@@ -1,0 +1,67 @@
+{
+  "id": 1309698147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62684,31.57405,-7.62684,31.57405",
+    "geom:latitude":31.57405,
+    "geom:longitude":-7.62684,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bouyzourane Tahtani",
+    "gn:country_code":"MA",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909441,
+    "gn:latitude":31.57405,
+    "gn:longitude":-7.62684,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bouyzourane Tahtani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909441
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"11423a84831964c5fa8372e6635c0088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1309698147,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309698147,
+    "wof:lastmodified":1537083191,
+    "wof:name":"Bouyzourane Tahtani",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62684,
+    31.57405,
+    -7.62684,
+    31.57405
+],
+  "geometry": {"coordinates":[-7.62684,31.57405],"type":"Point"}
+}

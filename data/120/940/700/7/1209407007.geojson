@@ -1,0 +1,61 @@
+{
+  "id": 1209407007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.25213,32.56402,-7.25213,32.56402",
+    "geom:latitude":32.56402,
+    "geom:longitude":-7.25213,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Oulad Saleh Ben Ali",
+    "gn:country_code":"MA",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10935748,
+    "gn:latitude":32.56402,
+    "gn:longitude":-7.25213,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Saleh Ben Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10935748
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"400657426f7d95f6aa21ddee23164739",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209407007
+        }
+    ],
+    "wof:id":1209407007,
+    "wof:lastmodified":1536287963,
+    "wof:name":"Douar Oulad Saleh Ben Ali",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.25213,
+    32.56402,
+    -7.25213,
+    32.56402
+],
+  "geometry": {"coordinates":[-7.25213,32.56402],"type":"Point"}
+}

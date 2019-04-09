@@ -1,0 +1,73 @@
+{
+  "id": 1343283657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17669,32.87911,-8.17669,32.87911",
+    "geom:latitude":32.87911,
+    "geom:longitude":-8.17669,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Souq Khmis Mttouh",
+    "gn:country_code":"MA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549885,
+    "gn:latitude":32.87911,
+    "gn:longitude":-8.17669,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Souq Khmis Mttouh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souk el Khemis el Metouh",
+        "Khemis Mtouh",
+        "El Khemis el Metouh",
+        "Souq Khmis Mttouh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549885
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6f5836a1dcfe0135e4104ae7fcf9bf85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1343283657,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343283657,
+    "wof:lastmodified":1537663856,
+    "wof:name":"Souq Khmis Mttouh",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17669,
+    32.87911,
+    -8.17669,
+    32.87911
+],
+  "geometry": {"coordinates":[-8.17669,32.87911],"type":"Point"}
+}

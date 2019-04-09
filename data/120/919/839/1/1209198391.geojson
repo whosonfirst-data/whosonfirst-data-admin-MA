@@ -1,0 +1,61 @@
+{
+  "id": 1209198391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23337,29.63202,-9.23337,29.63202",
+    "geom:latitude":29.63202,
+    "geom:longitude":-9.23337,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Washkiyn",
+    "gn:country_code":"MA",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130198,
+    "gn:latitude":29.63202,
+    "gn:longitude":-9.23337,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Washkiyn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130198
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"17ee4512745ffff34a412dbf4f46cfbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209198391
+        }
+    ],
+    "wof:id":1209198391,
+    "wof:lastmodified":1536294695,
+    "wof:name":"Ait Washkiyn",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23337,
+    29.63202,
+    -9.23337,
+    29.63202
+],
+  "geometry": {"coordinates":[-9.23337,29.63202],"type":"Point"}
+}

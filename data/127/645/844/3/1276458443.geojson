@@ -1,0 +1,71 @@
+{
+  "id": 1276458443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.39306,32.77232,-4.39306,32.77232",
+    "geom:latitude":32.77232,
+    "geom:longitude":-4.39306,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tribla",
+    "gn:country_code":"MA",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526596,
+    "gn:latitude":32.77232,
+    "gn:longitude":-4.39306,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tribla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Triblat",
+        "Tribla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526596
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c24734560a9f3544c034c38a2e508d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1276458443,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1276458443,
+    "wof:lastmodified":1537663331,
+    "wof:name":"Tribla",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.39306,
+    32.77232,
+    -4.39306,
+    32.77232
+],
+  "geometry": {"coordinates":[-4.39306,32.77232],"type":"Point"}
+}

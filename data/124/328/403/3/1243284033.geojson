@@ -1,0 +1,70 @@
+{
+  "id": 1243284033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75804,31.49487,-7.75804,31.49487",
+    "geom:latitude":31.49487,
+    "geom:longitude":-7.75804,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Akhnaou",
+    "gn:country_code":"MA",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561005,
+    "gn:latitude":31.49487,
+    "gn:longitude":-7.75804,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Akhnaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahnaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561005
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b5104a8b54e2660e7fb5b30ea2149fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1243284033,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243284033,
+    "wof:lastmodified":1537664225,
+    "wof:name":"Akhnaou",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75804,
+    31.49487,
+    -7.75804,
+    31.49487
+],
+  "geometry": {"coordinates":[-7.75804,31.49487],"type":"Point"}
+}

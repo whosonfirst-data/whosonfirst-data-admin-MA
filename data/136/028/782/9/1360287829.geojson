@@ -1,0 +1,67 @@
+{
+  "id": 1360287829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.28576,34.81514,-2.28576,34.81514",
+    "geom:latitude":34.81514,
+    "geom:longitude":-2.28576,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Ould Ahliyou",
+    "gn:country_code":"MA",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956539,
+    "gn:latitude":34.81514,
+    "gn:longitude":-2.28576,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ould Ahliyou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956539
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"827698df513d09f1b6325a110ab9e76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":1360287829,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1360287829,
+    "wof:lastmodified":1536653034,
+    "wof:name":"Douar Ould Ahliyou",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.28576,
+    34.81514,
+    -2.28576,
+    34.81514
+],
+  "geometry": {"coordinates":[-2.28576,34.81514],"type":"Point"}
+}

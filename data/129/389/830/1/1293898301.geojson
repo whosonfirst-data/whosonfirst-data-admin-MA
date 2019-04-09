@@ -1,0 +1,71 @@
+{
+  "id": 1293898301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62,31.67,-7.62,31.67",
+    "geom:latitude":31.67,
+    "geom:longitude":-7.62,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi Ali Bou Hammou",
+    "gn:country_code":"MA",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2536538,
+    "gn:latitude":31.67,
+    "gn:longitude":-7.62,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Ali Bou Hammou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Ali ben Hammou",
+        "Sidi Ali Bou Hammou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2536538
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"345b26f0adc3bc75a41b3d710f24ea46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1293898301,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293898301,
+    "wof:lastmodified":1537663517,
+    "wof:name":"Sidi Ali Bou Hammou",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62,
+    31.67,
+    -7.62,
+    31.67
+],
+  "geometry": {"coordinates":[-7.62,31.67],"type":"Point"}
+}

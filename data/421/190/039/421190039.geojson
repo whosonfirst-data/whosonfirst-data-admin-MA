@@ -1,0 +1,75 @@
+{
+  "id": 421190039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.666,35.207917,-4.666,35.207917",
+    "geom:latitude":35.207917,
+    "geom:longitude":-4.666,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u062c\u0628\u0647\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0637\u0646\u062c\u0629\u0640 \u062a\u0637\u0648\u0627\u0646",
+    "qs:photos":100,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":100,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118250,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1534935,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1534935,
+        "qs:id":1118250
+    },
+    "wof:country":"MA",
+    "wof:created":1459009644,
+    "wof:geomhash":"4a30a4151f066faa9931e5e17a490f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":421190039,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":421190039,
+    "wof:lastmodified":1499519235,
+    "wof:name":"\u062c\u0628\u0647\u0629",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.666,
+    35.207917,
+    -4.666,
+    35.207917
+],
+  "geometry": {"coordinates":[-4.666,35.207917],"type":"Point"}
+}

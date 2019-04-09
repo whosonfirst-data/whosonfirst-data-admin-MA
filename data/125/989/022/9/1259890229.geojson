@@ -1,0 +1,74 @@
+{
+  "id": 1259890229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.16228,31.86308,-9.16228,31.86308",
+    "geom:latitude":31.86308,
+    "geom:longitude":-9.16228,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Etteriyat",
+    "gn:country_code":"MA",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526598,
+    "gn:latitude":31.86308,
+    "gn:longitude":-9.16228,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Etteriyat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Triat",
+        "Triate",
+        "Toriat",
+        "Triat",
+        "Douar Etteriyat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526598
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a160cedf70e18202da741239672cb520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1259890229,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259890229,
+    "wof:lastmodified":1537663331,
+    "wof:name":"Douar Etteriyat",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16228,
+    31.86308,
+    -9.16228,
+    31.86308
+],
+  "geometry": {"coordinates":[-9.16228,31.86308],"type":"Point"}
+}

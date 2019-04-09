@@ -1,0 +1,78 @@
+{
+  "id": 890452941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.68688,32.95948,-7.68688,32.95948",
+    "geom:latitude":32.95948,
+    "geom:longitude":-7.68688,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":7202,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u062e\u0645\u064a\u0633\u0627\u062a \u0627\u0644\u0634\u0627\u0648\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Lahouaza"
+    ],
+    "name:fra_x_variant":[
+        "Lahouaza (CR)",
+        "Lahouaza (Commune Rurale)"
+    ],
+    "qs:name":"Lahouaza",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546082,
+        "qs:id":629225,
+        "wd:id":"Q6473439",
+        "wk:page":"Lahouaza"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052835,
+    "wof:geomhash":"a6df28dce5f3d513aed50c46af1f7384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":890452941,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890452941,
+    "wof:lastmodified":1527734185,
+    "wof:name":"Lahouaza",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":7202,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.68688,
+    32.95948,
+    -7.68688,
+    32.95948
+],
+  "geometry": {"coordinates":[-7.68688,32.95948],"type":"Point"}
+}

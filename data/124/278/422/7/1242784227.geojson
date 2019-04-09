@@ -1,0 +1,67 @@
+{
+  "id": 1242784227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.48652,33.60529,-5.48652,33.60529",
+    "geom:latitude":33.60529,
+    "geom:longitude":-5.48652,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Iksassene",
+    "gn:country_code":"MA",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10374554,
+    "gn:latitude":33.60529,
+    "gn:longitude":-5.48652,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Iksassene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10374554
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8e8a8e1be4e9663fb12e4c06576308b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1242784227,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1242784227,
+    "wof:lastmodified":1536766391,
+    "wof:name":"Iksassene",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.48652,
+    33.60529,
+    -5.48652,
+    33.60529
+],
+  "geometry": {"coordinates":[-5.48652,33.60529],"type":"Point"}
+}

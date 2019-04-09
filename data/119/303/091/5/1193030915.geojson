@@ -1,0 +1,73 @@
+{
+  "id": 1193030915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.33453,34.62987,-6.33453,34.62987",
+    "geom:latitude":34.62987,
+    "geom:longitude":-6.33453,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oulad Bakhechchou",
+    "gn:country_code":"MA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540177,
+    "gn:latitude":34.62987,
+    "gn:longitude":-6.33453,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Bakhechchou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakhachou",
+        "Douar Oulad Bekhachou",
+        "Oulad Bekhachou",
+        "Oulad Bakhechchou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540177
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8f0083db50ebf2b34cccf1338272bc94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1193030915,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1193030915,
+    "wof:lastmodified":1537663609,
+    "wof:name":"Oulad Bakhechchou",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.33453,
+    34.62987,
+    -6.33453,
+    34.62987
+],
+  "geometry": {"coordinates":[-6.33453,34.62987],"type":"Point"}
+}

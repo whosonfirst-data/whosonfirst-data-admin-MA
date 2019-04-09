@@ -1,0 +1,67 @@
+{
+  "id": 1276234205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.66232,33.97056,-4.66232,33.97056",
+    "geom:latitude":33.97056,
+    "geom:longitude":-4.66232,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ait Ben Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10978056,
+    "gn:latitude":33.97056,
+    "gn:longitude":-4.66232,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Ben Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10978056
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1083d0c83600a6afe4ac2d70942339a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1276234205,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1276234205,
+    "wof:lastmodified":1536911813,
+    "wof:name":"Douar Ait Ben Ahmed",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.66232,
+    33.97056,
+    -4.66232,
+    33.97056
+],
+  "geometry": {"coordinates":[-4.66232,33.97056],"type":"Point"}
+}

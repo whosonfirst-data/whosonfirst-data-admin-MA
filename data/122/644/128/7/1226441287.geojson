@@ -1,0 +1,69 @@
+{
+  "id": 1226441287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.79985,32.03009,-6.79985,32.03009",
+    "geom:latitude":32.03009,
+    "geom:longitude":-6.79985,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"1208105152.0",
+    "gn:asciiname":"Tabia",
+    "gn:country_code":"MA",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2532214,
+    "gn:latitude":32.03009,
+    "gn:longitude":-6.79985,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Tabia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532214
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b828cb5920b7a4853a025c79bdb9de6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226441287,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226441287,
+    "wof:lastmodified":1536651781,
+    "wof:name":"Tabia",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.79985,
+    32.03009,
+    -6.79985,
+    32.03009
+],
+  "geometry": {"coordinates":[-6.79985,32.03009],"type":"Point"}
+}

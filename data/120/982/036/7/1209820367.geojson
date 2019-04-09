@@ -1,0 +1,77 @@
+{
+  "id": 1209820367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.90656,33.92866,-6.90656,33.92866",
+    "geom:latitude":33.92866,
+    "geom:longitude":-6.90656,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"1050101071.0",
+    "gn:asciiname":"Temara",
+    "gn:country_code":"MA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2529013,
+    "gn:latitude":33.92866,
+    "gn:longitude":-6.90656,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Temara",
+    "gn:population":313510,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasba Temara",
+        "Temara"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529013,
+        "wk:page":"Temara"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e91de39ca5af2bb5682c341f29b5be4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1209820367,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1209820367,
+    "wof:lastmodified":1537663398,
+    "wof:name":"Temara",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:population":313510,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.90656,
+    33.92866,
+    -6.90656,
+    33.92866
+],
+  "geometry": {"coordinates":[-6.90656,33.92866],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243469325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.45599,34.74083,-2.45599,34.74083",
+    "geom:latitude":34.74083,
+    "geom:longitude":-2.45599,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Qanine",
+    "gn:country_code":"MA",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551624,
+    "gn:latitude":34.74083,
+    "gn:longitude":-2.45599,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Qanine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahl Kennine",
+        "Des benis Kenine",
+        "Douar Kannine",
+        "Douar Qanine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551624
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d8df0ec507b7028d1352acdc805988ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":1243469325,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243469325,
+    "wof:lastmodified":1537663953,
+    "wof:name":"Douar Qanine",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.45599,
+    34.74083,
+    -2.45599,
+    34.74083
+],
+  "geometry": {"coordinates":[-2.45599,34.74083],"type":"Point"}
+}

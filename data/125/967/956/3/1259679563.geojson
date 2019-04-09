@@ -1,0 +1,67 @@
+{
+  "id": 1259679563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.08226,31.92798,-9.08226,31.92798",
+    "geom:latitude":31.92798,
+    "geom:longitude":-9.08226,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lekhrarza",
+    "gn:country_code":"MA",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912154,
+    "gn:latitude":31.92798,
+    "gn:longitude":-9.08226,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lekhrarza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912154
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b8ddc9715238f7321a2d57012945f3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1259679563,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259679563,
+    "wof:lastmodified":1537069664,
+    "wof:name":"Lekhrarza",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.08226,
+    31.92798,
+    -9.08226,
+    31.92798
+],
+  "geometry": {"coordinates":[-9.08226,31.92798],"type":"Point"}
+}

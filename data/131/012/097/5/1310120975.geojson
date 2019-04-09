@@ -1,0 +1,72 @@
+{
+  "id": 1310120975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.80976,31.74286,-5.80976,31.74286",
+    "geom:latitude":31.74286,
+    "geom:longitude":-5.80976,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Amelouch",
+    "gn:country_code":"MA",
+    "gn:dem":1995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560518,
+    "gn:latitude":31.74286,
+    "gn:longitude":-5.80976,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Amelouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft amlouk",
+        "A\u00eft Amelouk",
+        "A\u00eft Amelouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560518
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2ee74951bd2545fe984c16d27ac5136b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1310120975,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310120975,
+    "wof:lastmodified":1537664207,
+    "wof:name":"Ait Amelouch",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.80976,
+    31.74286,
+    -5.80976,
+    31.74286
+],
+  "geometry": {"coordinates":[-5.80976,31.74286],"type":"Point"}
+}

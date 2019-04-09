@@ -1,0 +1,72 @@
+{
+  "id": 1326940545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83864,31.4281,-8.83864,31.4281",
+    "geom:latitude":31.4281,
+    "geom:longitude":-8.83864,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rhouirgat",
+    "gn:country_code":"MA",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538090,
+    "gn:latitude":31.4281,
+    "gn:longitude":-8.83864,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Rhouirgat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rouirgah",
+        "Rhouirgate",
+        "Rhouirgat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538090
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6853dac43db00c6e430e1351f45b7159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1326940545,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326940545,
+    "wof:lastmodified":1537663532,
+    "wof:name":"Rhouirgat",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83864,
+    31.4281,
+    -8.83864,
+    31.4281
+],
+  "geometry": {"coordinates":[-8.83864,31.4281],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343868549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.93015,34.7403,-5.93015,34.7403",
+    "geom:latitude":34.7403,
+    "geom:longitude":-5.93015,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ben Aziz",
+    "gn:country_code":"MA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555956,
+    "gn:latitude":34.7403,
+    "gn:longitude":-5.93015,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ben Aziz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Beni Azziz",
+        "Beni Aziz",
+        "Ben Ha Azziz",
+        "Beni Azziz",
+        "Ben Aziz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555956
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d491e7941c871b475bb33a1e892920af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1343868549,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1343868549,
+    "wof:lastmodified":1537664076,
+    "wof:name":"Ben Aziz",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.93015,
+    34.7403,
+    -5.93015,
+    34.7403
+],
+  "geometry": {"coordinates":[-5.93015,34.7403],"type":"Point"}
+}

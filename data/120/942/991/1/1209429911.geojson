@@ -1,0 +1,67 @@
+{
+  "id": 1209429911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.30349,31.56051,-8.30349,31.56051",
+    "geom:latitude":31.56051,
+    "geom:longitude":-8.30349,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Moulay Otmane",
+    "gn:country_code":"MA",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541790,
+    "gn:latitude":31.56051,
+    "gn:longitude":-8.30349,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Moulay Otmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Moulay Otmane",
+        "Azib Moulay Athmane",
+        "Sidi Athmane",
+        "Moulay Otmane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541790
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f1fb42c4a57646436de271636a7234ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429911
+        }
+    ],
+    "wof:id":1209429911,
+    "wof:lastmodified":1537663644,
+    "wof:name":"Moulay Otmane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30349,
+    31.56051,
+    -8.30349,
+    31.56051
+],
+  "geometry": {"coordinates":[-8.30349,31.56051],"type":"Point"}
+}

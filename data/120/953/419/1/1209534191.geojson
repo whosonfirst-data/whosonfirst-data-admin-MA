@@ -1,0 +1,65 @@
+{
+  "id": 1209534191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23278,33.19189,-8.23278,33.19189",
+    "geom:latitude":33.19189,
+    "geom:longitude":-8.23278,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dar Louchechna",
+    "gn:country_code":"MA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552658,
+    "gn:latitude":33.19189,
+    "gn:longitude":-8.23278,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Louchechna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zouchachna",
+        "Dar Louchechna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552658
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0aa606284c9402f87480663dbcedef25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209534191
+        }
+    ],
+    "wof:id":1209534191,
+    "wof:lastmodified":1537664009,
+    "wof:name":"Dar Louchechna",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23278,
+    33.19189,
+    -8.23278,
+    33.19189
+],
+  "geometry": {"coordinates":[-8.23278,33.19189],"type":"Point"}
+}

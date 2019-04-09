@@ -1,0 +1,67 @@
+{
+  "id": 1210002445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.17794,32.10106,-9.17794,32.10106",
+    "geom:latitude":32.10106,
+    "geom:longitude":-9.17794,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lahjajma",
+    "gn:country_code":"MA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949095,
+    "gn:latitude":32.10106,
+    "gn:longitude":-9.17794,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lahjajma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949095
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fe38f5ab5093cbf68303250a0a454971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1210002445,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1210002445,
+    "wof:lastmodified":1536377270,
+    "wof:name":"Douar Lahjajma",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.17794,
+    32.10106,
+    -9.17794,
+    32.10106
+],
+  "geometry": {"coordinates":[-9.17794,32.10106],"type":"Point"}
+}

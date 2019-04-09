@@ -1,0 +1,67 @@
+{
+  "id": 1243173461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0971,34.22085,-5.0971,34.22085",
+    "geom:latitude":34.22085,
+    "geom:longitude":-5.0971,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Oulad El Hamdaoui",
+    "gn:country_code":"MA",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025396,
+    "gn:latitude":34.22085,
+    "gn:longitude":-5.0971,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad El Hamdaoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025396
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8e9abdcf7fdbe9f7cdd050bda2247885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1243173461,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1243173461,
+    "wof:lastmodified":1536702414,
+    "wof:name":"Douar Oulad El Hamdaoui",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0971,
+    34.22085,
+    -5.0971,
+    34.22085
+],
+  "geometry": {"coordinates":[-5.0971,34.22085],"type":"Point"}
+}

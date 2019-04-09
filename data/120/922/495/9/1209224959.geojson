@@ -1,0 +1,65 @@
+{
+  "id": 1209224959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7155,30.55526,-8.7155,30.55526",
+    "geom:latitude":30.55526,
+    "geom:longitude":-8.7155,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait El Rhazi",
+    "gn:country_code":"MA",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560024,
+    "gn:latitude":30.55526,
+    "gn:longitude":-8.7155,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft El Rhazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft el Rhaz",
+        "A\u00eft El Rhazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560024
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4669339c787b94734c5c174362296936",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224959
+        }
+    ],
+    "wof:id":1209224959,
+    "wof:lastmodified":1537664189,
+    "wof:name":"Ait El Rhazi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7155,
+    30.55526,
+    -8.7155,
+    30.55526
+],
+  "geometry": {"coordinates":[-8.7155,30.55526],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293607501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.05,34.2,-6.05,34.2",
+    "geom:latitude":34.2,
+    "geom:longitude":-6.05,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oulad Ben Daoud",
+    "gn:country_code":"MA",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565325,
+    "gn:latitude":34.2,
+    "gn:longitude":-6.05,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Ben Daoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Ben Dawd",
+        "Oulad Ben Daoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565325
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"78d5a82e100db24ecc507373f80e0707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1293607501,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1293607501,
+    "wof:lastmodified":1537664263,
+    "wof:name":"Oulad Ben Daoud",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.05,
+    34.2,
+    -6.05,
+    34.2
+],
+  "geometry": {"coordinates":[-6.05,34.2],"type":"Point"}
+}

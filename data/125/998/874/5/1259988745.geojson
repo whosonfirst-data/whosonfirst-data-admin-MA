@@ -1,0 +1,67 @@
+{
+  "id": 1259988745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.61845,35.54207,-5.61845,35.54207",
+    "geom:latitude":35.54207,
+    "geom:longitude":-5.61845,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Louta",
+    "gn:country_code":"MA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059870,
+    "gn:latitude":35.54207,
+    "gn:longitude":-5.61845,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Louta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059870
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f711bafc32604e85c37d094be43e5020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1259988745,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259988745,
+    "wof:lastmodified":1536625602,
+    "wof:name":"Douar Louta",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.61845,
+    35.54207,
+    -5.61845,
+    35.54207
+],
+  "geometry": {"coordinates":[-5.61845,35.54207],"type":"Point"}
+}

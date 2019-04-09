@@ -1,0 +1,88 @@
+{
+  "id": 1125295143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14777,34.02924,-6.14777,34.02924",
+    "geom:latitude":34.02924,
+    "geom:longitude":-6.14777,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":13653,
+    "gn:population":13653,
+    "iso:country":"MA",
+    "lbl:latitude":34.02924,
+    "lbl:longitude":-6.14777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0645\u0627\u0644\u0643"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Abderrazak"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Abderrazak (CR)",
+        "Sidi Abderrazak (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546393,
+    "qs_pg:gn_pop":13653,
+    "qs_pg:name":"Sidi Abderrazak",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629497,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546393,
+        "qs_pg:id":629497
+    },
+    "wof:country":"MA",
+    "wof:created":1497043104,
+    "wof:geomhash":"d31e9f837a3bbdf6824b7ea8373a4caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "localadmin_id":1125295143,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1125295143,
+    "wof:lastmodified":1509387608,
+    "wof:name":"Sidi Abderrazak",
+    "wof:parent_id":890453897,
+    "wof:placetype":"localadmin",
+    "wof:population":13653,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14777,
+    34.02924,
+    -6.14777,
+    34.02924
+],
+  "geometry": {"coordinates":[-6.14777,34.02924],"type":"Point"}
+}

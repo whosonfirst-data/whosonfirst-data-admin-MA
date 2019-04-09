@@ -1,0 +1,67 @@
+{
+  "id": 1343268165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.50339,34.367,-4.50339,34.367",
+    "geom:latitude":34.367,
+    "geom:longitude":-4.50339,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Lamghaouet",
+    "gn:country_code":"MA",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10997783,
+    "gn:latitude":34.367,
+    "gn:longitude":-4.50339,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lamghaouet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10997783
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2a2c5dd6a8d25176c863682a5dde3c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1343268165,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343268165,
+    "wof:lastmodified":1537022728,
+    "wof:name":"Douar Lamghaouet",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.50339,
+    34.367,
+    -4.50339,
+    34.367
+],
+  "geometry": {"coordinates":[-4.50339,34.367],"type":"Point"}
+}

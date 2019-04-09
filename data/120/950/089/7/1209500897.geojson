@@ -1,0 +1,61 @@
+{
+  "id": 1209500897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.001,31.96428,-9.001,31.96428",
+    "geom:latitude":31.96428,
+    "geom:longitude":-9.001,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad El Haj El Mamoune",
+    "gn:country_code":"MA",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912324,
+    "gn:latitude":31.96428,
+    "gn:longitude":-9.001,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad El Haj El Mamoune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912324
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4812e956a2a2ce891023c2eb0f43f34e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209500897
+        }
+    ],
+    "wof:id":1209500897,
+    "wof:lastmodified":1536285187,
+    "wof:name":"Oulad El Haj El Mamoune",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.001,
+    31.96428,
+    -9.001,
+    31.96428
+],
+  "geometry": {"coordinates":[-9.001,31.96428],"type":"Point"}
+}

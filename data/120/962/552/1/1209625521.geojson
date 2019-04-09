@@ -1,0 +1,61 @@
+{
+  "id": 1209625521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78418,30.23521,-8.78418,30.23521",
+    "geom:latitude":30.23521,
+    "geom:longitude":-8.78418,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Bouziane",
+    "gn:country_code":"MA",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560194,
+    "gn:latitude":30.23521,
+    "gn:longitude":-8.78418,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Bouziane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560194
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2a40faef31eed71874c8f6c6890a2c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625521
+        }
+    ],
+    "wof:id":1209625521,
+    "wof:lastmodified":1536281367,
+    "wof:name":"Ait Bouziane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.784180000000001,
+    30.23521,
+    -8.784180000000001,
+    30.23521
+],
+  "geometry": {"coordinates":[-8.78418,30.23521],"type":"Point"}
+}

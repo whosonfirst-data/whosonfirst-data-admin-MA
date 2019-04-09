@@ -1,0 +1,67 @@
+{
+  "id": 1259798551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.04111,32.74619,-4.04111,32.74619",
+    "geom:latitude":32.74619,
+    "geom:longitude":-4.04111,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tadmaia",
+    "gn:country_code":"MA",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532022,
+    "gn:latitude":32.74619,
+    "gn:longitude":-4.04111,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Tadma\u00efa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532022
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"66fc0aa7a98baecb82db123329145ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1259798551,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1259798551,
+    "wof:lastmodified":1536901491,
+    "wof:name":"Tadmaia",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.04111,
+    32.74619000000001,
+    -4.04111,
+    32.74619000000001
+],
+  "geometry": {"coordinates":[-4.04111,32.74619000000001],"type":"Point"}
+}

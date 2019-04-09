@@ -1,0 +1,64 @@
+{
+  "id": 1209014767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38992,29.77033,-9.38992,29.77033",
+    "geom:latitude":29.77033,
+    "geom:longitude":-9.38992,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Astayn",
+    "gn:country_code":"MA",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556828,
+    "gn:latitude":29.77033,
+    "gn:longitude":-9.38992,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Astayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asta\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556828
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"73eeb7ea3c32e987ed3317e50529e184",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209014767
+        }
+    ],
+    "wof:id":1209014767,
+    "wof:lastmodified":1537664093,
+    "wof:name":"Astayn",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38992,
+    29.77033,
+    -9.38992,
+    29.77033
+],
+  "geometry": {"coordinates":[-9.38992,29.77033],"type":"Point"}
+}

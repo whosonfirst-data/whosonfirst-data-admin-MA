@@ -1,0 +1,72 @@
+{
+  "id": 1243469289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.09915,31.42673,-7.09915,31.42673",
+    "geom:latitude":31.42673,
+    "geom:longitude":-7.09915,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tiswitiyne",
+    "gn:country_code":"MA",
+    "gn:dem":2167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527390,
+    "gn:latitude":31.42673,
+    "gn:longitude":-7.09915,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiswitiyne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tislouitine",
+        "Tizloutine",
+        "Tiswitiyne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527390
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"57b1d9f8505e709fc47584dab3a17d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1243469289,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1243469289,
+    "wof:lastmodified":1537663353,
+    "wof:name":"Tiswitiyne",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.09915,
+    31.42673,
+    -7.09915,
+    31.42673
+],
+  "geometry": {"coordinates":[-7.09915,31.42673],"type":"Point"}
+}

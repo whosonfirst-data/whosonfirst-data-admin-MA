@@ -1,0 +1,67 @@
+{
+  "id": 1243451357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.05646,33.555,-7.05646,33.555",
+    "geom:latitude":33.555,
+    "geom:longitude":-7.05646,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Oulad Bel Haret",
+    "gn:country_code":"MA",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10918157,
+    "gn:latitude":33.555,
+    "gn:longitude":-7.05646,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Bel Haret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10918157
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"271b3e870eec8372d0ce8a9c4905e92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1243451357,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1243451357,
+    "wof:lastmodified":1536798573,
+    "wof:name":"Douar Oulad Bel Haret",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.05646,
+    33.555,
+    -7.05646,
+    33.555
+],
+  "geometry": {"coordinates":[-7.05646,33.555],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276567073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.70387,33.34499,-3.70387,33.34499",
+    "geom:latitude":33.34499,
+    "geom:longitude":-3.70387,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Outat Oulad Al Haj",
+    "gn:country_code":"MA",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538573,
+    "gn:latitude":33.34499,
+    "gn:longitude":-3.70387,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Outat Oulad Al Haj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Outat Oulad el Hajj",
+        "Outat el Hadj",
+        "Outat el Haj",
+        "Outat el Hajj",
+        "Outat Oulad Al Haj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538573,
+        "wk:page":"Outat_El_Haj"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"46194453148c3348df4309b1cdb72aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1276567073,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1276567073,
+    "wof:lastmodified":1537663540,
+    "wof:name":"Outat Oulad Al Haj",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.70387,
+    33.34499,
+    -3.70387,
+    33.34499
+],
+  "geometry": {"coordinates":[-3.70387,33.34499],"type":"Point"}
+}

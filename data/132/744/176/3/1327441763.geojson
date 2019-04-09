@@ -1,0 +1,70 @@
+{
+  "id": 1327441763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96889,32.86677,-5.96889,32.86677",
+    "geom:latitude":32.86677,
+    "geom:longitude":-5.96889,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bou Idaki",
+    "gn:country_code":"MA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554751,
+    "gn:latitude":32.86677,
+    "gn:longitude":-5.96889,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Idaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Idki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554751
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"44fa0de45dfdc22a984e5346981f2cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1327441763,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327441763,
+    "wof:lastmodified":1537664054,
+    "wof:name":"Bou Idaki",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96889,
+    32.86677,
+    -5.96889,
+    32.86677
+],
+  "geometry": {"coordinates":[-5.96889,32.86677],"type":"Point"}
+}

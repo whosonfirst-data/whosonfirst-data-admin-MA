@@ -1,0 +1,61 @@
+{
+  "id": 1209424145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05564,35.28245,-5.05564,35.28245",
+    "geom:latitude":35.28245,
+    "geom:longitude":-5.05564,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Tirouggane",
+    "gn:country_code":"MA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10954524,
+    "gn:latitude":35.28245,
+    "gn:longitude":-5.05564,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tirouggane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10954524
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a45ae8760806272a9a3c6623f985145f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209424145
+        }
+    ],
+    "wof:id":1209424145,
+    "wof:lastmodified":1536287434,
+    "wof:name":"Douar Tirouggane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05564,
+    35.28245,
+    -5.05564,
+    35.28245
+],
+  "geometry": {"coordinates":[-5.05564,35.28245],"type":"Point"}
+}

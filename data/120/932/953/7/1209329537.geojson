@@ -1,0 +1,66 @@
+{
+  "id": 1209329537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.80753,32.64794,-8.80753,32.64794",
+    "geom:latitude":32.64794,
+    "geom:longitude":-8.80753,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Hadaja",
+    "gn:country_code":"MA",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550297,
+    "gn:latitude":32.64794,
+    "gn:longitude":-8.80753,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Hadaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lehdadja",
+        "Douar el Hadadja",
+        "El Hadaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550297
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3aaa9fbeecb83f3d2bf14c314de71e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329537
+        }
+    ],
+    "wof:id":1209329537,
+    "wof:lastmodified":1537663876,
+    "wof:name":"El Hadaja",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.80753,
+    32.64794000000001,
+    -8.80753,
+    32.64794000000001
+],
+  "geometry": {"coordinates":[-8.80753,32.64794000000001],"type":"Point"}
+}

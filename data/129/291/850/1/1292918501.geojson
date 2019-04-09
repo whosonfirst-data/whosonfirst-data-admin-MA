@@ -1,0 +1,74 @@
+{
+  "id": 1292918501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.71504,34.8523,-5.71504,34.8523",
+    "geom:latitude":34.8523,
+    "geom:longitude":-5.71504,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dchar Alya",
+    "gn:country_code":"MA",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551930,
+    "gn:latitude":34.8523,
+    "gn:longitude":-5.71504,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dchar Alya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Alia",
+        "Dhar el Al\u00efa",
+        "Dchar Alia",
+        "Douar Dchar Alia",
+        "Dchar Alya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551930
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4f84c3a1c7a5605e8ba6b3068bd1b324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1292918501,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1292918501,
+    "wof:lastmodified":1537663976,
+    "wof:name":"Dchar Alya",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.71504,
+    34.8523,
+    -5.71504,
+    34.8523
+],
+  "geometry": {"coordinates":[-5.71504,34.8523],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209834139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.44208,30.76648,-6.44208,30.76648",
+    "geom:latitude":30.76648,
+    "geom:longitude":-6.44208,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Intlitane",
+    "gn:country_code":"MA",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545958,
+    "gn:latitude":30.76648,
+    "gn:longitude":-6.44208,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Intlitane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inetliten",
+        "Inliten",
+        "Initlitene",
+        "Inetlitene",
+        "Intlitane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545958
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2c9e9b3d21e58dda0c8b5594bb743c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1209834139,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209834139,
+    "wof:lastmodified":1537663739,
+    "wof:name":"Intlitane",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.44208,
+    30.76648,
+    -6.44208,
+    30.76648
+],
+  "geometry": {"coordinates":[-6.44208,30.76648],"type":"Point"}
+}

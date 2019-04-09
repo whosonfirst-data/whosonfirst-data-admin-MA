@@ -1,0 +1,67 @@
+{
+  "id": 1327353823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.241,31.63176,-9.241,31.63176",
+    "geom:latitude":31.63176,
+    "geom:longitude":-9.241,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait El Makhloufi",
+    "gn:country_code":"MA",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10902218,
+    "gn:latitude":31.63176,
+    "gn:longitude":-9.241,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait El Makhloufi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10902218
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"73789b9984d08619493ee734d350cea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1327353823,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327353823,
+    "wof:lastmodified":1536794611,
+    "wof:name":"Ait El Makhloufi",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.241,
+    31.63176,
+    -9.241,
+    31.63176
+],
+  "geometry": {"coordinates":[-9.241,31.63176],"type":"Point"}
+}

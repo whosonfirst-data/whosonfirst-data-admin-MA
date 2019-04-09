@@ -1,0 +1,61 @@
+{
+  "id": 1209520535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.04183,33.61442,-6.04183,33.61442",
+    "geom:latitude":33.61442,
+    "geom:longitude":-6.04183,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Ait Belaid Silid Ou Mark",
+    "gn:country_code":"MA",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10959388,
+    "gn:latitude":33.61442,
+    "gn:longitude":-6.04183,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Belaid Silid Ou Mark",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10959388
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5ec384f9f313fe3631a2ed1834e56369",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209520535
+        }
+    ],
+    "wof:id":1209520535,
+    "wof:lastmodified":1536284594,
+    "wof:name":"Douar Ait Belaid Silid Ou Mark",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.04183,
+    33.61442,
+    -6.04183,
+    33.61442
+],
+  "geometry": {"coordinates":[-6.04183,33.61442],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343851463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.43249,31.61745,-7.43249,31.61745",
+    "geom:latitude":31.61745,
+    "geom:longitude":-7.43249,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bel Fatmi",
+    "gn:country_code":"MA",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556138,
+    "gn:latitude":31.61745,
+    "gn:longitude":-7.43249,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Bel Fatmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Kerrou",
+        "Bel Fatmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556138
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b0da21b43c9d821002d05a1351e8e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1343851463,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343851463,
+    "wof:lastmodified":1537664080,
+    "wof:name":"Bel Fatmi",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.43249,
+    31.61745,
+    -7.43249,
+    31.61745
+],
+  "geometry": {"coordinates":[-7.43249,31.61745],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209124673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.02653,30.46393,-6.02653,30.46393",
+    "geom:latitude":30.46393,
+    "geom:longitude":-6.02653,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oulad Youb",
+    "gn:country_code":"MA",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539098,
+    "gn:latitude":30.46393,
+    "gn:longitude":-6.02653,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Youb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar ouled youb",
+        "Oulad Youb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539098
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"75f7d08dbd28a8ae5892a87325398334",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209124673
+        }
+    ],
+    "wof:id":1209124673,
+    "wof:lastmodified":1537663552,
+    "wof:name":"Oulad Youb",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.02653,
+    30.46393,
+    -6.02653,
+    30.46393
+],
+  "geometry": {"coordinates":[-6.02653,30.46393],"type":"Point"}
+}

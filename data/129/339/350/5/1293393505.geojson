@@ -1,0 +1,67 @@
+{
+  "id": 1293393505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.01488,35.25991,-5.01488,35.25991",
+    "geom:latitude":35.25991,
+    "geom:longitude":-5.01488,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Tamaqrit",
+    "gn:country_code":"MA",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10954543,
+    "gn:latitude":35.25991,
+    "gn:longitude":-5.01488,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tamaqrit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10954543
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cded66cbf3811038ef4a2a9fff9f752e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1293393505,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293393505,
+    "wof:lastmodified":1536923170,
+    "wof:name":"Douar Tamaqrit",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.01488,
+    35.25991,
+    -5.01488,
+    35.25991
+],
+  "geometry": {"coordinates":[-5.01488,35.25991],"type":"Point"}
+}

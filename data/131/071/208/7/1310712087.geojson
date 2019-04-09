@@ -1,0 +1,72 @@
+{
+  "id": 1310712087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19648,30.13982,-9.19648,30.13982",
+    "geom:latitude":30.13982,
+    "geom:longitude":-9.19648,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aggouarn",
+    "gn:country_code":"MA",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561524,
+    "gn:latitude":30.13982,
+    "gn:longitude":-9.19648,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aggouarn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imgouarne",
+        "Agouarn",
+        "Aggouarn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561524
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3777552c9fd0015cb09122350638d186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1310712087,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310712087,
+    "wof:lastmodified":1537664239,
+    "wof:name":"Aggouarn",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19648,
+    30.13982,
+    -9.19648,
+    30.13982
+],
+  "geometry": {"coordinates":[-9.19648,30.13982],"type":"Point"}
+}

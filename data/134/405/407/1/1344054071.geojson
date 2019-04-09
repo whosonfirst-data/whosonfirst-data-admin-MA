@@ -1,0 +1,67 @@
+{
+  "id": 1344054071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.17927,33.48275,-7.17927,33.48275",
+    "geom:latitude":33.48275,
+    "geom:longitude":-7.17927,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lakhmalcha",
+    "gn:country_code":"MA",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939442,
+    "gn:latitude":33.48275,
+    "gn:longitude":-7.17927,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lakhmalcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939442
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7acd9df519acf4e4e763371f4314f8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1344054071,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1344054071,
+    "wof:lastmodified":1536884298,
+    "wof:name":"Lakhmalcha",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.17927,
+    33.48275,
+    -7.17927,
+    33.48275
+],
+  "geometry": {"coordinates":[-7.17927,33.48275],"type":"Point"}
+}

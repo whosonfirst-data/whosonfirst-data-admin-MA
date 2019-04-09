@@ -1,0 +1,72 @@
+{
+  "id": 1276676693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.75621,33.8249,-4.75621,33.8249",
+    "geom:latitude":33.8249,
+    "geom:longitude":-4.75621,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Moujjou",
+    "gn:country_code":"MA",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541919,
+    "gn:latitude":33.8249,
+    "gn:longitude":-4.75621,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Moujjou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mejjou",
+        "Moujou",
+        "Douar Moujjou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541919
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5449a3c864ed2ec65887b22523a5dc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1276676693,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1276676693,
+    "wof:lastmodified":1537663646,
+    "wof:name":"Douar Moujjou",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.75621,
+    33.8249,
+    -4.75621,
+    33.8249
+],
+  "geometry": {"coordinates":[-4.75621,33.8249],"type":"Point"}
+}

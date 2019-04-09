@@ -1,0 +1,67 @@
+{
+  "id": 1209709535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47472,30.28597,-9.47472,30.28597",
+    "geom:latitude":30.28597,
+    "geom:longitude":-9.47472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sabel Leshmayis",
+    "gn:country_code":"MA",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10375105,
+    "gn:latitude":30.28597,
+    "gn:longitude":-9.47472,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sabel Leshmayis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10375105
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"214c42cf5c149b117b3caad796a108c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429093,
+            "locality_id":1209709535,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209709535,
+    "wof:lastmodified":1536391327,
+    "wof:name":"Sabel Leshmayis",
+    "wof:parent_id":890429093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47472,
+    30.28597,
+    -9.47472,
+    30.28597
+],
+  "geometry": {"coordinates":[-9.47472,30.28597],"type":"Point"}
+}

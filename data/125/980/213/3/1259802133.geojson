@@ -1,0 +1,72 @@
+{
+  "id": 1259802133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14889,30.87615,-8.14889,30.87615",
+    "geom:latitude":30.87615,
+    "geom:longitude":-8.14889,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Afourigh",
+    "gn:country_code":"MA",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561734,
+    "gn:latitude":30.87615,
+    "gn:longitude":-8.14889,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Afourigh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afourighe",
+        "Afourirh",
+        "Afourigh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561734
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4b60f5166c5f068bf6b24651da35f985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1259802133,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259802133,
+    "wof:lastmodified":1537664247,
+    "wof:name":"Afourigh",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14889,
+    30.87615,
+    -8.14889,
+    30.87615
+],
+  "geometry": {"coordinates":[-8.14889,30.87615],"type":"Point"}
+}

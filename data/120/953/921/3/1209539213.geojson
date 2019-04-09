@@ -1,0 +1,64 @@
+{
+  "id": 1209539213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75577,34.07068,-6.75577,34.07068",
+    "geom:latitude":34.07068,
+    "geom:longitude":-6.75577,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Mazza",
+    "gn:country_code":"MA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431338,
+    "gn:latitude":34.07068,
+    "gn:longitude":-6.75577,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Mazza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dr. Mazza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431338
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8eeb45f6c6baf42aa87b85a5485e4b4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209539213
+        }
+    ],
+    "wof:id":1209539213,
+    "wof:lastmodified":1537664290,
+    "wof:name":"Douar Mazza",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.75577,
+    34.07068,
+    -6.75577,
+    34.07068
+],
+  "geometry": {"coordinates":[-6.75577,34.07068],"type":"Point"}
+}

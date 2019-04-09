@@ -1,0 +1,67 @@
+{
+  "id": 1293769601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4635,31.89527,-9.4635,31.89527",
+    "geom:latitude":31.89527,
+    "geom:longitude":-9.4635,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Daaoun",
+    "gn:country_code":"MA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10904776,
+    "gn:latitude":31.89527,
+    "gn:longitude":-9.4635,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Daaoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10904776
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7253eb5598d6a2f1d04fbac698422ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1293769601,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293769601,
+    "wof:lastmodified":1536876608,
+    "wof:name":"Douar Daaoun",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4635,
+    31.89527,
+    -9.4635,
+    31.89527
+],
+  "geometry": {"coordinates":[-9.4635,31.89527],"type":"Point"}
+}

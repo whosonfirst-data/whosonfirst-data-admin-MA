@@ -1,0 +1,71 @@
+{
+  "id": 1226661063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.53,34.91,-3.53,34.91",
+    "geom:latitude":34.91,
+    "geom:longitude":-3.53,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dar el Hajj Choho",
+    "gn:country_code":"MA",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552778,
+    "gn:latitude":34.91,
+    "gn:longitude":-3.53,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar el Hajj Choho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar el Hach Choho",
+        "Dar el Hajj Choho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552778
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6507f71082d526195183526cfb93f303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1226661063,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1226661063,
+    "wof:lastmodified":1537664013,
+    "wof:name":"Dar el Hajj Choho",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.53,
+    34.91,
+    -3.53,
+    34.91
+],
+  "geometry": {"coordinates":[-3.53,34.91],"type":"Point"}
+}

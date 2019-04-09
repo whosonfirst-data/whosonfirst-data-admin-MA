@@ -1,0 +1,66 @@
+{
+  "id": 1209019289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.02361,35.19888,-6.02361,35.19888",
+    "geom:latitude":35.19888,
+    "geom:longitude":-6.02361,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Badaoua Tayf",
+    "gn:country_code":"MA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556246,
+    "gn:latitude":35.19888,
+    "gn:longitude":-6.02361,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Badaoua Tayf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bedaoua",
+        "Bdaoua et Ta\u00eff",
+        "Douar Badaoua Tayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556246
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6a366108c4c17a2ea0b1fa874213b4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019289
+        }
+    ],
+    "wof:id":1209019289,
+    "wof:lastmodified":1537664082,
+    "wof:name":"Douar Badaoua Tayf",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.02361,
+    35.19888,
+    -6.02361,
+    35.19888
+],
+  "geometry": {"coordinates":[-6.02361,35.19888],"type":"Point"}
+}

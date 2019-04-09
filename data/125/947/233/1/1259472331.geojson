@@ -1,0 +1,67 @@
+{
+  "id": 1259472331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31065,30.05564,-9.31065,30.05564",
+    "geom:latitude":30.05564,
+    "geom:longitude":-9.31065,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Iggui Ou Ouanou",
+    "gn:country_code":"MA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945491,
+    "gn:latitude":30.05564,
+    "gn:longitude":-9.31065,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Iggui Ou Ouanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945491
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1a022dc1069639d88ed1d2be874b8a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1259472331,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259472331,
+    "wof:lastmodified":1536873903,
+    "wof:name":"Iggui Ou Ouanou",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31065,
+    30.05564,
+    -9.31065,
+    30.05564
+],
+  "geometry": {"coordinates":[-9.31065,30.05564],"type":"Point"}
+}

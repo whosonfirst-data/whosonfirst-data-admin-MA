@@ -1,0 +1,67 @@
+{
+  "id": 1193026267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.41793,29.23691,-9.41793,29.23691",
+    "geom:latitude":29.23691,
+    "geom:longitude":-9.41793,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tabahnift",
+    "gn:country_code":"MA",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532285,
+    "gn:latitude":29.23691,
+    "gn:longitude":-9.41793,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tabahnift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532285
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ee976eb5a9eb5ae75d82e1710f54ea2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1193026267,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1193026267,
+    "wof:lastmodified":1536367504,
+    "wof:name":"Tabahnift",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.41793,
+    29.23691,
+    -9.41793,
+    29.23691
+],
+  "geometry": {"coordinates":[-9.41793,29.23691],"type":"Point"}
+}

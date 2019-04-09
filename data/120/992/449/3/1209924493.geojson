@@ -1,0 +1,71 @@
+{
+  "id": 1209924493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21163,30.61461,-8.21163,30.61461",
+    "geom:latitude":30.61461,
+    "geom:longitude":-8.21163,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Fayd",
+    "gn:country_code":"MA",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550479,
+    "gn:latitude":30.61461,
+    "gn:longitude":-8.21163,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Fayd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Fa\u00efd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550479,
+        "wk:page":"El_Faid"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fb5083e92edd35cbcc0d920b1a7368bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1209924493,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209924493,
+    "wof:lastmodified":1537663883,
+    "wof:name":"Al Fayd",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21163,
+    30.61461,
+    -8.21163,
+    30.61461
+],
+  "geometry": {"coordinates":[-8.21163,30.61461],"type":"Point"}
+}

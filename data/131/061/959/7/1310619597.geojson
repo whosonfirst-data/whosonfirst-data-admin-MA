@@ -1,0 +1,73 @@
+{
+  "id": 1310619597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7961,32.64278,-8.7961,32.64278",
+    "geom:latitude":32.64278,
+    "geom:longitude":-8.7961,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Ouled Amor",
+    "gn:country_code":"MA",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551306,
+    "gn:latitude":32.64278,
+    "gn:longitude":-8.7961,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ouled Amor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Amor",
+        "Ej Jem\u00e2 des Oulad Amor",
+        "El Djem\u00e2 des Oulad Amor",
+        "Douar Ouled Amor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551306
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"479943526b9e55ce977d4b9f27e517d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1310619597,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310619597,
+    "wof:lastmodified":1537663927,
+    "wof:name":"Douar Ouled Amor",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7961,
+    32.64278,
+    -8.7961,
+    32.64278
+],
+  "geometry": {"coordinates":[-8.7961,32.64278],"type":"Point"}
+}

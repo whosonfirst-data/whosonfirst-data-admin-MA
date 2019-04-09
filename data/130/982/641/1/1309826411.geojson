@@ -1,0 +1,67 @@
+{
+  "id": 1309826411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.00627,31.95178,-9.00627,31.95178",
+    "geom:latitude":31.95178,
+    "geom:longitude":-9.00627,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Souiba",
+    "gn:country_code":"MA",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912334,
+    "gn:latitude":31.95178,
+    "gn:longitude":-9.00627,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Souiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912334
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b7e481cd918b8808d7cd9455ca0a07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1309826411,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1309826411,
+    "wof:lastmodified":1536901515,
+    "wof:name":"Oulad Souiba",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00627,
+    31.95178,
+    -9.00627,
+    31.95178
+],
+  "geometry": {"coordinates":[-9.00627,31.95178],"type":"Point"}
+}

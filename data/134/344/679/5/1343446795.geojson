@@ -1,0 +1,67 @@
+{
+  "id": 1343446795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.33837,31.74363,-7.33837,31.74363",
+    "geom:latitude":31.74363,
+    "geom:longitude":-7.33837,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait ben Krif",
+    "gn:country_code":"MA",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354435,
+    "gn:latitude":31.74363,
+    "gn:longitude":-7.33837,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft ben Krif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354435
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0c8ee15f3631e7260f6b22bc1a679c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1343446795,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343446795,
+    "wof:lastmodified":1536766409,
+    "wof:name":"Ait ben Krif",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.33837,
+    31.74363,
+    -7.33837,
+    31.74363
+],
+  "geometry": {"coordinates":[-7.33837,31.74363],"type":"Point"}
+}

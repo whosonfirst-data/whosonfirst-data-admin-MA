@@ -1,0 +1,64 @@
+{
+  "id": 1209513369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1025,32.7236,-5.1025,32.7236",
+    "geom:latitude":32.7236,
+    "geom:longitude":-5.1025,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"1330107152.0",
+    "gn:asciiname":"Boumia",
+    "gn:country_code":"MA",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2554281,
+    "gn:latitude":32.7236,
+    "gn:longitude":-5.1025,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Boumia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554281,
+        "wk:page":"Boumia%2C_Morocco"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5a74044888d5b723f39553eb006248fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209513369
+        }
+    ],
+    "wof:id":1209513369,
+    "wof:lastmodified":1537568275,
+    "wof:name":"Boumia",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1025,
+    32.7236,
+    -5.1025,
+    32.7236
+],
+  "geometry": {"coordinates":[-5.1025,32.7236],"type":"Point"}
+}

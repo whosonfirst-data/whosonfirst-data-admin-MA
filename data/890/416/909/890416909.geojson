@@ -1,0 +1,75 @@
+{
+  "id": 890416909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.97344,33.5549,-4.97344,33.5549",
+    "geom:latitude":33.5549,
+    "geom:longitude":-4.97344,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":8699,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u062d\u0633\u0627\u064a\u0646 \u0623\u0648 \u0639\u0644\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Dayat Aoua"
+    ],
+    "name:fra_x_variant":[
+        "Dayat Aoua (CR)",
+        "Dayat Aoua (Commune Rurale)"
+    ],
+    "qs:name":"Dayat Aoua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        890429095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546092,
+        "qs:id":629233
+    },
+    "wof:country":"MA",
+    "wof:created":1469051171,
+    "wof:geomhash":"8e7ea131f4ec6a12fe7779eb64d3e820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429095,
+            "localadmin_id":890416909,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890416909,
+    "wof:lastmodified":1505343435,
+    "wof:name":"Dayat Aoua",
+    "wof:parent_id":890429095,
+    "wof:placetype":"localadmin",
+    "wof:population":8699,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.97344,
+    33.5549,
+    -4.97344,
+    33.5549
+],
+  "geometry": {"coordinates":[-4.97344,33.5549],"type":"Point"}
+}

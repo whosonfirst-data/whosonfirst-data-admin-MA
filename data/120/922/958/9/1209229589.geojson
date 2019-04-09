@@ -1,0 +1,66 @@
+{
+  "id": 1209229589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.86315,32.45943,-6.86315,32.45943",
+    "geom:latitude":32.45943,
+    "geom:longitude":-6.86315,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Douar Oulad Aissa",
+    "gn:country_code":"MA",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551489,
+    "gn:latitude":32.45943,
+    "gn:longitude":-6.86315,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad A\u00efssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad \u2019lssa",
+        "Ouled A\u00efssa",
+        "Douar Oulad A\u00efssa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551489
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e4ea38581735ffd66d19030b5aaa64cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229589
+        }
+    ],
+    "wof:id":1209229589,
+    "wof:lastmodified":1537663942,
+    "wof:name":"Douar Oulad Aissa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.86315,
+    32.45943,
+    -6.86315,
+    32.45943
+],
+  "geometry": {"coordinates":[-6.86315,32.45943],"type":"Point"}
+}

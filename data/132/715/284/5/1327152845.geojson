@@ -1,0 +1,71 @@
+{
+  "id": 1327152845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26303,29.38015,-9.26303,29.38015",
+    "geom:latitude":29.38015,
+    "geom:longitude":-9.26303,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Azaoun",
+    "gn:country_code":"MA",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556708,
+    "gn:latitude":29.38015,
+    "gn:longitude":-9.26303,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Azaoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azouane",
+        "Azaoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556708
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"60fb348cccdbd721443cd3858d50c1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1327152845,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327152845,
+    "wof:lastmodified":1537664091,
+    "wof:name":"Azaoun",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26303,
+    29.38015,
+    -9.26303,
+    29.38015
+],
+  "geometry": {"coordinates":[-9.26303,29.38015],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293307735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.49934,32.90992,-5.49934,32.90992",
+    "geom:latitude":32.90992,
+    "geom:longitude":-5.49934,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Jnane Imes",
+    "gn:country_code":"MA",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544975,
+    "gn:latitude":32.90992,
+    "gn:longitude":-5.49934,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jnane Im\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jnane Mass",
+        "Jenane",
+        "Jenane L\u2019mes",
+        "Jnane Imes",
+        "Jnane Im\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544975
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a56f0d47be4fae4fdc94a954b392ad76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1293307735,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293307735,
+    "wof:lastmodified":1537663709,
+    "wof:name":"Jnane Imes",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.49934,
+    32.90992,
+    -5.49934,
+    32.90992
+],
+  "geometry": {"coordinates":[-5.49934,32.90992],"type":"Point"}
+}

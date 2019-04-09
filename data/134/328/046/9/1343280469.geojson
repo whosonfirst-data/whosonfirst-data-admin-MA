@@ -1,0 +1,73 @@
+{
+  "id": 1343280469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.6501,35.33357,-5.6501,35.33357",
+    "geom:latitude":35.33357,
+    "geom:longitude":-5.6501,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Mayzine",
+    "gn:country_code":"MA",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543119,
+    "gn:latitude":35.33357,
+    "gn:longitude":-5.6501,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Mayzine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mizine",
+        "Ma\u00efzene",
+        "Ma\u00efzine",
+        "Douar Mayzine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543119
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3b69cbb490d5939d1c699fb1256eafc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1343280469,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343280469,
+    "wof:lastmodified":1537663666,
+    "wof:name":"Douar Mayzine",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6501,
+    35.33357,
+    -5.6501,
+    35.33357
+],
+  "geometry": {"coordinates":[-5.6501,35.33357],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259375065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03362,32.80394,-8.03362,32.80394",
+    "geom:latitude":32.80394,
+    "geom:longitude":-8.03362,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cherkama",
+    "gn:country_code":"MA",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551949,
+    "gn:latitude":32.80394,
+    "gn:longitude":-8.03362,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Cherkama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Cherakma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551949
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d1d13c24b01a2cc92313776a960c7526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1259375065,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259375065,
+    "wof:lastmodified":1537663978,
+    "wof:name":"Cherkama",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03362,
+    32.80394,
+    -8.03362,
+    32.80394
+],
+  "geometry": {"coordinates":[-8.03362,32.80394],"type":"Point"}
+}

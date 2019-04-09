@@ -1,0 +1,61 @@
+{
+  "id": 1209117925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.65218,35.24047,-3.65218,35.24047",
+    "geom:latitude":35.24047,
+    "geom:longitude":-3.65218,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Ilouhamiyene",
+    "gn:country_code":"MA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559531,
+    "gn:latitude":35.24047,
+    "gn:longitude":-3.65218,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Ilouhamiyene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559531
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4cc4fb56850d7bcb4e3dbf155aa26e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209117925
+        }
+    ],
+    "wof:id":1209117925,
+    "wof:lastmodified":1536297197,
+    "wof:name":"Douar Ilouhamiyene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.65218,
+    35.24047,
+    -3.65218,
+    35.24047
+],
+  "geometry": {"coordinates":[-3.65218,35.24047],"type":"Point"}
+}

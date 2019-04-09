@@ -1,0 +1,61 @@
+{
+  "id": 1209408279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73831,31.63068,-7.73831,31.63068",
+    "geom:latitude":31.63068,
+    "geom:longitude":-7.73831,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lalla Ghzil",
+    "gn:country_code":"MA",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909829,
+    "gn:latitude":31.63068,
+    "gn:longitude":-7.73831,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lalla Ghzil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909829
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"48b3075375b6275565393f26281e22b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209408279
+        }
+    ],
+    "wof:id":1209408279,
+    "wof:lastmodified":1536287923,
+    "wof:name":"Douar Lalla Ghzil",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73831,
+    31.63068,
+    -7.73831,
+    31.63068
+],
+  "geometry": {"coordinates":[-7.73831,31.63068],"type":"Point"}
+}

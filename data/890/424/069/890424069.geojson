@@ -1,0 +1,75 @@
+{
+  "id": 890424069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49058,33.55326,-7.49058,33.55326",
+    "geom:latitude":33.55326,
+    "geom:longitude":-7.49058,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":11710,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u062f\u0631\u0627\u0631\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Tit Mellil"
+    ],
+    "name:fra_x_variant":[
+        "Tit Mellil (MU)",
+        "Tit Mellil (Commune Urbaine)"
+    ],
+    "qs:name":"Tit Mellil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673905,
+        890424151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546782,
+        "qs:id":629885
+    },
+    "wof:country":"MA",
+    "wof:created":1469051527,
+    "wof:geomhash":"8959bf31b05dc7c762f6c652938b1803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424151,
+            "localadmin_id":890424069,
+            "region_id":85673905
+        }
+    ],
+    "wof:id":890424069,
+    "wof:lastmodified":1505343479,
+    "wof:name":"Tit Mellil",
+    "wof:parent_id":890424151,
+    "wof:placetype":"localadmin",
+    "wof:population":11710,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49058,
+    33.55326,
+    -7.49058,
+    33.55326
+],
+  "geometry": {"coordinates":[-7.49058,33.55326],"type":"Point"}
+}

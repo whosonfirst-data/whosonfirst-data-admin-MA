@@ -1,0 +1,61 @@
+{
+  "id": 1209318089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.86995,35.22461,-4.86995,35.22461",
+    "geom:latitude":35.22461,
+    "geom:longitude":-4.86995,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Aliouan",
+    "gn:country_code":"MA",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11067912,
+    "gn:latitude":35.22461,
+    "gn:longitude":-4.86995,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Aliouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11067912
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1564b2805d663e542dfd6ccf4adc916b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209318089
+        }
+    ],
+    "wof:id":1209318089,
+    "wof:lastmodified":1536290793,
+    "wof:name":"Douar Aliouan",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.86995,
+    35.22461,
+    -4.86995,
+    35.22461
+],
+  "geometry": {"coordinates":[-4.86995,35.22461],"type":"Point"}
+}

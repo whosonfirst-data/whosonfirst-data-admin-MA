@@ -1,0 +1,67 @@
+{
+  "id": 1310505025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.17576,35.08071,-6.17576,35.08071",
+    "geom:latitude":35.08071,
+    "geom:longitude":-6.17576,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lahouala",
+    "gn:country_code":"MA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969839,
+    "gn:latitude":35.08071,
+    "gn:longitude":-6.17576,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lahouala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969839
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a10422b7c3fd4995126588777560674c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1310505025,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310505025,
+    "wof:lastmodified":1536918130,
+    "wof:name":"Lahouala",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.17576,
+    35.08071,
+    -6.17576,
+    35.08071
+],
+  "geometry": {"coordinates":[-6.17576,35.08071],"type":"Point"}
+}

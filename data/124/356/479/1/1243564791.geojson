@@ -1,0 +1,72 @@
+{
+  "id": 1243564791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.44143,32.53599,-3.44143,32.53599",
+    "geom:latitude":32.53599,
+    "geom:longitude":-3.44143,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Talsint",
+    "gn:country_code":"MA",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530923,
+    "gn:latitude":32.53599,
+    "gn:longitude":-3.44143,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Talsint",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talsinnt",
+        "Talsint"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530923,
+        "wk:page":"Talsint"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"93bc81c6f8ba575764f64bae2406d33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1243564791,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243564791,
+    "wof:lastmodified":1537663452,
+    "wof:name":"Talsint",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.44143,
+    32.53599000000001,
+    -3.44143,
+    32.53599000000001
+],
+  "geometry": {"coordinates":[-3.44143,32.53599000000001],"type":"Point"}
+}

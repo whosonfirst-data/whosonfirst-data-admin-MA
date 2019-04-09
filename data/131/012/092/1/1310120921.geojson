@@ -1,0 +1,72 @@
+{
+  "id": 1310120921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.65244,35.00503,-5.65244,35.00503",
+    "geom:latitude":35.00503,
+    "geom:longitude":-5.65244,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sat Traoula",
+    "gn:country_code":"MA",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537844,
+    "gn:latitude":35.00503,
+    "gn:longitude":-5.65244,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sat Traoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ed Delem el \u2019Emik",
+        "Saf Traoula",
+        "Sat Traoula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537844
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"23c129016f2f444cf05e3e42a6fb6c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1310120921,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310120921,
+    "wof:lastmodified":1537663528,
+    "wof:name":"Sat Traoula",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.65244,
+    35.00503,
+    -5.65244,
+    35.00503
+],
+  "geometry": {"coordinates":[-5.65244,35.00503],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260282613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.79448,31.7507,-6.79448,31.7507",
+    "geom:latitude":31.7507,
+    "geom:longitude":-6.79448,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Douar Imzouarene",
+    "gn:country_code":"MA",
+    "gn:dem":1233,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551652,
+    "gn:latitude":31.7507,
+    "gn:longitude":-6.79448,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Imzouarene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Imzouar\u00e8n",
+        "Douar Imzouarene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551652
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4e88c838846f555bd0580f84717f0102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1260282613,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1260282613,
+    "wof:lastmodified":1537663955,
+    "wof:name":"Douar Imzouarene",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.79448,
+    31.7507,
+    -6.79448,
+    31.7507
+],
+  "geometry": {"coordinates":[-6.79448,31.7507],"type":"Point"}
+}

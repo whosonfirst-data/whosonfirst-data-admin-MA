@@ -1,0 +1,67 @@
+{
+  "id": 1260083663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98425,35.49605,-5.98425,35.49605",
+    "geom:latitude":35.49605,
+    "geom:longitude":-5.98425,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Riba",
+    "gn:country_code":"MA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10844194,
+    "gn:latitude":35.49605,
+    "gn:longitude":-5.98425,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Riba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10844194
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"02f00d0d7b58532f45137c6757027df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1260083663,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1260083663,
+    "wof:lastmodified":1536986914,
+    "wof:name":"Riba",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98425,
+    35.49605,
+    -5.98425,
+    35.49605
+],
+  "geometry": {"coordinates":[-5.98425,35.49605],"type":"Point"}
+}

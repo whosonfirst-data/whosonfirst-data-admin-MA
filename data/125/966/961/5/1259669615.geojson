@@ -1,0 +1,67 @@
+{
+  "id": 1259669615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.23647,32.13884,-7.23647,32.13884",
+    "geom:latitude":32.13884,
+    "geom:longitude":-7.23647,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad El Amrania",
+    "gn:country_code":"MA",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367958,
+    "gn:latitude":32.13884,
+    "gn:longitude":-7.23647,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad El Amrania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367958
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b3538f1bf51676df32e2b2789796568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1259669615,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259669615,
+    "wof:lastmodified":1537083859,
+    "wof:name":"Oulad El Amrania",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.23647,
+    32.13884,
+    -7.23647,
+    32.13884
+],
+  "geometry": {"coordinates":[-7.23647,32.13884],"type":"Point"}
+}

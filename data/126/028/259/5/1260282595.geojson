@@ -1,0 +1,67 @@
+{
+  "id": 1260282595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.79927,32.78806,-5.79927,32.78806",
+    "geom:latitude":32.78806,
+    "geom:longitude":-5.79927,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sidi ou 'Ali",
+    "gn:country_code":"MA",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965736,
+    "gn:latitude":32.78806,
+    "gn:longitude":-5.79927,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sidi ou \u2019Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965736
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"426429b7bc2f25e45421e67bf31d181c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1260282595,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1260282595,
+    "wof:lastmodified":1536713453,
+    "wof:name":"Sidi ou 'Ali",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.79927,
+    32.78805999999999,
+    -5.79927,
+    32.78805999999999
+],
+  "geometry": {"coordinates":[-5.79927,32.78805999999999],"type":"Point"}
+}

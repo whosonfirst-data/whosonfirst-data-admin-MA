@@ -1,0 +1,67 @@
+{
+  "id": 1276753253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.59984,30.22697,-8.59984,30.22697",
+    "geom:latitude":30.22697,
+    "geom:longitude":-8.59984,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Amdghar",
+    "gn:country_code":"MA",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11142948,
+    "gn:latitude":30.22697,
+    "gn:longitude":-8.59984,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Amdghar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11142948
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"97a6badc6855f56fad75f3d9b28587d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1276753253,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276753253,
+    "wof:lastmodified":1536713554,
+    "wof:name":"Amdghar",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.59984,
+    30.22697,
+    -8.59984,
+    30.22697
+],
+  "geometry": {"coordinates":[-8.59984,30.22697],"type":"Point"}
+}

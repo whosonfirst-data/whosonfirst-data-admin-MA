@@ -1,0 +1,67 @@
+{
+  "id": 1293877551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36048,30.26508,-9.36048,30.26508",
+    "geom:latitude":30.26508,
+    "geom:longitude":-9.36048,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiougnaou",
+    "gn:country_code":"MA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10889447,
+    "gn:latitude":30.26508,
+    "gn:longitude":-9.36048,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiougnaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10889447
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"02aa1626ba56fbfe4d2363c9493225c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1293877551,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293877551,
+    "wof:lastmodified":1536722275,
+    "wof:name":"Tiougnaou",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36048,
+    30.26508,
+    -9.36048,
+    30.26508
+],
+  "geometry": {"coordinates":[-9.36048,30.26508],"type":"Point"}
+}

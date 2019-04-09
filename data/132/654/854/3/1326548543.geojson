@@ -1,0 +1,72 @@
+{
+  "id": 1326548543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.7936,28.55555,-10.7936,28.55555",
+    "geom:latitude":28.55555,
+    "geom:longitude":-10.7936,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tiderguit",
+    "gn:country_code":"MA",
+    "gn:dem":210,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528784,
+    "gn:latitude":28.55555,
+    "gn:longitude":-10.7936,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiderguit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tidergit",
+        "Tiderguit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528784
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6bca812d6c641b9e0503077e6eddcecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1326548543,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1326548543,
+    "wof:lastmodified":1537663395,
+    "wof:name":"Tiderguit",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.7936,
+    28.55555,
+    -10.7936,
+    28.55555
+],
+  "geometry": {"coordinates":[-10.7936,28.55555],"type":"Point"}
+}

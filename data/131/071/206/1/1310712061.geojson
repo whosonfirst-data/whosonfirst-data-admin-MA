@@ -1,0 +1,72 @@
+{
+  "id": 1310712061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.12216,29.67476,-9.12216,29.67476",
+    "geom:latitude":29.67476,
+    "geom:longitude":-9.12216,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Azrou-n-Ait Lhsn",
+    "gn:country_code":"MA",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556503,
+    "gn:latitude":29.67476,
+    "gn:longitude":-9.12216,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Azrou-n-A\u00eft Lhsn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azour n\u2019A\u00eft Lahsen",
+        "Azour n\u2019A\u00eft Lahsene",
+        "Azrou-n-A\u00eft Lhsn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556503
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"89e6d62598d0e29ef4bd6d5fc6895e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1310712061,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310712061,
+    "wof:lastmodified":1537664087,
+    "wof:name":"Azrou-n-Ait Lhsn",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12216,
+    29.67476,
+    -9.12216,
+    29.67476
+],
+  "geometry": {"coordinates":[-9.12216,29.67476],"type":"Point"}
+}

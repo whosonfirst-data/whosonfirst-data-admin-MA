@@ -1,0 +1,61 @@
+{
+  "id": 1209400693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27715,32.26993,-8.27715,32.26993",
+    "geom:latitude":32.26993,
+    "geom:longitude":-8.27715,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Gdala",
+    "gn:country_code":"MA",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10868295,
+    "gn:latitude":32.26993,
+    "gn:longitude":-8.27715,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Gdala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10868295
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"40ce5654b9b092afff313c59cc196998",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209400693
+        }
+    ],
+    "wof:id":1209400693,
+    "wof:lastmodified":1536288157,
+    "wof:name":"Douar Gdala",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27715,
+    32.26993,
+    -8.27715,
+    32.26993
+],
+  "geometry": {"coordinates":[-8.27715,32.26993],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209609825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51039,32.59481,-8.51039,32.59481",
+    "geom:latitude":32.59481,
+    "geom:longitude":-8.51039,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dr. Laqraoucha",
+    "gn:country_code":"MA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795807,
+    "gn:latitude":32.59481,
+    "gn:longitude":-8.51039,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dr. Laqraoucha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795807
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a95a0c9a298ce4943836459ef0bb653a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209609825
+        }
+    ],
+    "wof:id":1209609825,
+    "wof:lastmodified":1536281885,
+    "wof:name":"Dr. Laqraoucha",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51039,
+    32.594809999999995,
+    -8.51039,
+    32.594809999999995
+],
+  "geometry": {"coordinates":[-8.51039,32.59481],"type":"Point"}
+}

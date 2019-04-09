@@ -1,0 +1,67 @@
+{
+  "id": 1259493693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9263,33.73847,-3.9263,33.73847",
+    "geom:latitude":33.73847,
+    "geom:longitude":-3.9263,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Imezlai",
+    "gn:country_code":"MA",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546235,
+    "gn:latitude":33.73847,
+    "gn:longitude":-3.9263,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imezla\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546235
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a3bfa92a9ec021c19889f19881292732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1259493693,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1259493693,
+    "wof:lastmodified":1536842979,
+    "wof:name":"Imezlai",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9263,
+    33.73847,
+    -3.9263,
+    33.73847
+],
+  "geometry": {"coordinates":[-3.9263,33.73847],"type":"Point"}
+}

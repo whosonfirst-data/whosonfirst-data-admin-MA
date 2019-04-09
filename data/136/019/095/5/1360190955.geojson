@@ -1,0 +1,67 @@
+{
+  "id": 1360190955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.39119,34.18569,-5.39119,34.18569",
+    "geom:latitude":34.18569,
+    "geom:longitude":-5.39119,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Laagoubat",
+    "gn:country_code":"MA",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922120,
+    "gn:latitude":34.18569,
+    "gn:longitude":-5.39119,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laagoubat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922120
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7feaffff59bfbf18491ae41dc3b8c32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1360190955,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1360190955,
+    "wof:lastmodified":1536793180,
+    "wof:name":"Douar Laagoubat",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.39119,
+    34.18569,
+    -5.39119,
+    34.18569
+],
+  "geometry": {"coordinates":[-5.39119,34.18569],"type":"Point"}
+}

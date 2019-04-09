@@ -1,0 +1,73 @@
+{
+  "id": 1209936819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.11,31.95,-7.11,31.95",
+    "geom:latitude":31.95,
+    "geom:longitude":-7.11,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"En Nouaji Ksib",
+    "gn:country_code":"MA",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549372,
+    "gn:latitude":31.95,
+    "gn:longitude":-7.11,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"En Nouaji Ksib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Kseib",
+        "Douar en Nouaji-Ksib",
+        "En Nouaji Ksib",
+        "An-Nwaji Ocib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549372
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"519b49451ff2f79e39e9848a09af3f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1209936819,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209936819,
+    "wof:lastmodified":1537663831,
+    "wof:name":"En Nouaji Ksib",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.11,
+    31.95,
+    -7.11,
+    31.95
+],
+  "geometry": {"coordinates":[-7.11,31.95],"type":"Point"}
+}

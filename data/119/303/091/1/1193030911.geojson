@@ -1,0 +1,71 @@
+{
+  "id": 1193030911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90179,31.13284,-8.90179,31.13284",
+    "geom:latitude":31.13284,
+    "geom:longitude":-8.90179,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Ben Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559220,
+    "gn:latitude":31.13284,
+    "gn:longitude":-8.90179,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Ben Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ben Ahmed",
+        "A\u00eft Ourhiat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559220
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aa4a39e12bb50a55c861fed8be9e9f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1193030911,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1193030911,
+    "wof:lastmodified":1537664159,
+    "wof:name":"Ait Ben Ahmed",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90179,
+    31.13284,
+    -8.90179,
+    31.13284
+],
+  "geometry": {"coordinates":[-8.90179,31.13284],"type":"Point"}
+}

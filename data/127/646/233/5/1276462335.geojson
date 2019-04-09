@@ -1,0 +1,67 @@
+{
+  "id": 1276462335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.98002,35.39416,-2.98002,35.39416",
+    "geom:latitude":35.39416,
+    "geom:longitude":-2.98002,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ajelmam",
+    "gn:country_code":"MA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558759,
+    "gn:latitude":35.39416,
+    "gn:longitude":-2.98002,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ajelmam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558759
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f066e72254f1dbd11a21caba6a1decc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1276462335,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1276462335,
+    "wof:lastmodified":1536602788,
+    "wof:name":"Ajelmam",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.98002,
+    35.39416,
+    -2.98002,
+    35.39416
+],
+  "geometry": {"coordinates":[-2.98002,35.39416],"type":"Point"}
+}

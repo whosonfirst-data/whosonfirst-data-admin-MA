@@ -1,0 +1,71 @@
+{
+  "id": 1344267317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28782,31.52359,-8.28782,31.52359",
+    "geom:latitude":31.52359,
+    "geom:longitude":-8.28782,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Otmane",
+    "gn:country_code":"MA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559419,
+    "gn:latitude":31.52359,
+    "gn:longitude":-8.28782,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Otmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00eft Otmane Ousse\u00efne",
+        "A\u00eft Otmane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559419
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"af8df2862a367b3275ef6d0fe873c79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1344267317,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1344267317,
+    "wof:lastmodified":1537664166,
+    "wof:name":"Ait Otmane",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28782,
+    31.52359,
+    -8.28782,
+    31.52359
+],
+  "geometry": {"coordinates":[-8.28782,31.52359],"type":"Point"}
+}

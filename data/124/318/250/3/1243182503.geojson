@@ -1,0 +1,70 @@
+{
+  "id": 1243182503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14513,34.77075,-6.14513,34.77075",
+    "geom:latitude":34.77075,
+    "geom:longitude":-6.14513,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oulad Ayyad",
+    "gn:country_code":"MA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540204,
+    "gn:latitude":34.77075,
+    "gn:longitude":-6.14513,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Ayyad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Ayad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540204
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b98d8060721e62ba727c6ef4111be3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1243182503,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1243182503,
+    "wof:lastmodified":1537663611,
+    "wof:name":"Oulad Ayyad",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14513,
+    34.77075,
+    -6.14513,
+    34.77075
+],
+  "geometry": {"coordinates":[-6.14513,34.77075],"type":"Point"}
+}

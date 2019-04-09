@@ -1,0 +1,61 @@
+{
+  "id": 1209234707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02068,32.39307,-8.02068,32.39307",
+    "geom:latitude":32.39307,
+    "geom:longitude":-8.02068,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad El Haouziya",
+    "gn:country_code":"MA",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795982,
+    "gn:latitude":32.39307,
+    "gn:longitude":-8.02068,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad El Haouziya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795982
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1d83c9c9062b4d43f0586468ffa1fa43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209234707
+        }
+    ],
+    "wof:id":1209234707,
+    "wof:lastmodified":1536293524,
+    "wof:name":"Oulad El Haouziya",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02068,
+    32.39307,
+    -8.02068,
+    32.39307
+],
+  "geometry": {"coordinates":[-8.02068,32.39307],"type":"Point"}
+}

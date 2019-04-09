@@ -1,0 +1,67 @@
+{
+  "id": 1209839135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.30821,34.61312,-6.30821,34.61312",
+    "geom:latitude":34.61312,
+    "geom:longitude":-6.30821,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Laghrarssa",
+    "gn:country_code":"MA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969292,
+    "gn:latitude":34.61312,
+    "gn:longitude":-6.30821,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laghrarssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969292
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1dfabaecd079c1a78c1b251cc4e71a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1209839135,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1209839135,
+    "wof:lastmodified":1536393517,
+    "wof:name":"Douar Laghrarssa",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.30821,
+    34.61312,
+    -6.30821,
+    34.61312
+],
+  "geometry": {"coordinates":[-6.30821,34.61312],"type":"Point"}
+}

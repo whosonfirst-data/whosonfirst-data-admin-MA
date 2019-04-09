@@ -1,0 +1,67 @@
+{
+  "id": 1225859793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.21462,31.16634,-6.21462,31.16634",
+    "geom:latitude":31.16634,
+    "geom:longitude":-6.21462,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arirha",
+    "gn:country_code":"MA",
+    "gn:dem":1351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557182,
+    "gn:latitude":31.16634,
+    "gn:longitude":-6.21462,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Arirha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557182
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"526fbea868dcdbc944432b874f5109ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1225859793,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225859793,
+    "wof:lastmodified":1536992512,
+    "wof:name":"Arirha",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.21462,
+    31.16634,
+    -6.21462,
+    31.16634
+],
+  "geometry": {"coordinates":[-6.21462,31.16634],"type":"Point"}
+}

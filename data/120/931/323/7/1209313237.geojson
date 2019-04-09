@@ -1,0 +1,65 @@
+{
+  "id": 1209313237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.58449,31.70045,-6.58449,31.70045",
+    "geom:latitude":31.70045,
+    "geom:longitude":-6.58449,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tawjjat",
+    "gn:country_code":"MA",
+    "gn:dem":1311,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530177,
+    "gn:latitude":31.70045,
+    "gn:longitude":-6.58449,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tawjjat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taouja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530177
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"514747981a311d1cd7935281d5973f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209313237
+        }
+    ],
+    "wof:id":1209313237,
+    "wof:lastmodified":1537663430,
+    "wof:name":"Tawjjat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.58449,
+    31.70045,
+    -6.58449,
+    31.70045
+],
+  "geometry": {"coordinates":[-6.58449,31.70045],"type":"Point"}
+}

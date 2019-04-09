@@ -1,0 +1,67 @@
+{
+  "id": 1293311255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.94264,33.90737,-4.94264,33.90737",
+    "geom:latitude":33.90737,
+    "geom:longitude":-4.94264,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oulad Cghir",
+    "gn:country_code":"MA",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539970,
+    "gn:latitude":33.90737,
+    "gn:longitude":-4.94264,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Cghir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890454333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539970
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ab0ce3a2fec2d5b925017b11150bdd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":1293311255,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293311255,
+    "wof:lastmodified":1537039430,
+    "wof:name":"Oulad Cghir",
+    "wof:parent_id":890454333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.94264,
+    33.90737,
+    -4.94264,
+    33.90737
+],
+  "geometry": {"coordinates":[-4.94264,33.90737],"type":"Point"}
+}

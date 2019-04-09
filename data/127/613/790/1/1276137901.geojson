@@ -1,0 +1,67 @@
+{
+  "id": 1276137901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.85179,35.02778,-2.85179,35.02778",
+    "geom:latitude":35.02778,
+    "geom:longitude":-2.85179,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ouled Ben Yahia",
+    "gn:country_code":"MA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538994,
+    "gn:latitude":35.02778,
+    "gn:longitude":-2.85179,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouled Ben Yahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538994
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8223b1e63c44a91ad16a9b210ed605a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1276137901,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1276137901,
+    "wof:lastmodified":1537038849,
+    "wof:name":"Ouled Ben Yahia",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.85179,
+    35.02778,
+    -2.85179,
+    35.02778
+],
+  "geometry": {"coordinates":[-2.85179,35.02778],"type":"Point"}
+}

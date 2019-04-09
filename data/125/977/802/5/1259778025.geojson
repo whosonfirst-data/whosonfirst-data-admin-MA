@@ -1,0 +1,75 @@
+{
+  "id": 1259778025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.91979,31.89984,-4.91979,31.89984",
+    "geom:latitude":31.89984,
+    "geom:longitude":-4.91979,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Touktiyr",
+    "gn:country_code":"MA",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526755,
+    "gn:latitude":31.89984,
+    "gn:longitude":-4.91979,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Touktiyr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takaterte",
+        "Touketerte",
+        "Timezguit",
+        "Touktert",
+        "Toukter",
+        "Touktiyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526755
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8969331c965bd99e87aa7a0172437ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1259778025,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259778025,
+    "wof:lastmodified":1537663335,
+    "wof:name":"Touktiyr",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.91979,
+    31.89984,
+    -4.91979,
+    31.89984
+],
+  "geometry": {"coordinates":[-4.91979,31.89984],"type":"Point"}
+}

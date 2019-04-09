@@ -1,0 +1,71 @@
+{
+  "id": 1293400175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58,29.98,-5.58,29.98",
+    "geom:latitude":29.98,
+    "geom:longitude":-5.58,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Beni Hnit",
+    "gn:country_code":"MA",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555831,
+    "gn:latitude":29.98,
+    "gn:longitude":-5.58,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Beni Hnit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni \u00cehn\u00eet",
+        "Beni Hnit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555831
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"64218be537d4e2de4f1765de45d8eb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1293400175,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293400175,
+    "wof:lastmodified":1537664072,
+    "wof:name":"Beni Hnit",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58,
+    29.98,
+    -5.58,
+    29.98
+],
+  "geometry": {"coordinates":[-5.58,29.98],"type":"Point"}
+}

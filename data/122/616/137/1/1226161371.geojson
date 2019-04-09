@@ -1,0 +1,74 @@
+{
+  "id": 1226161371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.22183,33.07554,-5.22183,33.07554",
+    "geom:latitude":33.07554,
+    "geom:longitude":-5.22183,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Baqrit",
+    "gn:country_code":"MA",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556155,
+    "gn:latitude":33.07554,
+    "gn:longitude":-5.22183,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Baqrit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakrit",
+        "Bekrite",
+        "Berkit",
+        "Bekrit",
+        "Baqrit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        890429095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556155
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"80d37b652866ded949d155d1f9e89242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429095,
+            "locality_id":1226161371,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226161371,
+    "wof:lastmodified":1537664081,
+    "wof:name":"Baqrit",
+    "wof:parent_id":890429095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.22183,
+    33.07554,
+    -5.22183,
+    33.07554
+],
+  "geometry": {"coordinates":[-5.22183,33.07554],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209507207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.02392,33.55577,-7.02392,33.55577",
+    "geom:latitude":33.55577,
+    "geom:longitude":-7.02392,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Oulad Annag",
+    "gn:country_code":"MA",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10918201,
+    "gn:latitude":33.55577,
+    "gn:longitude":-7.02392,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Annag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10918201
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8db2564d537e67ff69f4a2725de58496",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209507207
+        }
+    ],
+    "wof:id":1209507207,
+    "wof:lastmodified":1536284996,
+    "wof:name":"Douar Oulad Annag",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.02392,
+    33.55577,
+    -7.02392,
+    33.55577
+],
+  "geometry": {"coordinates":[-7.02392,33.55577],"type":"Point"}
+}

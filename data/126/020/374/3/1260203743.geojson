@@ -1,0 +1,67 @@
+{
+  "id": 1260203743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55609,31.54695,-9.55609,31.54695",
+    "geom:latitude":31.54695,
+    "geom:longitude":-9.55609,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Errouissat",
+    "gn:country_code":"MA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10898793,
+    "gn:latitude":31.54695,
+    "gn:longitude":-9.55609,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Errouissat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10898793
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fe229ae1fcf36b9bf17f7994154bd3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1260203743,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1260203743,
+    "wof:lastmodified":1536819354,
+    "wof:name":"Douar Errouissat",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55609,
+    31.54695,
+    -9.55609,
+    31.54695
+],
+  "geometry": {"coordinates":[-9.55609,31.54695],"type":"Point"}
+}

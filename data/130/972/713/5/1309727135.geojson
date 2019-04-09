@@ -1,0 +1,70 @@
+{
+  "id": 1309727135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50523,32.15742,-8.50523,32.15742",
+    "geom:latitude":32.15742,
+    "geom:longitude":-8.50523,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Haddi Ben Mansour",
+    "gn:country_code":"MA",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548327,
+    "gn:latitude":32.15742,
+    "gn:longitude":-8.50523,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Haddi Ben Mansour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hadi-b-Mannsour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548327
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1fd2f0fe4da145b4bbf4e29b5232bdd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1309727135,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1309727135,
+    "wof:lastmodified":1537663808,
+    "wof:name":"Douar Haddi Ben Mansour",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50523,
+    32.15742,
+    -8.50523,
+    32.15742
+],
+  "geometry": {"coordinates":[-8.50523,32.15742],"type":"Point"}
+}

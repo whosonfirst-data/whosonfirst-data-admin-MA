@@ -1,0 +1,67 @@
+{
+  "id": 1310493785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07417,33.27829,-7.07417,33.27829",
+    "geom:latitude":33.27829,
+    "geom:longitude":-7.07417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar Lkhadem",
+    "gn:country_code":"MA",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939170,
+    "gn:latitude":33.27829,
+    "gn:longitude":-7.07417,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Lkhadem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939170
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4638e6f2a59daf51e5ead2a256a460ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1310493785,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1310493785,
+    "wof:lastmodified":1536934588,
+    "wof:name":"Dar Lkhadem",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07417,
+    33.27829000000001,
+    -7.07417,
+    33.27829000000001
+],
+  "geometry": {"coordinates":[-7.07417,33.27829000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209233159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84927,31.61358,-7.84927,31.61358",
+    "geom:latitude":31.61358,
+    "geom:longitude":-7.84927,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lbaggara",
+    "gn:country_code":"MA",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550536,
+    "gn:latitude":31.61358,
+    "gn:longitude":-7.84927,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lbaggara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bougaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550536
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"13aaf67bb8f5c83ed30e59d39491f244",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209233159
+        }
+    ],
+    "wof:id":1209233159,
+    "wof:lastmodified":1537663885,
+    "wof:name":"Douar Lbaggara",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84927,
+    31.61358,
+    -7.84927,
+    31.61358
+],
+  "geometry": {"coordinates":[-7.84927,31.61358],"type":"Point"}
+}

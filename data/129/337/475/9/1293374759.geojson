@@ -1,0 +1,75 @@
+{
+  "id": 1293374759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.21037,31.0437,-7.21037,31.0437",
+    "geom:latitude":31.0437,
+    "geom:longitude":-7.21037,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"440103032.0",
+    "gn:asciiname":"Amerzgane",
+    "gn:country_code":"MA",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2558118,
+    "gn:latitude":31.0437,
+    "gn:longitude":-7.21037,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Amerzgane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amarzgane",
+        "Anergane",
+        "Amerzgane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558118,
+        "wk:page":"Amerzgane"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5e9320b031d30e40301b20abe42fd99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1293374759,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293374759,
+    "wof:lastmodified":1537664128,
+    "wof:name":"Amerzgane",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.21037,
+    31.0437,
+    -7.21037,
+    31.0437
+],
+  "geometry": {"coordinates":[-7.21037,31.0437],"type":"Point"}
+}

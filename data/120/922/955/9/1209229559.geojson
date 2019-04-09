@@ -1,0 +1,64 @@
+{
+  "id": 1209229559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.04795,31.86305,-9.04795,31.86305",
+    "geom:latitude":31.86305,
+    "geom:longitude":-9.04795,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Essoualma",
+    "gn:country_code":"MA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532492,
+    "gn:latitude":31.86305,
+    "gn:longitude":-9.04795,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Essoualma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soualma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532492
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"53cdc72c6870a2439b0c37befb57d309",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229559
+        }
+    ],
+    "wof:id":1209229559,
+    "wof:lastmodified":1537663499,
+    "wof:name":"Douar Essoualma",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.04795,
+    31.86305,
+    -9.04795,
+    31.86305
+],
+  "geometry": {"coordinates":[-9.04795,31.86305],"type":"Point"}
+}

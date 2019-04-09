@@ -1,0 +1,61 @@
+{
+  "id": 1209313245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7225,31.69457,-6.7225,31.69457",
+    "geom:latitude":31.69457,
+    "geom:longitude":-6.7225,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait 'Ali Ou Hsayn",
+    "gn:country_code":"MA",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11355939,
+    "gn:latitude":31.69457,
+    "gn:longitude":-6.7225,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft \u2019Ali Ou Hsayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11355939
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6e5912776fcabf4d23b60c935f6517c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209313245
+        }
+    ],
+    "wof:id":1209313245,
+    "wof:lastmodified":1536290954,
+    "wof:name":"Ait 'Ali Ou Hsayn",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7225,
+    31.69457,
+    -6.7225,
+    31.69457
+],
+  "geometry": {"coordinates":[-6.7225,31.69457],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327246347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.07594,35.21903,-6.07594,35.21903",
+    "geom:latitude":35.21903,
+    "geom:longitude":-6.07594,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rekada",
+    "gn:country_code":"MA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538307,
+    "gn:latitude":35.21903,
+    "gn:longitude":-6.07594,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Rekada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rakada",
+        "Rekada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538307
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"40878ce1aa4236eee9c8da494321ec65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1327246347,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327246347,
+    "wof:lastmodified":1537663536,
+    "wof:name":"Rekada",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.07594,
+    35.21903,
+    -6.07594,
+    35.21903
+],
+  "geometry": {"coordinates":[-6.07594,35.21903],"type":"Point"}
+}

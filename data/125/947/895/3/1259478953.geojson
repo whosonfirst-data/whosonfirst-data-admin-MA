@@ -1,0 +1,67 @@
+{
+  "id": 1259478953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60733,31.21024,-8.60733,31.21024",
+    "geom:latitude":31.21024,
+    "geom:longitude":-8.60733,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tamarbouhet",
+    "gn:country_code":"MA",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10962953,
+    "gn:latitude":31.21024,
+    "gn:longitude":-8.60733,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tamarbouhet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10962953
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ac1c8019794e142024dab05301439f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1259478953,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259478953,
+    "wof:lastmodified":1536864002,
+    "wof:name":"Tamarbouhet",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60733,
+    31.21024,
+    -8.60733,
+    31.21024
+],
+  "geometry": {"coordinates":[-8.60733,31.21024],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193140653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77381,34.7682,-5.77381,34.7682",
+    "geom:latitude":34.7682,
+    "geom:longitude":-5.77381,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Lahouachem",
+    "gn:country_code":"MA",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10992190,
+    "gn:latitude":34.7682,
+    "gn:longitude":-5.77381,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lahouachem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10992190
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5798a3edbd01868968ab82846edd25d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1193140653,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1193140653,
+    "wof:lastmodified":1536366212,
+    "wof:name":"Douar Lahouachem",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77381,
+    34.7682,
+    -5.77381,
+    34.7682
+],
+  "geometry": {"coordinates":[-5.77381,34.7682],"type":"Point"}
+}

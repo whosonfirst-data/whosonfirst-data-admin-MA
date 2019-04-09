@@ -1,0 +1,67 @@
+{
+  "id": 1327157707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.39499,34.60537,-6.39499,34.60537",
+    "geom:latitude":34.60537,
+    "geom:longitude":-6.39499,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Ezzaouia",
+    "gn:country_code":"MA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11099500,
+    "gn:latitude":34.60537,
+    "gn:longitude":-6.39499,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ezzaouia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11099500
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2094fec74cc8bd2d677a2c59738027e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1327157707,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1327157707,
+    "wof:lastmodified":1537074383,
+    "wof:name":"Douar Ezzaouia",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.39499,
+    34.60537,
+    -6.39499,
+    34.60537
+],
+  "geometry": {"coordinates":[-6.39499,34.60537],"type":"Point"}
+}

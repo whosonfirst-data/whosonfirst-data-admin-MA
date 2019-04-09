@@ -1,0 +1,66 @@
+{
+  "id": 1209625529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68499,32.37852,-8.68499,32.37852",
+    "geom:latitude":32.37852,
+    "geom:longitude":-8.68499,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Azib El Haj El Mekki",
+    "gn:country_code":"MA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550236,
+    "gn:latitude":32.37852,
+    "gn:longitude":-8.68499,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Azib El Haj El Mekki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Haj Mekki",
+        "El Haj Mekki",
+        "Azib El Haj El Mekki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550236
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a5f0f833d6554a51d3768c91ef4d6587",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625529
+        }
+    ],
+    "wof:id":1209625529,
+    "wof:lastmodified":1537663872,
+    "wof:name":"Azib El Haj El Mekki",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68499,
+    32.37852,
+    -8.68499,
+    32.37852
+],
+  "geometry": {"coordinates":[-8.68499,32.37852],"type":"Point"}
+}

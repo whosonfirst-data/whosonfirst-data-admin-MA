@@ -1,0 +1,67 @@
+{
+  "id": 1293797183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.89028,35.2297,-4.89028,35.2297",
+    "geom:latitude":35.2297,
+    "geom:longitude":-4.89028,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Tamloult",
+    "gn:country_code":"MA",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10998879,
+    "gn:latitude":35.2297,
+    "gn:longitude":-4.89028,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tamloult",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10998879
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e4957df7df4e28173dc63b26bad8ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1293797183,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293797183,
+    "wof:lastmodified":1536836546,
+    "wof:name":"Douar Tamloult",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.89028,
+    35.2297,
+    -4.89028,
+    35.2297
+],
+  "geometry": {"coordinates":[-4.89028,35.2297],"type":"Point"}
+}

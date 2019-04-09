@@ -1,0 +1,71 @@
+{
+  "id": 1226064187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.35043,31.87922,-4.35043,31.87922",
+    "geom:latitude":31.87922,
+    "geom:longitude":-4.35043,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mediouna",
+    "gn:country_code":"MA",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542827,
+    "gn:latitude":31.87922,
+    "gn:longitude":-4.35043,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Mediouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madeouna",
+        "Mediouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542827
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"29485c0a1cd591799b289c67c9ef027f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1226064187,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226064187,
+    "wof:lastmodified":1537663661,
+    "wof:name":"Mediouna",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.35043,
+    31.87922,
+    -4.35043,
+    31.87922
+],
+  "geometry": {"coordinates":[-4.35043,31.87922],"type":"Point"}
+}

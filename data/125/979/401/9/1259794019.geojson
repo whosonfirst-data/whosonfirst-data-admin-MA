@@ -1,0 +1,72 @@
+{
+  "id": 1259794019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48749,31.77749,-8.48749,31.77749",
+    "geom:latitude":31.77749,
+    "geom:longitude":-8.48749,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Hanaouat",
+    "gn:country_code":"MA",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551661,
+    "gn:latitude":31.77749,
+    "gn:longitude":-8.48749,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Hanaouat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanaouat",
+        "Douar Glaoua",
+        "Douar Hanaouat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551661
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f4467bdb6c3f476fe98ab588daf3688e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1259794019,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259794019,
+    "wof:lastmodified":1537663956,
+    "wof:name":"Douar Hanaouat",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48749,
+    31.77749,
+    -8.48749,
+    31.77749
+],
+  "geometry": {"coordinates":[-8.48749,31.77749],"type":"Point"}
+}

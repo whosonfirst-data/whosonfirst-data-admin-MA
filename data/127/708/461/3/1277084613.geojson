@@ -1,0 +1,66 @@
+{
+  "id": 1277084613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.43219,34.01578,-4.43219,34.01578",
+    "geom:latitude":34.01578,
+    "geom:longitude":-4.43219,
+    "gn:asciiname":"Lakhzana",
+    "gn:country_code":"MA",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":8581446,
+    "gn:latitude":34.01578,
+    "gn:longitude":-4.43219,
+    "gn:modification_date":"2013-07-09",
+    "gn:name":"Lakhzana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8581446
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fd9eef76697d9784b8358ecd7aaebbcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1277084613,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1277084613,
+    "wof:lastmodified":1536765208,
+    "wof:name":"Lakhzana",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.43219,
+    34.01578,
+    -4.43219,
+    34.01578
+],
+  "geometry": {"coordinates":[-4.43219,34.01578],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276434685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96911,31.83328,-6.96911,31.83328",
+    "geom:latitude":31.83328,
+    "geom:longitude":-6.96911,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Azinig",
+    "gn:country_code":"MA",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963442,
+    "gn:latitude":31.83328,
+    "gn:longitude":-6.96911,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Azinig",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963442
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fbfa557c1a46620b2a35cfbdbd77acac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1276434685,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1276434685,
+    "wof:lastmodified":1536642034,
+    "wof:name":"Azinig",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96911,
+    31.83328,
+    -6.96911,
+    31.83328
+],
+  "geometry": {"coordinates":[-6.96911,31.83328],"type":"Point"}
+}

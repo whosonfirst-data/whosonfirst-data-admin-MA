@@ -1,0 +1,67 @@
+{
+  "id": 1210036603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58884,31.63668,-7.58884,31.63668",
+    "geom:latitude":31.63668,
+    "geom:longitude":-7.58884,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lekhlifa",
+    "gn:country_code":"MA",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10910099,
+    "gn:latitude":31.63668,
+    "gn:longitude":-7.58884,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lekhlifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10910099
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"503286c7d340d0da7a3a6bb847ac8a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1210036603,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1210036603,
+    "wof:lastmodified":1536386214,
+    "wof:name":"Douar Lekhlifa",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58884,
+    31.63668,
+    -7.58884,
+    31.63668
+],
+  "geometry": {"coordinates":[-7.58884,31.63668],"type":"Point"}
+}

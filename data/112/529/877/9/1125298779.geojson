@@ -1,0 +1,88 @@
+{
+  "id": 1125298779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94857,32.06981,-5.94857,32.06981",
+    "geom:latitude":32.06981,
+    "geom:longitude":-5.94857,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3361,
+    "gn:population":3570,
+    "iso:country":"MA",
+    "lbl:latitude":32.06981,
+    "lbl:longitude":-5.94857,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0627\u0648\u0642\u0628\u0644\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Anergui"
+    ],
+    "name:fra_x_variant":[
+        "Anergui (CR)",
+        "Anergui (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546814,
+    "qs_pg:gn_pop":3361,
+    "qs_pg:name":"Anergui",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629917,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546814,
+        "qs_pg:id":629917
+    },
+    "wof:country":"MA",
+    "wof:created":1497043303,
+    "wof:geomhash":"0cc8b92efdd8d58ac6c62cadc4cd02a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "localadmin_id":1125298779,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1125298779,
+    "wof:lastmodified":1509387670,
+    "wof:name":"Anergui",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"localadmin",
+    "wof:population":3570,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94857,
+    32.06981,
+    -5.94857,
+    32.06981
+],
+  "geometry": {"coordinates":[-5.94857,32.06981],"type":"Point"}
+}

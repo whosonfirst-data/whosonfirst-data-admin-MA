@@ -1,0 +1,61 @@
+{
+  "id": 1209208081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.62913,31.52186,-9.62913,31.52186",
+    "geom:latitude":31.52186,
+    "geom:longitude":-9.62913,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cooperative Teguemine Argane",
+    "gn:country_code":"MA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10969781,
+    "gn:latitude":31.52186,
+    "gn:longitude":-9.62913,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Coop\u00e9rative T\u00e9guemine Argane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969781
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9ef0db36f425c3384259e8d4db20af97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209208081
+        }
+    ],
+    "wof:id":1209208081,
+    "wof:lastmodified":1536294385,
+    "wof:name":"Cooperative Teguemine Argane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.62913,
+    31.52186,
+    -9.62913,
+    31.52186
+],
+  "geometry": {"coordinates":[-9.62913,31.52186],"type":"Point"}
+}

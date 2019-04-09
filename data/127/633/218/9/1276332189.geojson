@@ -1,0 +1,67 @@
+{
+  "id": 1276332189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.65092,31.99308,-6.65092,31.99308",
+    "geom:latitude":31.99308,
+    "geom:longitude":-6.65092,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Iznagane",
+    "gn:country_code":"MA",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359067,
+    "gn:latitude":31.99308,
+    "gn:longitude":-6.65092,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Iznagane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359067
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"876a69ec91830b10921c4bfafb6e444f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1276332189,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1276332189,
+    "wof:lastmodified":1536780600,
+    "wof:name":"Iznagane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.65092,
+    31.99308,
+    -6.65092,
+    31.99308
+],
+  "geometry": {"coordinates":[-6.65092,31.99308],"type":"Point"}
+}

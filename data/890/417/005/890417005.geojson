@@ -1,0 +1,78 @@
+{
+  "id": 890417005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50391,33.13489,-7.50391,33.13489",
+    "geom:latitude":33.13489,
+    "geom:longitude":-7.50391,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":6024,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u0648\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Foqra Oulad Aameur"
+    ],
+    "name:fra_x_variant":[
+        "Foqra Oulad Aameur (CR)",
+        "Foqra Oulad Aameur (Commune Rurale)"
+    ],
+    "qs:name":"Foqra Oulad Aameur",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546265,
+        "qs:id":629392,
+        "wd:id":"Q12190991",
+        "wk:page":"Fokra Ouled Ameurs"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051175,
+    "wof:geomhash":"a70be7ab88c83a76135dbba268f14a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "localadmin_id":890417005,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890417005,
+    "wof:lastmodified":1527782125,
+    "wof:name":"Foqra Oulad Aameur",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"localadmin",
+    "wof:population":6024,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50391,
+    33.13489,
+    -7.50391,
+    33.13489
+],
+  "geometry": {"coordinates":[-7.50391,33.13489],"type":"Point"}
+}

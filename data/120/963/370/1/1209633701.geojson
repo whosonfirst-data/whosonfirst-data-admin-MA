@@ -1,0 +1,61 @@
+{
+  "id": 1209633701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.65331,30.87282,-9.65331,30.87282",
+    "geom:latitude":30.87282,
+    "geom:longitude":-9.65331,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi Bou Zid",
+    "gn:country_code":"MA",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568239,
+    "gn:latitude":30.87282,
+    "gn:longitude":-9.65331,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Bou Zid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568239
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a2b1e644caf2d465f0e6a7152d7bfec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633701
+        }
+    ],
+    "wof:id":1209633701,
+    "wof:lastmodified":1536281109,
+    "wof:name":"Sidi Bou Zid",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.65331,
+    30.87282,
+    -9.65331,
+    30.87282
+],
+  "geometry": {"coordinates":[-9.65331,30.87282],"type":"Point"}
+}

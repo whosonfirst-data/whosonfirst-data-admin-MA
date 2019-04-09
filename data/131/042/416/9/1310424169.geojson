@@ -1,0 +1,67 @@
+{
+  "id": 1310424169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.98063,34.3419,-3.98063,34.3419",
+    "geom:latitude":34.3419,
+    "geom:longitude":-3.98063,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oulad Brih",
+    "gn:country_code":"MA",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539971,
+    "gn:latitude":34.3419,
+    "gn:longitude":-3.98063,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Brih",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539971
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3bf88a021a4ce66a73a728b086ff084e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1310424169,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310424169,
+    "wof:lastmodified":1537032876,
+    "wof:name":"Oulad Brih",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.98063,
+    34.3419,
+    -3.98063,
+    34.3419
+],
+  "geometry": {"coordinates":[-3.98063,34.3419],"type":"Point"}
+}

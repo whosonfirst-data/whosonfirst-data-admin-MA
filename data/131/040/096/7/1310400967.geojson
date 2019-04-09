@@ -1,0 +1,67 @@
+{
+  "id": 1310400967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.15699,30.69402,-8.15699,30.69402",
+    "geom:latitude":30.69402,
+    "geom:longitude":-8.15699,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tamgout-n-Ouzrou",
+    "gn:country_code":"MA",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10916950,
+    "gn:latitude":30.69402,
+    "gn:longitude":-8.15699,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tamgout-n-Ouzrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10916950
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dfdedfb46057222b6b14aef666b8bad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1310400967,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310400967,
+    "wof:lastmodified":1537064948,
+    "wof:name":"Tamgout-n-Ouzrou",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.15699,
+    30.69402,
+    -8.15699,
+    30.69402
+],
+  "geometry": {"coordinates":[-8.15699,30.69402],"type":"Point"}
+}

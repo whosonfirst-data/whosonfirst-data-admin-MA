@@ -1,0 +1,67 @@
+{
+  "id": 1277096725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20709,31.0506,-9.20709,31.0506",
+    "geom:latitude":31.0506,
+    "geom:longitude":-9.20709,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Ahmed Hammou",
+    "gn:country_code":"MA",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11148834,
+    "gn:latitude":31.0506,
+    "gn:longitude":-9.20709,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ahmed Hammou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11148834
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6ed0d125916407340a69b62de9a68a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1277096725,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1277096725,
+    "wof:lastmodified":1536747297,
+    "wof:name":"Ait Ahmed Hammou",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20709,
+    31.0506,
+    -9.20709,
+    31.0506
+],
+  "geometry": {"coordinates":[-9.20709,31.0506],"type":"Point"}
+}

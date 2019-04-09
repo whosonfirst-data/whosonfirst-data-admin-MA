@@ -1,0 +1,67 @@
+{
+  "id": 1243551531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52175,32.593,-8.52175,32.593",
+    "geom:latitude":32.593,
+    "geom:longitude":-8.52175,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cooperative",
+    "gn:country_code":"MA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795801,
+    "gn:latitude":32.593,
+    "gn:longitude":-8.52175,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Coop\u00e9rative",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795801
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"51fa2673afedfb91001e2e042097c88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1243551531,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1243551531,
+    "wof:lastmodified":1536654090,
+    "wof:name":"Cooperative",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52175,
+    32.593,
+    -8.52175,
+    32.593
+],
+  "geometry": {"coordinates":[-8.52175,32.593],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226043809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05255,34.60813,-5.05255,34.60813",
+    "geom:latitude":34.60813,
+    "geom:longitude":-5.05255,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oulad Sidi Abdellah",
+    "gn:country_code":"MA",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11041936,
+    "gn:latitude":34.60813,
+    "gn:longitude":-5.05255,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Sidi Abdellah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11041936
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7505d73f30e9aa69305e8e87dc6b7437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1226043809,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1226043809,
+    "wof:lastmodified":1536728339,
+    "wof:name":"Oulad Sidi Abdellah",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05255,
+    34.60813,
+    -5.05255,
+    34.60813
+],
+  "geometry": {"coordinates":[-5.05255,34.60813],"type":"Point"}
+}

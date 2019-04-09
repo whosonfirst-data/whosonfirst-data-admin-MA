@@ -1,0 +1,73 @@
+{
+  "id": 1293798877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.64606,34.56139,-5.64606,34.56139",
+    "geom:latitude":34.56139,
+    "geom:longitude":-5.64606,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Zyayna",
+    "gn:country_code":"MA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2525991,
+    "gn:latitude":34.56139,
+    "gn:longitude":-5.64606,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Zyayna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Zia\u00efna",
+        "Oulad Ziane",
+        "Ziana",
+        "Douar Zyayna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2525991
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9cefc945cfc941f3565427b1c5da0795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1293798877,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1293798877,
+    "wof:lastmodified":1537663308,
+    "wof:name":"Douar Zyayna",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.64606,
+    34.56139,
+    -5.64606,
+    34.56139
+],
+  "geometry": {"coordinates":[-5.64606,34.56139],"type":"Point"}
+}

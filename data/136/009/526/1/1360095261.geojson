@@ -1,0 +1,73 @@
+{
+  "id": 1360095261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.30431,35.03988,-4.30431,35.03988",
+    "geom:latitude":35.03988,
+    "geom:longitude":-4.30431,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Imehhoutene",
+    "gn:country_code":"MA",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546220,
+    "gn:latitude":35.03988,
+    "gn:longitude":-4.30431,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imehhoutene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amhoten",
+        "Imhuten",
+        "Imhoutene",
+        "Imehhoutene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546220
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bd27e051fb0a01263e3da7d77f7cd05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1360095261,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1360095261,
+    "wof:lastmodified":1537663749,
+    "wof:name":"Imehhoutene",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.30431,
+    35.03988,
+    -4.30431,
+    35.03988
+],
+  "geometry": {"coordinates":[-4.30431,35.03988],"type":"Point"}
+}

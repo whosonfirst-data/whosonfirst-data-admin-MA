@@ -1,0 +1,67 @@
+{
+  "id": 1276327363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62667,31.79822,-8.62667,31.79822",
+    "geom:latitude":31.79822,
+    "geom:longitude":-8.62667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Abbas Ben Amara",
+    "gn:country_code":"MA",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10427537,
+    "gn:latitude":31.79822,
+    "gn:longitude":-8.62667,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Abbas Ben Amara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10427537
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"749a90f8497d5e616f78d9cc869e51a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1276327363,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1276327363,
+    "wof:lastmodified":1536787119,
+    "wof:name":"Douar Abbas Ben Amara",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62667,
+    31.79822,
+    -8.62667,
+    31.79822
+],
+  "geometry": {"coordinates":[-8.62667,31.79822],"type":"Point"}
+}

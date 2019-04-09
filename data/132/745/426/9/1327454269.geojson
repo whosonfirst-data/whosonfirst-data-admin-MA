@@ -1,0 +1,67 @@
+{
+  "id": 1327454269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.22676,31.38254,-9.22676,31.38254",
+    "geom:latitude":31.38254,
+    "geom:longitude":-9.22676,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zennfour",
+    "gn:country_code":"MA",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10924663,
+    "gn:latitude":31.38254,
+    "gn:longitude":-9.22676,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zennfour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10924663
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ebf7f67784ea196d3e4cb4362e9b0afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1327454269,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327454269,
+    "wof:lastmodified":1536648956,
+    "wof:name":"Zennfour",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22676,
+    31.38254,
+    -9.22676,
+    31.38254
+],
+  "geometry": {"coordinates":[-9.22676,31.38254],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259964505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.13909,31.97723,-5.13909,31.97723",
+    "geom:latitude":31.97723,
+    "geom:longitude":-5.13909,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Gmiyl",
+    "gn:country_code":"MA",
+    "gn:dem":1495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559986,
+    "gn:latitude":31.97723,
+    "gn:longitude":-5.13909,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"A\u00eft Gmiyl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Gmiyl",
+        "A\u00eft Gmil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559986
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eb3934cb94fbd6ea422903dbc45e2a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1259964505,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259964505,
+    "wof:lastmodified":1537664188,
+    "wof:name":"Ait Gmiyl",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.13909,
+    31.97723,
+    -5.13909,
+    31.97723
+],
+  "geometry": {"coordinates":[-5.13909,31.97723],"type":"Point"}
+}

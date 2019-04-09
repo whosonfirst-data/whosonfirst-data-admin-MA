@@ -1,0 +1,70 @@
+{
+  "id": 1243378541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.87516,34.74585,-3.87516,34.74585",
+    "geom:latitude":34.74585,
+    "geom:longitude":-3.87516,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Brart",
+    "gn:country_code":"MA",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553722,
+    "gn:latitude":34.74585,
+    "gn:longitude":-3.87516,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Brart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Braret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553722
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"038a3505242aebc77dbf3e0d7d54bb16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1243378541,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1243378541,
+    "wof:lastmodified":1537664040,
+    "wof:name":"Brart",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.87516,
+    34.74585,
+    -3.87516,
+    34.74585
+],
+  "geometry": {"coordinates":[-3.87516,34.74585],"type":"Point"}
+}

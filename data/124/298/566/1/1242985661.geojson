@@ -1,0 +1,67 @@
+{
+  "id": 1242985661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.57188,31.70451,-7.57188,31.70451",
+    "geom:latitude":31.70451,
+    "geom:longitude":-7.57188,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar el Khemais",
+    "gn:country_code":"MA",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551777,
+    "gn:latitude":31.70451,
+    "gn:longitude":-7.57188,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar el Khemais",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551777
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4e02468d4ab06941f7ab251eefe3f5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1242985661,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242985661,
+    "wof:lastmodified":1536972400,
+    "wof:name":"Douar el Khemais",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.57188,
+    31.70451,
+    -7.57188,
+    31.70451
+],
+  "geometry": {"coordinates":[-7.57188,31.70451],"type":"Point"}
+}

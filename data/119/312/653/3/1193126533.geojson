@@ -1,0 +1,67 @@
+{
+  "id": 1193126533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23466,30.15678,-9.23466,30.15678",
+    "geom:latitude":30.15678,
+    "geom:longitude":-9.23466,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiourza",
+    "gn:country_code":"MA",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131072,
+    "gn:latitude":30.15678,
+    "gn:longitude":-9.23466,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiourza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131072
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7dba3a24ca43bf29f55c8b3be158d9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1193126533,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1193126533,
+    "wof:lastmodified":1536380320,
+    "wof:name":"Tiourza",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23466,
+    30.15678,
+    -9.23466,
+    30.15678
+],
+  "geometry": {"coordinates":[-9.23466,30.15678],"type":"Point"}
+}

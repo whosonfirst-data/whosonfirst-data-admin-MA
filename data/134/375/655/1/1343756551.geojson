@@ -1,0 +1,73 @@
+{
+  "id": 1343756551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91337,32.77209,-7.91337,32.77209",
+    "geom:latitude":32.77209,
+    "geom:longitude":-7.91337,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beni Khelef",
+    "gn:country_code":"MA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552978,
+    "gn:latitude":32.77209,
+    "gn:longitude":-7.91337,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Beni Khelef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Ikhlef",
+        "Beni-Khlef",
+        "Dar Beni Krelef",
+        "Beni Khelef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552978
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9fada188b461a7d352113b3b2a6e8313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1343756551,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1343756551,
+    "wof:lastmodified":1537664021,
+    "wof:name":"Beni Khelef",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91337,
+    32.77209000000001,
+    -7.91337,
+    32.77209000000001
+],
+  "geometry": {"coordinates":[-7.91337,32.77209000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260098785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.31886,31.63628,-5.31886,31.63628",
+    "geom:latitude":31.63628,
+    "geom:longitude":-5.31886,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Timekkit",
+    "gn:country_code":"MA",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528193,
+    "gn:latitude":31.63628,
+    "gn:longitude":-5.31886,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Timekkit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timka\u00efte",
+        "Timkete",
+        "Timekkit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528193
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f869d9504e64e2f755d0242d0f677619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1260098785,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1260098785,
+    "wof:lastmodified":1537663377,
+    "wof:name":"Timekkit",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.31886,
+    31.63628,
+    -5.31886,
+    31.63628
+],
+  "geometry": {"coordinates":[-5.31886,31.63628],"type":"Point"}
+}

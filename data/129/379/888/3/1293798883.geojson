@@ -1,0 +1,71 @@
+{
+  "id": 1293798883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.62039,33.61499,-3.62039,33.61499",
+    "geom:latitude":33.61499,
+    "geom:longitude":-3.62039,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chouareb",
+    "gn:country_code":"MA",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553217,
+    "gn:latitude":33.61499,
+    "gn:longitude":-3.62039,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Chouareb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Chouareb",
+        "Chouareb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553217
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"19ea4f553139a5417c4f1bd7bafd3717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1293798883,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293798883,
+    "wof:lastmodified":1537664027,
+    "wof:name":"Chouareb",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.62039,
+    33.61499,
+    -3.62039,
+    33.61499
+],
+  "geometry": {"coordinates":[-3.62039,33.61499],"type":"Point"}
+}

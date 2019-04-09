@@ -1,0 +1,72 @@
+{
+  "id": 1277089295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.68903,33.77853,-4.68903,33.77853",
+    "geom:latitude":33.77853,
+    "geom:longitude":-4.68903,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Mechka",
+    "gn:country_code":"MA",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542872,
+    "gn:latitude":33.77853,
+    "gn:longitude":-4.68903,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Mechka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechkrar",
+        "Mechla",
+        "Douar Mechka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542872
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5211e9a2136602e9d99dcde6958ccb64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1277089295,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1277089295,
+    "wof:lastmodified":1537663662,
+    "wof:name":"Douar Mechka",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.68903,
+    33.77853,
+    -4.68903,
+    33.77853
+],
+  "geometry": {"coordinates":[-4.68903,33.77853],"type":"Point"}
+}

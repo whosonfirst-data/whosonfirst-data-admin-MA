@@ -1,0 +1,88 @@
+{
+  "id": 1125330337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.84644,28.72028,-8.84644,28.72028",
+    "geom:latitude":28.72028,
+    "geom:longitude":-8.84644,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6183,
+    "gn:population":6183,
+    "iso:country":"MA",
+    "lbl:latitude":28.72028,
+    "lbl:longitude":-8.84644,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0642\u0627 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Fam El Hisn"
+    ],
+    "name:fra_x_variant":[
+        "Fam El Hisn (MU)",
+        "Fam El Hisn (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546225,
+    "qs_pg:gn_pop":6183,
+    "qs_pg:name":"Fam El Hisn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629360,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546225,
+        "qs_pg:id":629360
+    },
+    "wof:country":"MA",
+    "wof:created":1497045097,
+    "wof:geomhash":"079ca2ee4e87c8b921f1453611ea1f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "localadmin_id":1125330337,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1125330337,
+    "wof:lastmodified":1509388359,
+    "wof:name":"Fam El Hisn",
+    "wof:parent_id":890453851,
+    "wof:placetype":"localadmin",
+    "wof:population":6183,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.84644,
+    28.72028,
+    -8.84644,
+    28.72028
+],
+  "geometry": {"coordinates":[-8.84644,28.72028],"type":"Point"}
+}

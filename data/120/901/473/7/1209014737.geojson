@@ -1,0 +1,67 @@
+{
+  "id": 1209014737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.86577,34.92181,-5.86577,34.92181",
+    "geom:latitude":34.92181,
+    "geom:longitude":-5.86577,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Essoughmari",
+    "gn:country_code":"MA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532387,
+    "gn:latitude":34.92181,
+    "gn:longitude":-5.86577,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Essoughmari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sourhmari",
+        "Soughmari",
+        "Sourhmari",
+        "Douar Essoughmari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532387
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f12189bbede82c482dc2a017bc41a387",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209014737
+        }
+    ],
+    "wof:id":1209014737,
+    "wof:lastmodified":1537663495,
+    "wof:name":"Douar Essoughmari",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.86577,
+    34.92181,
+    -5.86577,
+    34.92181
+],
+  "geometry": {"coordinates":[-5.86577,34.92181],"type":"Point"}
+}

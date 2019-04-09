@@ -1,0 +1,67 @@
+{
+  "id": 1276155743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13659,34.61479,-6.13659,34.61479",
+    "geom:latitude":34.61479,
+    "geom:longitude":-6.13659,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hassaynal",
+    "gn:country_code":"MA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11014518,
+    "gn:latitude":34.61479,
+    "gn:longitude":-6.13659,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hassaynal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11014518
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5d23df8a9cfad9ca64cccf14d2bdbf00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1276155743,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276155743,
+    "wof:lastmodified":1537016061,
+    "wof:name":"Hassaynal",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13659,
+    34.61479,
+    -6.13659,
+    34.61479
+],
+  "geometry": {"coordinates":[-6.13659,34.61479],"type":"Point"}
+}

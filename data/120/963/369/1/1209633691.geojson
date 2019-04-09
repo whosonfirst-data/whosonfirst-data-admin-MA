@@ -1,0 +1,61 @@
+{
+  "id": 1209633691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.41466,34.39684,-5.41466,34.39684",
+    "geom:latitude":34.39684,
+    "geom:longitude":-5.41466,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oulad Sidi Yahia",
+    "gn:country_code":"MA",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539200,
+    "gn:latitude":34.39684,
+    "gn:longitude":-5.41466,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Sidi Yahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539200
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d51bc6ef7bae56aadfe4da305c934db0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633691
+        }
+    ],
+    "wof:id":1209633691,
+    "wof:lastmodified":1536281109,
+    "wof:name":"Oulad Sidi Yahia",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.41466,
+    34.396840000000005,
+    -5.41466,
+    34.396840000000005
+],
+  "geometry": {"coordinates":[-5.41466,34.39684],"type":"Point"}
+}

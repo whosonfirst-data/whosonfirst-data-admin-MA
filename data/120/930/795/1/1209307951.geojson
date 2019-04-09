@@ -1,0 +1,61 @@
+{
+  "id": 1209307951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84148,32.2426,-7.84148,32.2426",
+    "geom:latitude":32.2426,
+    "geom:longitude":-7.84148,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ould Mohamed Lahbib",
+    "gn:country_code":"MA",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10927789,
+    "gn:latitude":32.2426,
+    "gn:longitude":-7.84148,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ould Mohamed Lahbib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10927789
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a10ac04136c44c2579591a800087b1f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209307951
+        }
+    ],
+    "wof:id":1209307951,
+    "wof:lastmodified":1536291128,
+    "wof:name":"Ould Mohamed Lahbib",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.841480000000002,
+    32.2426,
+    -7.841480000000002,
+    32.2426
+],
+  "geometry": {"coordinates":[-7.84148,32.2426],"type":"Point"}
+}

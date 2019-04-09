@@ -1,0 +1,67 @@
+{
+  "id": 1226441293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.36757,32.05829,-6.36757,32.05829",
+    "geom:latitude":32.05829,
+    "geom:longitude":-6.36757,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Touganit",
+    "gn:country_code":"MA",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435883,
+    "gn:latitude":32.05829,
+    "gn:longitude":-6.36757,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"A\u00eft Touganit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435883
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e121011eefba0ad74f553522c5589c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226441293,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226441293,
+    "wof:lastmodified":1536651770,
+    "wof:name":"Ait Touganit",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.36757,
+    32.05829,
+    -6.36757,
+    32.05829
+],
+  "geometry": {"coordinates":[-6.36757,32.05829],"type":"Point"}
+}

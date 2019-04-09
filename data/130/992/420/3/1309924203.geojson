@@ -1,0 +1,67 @@
+{
+  "id": 1309924203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.39928,34.94892,-3.39928,34.94892",
+    "geom:latitude":34.94892,
+    "geom:longitude":-3.39928,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Saouna",
+    "gn:country_code":"MA",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537728,
+    "gn:latitude":34.94892,
+    "gn:longitude":-3.39928,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Saouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537728
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"22815d8fb2795c8e87f394767a7e52e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1309924203,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1309924203,
+    "wof:lastmodified":1536760643,
+    "wof:name":"Saouna",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.39928,
+    34.94892,
+    -3.39928,
+    34.94892
+],
+  "geometry": {"coordinates":[-3.39928,34.94892],"type":"Point"}
+}

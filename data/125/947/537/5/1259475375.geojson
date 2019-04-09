@@ -1,0 +1,67 @@
+{
+  "id": 1259475375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3312,33.25012,-8.3312,33.25012",
+    "geom:latitude":33.25012,
+    "geom:longitude":-8.3312,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hwanta",
+    "gn:country_code":"MA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11472403,
+    "gn:latitude":33.25012,
+    "gn:longitude":-8.3312,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Hwanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11472403
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0f2adbcee1b876173a2b7424d0acfaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1259475375,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259475375,
+    "wof:lastmodified":1536869391,
+    "wof:name":"Hwanta",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3312,
+    33.25012,
+    -8.3312,
+    33.25012
+],
+  "geometry": {"coordinates":[-8.3312,33.25012],"type":"Point"}
+}

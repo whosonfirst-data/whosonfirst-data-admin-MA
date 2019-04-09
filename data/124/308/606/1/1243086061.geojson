@@ -1,0 +1,71 @@
+{
+  "id": 1243086061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13538,33.20812,-6.13538,33.20812",
+    "geom:latitude":33.20812,
+    "geom:longitude":-6.13538,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hammou Chorfa",
+    "gn:country_code":"MA",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548038,
+    "gn:latitude":33.20812,
+    "gn:longitude":-6.13538,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Hammou Chorfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chourfa",
+        "Hammou Chorfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548038
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3268c92a3ad4c5d9e2e1bdbc653a7cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1243086061,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1243086061,
+    "wof:lastmodified":1537663804,
+    "wof:name":"Hammou Chorfa",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13538,
+    33.20812,
+    -6.13538,
+    33.20812
+],
+  "geometry": {"coordinates":[-6.13538,33.20812],"type":"Point"}
+}

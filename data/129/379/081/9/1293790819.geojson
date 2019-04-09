@@ -1,0 +1,67 @@
+{
+  "id": 1293790819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.53529,34.12328,-5.53529,34.12328",
+    "geom:latitude":34.12328,
+    "geom:longitude":-5.53529,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ain Bziz",
+    "gn:country_code":"MA",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984270,
+    "gn:latitude":34.12328,
+    "gn:longitude":-5.53529,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ain Bziz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984270
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"38c6d923a6d7cf4df94917f3a9826350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1293790819,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293790819,
+    "wof:lastmodified":1536845677,
+    "wof:name":"Douar Ain Bziz",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.53529,
+    34.12328,
+    -5.53529,
+    34.12328
+],
+  "geometry": {"coordinates":[-5.53529,34.12328],"type":"Point"}
+}

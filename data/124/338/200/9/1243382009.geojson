@@ -1,0 +1,73 @@
+{
+  "id": 1243382009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27277,31.37185,-8.27277,31.37185",
+    "geom:latitude":31.37185,
+    "geom:longitude":-8.27277,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Gaida",
+    "gn:country_code":"MA",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550429,
+    "gn:latitude":31.37185,
+    "gn:longitude":-8.27277,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Gaida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lague\u00efada",
+        "Douar el Ga\u00efda",
+        "El Ga\u00efda",
+        "Al Gaida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550429
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"160b40ddc9fd2360d9ecb1edbbff0518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1243382009,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243382009,
+    "wof:lastmodified":1537663881,
+    "wof:name":"Al Gaida",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27277,
+    31.37185,
+    -8.27277,
+    31.37185
+],
+  "geometry": {"coordinates":[-8.27277,31.37185],"type":"Point"}
+}

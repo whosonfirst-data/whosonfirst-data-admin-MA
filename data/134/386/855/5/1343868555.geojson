@@ -1,0 +1,72 @@
+{
+  "id": 1343868555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8087,33.63172,-6.8087,33.63172",
+    "geom:latitude":33.63172,
+    "geom:longitude":-6.8087,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dr. Oulad Daoud",
+    "gn:country_code":"MA",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569298,
+    "gn:latitude":33.63172,
+    "gn:longitude":-6.8087,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dr. Oulad Daoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Dawd",
+        "Oulad Daoud",
+        "Dr. Oulad Daoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569298
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d66aa196693e7e0e9677f1441f368bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1343868555,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1343868555,
+    "wof:lastmodified":1537664269,
+    "wof:name":"Dr. Oulad Daoud",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8087,
+    33.63172,
+    -6.8087,
+    33.63172
+],
+  "geometry": {"coordinates":[-6.8087,33.63172],"type":"Point"}
+}

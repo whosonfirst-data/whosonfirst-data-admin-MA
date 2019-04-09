@@ -1,0 +1,73 @@
+{
+  "id": 1209725837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.26,31.41,-4.26,31.41",
+    "geom:latitude":31.41,
+    "geom:longitude":-4.26,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Kasba Ben Lahsein",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544781,
+    "gn:latitude":31.41,
+    "gn:longitude":-4.26,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kasba Ben Lahse\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hasbet Ben Lahcen",
+        "Kasba Ben Lahceine",
+        "Kasba Ben Lahse\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544781
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3ce7097be740e519470cb20ddaed8d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1209725837,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1209725837,
+    "wof:lastmodified":1537663702,
+    "wof:name":"Kasba Ben Lahsein",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.26,
+    31.41,
+    -4.26,
+    31.41
+],
+  "geometry": {"coordinates":[-4.26,31.41],"type":"Point"}
+}

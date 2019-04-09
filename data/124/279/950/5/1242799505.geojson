@@ -1,0 +1,67 @@
+{
+  "id": 1242799505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.13239,32.56388,-8.13239,32.56388",
+    "geom:latitude":32.56388,
+    "geom:longitude":-8.13239,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar El Khounf",
+    "gn:country_code":"MA",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795461,
+    "gn:latitude":32.56388,
+    "gn:longitude":-8.13239,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Khounf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795461
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"399ac2e0bbbb99901ae85d2c24fa26b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1242799505,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1242799505,
+    "wof:lastmodified":1536743806,
+    "wof:name":"Douar El Khounf",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.13239,
+    32.56388,
+    -8.13239,
+    32.56388
+],
+  "geometry": {"coordinates":[-8.13239,32.56388],"type":"Point"}
+}

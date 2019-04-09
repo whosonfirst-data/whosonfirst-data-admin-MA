@@ -1,0 +1,76 @@
+{
+  "id": 1226357391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.20676,34.53621,-6.20676,34.53621",
+    "geom:latitude":34.53621,
+    "geom:longitude":-6.20676,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lakhmalcha",
+    "gn:country_code":"MA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544459,
+    "gn:latitude":34.53621,
+    "gn:longitude":-6.20676,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lakhmalcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Khamalcha",
+        "Khemalcha",
+        "Khamalcha",
+        "Lakhmalcha",
+        "Kbirta",
+        "El Kebarta",
+        "Douar Kbirta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544459
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7ef129077bdc51f587f0ef2e6a5b1bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1226357391,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1226357391,
+    "wof:lastmodified":1537663695,
+    "wof:name":"Lakhmalcha",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.20676,
+    34.53621,
+    -6.20676,
+    34.53621
+],
+  "geometry": {"coordinates":[-6.20676,34.53621],"type":"Point"}
+}

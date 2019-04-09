@@ -1,0 +1,67 @@
+{
+  "id": 1293396897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.53892,33.5651,-4.53892,33.5651",
+    "geom:latitude":33.5651,
+    "geom:longitude":-4.53892,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cades Travazi Agricole",
+    "gn:country_code":"MA",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10843911,
+    "gn:latitude":33.5651,
+    "gn:longitude":-4.53892,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Cades Travazi Agricole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10843911
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9d8695d75b1a965fbd2eb70b8d7099ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1293396897,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293396897,
+    "wof:lastmodified":1536918097,
+    "wof:name":"Cades Travazi Agricole",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.53892,
+    33.5651,
+    -4.53892,
+    33.5651
+],
+  "geometry": {"coordinates":[-4.53892,33.5651],"type":"Point"}
+}

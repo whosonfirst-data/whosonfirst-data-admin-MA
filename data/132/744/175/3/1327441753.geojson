@@ -1,0 +1,72 @@
+{
+  "id": 1327441753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.43406,31.7004,-8.43406,31.7004",
+    "geom:latitude":31.7004,
+    "geom:longitude":-8.43406,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Sidi Moussa Mbarek",
+    "gn:country_code":"MA",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551219,
+    "gn:latitude":31.7004,
+    "gn:longitude":-8.43406,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Sidi Moussa Mbarek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi-Moussa",
+        "Douar Sidi Mbarek",
+        "Douar Sidi Moussa Mbarek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551219
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9285f4f5c9a38f2d3cad0e430d704ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1327441753,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327441753,
+    "wof:lastmodified":1537663920,
+    "wof:name":"Douar Sidi Moussa Mbarek",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43406,
+    31.7004,
+    -8.43406,
+    31.7004
+],
+  "geometry": {"coordinates":[-8.43406,31.7004],"type":"Point"}
+}

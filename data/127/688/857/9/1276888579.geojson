@@ -1,0 +1,71 @@
+{
+  "id": 1276888579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.84303,34.33853,-5.84303,34.33853",
+    "geom:latitude":34.33853,
+    "geom:longitude":-5.84303,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad Bouali",
+    "gn:country_code":"MA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551464,
+    "gn:latitude":34.33853,
+    "gn:longitude":-5.84303,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Bouali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Bouali",
+        "Douar Oulad Bouali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551464
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"07be3df00f89a1694aabe93b5ce4b90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1276888579,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276888579,
+    "wof:lastmodified":1537663940,
+    "wof:name":"Douar Oulad Bouali",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.84303,
+    34.33853,
+    -5.84303,
+    34.33853
+],
+  "geometry": {"coordinates":[-5.84303,34.33853],"type":"Point"}
+}

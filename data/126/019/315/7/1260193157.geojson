@@ -1,0 +1,71 @@
+{
+  "id": 1260193157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.77535,34.45504,-2.77535,34.45504",
+    "geom:latitude":34.45504,
+    "geom:longitude":-2.77535,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Moulay Bagdad",
+    "gn:country_code":"MA",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541847,
+    "gn:latitude":34.45504,
+    "gn:longitude":-2.77535,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Moulay Bagdad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moulay Baded",
+        "Moulay Bagdad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541847
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dee7b0cb87e108280ba7194572c04e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "locality_id":1260193157,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1260193157,
+    "wof:lastmodified":1537663645,
+    "wof:name":"Moulay Bagdad",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.77535,
+    34.45504,
+    -2.77535,
+    34.45504
+],
+  "geometry": {"coordinates":[-2.77535,34.45504],"type":"Point"}
+}

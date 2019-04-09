@@ -1,0 +1,61 @@
+{
+  "id": 1209600103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94873,31.11064,-5.94873,31.11064",
+    "geom:latitude":31.11064,
+    "geom:longitude":-5.94873,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Foudoud",
+    "gn:country_code":"MA",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10952130,
+    "gn:latitude":31.11064,
+    "gn:longitude":-5.94873,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Foudoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10952130
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"71d0a43bf6357072ec3095d93aa543b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209600103
+        }
+    ],
+    "wof:id":1209600103,
+    "wof:lastmodified":1536282196,
+    "wof:name":"Foudoud",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94873,
+    31.110640000000004,
+    -5.94873,
+    31.110640000000004
+],
+  "geometry": {"coordinates":[-5.94873,31.11064],"type":"Point"}
+}

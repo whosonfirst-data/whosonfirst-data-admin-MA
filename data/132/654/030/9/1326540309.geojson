@@ -1,0 +1,67 @@
+{
+  "id": 1326540309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.07036,35.10821,-5.07036,35.10821",
+    "geom:latitude":35.10821,
+    "geom:longitude":-5.07036,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Aonsar",
+    "gn:country_code":"MA",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557649,
+    "gn:latitude":35.10821,
+    "gn:longitude":-5.07036,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aonsar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557649
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"816cfc4f22feea4ae22f12100878a3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1326540309,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1326540309,
+    "wof:lastmodified":1536971906,
+    "wof:name":"Aonsar",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.07036,
+    35.10821,
+    -5.07036,
+    35.10821
+],
+  "geometry": {"coordinates":[-5.07036,35.10821],"type":"Point"}
+}

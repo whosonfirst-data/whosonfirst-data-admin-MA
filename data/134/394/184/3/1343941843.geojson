@@ -1,0 +1,67 @@
+{
+  "id": 1343941843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.16609,29.58338,-9.16609,29.58338",
+    "geom:latitude":29.58338,
+    "geom:longitude":-9.16609,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tizi Ousld",
+    "gn:country_code":"MA",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130244,
+    "gn:latitude":29.58338,
+    "gn:longitude":-9.16609,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tizi Ousld",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130244
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1079ccdb4ca8dc03002a483f916aee99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1343941843,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343941843,
+    "wof:lastmodified":1537045069,
+    "wof:name":"Tizi Ousld",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16609,
+    29.58338,
+    -9.16609,
+    29.58338
+],
+  "geometry": {"coordinates":[-9.16609,29.58338],"type":"Point"}
+}

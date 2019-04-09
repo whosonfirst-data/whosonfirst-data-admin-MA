@@ -1,0 +1,73 @@
+{
+  "id": 1293303025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.53313,32.11992,-7.53313,32.11992",
+    "geom:latitude":32.11992,
+    "geom:longitude":-7.53313,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi Mohammed el Haj",
+    "gn:country_code":"MA",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2533669,
+    "gn:latitude":32.11992,
+    "gn:longitude":-7.53313,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Mohammed el Haj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Mohammed el Hajj",
+        "Sidi Mohammed el Hadj",
+        "Sidi M\u2019Hamed Hadj",
+        "Sidi Mohammed el Haj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2533669
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e6a815ee06e31b03b9ce98aab217c491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1293303025,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293303025,
+    "wof:lastmodified":1537663507,
+    "wof:name":"Sidi Mohammed el Haj",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53313,
+    32.11992,
+    -7.53313,
+    32.11992
+],
+  "geometry": {"coordinates":[-7.53313,32.11992],"type":"Point"}
+}

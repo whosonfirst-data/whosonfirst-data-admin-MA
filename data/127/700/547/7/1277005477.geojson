@@ -1,0 +1,67 @@
+{
+  "id": 1277005477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.31702,34.51013,-6.31702,34.51013",
+    "geom:latitude":34.51013,
+    "geom:longitude":-6.31702,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Doumat",
+    "gn:country_code":"MA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969340,
+    "gn:latitude":34.51013,
+    "gn:longitude":-6.31702,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Doumat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969340
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"35a72b63dbeb45196b394c3bfdf2f0e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1277005477,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1277005477,
+    "wof:lastmodified":1536871796,
+    "wof:name":"Doumat",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.31702,
+    34.51013,
+    -6.31702,
+    34.51013
+],
+  "geometry": {"coordinates":[-6.31702,34.51013],"type":"Point"}
+}

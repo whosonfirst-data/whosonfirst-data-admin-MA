@@ -1,0 +1,67 @@
+{
+  "id": 1343360353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.53529,34.12339,-5.53529,34.12339",
+    "geom:latitude":34.12339,
+    "geom:longitude":-5.53529,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Karmat Moulay Bonazza",
+    "gn:country_code":"MA",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984447,
+    "gn:latitude":34.12339,
+    "gn:longitude":-5.53529,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Karmat Moulay Bonazza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984447
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6a0468b9cc57de0ebb97353893d10bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1343360353,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343360353,
+    "wof:lastmodified":1536890279,
+    "wof:name":"Douar Karmat Moulay Bonazza",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.53529,
+    34.12339,
+    -5.53529,
+    34.12339
+],
+  "geometry": {"coordinates":[-5.53529,34.12339],"type":"Point"}
+}

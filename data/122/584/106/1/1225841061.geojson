@@ -1,0 +1,73 @@
+{
+  "id": 1225841061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.93535,32.27491,-4.93535,32.27491",
+    "geom:latitude":32.27491,
+    "geom:longitude":-4.93535,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"1320115032.0",
+    "gn:asciiname":"Amouguer",
+    "gn:country_code":"MA",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2557995,
+    "gn:latitude":32.27491,
+    "gn:longitude":-4.93535,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Amouguer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amouguear",
+        "Amouguer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557995
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"53611f17c6591c5824f610cafab7f791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1225841061,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1225841061,
+    "wof:lastmodified":1537664125,
+    "wof:name":"Amouguer",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.93535,
+    32.27491,
+    -4.93535,
+    32.27491
+],
+  "geometry": {"coordinates":[-4.93535,32.27491],"type":"Point"}
+}

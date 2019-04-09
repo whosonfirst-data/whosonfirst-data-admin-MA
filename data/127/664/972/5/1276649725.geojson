@@ -1,0 +1,70 @@
+{
+  "id": 1276649725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.18545,32.54927,-6.18545,32.54927",
+    "geom:latitude":32.54927,
+    "geom:longitude":-6.18545,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ksar El Biod",
+    "gn:country_code":"MA",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544761,
+    "gn:latitude":32.54927,
+    "gn:longitude":-6.18545,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Ksar El Biod",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasba el Biod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544761
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"657fc6db7bccc93f624495ae1449aa8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1276649725,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1276649725,
+    "wof:lastmodified":1537663701,
+    "wof:name":"Ksar El Biod",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.18545,
+    32.54927,
+    -6.18545,
+    32.54927
+],
+  "geometry": {"coordinates":[-6.18545,32.54927],"type":"Point"}
+}

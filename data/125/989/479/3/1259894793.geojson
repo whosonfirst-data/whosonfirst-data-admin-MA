@@ -1,0 +1,67 @@
+{
+  "id": 1259894793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1989,32.16557,-5.1989,32.16557",
+    "geom:latitude":32.16557,
+    "geom:longitude":-5.1989,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Ou Ali",
+    "gn:country_code":"MA",
+    "gn:dem":1915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559382,
+    "gn:latitude":32.16557,
+    "gn:longitude":-5.1989,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Ou Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559382
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9b95b9d5da97a407a5153f6e5e09bdc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1259894793,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259894793,
+    "wof:lastmodified":1536763059,
+    "wof:name":"Ait Ou Ali",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1989,
+    32.16557,
+    -5.1989,
+    32.16557
+],
+  "geometry": {"coordinates":[-5.1989,32.16557],"type":"Point"}
+}

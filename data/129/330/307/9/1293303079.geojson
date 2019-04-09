@@ -1,0 +1,71 @@
+{
+  "id": 1293303079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.48318,31.01779,-6.48318,31.01779",
+    "geom:latitude":31.01779,
+    "geom:longitude":-6.48318,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Iarhabene",
+    "gn:country_code":"MA",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547597,
+    "gn:latitude":31.01779,
+    "gn:longitude":-6.48318,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"I\u00e2rhabene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "I\u00e2rhab\u00e8n",
+        "I\u00e2rhabene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547597
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"651eb92bb59e330b5e0fd6ef7bfd49c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1293303079,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293303079,
+    "wof:lastmodified":1537663797,
+    "wof:name":"Iarhabene",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.48318,
+    31.01779,
+    -6.48318,
+    31.01779
+],
+  "geometry": {"coordinates":[-6.48318,31.01779],"type":"Point"}
+}

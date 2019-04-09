@@ -1,0 +1,61 @@
+{
+  "id": 1209635571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.86,31.5,-7.86,31.5",
+    "geom:latitude":31.5,
+    "geom:longitude":-7.86,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Heddad",
+    "gn:country_code":"MA",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547737,
+    "gn:latitude":31.5,
+    "gn:longitude":-7.86,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Heddad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547737
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d49e55490c7113a4744292deb80aac0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209635571
+        }
+    ],
+    "wof:id":1209635571,
+    "wof:lastmodified":1536281057,
+    "wof:name":"Heddad",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.86,
+    31.5,
+    -7.86,
+    31.5
+],
+  "geometry": {"coordinates":[-7.86,31.5],"type":"Point"}
+}

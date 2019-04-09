@@ -1,0 +1,61 @@
+{
+  "id": 1209601159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91758,32.18419,-8.91758,32.18419",
+    "geom:latitude":32.18419,
+    "geom:longitude":-8.91758,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad Bou Saadane",
+    "gn:country_code":"MA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637676,
+    "gn:latitude":32.18419,
+    "gn:longitude":-8.91758,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Bou Saadane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637676
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8464c5bc09f75a3611968b7fd87ae2a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209601159
+        }
+    ],
+    "wof:id":1209601159,
+    "wof:lastmodified":1536282163,
+    "wof:name":"Douar Oulad Bou Saadane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.917580000000003,
+    32.18419,
+    -8.917580000000003,
+    32.18419
+],
+  "geometry": {"coordinates":[-8.91758,32.18419],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310505013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.3761,34.64397,-5.3761,34.64397",
+    "geom:latitude":34.64397,
+    "geom:longitude":-5.3761,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Oulad Erradi",
+    "gn:country_code":"MA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925268,
+    "gn:latitude":34.64397,
+    "gn:longitude":-5.3761,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Erradi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925268
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a9063a58c352c67041ba0db58f0f35ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1310505013,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310505013,
+    "wof:lastmodified":1536918144,
+    "wof:name":"Douar Oulad Erradi",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3761,
+    34.64397,
+    -5.3761,
+    34.64397
+],
+  "geometry": {"coordinates":[-5.3761,34.64397],"type":"Point"}
+}

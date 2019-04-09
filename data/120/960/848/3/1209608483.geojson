@@ -1,0 +1,61 @@
+{
+  "id": 1209608483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6368,31.64278,-9.6368,31.64278",
+    "geom:latitude":31.64278,
+    "geom:longitude":-9.6368,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Mbarek",
+    "gn:country_code":"MA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946787,
+    "gn:latitude":31.64278,
+    "gn:longitude":-9.6368,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Mbarek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946787
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"060bad2b109e611b18cfe75ab417e537",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209608483
+        }
+    ],
+    "wof:id":1209608483,
+    "wof:lastmodified":1536281927,
+    "wof:name":"Oulad Mbarek",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6368,
+    31.64278,
+    -9.6368,
+    31.64278
+],
+  "geometry": {"coordinates":[-9.6368,31.64278],"type":"Point"}
+}

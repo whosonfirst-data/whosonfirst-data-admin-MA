@@ -1,0 +1,72 @@
+{
+  "id": 1242696327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.72923,33.04261,-6.72923,33.04261",
+    "geom:latitude":33.04261,
+    "geom:longitude":-6.72923,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kasbat Bou Al Alouane",
+    "gn:country_code":"MA",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544780,
+    "gn:latitude":33.04261,
+    "gn:longitude":-6.72923,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Kasbat Bou Al Alouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koudia Bou Alouane",
+        "Kasba Bou Alouane",
+        "Kasbat Bou Al Alouane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890422519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544780
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2a3d337ec0d2e0947a80bc9c996f76ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422519,
+            "locality_id":1242696327,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1242696327,
+    "wof:lastmodified":1537663702,
+    "wof:name":"Kasbat Bou Al Alouane",
+    "wof:parent_id":890422519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.72923,
+    33.04261,
+    -6.72923,
+    33.04261
+],
+  "geometry": {"coordinates":[-6.72923,33.04261],"type":"Point"}
+}

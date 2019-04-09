@@ -1,0 +1,88 @@
+{
+  "id": 1125330895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.73016,34.64636,-4.73016,34.64636",
+    "geom:latitude":34.64636,
+    "geom:longitude":-4.73016,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15085,
+    "gn:population":15085,
+    "iso:country":"MA",
+    "lbl:latitude":34.64636,
+    "lbl:longitude":-4.73016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0633\u0627\u0628\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Timezgana"
+    ],
+    "name:fra_x_variant":[
+        "Timezgana (CR)",
+        "Timezgana (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547007,
+    "qs_pg:gn_pop":15085,
+    "qs_pg:name":"Timezgana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":630086,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547007,
+        "qs_pg:id":630086
+    },
+    "wof:country":"MA",
+    "wof:created":1497045128,
+    "wof:geomhash":"c4caa36afca60764f4bd39cc814a4502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "localadmin_id":1125330895,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125330895,
+    "wof:lastmodified":1509388378,
+    "wof:name":"Timezgana",
+    "wof:parent_id":890418103,
+    "wof:placetype":"localadmin",
+    "wof:population":15085,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.73016,
+    34.64636,
+    -4.73016,
+    34.64636
+],
+  "geometry": {"coordinates":[-4.73016,34.64636],"type":"Point"}
+}

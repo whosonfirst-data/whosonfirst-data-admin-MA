@@ -1,0 +1,71 @@
+{
+  "id": 1243086105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.64703,34.7958,-3.64703,34.7958",
+    "geom:latitude":34.7958,
+    "geom:longitude":-3.64703,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Beni Boujtou",
+    "gn:country_code":"MA",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552048,
+    "gn:latitude":34.7958,
+    "gn:longitude":-3.64703,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Beni Boujtou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bni Boujettou",
+        "Douar Beni Boujtou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552048
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"297bfb4fd519298e5a8de1e51b926362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1243086105,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1243086105,
+    "wof:lastmodified":1537663985,
+    "wof:name":"Douar Beni Boujtou",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.64703,
+    34.7958,
+    -3.64703,
+    34.7958
+],
+  "geometry": {"coordinates":[-3.64703,34.7958],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293697061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.50846,34.49162,-5.50846,34.49162",
+    "geom:latitude":34.49162,
+    "geom:longitude":-5.50846,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Souk et Tnine Jorf el Mellah",
+    "gn:country_code":"MA",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532421,
+    "gn:latitude":34.49162,
+    "gn:longitude":-5.50846,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Souk et Tnine Jorf el Mellah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jorf-el-Melha",
+        "Et Tnine Jorf el Mellah",
+        "Souk et Tnine Djorf el Mellah",
+        "El Zoco el Tenin de Yorf el-lah",
+        "Souk et Tnine Jorf el Mellah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532421
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e530483ccd397e237bb50402bb3862fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1293697061,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1293697061,
+    "wof:lastmodified":1537663497,
+    "wof:name":"Souk et Tnine Jorf el Mellah",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.50846,
+    34.49162,
+    -5.50846,
+    34.49162
+],
+  "geometry": {"coordinates":[-5.50846,34.49162],"type":"Point"}
+}

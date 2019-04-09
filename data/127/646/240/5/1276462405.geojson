@@ -1,0 +1,72 @@
+{
+  "id": 1276462405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.78672,34.34675,-5.78672,34.34675",
+    "geom:latitude":34.34675,
+    "geom:longitude":-5.78672,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Hamamcha",
+    "gn:country_code":"MA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551670,
+    "gn:latitude":34.34675,
+    "gn:longitude":-5.78672,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Hamamcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lahmamcha",
+        "Dar Hamamcha",
+        "Douar Hamamcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551670
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"683f49a3024fc2d0c795afee5101ca96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1276462405,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276462405,
+    "wof:lastmodified":1537663957,
+    "wof:name":"Douar Hamamcha",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.78672,
+    34.34675,
+    -5.78672,
+    34.34675
+],
+  "geometry": {"coordinates":[-5.78672,34.34675],"type":"Point"}
+}

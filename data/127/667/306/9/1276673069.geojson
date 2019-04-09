@@ -1,0 +1,71 @@
+{
+  "id": 1276673069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.79011,35.69194,-5.79011,35.69194",
+    "geom:latitude":35.69194,
+    "geom:longitude":-5.79011,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Daimous",
+    "gn:country_code":"MA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552337,
+    "gn:latitude":35.69194,
+    "gn:longitude":-5.79011,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Da\u00efmous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deimous",
+        "Da\u00efmous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552337
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0b0e6c516201942d71ca0aa40f07e27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1276673069,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1276673069,
+    "wof:lastmodified":1537663999,
+    "wof:name":"Daimous",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.79011,
+    35.69194,
+    -5.79011,
+    35.69194
+],
+  "geometry": {"coordinates":[-5.79011,35.69194],"type":"Point"}
+}

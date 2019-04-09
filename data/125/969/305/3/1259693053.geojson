@@ -1,0 +1,84 @@
+{
+  "id": 1259693053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.85063,35.14637,-3.85063,35.14637",
+    "geom:latitude":35.14637,
+    "geom:longitude":-3.85063,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"1505101051.0",
+    "gn:asciiname":"Imzouren",
+    "gn:country_code":"MA",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2550898,
+    "gn:latitude":35.14637,
+    "gn:longitude":-3.85063,
+    "gn:modification_date":"2016-11-29",
+    "gn:name":"Imzouren",
+    "gn:population":40000,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amzourh\u00e8n-Kh\u00e9mis-Mrabt\u00e8n",
+        "Einzoren",
+        "Izourene",
+        "Eimoren",
+        "Imsouren",
+        "Einzorene",
+        "Imzo\u00fbrene",
+        "A\u00efn Zor\u00e8n",
+        "Imzouren"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550898,
+        "wk:page":"Imzouren"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d5c67b16ba2662e322c53daa6f0e404a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1259693053,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1259693053,
+    "wof:lastmodified":1537663904,
+    "wof:name":"Imzouren",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:population":40000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.85063,
+    35.14637,
+    -3.85063,
+    35.14637
+],
+  "geometry": {"coordinates":[-3.85063,35.14637],"type":"Point"}
+}

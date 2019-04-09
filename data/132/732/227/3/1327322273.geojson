@@ -1,0 +1,67 @@
+{
+  "id": 1327322273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.89823,29.26445,-9.89823,29.26445",
+    "geom:latitude":29.26445,
+    "geom:longitude":-9.89823,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Id Moussa",
+    "gn:country_code":"MA",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100883,
+    "gn:latitude":29.26445,
+    "gn:longitude":-9.89823,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100883
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f794a3ab3d19704b170d8b089b8bc4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1327322273,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327322273,
+    "wof:lastmodified":1536838873,
+    "wof:name":"Id Moussa",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.89823,
+    29.26445,
+    -9.89823,
+    29.26445
+],
+  "geometry": {"coordinates":[-9.89823,29.26445],"type":"Point"}
+}

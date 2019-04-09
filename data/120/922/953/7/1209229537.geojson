@@ -1,0 +1,65 @@
+{
+  "id": 1209229537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83293,30.06292,-8.83293,30.06292",
+    "geom:latitude":30.06292,
+    "geom:longitude":-8.83293,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sint",
+    "gn:country_code":"MA",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532677,
+    "gn:latitude":30.06292,
+    "gn:longitude":-8.83293,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sint",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinnt",
+        "Sint"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532677
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c2c59d7417cc832de3d54fe4d90b6b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229537
+        }
+    ],
+    "wof:id":1209229537,
+    "wof:lastmodified":1537663503,
+    "wof:name":"Sint",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83293,
+    30.06292,
+    -8.83293,
+    30.06292
+],
+  "geometry": {"coordinates":[-8.83293,30.06292],"type":"Point"}
+}

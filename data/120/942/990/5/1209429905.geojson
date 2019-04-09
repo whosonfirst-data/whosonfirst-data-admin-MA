@@ -1,0 +1,66 @@
+{
+  "id": 1209429905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.08563,30.74622,-6.08563,30.74622",
+    "geom:latitude":30.74622,
+    "geom:longitude":-6.08563,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Armas",
+    "gn:country_code":"MA",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562001,
+    "gn:latitude":30.74622,
+    "gn:longitude":-6.08563,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Armas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Achmas",
+        "Aroumas",
+        "Armas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562001
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b8bb1b6e64b2f9d47cde2cac812ebc75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429905
+        }
+    ],
+    "wof:id":1209429905,
+    "wof:lastmodified":1537664252,
+    "wof:name":"Armas",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.08563,
+    30.74622,
+    -6.08563,
+    30.74622
+],
+  "geometry": {"coordinates":[-6.08563,30.74622],"type":"Point"}
+}

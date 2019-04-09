@@ -1,0 +1,73 @@
+{
+  "id": 1293117095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.30894,30.13154,-9.30894,30.13154",
+    "geom:latitude":30.13154,
+    "geom:longitude":-9.30894,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dar Cheikh",
+    "gn:country_code":"MA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552882,
+    "gn:latitude":30.13154,
+    "gn:longitude":-9.30894,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Cheikh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Abdallah Ben Cheikh",
+        "Dar checheh",
+        "Dar Che\u00efkh",
+        "Dar Cheikh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552882
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1ffd8ea75b361edf60a8a9bec9978405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1293117095,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293117095,
+    "wof:lastmodified":1537664017,
+    "wof:name":"Dar Cheikh",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.30894,
+    30.13154,
+    -9.30894,
+    30.13154
+],
+  "geometry": {"coordinates":[-9.30894,30.13154],"type":"Point"}
+}

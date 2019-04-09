@@ -1,0 +1,67 @@
+{
+  "id": 1225937341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.94792,31.97133,-8.94792,31.97133",
+    "geom:latitude":31.97133,
+    "geom:longitude":-8.94792,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kbaat Hmach",
+    "gn:country_code":"MA",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10913170,
+    "gn:latitude":31.97133,
+    "gn:longitude":-8.94792,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Kbaat Hmach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10913170
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"39d8db1175647a8c22e22fa59317500e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1225937341,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1225937341,
+    "wof:lastmodified":1536880827,
+    "wof:name":"Kbaat Hmach",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.94792,
+    31.97133,
+    -8.94792,
+    31.97133
+],
+  "geometry": {"coordinates":[-8.94792,31.97133],"type":"Point"}
+}

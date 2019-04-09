@@ -1,0 +1,88 @@
+{
+  "id": 1125329799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71198,31.25077,-7.71198,31.25077",
+    "geom:latitude":31.25077,
+    "geom:longitude":-7.71198,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":22275,
+    "gn:population":24129,
+    "iso:country":"MA",
+    "lbl:latitude":31.25077,
+    "lbl:longitude":-7.71198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0648\u0631\u064a\u0643\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Sti Fadma"
+    ],
+    "name:fra_x_variant":[
+        "Sti Fadma (CR)",
+        "Sti Fadma (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545577,
+    "qs_pg:gn_pop":22275,
+    "qs_pg:name":"Sti Fadma",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":628717,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545577,
+        "qs_pg:id":628717
+    },
+    "wof:country":"MA",
+    "wof:created":1497045068,
+    "wof:geomhash":"3227b0f46dd38dd94b4429ad0329c268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "localadmin_id":1125329799,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125329799,
+    "wof:lastmodified":1509388343,
+    "wof:name":"Sti Fadma",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"localadmin",
+    "wof:population":24129,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71198,
+    31.25077,
+    -7.71198,
+    31.25077
+],
+  "geometry": {"coordinates":[-7.71198,31.25077],"type":"Point"}
+}

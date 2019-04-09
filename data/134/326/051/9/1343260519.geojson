@@ -1,0 +1,71 @@
+{
+  "id": 1343260519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.06027,31.63839,-7.06027,31.63839",
+    "geom:latitude":31.63839,
+    "geom:longitude":-7.06027,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Douar Ait Mansour",
+    "gn:country_code":"MA",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552120,
+    "gn:latitude":31.63839,
+    "gn:longitude":-7.06027,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar A\u00eft Mansour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Mannsour",
+        "Douar A\u00eft Mansour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552120
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8e9f27aec1342b2b7db75b1f33af4691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343260519,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343260519,
+    "wof:lastmodified":1537663990,
+    "wof:name":"Douar Ait Mansour",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.06027,
+    31.63839,
+    -7.06027,
+    31.63839
+],
+  "geometry": {"coordinates":[-7.06027,31.63839],"type":"Point"}
+}

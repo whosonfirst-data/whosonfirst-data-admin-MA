@@ -1,0 +1,78 @@
+{
+  "id": 890423911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5885,31.23485,-9.5885,31.23485",
+    "geom:latitude":31.23485,
+    "geom:longitude":-9.5885,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":8201,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u0643\u0631\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Imi N Tlit"
+    ],
+    "name:fra_x_variant":[
+        "Imi N Tlit (CR)",
+        "Imi N Tlit (Commune Rurale)"
+    ],
+    "qs:name":"Imi N Tlit",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546103,
+        "qs:id":629245,
+        "wd:id":"Q17005378",
+        "wk:page":"Imi N'Tlit"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051519,
+    "wof:geomhash":"3da3ba677989e20b7a99aaaea8bb59ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "localadmin_id":890423911,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890423911,
+    "wof:lastmodified":1527727274,
+    "wof:name":"Imi N Tlit",
+    "wof:parent_id":890453939,
+    "wof:placetype":"localadmin",
+    "wof:population":8201,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5885,
+    31.23485,
+    -9.5885,
+    31.23485
+],
+  "geometry": {"coordinates":[-9.5885,31.23485],"type":"Point"}
+}

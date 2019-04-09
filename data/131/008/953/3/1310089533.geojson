@@ -1,0 +1,67 @@
+{
+  "id": 1310089533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25672,30.07833,-9.25672,30.07833",
+    "geom:latitude":30.07833,
+    "geom:longitude":-9.25672,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Zekri",
+    "gn:country_code":"MA",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945473,
+    "gn:latitude":30.07833,
+    "gn:longitude":-9.25672,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Zekri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945473
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"abc409e0c89f39a16e4e284f084cde48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1310089533,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310089533,
+    "wof:lastmodified":1537018767,
+    "wof:name":"Ait Zekri",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25672,
+    30.07833,
+    -9.25672,
+    30.07833
+],
+  "geometry": {"coordinates":[-9.25672,30.07833],"type":"Point"}
+}

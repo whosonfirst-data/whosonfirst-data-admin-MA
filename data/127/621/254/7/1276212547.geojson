@@ -1,0 +1,67 @@
+{
+  "id": 1276212547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.76741,32.1396,-7.76741,32.1396",
+    "geom:latitude":32.1396,
+    "geom:longitude":-7.76741,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar Ennaenors",
+    "gn:country_code":"MA",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10928075,
+    "gn:latitude":32.1396,
+    "gn:longitude":-7.76741,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Ennaenors",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10928075
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f123e0150f378a2d8a2e7fea2ad1f8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1276212547,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276212547,
+    "wof:lastmodified":1536941600,
+    "wof:name":"Dar Ennaenors",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76741,
+    32.1396,
+    -7.76741,
+    32.1396
+],
+  "geometry": {"coordinates":[-7.76741,32.1396],"type":"Point"}
+}

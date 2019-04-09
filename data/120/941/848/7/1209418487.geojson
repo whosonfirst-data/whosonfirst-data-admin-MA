@@ -1,0 +1,61 @@
+{
+  "id": 1209418487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.45303,34.62739,-5.45303,34.62739",
+    "geom:latitude":34.62739,
+    "geom:longitude":-5.45303,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Ain Echamiyine",
+    "gn:country_code":"MA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925314,
+    "gn:latitude":34.62739,
+    "gn:longitude":-5.45303,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ain Echamiyine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925314
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e4153a1f8a37859fb8adf0b2240b7e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209418487
+        }
+    ],
+    "wof:id":1209418487,
+    "wof:lastmodified":1536287608,
+    "wof:name":"Douar Ain Echamiyine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.45303,
+    34.627390000000005,
+    -5.45303,
+    34.627390000000005
+],
+  "geometry": {"coordinates":[-5.45303,34.62739000000001],"type":"Point"}
+}

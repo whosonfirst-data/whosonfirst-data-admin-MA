@@ -1,0 +1,71 @@
+{
+  "id": 1260276539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5171,32.34037,-6.5171,32.34037",
+    "geom:latitude":32.34037,
+    "geom:longitude":-6.5171,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"At-Tabi'a",
+    "gn:country_code":"MA",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529081,
+    "gn:latitude":32.34037,
+    "gn:longitude":-6.5171,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"At-Tabi\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At-Tabi\u2019a",
+        "Tebia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529081
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7868fea8a9806b3ce9c8faf497136f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1260276539,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1260276539,
+    "wof:lastmodified":1537663399,
+    "wof:name":"At-Tabi'a",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5171,
+    32.34037,
+    -6.5171,
+    32.34037
+],
+  "geometry": {"coordinates":[-6.5171,32.34037],"type":"Point"}
+}

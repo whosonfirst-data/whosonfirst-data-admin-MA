@@ -1,0 +1,61 @@
+{
+  "id": 1209321607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.13243,34.24225,-5.13243,34.24225",
+    "geom:latitude":34.24225,
+    "geom:longitude":-5.13243,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Lemaaycha",
+    "gn:country_code":"MA",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922537,
+    "gn:latitude":34.24225,
+    "gn:longitude":-5.13243,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lemaaycha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922537
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"096110c85b8d47bce2689a71143c624c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209321607
+        }
+    ],
+    "wof:id":1209321607,
+    "wof:lastmodified":1536290674,
+    "wof:name":"Douar Lemaaycha",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.13243,
+    34.24225,
+    -5.13243,
+    34.24225
+],
+  "geometry": {"coordinates":[-5.13243,34.24225],"type":"Point"}
+}

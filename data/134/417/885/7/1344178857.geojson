@@ -1,0 +1,67 @@
+{
+  "id": 1344178857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.04663,33.73946,-7.04663,33.73946",
+    "geom:latitude":33.73946,
+    "geom:longitude":-7.04663,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar El Haj El Arbi",
+    "gn:country_code":"MA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939841,
+    "gn:latitude":33.73946,
+    "gn:longitude":-7.04663,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar El Haj El Arbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939841
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2960c01f8edad3c9777ef0d1a1ce7be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1344178857,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1344178857,
+    "wof:lastmodified":1536705070,
+    "wof:name":"Dar El Haj El Arbi",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.04663,
+    33.73946,
+    -7.04663,
+    33.73946
+],
+  "geometry": {"coordinates":[-7.04663,33.73946],"type":"Point"}
+}

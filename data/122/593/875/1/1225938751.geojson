@@ -1,0 +1,67 @@
+{
+  "id": 1225938751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.26801,33.23015,-7.26801,33.23015",
+    "geom:latitude":33.23015,
+    "geom:longitude":-7.26801,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Zeroual",
+    "gn:country_code":"MA",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936478,
+    "gn:latitude":33.23015,
+    "gn:longitude":-7.26801,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Zeroual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936478
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"082a979058234213d8a966653693f5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "locality_id":1225938751,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1225938751,
+    "wof:lastmodified":1536878717,
+    "wof:name":"Oulad Zeroual",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.26801,
+    33.23015,
+    -7.26801,
+    33.23015
+],
+  "geometry": {"coordinates":[-7.26801,33.23015],"type":"Point"}
+}

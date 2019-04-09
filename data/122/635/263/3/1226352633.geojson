@@ -1,0 +1,72 @@
+{
+  "id": 1226352633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.91047,29.29317,-9.91047,29.29317",
+    "geom:latitude":29.29317,
+    "geom:longitude":-9.91047,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Barrouch",
+    "gn:country_code":"MA",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547329,
+    "gn:latitude":29.29317,
+    "gn:longitude":-9.91047,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Barrouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Bakhouche",
+        "Id Bekhouch",
+        "Id Barrouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547329
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4e85ee01508976e065680c0dd622afcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1226352633,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226352633,
+    "wof:lastmodified":1537663788,
+    "wof:name":"Id Barrouch",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.91047,
+    29.29317,
+    -9.91047,
+    29.29317
+],
+  "geometry": {"coordinates":[-9.91047,29.29317],"type":"Point"}
+}

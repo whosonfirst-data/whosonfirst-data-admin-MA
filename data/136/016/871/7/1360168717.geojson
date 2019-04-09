@@ -1,0 +1,67 @@
+{
+  "id": 1360168717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4114,30.00838,-9.4114,30.00838",
+    "geom:latitude":30.00838,
+    "geom:longitude":-9.4114,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ichfrine",
+    "gn:country_code":"MA",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945446,
+    "gn:latitude":30.00838,
+    "gn:longitude":-9.4114,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ichfrine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945446
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"afdc484a24d2ff63184af5dfb4dcc9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1360168717,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1360168717,
+    "wof:lastmodified":1536824125,
+    "wof:name":"Ichfrine",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4114,
+    30.00838,
+    -9.4114,
+    30.00838
+],
+  "geometry": {"coordinates":[-9.4114,30.00838],"type":"Point"}
+}

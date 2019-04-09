@@ -1,0 +1,67 @@
+{
+  "id": 1293312901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6408,31.63731,-7.6408,31.63731",
+    "geom:latitude":31.63731,
+    "geom:longitude":-7.6408,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ait Hmida",
+    "gn:country_code":"MA",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909895,
+    "gn:latitude":31.63731,
+    "gn:longitude":-7.6408,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Hmida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909895
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bc90609aa1c5149a4f4fc91c4100b9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1293312901,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293312901,
+    "wof:lastmodified":1537037197,
+    "wof:name":"Douar Ait Hmida",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6408,
+    31.63731,
+    -7.6408,
+    31.63731
+],
+  "geometry": {"coordinates":[-7.6408,31.63731],"type":"Point"}
+}

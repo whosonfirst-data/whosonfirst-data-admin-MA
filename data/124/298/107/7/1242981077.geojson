@@ -1,0 +1,71 @@
+{
+  "id": 1242981077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.88273,33.35294,-4.88273,33.35294",
+    "geom:latitude":33.35294,
+    "geom:longitude":-4.88273,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait Besri",
+    "gn:country_code":"MA",
+    "gn:dem":1516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560326,
+    "gn:latitude":33.35294,
+    "gn:longitude":-4.88273,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Besri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Bassri",
+        "A\u00eft Besri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560326
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0f4300d2f22d9f535514186f492101dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1242981077,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1242981077,
+    "wof:lastmodified":1537664200,
+    "wof:name":"Ait Besri",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.88273,
+    33.35294,
+    -4.88273,
+    33.35294
+],
+  "geometry": {"coordinates":[-4.88273,33.35294],"type":"Point"}
+}

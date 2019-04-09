@@ -1,0 +1,72 @@
+{
+  "id": 1327246365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.24741,33.32755,-7.24741,33.32755",
+    "geom:latitude":33.32755,
+    "geom:longitude":-7.24741,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oulad Abdelkhaleq",
+    "gn:country_code":"MA",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538959,
+    "gn:latitude":33.32755,
+    "gn:longitude":-7.24741,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Oulad Abdelkhaleq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Mansour-Malek",
+        "Ouled Mansour",
+        "Oulad Abdelkhaleq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538959
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e25d9cc0398542987eee1372dbe3c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1327246365,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1327246365,
+    "wof:lastmodified":1537663545,
+    "wof:name":"Oulad Abdelkhaleq",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.24741,
+    33.32755,
+    -7.24741,
+    33.32755
+],
+  "geometry": {"coordinates":[-7.24741,33.32755],"type":"Point"}
+}

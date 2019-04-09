@@ -1,0 +1,67 @@
+{
+  "id": 1293410033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78484,31.61693,-7.78484,31.61693",
+    "geom:latitude":31.61693,
+    "geom:longitude":-7.78484,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Riyad",
+    "gn:country_code":"MA",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10908491,
+    "gn:latitude":31.61693,
+    "gn:longitude":-7.78484,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Riyad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10908491
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1c02758ea8a353c840410f73769a5e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1293410033,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293410033,
+    "wof:lastmodified":1536898714,
+    "wof:name":"Douar Riyad",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78484,
+    31.61693,
+    -7.78484,
+    31.61693
+],
+  "geometry": {"coordinates":[-7.78484,31.61693],"type":"Point"}
+}

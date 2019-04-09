@@ -1,0 +1,67 @@
+{
+  "id": 1360078455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.68072,31.00645,-9.68072,31.00645",
+    "geom:latitude":31.00645,
+    "geom:longitude":-9.68072,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Id El Khadir",
+    "gn:country_code":"MA",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869098,
+    "gn:latitude":31.00645,
+    "gn:longitude":-9.68072,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id El Khadir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869098
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"61df11129678efc8dca25ba5edfce363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1360078455,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360078455,
+    "wof:lastmodified":1536955356,
+    "wof:name":"Id El Khadir",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.68072,
+    31.00645,
+    -9.68072,
+    31.00645
+],
+  "geometry": {"coordinates":[-9.68072,31.00645],"type":"Point"}
+}

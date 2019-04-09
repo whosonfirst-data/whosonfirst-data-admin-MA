@@ -1,0 +1,70 @@
+{
+  "id": 1260098741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.01982,33.3144,-7.01982,33.3144",
+    "geom:latitude":33.3144,
+    "geom:longitude":-7.01982,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bir Louard",
+    "gn:country_code":"MA",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540895,
+    "gn:latitude":33.3144,
+    "gn:longitude":-7.01982,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bir Louard",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir el Ouard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540895
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9879cc6ab3562158a0010ed761b3967b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1260098741,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1260098741,
+    "wof:lastmodified":1537663629,
+    "wof:name":"Bir Louard",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.01982,
+    33.3144,
+    -7.01982,
+    33.3144
+],
+  "geometry": {"coordinates":[-7.01982,33.3144],"type":"Point"}
+}

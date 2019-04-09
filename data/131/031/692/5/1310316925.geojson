@@ -1,0 +1,67 @@
+{
+  "id": 1310316925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.29226,34.70409,-2.29226,34.70409",
+    "geom:latitude":34.70409,
+    "geom:longitude":-2.29226,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Ilaajene",
+    "gn:country_code":"MA",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10998520,
+    "gn:latitude":34.70409,
+    "gn:longitude":-2.29226,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ilaajene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10998520
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ad4e99b6e565a7ab226750f04470b896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":1310316925,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1310316925,
+    "wof:lastmodified":1536691538,
+    "wof:name":"Douar Ilaajene",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.29226,
+    34.70409,
+    -2.29226,
+    34.70409
+],
+  "geometry": {"coordinates":[-2.29226,34.70409],"type":"Point"}
+}

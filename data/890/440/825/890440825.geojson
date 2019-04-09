@@ -1,0 +1,78 @@
+{
+  "id": 890440825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.64946,34.87999,-5.64946,34.87999",
+    "geom:latitude":34.87999,
+    "geom:longitude":-5.64946,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":13113,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0643\u0631\u0641\u0637"
+    ],
+    "name:fra_x_preferred":[
+        "Asjen"
+    ],
+    "name:fra_x_variant":[
+        "Asjen (CR)",
+        "Asjen (Commune Rurale)"
+    ],
+    "qs:name":"Asjen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547026,
+        "qs:id":630106,
+        "wd:id":"Q4807050",
+        "wk:page":"Asjen"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052298,
+    "wof:geomhash":"6641367a6e4e6d965e684883551cb6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "localadmin_id":890440825,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":890440825,
+    "wof:lastmodified":1527727108,
+    "wof:name":"Asjen",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"localadmin",
+    "wof:population":13113,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.64946,
+    34.87999,
+    -5.64946,
+    34.87999
+],
+  "geometry": {"coordinates":[-5.64946,34.87999],"type":"Point"}
+}

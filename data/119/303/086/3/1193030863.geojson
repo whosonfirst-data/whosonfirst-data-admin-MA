@@ -1,0 +1,72 @@
+{
+  "id": 1193030863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.18483,34.33711,-4.18483,34.33711",
+    "geom:latitude":34.33711,
+    "geom:longitude":-4.18483,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ouled Abdh. Moussa",
+    "gn:country_code":"MA",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540407,
+    "gn:latitude":34.33711,
+    "gn:longitude":-4.18483,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ouled Abdh. Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ouled Abdallah Moussa",
+        "Oulad Abdallah Moussa",
+        "Douar Ouled Abdh. Moussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540407
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5a1d3e67ec38e73d3d7581873aac312d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1193030863,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1193030863,
+    "wof:lastmodified":1537663620,
+    "wof:name":"Douar Ouled Abdh. Moussa",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.18483,
+    34.33711,
+    -4.18483,
+    34.33711
+],
+  "geometry": {"coordinates":[-4.18483,34.33711],"type":"Point"}
+}

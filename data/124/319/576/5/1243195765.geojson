@@ -1,0 +1,67 @@
+{
+  "id": 1243195765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.74047,33.99722,-6.74047,33.99722",
+    "geom:latitude":33.99722,
+    "geom:longitude":-6.74047,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sale Al Jadida",
+    "gn:country_code":"MA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10920963,
+    "gn:latitude":33.99722,
+    "gn:longitude":-6.74047,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sal\u00e9 Al Jadida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10920963
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d0eef5cf6bccdbcf068c7553cc3080aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":1243195765,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1243195765,
+    "wof:lastmodified":1536669921,
+    "wof:name":"Sale Al Jadida",
+    "wof:parent_id":1108784811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.74047,
+    33.99722,
+    -6.74047,
+    33.99722
+],
+  "geometry": {"coordinates":[-6.74047,33.99722],"type":"Point"}
+}

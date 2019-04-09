@@ -1,0 +1,67 @@
+{
+  "id": 1226034209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.79353,30.50452,-8.79353,30.50452",
+    "geom:latitude":30.50452,
+    "geom:longitude":-8.79353,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Takerkourt",
+    "gn:country_code":"MA",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948802,
+    "gn:latitude":30.50452,
+    "gn:longitude":-8.79353,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Takerkourt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948802
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dbb0fa8addea52953ebda00624a03cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1226034209,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226034209,
+    "wof:lastmodified":1536741617,
+    "wof:name":"Takerkourt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.79353,
+    30.50452,
+    -8.79353,
+    30.50452
+],
+  "geometry": {"coordinates":[-8.79353,30.50452],"type":"Point"}
+}

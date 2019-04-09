@@ -1,0 +1,71 @@
+{
+  "id": 1343280463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.51995,32.98353,-5.51995,32.98353",
+    "geom:latitude":32.98353,
+    "geom:longitude":-5.51995,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Aaziza",
+    "gn:country_code":"MA",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565270,
+    "gn:latitude":32.98353,
+    "gn:longitude":-5.51995,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00e2ziza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00e2ziza",
+        "Aziza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565270
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"24a34f488cdd6b80db3b4d7d974478f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1343280463,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343280463,
+    "wof:lastmodified":1537664262,
+    "wof:name":"Aaziza",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.51995,
+    32.98353,
+    -5.51995,
+    32.98353
+],
+  "geometry": {"coordinates":[-5.51995,32.98353],"type":"Point"}
+}

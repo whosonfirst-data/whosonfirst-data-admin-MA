@@ -1,0 +1,72 @@
+{
+  "id": 1310416159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2286,29.82839,-9.2286,29.82839",
+    "geom:latitude":29.82839,
+    "geom:longitude":-9.2286,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Oulbane",
+    "gn:country_code":"MA",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539035,
+    "gn:latitude":29.82839,
+    "gn:longitude":-9.2286,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulbane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouelb\u00e8ne Anedrif",
+        "Oulbene",
+        "Oulbane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539035
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5284616bf8d778e046b237d6457dcdc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1310416159,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310416159,
+    "wof:lastmodified":1537663549,
+    "wof:name":"Oulbane",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2286,
+    29.82839,
+    -9.2286,
+    29.82839
+],
+  "geometry": {"coordinates":[-9.2286,29.82839],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209334901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29434,31.53113,-7.29434,31.53113",
+    "geom:latitude":31.53113,
+    "geom:longitude":-7.29434,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tamadout",
+    "gn:country_code":"MA",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354353,
+    "gn:latitude":31.53113,
+    "gn:longitude":-7.29434,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tamadout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354353
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a8259cdd5d61055b52a4b41c8af3989b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209334901
+        }
+    ],
+    "wof:id":1209334901,
+    "wof:lastmodified":1536290255,
+    "wof:name":"Tamadout",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.294339999999999,
+    31.53113,
+    -7.294339999999999,
+    31.53113
+],
+  "geometry": {"coordinates":[-7.29434,31.53113],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209525659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41575,31.3805,-8.41575,31.3805",
+    "geom:latitude":31.3805,
+    "geom:longitude":-8.41575,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tal'a Mennzou",
+    "gn:country_code":"MA",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531151,
+    "gn:latitude":31.3805,
+    "gn:longitude":-8.41575,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tal\u2019a Mennzou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tal\u00e2menzou",
+        "Talamennzou",
+        "Tal\u2019a Mennzou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531151
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5a05d695205d74eff87a9d12c82a88f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525659
+        }
+    ],
+    "wof:id":1209525659,
+    "wof:lastmodified":1537663459,
+    "wof:name":"Tal'a Mennzou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41575,
+    31.3805,
+    -8.41575,
+    31.3805
+],
+  "geometry": {"coordinates":[-8.41575,31.3805],"type":"Point"}
+}

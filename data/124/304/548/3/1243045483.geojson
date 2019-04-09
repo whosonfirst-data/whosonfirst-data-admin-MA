@@ -1,0 +1,71 @@
+{
+  "id": 1243045483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.37168,25.14276,-12.37168,25.14276",
+    "geom:latitude":25.14276,
+    "geom:longitude":-12.37168,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"121.0",
+    "gn:admin3_code":"212103012.0",
+    "gn:asciiname":"Gueltat Zemmour",
+    "gn:country_code":"MA",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9645313,
+    "gn:latitude":25.14276,
+    "gn:longitude":-12.37168,
+    "gn:modification_date":"2016-11-04",
+    "gn:name":"Gueltat Zemmour",
+    "gn:population":6740,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9645313,
+        "wk:page":"Guelta_Zemmur"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6d77510acca7c7364a8ce5485247fa78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1243045483,
+            "region_id":85673941
+        }
+    ],
+    "wof:id":1243045483,
+    "wof:lastmodified":1537568295,
+    "wof:name":"Gueltat Zemmour",
+    "wof:parent_id":85673941,
+    "wof:placetype":"locality",
+    "wof:population":6740,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.37168,
+    25.14276,
+    -12.37168,
+    25.14276
+],
+  "geometry": {"coordinates":[-12.37168,25.14276],"type":"Point"}
+}

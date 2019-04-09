@@ -1,0 +1,67 @@
+{
+  "id": 1226253107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.88,30.96,-5.88,30.96",
+    "geom:latitude":30.96,
+    "geom:longitude":-5.88,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Assaka n'Ilourhmane",
+    "gn:country_code":"MA",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556952,
+    "gn:latitude":30.96,
+    "gn:longitude":-5.88,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Assaka n\u2019Ilourhmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556952
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"30e4fe9c6c5bca48764fdf8a16de8aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1226253107,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226253107,
+    "wof:lastmodified":1536923638,
+    "wof:name":"Assaka n'Ilourhmane",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.88,
+    30.96,
+    -5.88,
+    30.96
+],
+  "geometry": {"coordinates":[-5.88,30.96],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243562635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.46215,34.55259,-2.46215,34.55259",
+    "geom:latitude":34.55259,
+    "geom:longitude":-2.46215,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dar El Aouri El Arbi",
+    "gn:country_code":"MA",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10998361,
+    "gn:latitude":34.55259,
+    "gn:longitude":-2.46215,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar El Aouri El Arbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10998361
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c01f8cb231f2c6da1f34239899c047c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "locality_id":1243562635,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243562635,
+    "wof:lastmodified":1536636857,
+    "wof:name":"Dar El Aouri El Arbi",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.46215,
+    34.55259,
+    -2.46215,
+    34.55259
+],
+  "geometry": {"coordinates":[-2.46215,34.55259],"type":"Point"}
+}

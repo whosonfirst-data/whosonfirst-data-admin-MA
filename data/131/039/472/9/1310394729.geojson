@@ -1,0 +1,67 @@
+{
+  "id": 1310394729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90898,30.09915,-8.90898,30.09915",
+    "geom:latitude":30.09915,
+    "geom:longitude":-8.90898,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait-ou-Amane",
+    "gn:country_code":"MA",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11142656,
+    "gn:latitude":30.09915,
+    "gn:longitude":-8.90898,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft-ou-Amane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11142656
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d82ecf4bd54fdcaf490facf3ea55258e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1310394729,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310394729,
+    "wof:lastmodified":1537073698,
+    "wof:name":"Ait-ou-Amane",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90898,
+    30.09915,
+    -8.90898,
+    30.09915
+],
+  "geometry": {"coordinates":[-8.90898,30.09915],"type":"Point"}
+}

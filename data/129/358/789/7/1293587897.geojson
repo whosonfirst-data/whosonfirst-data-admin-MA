@@ -1,0 +1,67 @@
+{
+  "id": 1293587897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.97801,32.82218,-5.97801,32.82218",
+    "geom:latitude":32.82218,
+    "geom:longitude":-5.97801,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Sadya",
+    "gn:country_code":"MA",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965684,
+    "gn:latitude":32.82218,
+    "gn:longitude":-5.97801,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft S\u00e2dya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965684
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b60ce40fd48a81e6da93fdb23d66174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1293587897,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293587897,
+    "wof:lastmodified":1536641553,
+    "wof:name":"Ait Sadya",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.97801,
+    32.82218,
+    -5.97801,
+    32.82218
+],
+  "geometry": {"coordinates":[-5.97801,32.82218],"type":"Point"}
+}

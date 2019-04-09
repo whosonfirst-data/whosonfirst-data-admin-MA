@@ -1,0 +1,67 @@
+{
+  "id": 1226138307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14201,29.82218,-9.14201,29.82218",
+    "geom:latitude":29.82218,
+    "geom:longitude":-9.14201,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tawdant",
+    "gn:country_code":"MA",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130636,
+    "gn:latitude":29.82218,
+    "gn:longitude":-9.14201,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tawdant",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130636
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1f81f10a3ec3d91bd6d3b638227ea074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1226138307,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226138307,
+    "wof:lastmodified":1537085279,
+    "wof:name":"Tawdant",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14201,
+    29.82218,
+    -9.14201,
+    29.82218
+],
+  "geometry": {"coordinates":[-9.14201,29.82218],"type":"Point"}
+}

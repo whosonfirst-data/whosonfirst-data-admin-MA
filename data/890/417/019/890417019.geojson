@@ -1,0 +1,77 @@
+{
+  "id": 890417019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31053,31.79112,-7.31053,31.79112",
+    "geom:latitude":31.79112,
+    "geom:longitude":-7.31053,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":9577,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0627 \u0639\u0645\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Choara"
+    ],
+    "name:fra_x_variant":[
+        "Choara (CR)",
+        "Choara (Commune Rurale)"
+    ],
+    "qs:name":"Choara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546271,
+        "qs:id":629398,
+        "wk:page":"Choara"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051176,
+    "wof:geomhash":"91d308ae2f31e3747084528b79595e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "localadmin_id":890417019,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890417019,
+    "wof:lastmodified":1527782125,
+    "wof:name":"Choara",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"localadmin",
+    "wof:population":9577,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31053,
+    31.79112,
+    -7.31053,
+    31.79112
+],
+  "geometry": {"coordinates":[-7.31053,31.79112],"type":"Point"}
+}

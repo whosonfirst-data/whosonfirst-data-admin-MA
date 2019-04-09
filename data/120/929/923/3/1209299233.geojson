@@ -1,0 +1,66 @@
+{
+  "id": 1209299233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31194,31.25877,-7.31194,31.25877",
+    "geom:latitude":31.25877,
+    "geom:longitude":-7.31194,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tignidart",
+    "gn:country_code":"MA",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528454,
+    "gn:latitude":31.25877,
+    "gn:longitude":-7.31194,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tignidart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiguidart",
+        "Tiguidert",
+        "Tignidart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528454
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"10bdd038cf770171df1d0099a9ad36e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209299233
+        }
+    ],
+    "wof:id":1209299233,
+    "wof:lastmodified":1537663386,
+    "wof:name":"Tignidart",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31194,
+    31.25877,
+    -7.31194,
+    31.25877
+],
+  "geometry": {"coordinates":[-7.31194,31.25877],"type":"Point"}
+}

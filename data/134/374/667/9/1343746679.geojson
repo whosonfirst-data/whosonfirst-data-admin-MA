@@ -1,0 +1,72 @@
+{
+  "id": 1343746679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.46678,31.96807,-4.46678,31.96807",
+    "geom:latitude":31.96807,
+    "geom:longitude":-4.46678,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mouch Qellal",
+    "gn:country_code":"MA",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541963,
+    "gn:latitude":31.96807,
+    "gn:longitude":-4.46678,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Mouch Qellal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mouchkallal",
+        "Mouch Kellal",
+        "Mouch Qellal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541963
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f87ac70ce17d69e497f5551306cbed79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1343746679,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343746679,
+    "wof:lastmodified":1537663647,
+    "wof:name":"Mouch Qellal",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.46678,
+    31.96807,
+    -4.46678,
+    31.96807
+],
+  "geometry": {"coordinates":[-4.46678,31.96807],"type":"Point"}
+}

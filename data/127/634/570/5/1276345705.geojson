@@ -1,0 +1,72 @@
+{
+  "id": 1276345705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.45418,35.04427,-3.45418,35.04427",
+    "geom:latitude":35.04427,
+    "geom:longitude":-3.45418,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ben Taieb",
+    "gn:country_code":"MA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555504,
+    "gn:latitude":35.04427,
+    "gn:longitude":-3.45418,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ben Taieb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben-Tib",
+        "Ben Tieb",
+        "Ben Taieb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555504
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"538470aeb59f9324a50651cf344fe4c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1276345705,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1276345705,
+    "wof:lastmodified":1537664065,
+    "wof:name":"Ben Taieb",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.45418,
+    35.04427,
+    -3.45418,
+    35.04427
+],
+  "geometry": {"coordinates":[-3.45418,35.04427],"type":"Point"}
+}

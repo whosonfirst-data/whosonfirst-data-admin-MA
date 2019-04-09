@@ -1,0 +1,67 @@
+{
+  "id": 1326736675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58926,33.50171,-5.58926,33.50171",
+    "geom:latitude":33.50171,
+    "geom:longitude":-5.58926,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ait Lemsafer",
+    "gn:country_code":"MA",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970641,
+    "gn:latitude":33.50171,
+    "gn:longitude":-5.58926,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Lemsafer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970641
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eae246f4d2d12c32ca336df3fcc6733f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1326736675,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1326736675,
+    "wof:lastmodified":1536689368,
+    "wof:name":"Douar Ait Lemsafer",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58926,
+    33.50171,
+    -5.58926,
+    33.50171
+],
+  "geometry": {"coordinates":[-5.58926,33.50171],"type":"Point"}
+}

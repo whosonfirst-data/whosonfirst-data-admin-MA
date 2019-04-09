@@ -1,0 +1,66 @@
+{
+  "id": 1309813823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.833,31.523,-7.833,31.523",
+    "geom:latitude":31.523,
+    "geom:longitude":-7.833,
+    "gn:asciiname":"Sidi Abdallah Ghiat",
+    "gn:country_code":"MA",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8504942,
+    "gn:latitude":31.523,
+    "gn:longitude":-7.833,
+    "gn:modification_date":"2013-03-28",
+    "gn:name":"Sidi Abdallah Ghiat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504942
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0ff24ec822cb015b716e843285729830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1309813823,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309813823,
+    "wof:lastmodified":1536920037,
+    "wof:name":"Sidi Abdallah Ghiat",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.833,
+    31.523,
+    -7.833,
+    31.523
+],
+  "geometry": {"coordinates":[-7.833,31.523],"type":"Point"}
+}

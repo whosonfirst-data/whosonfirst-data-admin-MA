@@ -1,0 +1,73 @@
+{
+  "id": 1243569341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.81407,35.49309,-5.81407,35.49309",
+    "geom:latitude":35.49309,
+    "geom:longitude":-5.81407,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lgour",
+    "gn:country_code":"MA",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550391,
+    "gn:latitude":35.49309,
+    "gn:longitude":-5.81407,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lgour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gour",
+        "Kour",
+        "El Gour",
+        "Lgour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550391
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6a30f8070bbf36e8b4148e670572ac32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1243569341,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243569341,
+    "wof:lastmodified":1537663879,
+    "wof:name":"Lgour",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.81407,
+    35.49309,
+    -5.81407,
+    35.49309
+],
+  "geometry": {"coordinates":[-5.81407,35.49309],"type":"Point"}
+}

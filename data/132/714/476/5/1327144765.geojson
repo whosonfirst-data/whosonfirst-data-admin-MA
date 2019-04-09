@@ -1,0 +1,74 @@
+{
+  "id": 1327144765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.91074,29.33056,-9.91074,29.33056",
+    "geom:latitude":29.33056,
+    "geom:longitude":-9.91074,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tirhissit",
+    "gn:country_code":"MA",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527578,
+    "gn:latitude":29.33056,
+    "gn:longitude":-9.91074,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tirhissit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igourramene",
+        "Tiguisit Igurramen",
+        "Tighissif Igourramene",
+        "Tirhissit Igourramene",
+        "Tirhissit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527578
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ccc820ba70046c7eeb914bd8a8620485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1327144765,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327144765,
+    "wof:lastmodified":1537663359,
+    "wof:name":"Tirhissit",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.91074,
+    29.33056,
+    -9.91074,
+    29.33056
+],
+  "geometry": {"coordinates":[-9.91074,29.33056],"type":"Point"}
+}

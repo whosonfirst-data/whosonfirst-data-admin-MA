@@ -1,0 +1,67 @@
+{
+  "id": 1226757945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1224,31.92311,-9.1224,31.92311",
+    "geom:latitude":31.92311,
+    "geom:longitude":-9.1224,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Oulad El Mekki",
+    "gn:country_code":"MA",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10912159,
+    "gn:latitude":31.92311,
+    "gn:longitude":-9.1224,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Oulad El Mekki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10912159
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"09f9bb5f8d0b7adc2c0ba7543a878682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1226757945,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226757945,
+    "wof:lastmodified":1536698150,
+    "wof:name":"Oulad El Mekki",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1224,
+    31.92311,
+    -9.1224,
+    31.92311
+],
+  "geometry": {"coordinates":[-9.1224,31.92311],"type":"Point"}
+}

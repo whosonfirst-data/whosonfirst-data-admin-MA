@@ -1,0 +1,71 @@
+{
+  "id": 1277089289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96,31.9,-6.96,31.9",
+    "geom:latitude":31.9,
+    "geom:longitude":-6.96,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Oumres",
+    "gn:country_code":"MA",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559248,
+    "gn:latitude":31.9,
+    "gn:longitude":-6.96,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Oumres",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takoust",
+        "A\u00eft Oumres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559248
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ad4a3a4e7747f954e06b711579cc8c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1277089289,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1277089289,
+    "wof:lastmodified":1537664160,
+    "wof:name":"Ait Oumres",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96,
+    31.9,
+    -6.96,
+    31.9
+],
+  "geometry": {"coordinates":[-6.96,31.9],"type":"Point"}
+}

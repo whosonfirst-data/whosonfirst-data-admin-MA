@@ -1,0 +1,72 @@
+{
+  "id": 1293794193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.06,30.4,-7.06,30.4",
+    "geom:latitude":30.4,
+    "geom:longitude":-7.06,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ouinijgat",
+    "gn:country_code":"MA",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540532,
+    "gn:latitude":30.4,
+    "gn:longitude":-7.06,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouinijgat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouinetjgal",
+        "Ouimjgat",
+        "Ouinijgat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540532
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4208f08696b930231768c2d4a7ac66d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1293794193,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293794193,
+    "wof:lastmodified":1537663624,
+    "wof:name":"Ouinijgat",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.06,
+    30.4,
+    -7.06,
+    30.4
+],
+  "geometry": {"coordinates":[-7.06,30.4],"type":"Point"}
+}

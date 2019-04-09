@@ -1,0 +1,67 @@
+{
+  "id": 1293186799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.53673,31.82158,-7.53673,31.82158",
+    "geom:latitude":31.82158,
+    "geom:longitude":-7.53673,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Qibal",
+    "gn:country_code":"MA",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10427481,
+    "gn:latitude":31.82158,
+    "gn:longitude":-7.53673,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Qibal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10427481
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"68a1c3c67d922d34f9faa8afb0386e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1293186799,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293186799,
+    "wof:lastmodified":1536723983,
+    "wof:name":"Douar Qibal",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53673,
+    31.82158,
+    -7.53673,
+    31.82158
+],
+  "geometry": {"coordinates":[-7.53673,31.82158],"type":"Point"}
+}

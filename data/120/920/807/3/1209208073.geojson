@@ -1,0 +1,61 @@
+{
+  "id": 1209208073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9878,32.49072,-7.9878,32.49072",
+    "geom:latitude":32.49072,
+    "geom:longitude":-7.9878,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad Amar",
+    "gn:country_code":"MA",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794928,
+    "gn:latitude":32.49072,
+    "gn:longitude":-7.9878,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794928
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"97ae8967924069f74bfec8474760d5e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209208073
+        }
+    ],
+    "wof:id":1209208073,
+    "wof:lastmodified":1536294385,
+    "wof:name":"Douar Oulad Amar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9878,
+    32.49072,
+    -7.9878,
+    32.49072
+],
+  "geometry": {"coordinates":[-7.9878,32.49072],"type":"Point"}
+}

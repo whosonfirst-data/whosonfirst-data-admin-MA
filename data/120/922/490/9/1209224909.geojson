@@ -1,0 +1,64 @@
+{
+  "id": 1209224909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93434,31.06644,-8.93434,31.06644",
+    "geom:latitude":31.06644,
+    "geom:longitude":-8.93434,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Azendou",
+    "gn:country_code":"MA",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561534,
+    "gn:latitude":31.06644,
+    "gn:longitude":-8.93434,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Azendou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agendoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561534
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c5fb81aa43bd8ba5469bce716190c416",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224909
+        }
+    ],
+    "wof:id":1209224909,
+    "wof:lastmodified":1537664239,
+    "wof:name":"Azendou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93434,
+    31.06644,
+    -8.93434,
+    31.06644
+],
+  "geometry": {"coordinates":[-8.93434,31.06644],"type":"Point"}
+}

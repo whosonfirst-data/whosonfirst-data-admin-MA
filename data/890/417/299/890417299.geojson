@@ -1,0 +1,75 @@
+{
+  "id": 890417299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.60133,33.03439,-5.60133,33.03439",
+    "geom:latitude":33.03439,
+    "geom:longitude":-5.60133,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":4973,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u062d\u0633\u064a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Elborj"
+    ],
+    "name:fra_x_variant":[
+        "Elborj (CR)",
+        "Elborj (Commune Rurale)"
+    ],
+    "qs:name":"Elborj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546959,
+        "qs:id":630043
+    },
+    "wof:country":"MA",
+    "wof:created":1469051194,
+    "wof:geomhash":"942d41350cd2277ed56d9c59766972e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "localadmin_id":890417299,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890417299,
+    "wof:lastmodified":1505343438,
+    "wof:name":"Elborj",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"localadmin",
+    "wof:population":4973,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.60133,
+    33.03439,
+    -5.60133,
+    33.03439
+],
+  "geometry": {"coordinates":[-5.60133,33.03439],"type":"Point"}
+}

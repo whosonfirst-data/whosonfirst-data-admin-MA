@@ -1,0 +1,74 @@
+{
+  "id": 1226550129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.37488,35.17902,-5.37488,35.17902",
+    "geom:latitude":35.17902,
+    "geom:longitude":-5.37488,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Kourdad",
+    "gn:country_code":"MA",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544126,
+    "gn:latitude":35.17902,
+    "gn:longitude":-5.37488,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Kourdad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aatamanine",
+        "Kourdad",
+        "Kouidad",
+        "Kordad",
+        "Douar Kourdad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544126
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f70979bb38fd4a47db3f33939520712b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1226550129,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226550129,
+    "wof:lastmodified":1537663689,
+    "wof:name":"Douar Kourdad",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.37488,
+    35.17902,
+    -5.37488,
+    35.17902
+],
+  "geometry": {"coordinates":[-5.37488,35.17902],"type":"Point"}
+}

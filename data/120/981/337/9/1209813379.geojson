@@ -1,0 +1,71 @@
+{
+  "id": 1209813379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50172,32.33023,-6.50172,32.33023",
+    "geom:latitude":32.33023,
+    "geom:longitude":-6.50172,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Douar La'yayta",
+    "gn:country_code":"MA",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560975,
+    "gn:latitude":32.33023,
+    "gn:longitude":-6.50172,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Douar La\u2019yayta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar La\u2019yayta",
+        "A\u00efaeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560975
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a65262ba9d0bcf7e33d38afa6891f1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1209813379,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1209813379,
+    "wof:lastmodified":1537664225,
+    "wof:name":"Douar La'yayta",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50172,
+    32.33023,
+    -6.50172,
+    32.33023
+],
+  "geometry": {"coordinates":[-6.50172,32.33023],"type":"Point"}
+}

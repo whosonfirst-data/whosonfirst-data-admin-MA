@@ -1,0 +1,71 @@
+{
+  "id": 1343672095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.91596,35.0351,-3.91596,35.0351",
+    "geom:latitude":35.0351,
+    "geom:longitude":-3.91596,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ait Taa",
+    "gn:country_code":"MA",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559011,
+    "gn:latitude":35.0351,
+    "gn:longitude":-3.91596,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Taa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ta\u00e2a",
+        "A\u00eft Taa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559011
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6264365adadcf30621ac17c2293c6ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1343672095,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343672095,
+    "wof:lastmodified":1537664151,
+    "wof:name":"Ait Taa",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.91596,
+    35.0351,
+    -3.91596,
+    35.0351
+],
+  "geometry": {"coordinates":[-3.91596,35.0351],"type":"Point"}
+}

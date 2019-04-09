@@ -1,0 +1,61 @@
+{
+  "id": 1209247231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52889,34.36885,-6.52889,34.36885",
+    "geom:latitude":34.36885,
+    "geom:longitude":-6.52889,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Lhaj Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921266,
+    "gn:latitude":34.36885,
+    "gn:longitude":-6.52889,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Lhaj Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921266
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"216d06c5760c968632bbe93d3d471787",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209247231
+        }
+    ],
+    "wof:id":1209247231,
+    "wof:lastmodified":1536293122,
+    "wof:name":"Oulad Lhaj Ahmed",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5288900000000005,
+    34.36885,
+    -6.5288900000000005,
+    34.36885
+],
+  "geometry": {"coordinates":[-6.52889,34.36885],"type":"Point"}
+}

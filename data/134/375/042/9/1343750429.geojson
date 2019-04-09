@@ -1,0 +1,67 @@
+{
+  "id": 1343750429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.917,29.27254,-9.917,29.27254",
+    "geom:latitude":29.27254,
+    "geom:longitude":-9.917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Id Hammouch",
+    "gn:country_code":"MA",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100716,
+    "gn:latitude":29.27254,
+    "gn:longitude":-9.917,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Hammouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100716
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"74b610b60ce85ab93d7645602460397e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1343750429,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343750429,
+    "wof:lastmodified":1536824469,
+    "wof:name":"Id Hammouch",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.917,
+    29.27254000000001,
+    -9.917,
+    29.27254000000001
+],
+  "geometry": {"coordinates":[-9.917,29.27254000000001],"type":"Point"}
+}

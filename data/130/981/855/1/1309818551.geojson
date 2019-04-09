@@ -1,0 +1,71 @@
+{
+  "id": 1309818551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.92428,30.88791,-7.92428,30.88791",
+    "geom:latitude":30.88791,
+    "geom:longitude":-7.92428,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tifkilt",
+    "gn:country_code":"MA",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528660,
+    "gn:latitude":30.88791,
+    "gn:longitude":-7.92428,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tifkilt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tifkilte",
+        "Tifkilt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528660
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5214f7d41e2754d820e29f4459f4728d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1309818551,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309818551,
+    "wof:lastmodified":1537663391,
+    "wof:name":"Tifkilt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.92428,
+    30.88791,
+    -7.92428,
+    30.88791
+],
+  "geometry": {"coordinates":[-7.92428,30.88791],"type":"Point"}
+}

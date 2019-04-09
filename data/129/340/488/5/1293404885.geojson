@@ -1,0 +1,81 @@
+{
+  "id": 1293404885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58543,35.56661,-5.58543,35.56661",
+    "geom:latitude":35.56661,
+    "geom:longitude":-5.58543,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Fandeq El Ain Jdida",
+    "gn:country_code":"MA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549031,
+    "gn:latitude":35.56661,
+    "gn:longitude":-5.58543,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Fandeq El Ain Jdida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ain Djedida",
+        "Fondak de ain Yedide",
+        "El Fendal",
+        "Fondak de Ain Yedida",
+        "El Fendek",
+        "Fondak d\u2019A\u00efn Jedida",
+        "El \u2019Ain Jdida",
+        "Fondak",
+        "El Fondac",
+        "Fondouk A\u00efn Djedida",
+        "Fandak el A\u00efn ej Jdida",
+        "Douar Fandeq El Ain Jdida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549031
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e43ce2b843693c5927eb86d248c884e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1293404885,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293404885,
+    "wof:lastmodified":1537663821,
+    "wof:name":"Douar Fandeq El Ain Jdida",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58543,
+    35.56661,
+    -5.58543,
+    35.56661
+],
+  "geometry": {"coordinates":[-5.58543,35.56661],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343772235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.7082,34.81575,-5.7082,34.81575",
+    "geom:latitude":34.81575,
+    "geom:longitude":-5.7082,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Bouziri",
+    "gn:country_code":"MA",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551449,
+    "gn:latitude":34.81575,
+    "gn:longitude":-5.7082,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bouziri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bousiri",
+        "Oulad Bou Ziri",
+        "Douar Oulad Bou Ziri",
+        "Douar Bouziri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551449
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"33410b742ca3c313d9730209be5154d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1343772235,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343772235,
+    "wof:lastmodified":1537663939,
+    "wof:name":"Douar Bouziri",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7082,
+    34.81575,
+    -5.7082,
+    34.81575
+],
+  "geometry": {"coordinates":[-5.7082,34.81575],"type":"Point"}
+}

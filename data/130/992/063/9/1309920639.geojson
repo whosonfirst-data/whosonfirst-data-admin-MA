@@ -1,0 +1,68 @@
+{
+  "id": 1309920639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.22274,28.96936,-10.22274,28.96936",
+    "geom:latitude":28.96936,
+    "geom:longitude":-10.22274,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Legzazma",
+    "gn:country_code":"MA",
+    "gn:dem":197,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2564897,
+    "gn:latitude":28.96936,
+    "gn:longitude":-10.22274,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Legzazma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2564897
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8328aa4db36752ea8458814055f86644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1309920639,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1309920639,
+    "wof:lastmodified":1536765845,
+    "wof:name":"Legzazma",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.22274,
+    28.96936,
+    -10.22274,
+    28.96936
+],
+  "geometry": {"coordinates":[-10.22274,28.96936],"type":"Point"}
+}

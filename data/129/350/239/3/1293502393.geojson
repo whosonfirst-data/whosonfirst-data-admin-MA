@@ -1,0 +1,67 @@
+{
+  "id": 1293502393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.95,34.98,-4.95,34.98",
+    "geom:latitude":34.98,
+    "geom:longitude":-4.95,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bou gait",
+    "gn:country_code":"MA",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554916,
+    "gn:latitude":34.98,
+    "gn:longitude":-4.95,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou ga\u00eft",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554916
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a201148443a805ac30930c5e5967101c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1293502393,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293502393,
+    "wof:lastmodified":1536765856,
+    "wof:name":"Bou gait",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.95,
+    34.98,
+    -4.95,
+    34.98
+],
+  "geometry": {"coordinates":[-4.95,34.98],"type":"Point"}
+}

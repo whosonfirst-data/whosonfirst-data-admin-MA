@@ -1,0 +1,67 @@
+{
+  "id": 1242592487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.16859,35.36393,-5.16859,35.36393",
+    "geom:latitude":35.36393,
+    "geom:longitude":-5.16859,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Khokh",
+    "gn:country_code":"MA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549853,
+    "gn:latitude":35.36393,
+    "gn:longitude":-5.16859,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Khokh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549853
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e0f25f0a8fdd1a6c99a9b9d4e9f2a887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1242592487,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242592487,
+    "wof:lastmodified":1537040404,
+    "wof:name":"El Khokh",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.16859,
+    35.36393,
+    -5.16859,
+    35.36393
+],
+  "geometry": {"coordinates":[-5.16859,35.36393],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309818559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96684,31.72251,-7.96684,31.72251",
+    "geom:latitude":31.72251,
+    "geom:longitude":-7.96684,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Khalifa Ben Mbarek",
+    "gn:country_code":"MA",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551613,
+    "gn:latitude":31.72251,
+    "gn:longitude":-7.96684,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Khalifa Ben Mbarek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azbane khalif Mbarek",
+        "Douar Menabba",
+        "Khalifa ben Mbarek",
+        "Douar Khalifa Ben Mbarek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551613
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3a395abf6bb0c72e19f04f1b983747bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1309818559,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309818559,
+    "wof:lastmodified":1537663952,
+    "wof:name":"Douar Khalifa Ben Mbarek",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96684,
+    31.72251,
+    -7.96684,
+    31.72251
+],
+  "geometry": {"coordinates":[-7.96684,31.72251],"type":"Point"}
+}

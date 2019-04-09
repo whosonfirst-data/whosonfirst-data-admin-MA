@@ -1,0 +1,61 @@
+{
+  "id": 1209422941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.50358,35.07885,-3.50358,35.07885",
+    "geom:latitude":35.07885,
+    "geom:longitude":-3.50358,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Iaddaouyene",
+    "gn:country_code":"MA",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999387,
+    "gn:latitude":35.07885,
+    "gn:longitude":-3.50358,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Iaddaouyene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999387
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9f3189f53127ea99bea135638b2ccf29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209422941
+        }
+    ],
+    "wof:id":1209422941,
+    "wof:lastmodified":1536287471,
+    "wof:name":"Douar Iaddaouyene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5035800000000004,
+    35.07885,
+    -3.5035800000000004,
+    35.07885
+],
+  "geometry": {"coordinates":[-3.50358,35.07885],"type":"Point"}
+}

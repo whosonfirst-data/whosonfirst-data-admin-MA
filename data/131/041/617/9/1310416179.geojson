@@ -1,0 +1,72 @@
+{
+  "id": 1310416179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.40983,34.85589,-5.40983,34.85589",
+    "geom:latitude":34.85589,
+    "geom:longitude":-5.40983,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Halaoua",
+    "gn:country_code":"MA",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551672,
+    "gn:latitude":34.85589,
+    "gn:longitude":-5.40983,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Halaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halaoua",
+        "Hlaoua",
+        "Douar Halaoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551672
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9881efb70f7089b9fec184a8857d3508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1310416179,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310416179,
+    "wof:lastmodified":1537663957,
+    "wof:name":"Douar Halaoua",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.40983,
+    34.85589,
+    -5.40983,
+    34.85589
+],
+  "geometry": {"coordinates":[-5.40983,34.85589],"type":"Point"}
+}

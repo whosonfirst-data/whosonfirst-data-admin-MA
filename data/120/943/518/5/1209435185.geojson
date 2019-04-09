@@ -1,0 +1,61 @@
+{
+  "id": 1209435185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55412,31.64106,-7.55412,31.64106",
+    "geom:latitude":31.64106,
+    "geom:longitude":-7.55412,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad Abacha",
+    "gn:country_code":"MA",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10910119,
+    "gn:latitude":31.64106,
+    "gn:longitude":-7.55412,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Abacha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10910119
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1ce64d720baea2e2cc303939fa04ff1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209435185
+        }
+    ],
+    "wof:id":1209435185,
+    "wof:lastmodified":1536287125,
+    "wof:name":"Douar Oulad Abacha",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.554119999999998,
+    31.64106,
+    -7.554119999999998,
+    31.64106
+],
+  "geometry": {"coordinates":[-7.55412,31.64106],"type":"Point"}
+}

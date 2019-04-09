@@ -1,0 +1,88 @@
+{
+  "id": 1125299487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99117,31.60167,-7.99117,31.60167",
+    "geom:latitude":31.60167,
+    "geom:longitude":-7.99117,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":166711,
+    "gn:population":166711,
+    "iso:country":"MA",
+    "lbl:latitude":31.60167,
+    "lbl:longitude":-7.99117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0623\u0648\u0644\u0627\u062f \u0627\u062d\u0631\u064a\u0632 \u0627\u0644\u0633\u0627\u062d\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Marrakech-Medina"
+    ],
+    "name:fra_x_variant":[
+        "Marrakech-Medina (AR)",
+        "Marrakech-Medina (Arrondissement)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546896,
+    "qs_pg:gn_pop":166711,
+    "qs_pg:name":"Marrakech-Medina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":629979,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546896,
+        "qs_pg:id":629979
+    },
+    "wof:country":"MA",
+    "wof:created":1497043345,
+    "wof:geomhash":"cb4e8804ea66a36be956db71e24bbabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "localadmin_id":1125299487,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125299487,
+    "wof:lastmodified":1509387682,
+    "wof:name":"Marrakech-Medina",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"localadmin",
+    "wof:population":166711,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99117,
+    31.60167,
+    -7.99117,
+    31.60167
+],
+  "geometry": {"coordinates":[-7.99117,31.60167],"type":"Point"}
+}

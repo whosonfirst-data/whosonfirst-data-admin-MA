@@ -1,0 +1,73 @@
+{
+  "id": 1343876847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.85479,32.30433,-8.85479,32.30433",
+    "geom:latitude":32.30433,
+    "geom:longitude":-8.85479,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Jadyane",
+    "gn:country_code":"MA",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545121,
+    "gn:latitude":32.30433,
+    "gn:longitude":-8.85479,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jadyane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Jediane",
+        "Jedian",
+        "Jediane",
+        "Jadyane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545121
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0819ea41ee3845466e50beb713cf16b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1343876847,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343876847,
+    "wof:lastmodified":1537663713,
+    "wof:name":"Jadyane",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.85479,
+    32.30433,
+    -8.85479,
+    32.30433
+],
+  "geometry": {"coordinates":[-8.85479,32.30433],"type":"Point"}
+}

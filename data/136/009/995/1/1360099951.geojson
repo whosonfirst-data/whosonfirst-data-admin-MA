@@ -1,0 +1,72 @@
+{
+  "id": 1360099951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.22639,34.68386,-5.22639,34.68386",
+    "geom:latitude":34.68386,
+    "geom:longitude":-5.22639,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Hafat Ezzouraq",
+    "gn:country_code":"MA",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548310,
+    "gn:latitude":34.68386,
+    "gn:longitude":-5.22639,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Hafat Ezzouraq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jourak",
+        "Hafa Zourak",
+        "Douar Hafat Ezzouraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548310
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a8e390d20a21d0fd4b76a17b27fede02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1360099951,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1360099951,
+    "wof:lastmodified":1537663808,
+    "wof:name":"Douar Hafat Ezzouraq",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.22639,
+    34.68386,
+    -5.22639,
+    34.68386
+],
+  "geometry": {"coordinates":[-5.22639,34.68386],"type":"Point"}
+}

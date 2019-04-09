@@ -1,0 +1,67 @@
+{
+  "id": 1343843897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.80729,31.12231,-9.80729,31.12231",
+    "geom:latitude":31.12231,
+    "geom:longitude":-9.80729,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cooperative D Argane",
+    "gn:country_code":"MA",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10427892,
+    "gn:latitude":31.12231,
+    "gn:longitude":-9.80729,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Coop\u00e9rative D Argane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10427892
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c11b3a0312a15f0903c4caab7f438ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1343843897,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343843897,
+    "wof:lastmodified":1536690649,
+    "wof:name":"Cooperative D Argane",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.80729,
+    31.12231,
+    -9.80729,
+    31.12231
+],
+  "geometry": {"coordinates":[-9.80729,31.12231],"type":"Point"}
+}

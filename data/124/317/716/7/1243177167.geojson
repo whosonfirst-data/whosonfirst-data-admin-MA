@@ -1,0 +1,67 @@
+{
+  "id": 1243177167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.84969,33.85667,-6.84969,33.85667",
+    "geom:latitude":33.85667,
+    "geom:longitude":-6.84969,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bassaline El Menzen",
+    "gn:country_code":"MA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940577,
+    "gn:latitude":33.85667,
+    "gn:longitude":-6.84969,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bassaline El Menzen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940577
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cd0e6c8cbf56b42263bec0a223df2eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1243177167,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1243177167,
+    "wof:lastmodified":1536696963,
+    "wof:name":"Bassaline El Menzen",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84969,
+    33.85667,
+    -6.84969,
+    33.85667
+],
+  "geometry": {"coordinates":[-6.84969,33.85667],"type":"Point"}
+}

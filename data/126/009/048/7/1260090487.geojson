@@ -1,0 +1,71 @@
+{
+  "id": 1260090487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06608,32.88981,-5.06608,32.88981",
+    "geom:latitude":32.88981,
+    "geom:longitude":-5.06608,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tichout",
+    "gn:country_code":"MA",
+    "gn:dem":1669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528805,
+    "gn:latitude":32.88981,
+    "gn:longitude":-5.06608,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tichout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tichoute",
+        "Tichout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528805
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f1065d3ac1e36ff88b7b17f81d9f87e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1260090487,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1260090487,
+    "wof:lastmodified":1537663395,
+    "wof:name":"Tichout",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06608,
+    32.88981,
+    -5.06608,
+    32.88981
+],
+  "geometry": {"coordinates":[-5.06608,32.88981],"type":"Point"}
+}

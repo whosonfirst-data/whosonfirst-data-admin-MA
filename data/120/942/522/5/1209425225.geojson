@@ -1,0 +1,65 @@
+{
+  "id": 1209425225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.20693,35.07293,-3.20693,35.07293",
+    "geom:latitude":35.07293,
+    "geom:longitude":-3.20693,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amar Lahsene",
+    "gn:country_code":"MA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558265,
+    "gn:latitude":35.07293,
+    "gn:longitude":-3.20693,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Amar Lahsene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amar Lahsen",
+        "Amar Lahsene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558265
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d0c1643bb9a37a69b42ee3de10013ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425225
+        }
+    ],
+    "wof:id":1209425225,
+    "wof:lastmodified":1537664133,
+    "wof:name":"Amar Lahsene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.20693,
+    35.07293,
+    -3.20693,
+    35.07293
+],
+  "geometry": {"coordinates":[-3.20693,35.07293],"type":"Point"}
+}

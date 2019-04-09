@@ -1,0 +1,67 @@
+{
+  "id": 1193268281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.2738,31.2909,-7.2738,31.2909",
+    "geom:latitude":31.2909,
+    "geom:longitude":-7.2738,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Aqouji",
+    "gn:country_code":"MA",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354158,
+    "gn:latitude":31.2909,
+    "gn:longitude":-7.2738,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Aqouji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354158
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"011ec1c4412b45d9f81f5b8ad6671f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1193268281,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1193268281,
+    "wof:lastmodified":1536373485,
+    "wof:name":"Aqouji",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.2738,
+    31.2909,
+    -7.2738,
+    31.2909
+],
+  "geometry": {"coordinates":[-7.2738,31.2909],"type":"Point"}
+}

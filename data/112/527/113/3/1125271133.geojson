@@ -1,0 +1,88 @@
+{
+  "id": 1125271133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.35235,34.22514,-3.35235,34.22514",
+    "geom:latitude":34.22514,
+    "geom:longitude":-3.35235,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":56526,
+    "gn:population":56526,
+    "iso:country":"MA",
+    "lbl:latitude":34.22514,
+    "lbl:longitude":-3.35235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0633\u064a\u0641 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Guercif"
+    ],
+    "name:fra_x_variant":[
+        "Guercif (MU)",
+        "Guercif (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547086,
+    "qs_pg:gn_pop":56526,
+    "qs_pg:name":"Guercif",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":630168,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547086,
+        "qs_pg:id":630168
+    },
+    "wof:country":"MA",
+    "wof:created":1497042133,
+    "wof:geomhash":"431e7c46b7bcec8b8f7f19d9b2fbb20e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "localadmin_id":1125271133,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125271133,
+    "wof:lastmodified":1509387021,
+    "wof:name":"Guercif",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"localadmin",
+    "wof:population":56526,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.35235,
+    34.22514,
+    -3.35235,
+    34.22514
+],
+  "geometry": {"coordinates":[-3.35235,34.22514],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209011411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.25163,33.75168,-5.25163,33.75168",
+    "geom:latitude":33.75168,
+    "geom:longitude":-5.25163,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dar Llassi Lhadi",
+    "gn:country_code":"MA",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024643,
+    "gn:latitude":33.75168,
+    "gn:longitude":-5.25163,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Llassi Lhadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024643
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2f3ba5a0f2301a6bfb79739961b29e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209011411
+        }
+    ],
+    "wof:id":1209011411,
+    "wof:lastmodified":1536300434,
+    "wof:name":"Dar Llassi Lhadi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2516300000000005,
+    33.75168,
+    -5.2516300000000005,
+    33.75168
+],
+  "geometry": {"coordinates":[-5.25163,33.75168],"type":"Point"}
+}

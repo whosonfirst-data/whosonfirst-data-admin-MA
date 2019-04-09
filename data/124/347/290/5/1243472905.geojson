@@ -1,0 +1,67 @@
+{
+  "id": 1243472905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62056,30.85853,-8.62056,30.85853",
+    "geom:latitude":30.85853,
+    "geom:longitude":-8.62056,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tarkout",
+    "gn:country_code":"MA",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529672,
+    "gn:latitude":30.85853,
+    "gn:longitude":-8.62056,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tarkout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529672
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5e26ec52c2dcb297db599bcc487000e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1243472905,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1243472905,
+    "wof:lastmodified":1536767837,
+    "wof:name":"Tarkout",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62056,
+    30.85853,
+    -8.62056,
+    30.85853
+],
+  "geometry": {"coordinates":[-8.62056,30.85853],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343772313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.80589,32.1408,-8.80589,32.1408",
+    "geom:latitude":32.1408,
+    "geom:longitude":-8.80589,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Midat",
+    "gn:country_code":"MA",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542228,
+    "gn:latitude":32.1408,
+    "gn:longitude":-8.80589,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Midat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Midate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542228
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e014d6f97197dadb4b90ca8732421c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1343772313,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343772313,
+    "wof:lastmodified":1537663651,
+    "wof:name":"El Midat",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.80589,
+    32.1408,
+    -8.80589,
+    32.1408
+],
+  "geometry": {"coordinates":[-8.80589,32.1408],"type":"Point"}
+}

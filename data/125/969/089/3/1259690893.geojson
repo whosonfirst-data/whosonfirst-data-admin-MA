@@ -1,0 +1,67 @@
+{
+  "id": 1259690893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.04275,33.78741,-5.04275,33.78741",
+    "geom:latitude":33.78741,
+    "geom:longitude":-5.04275,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Makinet Doum",
+    "gn:country_code":"MA",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10848422,
+    "gn:latitude":33.78741,
+    "gn:longitude":-5.04275,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Makinet Doum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10848422
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2f391d18bac1f4428a6b8c128678e985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1259690893,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1259690893,
+    "wof:lastmodified":1537053945,
+    "wof:name":"Makinet Doum",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.04275,
+    33.78740999999999,
+    -5.04275,
+    33.78740999999999
+],
+  "geometry": {"coordinates":[-5.04275,33.78740999999999],"type":"Point"}
+}

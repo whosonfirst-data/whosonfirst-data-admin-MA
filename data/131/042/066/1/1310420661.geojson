@@ -1,0 +1,67 @@
+{
+  "id": 1310420661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.32415,31.6332,-5.32415,31.6332",
+    "geom:latitude":31.6332,
+    "geom:longitude":-5.32415,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tarhia",
+    "gn:country_code":"MA",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529809,
+    "gn:latitude":31.6332,
+    "gn:longitude":-5.32415,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tarhia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529809
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"157f0893a3406f9b1fe98c1e8af0700e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1310420661,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1310420661,
+    "wof:lastmodified":1537037687,
+    "wof:name":"Tarhia",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.32415,
+    31.6332,
+    -5.32415,
+    31.6332
+],
+  "geometry": {"coordinates":[-5.32415,31.6332],"type":"Point"}
+}

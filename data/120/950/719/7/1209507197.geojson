@@ -1,0 +1,61 @@
+{
+  "id": 1209507197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50046,32.77935,-7.50046,32.77935",
+    "geom:latitude":32.77935,
+    "geom:longitude":-7.50046,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad El Haj Abbes",
+    "gn:country_code":"MA",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11434318,
+    "gn:latitude":32.77935,
+    "gn:longitude":-7.50046,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Oulad El Haj Abb\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11434318
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b83f0244493ffb8a5880e211fef89085",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209507197
+        }
+    ],
+    "wof:id":1209507197,
+    "wof:lastmodified":1536284997,
+    "wof:name":"Oulad El Haj Abbes",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50046,
+    32.77935,
+    -7.50046,
+    32.77935
+],
+  "geometry": {"coordinates":[-7.50046,32.77935],"type":"Point"}
+}

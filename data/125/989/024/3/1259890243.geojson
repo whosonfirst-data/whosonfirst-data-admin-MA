@@ -1,0 +1,73 @@
+{
+  "id": 1259890243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.75346,29.83749,-9.75346,29.83749",
+    "geom:latitude":29.83749,
+    "geom:longitude":-9.75346,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dghaimis",
+    "gn:country_code":"MA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551011,
+    "gn:latitude":29.83749,
+    "gn:longitude":-9.75346,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dgha\u00efmis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drha\u00efmis",
+        "Dra\u00efnis",
+        "Dra\u00efmiz",
+        "Dgha\u00efmis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551011
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"86376463cf96db1b57f986ee8ca2f659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1259890243,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259890243,
+    "wof:lastmodified":1537663909,
+    "wof:name":"Dghaimis",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.75346,
+    29.83749000000001,
+    -9.75346,
+    29.83749000000001
+],
+  "geometry": {"coordinates":[-9.75346,29.83749000000001],"type":"Point"}
+}

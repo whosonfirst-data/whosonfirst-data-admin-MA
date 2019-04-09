@@ -1,0 +1,67 @@
+{
+  "id": 1259769109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50463,31.24272,-8.50463,31.24272",
+    "geom:latitude":31.24272,
+    "geom:longitude":-8.50463,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Agadir-n-Hallouf",
+    "gn:country_code":"MA",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963002,
+    "gn:latitude":31.24272,
+    "gn:longitude":-8.50463,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Agadir-n-Hallouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963002
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5ba2d62842e53d713d4bb8f2e2593c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1259769109,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259769109,
+    "wof:lastmodified":1536944375,
+    "wof:name":"Agadir-n-Hallouf",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50463,
+    31.24272,
+    -8.50463,
+    31.24272
+],
+  "geometry": {"coordinates":[-8.50463,31.24272],"type":"Point"}
+}

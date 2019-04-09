@@ -1,0 +1,75 @@
+{
+  "id": 890453575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.05469,31.16936,-6.05469,31.16936",
+    "geom:latitude":31.16936,
+    "geom:longitude":-6.05469,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":13082,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0648\u0627\u0633\u064a\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Sedrate Sahl Cha"
+    ],
+    "name:fra_x_variant":[
+        "Ait Sedrate Sahl Cha (CR)",
+        "Ait Sedrate Sahl Cha (Commune Rurale)"
+    ],
+    "qs:name":"Ait Sedrate Sahl Cha",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546562,
+        "qs:id":629663
+    },
+    "wof:country":"MA",
+    "wof:created":1469052859,
+    "wof:geomhash":"00911e8dff86dd5314a6401265e8d289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "localadmin_id":890453575,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890453575,
+    "wof:lastmodified":1505343652,
+    "wof:name":"Ait Sedrate Sahl Cha",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"localadmin",
+    "wof:population":13082,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.05469,
+    31.16936,
+    -6.05469,
+    31.16936
+],
+  "geometry": {"coordinates":[-6.05469,31.16936],"type":"Point"}
+}

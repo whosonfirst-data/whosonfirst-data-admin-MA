@@ -1,0 +1,62 @@
+{
+  "id": 1209513371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.86746,31.66155,-6.86746,31.66155",
+    "geom:latitude":31.66155,
+    "geom:longitude":-6.86746,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Amza Ourhrou",
+    "gn:country_code":"MA",
+    "gn:dem":1412,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557925,
+    "gn:latitude":31.66155,
+    "gn:longitude":-6.86746,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Amza Ourhrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557925
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"434b83d3dac501cca3f85595adc89495",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209513371
+        }
+    ],
+    "wof:id":1209513371,
+    "wof:lastmodified":1536284811,
+    "wof:name":"Amza Ourhrou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.86746,
+    31.66155,
+    -6.86746,
+    31.66155
+],
+  "geometry": {"coordinates":[-6.86746,31.66155],"type":"Point"}
+}

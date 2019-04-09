@@ -1,0 +1,72 @@
+{
+  "id": 1243464691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.38612,34.99917,-4.38612,34.99917",
+    "geom:latitude":34.99917,
+    "geom:longitude":-4.38612,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Irahmounene",
+    "gn:country_code":"MA",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551094,
+    "gn:latitude":34.99917,
+    "gn:longitude":-4.38612,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Irahmounene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duirem",
+        "Douirem",
+        "Douar Irahmounene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551094
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"85efb30fbc39c96aac2db3cb2822136f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1243464691,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1243464691,
+    "wof:lastmodified":1537663911,
+    "wof:name":"Douar Irahmounene",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.38612,
+    34.99917,
+    -4.38612,
+    34.99917
+],
+  "geometry": {"coordinates":[-4.38612,34.99917],"type":"Point"}
+}

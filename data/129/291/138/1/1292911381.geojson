@@ -1,0 +1,67 @@
+{
+  "id": 1292911381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.63887,35.15749,-3.63887,35.15749",
+    "geom:latitude":35.15749,
+    "geom:longitude":-3.63887,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Admer Azirar",
+    "gn:country_code":"MA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8559782,
+    "gn:latitude":35.15749,
+    "gn:longitude":-3.63887,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Admer Azirar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559782
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e014ce6ddcc3b8ce8bafb48e09166267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1292911381,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1292911381,
+    "wof:lastmodified":1536621380,
+    "wof:name":"Admer Azirar",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.63887,
+    35.15749,
+    -3.63887,
+    35.15749
+],
+  "geometry": {"coordinates":[-3.63887,35.15749],"type":"Point"}
+}

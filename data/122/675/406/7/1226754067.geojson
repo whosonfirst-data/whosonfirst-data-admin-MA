@@ -1,0 +1,67 @@
+{
+  "id": 1226754067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.02513,34.28362,-5.02513,34.28362",
+    "geom:latitude":34.28362,
+    "geom:longitude":-5.02513,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Brikat",
+    "gn:country_code":"MA",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985549,
+    "gn:latitude":34.28362,
+    "gn:longitude":-5.02513,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Brikat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985549
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e67bf26f5fef7cd25657c9f17871a8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1226754067,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1226754067,
+    "wof:lastmodified":1536703767,
+    "wof:name":"Douar Brikat",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.02513,
+    34.28362,
+    -5.02513,
+    34.28362
+],
+  "geometry": {"coordinates":[-5.02513,34.28362],"type":"Point"}
+}

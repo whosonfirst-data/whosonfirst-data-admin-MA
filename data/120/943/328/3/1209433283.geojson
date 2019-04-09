@@ -1,0 +1,65 @@
+{
+  "id": 1209433283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.64334,29.3346,-9.64334,29.3346",
+    "geom:latitude":29.3346,
+    "geom:longitude":-9.64334,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Agadir Ifri",
+    "gn:country_code":"MA",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561630,
+    "gn:latitude":29.3346,
+    "gn:longitude":-9.64334,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agadir Ifri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agadir Izri",
+        "Agadir Ifri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561630
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"413ab956039263fafaf9fef0e754a0ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209433283
+        }
+    ],
+    "wof:id":1209433283,
+    "wof:lastmodified":1537664244,
+    "wof:name":"Agadir Ifri",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.64334,
+    29.3346,
+    -9.64334,
+    29.3346
+],
+  "geometry": {"coordinates":[-9.64334,29.3346],"type":"Point"}
+}

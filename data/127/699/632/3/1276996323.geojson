@@ -1,0 +1,71 @@
+{
+  "id": 1276996323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64,31.08,-7.64,31.08",
+    "geom:latitude":31.08,
+    "geom:longitude":-7.64,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imejanene",
+    "gn:country_code":"MA",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546300,
+    "gn:latitude":31.08,
+    "gn:longitude":-7.64,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imejanene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imedjarem",
+        "Imejanene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546300
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5e22a06e341af2ef440547d1ec6826f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1276996323,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276996323,
+    "wof:lastmodified":1537663751,
+    "wof:name":"Imejanene",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64,
+    31.08,
+    -7.64,
+    31.08
+],
+  "geometry": {"coordinates":[-7.64,31.08],"type":"Point"}
+}

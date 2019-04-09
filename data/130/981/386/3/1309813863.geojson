@@ -1,0 +1,70 @@
+{
+  "id": 1309813863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.68934,30.2049,-7.68934,30.2049",
+    "geom:latitude":30.2049,
+    "geom:longitude":-7.68934,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tanigart",
+    "gn:country_code":"MA",
+    "gn:dem":1737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530356,
+    "gn:latitude":30.2049,
+    "gn:longitude":-7.68934,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tanigart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taneguert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530356
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e8c98dbba9fb7257c1c80bcfae9c37b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1309813863,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309813863,
+    "wof:lastmodified":1537663435,
+    "wof:name":"Tanigart",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.68934,
+    30.2049,
+    -7.68934,
+    30.2049
+],
+  "geometry": {"coordinates":[-7.68934,30.2049],"type":"Point"}
+}

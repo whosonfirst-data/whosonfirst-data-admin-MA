@@ -1,0 +1,67 @@
+{
+  "id": 1259879671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.80844,33.96608,-6.80844,33.96608",
+    "geom:latitude":33.96608,
+    "geom:longitude":-6.80844,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Lamaadid",
+    "gn:country_code":"MA",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10919011,
+    "gn:latitude":33.96608,
+    "gn:longitude":-6.80844,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lama\u00e0did",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890437999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10919011
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3f47b47310edb883a25483f11475e9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890437999,
+            "locality_id":1259879671,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1259879671,
+    "wof:lastmodified":1536785191,
+    "wof:name":"Douar Lamaadid",
+    "wof:parent_id":890437999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.80844,
+    33.96608,
+    -6.80844,
+    33.96608
+],
+  "geometry": {"coordinates":[-6.80844,33.96608],"type":"Point"}
+}

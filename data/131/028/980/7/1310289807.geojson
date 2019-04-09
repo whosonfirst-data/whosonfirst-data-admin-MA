@@ -1,0 +1,67 @@
+{
+  "id": 1310289807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.52997,30.40708,-7.52997,30.40708",
+    "geom:latitude":30.40708,
+    "geom:longitude":-7.52997,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Wajgagal",
+    "gn:country_code":"MA",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147860,
+    "gn:latitude":30.40708,
+    "gn:longitude":-7.52997,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Wajgagal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147860
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b97166a7344b977fb4665a7a1e0ccf80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1310289807,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310289807,
+    "wof:lastmodified":1536730937,
+    "wof:name":"Wajgagal",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52997,
+    30.40708,
+    -7.52997,
+    30.40708
+],
+  "geometry": {"coordinates":[-7.52997,30.40708],"type":"Point"}
+}

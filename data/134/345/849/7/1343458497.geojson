@@ -1,0 +1,67 @@
+{
+  "id": 1343458497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98932,34.74397,-5.98932,34.74397",
+    "geom:latitude":34.74397,
+    "geom:longitude":-5.98932,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Rafae",
+    "gn:country_code":"MA",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10989449,
+    "gn:latitude":34.74397,
+    "gn:longitude":-5.98932,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Rafae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10989449
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"46889c6099fccb1bd42200fa33bc5ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1343458497,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1343458497,
+    "wof:lastmodified":1536748857,
+    "wof:name":"Oulad Rafae",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98932,
+    34.74397,
+    -5.98932,
+    34.74397
+],
+  "geometry": {"coordinates":[-5.98932,34.74397],"type":"Point"}
+}

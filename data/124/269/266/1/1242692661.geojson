@@ -1,0 +1,72 @@
+{
+  "id": 1242692661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.96755,35.2211,-2.96755,35.2211",
+    "geom:latitude":35.2211,
+    "geom:longitude":-2.96755,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jadmiene",
+    "gn:country_code":"MA",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545217,
+    "gn:latitude":35.2211,
+    "gn:longitude":-2.96755,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jadmiene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iadmien",
+        "Iadmiene",
+        "Jadmiene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545217
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b9e22f65184c368603e1dd16f93e1042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1242692661,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1242692661,
+    "wof:lastmodified":1537663716,
+    "wof:name":"Jadmiene",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.96755,
+    35.2211,
+    -2.96755,
+    35.2211
+],
+  "geometry": {"coordinates":[-2.96755,35.2211],"type":"Point"}
+}

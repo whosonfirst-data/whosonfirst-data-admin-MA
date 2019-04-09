@@ -1,0 +1,67 @@
+{
+  "id": 1243574417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64764,31.58497,-7.64764,31.58497",
+    "geom:latitude":31.58497,
+    "geom:longitude":-7.64764,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Bouserksou",
+    "gn:country_code":"MA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909437,
+    "gn:latitude":31.58497,
+    "gn:longitude":-7.64764,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Bouserksou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909437
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5cca3e275eed7335d256a5a6b7592a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1243574417,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243574417,
+    "wof:lastmodified":1536619058,
+    "wof:name":"Ait Bouserksou",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64764,
+    31.58497,
+    -7.64764,
+    31.58497
+],
+  "geometry": {"coordinates":[-7.64764,31.58497],"type":"Point"}
+}

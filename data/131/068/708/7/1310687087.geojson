@@ -1,0 +1,67 @@
+{
+  "id": 1310687087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.30535,31.57297,-9.30535,31.57297",
+    "geom:latitude":31.57297,
+    "geom:longitude":-9.30535,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lgourae",
+    "gn:country_code":"MA",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946916,
+    "gn:latitude":31.57297,
+    "gn:longitude":-9.30535,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lgourae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946916
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8364ba00ad13b5e87cfb109c22e99dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1310687087,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310687087,
+    "wof:lastmodified":1536655007,
+    "wof:name":"Douar Lgourae",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.30535,
+    31.57297,
+    -9.30535,
+    31.57297
+],
+  "geometry": {"coordinates":[-9.30535,31.57297],"type":"Point"}
+}

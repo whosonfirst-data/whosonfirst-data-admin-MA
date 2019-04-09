@@ -1,0 +1,71 @@
+{
+  "id": 1242587901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.93432,32.82872,-5.93432,32.82872",
+    "geom:latitude":32.82872,
+    "geom:longitude":-5.93432,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tichit-n'ou- Kherras",
+    "gn:country_code":"MA",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528828,
+    "gn:latitude":32.82872,
+    "gn:longitude":-5.93432,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tichit-n\u2019ou- Kherras",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tichit-n\u2019ou- Kherras",
+        "Tichit-n-Oukherraz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528828
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"653b29fa2eec11a115ca905b30d5b296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1242587901,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1242587901,
+    "wof:lastmodified":1537663395,
+    "wof:name":"Tichit-n'ou- Kherras",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.93432,
+    32.82872,
+    -5.93432,
+    32.82872
+],
+  "geometry": {"coordinates":[-5.93432,32.82872],"type":"Point"}
+}

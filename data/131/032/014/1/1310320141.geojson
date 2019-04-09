@@ -1,0 +1,72 @@
+{
+  "id": 1310320141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.93075,35.51507,-5.93075,35.51507",
+    "geom:latitude":35.51507,
+    "geom:longitude":-5.93075,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gharbia",
+    "gn:country_code":"MA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572165,
+    "gn:latitude":35.51507,
+    "gn:longitude":-5.93075,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Gharbia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Had Rharbia",
+        "El Had des Gharbia",
+        "Gharbia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572165
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"384d853579848c6a2f3bb9f55c9fce45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1310320141,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310320141,
+    "wof:lastmodified":1537664282,
+    "wof:name":"Gharbia",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.93075,
+    35.51507,
+    -5.93075,
+    35.51507
+],
+  "geometry": {"coordinates":[-5.93075,35.51507],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326742247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.35899,35.12451,-3.35899,35.12451",
+    "geom:latitude":35.12451,
+    "geom:longitude":-3.35899,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ibou Zaggoutene",
+    "gn:country_code":"MA",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472560,
+    "gn:latitude":35.12451,
+    "gn:longitude":-3.35899,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Ibou Zaggoutene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472560
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3ae6c7b4dd9215db231a324a0c02bc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1326742247,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1326742247,
+    "wof:lastmodified":1536681196,
+    "wof:name":"Ibou Zaggoutene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.35899,
+    35.12451,
+    -3.35899,
+    35.12451
+],
+  "geometry": {"coordinates":[-3.35899,35.12451],"type":"Point"}
+}

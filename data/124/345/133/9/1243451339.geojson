@@ -1,0 +1,67 @@
+{
+  "id": 1243451339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.46033,32.68042,-7.46033,32.68042",
+    "geom:latitude":32.68042,
+    "geom:longitude":-7.46033,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Bsara",
+    "gn:country_code":"MA",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936020,
+    "gn:latitude":32.68042,
+    "gn:longitude":-7.46033,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bsara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936020
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"67b9e7c28cf45d803aac40682a93613a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1243451339,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1243451339,
+    "wof:lastmodified":1536798596,
+    "wof:name":"Douar Bsara",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.46033,
+    32.68042,
+    -7.46033,
+    32.68042
+],
+  "geometry": {"coordinates":[-7.46033,32.68042],"type":"Point"}
+}

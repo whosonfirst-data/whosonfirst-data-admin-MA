@@ -1,0 +1,71 @@
+{
+  "id": 1360204993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14749,32.00954,-8.14749,32.00954",
+    "geom:latitude":32.00954,
+    "geom:longitude":-8.14749,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi 'Amar Ben Hanechar",
+    "gn:country_code":"MA",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2533225,
+    "gn:latitude":32.00954,
+    "gn:longitude":-8.14749,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Sidi \u2019Amar Ben Hanechar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi \u2019Amar Ben Hanechar",
+        "Sidi Omar Bou Hanechar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2533225
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5720ed08197a717b701888ece2d76e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1360204993,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360204993,
+    "wof:lastmodified":1537663506,
+    "wof:name":"Sidi 'Amar Ben Hanechar",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14749,
+    32.00954,
+    -8.14749,
+    32.00954
+],
+  "geometry": {"coordinates":[-8.14749,32.00954],"type":"Point"}
+}

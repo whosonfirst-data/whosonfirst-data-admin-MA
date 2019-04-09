@@ -1,0 +1,67 @@
+{
+  "id": 1259703955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6812,31.50873,-7.6812,31.50873",
+    "geom:latitude":31.50873,
+    "geom:longitude":-7.6812,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ali Taleb",
+    "gn:country_code":"MA",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909398,
+    "gn:latitude":31.50873,
+    "gn:longitude":-7.6812,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ali Taleb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909398
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"36b8c6292ad52043d2c5dcce97063f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1259703955,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259703955,
+    "wof:lastmodified":1537036049,
+    "wof:name":"Ali Taleb",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6812,
+    31.50873,
+    -7.6812,
+    31.50873
+],
+  "geometry": {"coordinates":[-7.6812,31.50873],"type":"Point"}
+}

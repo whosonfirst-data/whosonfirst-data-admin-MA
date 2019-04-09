@@ -1,0 +1,65 @@
+{
+  "id": 1209333103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24188,29.9699,-8.24188,29.9699",
+    "geom:latitude":29.9699,
+    "geom:longitude":-8.24188,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tiougrar",
+    "gn:country_code":"MA",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527772,
+    "gn:latitude":29.9699,
+    "gn:longitude":-8.24188,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tiougrar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tigourar",
+        "Tiougrar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527772
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"89e8f58285412637f08366c193e90949",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333103
+        }
+    ],
+    "wof:id":1209333103,
+    "wof:lastmodified":1537663365,
+    "wof:name":"Tiougrar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.24188,
+    29.9699,
+    -8.24188,
+    29.9699
+],
+  "geometry": {"coordinates":[-8.24188,29.9699],"type":"Point"}
+}

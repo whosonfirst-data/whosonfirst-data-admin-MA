@@ -1,0 +1,67 @@
+{
+  "id": 1310311385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.52364,34.08898,-4.52364,34.08898",
+    "geom:latitude":34.08898,
+    "geom:longitude":-4.52364,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ain Skhoune",
+    "gn:country_code":"MA",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10927202,
+    "gn:latitude":34.08898,
+    "gn:longitude":-4.52364,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ain Skhoune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10927202
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ffe04351f122994922f3d0614315f482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1310311385,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310311385,
+    "wof:lastmodified":1536699650,
+    "wof:name":"Douar Ain Skhoune",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.52364,
+    34.08898,
+    -4.52364,
+    34.08898
+],
+  "geometry": {"coordinates":[-4.52364,34.08898],"type":"Point"}
+}

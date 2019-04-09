@@ -1,0 +1,72 @@
+{
+  "id": 1326948747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.66914,34.33894,-4.66914,34.33894",
+    "geom:latitude":34.33894,
+    "geom:longitude":-4.66914,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Beir Lkhayr",
+    "gn:country_code":"MA",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551471,
+    "gn:latitude":34.33894,
+    "gn:longitude":-4.66914,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Beir Lkhayr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Ben el Kreir",
+        "Douar Oulad Ben el Khe\u00efr",
+        "Douar Oulad Beir Lkhayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551471
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"41d8da9aee27d8aa725a1a6c1b2cd8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1326948747,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1326948747,
+    "wof:lastmodified":1537663941,
+    "wof:name":"Douar Oulad Beir Lkhayr",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.66914,
+    34.33894,
+    -4.66914,
+    34.33894
+],
+  "geometry": {"coordinates":[-4.66914,34.33894],"type":"Point"}
+}

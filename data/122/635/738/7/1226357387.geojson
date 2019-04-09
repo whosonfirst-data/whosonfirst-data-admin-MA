@@ -1,0 +1,70 @@
+{
+  "id": 1226357387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.15679,33.89443,-6.15679,33.89443",
+    "geom:latitude":33.89443,
+    "geom:longitude":-6.15679,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dar Cheikh Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553042,
+    "gn:latitude":33.89443,
+    "gn:longitude":-6.15679,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Cheikh Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Ahmed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553042
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eaf9299bf88e7a1abc53c117a1a5e7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1226357387,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1226357387,
+    "wof:lastmodified":1537664023,
+    "wof:name":"Dar Cheikh Ahmed",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.15679,
+    33.89443,
+    -6.15679,
+    33.89443
+],
+  "geometry": {"coordinates":[-6.15679,33.89443],"type":"Point"}
+}

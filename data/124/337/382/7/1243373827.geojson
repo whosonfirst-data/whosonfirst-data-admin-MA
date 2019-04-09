@@ -1,0 +1,67 @@
+{
+  "id": 1243373827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.46953,33.54427,-4.46953,33.54427",
+    "geom:latitude":33.54427,
+    "geom:longitude":-4.46953,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tassader",
+    "gn:country_code":"MA",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529492,
+    "gn:latitude":33.54427,
+    "gn:longitude":-4.46953,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tassader",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529492
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1d38b3e152867c9fe2a93851aa142d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1243373827,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1243373827,
+    "wof:lastmodified":1536910558,
+    "wof:name":"Tassader",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.46953,
+    33.54427,
+    -4.46953,
+    33.54427
+],
+  "geometry": {"coordinates":[-4.46953,33.54427],"type":"Point"}
+}

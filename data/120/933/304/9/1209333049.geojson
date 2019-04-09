@@ -1,0 +1,66 @@
+{
+  "id": 1209333049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.76,30.71,-7.76,30.71",
+    "geom:latitude":30.71,
+    "geom:longitude":-7.76,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tamanakht",
+    "gn:country_code":"MA",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530844,
+    "gn:latitude":30.71,
+    "gn:longitude":-7.76,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamanakht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamanart",
+        "Tamnat",
+        "Tamanakht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530844
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"701d6c3033bf55089880e467414e90a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333049
+        }
+    ],
+    "wof:id":1209333049,
+    "wof:lastmodified":1537663449,
+    "wof:name":"Tamanakht",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76,
+    30.71,
+    -7.76,
+    30.71
+],
+  "geometry": {"coordinates":[-7.76,30.71],"type":"Point"}
+}

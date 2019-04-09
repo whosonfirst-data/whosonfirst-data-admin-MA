@@ -1,0 +1,67 @@
+{
+  "id": 1209716871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.55249,33.51611,-4.55249,33.51611",
+    "geom:latitude":33.51611,
+    "geom:longitude":-4.55249,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Boubqiya",
+    "gn:country_code":"MA",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10843810,
+    "gn:latitude":33.51611,
+    "gn:longitude":-4.55249,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Boubqiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10843810
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"52f1ddb9a5fcf808048804052eadabc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1209716871,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1209716871,
+    "wof:lastmodified":1536388169,
+    "wof:name":"Douar Boubqiya",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.55249,
+    33.51611,
+    -4.55249,
+    33.51611
+],
+  "geometry": {"coordinates":[-4.55249,33.51611],"type":"Point"}
+}

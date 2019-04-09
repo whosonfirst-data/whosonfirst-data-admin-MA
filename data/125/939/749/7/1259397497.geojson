@@ -1,0 +1,70 @@
+{
+  "id": 1259397497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.54337,32.52926,-3.54337,32.52926",
+    "geom:latitude":32.52926,
+    "geom:longitude":-3.54337,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abbiyar",
+    "gn:country_code":"MA",
+    "gn:dem":1503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560680,
+    "gn:latitude":32.52926,
+    "gn:longitude":-3.54337,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Abbiyar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Addou Abbiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560680
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2a7717b37effa9f7c884aa437df05dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1259397497,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1259397497,
+    "wof:lastmodified":1537664213,
+    "wof:name":"Abbiyar",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.54337,
+    32.52926,
+    -3.54337,
+    32.52926
+],
+  "geometry": {"coordinates":[-3.54337,32.52926],"type":"Point"}
+}

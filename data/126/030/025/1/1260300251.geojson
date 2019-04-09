@@ -1,0 +1,70 @@
+{
+  "id": 1260300251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0251,35.293,-5.0251,35.293",
+    "geom:latitude":35.293,
+    "geom:longitude":-5.0251,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Galmet",
+    "gn:country_code":"MA",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548527,
+    "gn:latitude":35.293,
+    "gn:longitude":-5.0251,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Galmet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guelmez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548527
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f79ea22b5917eb97db2da7a1560ae2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1260300251,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1260300251,
+    "wof:lastmodified":1537663811,
+    "wof:name":"Douar Galmet",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0251,
+    35.293,
+    -5.0251,
+    35.293
+],
+  "geometry": {"coordinates":[-5.0251,35.293],"type":"Point"}
+}

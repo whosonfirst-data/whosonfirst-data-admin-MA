@@ -1,0 +1,67 @@
+{
+  "id": 1293478163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.77144,29.31149,-9.77144,29.31149",
+    "geom:latitude":29.31149,
+    "geom:longitude":-9.77144,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Id Ramouch",
+    "gn:country_code":"MA",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101072,
+    "gn:latitude":29.31149,
+    "gn:longitude":-9.77144,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Ramouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101072
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b80e9e1b2a7bd872692edde66115625d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293478163,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293478163,
+    "wof:lastmodified":1536800593,
+    "wof:name":"Id Ramouch",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.77144,
+    29.31149000000001,
+    -9.77144,
+    29.31149000000001
+],
+  "geometry": {"coordinates":[-9.77144,29.31149000000001],"type":"Point"}
+}

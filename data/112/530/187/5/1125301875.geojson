@@ -1,0 +1,88 @@
+{
+  "id": 1125301875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.88706,35.10041,-2.88706,35.10041",
+    "geom:latitude":35.10041,
+    "geom:longitude":-2.88706,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":16470,
+    "gn:population":37737,
+    "iso:country":"MA",
+    "lbl:latitude":35.10041,
+    "lbl:longitude":-2.88706,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0639\u0631\u0643"
+    ],
+    "name:fra_x_preferred":[
+        "Bouarg"
+    ],
+    "name:fra_x_variant":[
+        "Bouarg (CR)",
+        "Bouarg (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547102,
+    "qs_pg:gn_pop":16470,
+    "qs_pg:name":"Bouarg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":630177,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547102,
+        "qs_pg:id":630177
+    },
+    "wof:country":"MA",
+    "wof:created":1497043473,
+    "wof:geomhash":"2afae1895f7e39713d5ae6cbabd48c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "localadmin_id":1125301875,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1125301875,
+    "wof:lastmodified":1509387727,
+    "wof:name":"Bouarg",
+    "wof:parent_id":890455271,
+    "wof:placetype":"localadmin",
+    "wof:population":37737,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.88706,
+    35.10041,
+    -2.88706,
+    35.10041
+],
+  "geometry": {"coordinates":[-2.88706,35.10041],"type":"Point"}
+}

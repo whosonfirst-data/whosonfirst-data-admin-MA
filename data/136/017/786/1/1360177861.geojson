@@ -1,0 +1,71 @@
+{
+  "id": 1360177861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.1217,31.74245,-7.1217,31.74245",
+    "geom:latitude":31.74245,
+    "geom:longitude":-7.1217,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Taourirt",
+    "gn:country_code":"MA",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571839,
+    "gn:latitude":31.74245,
+    "gn:longitude":-7.1217,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Taourirt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tawrirt",
+        "Taourirt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571839
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a7d1f1395ff192522dd3c1ce0ebb749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1360177861,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1360177861,
+    "wof:lastmodified":1537664279,
+    "wof:name":"Taourirt",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.1217,
+    31.74245,
+    -7.1217,
+    31.74245
+],
+  "geometry": {"coordinates":[-7.1217,31.74245],"type":"Point"}
+}

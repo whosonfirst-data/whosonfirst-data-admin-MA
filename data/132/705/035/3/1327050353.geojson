@@ -1,0 +1,67 @@
+{
+  "id": 1327050353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28706,32.10397,-9.28706,32.10397",
+    "geom:latitude":32.10397,
+    "geom:longitude":-9.28706,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Labwichti",
+    "gn:country_code":"MA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11366639,
+    "gn:latitude":32.10397,
+    "gn:longitude":-9.28706,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Labwichti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11366639
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"edd93faead8ec464d98669bafa46b454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1327050353,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1327050353,
+    "wof:lastmodified":1536734702,
+    "wof:name":"Labwichti",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28706,
+    32.10397,
+    -9.28706,
+    32.10397
+],
+  "geometry": {"coordinates":[-9.28706,32.10397],"type":"Point"}
+}

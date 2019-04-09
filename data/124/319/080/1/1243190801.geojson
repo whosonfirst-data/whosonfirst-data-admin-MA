@@ -1,0 +1,72 @@
+{
+  "id": 1243190801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82976,32.45758,-8.82976,32.45758",
+    "geom:latitude":32.45758,
+    "geom:longitude":-8.82976,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Yahya",
+    "gn:country_code":"MA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539126,
+    "gn:latitude":32.45758,
+    "gn:longitude":-8.82976,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Yahya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad-Yahya",
+        "Oulad Yahia",
+        "Oulad Yahya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539126
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2a624b8341ee26046220f4ddae6223e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1243190801,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1243190801,
+    "wof:lastmodified":1537663553,
+    "wof:name":"Oulad Yahya",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82976,
+    32.45758,
+    -8.82976,
+    32.45758
+],
+  "geometry": {"coordinates":[-8.82976,32.45758],"type":"Point"}
+}

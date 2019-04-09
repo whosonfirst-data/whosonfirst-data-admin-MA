@@ -1,0 +1,73 @@
+{
+  "id": 1343976427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5229,34.74126,-5.5229,34.74126",
+    "geom:latitude":34.74126,
+    "geom:longitude":-5.5229,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar El Ketal",
+    "gn:country_code":"MA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551784,
+    "gn:latitude":34.74126,
+    "gn:longitude":-5.5229,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar El Ketal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u00e2llal",
+        "El Kltal",
+        "Douar el Kelal",
+        "Douar El Ketal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551784
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c8a6567647541554b30ac44bcc8dd7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1343976427,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343976427,
+    "wof:lastmodified":1537663965,
+    "wof:name":"Douar El Ketal",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5229,
+    34.74126,
+    -5.5229,
+    34.74126
+],
+  "geometry": {"coordinates":[-5.5229,34.74126],"type":"Point"}
+}

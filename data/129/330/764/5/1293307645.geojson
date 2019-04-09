@@ -1,0 +1,71 @@
+{
+  "id": 1293307645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.64061,30.9843,-9.64061,30.9843",
+    "geom:latitude":30.9843,
+    "geom:longitude":-9.64061,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar n'Touzzoumt",
+    "gn:country_code":"MA",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568275,
+    "gn:latitude":30.9843,
+    "gn:longitude":-9.64061,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar n\u2019Touzzoumt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douwar-n-Touzzoumt",
+        "Douar n\u2019Touzzoumt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568275
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3e08cd303f3a235b7d418b01101fe011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1293307645,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293307645,
+    "wof:lastmodified":1537664266,
+    "wof:name":"Douar n'Touzzoumt",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.64061,
+    30.9843,
+    -9.64061,
+    30.9843
+],
+  "geometry": {"coordinates":[-9.64061,30.9843],"type":"Point"}
+}

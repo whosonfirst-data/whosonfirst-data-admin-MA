@@ -1,0 +1,88 @@
+{
+  "id": 1125330191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.60978,33.53715,-7.60978,33.53715",
+    "geom:latitude":33.53715,
+    "geom:longitude":-7.60978,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":253496,
+    "gn:population":253496,
+    "iso:country":"MA",
+    "lbl:latitude":33.53715,
+    "lbl:longitude":-7.60978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u064a\u0632 (\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Ain-Chock"
+    ],
+    "name:fra_x_variant":[
+        "Ain-Chock (AR)",
+        "Ain-Chock (Arrondissement)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545962,
+    "qs_pg:gn_pop":253496,
+    "qs_pg:name":"Ain-Chock",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":629105,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673905,
+        890442533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545962,
+        "qs_pg:id":629105
+    },
+    "wof:country":"MA",
+    "wof:created":1497045089,
+    "wof:geomhash":"ab0ebb5a058d9923a562cacf18ff60f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442533,
+            "localadmin_id":1125330191,
+            "region_id":85673905
+        }
+    ],
+    "wof:id":1125330191,
+    "wof:lastmodified":1509388354,
+    "wof:name":"Ain-Chock",
+    "wof:parent_id":890442533,
+    "wof:placetype":"localadmin",
+    "wof:population":253496,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.60978,
+    33.53715,
+    -7.60978,
+    33.53715
+],
+  "geometry": {"coordinates":[-7.60978,33.53715],"type":"Point"}
+}

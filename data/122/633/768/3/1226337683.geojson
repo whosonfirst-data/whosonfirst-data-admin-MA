@@ -1,0 +1,67 @@
+{
+  "id": 1226337683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51579,30.45747,-8.51579,30.45747",
+    "geom:latitude":30.45747,
+    "geom:longitude":-8.51579,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ayt Gouhamane",
+    "gn:country_code":"MA",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11143557,
+    "gn:latitude":30.45747,
+    "gn:longitude":-8.51579,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ayt Gouhamane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11143557
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"96b4af265ea408e4ae02d0f29b51f8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1226337683,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226337683,
+    "wof:lastmodified":1536801157,
+    "wof:name":"Ayt Gouhamane",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51579,
+    30.45747,
+    -8.51579,
+    30.45747
+],
+  "geometry": {"coordinates":[-8.51579,30.45747],"type":"Point"}
+}

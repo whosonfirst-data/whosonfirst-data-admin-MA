@@ -1,0 +1,67 @@
+{
+  "id": 1293867937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.01054,30.03064,-9.01054,30.03064",
+    "geom:latitude":30.03064,
+    "geom:longitude":-9.01054,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Agourgounane",
+    "gn:country_code":"MA",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131363,
+    "gn:latitude":30.03064,
+    "gn:longitude":-9.01054,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Agourgounane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131363
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aae0204e1b370e6d487640e121904d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1293867937,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293867937,
+    "wof:lastmodified":1536735872,
+    "wof:name":"Agourgounane",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.01054,
+    30.03064,
+    -9.01054,
+    30.03064
+],
+  "geometry": {"coordinates":[-9.01054,30.03064],"type":"Point"}
+}

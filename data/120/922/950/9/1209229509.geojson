@@ -1,0 +1,67 @@
+{
+  "id": 1209229509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.62328,31.15773,-5.62328,31.15773",
+    "geom:latitude":31.15773,
+    "geom:longitude":-5.62328,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tagmout",
+    "gn:country_code":"MA",
+    "gn:dem":1912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531701,
+    "gn:latitude":31.15773,
+    "gn:longitude":-5.62328,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagmout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tgmoute",
+        "Taguemout",
+        "Tagmont",
+        "Tagmout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531701
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1340cd3a8ee1eb0c09fb8b6577d8438c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229509
+        }
+    ],
+    "wof:id":1209229509,
+    "wof:lastmodified":1537663473,
+    "wof:name":"Tagmout",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.62328,
+    31.15773,
+    -5.62328,
+    31.15773
+],
+  "geometry": {"coordinates":[-5.62328,31.15773],"type":"Point"}
+}

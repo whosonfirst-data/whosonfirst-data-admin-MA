@@ -1,0 +1,67 @@
+{
+  "id": 1310400957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48683,30.17061,-9.48683,30.17061",
+    "geom:latitude":30.17061,
+    "geom:longitude":-9.48683,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lkherbi",
+    "gn:country_code":"MA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10374994,
+    "gn:latitude":30.17061,
+    "gn:longitude":-9.48683,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lkherbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10374994
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3125f1fd91b6e31a63e85ae8a4439fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1310400957,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310400957,
+    "wof:lastmodified":1537064961,
+    "wof:name":"Lkherbi",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48683,
+    30.17061,
+    -9.48683,
+    30.17061
+],
+  "geometry": {"coordinates":[-9.48683,30.17061],"type":"Point"}
+}

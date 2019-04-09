@@ -1,0 +1,74 @@
+{
+  "id": 1276350787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.08858,29.14926,-10.08858,29.14926",
+    "geom:latitude":29.14926,
+    "geom:longitude":-10.08858,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Defilia",
+    "gn:country_code":"MA",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552371,
+    "gn:latitude":29.14926,
+    "gn:longitude":-10.08858,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Defilia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tfiliya",
+        "Dfiliya",
+        "Dfeilia",
+        "Defailia",
+        "Defilia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552371
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fe38b77ca16ef64af1c987b0802b3b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1276350787,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276350787,
+    "wof:lastmodified":1537664000,
+    "wof:name":"Defilia",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.08858,
+    29.14926,
+    -10.08858,
+    29.14926
+],
+  "geometry": {"coordinates":[-10.08858,29.14926],"type":"Point"}
+}

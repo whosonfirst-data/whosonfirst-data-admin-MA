@@ -1,0 +1,61 @@
+{
+  "id": 1209507191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4963,32.7306,-8.4963,32.7306",
+    "geom:latitude":32.7306,
+    "geom:longitude":-8.4963,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Rmaylat",
+    "gn:country_code":"MA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795476,
+    "gn:latitude":32.7306,
+    "gn:longitude":-8.4963,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Rmaylat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795476
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9c6319a2a33408ff04d6233ffb8d13c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209507191
+        }
+    ],
+    "wof:id":1209507191,
+    "wof:lastmodified":1536284997,
+    "wof:name":"Douar Rmaylat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4963,
+    32.7306,
+    -8.4963,
+    32.7306
+],
+  "geometry": {"coordinates":[-8.4963,32.7306],"type":"Point"}
+}

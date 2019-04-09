@@ -1,0 +1,64 @@
+{
+  "id": 1209229597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.79062,31.39108,-6.79062,31.39108",
+    "geom:latitude":31.39108,
+    "geom:longitude":-6.79062,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Magdaz",
+    "gn:country_code":"MA",
+    "gn:dem":1982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542805,
+    "gn:latitude":31.39108,
+    "gn:longitude":-6.79062,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Magdaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Megdaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542805
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cff97f162d504326838beeb700ce842d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229597
+        }
+    ],
+    "wof:id":1209229597,
+    "wof:lastmodified":1537663661,
+    "wof:name":"Magdaz",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.79062,
+    31.39108,
+    -6.79062,
+    31.39108
+],
+  "geometry": {"coordinates":[-6.79062,31.39108],"type":"Point"}
+}

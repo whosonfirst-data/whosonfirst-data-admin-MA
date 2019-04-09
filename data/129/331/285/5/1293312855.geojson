@@ -1,0 +1,67 @@
+{
+  "id": 1293312855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.86554,32.2162,-7.86554,32.2162",
+    "geom:latitude":32.2162,
+    "geom:longitude":-7.86554,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar Lahsen Hamdani",
+    "gn:country_code":"MA",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10927943,
+    "gn:latitude":32.2162,
+    "gn:longitude":-7.86554,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Lahsen Hamdani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10927943
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8c535621101a84b347ad9a8aa2aa6d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1293312855,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293312855,
+    "wof:lastmodified":1537037258,
+    "wof:name":"Dar Lahsen Hamdani",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.86554,
+    32.2162,
+    -7.86554,
+    32.2162
+],
+  "geometry": {"coordinates":[-7.86554,32.2162],"type":"Point"}
+}

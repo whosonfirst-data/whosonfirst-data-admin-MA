@@ -1,0 +1,72 @@
+{
+  "id": 1344175441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.71479,32.08549,-4.71479,32.08549",
+    "geom:latitude":32.08549,
+    "geom:longitude":-4.71479,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Ben 'Akki",
+    "gn:country_code":"MA",
+    "gn:dem":1825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560371,
+    "gn:latitude":32.08549,
+    "gn:longitude":-4.71479,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"A\u00eft Ben \u2019Akki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ben Akki",
+        "A\u00eft Bou Akki",
+        "A\u00eft Ben \u2019Akki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560371
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2ffcb1e327cd30b5b3777d7d9ce8199a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1344175441,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1344175441,
+    "wof:lastmodified":1537664202,
+    "wof:name":"Ait Ben 'Akki",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.71479,
+    32.08549,
+    -4.71479,
+    32.08549
+],
+  "geometry": {"coordinates":[-4.71479,32.08549],"type":"Point"}
+}

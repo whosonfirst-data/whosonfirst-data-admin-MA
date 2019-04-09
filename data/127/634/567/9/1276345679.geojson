@@ -1,0 +1,67 @@
+{
+  "id": 1276345679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.15434,33.17545,-7.15434,33.17545",
+    "geom:latitude":33.17545,
+    "geom:longitude":-7.15434,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mgarto",
+    "gn:country_code":"MA",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565242,
+    "gn:latitude":33.17545,
+    "gn:longitude":-7.15434,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mgarto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565242
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"92b3e0acd372db7e71d1abffb571047a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1276345679,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1276345679,
+    "wof:lastmodified":1536762072,
+    "wof:name":"Mgarto",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.15434,
+    33.17545,
+    -7.15434,
+    33.17545
+],
+  "geometry": {"coordinates":[-7.15434,33.17545],"type":"Point"}
+}

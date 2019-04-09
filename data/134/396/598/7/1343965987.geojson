@@ -1,0 +1,67 @@
+{
+  "id": 1343965987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.49676,34.72139,-2.49676,34.72139",
+    "geom:latitude":34.72139,
+    "geom:longitude":-2.49676,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Rhamna",
+    "gn:country_code":"MA",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11066753,
+    "gn:latitude":34.72139,
+    "gn:longitude":-2.49676,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Rhamna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11066753
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b2128ada9fd8d87571363a67746e0030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "locality_id":1343965987,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1343965987,
+    "wof:lastmodified":1537011216,
+    "wof:name":"Douar Rhamna",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.49676,
+    34.72139,
+    -2.49676,
+    34.72139
+],
+  "geometry": {"coordinates":[-2.49676,34.72139],"type":"Point"}
+}

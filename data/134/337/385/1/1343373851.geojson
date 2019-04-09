@@ -1,0 +1,67 @@
+{
+  "id": 1343373851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.48,34.29,-6.48,34.29",
+    "geom:latitude":34.29,
+    "geom:longitude":-6.48,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Le Puits Rouge",
+    "gn:country_code":"MA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543411,
+    "gn:latitude":34.29,
+    "gn:longitude":-6.48,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Le Puits Rouge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543411
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"90972e1a2743dd34cc29dc8f8a628e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1343373851,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1343373851,
+    "wof:lastmodified":1536869991,
+    "wof:name":"Le Puits Rouge",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.48,
+    34.29,
+    -6.48,
+    34.29
+],
+  "geometry": {"coordinates":[-6.48,34.29],"type":"Point"}
+}

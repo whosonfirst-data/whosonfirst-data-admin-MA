@@ -1,0 +1,72 @@
+{
+  "id": 1343571497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.15747,30.61277,-6.15747,30.61277",
+    "geom:latitude":30.61277,
+    "geom:longitude":-6.15747,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taakilt",
+    "gn:country_code":"MA",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532323,
+    "gn:latitude":30.61277,
+    "gn:longitude":-6.15747,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taakilt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u2018kilt",
+        "Ta\u00e2kilat",
+        "Taakilt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532323
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9b2b51f715a05f4026e5d82c1575b23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1343571497,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343571497,
+    "wof:lastmodified":1537663493,
+    "wof:name":"Taakilt",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.15747,
+    30.61277,
+    -6.15747,
+    30.61277
+],
+  "geometry": {"coordinates":[-6.15747,30.61277],"type":"Point"}
+}

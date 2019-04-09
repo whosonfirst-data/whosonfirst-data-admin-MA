@@ -1,0 +1,72 @@
+{
+  "id": 1344178871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29082,33.22527,-8.29082,33.22527",
+    "geom:latitude":33.22527,
+    "geom:longitude":-8.29082,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Slamna",
+    "gn:country_code":"MA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551207,
+    "gn:latitude":33.22527,
+    "gn:longitude":-8.29082,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Douar Slamna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slamna",
+        "Douar Slama",
+        "Douar Slamna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551207
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b6fdcad2d0e618f7a17f8b07dfba9c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1344178871,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1344178871,
+    "wof:lastmodified":1537663920,
+    "wof:name":"Douar Slamna",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29082,
+    33.22527,
+    -8.29082,
+    33.22527
+],
+  "geometry": {"coordinates":[-8.29082,33.22527],"type":"Point"}
+}

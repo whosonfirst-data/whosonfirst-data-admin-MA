@@ -1,0 +1,67 @@
+{
+  "id": 1293475745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10277,32.04548,-9.10277,32.04548",
+    "geom:latitude":32.04548,
+    "geom:longitude":-9.10277,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad Lhiri",
+    "gn:country_code":"MA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10917115,
+    "gn:latitude":32.04548,
+    "gn:longitude":-9.10277,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Lhiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10917115
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e736b5f7635c2889a5b6c3e509c8746c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1293475745,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1293475745,
+    "wof:lastmodified":1536803938,
+    "wof:name":"Douar Oulad Lhiri",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10277,
+    32.04548,
+    -9.10277,
+    32.04548
+],
+  "geometry": {"coordinates":[-9.10277,32.04548],"type":"Point"}
+}

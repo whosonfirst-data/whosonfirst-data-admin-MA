@@ -1,0 +1,61 @@
+{
+  "id": 1209234715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.34024,31.59315,-7.34024,31.59315",
+    "geom:latitude":31.59315,
+    "geom:longitude":-7.34024,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Abdi",
+    "gn:country_code":"MA",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354389,
+    "gn:latitude":31.59315,
+    "gn:longitude":-7.34024,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Abdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354389
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4388099f70b9194a661f7e31be532098",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209234715
+        }
+    ],
+    "wof:id":1209234715,
+    "wof:lastmodified":1536293523,
+    "wof:name":"Ait Abdi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.34024,
+    31.59315,
+    -7.34024,
+    31.59315
+],
+  "geometry": {"coordinates":[-7.34024,31.59315],"type":"Point"}
+}

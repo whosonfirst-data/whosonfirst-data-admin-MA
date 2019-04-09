@@ -1,0 +1,75 @@
+{
+  "id": 421190003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.446228,30.696634,-6.446228,30.696634",
+    "geom:latitude":30.696634,
+    "geom:longitude":-6.446228,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0643\u062f\u0632",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0633\u0648\u0633 \u0640 \u0645\u0627\u0633\u0629 \u0640 \u062f\u0631\u0639\u0629",
+    "qs:photos":454,
+    "qs:photos_1k":92,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":454,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118207,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1529626,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1529626,
+        "qs:id":1118207
+    },
+    "wof:country":"MA",
+    "wof:created":1459009643,
+    "wof:geomhash":"69fc5a046712cb47c3400ff625b3b17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":421190003,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":421190003,
+    "wof:lastmodified":1499519204,
+    "wof:name":"\u0627\u0643\u062f\u0632",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.446228,
+    30.696634,
+    -6.446228,
+    30.696634
+],
+  "geometry": {"coordinates":[-6.446228,30.696634],"type":"Point"}
+}

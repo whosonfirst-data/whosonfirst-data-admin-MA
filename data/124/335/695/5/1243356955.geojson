@@ -1,0 +1,71 @@
+{
+  "id": 1243356955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32988,31.37018,-7.32988,31.37018",
+    "geom:latitude":31.37018,
+    "geom:longitude":-7.32988,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Titdri",
+    "gn:country_code":"MA",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527279,
+    "gn:latitude":31.37018,
+    "gn:longitude":-7.32988,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Titdri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiledri",
+        "Titdri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527279
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"13dd4cb1a4d6c11a1cf279c408a75375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1243356955,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243356955,
+    "wof:lastmodified":1537663350,
+    "wof:name":"Titdri",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.32988,
+    31.37018,
+    -7.32988,
+    31.37018
+],
+  "geometry": {"coordinates":[-7.32988,31.37018],"type":"Point"}
+}

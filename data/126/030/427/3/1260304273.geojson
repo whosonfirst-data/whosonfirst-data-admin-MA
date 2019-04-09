@@ -1,0 +1,71 @@
+{
+  "id": 1260304273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.94548,34.53118,-3.94548,34.53118",
+    "geom:latitude":34.53118,
+    "geom:longitude":-3.94548,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jleila",
+    "gn:country_code":"MA",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546416,
+    "gn:latitude":34.53118,
+    "gn:longitude":-3.94548,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jle\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jle\u00efla",
+        "Ile\u00efla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546416
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"529b1879bd69d148c1d52de31d0a47f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1260304273,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1260304273,
+    "wof:lastmodified":1537663755,
+    "wof:name":"Jleila",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.94548,
+    34.53118,
+    -3.94548,
+    34.53118
+],
+  "geometry": {"coordinates":[-3.94548,34.53118],"type":"Point"}
+}

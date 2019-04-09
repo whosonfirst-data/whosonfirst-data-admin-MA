@@ -1,0 +1,61 @@
+{
+  "id": 1209433333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.38,35.06,-4.38,35.06",
+    "geom:latitude":35.06,
+    "geom:longitude":-4.38,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tafrast",
+    "gn:country_code":"MA",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531853,
+    "gn:latitude":35.06,
+    "gn:longitude":-4.38,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tafrast",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531853
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e7e473d6c54a05ed5e3bcba7907cff04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209433333
+        }
+    ],
+    "wof:id":1209433333,
+    "wof:lastmodified":1536287174,
+    "wof:name":"Tafrast",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.38,
+    35.06,
+    -4.38,
+    35.06
+],
+  "geometry": {"coordinates":[-4.38,35.06],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209530653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.67217,30.49505,-9.67217,30.49505",
+    "geom:latitude":30.49505,
+    "geom:longitude":-9.67217,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tama Ou Anza",
+    "gn:country_code":"MA",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530836,
+    "gn:latitude":30.49505,
+    "gn:longitude":-9.67217,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tama Ou Anza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tama ou Ennza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530836
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"393c26b431863c056d8f21a33014f082",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209530653
+        }
+    ],
+    "wof:id":1209530653,
+    "wof:lastmodified":1537663449,
+    "wof:name":"Tama Ou Anza",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.67217,
+    30.49505,
+    -9.67217,
+    30.49505
+],
+  "geometry": {"coordinates":[-9.67217,30.49505],"type":"Point"}
+}

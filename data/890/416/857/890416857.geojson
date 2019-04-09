@@ -1,0 +1,78 @@
+{
+  "id": 890416857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.66973,34.02856,-2.66973,34.02856",
+    "geom:latitude":34.02856,
+    "geom:longitude":-2.66973,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":9759,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0645\u064a\u0645\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Lahsen"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Lahsen (CR)",
+        "Sidi Lahsen (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Lahsen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545920,
+        "qs:id":629063,
+        "wd:id":"Q3483246",
+        "wk:page":"Sidi Lahsen"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051167,
+    "wof:geomhash":"ebde48163caa18d7fc7f8724df47d5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "localadmin_id":890416857,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890416857,
+    "wof:lastmodified":1527792800,
+    "wof:name":"Sidi Lahsen",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"localadmin",
+    "wof:population":9759,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.66973,
+    34.02856,
+    -2.66973,
+    34.02856
+],
+  "geometry": {"coordinates":[-2.66973,34.02856],"type":"Point"}
+}

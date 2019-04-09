@@ -1,0 +1,71 @@
+{
+  "id": 1277089231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.87285,33.02478,-4.87285,33.02478",
+    "geom:latitude":33.02478,
+    "geom:longitude":-4.87285,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Talialit",
+    "gn:country_code":"MA",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531023,
+    "gn:latitude":33.02478,
+    "gn:longitude":-4.87285,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Talialit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tallalit",
+        "Kasba Tilialit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531023
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3af4f289cf38fb27481fbf706ed95f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1277089231,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1277089231,
+    "wof:lastmodified":1537663454,
+    "wof:name":"Talialit",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.87285,
+    33.02478,
+    -4.87285,
+    33.02478
+],
+  "geometry": {"coordinates":[-4.87285,33.02478],"type":"Point"}
+}

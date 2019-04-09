@@ -1,0 +1,67 @@
+{
+  "id": 1209737325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22508,33.09459,-8.22508,33.09459",
+    "geom:latitude":33.09459,
+    "geom:longitude":-8.22508,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Clabta",
+    "gn:country_code":"MA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963790,
+    "gn:latitude":33.09459,
+    "gn:longitude":-8.22508,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"\u00c7labta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963790
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"753089778596d74d76967114d53c22f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1209737325,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1209737325,
+    "wof:lastmodified":1536372291,
+    "wof:name":"Clabta",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22508,
+    33.09459,
+    -8.22508,
+    33.09459
+],
+  "geometry": {"coordinates":[-8.22508,33.09459],"type":"Point"}
+}

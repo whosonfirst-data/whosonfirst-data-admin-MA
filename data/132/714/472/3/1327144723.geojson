@@ -1,0 +1,73 @@
+{
+  "id": 1327144723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5907,32.91391,-5.5907,32.91391",
+    "geom:latitude":32.91391,
+    "geom:longitude":-5.5907,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Irherm n'Ait Chard",
+    "gn:country_code":"MA",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560156,
+    "gn:latitude":32.91391,
+    "gn:longitude":-5.5907,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Irherm n\u2019A\u00eft Chard",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igherm-n-A\u00eft Chard",
+        "A\u00eft Chart",
+        "A\u00eft Chard",
+        "Irherm n\u2019A\u00eft Chard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560156
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3e1123c8f11f16f27fe16802f1c04622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1327144723,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327144723,
+    "wof:lastmodified":1537664195,
+    "wof:name":"Irherm n'Ait Chard",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5907,
+    32.91390999999999,
+    -5.5907,
+    32.91390999999999
+],
+  "geometry": {"coordinates":[-5.5907,32.91390999999999],"type":"Point"}
+}

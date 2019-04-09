@@ -1,0 +1,88 @@
+{
+  "id": 1125329981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33448,29.46462,-8.33448,29.46462",
+    "geom:latitude":29.46462,
+    "geom:longitude":-8.33448,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7012,
+    "gn:population":7012,
+    "iso:country":"MA",
+    "lbl:latitude":29.46462,
+    "lbl:longitude":-8.33448,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0648\u0627\u0628\u0644\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Kasbat S Abdellah M-"
+    ],
+    "name:fra_x_variant":[
+        "Kasbat S Abdellah M- (CR)",
+        "Kasbat S Abdellah M- (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545633,
+    "qs_pg:gn_pop":7012,
+    "qs_pg:name":"Kasbat S Abdellah M-",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628774,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545633,
+        "qs_pg:id":628774
+    },
+    "wof:country":"MA",
+    "wof:created":1497045078,
+    "wof:geomhash":"4526ea997da3233dc08f236c790aa8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "localadmin_id":1125329981,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1125329981,
+    "wof:lastmodified":1509388348,
+    "wof:name":"Kasbat S Abdellah M-",
+    "wof:parent_id":890453851,
+    "wof:placetype":"localadmin",
+    "wof:population":7012,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33448,
+    29.46462,
+    -8.33448,
+    29.46462
+],
+  "geometry": {"coordinates":[-8.33448,29.46462],"type":"Point"}
+}

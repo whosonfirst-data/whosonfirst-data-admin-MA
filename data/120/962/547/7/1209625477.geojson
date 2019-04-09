@@ -1,0 +1,67 @@
+{
+  "id": 1209625477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55491,31.59401,-9.55491,31.59401",
+    "geom:latitude":31.59401,
+    "geom:longitude":-9.55491,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ait Tahriya",
+    "gn:country_code":"MA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558992,
+    "gn:latitude":31.59401,
+    "gn:longitude":-9.55491,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ait Tahriya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia Elmguia",
+        "A\u00eft Tahri",
+        "A\u00eft Tahria",
+        "Douar Ait Tahriya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558992
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bcf59f248217c0981bee12680fa585c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625477
+        }
+    ],
+    "wof:id":1209625477,
+    "wof:lastmodified":1537664150,
+    "wof:name":"Douar Ait Tahriya",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55491,
+    31.59401,
+    -9.55491,
+    31.59401
+],
+  "geometry": {"coordinates":[-9.55491,31.59401],"type":"Point"}
+}

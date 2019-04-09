@@ -1,0 +1,67 @@
+{
+  "id": 1243278889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.16366,32.40885,-4.16366,32.40885",
+    "geom:latitude":32.40885,
+    "geom:longitude":-4.16366,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mougueur",
+    "gn:country_code":"MA",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541947,
+    "gn:latitude":32.40885,
+    "gn:longitude":-4.16366,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mougueur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541947
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1ca10084a31576ca9ec7ce211db47c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1243278889,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1243278889,
+    "wof:lastmodified":1537045116,
+    "wof:name":"Mougueur",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.16366,
+    32.40885,
+    -4.16366,
+    32.40885
+],
+  "geometry": {"coordinates":[-4.16366,32.40885],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326740705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.03222,33.78452,-5.03222,33.78452",
+    "geom:latitude":33.78452,
+    "geom:longitude":-5.03222,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait Sbaa",
+    "gn:country_code":"MA",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559097,
+    "gn:latitude":33.78452,
+    "gn:longitude":-5.03222,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ait Sbaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c2\u00eft-Sebaa",
+        "A\u00eft Sbaa",
+        "Ait Sbaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559097
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0f3874b99287d21651fa226b2e1f5eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1326740705,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1326740705,
+    "wof:lastmodified":1537664154,
+    "wof:name":"Ait Sbaa",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.03222,
+    33.78452,
+    -5.03222,
+    33.78452
+],
+  "geometry": {"coordinates":[-5.03222,33.78452],"type":"Point"}
+}

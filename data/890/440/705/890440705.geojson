@@ -1,0 +1,78 @@
+{
+  "id": 890440705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.00181,31.97723,-7.00181,31.97723",
+    "geom:latitude":31.97723,
+    "geom:longitude":-7.00181,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":4298,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0632\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Foum Jemaa"
+    ],
+    "name:fra_x_variant":[
+        "Foum Jemaa (CR)",
+        "Foum Jemaa (Commune Rurale)"
+    ],
+    "qs:name":"Foum Jemaa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546805,
+        "qs:id":629908,
+        "wd:id":"Q1169855",
+        "wk:page":"Foum Jamaa"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052294,
+    "wof:geomhash":"5577524b2d9ad28f375f46b5278f639b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "localadmin_id":890440705,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890440705,
+    "wof:lastmodified":1527727106,
+    "wof:name":"Foum Jemaa",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"localadmin",
+    "wof:population":4298,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.00181,
+    31.97723,
+    -7.00181,
+    31.97723
+],
+  "geometry": {"coordinates":[-7.00181,31.97723],"type":"Point"}
+}

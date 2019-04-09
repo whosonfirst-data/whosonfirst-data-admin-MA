@@ -1,0 +1,70 @@
+{
+  "id": 1326740737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.69825,35.06,-3.69825,35.06",
+    "geom:latitude":35.06,
+    "geom:longitude":-3.69825,
+    "gn:asciiname":"Imagrouden",
+    "gn:country_code":"MA",
+    "gn:dem":458,
+    "gn:elevation":"800.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8659205,
+    "gn:latitude":35.06,
+    "gn:longitude":-3.69825,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Imagrouden",
+    "gn:population":50,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8659205
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b4ef15a2162529392c4bd3f3c62d248a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1326740737,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1326740737,
+    "wof:lastmodified":1536683325,
+    "wof:name":"Imagrouden",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.69825,
+    35.06,
+    -3.69825,
+    35.06
+],
+  "geometry": {"coordinates":[-3.69825,35.06],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310712089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.02886,30.84603,-7.02886,30.84603",
+    "geom:latitude":30.84603,
+    "geom:longitude":-7.02886,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taganzalt",
+    "gn:country_code":"MA",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531532,
+    "gn:latitude":30.84603,
+    "gn:longitude":-7.02886,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taganzalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taguenzelt",
+        "Taguenzalt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531532
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"916a99239de1f972db7033c1b26531aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1310712089,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310712089,
+    "wof:lastmodified":1537663467,
+    "wof:name":"Taganzalt",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.02886,
+    30.84603,
+    -7.02886,
+    30.84603
+],
+  "geometry": {"coordinates":[-7.02886,30.84603],"type":"Point"}
+}

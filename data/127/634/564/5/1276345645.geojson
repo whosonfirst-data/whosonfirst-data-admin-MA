@@ -1,0 +1,71 @@
+{
+  "id": 1276345645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.47975,30.26138,-6.47975,30.26138",
+    "geom:latitude":30.26138,
+    "geom:longitude":-6.47975,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oulad Hammou",
+    "gn:country_code":"MA",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539758,
+    "gn:latitude":30.26138,
+    "gn:longitude":-6.47975,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Hammou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Hammou",
+        "Oulad Hammou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539758
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b72c1ab29b56c63f156e096b1bc15f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1276345645,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276345645,
+    "wof:lastmodified":1537663587,
+    "wof:name":"Oulad Hammou",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.47975,
+    30.26138,
+    -6.47975,
+    30.26138
+],
+  "geometry": {"coordinates":[-6.47975,30.26138],"type":"Point"}
+}

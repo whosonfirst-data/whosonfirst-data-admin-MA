@@ -1,0 +1,74 @@
+{
+  "id": 1344170235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.34458,34.80321,-5.34458,34.80321",
+    "geom:latitude":34.80321,
+    "geom:longitude":-5.34458,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"151.0",
+    "gn:admin3_code":"1615109112.0",
+    "gn:asciiname":"Zoumi",
+    "gn:country_code":"MA",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2525874,
+    "gn:latitude":34.80321,
+    "gn:longitude":-5.34458,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Zoumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zumi",
+        "Zoumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2525874,
+        "wk:page":"Zoumi"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d2b66e6ce803f0313432f70a03354339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1344170235,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1344170235,
+    "wof:lastmodified":1537663306,
+    "wof:name":"Zoumi",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.34458,
+    34.80321,
+    -5.34458,
+    34.80321
+],
+  "geometry": {"coordinates":[-5.34458,34.80321],"type":"Point"}
+}

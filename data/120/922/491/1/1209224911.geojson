@@ -1,0 +1,66 @@
+{
+  "id": 1209224911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.50989,34.55168,-5.50989,34.55168",
+    "geom:latitude":34.55168,
+    "geom:longitude":-5.50989,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hasba",
+    "gn:country_code":"MA",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550138,
+    "gn:latitude":34.55168,
+    "gn:longitude":-5.50989,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Hasba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Hasba",
+        "El Hasba",
+        "Hasba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550138
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f41242bf1ff0c35919fc7ffbc242169b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224911
+        }
+    ],
+    "wof:id":1209224911,
+    "wof:lastmodified":1537663866,
+    "wof:name":"Hasba",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.50989,
+    34.55168,
+    -5.50989,
+    34.55168
+],
+  "geometry": {"coordinates":[-5.50989,34.55168],"type":"Point"}
+}

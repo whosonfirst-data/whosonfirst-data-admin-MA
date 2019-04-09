@@ -1,0 +1,73 @@
+{
+  "id": 1193026301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.30138,33.81885,-5.30138,33.81885",
+    "geom:latitude":33.81885,
+    "geom:longitude":-5.30138,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait Mazouz",
+    "gn:country_code":"MA",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559570,
+    "gn:latitude":33.81885,
+    "gn:longitude":-5.30138,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ait Mazouz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Mzouz touizat",
+        "A\u00eft Mazzouz",
+        "A\u00eft Mazouz",
+        "Ait Mazouz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559570
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a3173e20d4b862e398130830f91dc85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1193026301,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1193026301,
+    "wof:lastmodified":1537664171,
+    "wof:name":"Ait Mazouz",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.30138,
+    33.81885,
+    -5.30138,
+    33.81885
+],
+  "geometry": {"coordinates":[-5.30138,33.81885],"type":"Point"}
+}

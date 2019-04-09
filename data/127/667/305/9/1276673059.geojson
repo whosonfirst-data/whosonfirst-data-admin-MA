@@ -1,0 +1,71 @@
+{
+  "id": 1276673059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.31115,29.18147,-10.31115,29.18147",
+    "geom:latitude":29.18147,
+    "geom:longitude":-10.31115,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dar el Haithat",
+    "gn:country_code":"MA",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552792,
+    "gn:latitude":29.18147,
+    "gn:longitude":-10.31115,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar el Haithat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Ainetad",
+        "Dar el Haithat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552792
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"33cb1531ee8861b6dbaf23f387a5bcc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1276673059,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276673059,
+    "wof:lastmodified":1537664014,
+    "wof:name":"Dar el Haithat",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.31115,
+    29.18147,
+    -10.31115,
+    29.18147
+],
+  "geometry": {"coordinates":[-10.31115,29.18147],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 890437867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.75124,34.8223,-4.75124,34.8223",
+    "geom:latitude":34.8223,
+    "geom:longitude":-4.75124,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":12610,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u0633\u0627\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tamsaout"
+    ],
+    "name:fra_x_variant":[
+        "Tamsaout (CR)",
+        "Tamsaout (Commune Rurale)"
+    ],
+    "qs:name":"Tamsaout",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547081,
+        "qs:id":630163,
+        "wk:page":"Tamsaout"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052169,
+    "wof:geomhash":"baf0b918656bbd4b129c546106a7178a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "localadmin_id":890437867,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890437867,
+    "wof:lastmodified":1527729749,
+    "wof:name":"Tamsaout",
+    "wof:parent_id":890429097,
+    "wof:placetype":"localadmin",
+    "wof:population":12610,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.75124,
+    34.8223,
+    -4.75124,
+    34.8223
+],
+  "geometry": {"coordinates":[-4.75124,34.8223],"type":"Point"}
+}

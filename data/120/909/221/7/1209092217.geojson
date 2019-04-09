@@ -1,0 +1,61 @@
+{
+  "id": 1209092217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7032,32.11868,-8.7032,32.11868",
+    "geom:latitude":32.11868,
+    "geom:longitude":-8.7032,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Dar",
+    "gn:country_code":"MA",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10638065,
+    "gn:latitude":32.11868,
+    "gn:longitude":-8.7032,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Dar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10638065
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3961d6dbff711f93643d6e2a38c8faa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209092217
+        }
+    ],
+    "wof:id":1209092217,
+    "wof:lastmodified":1536298001,
+    "wof:name":"Oulad Dar",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7032,
+    32.11868,
+    -8.7032,
+    32.11868
+],
+  "geometry": {"coordinates":[-8.7032,32.11868],"type":"Point"}
+}

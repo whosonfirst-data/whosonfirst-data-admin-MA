@@ -1,0 +1,78 @@
+{
+  "id": 890417219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84576,33.20801,-7.84576,33.20801",
+    "geom:latitude":33.20801,
+    "geom:longitude":-7.84576,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":16191,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0646 \u0645\u0639\u0627\u0634\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Laghnimyine"
+    ],
+    "name:fra_x_variant":[
+        "Laghnimyine (CR)",
+        "Laghnimyine (Commune Rurale)"
+    ],
+    "qs:name":"Laghnimyine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546717,
+        "qs:id":629815,
+        "wd:id":"Q6472109",
+        "wk:page":"Laghnimyine"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051189,
+    "wof:geomhash":"bf0a0a297520e10b85c29c601f51ed64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "localadmin_id":890417219,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890417219,
+    "wof:lastmodified":1527782120,
+    "wof:name":"Laghnimyine",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"localadmin",
+    "wof:population":16191,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84576,
+    33.20801,
+    -7.84576,
+    33.20801
+],
+  "geometry": {"coordinates":[-7.84576,33.20801],"type":"Point"}
+}

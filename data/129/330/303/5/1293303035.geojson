@@ -1,0 +1,72 @@
+{
+  "id": 1293303035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2955,35.05525,-5.2955,35.05525",
+    "geom:latitude":35.05525,
+    "geom:longitude":-5.2955,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beni Aachir",
+    "gn:country_code":"MA",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555998,
+    "gn:latitude":35.05525,
+    "gn:longitude":-5.2955,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Beni Aachir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Acher",
+        "Bani Achir",
+        "Beni Aachir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555998
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"067ac33806f88060fcdad97feb5f76cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1293303035,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293303035,
+    "wof:lastmodified":1537664077,
+    "wof:name":"Beni Aachir",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2955,
+    35.05525,
+    -5.2955,
+    35.05525
+],
+  "geometry": {"coordinates":[-5.2955,35.05525],"type":"Point"}
+}

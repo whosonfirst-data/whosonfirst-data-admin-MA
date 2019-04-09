@@ -1,0 +1,67 @@
+{
+  "id": 1310091325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55721,31.28647,-9.55721,31.28647",
+    "geom:latitude":31.28647,
+    "geom:longitude":-9.55721,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Tachikhat",
+    "gn:country_code":"MA",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946188,
+    "gn:latitude":31.28647,
+    "gn:longitude":-9.55721,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tachikhat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946188
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4bf6d29b8ca24d7d44d67a42d68fe8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1310091325,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310091325,
+    "wof:lastmodified":1537016276,
+    "wof:name":"Douar Tachikhat",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55721,
+    31.28647,
+    -9.55721,
+    31.28647
+],
+  "geometry": {"coordinates":[-9.55721,31.28647],"type":"Point"}
+}

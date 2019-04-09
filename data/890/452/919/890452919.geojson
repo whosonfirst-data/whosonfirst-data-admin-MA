@@ -1,0 +1,75 @@
+{
+  "id": 890452919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85284,33.10111,-7.85284,33.10111",
+    "geom:latitude":33.10111,
+    "geom:longitude":-7.85284,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":10039,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0627\u0644\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Zaouiat Sidi Ben Ham"
+    ],
+    "name:fra_x_variant":[
+        "Zaouiat Sidi Ben Ham (CR)",
+        "Zaouiat Sidi Ben Ham (Commune Rurale)"
+    ],
+    "qs:name":"Zaouiat Sidi Ben Ham",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545913,
+        "qs:id":629056
+    },
+    "wof:country":"MA",
+    "wof:created":1469052834,
+    "wof:geomhash":"ccf2daa09143f06f5102e47de736bd8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "localadmin_id":890452919,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890452919,
+    "wof:lastmodified":1505343648,
+    "wof:name":"Zaouiat Sidi Ben Ham",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"localadmin",
+    "wof:population":10039,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85284,
+    33.10111,
+    -7.85284,
+    33.10111
+],
+  "geometry": {"coordinates":[-7.85284,33.10111],"type":"Point"}
+}

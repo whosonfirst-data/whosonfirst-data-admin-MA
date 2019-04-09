@@ -1,0 +1,71 @@
+{
+  "id": 1259989797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.30072,34.84361,-6.30072,34.84361",
+    "geom:latitude":34.84361,
+    "geom:longitude":-6.30072,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rouissia",
+    "gn:country_code":"MA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537932,
+    "gn:latitude":34.84361,
+    "gn:longitude":-6.30072,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Rouissia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Rouissia",
+        "Rouissia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537932
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f24925d680753a1e2719667a9b4af652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1259989797,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1259989797,
+    "wof:lastmodified":1537663530,
+    "wof:name":"Rouissia",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.30072,
+    34.84361,
+    -6.30072,
+    34.84361
+],
+  "geometry": {"coordinates":[-6.30072,34.84361],"type":"Point"}
+}

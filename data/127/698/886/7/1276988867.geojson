@@ -1,0 +1,67 @@
+{
+  "id": 1276988867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.68359,35.04106,-3.68359,35.04106",
+    "geom:latitude":35.04106,
+    "geom:longitude":-3.68359,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Islimatene",
+    "gn:country_code":"MA",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092316,
+    "gn:latitude":35.04106,
+    "gn:longitude":-3.68359,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Islimatene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092316
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eccc2075f5f074e63094e30ad10767c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1276988867,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1276988867,
+    "wof:lastmodified":1536894723,
+    "wof:name":"Douar Islimatene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.68359,
+    35.04105999999999,
+    -3.68359,
+    35.04105999999999
+],
+  "geometry": {"coordinates":[-3.68359,35.04105999999999],"type":"Point"}
+}

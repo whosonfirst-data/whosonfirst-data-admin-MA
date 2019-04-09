@@ -1,0 +1,73 @@
+{
+  "id": 1276238677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67355,31.35863,-8.67355,31.35863",
+    "geom:latitude":31.35863,
+    "geom:longitude":-8.67355,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oled Zaouia",
+    "gn:country_code":"MA",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539079,
+    "gn:latitude":31.35863,
+    "gn:longitude":-8.67355,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oled Zaouia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia",
+        "Ouled Zaou\u00efa",
+        "Oulad Zaouia",
+        "Oled Zaouia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539079
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"da4a64cebadb0ad7d010b388a4e109d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1276238677,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276238677,
+    "wof:lastmodified":1537663551,
+    "wof:name":"Oled Zaouia",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67355,
+    31.35863,
+    -8.67355,
+    31.35863
+],
+  "geometry": {"coordinates":[-8.67355,31.35863],"type":"Point"}
+}

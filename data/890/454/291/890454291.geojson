@@ -1,0 +1,78 @@
+{
+  "id": 890454291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.45647,32.60417,-6.45647,32.60417",
+    "geom:latitude":32.60417,
+    "geom:longitude":-6.45647,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":13618,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u064a\u0648\u0633\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Oulad Said L Oued"
+    ],
+    "name:fra_x_variant":[
+        "Oulad Said L Oued (CR)",
+        "Oulad Said L Oued (Commune Rurale)"
+    ],
+    "qs:name":"Oulad Said L Oued",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546415,
+        "qs:id":629520,
+        "wd:id":"Q7110423",
+        "wk:page":"Oulad Said L'Oued"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052894,
+    "wof:geomhash":"4020e3da11653035d45c26668aded8a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "localadmin_id":890454291,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890454291,
+    "wof:lastmodified":1527735430,
+    "wof:name":"Oulad Said L Oued",
+    "wof:parent_id":890452779,
+    "wof:placetype":"localadmin",
+    "wof:population":13618,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.45647,
+    32.60417,
+    -6.45647,
+    32.60417
+],
+  "geometry": {"coordinates":[-6.45647,32.60417],"type":"Point"}
+}

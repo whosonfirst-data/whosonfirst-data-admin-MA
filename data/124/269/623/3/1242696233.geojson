@@ -1,0 +1,72 @@
+{
+  "id": 1242696233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27472,32.23201,-8.27472,32.23201",
+    "geom:latitude":32.23201,
+    "geom:longitude":-8.27472,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Nzalat Laarya",
+    "gn:country_code":"MA",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556602,
+    "gn:latitude":32.23201,
+    "gn:longitude":-8.27472,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Nzalat Laarya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azib Hai Lhasene",
+        "Azib Haj Lhasene",
+        "Douar Nzalat Laarya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556602
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b64a7989cae6da430663b84b5a2e5833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1242696233,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242696233,
+    "wof:lastmodified":1537664089,
+    "wof:name":"Douar Nzalat Laarya",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27472,
+    32.23201,
+    -8.27472,
+    32.23201
+],
+  "geometry": {"coordinates":[-8.27472,32.23201],"type":"Point"}
+}

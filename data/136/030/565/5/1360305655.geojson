@@ -1,0 +1,70 @@
+{
+  "id": 1360305655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.56133,31.83417,-7.56133,31.83417",
+    "geom:latitude":31.83417,
+    "geom:longitude":-7.56133,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ouled Hmida",
+    "gn:country_code":"MA",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631607,
+    "gn:latitude":31.83417,
+    "gn:longitude":-7.56133,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ouled Hmida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad et Telha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631607
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"336fbc60abe2ae4d7f4febd4da056c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1360305655,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360305655,
+    "wof:lastmodified":1537664292,
+    "wof:name":"Douar Ouled Hmida",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.56133,
+    31.83417,
+    -7.56133,
+    31.83417
+],
+  "geometry": {"coordinates":[-7.56133,31.83417],"type":"Point"}
+}

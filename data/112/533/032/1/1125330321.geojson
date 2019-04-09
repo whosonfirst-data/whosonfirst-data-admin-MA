@@ -1,0 +1,88 @@
+{
+  "id": 1125330321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72785,34.88731,-3.72785,34.88731",
+    "geom:latitude":34.88731,
+    "geom:longitude":-3.72785,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2126,
+    "gn:population":2126,
+    "iso:country":"MA",
+    "lbl:latitude":34.88731,
+    "lbl:longitude":-3.72785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0645\u064a\u0636\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Kassita"
+    ],
+    "name:fra_x_variant":[
+        "Kassita (AC)",
+        "Kassita (Agglomeration Communale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546218,
+    "qs_pg:gn_pop":2126,
+    "qs_pg:name":"Kassita",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629355,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546218,
+        "qs_pg:id":629355
+    },
+    "wof:country":"MA",
+    "wof:created":1497045095,
+    "wof:geomhash":"65acbcdc45531a437d49faf81ca4362e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "localadmin_id":1125330321,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1125330321,
+    "wof:lastmodified":1509388358,
+    "wof:name":"Kassita",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"localadmin",
+    "wof:population":2126,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72785,
+    34.88731,
+    -3.72785,
+    34.88731
+],
+  "geometry": {"coordinates":[-3.72785,34.88731],"type":"Point"}
+}

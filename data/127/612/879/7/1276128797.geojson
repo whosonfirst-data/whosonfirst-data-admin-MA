@@ -1,0 +1,67 @@
+{
+  "id": 1276128797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7,33.56,-6.7,33.56",
+    "geom:latitude":33.56,
+    "geom:longitude":-6.7,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Souk el Tleta",
+    "gn:country_code":"MA",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532426,
+    "gn:latitude":33.56,
+    "gn:longitude":-6.7,
+    "gn:modification_date":"2005-04-12",
+    "gn:name":"Souk el Tleta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532426
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"91373d57985d0eb4902b4449104440e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1276128797,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1276128797,
+    "wof:lastmodified":1537050471,
+    "wof:name":"Souk el Tleta",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7,
+    33.56,
+    -6.7,
+    33.56
+],
+  "geometry": {"coordinates":[-6.7,33.56],"type":"Point"}
+}

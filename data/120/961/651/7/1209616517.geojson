@@ -1,0 +1,61 @@
+{
+  "id": 1209616517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96257,33.64861,-4.96257,33.64861",
+    "geom:latitude":33.64861,
+    "geom:longitude":-4.96257,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bou Maiz",
+    "gn:country_code":"MA",
+    "gn:dem":1549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10921492,
+    "gn:latitude":33.64861,
+    "gn:longitude":-4.96257,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bou Maiz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921492
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e7d37e26031a64c9097f5e3f3f71b31b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209616517
+        }
+    ],
+    "wof:id":1209616517,
+    "wof:lastmodified":1536281669,
+    "wof:name":"Bou Maiz",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96257,
+    33.64861,
+    -4.96257,
+    33.64861
+],
+  "geometry": {"coordinates":[-4.96257,33.64861],"type":"Point"}
+}

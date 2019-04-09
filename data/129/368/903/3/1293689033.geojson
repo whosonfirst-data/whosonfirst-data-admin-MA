@@ -1,0 +1,67 @@
+{
+  "id": 1293689033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.80502,35.12665,-3.80502,35.12665",
+    "geom:latitude":35.12665,
+    "geom:longitude":-3.80502,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Bouhliba",
+    "gn:country_code":"MA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559229,
+    "gn:latitude":35.12665,
+    "gn:longitude":-3.80502,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Bouhliba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559229
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0d308ad9ba551677d8380e687f5a85d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1293689033,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293689033,
+    "wof:lastmodified":1536992951,
+    "wof:name":"Douar Bouhliba",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.80502,
+    35.12665,
+    -3.80502,
+    35.12665
+],
+  "geometry": {"coordinates":[-3.80502,35.12665],"type":"Point"}
+}

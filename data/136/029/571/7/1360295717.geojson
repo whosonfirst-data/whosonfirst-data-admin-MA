@@ -1,0 +1,77 @@
+{
+  "id": 1360295717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40172,32.79791,-8.40172,32.79791",
+    "geom:latitude":32.79791,
+    "geom:longitude":-8.40172,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sebt des Beni Hellal",
+    "gn:country_code":"MA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537612,
+    "gn:latitude":32.79791,
+    "gn:longitude":-8.40172,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sebt des Beni Hellal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Jem\u00e2",
+        "Sebt-Beni-Hellal",
+        "Ej Jema",
+        "Souk ej Jem\u00e2a",
+        "El Djem\u00e2",
+        "Souk el Jema",
+        "Souk el Jemaa",
+        "Sebt des Beni Hellal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537612
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2f52500fec0b24bedc981af473862863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1360295717,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1360295717,
+    "wof:lastmodified":1537663524,
+    "wof:name":"Sebt des Beni Hellal",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40172,
+    32.79790999999999,
+    -8.40172,
+    32.79790999999999
+],
+  "geometry": {"coordinates":[-8.40172,32.79790999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309718949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.62062,33.57411,-4.62062,33.57411",
+    "geom:latitude":33.57411,
+    "geom:longitude":-4.62062,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Amana Ilila",
+    "gn:country_code":"MA",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10843789,
+    "gn:latitude":33.57411,
+    "gn:longitude":-4.62062,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Amana Ilila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10843789
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d59db08e4477ca126bfe7afa20a05fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1309718949,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1309718949,
+    "wof:lastmodified":1537053921,
+    "wof:name":"Douar Amana Ilila",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.62062,
+    33.57411,
+    -4.62062,
+    33.57411
+],
+  "geometry": {"coordinates":[-4.62062,33.57411],"type":"Point"}
+}

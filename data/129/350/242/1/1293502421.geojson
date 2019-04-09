@@ -1,0 +1,71 @@
+{
+  "id": 1293502421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.30512,34.82107,-5.30512,34.82107",
+    "geom:latitude":34.82107,
+    "geom:longitude":-5.30512,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kechachda",
+    "gn:country_code":"MA",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544635,
+    "gn:latitude":34.82107,
+    "gn:longitude":-5.30512,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kechachda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kchachda",
+        "Kechachda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544635
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"82b0303f0c63cec842fcb039f1e0b1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1293502421,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293502421,
+    "wof:lastmodified":1537663697,
+    "wof:name":"Kechachda",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.30512,
+    34.82107,
+    -5.30512,
+    34.82107
+],
+  "geometry": {"coordinates":[-5.30512,34.82107],"type":"Point"}
+}

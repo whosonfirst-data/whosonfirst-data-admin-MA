@@ -1,0 +1,67 @@
+{
+  "id": 1259887975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.24413,35.17495,-3.24413,35.17495",
+    "geom:latitude":35.17495,
+    "geom:longitude":-3.24413,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ihmidatene",
+    "gn:country_code":"MA",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10845122,
+    "gn:latitude":35.17495,
+    "gn:longitude":-3.24413,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ihmidatene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10845122
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"500e549cfd260d261df1aa4f91654abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1259887975,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1259887975,
+    "wof:lastmodified":1536773231,
+    "wof:name":"Ihmidatene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.24413,
+    35.17495,
+    -3.24413,
+    35.17495
+],
+  "geometry": {"coordinates":[-3.24413,35.17495],"type":"Point"}
+}

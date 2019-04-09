@@ -1,0 +1,67 @@
+{
+  "id": 1260193205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.13582,34.55415,-4.13582,34.55415",
+    "geom:latitude":34.55415,
+    "geom:longitude":-4.13582,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taineste",
+    "gn:country_code":"MA",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531366,
+    "gn:latitude":34.55415,
+    "gn:longitude":-4.13582,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ta\u00efneste",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531366
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8a590fdcaa56068f578db97d785715c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1260193205,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1260193205,
+    "wof:lastmodified":1536833519,
+    "wof:name":"Taineste",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.13582,
+    34.55415,
+    -4.13582,
+    34.55415
+],
+  "geometry": {"coordinates":[-4.13582,34.55415],"type":"Point"}
+}

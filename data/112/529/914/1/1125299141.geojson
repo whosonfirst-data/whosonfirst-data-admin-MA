@@ -1,0 +1,88 @@
+{
+  "id": 1125299141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.59354,32.78758,-4.59354,32.78758",
+    "geom:latitude":32.78758,
+    "geom:longitude":-4.59354,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3087,
+    "gn:population":3087,
+    "iso:country":"MA",
+    "lbl:latitude":32.78758,
+    "lbl:longitude":-4.59354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u0631\u0635\u064a\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Mibladen"
+    ],
+    "name:fra_x_variant":[
+        "Mibladen (CR)",
+        "Mibladen (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546859,
+    "qs_pg:gn_pop":3087,
+    "qs_pg:name":"Mibladen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629964,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546859,
+        "qs_pg:id":629964
+    },
+    "wof:country":"MA",
+    "wof:created":1497043322,
+    "wof:geomhash":"4bca53e06ceef1fa23600f2423200cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "localadmin_id":1125299141,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1125299141,
+    "wof:lastmodified":1509387676,
+    "wof:name":"Mibladen",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"localadmin",
+    "wof:population":3087,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.59354,
+    32.78758,
+    -4.59354,
+    32.78758
+],
+  "geometry": {"coordinates":[-4.59354,32.78758],"type":"Point"}
+}

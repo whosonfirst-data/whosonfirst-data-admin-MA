@@ -1,0 +1,72 @@
+{
+  "id": 1259368757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49278,31.65515,-7.49278,31.65515",
+    "geom:latitude":31.65515,
+    "geom:longitude":-7.49278,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Sidi el Hachemi",
+    "gn:country_code":"MA",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551228,
+    "gn:latitude":31.65515,
+    "gn:longitude":-7.49278,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Sidi el Hachemi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Ca\u00efd el Hachemi",
+        "Dar Sidi el Hachemi",
+        "Douar Sidi el Hachemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551228
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3c650fa507b15f4bf255e6fb6b675fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1259368757,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259368757,
+    "wof:lastmodified":1537663921,
+    "wof:name":"Douar Sidi el Hachemi",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49278,
+    31.65515,
+    -7.49278,
+    31.65515
+],
+  "geometry": {"coordinates":[-7.49278,31.65515],"type":"Point"}
+}

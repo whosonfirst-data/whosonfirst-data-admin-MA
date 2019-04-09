@@ -1,0 +1,71 @@
+{
+  "id": 1310619567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.8,31.78,-7.8,31.78",
+    "geom:latitude":31.78,
+    "geom:longitude":-7.8,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dar Rahal Ben Said",
+    "gn:country_code":"MA",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552539,
+    "gn:latitude":31.78,
+    "gn:longitude":-7.8,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Rahal Ben Sa\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Rehal bou Sa\u00efd",
+        "Dar Rahal Ben Sa\u00efd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552539
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ac0ea45d155fff65e1c527cff6c39631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1310619567,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310619567,
+    "wof:lastmodified":1537664005,
+    "wof:name":"Dar Rahal Ben Said",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8,
+    31.78,
+    -7.8,
+    31.78
+],
+  "geometry": {"coordinates":[-7.8,31.78],"type":"Point"}
+}

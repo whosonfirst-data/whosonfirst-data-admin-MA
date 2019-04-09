@@ -1,0 +1,73 @@
+{
+  "id": 1310619613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.03695,34.95242,-6.03695,34.95242",
+    "geom:latitude":34.95242,
+    "geom:longitude":-6.03695,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oulad Bouhmida",
+    "gn:country_code":"MA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540043,
+    "gn:latitude":34.95242,
+    "gn:longitude":-6.03695,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Bouhmida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Bouhamida",
+        "Ouled Bouhmida",
+        "Oulad Bouhamida",
+        "Oulad Bouhmida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540043
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"efb7ed49b05f0761d8154f80a44018ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1310619613,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1310619613,
+    "wof:lastmodified":1537663602,
+    "wof:name":"Oulad Bouhmida",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.03695,
+    34.95242,
+    -6.03695,
+    34.95242
+],
+  "geometry": {"coordinates":[-6.03695,34.95242],"type":"Point"}
+}

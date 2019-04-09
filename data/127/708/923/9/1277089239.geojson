@@ -1,0 +1,71 @@
+{
+  "id": 1277089239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.29021,31.92019,-9.29021,31.92019",
+    "geom:latitude":31.92019,
+    "geom:longitude":-9.29021,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lassouat",
+    "gn:country_code":"MA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543502,
+    "gn:latitude":31.92019,
+    "gn:longitude":-9.29021,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lassouat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Amine",
+        "Lassouat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543502
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fdac9d5f505a70001e4335c97bac51aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1277089239,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1277089239,
+    "wof:lastmodified":1537663675,
+    "wof:name":"Lassouat",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.29021,
+    31.92019,
+    -9.29021,
+    31.92019
+],
+  "geometry": {"coordinates":[-9.29021,31.92019],"type":"Point"}
+}

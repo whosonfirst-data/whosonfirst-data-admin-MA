@@ -1,0 +1,67 @@
+{
+  "id": 1343354795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07932,31.6211,-7.07932,31.6211",
+    "geom:latitude":31.6211,
+    "geom:longitude":-7.07932,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dar Ait Abdi",
+    "gn:country_code":"MA",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354813,
+    "gn:latitude":31.6211,
+    "gn:longitude":-7.07932,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar A\u00eft Abdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354813
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"41c9ac518325bd49b8f8fb6f75fe1c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343354795,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343354795,
+    "wof:lastmodified":1536898707,
+    "wof:name":"Dar Ait Abdi",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07932,
+    31.6211,
+    -7.07932,
+    31.6211
+],
+  "geometry": {"coordinates":[-7.07932,31.6211],"type":"Point"}
+}

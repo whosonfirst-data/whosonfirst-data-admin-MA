@@ -1,0 +1,72 @@
+{
+  "id": 1360103523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.00153,33.94265,-5.00153,33.94265",
+    "geom:latitude":33.94265,
+    "geom:longitude":-5.00153,
+    "gn:asciiname":"Ouled Khlifa",
+    "gn:country_code":"MA",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629078,
+    "gn:latitude":33.94265,
+    "gn:longitude":-5.00153,
+    "gn:modification_date":"2013-10-16",
+    "gn:name":"Ouled Khlifa",
+    "gn:population":200,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0430\u0434 \u0425\u043b\u0438\u0444\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890454333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629078
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"adde1646d0dea3b0725d6f22526023a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":1360103523,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1360103523,
+    "wof:lastmodified":1537664292,
+    "wof:name":"Ouled Khlifa",
+    "wof:parent_id":890454333,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.00153,
+    33.94265,
+    -5.00153,
+    33.94265
+],
+  "geometry": {"coordinates":[-5.00153,33.94265],"type":"Point"}
+}

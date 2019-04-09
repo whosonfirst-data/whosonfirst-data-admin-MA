@@ -1,0 +1,61 @@
+{
+  "id": 1209517689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13036,34.84534,-2.13036,34.84534",
+    "geom:latitude":34.84534,
+    "geom:longitude":-2.13036,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Oulad El Gadi",
+    "gn:country_code":"MA",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11067479,
+    "gn:latitude":34.84534,
+    "gn:longitude":-2.13036,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad El Gadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11067479
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"67238f04f66eb671415a0ab739ce987d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209517689
+        }
+    ],
+    "wof:id":1209517689,
+    "wof:lastmodified":1536284679,
+    "wof:name":"Douar Oulad El Gadi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13036,
+    34.84534,
+    -2.13036,
+    34.84534
+],
+  "geometry": {"coordinates":[-2.13036,34.84534],"type":"Point"}
+}

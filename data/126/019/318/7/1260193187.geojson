@@ -1,0 +1,72 @@
+{
+  "id": 1260193187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.11198,29.26486,-10.11198,29.26486",
+    "geom:latitude":29.26486,
+    "geom:longitude":-10.11198,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Arba des Mesti",
+    "gn:country_code":"MA",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550679,
+    "gn:latitude":29.26486,
+    "gn:longitude":-10.11198,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Arba des Mesti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zoco El Arba de El Mesti",
+        "Zoco el Arba del Mesti",
+        "El Arba des Mesti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550679
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e91950357baae637e4a09fa3bcf9f55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1260193187,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260193187,
+    "wof:lastmodified":1537663893,
+    "wof:name":"El Arba des Mesti",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.11198,
+    29.26486,
+    -10.11198,
+    29.26486
+],
+  "geometry": {"coordinates":[-10.11198,29.26486],"type":"Point"}
+}

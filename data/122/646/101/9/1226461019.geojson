@@ -1,0 +1,70 @@
+{
+  "id": 1226461019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.00403,34.32162,-4.00403,34.32162",
+    "geom:latitude":34.32162,
+    "geom:longitude":-4.00403,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Lahouel",
+    "gn:country_code":"MA",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543832,
+    "gn:latitude":34.32162,
+    "gn:longitude":-4.00403,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lahouel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lahouel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543832
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6ea29e781a5ee802922915707a152efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1226461019,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1226461019,
+    "wof:lastmodified":1537663680,
+    "wof:name":"Douar Lahouel",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.00403,
+    34.32162,
+    -4.00403,
+    34.32162
+],
+  "geometry": {"coordinates":[-4.00403,34.32162],"type":"Point"}
+}

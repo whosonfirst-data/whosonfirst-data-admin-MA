@@ -1,0 +1,72 @@
+{
+  "id": 1310615963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47083,30.75393,-8.47083,30.75393",
+    "geom:latitude":30.75393,
+    "geom:longitude":-8.47083,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tagadirt-n-Ouchbarou",
+    "gn:country_code":"MA",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530016,
+    "gn:latitude":30.75393,
+    "gn:longitude":-8.47083,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagadirt-n-Ouchbarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jerir Tagadirt Achbaro",
+        "Taourirt n\u2019Ouchbaro",
+        "Tagadirt-n-Ouchbarou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530016
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9787c62ceae95331f47e872458caa923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1310615963,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310615963,
+    "wof:lastmodified":1537663424,
+    "wof:name":"Tagadirt-n-Ouchbarou",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47083,
+    30.75393,
+    -8.47083,
+    30.75393
+],
+  "geometry": {"coordinates":[-8.47083,30.75393],"type":"Point"}
+}

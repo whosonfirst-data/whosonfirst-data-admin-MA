@@ -1,0 +1,71 @@
+{
+  "id": 1226153355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.40329,35.78763,-5.40329,35.78763",
+    "geom:latitude":35.78763,
+    "geom:longitude":-5.40329,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Haraka",
+    "gn:country_code":"MA",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551660,
+    "gn:latitude":35.78763,
+    "gn:longitude":-5.40329,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Haraka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Harraka",
+        "Haraka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551660
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ff8354466711fe283a7f14d421c6d552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784777,
+            "locality_id":1226153355,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226153355,
+    "wof:lastmodified":1537663956,
+    "wof:name":"Haraka",
+    "wof:parent_id":1108784777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.40329,
+    35.78763,
+    -5.40329,
+    35.78763
+],
+  "geometry": {"coordinates":[-5.40329,35.78763],"type":"Point"}
+}

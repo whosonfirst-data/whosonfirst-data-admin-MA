@@ -1,0 +1,72 @@
+{
+  "id": 1293311175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.05178,34.15131,-4.05178,34.15131",
+    "geom:latitude":34.15131,
+    "geom:longitude":-4.05178,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tanzert",
+    "gn:country_code":"MA",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530231,
+    "gn:latitude":34.15131,
+    "gn:longitude":-4.05178,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tanzert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Tannzert",
+        "Tannzerte",
+        "Tanzert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530231
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2e370599a93b42d781c04fac7136f6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1293311175,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1293311175,
+    "wof:lastmodified":1537663431,
+    "wof:name":"Tanzert",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.05178,
+    34.15131,
+    -4.05178,
+    34.15131
+],
+  "geometry": {"coordinates":[-4.05178,34.15131],"type":"Point"}
+}

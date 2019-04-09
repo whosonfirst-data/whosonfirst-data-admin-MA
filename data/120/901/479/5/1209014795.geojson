@@ -1,0 +1,65 @@
+{
+  "id": 1209014795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25083,31.16209,-9.25083,31.16209",
+    "geom:latitude":31.16209,
+    "geom:longitude":-9.25083,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ouguenguemt",
+    "gn:country_code":"MA",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540587,
+    "gn:latitude":31.16209,
+    "gn:longitude":-9.25083,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouguenguemt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oiouguenguent",
+        "Ouguenguemt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540587
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4da58942c57c89a0da02451ebfc5c5f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209014795
+        }
+    ],
+    "wof:id":1209014795,
+    "wof:lastmodified":1537663625,
+    "wof:name":"Ouguenguemt",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25083,
+    31.16209000000001,
+    -9.25083,
+    31.16209000000001
+],
+  "geometry": {"coordinates":[-9.25083,31.16209000000001],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125300107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.85607,35.0803,-5.85607,35.0803",
+    "geom:latitude":35.0803,
+    "geom:longitude":-5.85607,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":13142,
+    "gn:population":13142,
+    "iso:country":"MA",
+    "lbl:latitude":35.0803,
+    "lbl:longitude":-5.85607,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0632\u0639\u0631\u0648\u0631\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Souk Tolba"
+    ],
+    "name:fra_x_variant":[
+        "Souk Tolba (CR)",
+        "Souk Tolba (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547030,
+    "qs_pg:gn_pop":13142,
+    "qs_pg:name":"Souk Tolba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":630110,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547030,
+        "qs_pg:id":630110
+    },
+    "wof:country":"MA",
+    "wof:created":1497043374,
+    "wof:geomhash":"6f2811ed230f956fcedf4597d99b0e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "localadmin_id":1125300107,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125300107,
+    "wof:lastmodified":1509387695,
+    "wof:name":"Souk Tolba",
+    "wof:parent_id":890422513,
+    "wof:placetype":"localadmin",
+    "wof:population":13142,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.85607,
+    35.0803,
+    -5.85607,
+    35.0803
+],
+  "geometry": {"coordinates":[-5.85607,35.0803],"type":"Point"}
+}

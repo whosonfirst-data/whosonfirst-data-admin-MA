@@ -1,0 +1,61 @@
+{
+  "id": 1209312533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.84427,32.90767,-5.84427,32.90767",
+    "geom:latitude":32.90767,
+    "geom:longitude":-5.84427,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait ou Azzouz",
+    "gn:country_code":"MA",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965774,
+    "gn:latitude":32.90767,
+    "gn:longitude":-5.84427,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft ou Azzouz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965774
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e03b823c64752f03418b4d1174d97386",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209312533
+        }
+    ],
+    "wof:id":1209312533,
+    "wof:lastmodified":1536290977,
+    "wof:name":"Ait ou Azzouz",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.84427,
+    32.90767,
+    -5.84427,
+    32.90767
+],
+  "geometry": {"coordinates":[-5.84427,32.90767],"type":"Point"}
+}

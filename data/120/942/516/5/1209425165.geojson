@@ -1,0 +1,67 @@
+{
+  "id": 1209425165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.09406,34.39105,-4.09406,34.39105",
+    "geom:latitude":34.39105,
+    "geom:longitude":-4.09406,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Tlijouahe",
+    "gn:country_code":"MA",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528281,
+    "gn:latitude":34.39105,
+    "gn:longitude":-4.09406,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tlijouahe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Tiliouane",
+        "Flalka",
+        "Tiliouane",
+        "Douar Tlijouahe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528281
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9f1b40fd5f5dc9e0f10a1bc10f250823",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425165
+        }
+    ],
+    "wof:id":1209425165,
+    "wof:lastmodified":1537663380,
+    "wof:name":"Douar Tlijouahe",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.09406,
+    34.39105,
+    -4.09406,
+    34.39105
+],
+  "geometry": {"coordinates":[-4.09406,34.39105],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209014789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.28733,34.61427,-5.28733,34.61427",
+    "geom:latitude":34.61427,
+    "geom:longitude":-5.28733,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ain Dourij",
+    "gn:country_code":"MA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560894,
+    "gn:latitude":34.61427,
+    "gn:longitude":-5.28733,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ain Dourij",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Dourij",
+        "A\u00efn Dorij",
+        "Ain Dourij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560894,
+        "wk:page":"Ain_Dorij"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"464b90f518a1ecfb44e9fe071dc93524",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209014789
+        }
+    ],
+    "wof:id":1209014789,
+    "wof:lastmodified":1537664222,
+    "wof:name":"Ain Dourij",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.28733,
+    34.61427,
+    -5.28733,
+    34.61427
+],
+  "geometry": {"coordinates":[-5.28733,34.61427],"type":"Point"}
+}

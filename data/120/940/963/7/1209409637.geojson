@@ -1,0 +1,61 @@
+{
+  "id": 1209409637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10643,32.92457,-8.10643,32.92457",
+    "geom:latitude":32.92457,
+    "geom:longitude":-8.10643,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zrouta",
+    "gn:country_code":"MA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367722,
+    "gn:latitude":32.92457,
+    "gn:longitude":-8.10643,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zrouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367722
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b05ff87065c3f2c4a1b07acf39e40818",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209409637
+        }
+    ],
+    "wof:id":1209409637,
+    "wof:lastmodified":1536287881,
+    "wof:name":"Zrouta",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10643,
+    32.92457,
+    -8.10643,
+    32.92457
+],
+  "geometry": {"coordinates":[-8.10643,32.92457],"type":"Point"}
+}

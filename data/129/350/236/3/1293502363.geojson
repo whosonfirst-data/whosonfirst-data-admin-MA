@@ -1,0 +1,72 @@
+{
+  "id": 1293502363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.37913,32.26948,-3.37913,32.26948",
+    "geom:latitude":32.26948,
+    "geom:longitude":-3.37913,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sbayk",
+    "gn:country_code":"MA",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559095,
+    "gn:latitude":32.26948,
+    "gn:longitude":-3.37913,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sbayk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Sebba\u00efk",
+        "A\u00eft Sebba\u00eft",
+        "Sbayk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559095
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b05d884aba389379a0b05898a682a782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1293502363,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293502363,
+    "wof:lastmodified":1537664154,
+    "wof:name":"Sbayk",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.37913,
+    32.26948,
+    -3.37913,
+    32.26948
+],
+  "geometry": {"coordinates":[-3.37913,32.26948],"type":"Point"}
+}

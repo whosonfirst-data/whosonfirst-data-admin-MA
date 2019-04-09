@@ -1,0 +1,66 @@
+{
+  "id": 1209224913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.09613,33.97399,-5.09613,33.97399",
+    "geom:latitude":33.97399,
+    "geom:longitude":-5.09613,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ras el Ma",
+    "gn:country_code":"MA",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538401,
+    "gn:latitude":33.97399,
+    "gn:longitude":-5.09613,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ras el Ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Domaine de Ras el Ma",
+        "Rasse-Ma",
+        "Ras el Ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538401
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8deee402a6e5f8f977455e8680d25efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224913
+        }
+    ],
+    "wof:id":1209224913,
+    "wof:lastmodified":1537663538,
+    "wof:name":"Ras el Ma",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.09613,
+    33.97399,
+    -5.09613,
+    33.97399
+],
+  "geometry": {"coordinates":[-5.09613,33.97399],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343676833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.70633,34.15458,-5.70633,34.15458",
+    "geom:latitude":34.15458,
+    "geom:longitude":-5.70633,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ben Abid",
+    "gn:country_code":"MA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552065,
+    "gn:latitude":34.15458,
+    "gn:longitude":-5.70633,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ben Abid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bel Abida",
+        "Douar Ben Abid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552065
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d7970fd062dc3ad527998a22d338e58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1343676833,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343676833,
+    "wof:lastmodified":1537663986,
+    "wof:name":"Douar Ben Abid",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.70633,
+    34.15458,
+    -5.70633,
+    34.15458
+],
+  "geometry": {"coordinates":[-5.70633,34.15458],"type":"Point"}
+}

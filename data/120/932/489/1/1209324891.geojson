@@ -1,0 +1,67 @@
+{
+  "id": 1209324891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21033,34.8202,-2.21033,34.8202",
+    "geom:latitude":34.8202,
+    "geom:longitude":-2.21033,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ouarrala",
+    "gn:country_code":"MA",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540898,
+    "gn:latitude":34.8202,
+    "gn:longitude":-2.21033,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouarrala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouraghat",
+        "Ouararhate",
+        "Ouararhat",
+        "Ouarrala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540898
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8d1bf8d2b0db30a3ae1f81dfa32a478c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209324891
+        }
+    ],
+    "wof:id":1209324891,
+    "wof:lastmodified":1537663629,
+    "wof:name":"Ouarrala",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21033,
+    34.8202,
+    -2.21033,
+    34.8202
+],
+  "geometry": {"coordinates":[-2.21033,34.8202],"type":"Point"}
+}

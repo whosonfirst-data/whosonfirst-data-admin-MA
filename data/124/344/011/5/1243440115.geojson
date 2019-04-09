@@ -1,0 +1,67 @@
+{
+  "id": 1243440115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10249,32.37554,-9.10249,32.37554",
+    "geom:latitude":32.37554,
+    "geom:longitude":-9.10249,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dar El Housaine",
+    "gn:country_code":"MA",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10460879,
+    "gn:latitude":32.37554,
+    "gn:longitude":-9.10249,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar El Housaine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10460879
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3a83e91d02798b386ad8261912c2a353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1243440115,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1243440115,
+    "wof:lastmodified":1536813973,
+    "wof:name":"Dar El Housaine",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10249,
+    32.37554,
+    -9.10249,
+    32.37554
+],
+  "geometry": {"coordinates":[-9.10249,32.37554],"type":"Point"}
+}

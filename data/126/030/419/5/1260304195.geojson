@@ -1,0 +1,72 @@
+{
+  "id": 1260304195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.27516,34.82249,-5.27516,34.82249",
+    "geom:latitude":34.82249,
+    "geom:longitude":-5.27516,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Marj",
+    "gn:country_code":"MA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549688,
+    "gn:latitude":34.82249,
+    "gn:longitude":-5.27516,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Marj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Marj",
+        "Marj",
+        "El Marj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549688
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ca2533564afb0a2c3c652bf6d5ae391d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1260304195,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1260304195,
+    "wof:lastmodified":1537663845,
+    "wof:name":"El Marj",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.27516,
+    34.82249,
+    -5.27516,
+    34.82249
+],
+  "geometry": {"coordinates":[-5.27516,34.82249],"type":"Point"}
+}

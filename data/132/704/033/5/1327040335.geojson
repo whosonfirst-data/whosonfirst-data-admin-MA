@@ -1,0 +1,71 @@
+{
+  "id": 1327040335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74652,29.60974,-8.74652,29.60974",
+    "geom:latitude":29.60974,
+    "geom:longitude":-8.74652,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Timkyet",
+    "gn:country_code":"MA",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528042,
+    "gn:latitude":29.60974,
+    "gn:longitude":-8.74652,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Timkyet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timkiete",
+        "Timkyet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528042
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f5bade7b5b6dc6c4aabcaad9e9aaec33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1327040335,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327040335,
+    "wof:lastmodified":1537663373,
+    "wof:name":"Timkyet",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74652,
+    29.60974,
+    -8.74652,
+    29.60974
+],
+  "geometry": {"coordinates":[-8.74652,29.60974],"type":"Point"}
+}

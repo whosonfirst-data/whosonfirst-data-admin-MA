@@ -1,0 +1,70 @@
+{
+  "id": 1259898413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.92723,32.40095,-8.92723,32.40095",
+    "geom:latitude":32.40095,
+    "geom:longitude":-8.92723,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Bouchaayh Ben Rahal",
+    "gn:country_code":"MA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555062,
+    "gn:latitude":32.40095,
+    "gn:longitude":-8.92723,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bouchaayh Ben Rahal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouchaib Ben Rahhal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555062
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7323045fec9a1e1f3869416ce1cd085e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1259898413,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259898413,
+    "wof:lastmodified":1537664058,
+    "wof:name":"Douar Bouchaayh Ben Rahal",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.92723,
+    32.40095,
+    -8.92723,
+    32.40095
+],
+  "geometry": {"coordinates":[-8.92723,32.40095],"type":"Point"}
+}

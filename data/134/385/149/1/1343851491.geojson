@@ -1,0 +1,67 @@
+{
+  "id": 1343851491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10151,32.25139,-9.10151,32.25139",
+    "geom:latitude":32.25139,
+    "geom:longitude":-9.10151,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Boujemaa",
+    "gn:country_code":"MA",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10459775,
+    "gn:latitude":32.25139,
+    "gn:longitude":-9.10151,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Boujemaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10459775
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1c511983ceadd7014f0600fe2bbb5345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1343851491,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343851491,
+    "wof:lastmodified":1536679550,
+    "wof:name":"Oulad Boujemaa",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10151,
+    32.25139,
+    -9.10151,
+    32.25139
+],
+  "geometry": {"coordinates":[-9.10151,32.25139],"type":"Point"}
+}

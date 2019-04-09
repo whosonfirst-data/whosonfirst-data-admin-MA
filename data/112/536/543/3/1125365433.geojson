@@ -1,0 +1,88 @@
+{
+  "id": 1125365433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42731,33.67295,-7.42731,33.67295",
+    "geom:latitude":33.67295,
+    "geom:longitude":-7.42731,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":41853,
+    "gn:population":41853,
+    "iso:country":"MA",
+    "lbl:latitude":33.67295,
+    "lbl:longitude":-7.42731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0643\u0627\u0646\u0633\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Harrouda"
+    ],
+    "name:fra_x_variant":[
+        "Ain Harrouda (MU)",
+        "Ain Harrouda (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545528,
+    "qs_pg:gn_pop":41853,
+    "qs_pg:name":"Ain Harrouda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":628671,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890424147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545528,
+        "qs_pg:id":628671
+    },
+    "wof:country":"MA",
+    "wof:created":1497047053,
+    "wof:geomhash":"f880c2a6d8ac25316c6166e96ce8f61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424147,
+            "localadmin_id":1125365433,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1125365433,
+    "wof:lastmodified":1509389191,
+    "wof:name":"Ain Harrouda",
+    "wof:parent_id":890424147,
+    "wof:placetype":"localadmin",
+    "wof:population":41853,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42731,
+    33.67295,
+    -7.42731,
+    33.67295
+],
+  "geometry": {"coordinates":[-7.42731,33.67295],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293604023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5033,32.09339,-5.5033,32.09339",
+    "geom:latitude":32.09339,
+    "geom:longitude":-5.5033,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Almaghou",
+    "gn:country_code":"MA",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558572,
+    "gn:latitude":32.09339,
+    "gn:longitude":-5.5033,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Almaghou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Alamgho",
+        "Alemrhou",
+        "Almaghou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558572
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"94fec2be091c168daf728fce8032a21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1293604023,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293604023,
+    "wof:lastmodified":1537664140,
+    "wof:name":"Almaghou",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5033,
+    32.09339,
+    -5.5033,
+    32.09339
+],
+  "geometry": {"coordinates":[-5.5033,32.09339],"type":"Point"}
+}

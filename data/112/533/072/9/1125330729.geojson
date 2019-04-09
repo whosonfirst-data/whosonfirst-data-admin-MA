@@ -1,0 +1,88 @@
+{
+  "id": 1125330729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.09004,33.2836,-7.09004,33.2836",
+    "geom:latitude":33.2836,
+    "geom:longitude":-7.09004,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":12841,
+    "gn:population":11451,
+    "iso:country":"MA",
+    "lbl:latitude":33.2836,
+    "lbl:longitude":-7.09004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u062f\u063a\u0649  \u0627\u0644\u0633\u0641\u0644\u0649"
+    ],
+    "name:fra_x_preferred":[
+        "Ahlaf"
+    ],
+    "name:fra_x_variant":[
+        "Ahlaf (CR)",
+        "Ahlaf (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546692,
+    "qs_pg:gn_pop":12841,
+    "qs_pg:name":"Ahlaf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":629789,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546692,
+        "qs_pg:id":629789
+    },
+    "wof:country":"MA",
+    "wof:created":1497045119,
+    "wof:geomhash":"179b85182289fa08642baf1b0dd68fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "localadmin_id":1125330729,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1125330729,
+    "wof:lastmodified":1509388373,
+    "wof:name":"Ahlaf",
+    "wof:parent_id":890436421,
+    "wof:placetype":"localadmin",
+    "wof:population":11451,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.09004,
+    33.2836,
+    -7.09004,
+    33.2836
+],
+  "geometry": {"coordinates":[-7.09004,33.2836],"type":"Point"}
+}

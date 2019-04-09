@@ -1,0 +1,70 @@
+{
+  "id": 1225843023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0515,32.8783,-5.0515,32.8783",
+    "geom:latitude":32.8783,
+    "geom:longitude":-5.0515,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"1330107172.0",
+    "gn:asciiname":"Itzer",
+    "gn:country_code":"MA",
+    "gn:dem":1658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2545346,
+    "gn:latitude":32.8783,
+    "gn:longitude":-5.0515,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Itzer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545346,
+        "wk:page":"Itzer"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1c6d4d032d0d0d22634f22f82a6f61b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1225843023,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1225843023,
+    "wof:lastmodified":1537568250,
+    "wof:name":"Itzer",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0515,
+    32.8783,
+    -5.0515,
+    32.8783
+],
+  "geometry": {"coordinates":[-5.0515,32.8783],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260300295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.07679,34.69368,-5.07679,34.69368",
+    "geom:latitude":34.69368,
+    "geom:longitude":-5.07679,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Talorhras",
+    "gn:country_code":"MA",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530960,
+    "gn:latitude":34.69368,
+    "gn:longitude":-5.07679,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Talorhras",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talghrasse",
+        "Talorhrass",
+        "Talorhras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530960
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f8294a52b8bd8a51d2eaf8236894abdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1260300295,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1260300295,
+    "wof:lastmodified":1537663452,
+    "wof:name":"Talorhras",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.07679,
+    34.69368,
+    -5.07679,
+    34.69368
+],
+  "geometry": {"coordinates":[-5.07679,34.69368],"type":"Point"}
+}

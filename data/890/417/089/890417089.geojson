@@ -1,0 +1,78 @@
+{
+  "id": 890417089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.45659,35.02119,-4.45659,35.02119",
+    "geom:latitude":35.02119,
+    "geom:longitude":-4.45659,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":9915,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u062c\u0645\u064a\u0644 \u0645\u0643\u0633\u0648\u0644\u064a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Gmil Maksouline"
+    ],
+    "name:fra_x_variant":[
+        "Bni Gmil Maksouline (CR)",
+        "Bni Gmil Maksouline (Commune Rurale)"
+    ],
+    "qs:name":"Bni Gmil Maksouline",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546359,
+        "qs:id":629467,
+        "wd:id":"Q4931002",
+        "wk:page":"Bni Gmil Maksouline"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051179,
+    "wof:geomhash":"f58619a5a03f25c9beb33b8b1c840eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "localadmin_id":890417089,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890417089,
+    "wof:lastmodified":1527782124,
+    "wof:name":"Bni Gmil Maksouline",
+    "wof:parent_id":890429097,
+    "wof:placetype":"localadmin",
+    "wof:population":9915,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.45659,
+    35.02119,
+    -4.45659,
+    35.02119
+],
+  "geometry": {"coordinates":[-4.45659,35.02119],"type":"Point"}
+}

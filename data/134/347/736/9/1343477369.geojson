@@ -1,0 +1,75 @@
+{
+  "id": 1343477369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.59854,32.26038,-8.59854,32.26038",
+    "geom:latitude":32.26038,
+    "geom:longitude":-8.59854,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Soualem",
+    "gn:country_code":"MA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551199,
+    "gn:latitude":32.26038,
+    "gn:longitude":-8.59854,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Soualem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Soualem",
+        "Souilem",
+        "Douar Souilem",
+        "Soualem",
+        "Soualam",
+        "Douar Soualem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551199
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9387456f29beab450975f950d684f178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1343477369,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343477369,
+    "wof:lastmodified":1537663919,
+    "wof:name":"Douar Soualem",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.59854,
+    32.26038,
+    -8.59854,
+    32.26038
+],
+  "geometry": {"coordinates":[-8.59854,32.26038],"type":"Point"}
+}

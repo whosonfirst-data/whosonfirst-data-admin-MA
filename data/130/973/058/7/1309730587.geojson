@@ -1,0 +1,72 @@
+{
+  "id": 1309730587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.3,31.43,-5.3,31.43",
+    "geom:latitude":31.43,
+    "geom:longitude":-5.3,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ghellil Ait Aissa Ou Brahim",
+    "gn:country_code":"MA",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560628,
+    "gn:latitude":31.43,
+    "gn:longitude":-5.3,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ghellil A\u00eft A\u00efssa Ou Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft A\u00efssa Ou Brahim",
+        "Rhellil A\u00eft A\u00efssa Ou Brahim",
+        "Ghellil A\u00eft A\u00efssa Ou Brahim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560628
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"75b13d2ed51c7baa4d2edb656affda5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1309730587,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309730587,
+    "wof:lastmodified":1537664212,
+    "wof:name":"Ghellil Ait Aissa Ou Brahim",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3,
+    31.43,
+    -5.3,
+    31.43
+],
+  "geometry": {"coordinates":[-5.3,31.43],"type":"Point"}
+}

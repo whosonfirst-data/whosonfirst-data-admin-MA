@@ -1,0 +1,72 @@
+{
+  "id": 1326945139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.24237,35.26434,-5.24237,35.26434",
+    "geom:latitude":35.26434,
+    "geom:longitude":-5.24237,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Taghzout",
+    "gn:country_code":"MA",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529706,
+    "gn:latitude":35.26434,
+    "gn:longitude":-5.24237,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Taghzout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taguesout",
+        "Taghzoute",
+        "Douar Taghzout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529706
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3426adbaf3e9fe3bb1b8618ddb5b516f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1326945139,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1326945139,
+    "wof:lastmodified":1537663416,
+    "wof:name":"Douar Taghzout",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.24237,
+    35.26434000000001,
+    -5.24237,
+    35.26434000000001
+],
+  "geometry": {"coordinates":[-5.24237,35.26434000000001],"type":"Point"}
+}

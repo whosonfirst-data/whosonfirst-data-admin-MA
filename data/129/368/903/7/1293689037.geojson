@@ -1,0 +1,67 @@
+{
+  "id": 1293689037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.61349,35.05077,-3.61349,35.05077",
+    "geom:latitude":35.05077,
+    "geom:longitude":-3.61349,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Iderrazene",
+    "gn:country_code":"MA",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999203,
+    "gn:latitude":35.05077,
+    "gn:longitude":-3.61349,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Iderrazene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999203
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"58e9fa43855e0c39a8e08a81fa8e0a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1293689037,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1293689037,
+    "wof:lastmodified":1536992944,
+    "wof:name":"Douar Iderrazene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.61349,
+    35.05077,
+    -3.61349,
+    35.05077
+],
+  "geometry": {"coordinates":[-3.61349,35.05077],"type":"Point"}
+}

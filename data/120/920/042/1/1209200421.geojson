@@ -1,0 +1,61 @@
+{
+  "id": 1209200421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71038,31.43838,-7.71038,31.43838",
+    "geom:latitude":31.43838,
+    "geom:longitude":-7.71038,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Igharbil",
+    "gn:country_code":"MA",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353597,
+    "gn:latitude":31.43838,
+    "gn:longitude":-7.71038,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Igharbil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353597
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dfcbe8d2816dddb9fd8e9a15feae38da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209200421
+        }
+    ],
+    "wof:id":1209200421,
+    "wof:lastmodified":1536294631,
+    "wof:name":"Igharbil",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.710380000000002,
+    31.43838,
+    -7.710380000000002,
+    31.43838
+],
+  "geometry": {"coordinates":[-7.71038,31.43838],"type":"Point"}
+}

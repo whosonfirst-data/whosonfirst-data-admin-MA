@@ -1,0 +1,71 @@
+{
+  "id": 1242799501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16566,32.84542,-8.16566,32.84542",
+    "geom:latitude":32.84542,
+    "geom:longitude":-8.16566,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zaouiet Sidi Mohammed Ben Moumene",
+    "gn:country_code":"MA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526190,
+    "gn:latitude":32.84542,
+    "gn:longitude":-8.16566,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Zaouiet Sidi Mohammed Ben Moumene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouiet Sidi Mohammed Ben Moumere",
+        "Zaouiet Sidi Mohammed Ben Moumene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526190
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e35140b81fbf9c4ae9f742aad88a41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1242799501,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1242799501,
+    "wof:lastmodified":1537663313,
+    "wof:name":"Zaouiet Sidi Mohammed Ben Moumene",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16566,
+    32.84542,
+    -8.16566,
+    32.84542
+],
+  "geometry": {"coordinates":[-8.16566,32.84542],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309810541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.7089,33.57188,-5.7089,33.57188",
+    "geom:latitude":33.57188,
+    "geom:longitude":-5.7089,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ait Hnini",
+    "gn:country_code":"MA",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961281,
+    "gn:latitude":33.57188,
+    "gn:longitude":-5.7089,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Hnini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961281
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2b790adfe62fcfafc26f3e4234d0a6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1309810541,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1309810541,
+    "wof:lastmodified":1536924856,
+    "wof:name":"Douar Ait Hnini",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7089,
+    33.57188,
+    -5.7089,
+    33.57188
+],
+  "geometry": {"coordinates":[-5.7089,33.57188],"type":"Point"}
+}

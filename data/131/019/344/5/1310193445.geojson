@@ -1,0 +1,67 @@
+{
+  "id": 1310193445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.83269,29.40639,-9.83269,29.40639",
+    "geom:latitude":29.40639,
+    "geom:longitude":-9.83269,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Id Nacar",
+    "gn:country_code":"MA",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100967,
+    "gn:latitude":29.40639,
+    "gn:longitude":-9.83269,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Na\u00e7ar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100967
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"22f6a17eb9bb42e6326dfbd7a1879213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1310193445,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310193445,
+    "wof:lastmodified":1536868524,
+    "wof:name":"Id Nacar",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.83269,
+    29.40639,
+    -9.83269,
+    29.40639
+],
+  "geometry": {"coordinates":[-9.83269,29.40639],"type":"Point"}
+}

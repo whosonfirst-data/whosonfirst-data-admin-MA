@@ -1,0 +1,88 @@
+{
+  "id": 1125330629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50378,29.60564,-8.50378,29.60564",
+    "geom:latitude":29.60564,
+    "geom:longitude":-8.50378,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4490,
+    "gn:population":3920,
+    "iso:country":"MA",
+    "lbl:latitude":29.60564,
+    "lbl:longitude":-8.50378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0643\u0632\u0645\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tizaghte"
+    ],
+    "name:fra_x_variant":[
+        "Tizaghte (CR)",
+        "Tizaghte (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546555,
+    "qs_pg:gn_pop":4490,
+    "qs_pg:name":"Tizaghte",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629656,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546555,
+        "qs_pg:id":629656
+    },
+    "wof:country":"MA",
+    "wof:created":1497045113,
+    "wof:geomhash":"1aa91ae2e351a422ac8e475100557ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "localadmin_id":1125330629,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1125330629,
+    "wof:lastmodified":1509388371,
+    "wof:name":"Tizaghte",
+    "wof:parent_id":890453851,
+    "wof:placetype":"localadmin",
+    "wof:population":3920,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50378,
+    29.60564,
+    -8.50378,
+    29.60564
+],
+  "geometry": {"coordinates":[-8.50378,29.60564],"type":"Point"}
+}

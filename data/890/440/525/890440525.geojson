@@ -1,0 +1,78 @@
+{
+  "id": 890440525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.70048,31.68533,-6.70048,31.68533",
+    "geom:latitude":31.68533,
+    "geom:longitude":-6.70048,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":6740,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0627\u0646\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Blal"
+    ],
+    "name:fra_x_variant":[
+        "Ait Blal (CR)",
+        "Ait Blal (Commune Rurale)"
+    ],
+    "qs:name":"Ait Blal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546396,
+        "qs:id":629500,
+        "wd:id":"Q4699231",
+        "wk:page":"Ait Blal"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052286,
+    "wof:geomhash":"2e8d011a89847cd63b9994fb6e32abad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "localadmin_id":890440525,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":890440525,
+    "wof:lastmodified":1527727110,
+    "wof:name":"Ait Blal",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"localadmin",
+    "wof:population":6740,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.70048,
+    31.68533,
+    -6.70048,
+    31.68533
+],
+  "geometry": {"coordinates":[-6.70048,31.68533],"type":"Point"}
+}

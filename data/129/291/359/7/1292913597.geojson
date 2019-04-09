@@ -1,0 +1,71 @@
+{
+  "id": 1292913597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.49765,35.19505,-5.49765,35.19505",
+    "geom:latitude":35.19505,
+    "geom:longitude":-5.49765,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Taghlimine",
+    "gn:country_code":"MA",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531717,
+    "gn:latitude":35.19505,
+    "gn:longitude":-5.49765,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Taghlimine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taglimet",
+        "Taghhmine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531717
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"054904a21e6719b58abf790a152eee22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1292913597,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1292913597,
+    "wof:lastmodified":1537663473,
+    "wof:name":"Douar Taghlimine",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.49765,
+    35.19505,
+    -5.49765,
+    35.19505
+],
+  "geometry": {"coordinates":[-5.49765,35.19505],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421190059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.112247,33.5330125,-5.112247,33.5330125",
+    "geom:latitude":33.533012,
+    "geom:longitude":-5.112247,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0641\u0631\u0627\u0646",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0645\u0643\u0646\u0627\u0633 \u0640 \u062a\u0627\u0641\u064a\u0644\u0627\u0644\u062a",
+    "qs:photos":424,
+    "qs:photos_1k":86,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":424,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118264,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1536199,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        890429095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1536199,
+        "qs:id":1118264
+    },
+    "wof:country":"MA",
+    "wof:created":1459009644,
+    "wof:geomhash":"50a89181b786718ae1884ea32507e08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429095,
+            "locality_id":421190059,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":421190059,
+    "wof:lastmodified":1499519211,
+    "wof:name":"\u0627\u0641\u0631\u0627\u0646",
+    "wof:parent_id":890429095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.112247,
+    33.5330125,
+    -5.112247,
+    33.5330125
+],
+  "geometry": {"coordinates":[-5.112247,33.5330125],"type":"Point"}
+}

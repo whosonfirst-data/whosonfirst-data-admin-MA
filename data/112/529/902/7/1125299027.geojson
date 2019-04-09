@@ -1,0 +1,88 @@
+{
+  "id": 1125299027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.84765,31.90104,-4.84765,31.90104",
+    "geom:latitude":31.90104,
+    "geom:longitude":-4.84765,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7346,
+    "gn:population":6243,
+    "iso:country":"MA",
+    "lbl:latitude":31.90104,
+    "lbl:longitude":-4.84765,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0639\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Tadighoust"
+    ],
+    "name:fra_x_variant":[
+        "Tadighoust (CR)",
+        "Tadighoust (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546852,
+    "qs_pg:gn_pop":7346,
+    "qs_pg:name":"Tadighoust",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629957,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546852,
+        "qs_pg:id":629957
+    },
+    "wof:country":"MA",
+    "wof:created":1497043315,
+    "wof:geomhash":"5ac24ef9c4ec9a997392f7a6e8197cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "localadmin_id":1125299027,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1125299027,
+    "wof:lastmodified":1509387674,
+    "wof:name":"Tadighoust",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"localadmin",
+    "wof:population":6243,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.84765,
+    31.90104,
+    -4.84765,
+    31.90104
+],
+  "geometry": {"coordinates":[-4.84765,31.90104],"type":"Point"}
+}

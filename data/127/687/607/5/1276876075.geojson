@@ -1,0 +1,76 @@
+{
+  "id": 1276876075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.82762,35.05898,-3.82762,35.05898",
+    "geom:latitude":35.05898,
+    "geom:longitude":-3.82762,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"1505105192.0",
+    "gn:asciiname":"Mnoud",
+    "gn:country_code":"MA",
+    "gn:dem":191,
+    "gn:elevation":"185.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987072,
+    "gn:latitude":35.05898,
+    "gn:longitude":-3.82762,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Mnoud",
+    "gn:population":500,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nekour"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987072
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b86e24ad969b08902ea8b192aea16dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1276876075,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1276876075,
+    "wof:lastmodified":1537664292,
+    "wof:name":"Mnoud",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.82762,
+    35.05898,
+    -3.82762,
+    35.05898
+],
+  "geometry": {"coordinates":[-3.82762,35.05898],"type":"Point"}
+}

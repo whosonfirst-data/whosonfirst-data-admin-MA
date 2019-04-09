@@ -1,0 +1,71 @@
+{
+  "id": 1310516485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.92857,34.33867,-4.92857,34.33867",
+    "geom:latitude":34.33867,
+    "geom:longitude":-4.92857,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ouled Bou Chiba",
+    "gn:country_code":"MA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551301,
+    "gn:latitude":34.33867,
+    "gn:longitude":-4.92857,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ouled Bou Chiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled ben Chiba",
+        "Douar Ouled Bou Chiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551301
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b8929b33cc9856f80f21d39bb0bbbe3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1310516485,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310516485,
+    "wof:lastmodified":1537663926,
+    "wof:name":"Douar Ouled Bou Chiba",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.92857,
+    34.33867,
+    -4.92857,
+    34.33867
+],
+  "geometry": {"coordinates":[-4.92857,34.33867],"type":"Point"}
+}

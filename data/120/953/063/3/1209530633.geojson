@@ -1,0 +1,65 @@
+{
+  "id": 1209530633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06089,31.41407,-8.06089,31.41407",
+    "geom:latitude":31.41407,
+    "geom:longitude":-8.06089,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Tagadirt",
+    "gn:country_code":"MA",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531784,
+    "gn:latitude":31.41407,
+    "gn:longitude":-8.06089,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tagadirt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagadirt Alkadi",
+        "Tagadirt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531784
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e5af62f7fe52bc79c8d40fd2d27a5a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209530633
+        }
+    ],
+    "wof:id":1209530633,
+    "wof:lastmodified":1537663476,
+    "wof:name":"Douar Tagadirt",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06089,
+    31.41407,
+    -8.06089,
+    31.41407
+],
+  "geometry": {"coordinates":[-8.06089,31.41407],"type":"Point"}
+}

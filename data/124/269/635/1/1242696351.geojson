@@ -1,0 +1,72 @@
+{
+  "id": 1242696351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.83941,35.41763,-5.83941,35.41763",
+    "geom:latitude":35.41763,
+    "geom:longitude":-5.83941,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brahma",
+    "gn:country_code":"MA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550517,
+    "gn:latitude":35.41763,
+    "gn:longitude":-5.83941,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Brahma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barhama",
+        "El Brahma",
+        "Brahma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550517
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e24b34fbee34ca24f71288397f6fe94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1242696351,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242696351,
+    "wof:lastmodified":1537663885,
+    "wof:name":"Brahma",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.83941,
+    35.41763,
+    -5.83941,
+    35.41763
+],
+  "geometry": {"coordinates":[-5.83941,35.41763],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193123153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00807,32.80121,-8.00807,32.80121",
+    "geom:latitude":32.80121,
+    "geom:longitude":-8.00807,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"El Harch",
+    "gn:country_code":"MA",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367897,
+    "gn:latitude":32.80121,
+    "gn:longitude":-8.00807,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"El Harch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367897
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3303b3127f5db68772f4048c4aa86faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1193123153,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1193123153,
+    "wof:lastmodified":1536383772,
+    "wof:name":"El Harch",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00807,
+    32.80121,
+    -8.00807,
+    32.80121
+],
+  "geometry": {"coordinates":[-8.00807,32.80121],"type":"Point"}
+}

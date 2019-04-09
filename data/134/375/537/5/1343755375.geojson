@@ -1,0 +1,67 @@
+{
+  "id": 1343755375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.69278,30.87301,-9.69278,30.87301",
+    "geom:latitude":30.87301,
+    "geom:longitude":-9.69278,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Tinsft",
+    "gn:country_code":"MA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10900760,
+    "gn:latitude":30.87301,
+    "gn:longitude":-9.69278,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Tinsft",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10900760
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e8bfde189f8a117b6f4b8a4f01f07ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1343755375,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343755375,
+    "wof:lastmodified":1536817448,
+    "wof:name":"Ait Tinsft",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.69278,
+    30.87301,
+    -9.69278,
+    30.87301
+],
+  "geometry": {"coordinates":[-9.69278,30.87301],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344170231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.86376,35.20275,-4.86376,35.20275",
+    "geom:latitude":35.20275,
+    "geom:longitude":-4.86376,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar Lamfadal Abdelkader",
+    "gn:country_code":"MA",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11067919,
+    "gn:latitude":35.20275,
+    "gn:longitude":-4.86376,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Lamfadal Abdelkader",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11067919
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a309796805e3ae97f2b20c5b2d5390b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1344170231,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1344170231,
+    "wof:lastmodified":1536717457,
+    "wof:name":"Dar Lamfadal Abdelkader",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.86376,
+    35.20275,
+    -4.86376,
+    35.20275
+],
+  "geometry": {"coordinates":[-4.86376,35.20275],"type":"Point"}
+}

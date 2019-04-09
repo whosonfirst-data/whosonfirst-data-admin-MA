@@ -1,0 +1,78 @@
+{
+  "id": 890416787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82988,30.32554,-8.82988,30.32554",
+    "geom:latitude":30.32554,
+    "geom:longitude":-8.82988,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5649,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0644\u0648\u0643\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tazemmourt"
+    ],
+    "name:fra_x_variant":[
+        "Tazemmourt (CR)",
+        "Tazemmourt (Commune Rurale)"
+    ],
+    "qs:name":"Tazemmourt",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545754,
+        "qs:id":628899,
+        "wd:id":"Q7690440",
+        "wk:page":"Tazemmourt"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051162,
+    "wof:geomhash":"d55e547dff1497312177b1999f4425e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":890416787,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890416787,
+    "wof:lastmodified":1527792806,
+    "wof:name":"Tazemmourt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":5649,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82988,
+    30.32554,
+    -8.82988,
+    30.32554
+],
+  "geometry": {"coordinates":[-8.82988,30.32554],"type":"Point"}
+}

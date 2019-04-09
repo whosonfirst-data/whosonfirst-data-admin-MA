@@ -1,0 +1,72 @@
+{
+  "id": 1226735691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90567,32.44336,-8.90567,32.44336",
+    "geom:latitude":32.44336,
+    "geom:longitude":-8.90567,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Leghoual",
+    "gn:country_code":"MA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794299,
+    "gn:latitude":32.44336,
+    "gn:longitude":-8.90567,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Leghoual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Roual Bel Kaaba",
+        "El Roual",
+        "Douar el Rhoual Bel Kabaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794299
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b0aabcc57362628b1722c18b9f73e817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1226735691,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226735691,
+    "wof:lastmodified":1537664295,
+    "wof:name":"Douar Leghoual",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90567,
+    32.44336,
+    -8.90567,
+    32.44336
+],
+  "geometry": {"coordinates":[-8.90567,32.44336],"type":"Point"}
+}

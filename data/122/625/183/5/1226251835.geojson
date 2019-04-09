@@ -1,0 +1,67 @@
+{
+  "id": 1226251835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.95702,35.08536,-3.95702,35.08536",
+    "geom:latitude":35.08536,
+    "geom:longitude":-3.95702,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Iazzouzane",
+    "gn:country_code":"MA",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10958221,
+    "gn:latitude":35.08536,
+    "gn:longitude":-3.95702,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Iazzouzane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10958221
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eb1738cd660cd240bdf3162c3ad38e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1226251835,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1226251835,
+    "wof:lastmodified":1536925465,
+    "wof:name":"Douar Iazzouzane",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.95702,
+    35.08535999999999,
+    -3.95702,
+    35.08535999999999
+],
+  "geometry": {"coordinates":[-3.95702,35.08535999999999],"type":"Point"}
+}

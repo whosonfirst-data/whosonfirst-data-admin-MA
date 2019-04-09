@@ -1,0 +1,78 @@
+{
+  "id": 890452931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37284,31.38869,-9.37284,31.38869",
+    "geom:latitude":31.38869,
+    "geom:longitude":-9.37284,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":4220,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Meskala"
+    ],
+    "name:fra_x_variant":[
+        "Meskala (CR)",
+        "Meskala (Commune Rurale)"
+    ],
+    "qs:name":"Meskala",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545948,
+        "qs:id":629090,
+        "wd:id":"Q20422693",
+        "wk:page":"Meskala"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052835,
+    "wof:geomhash":"f3d0e187bd09bf1d75b914a01905cd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "localadmin_id":890452931,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890452931,
+    "wof:lastmodified":1527734183,
+    "wof:name":"Meskala",
+    "wof:parent_id":890453939,
+    "wof:placetype":"localadmin",
+    "wof:population":4220,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37284,
+    31.38869,
+    -9.37284,
+    31.38869
+],
+  "geometry": {"coordinates":[-9.37284,31.38869],"type":"Point"}
+}

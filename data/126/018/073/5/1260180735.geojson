@@ -1,0 +1,72 @@
+{
+  "id": 1260180735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.49825,32.09843,-6.49825,32.09843",
+    "geom:latitude":32.09843,
+    "geom:longitude":-6.49825,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Irizane",
+    "gn:country_code":"MA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559758,
+    "gn:latitude":32.09843,
+    "gn:longitude":-6.49825,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Irizane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Irhezan",
+        "A\u00eft Irizane",
+        "Irizane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559758
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"57a70c8bd8190079f6aad135ce3bc4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1260180735,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1260180735,
+    "wof:lastmodified":1537664179,
+    "wof:name":"Irizane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.49825,
+    32.09843,
+    -6.49825,
+    32.09843
+],
+  "geometry": {"coordinates":[-6.49825,32.09843],"type":"Point"}
+}

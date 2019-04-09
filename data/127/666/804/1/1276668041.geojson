@@ -1,0 +1,72 @@
+{
+  "id": 1276668041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89837,30.84617,-7.89837,30.84617",
+    "geom:latitude":30.84617,
+    "geom:longitude":-7.89837,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Agard-n-ou-Gadir",
+    "gn:country_code":"MA",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561226,
+    "gn:latitude":30.84617,
+    "gn:longitude":-7.89837,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agard-n-ou-Gadir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agarde nougadir",
+        "Aguerd n\u2019 Ougadir",
+        "Agard-n-ou-Gadir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561226
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"23d43c5280dd1f322a59fd1f5bc997ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1276668041,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276668041,
+    "wof:lastmodified":1537664231,
+    "wof:name":"Agard-n-ou-Gadir",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89837,
+    30.84617,
+    -7.89837,
+    30.84617
+],
+  "geometry": {"coordinates":[-7.89837,30.84617],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327246329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.72989,32.05669,-7.72989,32.05669",
+    "geom:latitude":32.05669,
+    "geom:longitude":-7.72989,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oulad Sellam",
+    "gn:country_code":"MA",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539268,
+    "gn:latitude":32.05669,
+    "gn:longitude":-7.72989,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Sellam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Bel A\u00efd",
+        "Oulad Sellam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539268
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"acf0749dc58cb7d203de327f187bab92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1327246329,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327246329,
+    "wof:lastmodified":1537663560,
+    "wof:name":"Oulad Sellam",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.72989,
+    32.05669,
+    -7.72989,
+    32.05669
+],
+  "geometry": {"coordinates":[-7.72989,32.05669],"type":"Point"}
+}

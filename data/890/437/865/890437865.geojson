@@ -1,0 +1,77 @@
+{
+  "id": 890437865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.54964,34.76409,-4.54964,34.76409",
+    "geom:latitude":34.76409,
+    "geom:longitude":-4.54964,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":5115,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u063a\u0632\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Taghzout"
+    ],
+    "name:fra_x_variant":[
+        "Taghzout (CR)",
+        "Taghzout (Commune Rurale)"
+    ],
+    "qs:name":"Taghzout",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547080,
+        "qs:id":630162,
+        "wk:page":"Taghzout"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052169,
+    "wof:geomhash":"89312c2e73f00f86140807b401fa3612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "localadmin_id":890437865,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890437865,
+    "wof:lastmodified":1527729753,
+    "wof:name":"Taghzout",
+    "wof:parent_id":890429097,
+    "wof:placetype":"localadmin",
+    "wof:population":5115,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.54964,
+    34.76409,
+    -4.54964,
+    34.76409
+],
+  "geometry": {"coordinates":[-4.54964,34.76409],"type":"Point"}
+}

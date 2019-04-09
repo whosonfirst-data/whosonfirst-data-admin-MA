@@ -1,0 +1,71 @@
+{
+  "id": 1327152759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.35587,30.66962,-6.35587,30.66962",
+    "geom:latitude":30.66962,
+    "geom:longitude":-6.35587,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Roudat",
+    "gn:country_code":"MA",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596616,
+    "gn:latitude":30.66962,
+    "gn:longitude":-6.35587,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Roud\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roud\u00e2t",
+        "Roudat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596616
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4979a6694de08e091cfee40503c8161f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1327152759,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327152759,
+    "wof:lastmodified":1537664288,
+    "wof:name":"Roudat",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.35587,
+    30.66962,
+    -6.35587,
+    30.66962
+],
+  "geometry": {"coordinates":[-6.35587,30.66962],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209414875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13004,34.80568,-6.13004,34.80568",
+    "geom:latitude":34.80568,
+    "geom:longitude":-6.13004,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Barkate",
+    "gn:country_code":"MA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10938091,
+    "gn:latitude":34.80568,
+    "gn:longitude":-6.13004,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Barkate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10938091
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"13b30d736393c71b5deae950c178ae41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209414875
+        }
+    ],
+    "wof:id":1209414875,
+    "wof:lastmodified":1536287721,
+    "wof:name":"Oulad Barkate",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13004,
+    34.805679999999995,
+    -6.13004,
+    34.805679999999995
+],
+  "geometry": {"coordinates":[-6.13004,34.80568],"type":"Point"}
+}

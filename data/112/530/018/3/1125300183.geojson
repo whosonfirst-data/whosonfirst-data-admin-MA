@@ -1,0 +1,88 @@
+{
+  "id": 1125300183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.54929,34.93506,-3.54929,34.93506",
+    "geom:latitude":34.93506,
+    "geom:longitude":-3.54929,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2793,
+    "gn:population":2793,
+    "iso:country":"MA",
+    "lbl:latitude":34.93506,
+    "lbl:longitude":-3.54929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u062c\u0631\u0645\u0627\u0648\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Midar"
+    ],
+    "name:fra_x_variant":[
+        "Midar (CR)",
+        "Midar (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547059,
+    "qs_pg:gn_pop":2793,
+    "qs_pg:name":"Midar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":630138,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547059,
+        "qs_pg:id":630138
+    },
+    "wof:country":"MA",
+    "wof:created":1497043378,
+    "wof:geomhash":"567f6e7b4f6ad3130a175cda30dc3939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "localadmin_id":1125300183,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1125300183,
+    "wof:lastmodified":1509387697,
+    "wof:name":"Midar",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"localadmin",
+    "wof:population":2793,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.54929,
+    34.93506,
+    -3.54929,
+    34.93506
+],
+  "geometry": {"coordinates":[-3.54929,34.93506],"type":"Point"}
+}

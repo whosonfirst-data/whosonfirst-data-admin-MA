@@ -1,0 +1,67 @@
+{
+  "id": 1242587885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.61714,35.21024,-3.61714,35.21024",
+    "geom:latitude":35.21024,
+    "geom:longitude":-3.61714,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ait Chouki",
+    "gn:country_code":"MA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560142,
+    "gn:latitude":35.21024,
+    "gn:longitude":-3.61714,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Chouki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560142
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"de0ea09d3c7bbe1369d38d560fde4d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1242587885,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1242587885,
+    "wof:lastmodified":1537046775,
+    "wof:name":"Ait Chouki",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.61714,
+    35.21024,
+    -3.61714,
+    35.21024
+],
+  "geometry": {"coordinates":[-3.61714,35.21024],"type":"Point"}
+}

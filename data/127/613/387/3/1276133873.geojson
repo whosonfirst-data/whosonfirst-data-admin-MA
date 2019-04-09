@@ -1,0 +1,67 @@
+{
+  "id": 1276133873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.25872,31.2272,-5.25872,31.2272",
+    "geom:latitude":31.2272,
+    "geom:longitude":-5.25872,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imi n'Tourza",
+    "gn:country_code":"MA",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546105,
+    "gn:latitude":31.2272,
+    "gn:longitude":-5.25872,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imi n\u2019Tourza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546105
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6a3111461f7bd56b86364566f05e66e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1276133873,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276133873,
+    "wof:lastmodified":1537044016,
+    "wof:name":"Imi n'Tourza",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.25872,
+    31.2272,
+    -5.25872,
+    31.2272
+],
+  "geometry": {"coordinates":[-5.25872,31.2272],"type":"Point"}
+}

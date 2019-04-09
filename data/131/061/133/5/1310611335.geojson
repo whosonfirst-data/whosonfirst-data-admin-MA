@@ -1,0 +1,71 @@
+{
+  "id": 1310611335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.97899,34.55486,-3.97899,34.55486",
+    "geom:latitude":34.55486,
+    "geom:longitude":-3.97899,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aiellou",
+    "gn:country_code":"MA",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556728,
+    "gn:latitude":34.55486,
+    "gn:longitude":-3.97899,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00efellou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efellou",
+        "Ayelou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556728
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bceddbaa534ae3931507a0d2a80a596f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1310611335,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310611335,
+    "wof:lastmodified":1537664092,
+    "wof:name":"Aiellou",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.97899,
+    34.55486,
+    -3.97899,
+    34.55486
+],
+  "geometry": {"coordinates":[-3.97899,34.55486],"type":"Point"}
+}

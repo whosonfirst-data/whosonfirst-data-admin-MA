@@ -1,0 +1,73 @@
+{
+  "id": 1343976431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.11725,31.4986,-6.11725,31.4986",
+    "geom:latitude":31.4986,
+    "geom:longitude":-6.11725,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aguerzaka",
+    "gn:country_code":"MA",
+    "gn:dem":1736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561174,
+    "gn:latitude":31.4986,
+    "gn:longitude":-6.11725,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aguerzaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguerzouka",
+        "Aguerzga",
+        "Aguerzeka",
+        "Aguerzaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561174
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a835b7592cd2c8fe2ff2fcddbf3ae7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1343976431,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343976431,
+    "wof:lastmodified":1537664229,
+    "wof:name":"Aguerzaka",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.11725,
+    31.4986,
+    -6.11725,
+    31.4986
+],
+  "geometry": {"coordinates":[-6.11725,31.4986],"type":"Point"}
+}

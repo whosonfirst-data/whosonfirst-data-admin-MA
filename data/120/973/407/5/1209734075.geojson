@@ -1,0 +1,73 @@
+{
+  "id": 1209734075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26083,31.13188,-8.26083,31.13188",
+    "geom:latitude":31.13188,
+    "geom:longitude":-8.26083,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Imzayn",
+    "gn:country_code":"MA",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546010,
+    "gn:latitude":31.13188,
+    "gn:longitude":-8.26083,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imzayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amza\u00efne",
+        "Imza\u00ef\u00e8n",
+        "Imza\u00efene",
+        "Imzayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546010
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c277ae84a62aed88b4ebdd44c66e1828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1209734075,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1209734075,
+    "wof:lastmodified":1537663741,
+    "wof:name":"Imzayn",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26083,
+    31.13188,
+    -8.26083,
+    31.13188
+],
+  "geometry": {"coordinates":[-8.26083,31.13188],"type":"Point"}
+}

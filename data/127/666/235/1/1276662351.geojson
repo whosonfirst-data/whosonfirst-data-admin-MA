@@ -1,0 +1,67 @@
+{
+  "id": 1276662351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.12296,34.96975,-6.12296,34.96975",
+    "geom:latitude":34.96975,
+    "geom:longitude":-6.12296,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Laasri",
+    "gn:country_code":"MA",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10941586,
+    "gn:latitude":34.96975,
+    "gn:longitude":-6.12296,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Laasri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10941586
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4110c8cdaaa75c533eb10b81d98cccf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1276662351,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276662351,
+    "wof:lastmodified":1536833799,
+    "wof:name":"Oulad Laasri",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.12296,
+    34.96975,
+    -6.12296,
+    34.96975
+],
+  "geometry": {"coordinates":[-6.12296,34.96975],"type":"Point"}
+}

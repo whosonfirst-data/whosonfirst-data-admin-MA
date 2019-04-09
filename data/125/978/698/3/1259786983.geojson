@@ -1,0 +1,67 @@
+{
+  "id": 1259786983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.61616,34.85116,-5.61616,34.85116",
+    "geom:latitude":34.85116,
+    "geom:longitude":-5.61616,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Heddara",
+    "gn:country_code":"MA",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10923111,
+    "gn:latitude":34.85116,
+    "gn:longitude":-5.61616,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Heddara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10923111
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7954d4aabb4a5ba74411483cc5d86b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1259786983,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259786983,
+    "wof:lastmodified":1536918671,
+    "wof:name":"Heddara",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.61616,
+    34.85116,
+    -5.61616,
+    34.85116
+],
+  "geometry": {"coordinates":[-5.61616,34.85116],"type":"Point"}
+}

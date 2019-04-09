@@ -1,0 +1,67 @@
+{
+  "id": 1344263311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06172,34.17285,-5.06172,34.17285",
+    "geom:latitude":34.17285,
+    "geom:longitude":-5.06172,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Lkoudia",
+    "gn:country_code":"MA",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025457,
+    "gn:latitude":34.17285,
+    "gn:longitude":-5.06172,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lkoudia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025457
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"578f4139e4467a9882a7954b6319a799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1344263311,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1344263311,
+    "wof:lastmodified":1537076882,
+    "wof:name":"Douar Lkoudia",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06172,
+    34.17285,
+    -5.06172,
+    34.17285
+],
+  "geometry": {"coordinates":[-5.06172,34.17285],"type":"Point"}
+}

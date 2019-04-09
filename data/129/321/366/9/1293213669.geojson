@@ -1,0 +1,67 @@
+{
+  "id": 1293213669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.71103,35.19049,-4.71103,35.19049",
+    "geom:latitude":35.19049,
+    "geom:longitude":-4.71103,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tifarouane",
+    "gn:country_code":"MA",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11068292,
+    "gn:latitude":35.19049,
+    "gn:longitude":-4.71103,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tifarouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11068292
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fce17407c1cd0b00484ddd2ebd3bcfc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1293213669,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293213669,
+    "wof:lastmodified":1536684694,
+    "wof:name":"Tifarouane",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.71103,
+    35.19049000000001,
+    -4.71103,
+    35.19049000000001
+],
+  "geometry": {"coordinates":[-4.71103,35.19049000000001],"type":"Point"}
+}

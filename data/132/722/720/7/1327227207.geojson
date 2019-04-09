@@ -1,0 +1,71 @@
+{
+  "id": 1327227207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96554,31.25665,-7.96554,31.25665",
+    "geom:latitude":31.25665,
+    "geom:longitude":-7.96554,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Asselda",
+    "gn:country_code":"MA",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556897,
+    "gn:latitude":31.25665,
+    "gn:longitude":-7.96554,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Asselda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assalda",
+        "Asselda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556897
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9bfd3a990fd29f8700902e4dc97192a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1327227207,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327227207,
+    "wof:lastmodified":1537664096,
+    "wof:name":"Asselda",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96554,
+    31.25665,
+    -7.96554,
+    31.25665
+],
+  "geometry": {"coordinates":[-7.96554,31.25665],"type":"Point"}
+}

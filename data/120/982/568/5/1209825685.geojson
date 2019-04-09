@@ -1,0 +1,67 @@
+{
+  "id": 1209825685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.55154,32.7041,-4.55154,32.7041",
+    "geom:latitude":32.7041,
+    "geom:longitude":-4.55154,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bougma",
+    "gn:country_code":"MA",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554906,
+    "gn:latitude":32.7041,
+    "gn:longitude":-4.55154,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Bougma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554906
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"25231702d10a9a5010f3281dd456bd8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1209825685,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1209825685,
+    "wof:lastmodified":1536373943,
+    "wof:name":"Bougma",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.55154,
+    32.7041,
+    -4.55154,
+    32.7041
+],
+  "geometry": {"coordinates":[-4.55154,32.7041],"type":"Point"}
+}

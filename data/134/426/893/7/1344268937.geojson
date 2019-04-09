@@ -1,0 +1,67 @@
+{
+  "id": 1344268937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.94315,35.03659,-2.94315,35.03659",
+    "geom:latitude":35.03659,
+    "geom:longitude":-2.94315,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Oulad Echeikh",
+    "gn:country_code":"MA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961451,
+    "gn:latitude":35.03659,
+    "gn:longitude":-2.94315,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Echeikh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961451
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0c612993fd9a3bd31fc9534d29677c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1344268937,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1344268937,
+    "wof:lastmodified":1537068861,
+    "wof:name":"Oulad Echeikh",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.94315,
+    35.03659,
+    -2.94315,
+    35.03659
+],
+  "geometry": {"coordinates":[-2.94315,35.03659],"type":"Point"}
+}

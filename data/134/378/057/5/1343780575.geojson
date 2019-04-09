@@ -1,0 +1,73 @@
+{
+  "id": 1343780575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.62478,29.56557,-9.62478,29.56557",
+    "geom:latitude":29.56557,
+    "geom:longitude":-9.62478,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ben Lefdil",
+    "gn:country_code":"MA",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553771,
+    "gn:latitude":29.56557,
+    "gn:longitude":-9.62478,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ben Lefdil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boulfdaile",
+        "Bou Zfde\u00efl",
+        "Bou Zfede\u00efl",
+        "Ben Lefdil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553771
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d603d6bec27abdbdf915a3cfb612ca87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1343780575,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343780575,
+    "wof:lastmodified":1537664041,
+    "wof:name":"Ben Lefdil",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.62478,
+    29.56557,
+    -9.62478,
+    29.56557
+],
+  "geometry": {"coordinates":[-9.62478,29.56557],"type":"Point"}
+}

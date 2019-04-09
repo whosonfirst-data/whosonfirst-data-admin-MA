@@ -1,0 +1,88 @@
+{
+  "id": 1125329735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06534,34.98903,-5.06534,34.98903",
+    "geom:latitude":34.98903,
+    "geom:longitude":-5.06534,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9662,
+    "gn:population":11365,
+    "iso:country":"MA",
+    "lbl:latitude":34.98903,
+    "lbl:longitude":-5.06534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0645\u0628\u0648\u0637"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Salah"
+    ],
+    "name:fra_x_variant":[
+        "Bni Salah (CR)",
+        "Bni Salah (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545563,
+    "qs_pg:gn_pop":9662,
+    "qs_pg:name":"Bni Salah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628703,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545563,
+        "qs_pg:id":628703
+    },
+    "wof:country":"MA",
+    "wof:created":1497045065,
+    "wof:geomhash":"5d5862927d0edd62f61ab6f5f9ea1a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "localadmin_id":1125329735,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125329735,
+    "wof:lastmodified":1509388341,
+    "wof:name":"Bni Salah",
+    "wof:parent_id":890453883,
+    "wof:placetype":"localadmin",
+    "wof:population":11365,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06534,
+    34.98903,
+    -5.06534,
+    34.98903
+],
+  "geometry": {"coordinates":[-5.06534,34.98903],"type":"Point"}
+}

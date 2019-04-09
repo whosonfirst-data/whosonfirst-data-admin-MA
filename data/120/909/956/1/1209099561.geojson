@@ -1,0 +1,61 @@
+{
+  "id": 1209099561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64106,31.97629,-8.64106,31.97629",
+    "geom:latitude":31.97629,
+    "geom:longitude":-8.64106,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ouad Sidi Hammon",
+    "gn:country_code":"MA",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11099232,
+    "gn:latitude":31.97629,
+    "gn:longitude":-8.64106,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ouad Sidi Hammon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11099232
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c5cae3fe0aaecfb1e3278773e568827f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209099561
+        }
+    ],
+    "wof:id":1209099561,
+    "wof:lastmodified":1536297777,
+    "wof:name":"Douar Ouad Sidi Hammon",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.641060000000001,
+    31.97629,
+    -8.641060000000001,
+    31.97629
+],
+  "geometry": {"coordinates":[-8.64106,31.97629],"type":"Point"}
+}

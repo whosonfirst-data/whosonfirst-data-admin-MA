@@ -1,0 +1,67 @@
+{
+  "id": 1259376281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81276,31.82706,-8.81276,31.82706",
+    "geom:latitude":31.82706,
+    "geom:longitude":-8.81276,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lebhirat",
+    "gn:country_code":"MA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10893412,
+    "gn:latitude":31.82706,
+    "gn:longitude":-8.81276,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lebhirat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10893412
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"367f26e48a7ac5ea6e2e36938d990a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1259376281,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259376281,
+    "wof:lastmodified":1537011939,
+    "wof:name":"Douar Lebhirat",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81276,
+    31.82706,
+    -8.81276,
+    31.82706
+],
+  "geometry": {"coordinates":[-8.81276,31.82706],"type":"Point"}
+}

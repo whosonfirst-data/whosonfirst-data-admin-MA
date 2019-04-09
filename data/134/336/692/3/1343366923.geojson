@@ -1,0 +1,77 @@
+{
+  "id": 1343366923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.9423,35.07313,-2.9423,35.07313",
+    "geom:latitude":35.07313,
+    "geom:longitude":-2.9423,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"381.0",
+    "gn:admin3_code":"838105192.0",
+    "gn:asciiname":"Selouane",
+    "gn:country_code":"MA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2537469,
+    "gn:latitude":35.07313,
+    "gn:longitude":-2.9423,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Selouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zelouan",
+        "Zelu\u00e1n",
+        "Zelouane",
+        "Zelaun",
+        "Selouane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537469,
+        "wk:page":"Selouane"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"342038f253b4c2beb839b714b81ccc29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1343366923,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1343366923,
+    "wof:lastmodified":1537663521,
+    "wof:name":"Selouane",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9423,
+    35.07313,
+    -2.9423,
+    35.07313
+],
+  "geometry": {"coordinates":[-2.9423,35.07313],"type":"Point"}
+}

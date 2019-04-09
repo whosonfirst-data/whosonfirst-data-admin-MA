@@ -1,0 +1,67 @@
+{
+  "id": 1343655163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01496,32.94727,-8.01496,32.94727",
+    "geom:latitude":32.94727,
+    "geom:longitude":-8.01496,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"S'adna",
+    "gn:country_code":"MA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367877,
+    "gn:latitude":32.94727,
+    "gn:longitude":-8.01496,
+    "gn:modification_date":"2017-10-06",
+    "gn:name":"S\u2019adna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367877
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ae715e011393d75cb628d94f9f04b26a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1343655163,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1343655163,
+    "wof:lastmodified":1536962551,
+    "wof:name":"S'adna",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01496,
+    32.94727,
+    -8.01496,
+    32.94727
+],
+  "geometry": {"coordinates":[-8.01496,32.94727],"type":"Point"}
+}

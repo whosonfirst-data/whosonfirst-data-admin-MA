@@ -1,0 +1,67 @@
+{
+  "id": 1243182545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.03648,33.48706,-4.03648,33.48706",
+    "geom:latitude":33.48706,
+    "geom:longitude":-4.03648,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait Yakoub",
+    "gn:country_code":"MA",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558862,
+    "gn:latitude":33.48706,
+    "gn:longitude":-4.03648,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Yakoub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558862
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"953ca565932aa1422804acf8460c27b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1243182545,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1243182545,
+    "wof:lastmodified":1536689029,
+    "wof:name":"Ait Yakoub",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.03648,
+    33.48706,
+    -4.03648,
+    33.48706
+],
+  "geometry": {"coordinates":[-4.03648,33.48706],"type":"Point"}
+}

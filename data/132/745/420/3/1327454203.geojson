@@ -1,0 +1,67 @@
+{
+  "id": 1327454203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26066,32.17284,-9.26066,32.17284",
+    "geom:latitude":32.17284,
+    "geom:longitude":-9.26066,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ancien Cafe",
+    "gn:country_code":"MA",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11366594,
+    "gn:latitude":32.17284,
+    "gn:longitude":-9.26066,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ancien Cafe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11366594
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ecf3f0fafe05a03ffe5ad77062ed270c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1327454203,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1327454203,
+    "wof:lastmodified":1536649060,
+    "wof:name":"Ancien Cafe",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26066,
+    32.17284,
+    -9.26066,
+    32.17284
+],
+  "geometry": {"coordinates":[-9.26066,32.17284],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209630165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06528,34.83626,-5.06528,34.83626",
+    "geom:latitude":34.83626,
+    "geom:longitude":-5.06528,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Talandaoud",
+    "gn:country_code":"MA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531134,
+    "gn:latitude":34.83626,
+    "gn:longitude":-5.06528,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Talandaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Telmdaoud",
+        "Talanhdaoud",
+        "Talandaoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531134
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ba4b97107789439fa04b190d2af42aa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209630165
+        }
+    ],
+    "wof:id":1209630165,
+    "wof:lastmodified":1537663458,
+    "wof:name":"Talandaoud",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06528,
+    34.83626,
+    -5.06528,
+    34.83626
+],
+  "geometry": {"coordinates":[-5.06528,34.83626],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344251737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.41973,31.91722,-4.41973,31.91722",
+    "geom:latitude":31.91722,
+    "geom:longitude":-4.41973,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lahdeb",
+    "gn:country_code":"MA",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11366105,
+    "gn:latitude":31.91722,
+    "gn:longitude":-4.41973,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lahdeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11366105
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fe03c923ade6680249c7d7a8c89e358b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1344251737,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1344251737,
+    "wof:lastmodified":1537093632,
+    "wof:name":"Lahdeb",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.41973,
+    31.91722,
+    -4.41973,
+    31.91722
+],
+  "geometry": {"coordinates":[-4.41973,31.91722],"type":"Point"}
+}

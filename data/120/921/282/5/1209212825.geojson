@@ -1,0 +1,61 @@
+{
+  "id": 1209212825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.63248,31.82071,-6.63248,31.82071",
+    "geom:latitude":31.82071,
+    "geom:longitude":-6.63248,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tafant",
+    "gn:country_code":"MA",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359093,
+    "gn:latitude":31.82071,
+    "gn:longitude":-6.63248,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tafant",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359093
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cdb7776f28c1318e7b1f7bef5d23a7d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209212825
+        }
+    ],
+    "wof:id":1209212825,
+    "wof:lastmodified":1536294233,
+    "wof:name":"Tafant",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.63248,
+    31.82071,
+    -6.63248,
+    31.82071
+],
+  "geometry": {"coordinates":[-6.63248,31.82071],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209233175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48939,30.11101,-8.48939,30.11101",
+    "geom:latitude":30.11101,
+    "geom:longitude":-8.48939,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Amane-n-Tazart",
+    "gn:country_code":"MA",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558293,
+    "gn:latitude":30.11101,
+    "gn:longitude":-8.48939,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Amane-n-Tazart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amane Tazert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558293
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"866299ffe7c1d11aedc32cef5793eab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209233175
+        }
+    ],
+    "wof:id":1209233175,
+    "wof:lastmodified":1537664133,
+    "wof:name":"Amane-n-Tazart",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48939,
+    30.11101,
+    -8.48939,
+    30.11101
+],
+  "geometry": {"coordinates":[-8.48939,30.11101],"type":"Point"}
+}

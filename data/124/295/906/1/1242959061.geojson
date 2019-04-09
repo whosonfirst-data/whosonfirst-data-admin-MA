@@ -1,0 +1,67 @@
+{
+  "id": 1242959061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.82379,31.11362,-9.82379,31.11362",
+    "geom:latitude":31.11362,
+    "geom:longitude":-9.82379,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Timaouch",
+    "gn:country_code":"MA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10427820,
+    "gn:latitude":31.11362,
+    "gn:longitude":-9.82379,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Timaouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10427820
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"68db35eff3703d6baf33f2e7c847766d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1242959061,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242959061,
+    "wof:lastmodified":1537010585,
+    "wof:name":"Douar Timaouch",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.82379,
+    31.11362,
+    -9.82379,
+    31.11362
+],
+  "geometry": {"coordinates":[-9.82379,31.11362],"type":"Point"}
+}

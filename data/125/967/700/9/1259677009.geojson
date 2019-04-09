@@ -1,0 +1,67 @@
+{
+  "id": 1259677009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03883,31.64585,-7.03883,31.64585",
+    "geom:latitude":31.64585,
+    "geom:longitude":-7.03883,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Affaiko",
+    "gn:country_code":"MA",
+    "gn:dem":1432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354931,
+    "gn:latitude":31.64585,
+    "gn:longitude":-7.03883,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Affaiko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354931
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8b329421039475c158a223bbffdd5d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1259677009,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1259677009,
+    "wof:lastmodified":1537073277,
+    "wof:name":"Ait Affaiko",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03883,
+    31.64585,
+    -7.03883,
+    31.64585
+],
+  "geometry": {"coordinates":[-7.03883,31.64585],"type":"Point"}
+}

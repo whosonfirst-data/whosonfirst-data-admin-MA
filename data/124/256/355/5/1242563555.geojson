@@ -1,0 +1,67 @@
+{
+  "id": 1242563555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.47021,31.51752,-7.47021,31.51752",
+    "geom:latitude":31.51752,
+    "geom:longitude":-7.47021,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Oumbark",
+    "gn:country_code":"MA",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354240,
+    "gn:latitude":31.51752,
+    "gn:longitude":-7.47021,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Oumbark",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354240
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e080da1888d02f5890e7a0aa7a041aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1242563555,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242563555,
+    "wof:lastmodified":1537080792,
+    "wof:name":"Ait Oumbark",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.47021,
+    31.51752,
+    -7.47021,
+    31.51752
+],
+  "geometry": {"coordinates":[-7.47021,31.51752],"type":"Point"}
+}

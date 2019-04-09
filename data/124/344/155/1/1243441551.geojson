@@ -1,0 +1,71 @@
+{
+  "id": 1243441551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.05157,28.09455,-12.05157,28.09455",
+    "geom:latitude":28.09455,
+    "geom:longitude":-12.05157,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"121.0",
+    "gn:asciiname":"Akhfennir",
+    "gn:country_code":"MA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9645312,
+    "gn:latitude":28.09455,
+    "gn:longitude":-12.05157,
+    "gn:modification_date":"2016-11-04",
+    "gn:name":"Akhfennir",
+    "gn:population":1583,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673941,
+        1108784823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9645312
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cadafc6ae916d3d1cc3468e03610ecf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784823,
+            "locality_id":1243441551,
+            "region_id":85673941
+        }
+    ],
+    "wof:id":1243441551,
+    "wof:lastmodified":1536812015,
+    "wof:name":"Akhfennir",
+    "wof:parent_id":1108784823,
+    "wof:placetype":"locality",
+    "wof:population":1583,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.05157,
+    28.09455,
+    -12.05157,
+    28.09455
+],
+  "geometry": {"coordinates":[-12.05157,28.09455],"type":"Point"}
+}

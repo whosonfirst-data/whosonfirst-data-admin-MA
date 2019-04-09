@@ -1,0 +1,88 @@
+{
+  "id": 1125330169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.56186,30.10004,-9.56186,30.10004",
+    "geom:latitude":30.10004,
+    "geom:longitude":-9.56186,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":21442,
+    "gn:population":28806,
+    "iso:country":"MA",
+    "lbl:latitude":30.10004,
+    "lbl:longitude":-9.56186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0641\u0627\u0639"
+    ],
+    "name:fra_x_preferred":[
+        "Inchaden"
+    ],
+    "name:fra_x_variant":[
+        "Inchaden (CR)",
+        "Inchaden (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545923,
+    "qs_pg:gn_pop":21442,
+    "qs_pg:name":"Inchaden",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":629066,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545923,
+        "qs_pg:id":629066
+    },
+    "wof:country":"MA",
+    "wof:created":1497045088,
+    "wof:geomhash":"78c2a0d4cdf982f92c9bfadfdf3f6e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "localadmin_id":1125330169,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125330169,
+    "wof:lastmodified":1509388354,
+    "wof:name":"Inchaden",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"localadmin",
+    "wof:population":28806,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.56186,
+    30.10004,
+    -9.56186,
+    30.10004
+],
+  "geometry": {"coordinates":[-9.56186,30.10004],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 421196143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.00911,31.03794,-4.00911,31.03794",
+    "geom:latitude":31.03794,
+    "geom:longitude":-4.00911,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Khamlia"
+    ],
+    "name:eng_x_preferred":[
+        "Khamlia"
+    ],
+    "name:unk_x_variant":[
+        "Khemlia"
+    ],
+    "qs:gn_country":"MA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2544359,
+    "qs:gn_pop":0,
+    "qs:name":"Khemliya",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0645\u0643\u0646\u0627\u0633 \u0640 \u062a\u0627\u0641\u064a\u0644\u0627\u0644\u062a",
+    "qs:photos":334,
+    "qs:photos_1k":68,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":334,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":492997,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1537323,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544359,
+        "gp:id":1537323,
+        "qs:id":492997,
+        "wd:id":"Q6399979"
+    },
+    "wof:country":"MA",
+    "wof:created":1459009870,
+    "wof:geomhash":"e61642c53af25d0cd073c2d3edf10a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":421196143,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":421196143,
+    "wof:lastmodified":1514484278,
+    "wof:name":"Khemliya",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.00911,
+    31.03794,
+    -4.00911,
+    31.03794
+],
+  "geometry": {"coordinates":[-4.00911,31.03794],"type":"Point"}
+}

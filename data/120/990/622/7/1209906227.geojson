@@ -1,0 +1,72 @@
+{
+  "id": 1209906227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.46579,31.95904,-4.46579,31.95904",
+    "geom:latitude":31.95904,
+    "geom:longitude":-4.46579,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tisegdelt",
+    "gn:country_code":"MA",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527246,
+    "gn:latitude":31.95904,
+    "gn:longitude":-4.46579,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tisegdelt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tizgdalt",
+        "Tizegdelt",
+        "Tisegdelt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527246
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a5bd9f475c28e133a20650e562f53d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1209906227,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1209906227,
+    "wof:lastmodified":1537663349,
+    "wof:name":"Tisegdelt",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.46579,
+    31.95904,
+    -4.46579,
+    31.95904
+],
+  "geometry": {"coordinates":[-4.46579,31.95904],"type":"Point"}
+}

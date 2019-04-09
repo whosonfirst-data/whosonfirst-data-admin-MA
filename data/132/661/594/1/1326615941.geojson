@@ -1,0 +1,67 @@
+{
+  "id": 1326615941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83553,32.09012,-8.83553,32.09012",
+    "geom:latitude":32.09012,
+    "geom:longitude":-8.83553,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Legmara",
+    "gn:country_code":"MA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637196,
+    "gn:latitude":32.09012,
+    "gn:longitude":-8.83553,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Legmara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637196
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"24f0fc37227a10cff7dd8711552d1cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1326615941,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1326615941,
+    "wof:lastmodified":1536861997,
+    "wof:name":"Douar Legmara",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83553,
+    32.09012,
+    -8.83553,
+    32.09012
+],
+  "geometry": {"coordinates":[-8.83553,32.09012],"type":"Point"}
+}

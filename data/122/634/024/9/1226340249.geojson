@@ -1,0 +1,72 @@
+{
+  "id": 1226340249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.18629,32.21683,-6.18629,32.21683",
+    "geom:latitude":32.21683,
+    "geom:longitude":-6.18629,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Tamajjout",
+    "gn:country_code":"MA",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545765,
+    "gn:latitude":32.21683,
+    "gn:longitude":-6.18629,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft Tamajjout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Irherm Ou Asif",
+        "Irherm Ou Assif",
+        "A\u00eft Tamajjout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545765
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"34ad4058957cc41fb95ab37c4ea464eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226340249,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226340249,
+    "wof:lastmodified":1537663732,
+    "wof:name":"Ait Tamajjout",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.18629,
+    32.21683,
+    -6.18629,
+    32.21683
+],
+  "geometry": {"coordinates":[-6.18629,32.21683],"type":"Point"}
+}

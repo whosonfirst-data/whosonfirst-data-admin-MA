@@ -1,0 +1,73 @@
+{
+  "id": 1277084573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.09114,34.44698,-5.09114,34.44698",
+    "geom:latitude":34.44698,
+    "geom:longitude":-5.09114,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Gefafra",
+    "gn:country_code":"MA",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538178,
+    "gn:latitude":34.44698,
+    "gn:longitude":-5.09114,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Gefafra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u00e9fafra",
+        "El Ghefafra",
+        "Rhefafra",
+        "Douar Gefafra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538178
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3d27ac2b6b86ee769a90e37873bd33b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1277084573,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1277084573,
+    "wof:lastmodified":1537663534,
+    "wof:name":"Douar Gefafra",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.09114,
+    34.44698,
+    -5.09114,
+    34.44698
+],
+  "geometry": {"coordinates":[-5.09114,34.44698],"type":"Point"}
+}

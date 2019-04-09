@@ -1,0 +1,67 @@
+{
+  "id": 1293198611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.69634,31.73307,-6.69634,31.73307",
+    "geom:latitude":31.73307,
+    "geom:longitude":-6.69634,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tissikht",
+    "gn:country_code":"MA",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11355929,
+    "gn:latitude":31.73307,
+    "gn:longitude":-6.69634,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tissikht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11355929
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"51913780a9cef64e99e0cee49fc4d603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1293198611,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1293198611,
+    "wof:lastmodified":1536706820,
+    "wof:name":"Tissikht",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.69634,
+    31.73307,
+    -6.69634,
+    31.73307
+],
+  "geometry": {"coordinates":[-6.69634,31.73307],"type":"Point"}
+}

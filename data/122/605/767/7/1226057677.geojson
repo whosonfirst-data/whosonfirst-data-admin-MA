@@ -1,0 +1,74 @@
+{
+  "id": 1226057677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.26672,33.79857,-6.26672,33.79857",
+    "geom:latitude":33.79857,
+    "geom:longitude":-6.26672,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Khmis Sidi Yahia",
+    "gn:country_code":"MA",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549895,
+    "gn:latitude":33.79857,
+    "gn:longitude":-6.26672,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Khmis Sidi Yahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khemis-de-Sidi-Yahya",
+        "El Khemis",
+        "Souk el Khemis des A\u00eft Ouahi",
+        "El Khemis des A\u00eft Ouahi",
+        "Khmis Sidi Yahia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549895
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7aba39226930271cdc0d474709a098c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1226057677,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1226057677,
+    "wof:lastmodified":1537663857,
+    "wof:name":"Khmis Sidi Yahia",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.26672,
+    33.79857,
+    -6.26672,
+    33.79857
+],
+  "geometry": {"coordinates":[-6.26672,33.79857],"type":"Point"}
+}

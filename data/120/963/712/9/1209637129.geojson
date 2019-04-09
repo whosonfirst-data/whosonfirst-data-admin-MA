@@ -1,0 +1,61 @@
+{
+  "id": 1209637129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68894,32.96517,-8.68894,32.96517",
+    "geom:latitude":32.96517,
+    "geom:longitude":-8.68894,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar El 'Waza",
+    "gn:country_code":"MA",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367168,
+    "gn:latitude":32.96517,
+    "gn:longitude":-8.68894,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar El \u2019Waza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367168
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cc209cc181f8a82ff7a9de8912c23d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209637129
+        }
+    ],
+    "wof:id":1209637129,
+    "wof:lastmodified":1536281007,
+    "wof:name":"Dar El 'Waza",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.688939999999999,
+    32.96517,
+    -8.688939999999999,
+    32.96517
+],
+  "geometry": {"coordinates":[-8.68894,32.96517],"type":"Point"}
+}

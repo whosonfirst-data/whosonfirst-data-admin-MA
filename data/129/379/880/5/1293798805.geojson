@@ -1,0 +1,72 @@
+{
+  "id": 1293798805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7753,30.63845,-6.7753,30.63845",
+    "geom:latitude":30.63845,
+    "geom:longitude":-6.7753,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tafraout-n-Oufella",
+    "gn:country_code":"MA",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596546,
+    "gn:latitude":30.63845,
+    "gn:longitude":-6.7753,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Tafraout-n-Oufella",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafrawt-n-Oufella",
+        "Tafraout n\u2019Oufella",
+        "Tafraout-n-Oufella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596546
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9e15a109cd075b073c17134236728dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1293798805,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293798805,
+    "wof:lastmodified":1537664288,
+    "wof:name":"Tafraout-n-Oufella",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7753,
+    30.63845,
+    -6.7753,
+    30.63845
+],
+  "geometry": {"coordinates":[-6.7753,30.63845],"type":"Point"}
+}

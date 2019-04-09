@@ -1,0 +1,88 @@
+{
+  "id": 1125298951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.42348,31.41751,-4.42348,31.41751",
+    "geom:latitude":31.41751,
+    "geom:longitude":-4.42348,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4937,
+    "gn:population":4397,
+    "iso:country":"MA",
+    "lbl:latitude":31.41751,
+    "lbl:longitude":-4.42348,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u062c\u062f\u0627\u062f (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Aarab Sebbah Gheris"
+    ],
+    "name:fra_x_variant":[
+        "Aarab Sebbah Gheris (CR)",
+        "Aarab Sebbah Gheris (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546837,
+    "qs_pg:gn_pop":4937,
+    "qs_pg:name":"Aarab Sebbah Gheris",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629941,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546837,
+        "qs_pg:id":629941
+    },
+    "wof:country":"MA",
+    "wof:created":1497043311,
+    "wof:geomhash":"68b5e48a1c4f82b42c05fd698016c0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "localadmin_id":1125298951,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1125298951,
+    "wof:lastmodified":1509387673,
+    "wof:name":"Aarab Sebbah Gheris",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"localadmin",
+    "wof:population":4397,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.42348,
+    31.41751,
+    -4.42348,
+    31.41751
+],
+  "geometry": {"coordinates":[-4.42348,31.41751],"type":"Point"}
+}

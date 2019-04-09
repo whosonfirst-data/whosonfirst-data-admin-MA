@@ -1,0 +1,67 @@
+{
+  "id": 1327417777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.54978,30.01558,-9.54978,30.01558",
+    "geom:latitude":30.01558,
+    "geom:longitude":-9.54978,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bouink",
+    "gn:country_code":"MA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869561,
+    "gn:latitude":30.01558,
+    "gn:longitude":-9.54978,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bouink",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869561
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b2ef2089617a6dc4237b85e0219e0812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1327417777,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327417777,
+    "wof:lastmodified":1536702179,
+    "wof:name":"Bouink",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.54978,
+    30.01558,
+    -9.54978,
+    30.01558
+],
+  "geometry": {"coordinates":[-9.54978,30.01558],"type":"Point"}
+}

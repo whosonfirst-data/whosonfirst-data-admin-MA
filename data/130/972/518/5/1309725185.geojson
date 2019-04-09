@@ -1,0 +1,67 @@
+{
+  "id": 1309725185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.76428,35.74385,-5.76428,35.74385",
+    "geom:latitude":35.74385,
+    "geom:longitude":-5.76428,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Koudyet Tahar",
+    "gn:country_code":"MA",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059770,
+    "gn:latitude":35.74385,
+    "gn:longitude":-5.76428,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Koudyet Tahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059770
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"13406578de2647101c606087657c0adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1309725185,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1309725185,
+    "wof:lastmodified":1537045342,
+    "wof:name":"Koudyet Tahar",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.76428,
+    35.74385,
+    -5.76428,
+    35.74385
+],
+  "geometry": {"coordinates":[-5.76428,35.74385],"type":"Point"}
+}

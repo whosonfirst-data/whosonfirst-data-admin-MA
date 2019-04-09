@@ -1,0 +1,67 @@
+{
+  "id": 1276652513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93525,31.755,-8.93525,31.755",
+    "geom:latitude":31.755,
+    "geom:longitude":-8.93525,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Laaouissat Jbil",
+    "gn:country_code":"MA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10893240,
+    "gn:latitude":31.755,
+    "gn:longitude":-8.93525,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laaouissat Jbil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10893240
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"80112037063a1ec443b2f3e731ed1e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1276652513,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276652513,
+    "wof:lastmodified":1536847032,
+    "wof:name":"Douar Laaouissat Jbil",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93525,
+    31.755,
+    -8.93525,
+    31.755
+],
+  "geometry": {"coordinates":[-8.93525,31.755],"type":"Point"}
+}

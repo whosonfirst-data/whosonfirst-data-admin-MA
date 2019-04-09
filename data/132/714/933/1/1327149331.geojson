@@ -1,0 +1,71 @@
+{
+  "id": 1327149331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.24716,33.52924,-4.24716,33.52924",
+    "geom:latitude":33.52924,
+    "geom:longitude":-4.24716,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ain el Haiz",
+    "gn:country_code":"MA",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560066,
+    "gn:latitude":33.52924,
+    "gn:longitude":-4.24716,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00efn el Ha\u00efz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft el Ha\u00efz",
+        "A\u00efn el Ha\u00efz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560066
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3f664e3efb30917c80dcbd1701da230d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1327149331,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1327149331,
+    "wof:lastmodified":1537664191,
+    "wof:name":"Ain el Haiz",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.24716,
+    33.52924,
+    -4.24716,
+    33.52924
+],
+  "geometry": {"coordinates":[-4.24716,33.52924],"type":"Point"}
+}

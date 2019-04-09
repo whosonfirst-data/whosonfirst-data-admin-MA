@@ -1,0 +1,67 @@
+{
+  "id": 1242965479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.25494,33.05776,-7.25494,33.05776",
+    "geom:latitude":33.05776,
+    "geom:longitude":-7.25494,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Ichaarra Ben Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936209,
+    "gn:latitude":33.05776,
+    "gn:longitude":-7.25494,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ichaarra Ben Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936209
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dcb9b72d25e6cc6ab1ffef20d0ff69c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1242965479,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1242965479,
+    "wof:lastmodified":1537001278,
+    "wof:name":"Douar Ichaarra Ben Ahmed",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.25494,
+    33.05775999999999,
+    -7.25494,
+    33.05775999999999
+],
+  "geometry": {"coordinates":[-7.25494,33.05775999999999],"type":"Point"}
+}

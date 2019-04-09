@@ -1,0 +1,67 @@
+{
+  "id": 1226343451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.83368,33.80734,-4.83368,33.80734",
+    "geom:latitude":33.80734,
+    "geom:longitude":-4.83368,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Masay",
+    "gn:country_code":"MA",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921655,
+    "gn:latitude":33.80734,
+    "gn:longitude":-4.83368,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Masay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921655
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8abcf842fcb58f40cb771bdad0350828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1226343451,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1226343451,
+    "wof:lastmodified":1536793066,
+    "wof:name":"Douar Masay",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.83368,
+    33.80734,
+    -4.83368,
+    33.80734
+],
+  "geometry": {"coordinates":[-4.83368,33.80734],"type":"Point"}
+}

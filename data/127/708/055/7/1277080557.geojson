@@ -1,0 +1,67 @@
+{
+  "id": 1277080557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.41388,34.39283,-4.41388,34.39283",
+    "geom:latitude":34.39283,
+    "geom:longitude":-4.41388,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Bah Lhamra",
+    "gn:country_code":"MA",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11099964,
+    "gn:latitude":34.39283,
+    "gn:longitude":-4.41388,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bah Lhamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11099964
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5fbc672d031d80b9961b238b537a27ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1277080557,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1277080557,
+    "wof:lastmodified":1536771245,
+    "wof:name":"Douar Bah Lhamra",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.41388,
+    34.39283,
+    -4.41388,
+    34.39283
+],
+  "geometry": {"coordinates":[-4.41388,34.39283],"type":"Point"}
+}

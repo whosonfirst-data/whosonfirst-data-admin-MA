@@ -1,0 +1,64 @@
+{
+  "id": 1209525703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91986,32.30224,-8.91986,32.30224",
+    "geom:latitude":32.30224,
+    "geom:longitude":-8.91986,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lbizane",
+    "gn:country_code":"MA",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550566,
+    "gn:latitude":32.30224,
+    "gn:longitude":-8.91986,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lbizane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bizane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550566
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"78bd97771b9bf1213d5aa4170498a530",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525703
+        }
+    ],
+    "wof:id":1209525703,
+    "wof:lastmodified":1537663887,
+    "wof:name":"Douar Lbizane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91986,
+    32.30224,
+    -8.91986,
+    32.30224
+],
+  "geometry": {"coordinates":[-8.91986,32.30224],"type":"Point"}
+}

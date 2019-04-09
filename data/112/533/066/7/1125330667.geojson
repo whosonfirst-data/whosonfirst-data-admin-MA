@@ -1,0 +1,88 @@
+{
+  "id": 1125330667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.99219,29.54876,-8.99219,29.54876",
+    "geom:latitude":29.54876,
+    "geom:longitude":-8.99219,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3073,
+    "gn:population":2375,
+    "iso:country":"MA",
+    "lbl:latitude":29.54876,
+    "lbl:longitude":-8.99219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0646\u0641\u0643"
+    ],
+    "name:fra_x_preferred":[
+        "Tarsouat"
+    ],
+    "name:fra_x_variant":[
+        "Tarsouat (CR)",
+        "Tarsouat (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546590,
+    "qs_pg:gn_pop":3073,
+    "qs_pg:name":"Tarsouat",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":629691,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546590,
+        "qs_pg:id":629691
+    },
+    "wof:country":"MA",
+    "wof:created":1497045115,
+    "wof:geomhash":"d3ad485c36cfcf4e77703587d8512f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "localadmin_id":1125330667,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1125330667,
+    "wof:lastmodified":1509388372,
+    "wof:name":"Tarsouat",
+    "wof:parent_id":890428801,
+    "wof:placetype":"localadmin",
+    "wof:population":2375,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.99219,
+    29.54876,
+    -8.99219,
+    29.54876
+],
+  "geometry": {"coordinates":[-8.99219,29.54876],"type":"Point"}
+}

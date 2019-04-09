@@ -1,0 +1,88 @@
+{
+  "id": 1125418583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.97145,35.17332,-5.97145,35.17332",
+    "geom:latitude":35.17332,
+    "geom:longitude":-5.97145,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15890,
+    "gn:population":16366,
+    "iso:country":"MA",
+    "lbl:latitude":35.17332,
+    "lbl:longitude":-5.97145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u062b\u0646\u064a\u0646 \u0633\u064a\u062f\u064a \u0627\u0644\u064a\u0645\u0646\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Rissana Janoubia"
+    ],
+    "name:fra_x_variant":[
+        "Rissana Janoubia (CR)",
+        "Rissana Janoubia (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545699,
+    "qs_pg:gn_pop":15890,
+    "qs_pg:name":"Rissana Janoubia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628841,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545699,
+        "qs_pg:id":628841
+    },
+    "wof:country":"MA",
+    "wof:created":1497051809,
+    "wof:geomhash":"67785fae76edd5d891bb2e10111a7ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "localadmin_id":1125418583,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125418583,
+    "wof:lastmodified":1509390422,
+    "wof:name":"Rissana Janoubia",
+    "wof:parent_id":890422513,
+    "wof:placetype":"localadmin",
+    "wof:population":16366,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.97145,
+    35.17332,
+    -5.97145,
+    35.17332
+],
+  "geometry": {"coordinates":[-5.97145,35.17332],"type":"Point"}
+}

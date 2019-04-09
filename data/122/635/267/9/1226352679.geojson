@@ -1,0 +1,73 @@
+{
+  "id": 1226352679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.30256,30.5114,-7.30256,30.5114",
+    "geom:latitude":30.5114,
+    "geom:longitude":-7.30256,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ain Igourramene",
+    "gn:country_code":"MA",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560837,
+    "gn:latitude":30.5114,
+    "gn:longitude":-7.30256,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00efn Igourramene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El A\u00efne",
+        "A\u00efn Igouramene",
+        "A\u00efn Igouram\u00e8n",
+        "A\u00efn Igourramene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560837
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7034130cc6da28dd858383da974d7fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1226352679,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226352679,
+    "wof:lastmodified":1537664220,
+    "wof:name":"Ain Igourramene",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.30256,
+    30.5114,
+    -7.30256,
+    30.5114
+],
+  "geometry": {"coordinates":[-7.30256,30.5114],"type":"Point"}
+}

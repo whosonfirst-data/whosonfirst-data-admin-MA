@@ -1,0 +1,72 @@
+{
+  "id": 1310091299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.88732,31.34806,-7.88732,31.34806",
+    "geom:latitude":31.34806,
+    "geom:longitude":-7.88732,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sour Tedrara",
+    "gn:country_code":"MA",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532408,
+    "gn:latitude":31.34806,
+    "gn:longitude":-7.88732,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Sour Tedrara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maouttadrara",
+        "Souk Tedrara",
+        "Sour Tedrara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532408
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"93474f979525b279bfd003acc9868255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1310091299,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310091299,
+    "wof:lastmodified":1537663495,
+    "wof:name":"Sour Tedrara",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.88732,
+    31.34806,
+    -7.88732,
+    31.34806
+],
+  "geometry": {"coordinates":[-7.88732,31.34806],"type":"Point"}
+}

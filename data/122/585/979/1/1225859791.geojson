@@ -1,0 +1,71 @@
+{
+  "id": 1225859791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.94808,34.38858,-4.94808,34.38858",
+    "geom:latitude":34.38858,
+    "geom:longitude":-4.94808,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Bellil",
+    "gn:country_code":"MA",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540165,
+    "gn:latitude":34.38858,
+    "gn:longitude":-4.94808,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Bellil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Benlil",
+        "Oulad Bellil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540165
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cc4cd30e5c21cc6827da2efd4e4b2703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1225859791,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1225859791,
+    "wof:lastmodified":1537663609,
+    "wof:name":"Douar Oulad Bellil",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.94808,
+    34.38858,
+    -4.94808,
+    34.38858
+],
+  "geometry": {"coordinates":[-4.94808,34.38858],"type":"Point"}
+}

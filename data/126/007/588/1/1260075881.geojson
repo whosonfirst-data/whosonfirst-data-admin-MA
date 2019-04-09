@@ -1,0 +1,67 @@
+{
+  "id": 1260075881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19299,32.44209,-9.19299,32.44209",
+    "geom:latitude":32.44209,
+    "geom:longitude":-9.19299,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Echelh",
+    "gn:country_code":"MA",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10460618,
+    "gn:latitude":32.44209,
+    "gn:longitude":-9.19299,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Echelh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10460618
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c92daaf1ec9dc8c04d879f4b8c51bc0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1260075881,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1260075881,
+    "wof:lastmodified":1536998273,
+    "wof:name":"Oulad Echelh",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19299,
+    32.44209,
+    -9.19299,
+    32.44209
+],
+  "geometry": {"coordinates":[-9.19299,32.44209],"type":"Point"}
+}

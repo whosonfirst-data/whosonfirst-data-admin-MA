@@ -1,0 +1,67 @@
+{
+  "id": 1276872109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.72562,34.05644,-6.72562,34.05644",
+    "geom:latitude":34.05644,
+    "geom:longitude":-6.72562,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Zaryaga",
+    "gn:country_code":"MA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10920944,
+    "gn:latitude":34.05644,
+    "gn:longitude":-6.72562,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Zaryaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10920944
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bab646a1ff76a442f517f638d908504a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":1276872109,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1276872109,
+    "wof:lastmodified":1537049479,
+    "wof:name":"Douar Zaryaga",
+    "wof:parent_id":1108784811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.72562,
+    34.05644,
+    -6.72562,
+    34.05644
+],
+  "geometry": {"coordinates":[-6.72562,34.05644],"type":"Point"}
+}

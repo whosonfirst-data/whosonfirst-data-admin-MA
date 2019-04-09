@@ -1,0 +1,75 @@
+{
+  "id": 890454293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.99818,31.48442,-3.99818,31.48442",
+    "geom:latitude":31.48442,
+    "geom:longitude":-3.99818,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":18332,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0635\u0628\u0627\u062d \u0627\u063a\u0631\u064a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Aarab Sebbah Ziz"
+    ],
+    "name:fra_x_variant":[
+        "Aarab Sebbah Ziz (CR)",
+        "Aarab Sebbah Ziz (Commune Rurale)"
+    ],
+    "qs:name":"Aarab Sebbah Ziz",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546416,
+        "qs:id":629521
+    },
+    "wof:country":"MA",
+    "wof:created":1469052894,
+    "wof:geomhash":"315b05d54ac1a5cdbeb04947b6a161d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "localadmin_id":890454293,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890454293,
+    "wof:lastmodified":1505343656,
+    "wof:name":"Aarab Sebbah Ziz",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"localadmin",
+    "wof:population":18332,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.99818,
+    31.48442,
+    -3.99818,
+    31.48442
+],
+  "geometry": {"coordinates":[-3.99818,31.48442],"type":"Point"}
+}

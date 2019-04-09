@@ -1,0 +1,88 @@
+{
+  "id": 1125312265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.14246,34.32914,-2.14246,34.32914",
+    "geom:latitude":34.32914,
+    "geom:longitude":-2.14246,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3790,
+    "gn:population":3867,
+    "iso:country":"MA",
+    "lbl:latitude":34.32914,
+    "lbl:longitude":-2.14246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0648\u062c\u062f\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Laaouinate"
+    ],
+    "name:fra_x_variant":[
+        "Laaouinate (CR)",
+        "Laaouinate (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545675,
+    "qs_pg:gn_pop":3790,
+    "qs_pg:name":"Laaouinate",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":628818,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545675,
+        "qs_pg:id":628818
+    },
+    "wof:country":"MA",
+    "wof:created":1497044068,
+    "wof:geomhash":"3e745da5894a9e4c057da0deb9671e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784775,
+            "localadmin_id":1125312265,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1125312265,
+    "wof:lastmodified":1509387917,
+    "wof:name":"Laaouinate",
+    "wof:parent_id":1108784775,
+    "wof:placetype":"localadmin",
+    "wof:population":3867,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.14246,
+    34.32914,
+    -2.14246,
+    34.32914
+],
+  "geometry": {"coordinates":[-2.14246,34.32914],"type":"Point"}
+}

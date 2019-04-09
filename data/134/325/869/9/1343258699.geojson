@@ -1,0 +1,67 @@
+{
+  "id": 1343258699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.70163,31.19065,-5.70163,31.19065",
+    "geom:latitude":31.19065,
+    "geom:longitude":-5.70163,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tanghrift",
+    "gn:country_code":"MA",
+    "gn:dem":1962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10952660,
+    "gn:latitude":31.19065,
+    "gn:longitude":-5.70163,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tanghrift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10952660
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f633b847bd7b2714ab6e60c038ddac39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1343258699,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343258699,
+    "wof:lastmodified":1537035892,
+    "wof:name":"Tanghrift",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.70163,
+    31.19065,
+    -5.70163,
+    31.19065
+],
+  "geometry": {"coordinates":[-5.70163,31.19065],"type":"Point"}
+}

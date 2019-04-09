@@ -1,0 +1,88 @@
+{
+  "id": 1125311029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.65828,32.76784,-7.65828,32.76784",
+    "geom:latitude":32.76784,
+    "geom:longitude":-7.65828,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11815,
+    "gn:population":11976,
+    "iso:country":"MA",
+    "lbl:latitude":32.76784,
+    "lbl:longitude":-7.65828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u062f\u0631\u0648\u0633\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Toualet"
+    ],
+    "name:fra_x_variant":[
+        "Toualet (CR)",
+        "Toualet (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545471,
+    "qs_pg:gn_pop":11815,
+    "qs_pg:name":"Toualet",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628619,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545471,
+        "qs_pg:id":628619
+    },
+    "wof:country":"MA",
+    "wof:created":1497043986,
+    "wof:geomhash":"6f2366b4c31a6e9b778c34cd85887847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":1125311029,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1125311029,
+    "wof:lastmodified":1509387891,
+    "wof:name":"Toualet",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":11976,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.65828,
+    32.76784,
+    -7.65828,
+    32.76784
+],
+  "geometry": {"coordinates":[-7.65828,32.76784],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243378475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.99053,29.2707,-8.99053,29.2707",
+    "geom:latitude":29.2707,
+    "geom:longitude":-8.99053,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tamessoult",
+    "gn:country_code":"MA",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530632,
+    "gn:latitude":29.2707,
+    "gn:longitude":-8.99053,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tamessoult",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamsoult",
+        "Tamessoult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530632
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e14694ee0d5073b2511a81add6fe00e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1243378475,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1243378475,
+    "wof:lastmodified":1537663443,
+    "wof:name":"Tamessoult",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.99053,
+    29.2707,
+    -8.99053,
+    29.2707
+],
+  "geometry": {"coordinates":[-8.99053,29.2707],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309818613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.20079,34.7652,-5.20079,34.7652",
+    "geom:latitude":34.7652,
+    "geom:longitude":-5.20079,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Laanina",
+    "gn:country_code":"MA",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550762,
+    "gn:latitude":34.7652,
+    "gn:longitude":-5.20079,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Laanina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ol Anina",
+        "Dar el Anina",
+        "El Amina",
+        "El Anina",
+        "Douar Laanina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550762
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fc84f626bf1a7ff4f298d5c39453cafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1309818613,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1309818613,
+    "wof:lastmodified":1537663897,
+    "wof:name":"Douar Laanina",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.20079,
+    34.7652,
+    -5.20079,
+    34.7652
+],
+  "geometry": {"coordinates":[-5.20079,34.7652],"type":"Point"}
+}

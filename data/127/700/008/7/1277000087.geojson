@@ -1,0 +1,72 @@
+{
+  "id": 1277000087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.22992,34.62087,-5.22992,34.62087",
+    "geom:latitude":34.62087,
+    "geom:longitude":-5.22992,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Tahannaout",
+    "gn:country_code":"MA",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547930,
+    "gn:latitude":34.62087,
+    "gn:longitude":-5.22992,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tahannaout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hannaoual",
+        "Hannaouat",
+        "Douar Tahannaout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547930
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c087a99a5b0ed9659240e79d95dd1153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1277000087,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1277000087,
+    "wof:lastmodified":1537663803,
+    "wof:name":"Douar Tahannaout",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.22992,
+    34.62087,
+    -5.22992,
+    34.62087
+],
+  "geometry": {"coordinates":[-5.22992,34.62087],"type":"Point"}
+}

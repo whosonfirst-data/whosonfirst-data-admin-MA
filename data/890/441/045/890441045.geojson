@@ -1,0 +1,78 @@
+{
+  "id": 890441045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.07934,35.2568,-6.07934,35.2568",
+    "geom:latitude":35.2568,
+    "geom:longitude":-6.07934,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":4826,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0643\u0632\u0646\u0627\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Khemis Sahel"
+    ],
+    "name:fra_x_variant":[
+        "Khemis Sahel (AC)",
+        "Khemis Sahel (Agglomeration Communale)"
+    ],
+    "qs:name":"Khemis Sahel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545854,
+        "qs:id":628997,
+        "wd:id":"Q3196273",
+        "wk:page":"Khemis Sahel"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052306,
+    "wof:geomhash":"3269af076b953b50d60d2fc04650e433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "localadmin_id":890441045,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":890441045,
+    "wof:lastmodified":1527727232,
+    "wof:name":"Khemis Sahel",
+    "wof:parent_id":890422513,
+    "wof:placetype":"localadmin",
+    "wof:population":4826,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.07934,
+    35.2568,
+    -6.07934,
+    35.2568
+],
+  "geometry": {"coordinates":[-6.07934,35.2568],"type":"Point"}
+}

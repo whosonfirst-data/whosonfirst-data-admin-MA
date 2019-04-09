@@ -1,0 +1,71 @@
+{
+  "id": 1259890251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.32356,33.74094,-4.32356,33.74094",
+    "geom:latitude":33.74094,
+    "geom:longitude":-4.32356,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sidi Yahia",
+    "gn:country_code":"MA",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532815,
+    "gn:latitude":33.74094,
+    "gn:longitude":-4.32356,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Yahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Yahya",
+        "Sidi Yahia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532815
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"afd71adb1dee1dd652cddc6613c68862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1259890251,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1259890251,
+    "wof:lastmodified":1537663504,
+    "wof:name":"Sidi Yahia",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.32356,
+    33.74094,
+    -4.32356,
+    33.74094
+],
+  "geometry": {"coordinates":[-4.32356,33.74094],"type":"Point"}
+}

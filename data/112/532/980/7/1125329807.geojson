@@ -1,0 +1,88 @@
+{
+  "id": 1125329807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29961,31.60497,-7.29961,31.60497",
+    "geom:latitude":31.60497,
+    "geom:longitude":-7.29961,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9905,
+    "gn:population":9905,
+    "iso:country":"MA",
+    "lbl:latitude":31.60497,
+    "lbl:longitude":-7.29961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0627\u0648\u0631\u064a\u0631 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Abadou"
+    ],
+    "name:fra_x_variant":[
+        "Abadou (CR)",
+        "Abadou (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545578,
+    "qs_pg:gn_pop":9905,
+    "qs_pg:name":"Abadou",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628718,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545578,
+        "qs_pg:id":628718
+    },
+    "wof:country":"MA",
+    "wof:created":1497045069,
+    "wof:geomhash":"23f81c39ff8b9ec88c6d628e757705ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "localadmin_id":1125329807,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1125329807,
+    "wof:lastmodified":1509388343,
+    "wof:name":"Abadou",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"localadmin",
+    "wof:population":9905,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29961,
+    31.60497,
+    -7.29961,
+    31.60497
+],
+  "geometry": {"coordinates":[-7.29961,31.60497],"type":"Point"}
+}

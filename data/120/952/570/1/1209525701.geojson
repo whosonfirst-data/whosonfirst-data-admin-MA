@@ -1,0 +1,65 @@
+{
+  "id": 1209525701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.60653,30.32248,-6.60653,30.32248",
+    "geom:latitude":30.32248,
+    "geom:longitude":-6.60653,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Oulad Mrah",
+    "gn:country_code":"MA",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539437,
+    "gn:latitude":30.32248,
+    "gn:longitude":-6.60653,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Mrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Mrah",
+        "Oulad Mrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539437
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c2b20100165f8645fd6818c3c8f3a2b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525701
+        }
+    ],
+    "wof:id":1209525701,
+    "wof:lastmodified":1537663570,
+    "wof:name":"Oulad Mrah",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.60653,
+    30.32248,
+    -6.60653,
+    30.32248
+],
+  "geometry": {"coordinates":[-6.60653,30.32248],"type":"Point"}
+}

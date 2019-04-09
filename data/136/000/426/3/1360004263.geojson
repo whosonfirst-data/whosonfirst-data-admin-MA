@@ -1,0 +1,66 @@
+{
+  "id": 1360004263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.95904,35.34068,-4.95904,35.34068",
+    "geom:latitude":35.34068,
+    "geom:longitude":-4.95904,
+    "gn:asciiname":"Stehat",
+    "gn:country_code":"MA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10114133,
+    "gn:latitude":35.34068,
+    "gn:longitude":-4.95904,
+    "gn:modification_date":"2015-02-23",
+    "gn:name":"Stehat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10114133
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f4d9e2b0664b1fb3e4660d662128096c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1360004263,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1360004263,
+    "wof:lastmodified":1537059624,
+    "wof:name":"Stehat",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.95904,
+    35.34068,
+    -4.95904,
+    35.34068
+],
+  "geometry": {"coordinates":[-4.95904,35.34068],"type":"Point"}
+}

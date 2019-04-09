@@ -1,0 +1,71 @@
+{
+  "id": 1276453433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11295,32.3259,-8.11295,32.3259",
+    "geom:latitude":32.3259,
+    "geom:longitude":-8.11295,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bou Achrine",
+    "gn:country_code":"MA",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555255,
+    "gn:latitude":32.3259,
+    "gn:longitude":-8.11295,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Achrine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bon Achrine",
+        "Bou Achrine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555255
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"112b3bd78248e06c185341d8004a5c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1276453433,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276453433,
+    "wof:lastmodified":1537664061,
+    "wof:name":"Bou Achrine",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11295,
+    32.3259,
+    -8.11295,
+    32.3259
+],
+  "geometry": {"coordinates":[-8.11295,32.3259],"type":"Point"}
+}

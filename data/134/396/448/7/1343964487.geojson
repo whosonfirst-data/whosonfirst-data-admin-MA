@@ -1,0 +1,67 @@
+{
+  "id": 1343964487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.16418,34.27566,-5.16418,34.27566",
+    "geom:latitude":34.27566,
+    "geom:longitude":-5.16418,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Mouanat",
+    "gn:country_code":"MA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985375,
+    "gn:latitude":34.27566,
+    "gn:longitude":-5.16418,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Mouanat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985375
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5af05dfc9b048238d177d986139cfa02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1343964487,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1343964487,
+    "wof:lastmodified":1537013402,
+    "wof:name":"Douar Mouanat",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.16418,
+    34.27565999999999,
+    -5.16418,
+    34.27565999999999
+],
+  "geometry": {"coordinates":[-5.16418,34.27565999999999],"type":"Point"}
+}

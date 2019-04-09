@@ -1,0 +1,61 @@
+{
+  "id": 1209216025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.01564,34.32132,-5.01564,34.32132",
+    "geom:latitude":34.32132,
+    "geom:longitude":-5.01564,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Bni Agoub",
+    "gn:country_code":"MA",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985478,
+    "gn:latitude":34.32132,
+    "gn:longitude":-5.01564,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bni Agoub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985478
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7e5cb9c68385bdcc650fe8bae1c5e72b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209216025
+        }
+    ],
+    "wof:id":1209216025,
+    "wof:lastmodified":1536294129,
+    "wof:name":"Douar Bni Agoub",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.01564,
+    34.32132,
+    -5.01564,
+    34.32132
+],
+  "geometry": {"coordinates":[-5.01564,34.32132],"type":"Point"}
+}

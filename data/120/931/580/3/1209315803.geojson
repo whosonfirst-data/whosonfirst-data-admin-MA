@@ -1,0 +1,61 @@
+{
+  "id": 1209315803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.66417,34.18802,-4.66417,34.18802",
+    "geom:latitude":34.18802,
+    "geom:longitude":-4.66417,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Harroudiyat",
+    "gn:country_code":"MA",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10993343,
+    "gn:latitude":34.18802,
+    "gn:longitude":-4.66417,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Harroudiyat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10993343
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"903e9136c3e20401fa1c462736a45ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209315803
+        }
+    ],
+    "wof:id":1209315803,
+    "wof:lastmodified":1536290870,
+    "wof:name":"Douar Harroudiyat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.66417,
+    34.18802,
+    -4.66417,
+    34.18802
+],
+  "geometry": {"coordinates":[-4.66417,34.18802],"type":"Point"}
+}

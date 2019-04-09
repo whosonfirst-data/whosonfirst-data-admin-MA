@@ -1,0 +1,72 @@
+{
+  "id": 1343473723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.30882,33.69302,-5.30882,33.69302",
+    "geom:latitude":33.69302,
+    "geom:longitude":-5.30882,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tabahhout",
+    "gn:country_code":"MA",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532284,
+    "gn:latitude":33.69302,
+    "gn:longitude":-5.30882,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tabahhout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Tabahout",
+        "Tabahout",
+        "Tabahhout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532284
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5bb57ff7d5b04b685c0e2a0b39434205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1343473723,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343473723,
+    "wof:lastmodified":1537663492,
+    "wof:name":"Tabahhout",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.30882,
+    33.69302,
+    -5.30882,
+    33.69302
+],
+  "geometry": {"coordinates":[-5.30882,33.69302],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276462331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.00236,35.15561,-3.00236,35.15561",
+    "geom:latitude":35.15561,
+    "geom:longitude":-3.00236,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zeghanghane",
+    "gn:country_code":"MA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537538,
+    "gn:latitude":35.15561,
+    "gn:longitude":-3.00236,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zeghanghane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Segangan",
+        "Segangane",
+        "Zeghanghane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537538,
+        "wk:page":"Segangan"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"206e4e7582c6f6657fdf28e555545db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1276462331,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1276462331,
+    "wof:lastmodified":1537663522,
+    "wof:name":"Zeghanghane",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.00236,
+    35.15561,
+    -3.00236,
+    35.15561
+],
+  "geometry": {"coordinates":[-3.00236,35.15561],"type":"Point"}
+}

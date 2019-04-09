@@ -1,0 +1,74 @@
+{
+  "id": 1343780597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.60348,33.52838,-6.60348,33.52838",
+    "geom:latitude":33.52838,
+    "geom:longitude":-6.60348,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ar Rommani",
+    "gn:country_code":"MA",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557134,
+    "gn:latitude":33.52838,
+    "gn:longitude":-6.60348,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ar Rommani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Romani",
+        "Marchand",
+        "Rommani",
+        "Ar Rumm\u0101n",
+        "Ar Rommani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557134
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c0127ccd806c2d3a2e1b74fa97c3dabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1343780597,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1343780597,
+    "wof:lastmodified":1537664102,
+    "wof:name":"Ar Rommani",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.60348,
+    33.52838,
+    -6.60348,
+    33.52838
+],
+  "geometry": {"coordinates":[-6.60348,33.52838],"type":"Point"}
+}

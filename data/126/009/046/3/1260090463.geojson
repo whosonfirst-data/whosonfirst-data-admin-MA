@@ -1,0 +1,67 @@
+{
+  "id": 1260090463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.0809,34.29603,-4.0809,34.29603",
+    "geom:latitude":34.29603,
+    "geom:longitude":-4.0809,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rachdi",
+    "gn:country_code":"MA",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538465,
+    "gn:latitude":34.29603,
+    "gn:longitude":-4.0809,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Rachdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538465
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"31bbed9d160989c2282495d767e68e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1260090463,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1260090463,
+    "wof:lastmodified":1536977292,
+    "wof:name":"Rachdi",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.0809,
+    34.29603,
+    -4.0809,
+    34.29603
+],
+  "geometry": {"coordinates":[-4.0809,34.29603],"type":"Point"}
+}

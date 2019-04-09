@@ -1,0 +1,78 @@
+{
+  "id": 890436507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92168,30.90144,-6.92168,30.90144",
+    "geom:latitude":30.90144,
+    "geom:longitude":-6.92168,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":21157,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0633\u0643\u0648\u0631\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Tabounte"
+    ],
+    "name:fra_x_variant":[
+        "Tabounte (AC)",
+        "Tabounte (Agglomeration Communale)"
+    ],
+    "qs:name":"Tabounte",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546689,
+        "qs:id":629786,
+        "wd:id":"Q596887",
+        "wk:page":"Tabounte"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052114,
+    "wof:geomhash":"ddcbb96cbfad886bcd3721e8102a85dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "localadmin_id":890436507,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890436507,
+    "wof:lastmodified":1527735403,
+    "wof:name":"Tabounte",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"localadmin",
+    "wof:population":21157,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92168,
+    30.90144,
+    -6.92168,
+    30.90144
+],
+  "geometry": {"coordinates":[-6.92168,30.90144],"type":"Point"}
+}

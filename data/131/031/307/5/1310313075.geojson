@@ -1,0 +1,67 @@
+{
+  "id": 1310313075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.12017,35.22126,-3.12017,35.22126",
+    "geom:latitude":35.22126,
+    "geom:longitude":-3.12017,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ifentras",
+    "gn:country_code":"MA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961052,
+    "gn:latitude":35.22126,
+    "gn:longitude":-3.12017,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ifentras",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961052
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bb44d54b26d397e5d6f39dae8d283ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1310313075,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1310313075,
+    "wof:lastmodified":1536697132,
+    "wof:name":"Ifentras",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.12017,
+    35.22126,
+    -3.12017,
+    35.22126
+],
+  "geometry": {"coordinates":[-3.12017,35.22126],"type":"Point"}
+}

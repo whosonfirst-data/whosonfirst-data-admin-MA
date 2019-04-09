@@ -1,0 +1,86 @@
+{
+  "id": 1125329997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.50212,24.15433,-13.50212,24.15433",
+    "geom:latitude":24.15433,
+    "geom:longitude":-13.50212,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":404,
+    "gn:population":404,
+    "iso:country":"MA",
+    "lbl:latitude":24.15433,
+    "lbl:longitude":-13.50212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062c\u064a\u0643"
+    ],
+    "name:fra_x_preferred":[
+        "Oum Dreyga"
+    ],
+    "name:fra_x_variant":[
+        "Oum Dreyga (CR)",
+        "Oum Dreyga (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545636,
+    "qs_pg:gn_pop":404,
+    "qs_pg:name":"Oum Dreyga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":628778,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545636,
+        "qs_pg:id":628778
+    },
+    "wof:country":"MA",
+    "wof:created":1497045079,
+    "wof:geomhash":"deaf4de68de3458447a27437f2bcb67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "localadmin_id":1125329997,
+            "region_id":85673951
+        }
+    ],
+    "wof:id":1125329997,
+    "wof:lastmodified":1509388349,
+    "wof:name":"Oum Dreyga",
+    "wof:parent_id":85673951,
+    "wof:placetype":"localadmin",
+    "wof:population":404,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.50212,
+    24.15433,
+    -13.50212,
+    24.15433
+],
+  "geometry": {"coordinates":[-13.50212,24.15433],"type":"Point"}
+}

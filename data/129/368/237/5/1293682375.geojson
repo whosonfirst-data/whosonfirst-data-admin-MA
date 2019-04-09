@@ -1,0 +1,67 @@
+{
+  "id": 1293682375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2281,31.81997,-6.2281,31.81997",
+    "geom:latitude":31.81997,
+    "geom:longitude":-6.2281,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tighighit",
+    "gn:country_code":"MA",
+    "gn:dem":2349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359415,
+    "gn:latitude":31.81997,
+    "gn:longitude":-6.2281,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tighighit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359415
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ec8d9f207426e7ae6dda7992e4e0c92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1293682375,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1293682375,
+    "wof:lastmodified":1537002643,
+    "wof:name":"Tighighit",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2281,
+    31.81997,
+    -6.2281,
+    31.81997
+],
+  "geometry": {"coordinates":[-6.2281,31.81997],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125418579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.08129,33.96192,-5.08129,33.96192",
+    "geom:latitude":33.96192,
+    "geom:longitude":-5.08129,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":35016,
+    "gn:population":35016,
+    "iso:country":"MA",
+    "lbl:latitude":33.96192,
+    "lbl:longitude":-5.08129,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u062f\u0627\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Chkef"
+    ],
+    "name:fra_x_variant":[
+        "Ain Chkef (CR)",
+        "Ain Chkef (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545698,
+    "qs_pg:gn_pop":35016,
+    "qs_pg:name":"Ain Chkef",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":628840,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545698,
+        "qs_pg:id":628840
+    },
+    "wof:country":"MA",
+    "wof:created":1497051809,
+    "wof:geomhash":"25aaaa79652cd631ca05a5f8e9b993dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "localadmin_id":1125418579,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1125418579,
+    "wof:lastmodified":1509390422,
+    "wof:name":"Ain Chkef",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"localadmin",
+    "wof:population":35016,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.08129,
+    33.96192,
+    -5.08129,
+    33.96192
+],
+  "geometry": {"coordinates":[-5.08129,33.96192],"type":"Point"}
+}

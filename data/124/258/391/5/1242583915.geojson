@@ -1,0 +1,67 @@
+{
+  "id": 1242583915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.70996,33.67232,-5.70996,33.67232",
+    "geom:latitude":33.67232,
+    "geom:longitude":-5.70996,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ait Mouzoune",
+    "gn:country_code":"MA",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970774,
+    "gn:latitude":33.67232,
+    "gn:longitude":-5.70996,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Mouzoune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970774
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4afcc587637a6162265e4cec72c89e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1242583915,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1242583915,
+    "wof:lastmodified":1537052269,
+    "wof:name":"Ait Mouzoune",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.70996,
+    33.67232,
+    -5.70996,
+    33.67232
+],
+  "geometry": {"coordinates":[-5.70996,33.67232],"type":"Point"}
+}

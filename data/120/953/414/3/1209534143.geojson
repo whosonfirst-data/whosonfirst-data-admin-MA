@@ -1,0 +1,61 @@
+{
+  "id": 1209534143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.93,30.53,-4.93,30.53",
+    "geom:latitude":30.53,
+    "geom:longitude":-4.93,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Agoult",
+    "gn:country_code":"MA",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561425,
+    "gn:latitude":30.53,
+    "gn:longitude":-4.93,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agoult",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561425
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8b14b454e91cd788097e5eb1814399f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209534143
+        }
+    ],
+    "wof:id":1209534143,
+    "wof:lastmodified":1536284192,
+    "wof:name":"Agoult",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.93,
+    30.53,
+    -4.93,
+    30.53
+],
+  "geometry": {"coordinates":[-4.93,30.53],"type":"Point"}
+}

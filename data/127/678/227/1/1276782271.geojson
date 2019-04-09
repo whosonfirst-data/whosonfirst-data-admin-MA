@@ -1,0 +1,71 @@
+{
+  "id": 1276782271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05,30.1,-9.05,30.1",
+    "geom:latitude":30.1,
+    "geom:longitude":-9.05,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Toug Rih",
+    "gn:country_code":"MA",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526840,
+    "gn:latitude":30.1,
+    "gn:longitude":-9.05,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Toug Rih",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taugrih",
+        "Toug Rih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526840
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ea10e146f7b1c86938433dbb93a71285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1276782271,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276782271,
+    "wof:lastmodified":1537663336,
+    "wof:name":"Toug Rih",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05,
+    30.1,
+    -9.05,
+    30.1
+],
+  "geometry": {"coordinates":[-9.05,30.1],"type":"Point"}
+}

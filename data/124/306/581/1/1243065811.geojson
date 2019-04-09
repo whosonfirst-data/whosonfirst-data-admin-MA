@@ -1,0 +1,70 @@
+{
+  "id": 1243065811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1642,31.95975,-6.1642,31.95975",
+    "geom:latitude":31.95975,
+    "geom:longitude":-6.1642,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Agard-n-Wahmane",
+    "gn:country_code":"MA",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596191,
+    "gn:latitude":31.95975,
+    "gn:longitude":-6.1642,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Agard-n-Wahmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tighremt n\u2019Ougamh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596191
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"977625e4f4722a5f2803328942e9fd41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1243065811,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1243065811,
+    "wof:lastmodified":1537664284,
+    "wof:name":"Agard-n-Wahmane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1642,
+    31.95975,
+    -6.1642,
+    31.95975
+],
+  "geometry": {"coordinates":[-6.1642,31.95975],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226140841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.10076,31.65796,-7.10076,31.65796",
+    "geom:latitude":31.65796,
+    "geom:longitude":-7.10076,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Belgassem",
+    "gn:country_code":"MA",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354763,
+    "gn:latitude":31.65796,
+    "gn:longitude":-7.10076,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Belgassem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354763
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"38dcedc450f18d71d6fa30974d2e6432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226140841,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226140841,
+    "wof:lastmodified":1537081651,
+    "wof:name":"Ait Belgassem",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.10076,
+    31.65796,
+    -7.10076,
+    31.65796
+],
+  "geometry": {"coordinates":[-7.10076,31.65796],"type":"Point"}
+}

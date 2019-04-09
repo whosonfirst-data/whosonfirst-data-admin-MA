@@ -1,0 +1,80 @@
+{
+  "id": 890416963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36849,30.21339,-9.36849,30.21339",
+    "geom:latitude":30.21339,
+    "geom:longitude":-9.36849,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":25838,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0628\u0627\u0647\u0627 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Biougra"
+    ],
+    "name:fra_x_variant":[
+        "Biougra (MU)",
+        "Biougra (Commune Urbaine)"
+    ],
+    "qs:name":"Biougra",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:latitude":"30.214444",
+    "wd:longitude":"-9.370833",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546196,
+        "qs:id":629335,
+        "wd:id":"Q662659",
+        "wk:page":"Biougra"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051173,
+    "wof:geomhash":"69c428b50286e3185ec3866f96de83a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "localadmin_id":890416963,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890416963,
+    "wof:lastmodified":1527792798,
+    "wof:name":"Biougra",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"localadmin",
+    "wof:population":25838,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36849,
+    30.21339,
+    -9.36849,
+    30.21339
+],
+  "geometry": {"coordinates":[-9.36849,30.21339],"type":"Point"}
+}

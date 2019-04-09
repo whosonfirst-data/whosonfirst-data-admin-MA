@@ -1,0 +1,67 @@
+{
+  "id": 1259386161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5418,35.79716,-5.5418,35.79716",
+    "geom:latitude":35.79716,
+    "geom:longitude":-5.5418,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Laadouiya",
+    "gn:country_code":"MA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955480,
+    "gn:latitude":35.79716,
+    "gn:longitude":-5.5418,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Laadouiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955480
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"23e67a069ec08ad6e1411e4899ff8e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1259386161,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259386161,
+    "wof:lastmodified":1536997612,
+    "wof:name":"Laadouiya",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5418,
+    35.79716,
+    -5.5418,
+    35.79716
+],
+  "geometry": {"coordinates":[-5.5418,35.79716],"type":"Point"}
+}

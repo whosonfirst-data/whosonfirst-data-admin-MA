@@ -1,0 +1,78 @@
+{
+  "id": 890441131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.96581,34.53683,-2.96581,34.53683",
+    "geom:latitude":34.53683,
+    "geom:longitude":-2.96581,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":7699,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0637\u064a\u0637\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Melg El Ouidane"
+    ],
+    "name:fra_x_variant":[
+        "Melg El Ouidane (CR)",
+        "Melg El Ouidane (Commune Rurale)"
+    ],
+    "qs:name":"Melg El Ouidane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545984,
+        "qs:id":629128,
+        "wd:id":"Q6812236",
+        "wk:page":"Melg El Ouidane"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052310,
+    "wof:geomhash":"cce9e6b0e0586635e805f2acd3f18ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "localadmin_id":890441131,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890441131,
+    "wof:lastmodified":1527727231,
+    "wof:name":"Melg El Ouidane",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"localadmin",
+    "wof:population":7699,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.96581,
+    34.53683,
+    -2.96581,
+    34.53683
+],
+  "geometry": {"coordinates":[-2.96581,34.53683],"type":"Point"}
+}

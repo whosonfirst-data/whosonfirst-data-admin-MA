@@ -1,0 +1,65 @@
+{
+  "id": 1209307773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0201,32.60168,-6.0201,32.60168",
+    "geom:latitude":32.60168,
+    "geom:longitude":-6.0201,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tirhboula",
+    "gn:country_code":"MA",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527639,
+    "gn:latitude":32.60168,
+    "gn:longitude":-6.0201,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Tirhboula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tighboula",
+        "Tirhboula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527639
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fae8f18e4710d31fa0906993a2f46ece",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209307773
+        }
+    ],
+    "wof:id":1209307773,
+    "wof:lastmodified":1537663361,
+    "wof:name":"Tirhboula",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0201,
+    32.60168,
+    -6.0201,
+    32.60168
+],
+  "geometry": {"coordinates":[-6.0201,32.60168],"type":"Point"}
+}

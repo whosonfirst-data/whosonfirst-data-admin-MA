@@ -1,0 +1,67 @@
+{
+  "id": 1243265127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.02545,34.5182,-5.02545,34.5182",
+    "geom:latitude":34.5182,
+    "geom:longitude":-5.02545,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tarsali",
+    "gn:country_code":"MA",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11042062,
+    "gn:latitude":34.5182,
+    "gn:longitude":-5.02545,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tarsali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11042062
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f926828a959195290560da280ab32c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1243265127,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1243265127,
+    "wof:lastmodified":1537064095,
+    "wof:name":"Tarsali",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.02545,
+    34.5182,
+    -5.02545,
+    34.5182
+],
+  "geometry": {"coordinates":[-5.02545,34.5182],"type":"Point"}
+}

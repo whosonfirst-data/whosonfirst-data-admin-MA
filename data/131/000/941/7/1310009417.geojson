@@ -1,0 +1,67 @@
+{
+  "id": 1310009417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.55644,35.83082,-5.55644,35.83082",
+    "geom:latitude":35.83082,
+    "geom:longitude":-5.55644,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Assoqfane",
+    "gn:country_code":"MA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955423,
+    "gn:latitude":35.83082,
+    "gn:longitude":-5.55644,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Assoqfane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955423
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"32ceb9bc4fab1561a3545b997544596f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":1310009417,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310009417,
+    "wof:lastmodified":1536636436,
+    "wof:name":"Assoqfane",
+    "wof:parent_id":890442529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.55644,
+    35.83082,
+    -5.55644,
+    35.83082
+],
+  "geometry": {"coordinates":[-5.55644,35.83082],"type":"Point"}
+}

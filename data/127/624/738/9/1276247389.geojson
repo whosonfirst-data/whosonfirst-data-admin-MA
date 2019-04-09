@@ -1,0 +1,73 @@
+{
+  "id": 1276247389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.02562,34.40894,-6.02562,34.40894",
+    "geom:latitude":34.40894,
+    "geom:longitude":-6.02562,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Garat",
+    "gn:country_code":"MA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548693,
+    "gn:latitude":34.40894,
+    "gn:longitude":-6.02562,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Garat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Garate",
+        "Garate",
+        "Gratt",
+        "Garat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548693
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3f841767057533efd9eb99c716344c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1276247389,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1276247389,
+    "wof:lastmodified":1537663815,
+    "wof:name":"Garat",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.02562,
+    34.40894,
+    -6.02562,
+    34.40894
+],
+  "geometry": {"coordinates":[-6.02562,34.40894],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209517697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.20114,34.81391,-2.20114,34.81391",
+    "geom:latitude":34.81391,
+    "geom:longitude":-2.20114,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Qjaouaa",
+    "gn:country_code":"MA",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11067516,
+    "gn:latitude":34.81391,
+    "gn:longitude":-2.20114,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Qjaouaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11067516
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fff6d32c8c8a6fa11c36c293559c8498",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209517697
+        }
+    ],
+    "wof:id":1209517697,
+    "wof:lastmodified":1536284679,
+    "wof:name":"Douar Qjaouaa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.20114,
+    34.81391,
+    -2.20114,
+    34.81391
+],
+  "geometry": {"coordinates":[-2.20114,34.81391],"type":"Point"}
+}

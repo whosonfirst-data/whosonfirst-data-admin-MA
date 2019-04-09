@@ -1,0 +1,64 @@
+{
+  "id": 1209019385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09891,30.78826,-8.09891,30.78826",
+    "geom:latitude":30.78826,
+    "geom:longitude":-8.09891,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Maddit",
+    "gn:country_code":"MA",
+    "gn:dem":1431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543216,
+    "gn:latitude":30.78826,
+    "gn:longitude":-8.09891,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Maddit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543216
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b10b22d1f9a3eadf2ff2b522cdc8deae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019385
+        }
+    ],
+    "wof:id":1209019385,
+    "wof:lastmodified":1537663668,
+    "wof:name":"Maddit",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09891,
+    30.78826,
+    -8.09891,
+    30.78826
+],
+  "geometry": {"coordinates":[-8.09891,30.78826],"type":"Point"}
+}

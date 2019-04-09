@@ -1,0 +1,71 @@
+{
+  "id": 1343676849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.22574,29.21071,-10.22574,29.21071",
+    "geom:latitude":29.21071,
+    "geom:longitude":-10.22574,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Asbaro",
+    "gn:country_code":"MA",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557110,
+    "gn:latitude":29.21071,
+    "gn:longitude":-10.22574,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Asbaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Axbaro",
+        "Asbaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557110
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6d89f5749dbaaf9c62bcb720be50709a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1343676849,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343676849,
+    "wof:lastmodified":1537664100,
+    "wof:name":"Asbaro",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.22574,
+    29.21071,
+    -10.22574,
+    29.21071
+],
+  "geometry": {"coordinates":[-10.22574,29.21071],"type":"Point"}
+}

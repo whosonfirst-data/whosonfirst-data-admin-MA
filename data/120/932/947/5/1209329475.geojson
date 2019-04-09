@@ -1,0 +1,65 @@
+{
+  "id": 1209329475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22098,32.51776,-8.22098,32.51776",
+    "geom:latitude":32.51776,
+    "geom:longitude":-8.22098,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Ahmed Ben Brahim",
+    "gn:country_code":"MA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552161,
+    "gn:latitude":32.51776,
+    "gn:longitude":-8.22098,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ahmed Ben Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ahmed Brahim",
+        "Douar Ahmed Ben Brahim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552161
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"870fe07233d4abe1d9e274ce1ec3248a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329475
+        }
+    ],
+    "wof:id":1209329475,
+    "wof:lastmodified":1537663993,
+    "wof:name":"Douar Ahmed Ben Brahim",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22098,
+    32.51776,
+    -8.22098,
+    32.51776
+],
+  "geometry": {"coordinates":[-8.22098,32.51776],"type":"Point"}
+}

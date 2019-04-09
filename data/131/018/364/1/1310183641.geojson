@@ -1,0 +1,67 @@
+{
+  "id": 1310183641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.95285,29.49719,-9.95285,29.49719",
+    "geom:latitude":29.49719,
+    "geom:longitude":-9.95285,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Igoughar",
+    "gn:country_code":"MA",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100551,
+    "gn:latitude":29.49719,
+    "gn:longitude":-9.95285,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Igoughar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100551
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"680d844a7574ebd192572c3daaf13c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1310183641,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310183641,
+    "wof:lastmodified":1536883275,
+    "wof:name":"Igoughar",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.95285,
+    29.49719,
+    -9.95285,
+    29.49719
+],
+  "geometry": {"coordinates":[-9.95285,29.49719],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243575917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.36022,33.10273,-7.36022,33.10273",
+    "geom:latitude":33.10273,
+    "geom:longitude":-7.36022,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar El Karakhi Abdellah",
+    "gn:country_code":"MA",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10935929,
+    "gn:latitude":33.10273,
+    "gn:longitude":-7.36022,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar El Karakhi Abdellah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10935929
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e380b2f4d7c2d833c0262fb1e14777bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1243575917,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1243575917,
+    "wof:lastmodified":1536616792,
+    "wof:name":"Dar El Karakhi Abdellah",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.36022,
+    33.10273,
+    -7.36022,
+    33.10273
+],
+  "geometry": {"coordinates":[-7.36022,33.10273],"type":"Point"}
+}

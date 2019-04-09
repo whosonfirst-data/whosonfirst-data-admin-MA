@@ -1,0 +1,67 @@
+{
+  "id": 1243365865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.86884,35.09589,-2.86884,35.09589",
+    "geom:latitude":35.09589,
+    "geom:longitude":-2.86884,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Bouhou",
+    "gn:country_code":"MA",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10962480,
+    "gn:latitude":35.09589,
+    "gn:longitude":-2.86884,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bouhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10962480
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4841b1cfc7c2910bddeee043c0f0a187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1243365865,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243365865,
+    "wof:lastmodified":1536922433,
+    "wof:name":"Douar Bouhou",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.86884,
+    35.09589,
+    -2.86884,
+    35.09589
+],
+  "geometry": {"coordinates":[-2.86884,35.09589],"type":"Point"}
+}

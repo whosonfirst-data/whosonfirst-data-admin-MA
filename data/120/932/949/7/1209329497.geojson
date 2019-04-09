@@ -1,0 +1,65 @@
+{
+  "id": 1209329497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13531,30.73114,-6.13531,30.73114",
+    "geom:latitude":30.73114,
+    "geom:longitude":-6.13531,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Ben Ouazer",
+    "gn:country_code":"MA",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560340,
+    "gn:latitude":30.73114,
+    "gn:longitude":-6.13531,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Ben Ouazer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ben O\u00fcazar",
+        "A\u00eft Ben Ouazer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560340
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fa073a66ac89e734b0379e8f17ac34fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329497
+        }
+    ],
+    "wof:id":1209329497,
+    "wof:lastmodified":1537664201,
+    "wof:name":"Ait Ben Ouazer",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13531,
+    30.73114,
+    -6.13531,
+    30.73114
+],
+  "geometry": {"coordinates":[-6.13531,30.73114],"type":"Point"}
+}

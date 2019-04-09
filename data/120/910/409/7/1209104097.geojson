@@ -1,0 +1,61 @@
+{
+  "id": 1209104097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.22445,32.05969,-6.22445,32.05969",
+    "geom:latitude":32.05969,
+    "geom:longitude":-6.22445,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wichou ou Hsayn",
+    "gn:country_code":"MA",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436002,
+    "gn:latitude":32.05969,
+    "gn:longitude":-6.22445,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Wichou ou Hsayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436002
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4a7ad5d3d8f813a434a64d294ebd19c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209104097
+        }
+    ],
+    "wof:id":1209104097,
+    "wof:lastmodified":1536297634,
+    "wof:name":"Wichou ou Hsayn",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.22445,
+    32.05969,
+    -6.22445,
+    32.05969
+],
+  "geometry": {"coordinates":[-6.22445,32.05969],"type":"Point"}
+}

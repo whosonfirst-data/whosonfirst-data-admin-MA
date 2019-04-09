@@ -1,0 +1,74 @@
+{
+  "id": 1344242775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22946,32.06677,-7.22946,32.06677",
+    "geom:latitude":32.06677,
+    "geom:longitude":-7.22946,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Oulad Nasseur",
+    "gn:country_code":"MA",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551367,
+    "gn:latitude":32.06677,
+    "gn:longitude":-7.22946,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Oulad Nasseur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Naseur",
+        "Douar Oulad Nasseur",
+        "Oulad Nasseur",
+        "Ouled Nass\u00e8re",
+        "Douar Oulad Nasser"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551367
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5efe4308a3763de9d39e9346f2ab2847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1344242775,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1344242775,
+    "wof:lastmodified":1537663932,
+    "wof:name":"Douar Oulad Nasseur",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22946,
+    32.06677,
+    -7.22946,
+    32.06677
+],
+  "geometry": {"coordinates":[-7.22946,32.06677],"type":"Point"}
+}

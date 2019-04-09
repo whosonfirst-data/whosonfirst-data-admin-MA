@@ -1,0 +1,72 @@
+{
+  "id": 1226550131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.23379,29.01431,-10.23379,29.01431",
+    "geom:latitude":29.01431,
+    "geom:longitude":-10.23379,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ioutlane",
+    "gn:country_code":"MA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545872,
+    "gn:latitude":29.01431,
+    "gn:longitude":-10.23379,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ioutlane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iutlar",
+        "Iutlan",
+        "Ioutlane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545872
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"910b20814b098dcc2fd655a4a7a26c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1226550131,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1226550131,
+    "wof:lastmodified":1537663737,
+    "wof:name":"Ioutlane",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.23379,
+    29.01431,
+    -10.23379,
+    29.01431
+],
+  "geometry": {"coordinates":[-10.23379,29.01431],"type":"Point"}
+}

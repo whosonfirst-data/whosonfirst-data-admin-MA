@@ -1,0 +1,67 @@
+{
+  "id": 1209124669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07538,30.75157,-8.07538,30.75157",
+    "geom:latitude":30.75157,
+    "geom:longitude":-8.07538,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Idakhsane",
+    "gn:country_code":"MA",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547424,
+    "gn:latitude":30.75157,
+    "gn:longitude":-8.07538,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Idakhsane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idakhsen",
+        "Idakki",
+        "Idakhsene",
+        "Idakhsane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547424
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"af28175dfbaea5d653527e4611ba1815",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209124669
+        }
+    ],
+    "wof:id":1209124669,
+    "wof:lastmodified":1537663791,
+    "wof:name":"Idakhsane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07538,
+    30.75157,
+    -8.07538,
+    30.75157
+],
+  "geometry": {"coordinates":[-8.07538,30.75157],"type":"Point"}
+}

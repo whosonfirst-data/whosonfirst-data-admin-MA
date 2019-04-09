@@ -1,0 +1,73 @@
+{
+  "id": 1225855097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62388,30.56058,-7.62388,30.56058",
+    "geom:latitude":30.56058,
+    "geom:longitude":-7.62388,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait 'Icht",
+    "gn:country_code":"MA",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546136,
+    "gn:latitude":30.56058,
+    "gn:longitude":-7.62388,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft \u2019Icht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imintalate",
+        "Imi n\u2019Talaate n\u2019A\u00eft A\u00efch",
+        "Imi n\u2019Talaat n\u2019A\u00eft A\u00efch",
+        "A\u00eft \u2019Icht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546136
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"056142153b6d7535d516e23ecd249ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1225855097,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225855097,
+    "wof:lastmodified":1537663746,
+    "wof:name":"Ait 'Icht",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62388,
+    30.56058,
+    -7.62388,
+    30.56058
+],
+  "geometry": {"coordinates":[-7.62388,30.56058],"type":"Point"}
+}

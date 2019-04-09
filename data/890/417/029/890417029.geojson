@@ -1,0 +1,80 @@
+{
+  "id": 890417029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23902,32.08011,-1.23902,32.08011",
+    "geom:latitude":32.08011,
+    "geom:longitude":-1.23902,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":12516,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0639\u0631\u0641\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+    ],
+    "name:fra_x_preferred":[
+        "Figuig"
+    ],
+    "name:fra_x_variant":[
+        "Figuig (MU)",
+        "Figuig (Commune Urbaine)"
+    ],
+    "qs:name":"Figuig",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:latitude":"32.116666666",
+    "wd:longitude":"-1.226944444",
+    "wd:wordcount":844,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546275,
+        "qs:id":629402,
+        "wd:id":"Q425646",
+        "wk:page":"Figuig"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051177,
+    "wof:geomhash":"ff0c7ed24c6061f1828083a1200f2cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "localadmin_id":890417029,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890417029,
+    "wof:lastmodified":1527782124,
+    "wof:name":"Figuig",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"localadmin",
+    "wof:population":12516,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23902,
+    32.08011,
+    -1.23902,
+    32.08011
+],
+  "geometry": {"coordinates":[-1.23902,32.08011],"type":"Point"}
+}

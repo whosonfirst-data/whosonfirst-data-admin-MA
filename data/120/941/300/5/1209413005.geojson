@@ -1,0 +1,61 @@
+{
+  "id": 1209413005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91229,32.06643,-6.91229,32.06643",
+    "geom:latitude":32.06643,
+    "geom:longitude":-6.91229,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Agholid",
+    "gn:country_code":"MA",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435241,
+    "gn:latitude":32.06643,
+    "gn:longitude":-6.91229,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Agholid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435241
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ff59445f04c65a7ad6e973c07ef8a13b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209413005
+        }
+    ],
+    "wof:id":1209413005,
+    "wof:lastmodified":1536287777,
+    "wof:name":"Agholid",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91229,
+    32.06643,
+    -6.91229,
+    32.06643
+],
+  "geometry": {"coordinates":[-6.91229,32.06643],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343373901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82539,31.88888,-7.82539,31.88888",
+    "geom:latitude":31.88888,
+    "geom:longitude":-7.82539,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Laanakir Rouaouna",
+    "gn:country_code":"MA",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550767,
+    "gn:latitude":31.88888,
+    "gn:longitude":-7.82539,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Laanakir Rouaouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Anakir Cheikh Aomar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550767
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9833f66bfe8b9e4c13eae85caa3bf3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1343373901,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343373901,
+    "wof:lastmodified":1537663897,
+    "wof:name":"Laanakir Rouaouna",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82539,
+    31.88888,
+    -7.82539,
+    31.88888
+],
+  "geometry": {"coordinates":[-7.82539,31.88888],"type":"Point"}
+}

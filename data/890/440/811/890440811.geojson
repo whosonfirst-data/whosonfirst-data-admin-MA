@@ -1,0 +1,78 @@
+{
+  "id": 890440811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36334,34.65841,-5.36334,34.65841",
+    "geom:latitude":34.65841,
+    "geom:longitude":-5.36334,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":13627,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0627\u064a\u062f\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Ounnana"
+    ],
+    "name:fra_x_variant":[
+        "Ounnana (CR)",
+        "Ounnana (Commune Rurale)"
+    ],
+    "qs:name":"Ounnana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546922,
+        "qs:id":630003,
+        "wd:id":"Q7110527",
+        "wk:page":"Ounnana"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052298,
+    "wof:geomhash":"6fc3327c87ab61db3680469546f6b429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "localadmin_id":890440811,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":890440811,
+    "wof:lastmodified":1527727102,
+    "wof:name":"Ounnana",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"localadmin",
+    "wof:population":13627,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36334,
+    34.65841,
+    -5.36334,
+    34.65841
+],
+  "geometry": {"coordinates":[-5.36334,34.65841],"type":"Point"}
+}

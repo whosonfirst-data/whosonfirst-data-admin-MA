@@ -1,0 +1,78 @@
+{
+  "id": 890436441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.40892,34.53407,-4.40892,34.53407",
+    "geom:latitude":34.53407,
+    "geom:longitude":-4.40892,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":11775,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0648\u0644\u064a\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Oulid"
+    ],
+    "name:fra_x_variant":[
+        "Bni Oulid (CR)",
+        "Bni Oulid (Commune Rurale)"
+    ],
+    "qs:name":"Bni Oulid",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545487,
+        "qs:id":628634,
+        "wd:id":"Q12199676",
+        "wk:page":"Bni Oulid"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052111,
+    "wof:geomhash":"425a4f8e41bf0017a27de3e08c073d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "localadmin_id":890436441,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890436441,
+    "wof:lastmodified":1527735401,
+    "wof:name":"Bni Oulid",
+    "wof:parent_id":890418103,
+    "wof:placetype":"localadmin",
+    "wof:population":11775,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.40892,
+    34.53407,
+    -4.40892,
+    34.53407
+],
+  "geometry": {"coordinates":[-4.40892,34.53407],"type":"Point"}
+}

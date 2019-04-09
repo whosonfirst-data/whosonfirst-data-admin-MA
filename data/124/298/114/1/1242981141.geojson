@@ -1,0 +1,72 @@
+{
+  "id": 1242981141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03537,29.5919,-9.03537,29.5919",
+    "geom:latitude":29.5919,
+    "geom:longitude":-9.03537,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Iymougadiyr",
+    "gn:country_code":"MA",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546098,
+    "gn:latitude":29.5919,
+    "gn:longitude":-9.03537,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Iymougadiyr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imi Agoudir",
+        "Imi Ougadir",
+        "Iymougadiyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546098
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f39616826ef8fc073ffb846336f55f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1242981141,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242981141,
+    "wof:lastmodified":1537663744,
+    "wof:name":"Iymougadiyr",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03537,
+    29.5919,
+    -9.03537,
+    29.5919
+],
+  "geometry": {"coordinates":[-9.03537,29.5919],"type":"Point"}
+}

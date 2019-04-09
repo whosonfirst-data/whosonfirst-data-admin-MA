@@ -1,0 +1,61 @@
+{
+  "id": 1209236189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6647,32.84705,-7.6647,32.84705",
+    "geom:latitude":32.84705,
+    "geom:longitude":-7.6647,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ed-Drait",
+    "gn:country_code":"MA",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433989,
+    "gn:latitude":32.84705,
+    "gn:longitude":-7.6647,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Ed-Dra\u00eft",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433989
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e6f4ca7632a7551d78bf9f85d9bd5656",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209236189
+        }
+    ],
+    "wof:id":1209236189,
+    "wof:lastmodified":1536293472,
+    "wof:name":"Ed-Drait",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6647,
+    32.84705,
+    -7.6647,
+    32.84705
+],
+  "geometry": {"coordinates":[-7.6647,32.84705],"type":"Point"}
+}

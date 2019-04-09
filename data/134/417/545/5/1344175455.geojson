@@ -1,0 +1,71 @@
+{
+  "id": 1344175455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.96306,33.79069,-3.96306,33.79069",
+    "geom:latitude":33.79069,
+    "geom:longitude":-3.96306,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Ait Rahmoun",
+    "gn:country_code":"MA",
+    "gn:dem":1432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559189,
+    "gn:latitude":33.79069,
+    "gn:longitude":-3.96306,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar A\u00eft Rahmoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00eft Rahmoun",
+        "A\u00eft Rahmoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559189
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"37bd953973da5bb43d261f26b69b2a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1344175455,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1344175455,
+    "wof:lastmodified":1537664158,
+    "wof:name":"Douar Ait Rahmoun",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.96306,
+    33.79069,
+    -3.96306,
+    33.79069
+],
+  "geometry": {"coordinates":[-3.96306,33.79069],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209534091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.82463,34.28769,-5.82463,34.28769",
+    "geom:latitude":34.28769,
+    "geom:longitude":-5.82463,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad Hamid",
+    "gn:country_code":"MA",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551418,
+    "gn:latitude":34.28769,
+    "gn:longitude":-5.82463,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Hamid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Hmad",
+        "Douar Oulad Hamid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551418
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0576ad4e1195892f0a90e64bde6efe97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209534091
+        }
+    ],
+    "wof:id":1209534091,
+    "wof:lastmodified":1537663936,
+    "wof:name":"Douar Oulad Hamid",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.82463,
+    34.28769,
+    -5.82463,
+    34.28769
+],
+  "geometry": {"coordinates":[-5.82463,34.28769],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209211849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07728,33.53708,-7.07728,33.53708",
+    "geom:latitude":33.53708,
+    "geom:longitude":-7.07728,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Oulad Abid",
+    "gn:country_code":"MA",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10918110,
+    "gn:latitude":33.53708,
+    "gn:longitude":-7.07728,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Abid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10918110
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eb4c5121b438a791166880873bce4761",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209211849
+        }
+    ],
+    "wof:id":1209211849,
+    "wof:lastmodified":1536294265,
+    "wof:name":"Douar Oulad Abid",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07728,
+    33.53708,
+    -7.07728,
+    33.53708
+],
+  "geometry": {"coordinates":[-7.07728,33.53708],"type":"Point"}
+}

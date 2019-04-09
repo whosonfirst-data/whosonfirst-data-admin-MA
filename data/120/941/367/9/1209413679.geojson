@@ -1,0 +1,61 @@
+{
+  "id": 1209413679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.76604,32.10433,-6.76604,32.10433",
+    "geom:latitude":32.10433,
+    "geom:longitude":-6.76604,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oulad Sa'id",
+    "gn:country_code":"MA",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435341,
+    "gn:latitude":32.10433,
+    "gn:longitude":-6.76604,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Oulad Sa\u2019id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435341
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f9bd4d5d31167ce5369ff3b9bedeaa16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209413679
+        }
+    ],
+    "wof:id":1209413679,
+    "wof:lastmodified":1536287756,
+    "wof:name":"Oulad Sa'id",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7660399999999985,
+    32.10433,
+    -6.7660399999999985,
+    32.10433
+],
+  "geometry": {"coordinates":[-6.76604,32.10433],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276532167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18238,29.61942,-9.18238,29.61942",
+    "geom:latitude":29.61942,
+    "geom:longitude":-9.18238,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Isli Al Had",
+    "gn:country_code":"MA",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130253,
+    "gn:latitude":29.61942,
+    "gn:longitude":-9.18238,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Isli Al Had",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130253
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4101f1f1e44ffa4e3ee03fa9a4275f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1276532167,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276532167,
+    "wof:lastmodified":1537008875,
+    "wof:name":"Isli Al Had",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18238,
+    29.61942,
+    -9.18238,
+    29.61942
+],
+  "geometry": {"coordinates":[-9.18238,29.61942],"type":"Point"}
+}

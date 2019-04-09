@@ -1,0 +1,78 @@
+{
+  "id": 890416943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.20881,33.76484,-7.20881,33.76484",
+    "geom:latitude":33.76484,
+    "geom:longitude":-7.20881,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":27028,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628\u0627\u0648\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Bouznika"
+    ],
+    "name:fra_x_variant":[
+        "Bouznika (MU)",
+        "Bouznika (Commune Urbaine)"
+    ],
+    "qs:name":"Bouznika",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546124,
+        "qs:id":629264,
+        "wd:id":"Q638967",
+        "wk:page":"Bouznika"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051172,
+    "wof:geomhash":"200378970ff019eaf71ff63e73deee71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "localadmin_id":890416943,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890416943,
+    "wof:lastmodified":1527792806,
+    "wof:name":"Bouznika",
+    "wof:parent_id":890436421,
+    "wof:placetype":"localadmin",
+    "wof:population":27028,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.20881,
+    33.76484,
+    -7.20881,
+    33.76484
+],
+  "geometry": {"coordinates":[-7.20881,33.76484],"type":"Point"}
+}

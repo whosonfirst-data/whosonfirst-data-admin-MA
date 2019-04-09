@@ -1,0 +1,67 @@
+{
+  "id": 1310337829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.42469,34.54625,-6.42469,34.54625",
+    "geom:latitude":34.54625,
+    "geom:longitude":-6.42469,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Dkakra",
+    "gn:country_code":"MA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11099448,
+    "gn:latitude":34.54625,
+    "gn:longitude":-6.42469,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Dkakra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11099448
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"432d381da37dcc14693ffda184654782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1310337829,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1310337829,
+    "wof:lastmodified":1536661417,
+    "wof:name":"Douar Dkakra",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.42469,
+    34.54625,
+    -6.42469,
+    34.54625
+],
+  "geometry": {"coordinates":[-6.42469,34.54625],"type":"Point"}
+}

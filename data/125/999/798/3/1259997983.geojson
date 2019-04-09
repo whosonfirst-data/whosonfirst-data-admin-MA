@@ -1,0 +1,67 @@
+{
+  "id": 1259997983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73231,34.90577,-3.73231,34.90577",
+    "geom:latitude":34.90577,
+    "geom:longitude":-3.73231,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ijaounene",
+    "gn:country_code":"MA",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546547,
+    "gn:latitude":34.90577,
+    "gn:longitude":-3.73231,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ijaounene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546547
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"db07bede2f7715bccfc13c77d1725427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1259997983,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1259997983,
+    "wof:lastmodified":1536611734,
+    "wof:name":"Ijaounene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73231,
+    34.90577,
+    -3.73231,
+    34.90577
+],
+  "geometry": {"coordinates":[-3.73231,34.90577],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209408269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63383,31.75203,-7.63383,31.75203",
+    "geom:latitude":31.75203,
+    "geom:longitude":-7.63383,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Ben Abbou",
+    "gn:country_code":"MA",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10911855,
+    "gn:latitude":31.75203,
+    "gn:longitude":-7.63383,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Ben Abbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10911855
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e4cffebe296edfa123af0d497c47f3b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209408269
+        }
+    ],
+    "wof:id":1209408269,
+    "wof:lastmodified":1536287924,
+    "wof:name":"Oulad Ben Abbou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6338300000000014,
+    31.75203,
+    -7.6338300000000014,
+    31.75203
+],
+  "geometry": {"coordinates":[-7.63383,31.75203],"type":"Point"}
+}

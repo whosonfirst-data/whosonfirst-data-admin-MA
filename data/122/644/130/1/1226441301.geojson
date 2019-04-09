@@ -1,0 +1,67 @@
+{
+  "id": 1226441301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.66054,32.97832,-5.66054,32.97832",
+    "geom:latitude":32.97832,
+    "geom:longitude":-5.66054,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ifri ou Chaou",
+    "gn:country_code":"MA",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965943,
+    "gn:latitude":32.97832,
+    "gn:longitude":-5.66054,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ifri ou Ch\u00e2ou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965943
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ddba0a59673afda3844da9b2eb5a694a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784791,
+            "locality_id":1226441301,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226441301,
+    "wof:lastmodified":1536651759,
+    "wof:name":"Ifri ou Chaou",
+    "wof:parent_id":1108784791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.66054,
+    32.97832,
+    -5.66054,
+    32.97832
+],
+  "geometry": {"coordinates":[-5.66054,32.97832],"type":"Point"}
+}

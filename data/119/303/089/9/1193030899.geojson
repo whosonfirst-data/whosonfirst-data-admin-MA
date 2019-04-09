@@ -1,0 +1,71 @@
+{
+  "id": 1193030899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1524,34.42413,-6.1524,34.42413",
+    "geom:latitude":34.42413,
+    "geom:longitude":-6.1524,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Caid Ben Laroussi",
+    "gn:country_code":"MA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551990,
+    "gn:latitude":34.42413,
+    "gn:longitude":-6.1524,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ca\u00efd Ben Laroussi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00efd Laroussi",
+        "Douar Ca\u00efd Ben Laroussi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551990
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f7c8cae7d0f9371b08c34cc5d8822657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1193030899,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1193030899,
+    "wof:lastmodified":1537663980,
+    "wof:name":"Douar Caid Ben Laroussi",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1524,
+    34.42413,
+    -6.1524,
+    34.42413
+],
+  "geometry": {"coordinates":[-6.1524,34.42413],"type":"Point"}
+}

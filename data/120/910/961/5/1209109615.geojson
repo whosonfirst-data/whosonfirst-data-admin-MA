@@ -1,0 +1,61 @@
+{
+  "id": 1209109615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.38634,35.57411,-5.38634,35.57411",
+    "geom:latitude":35.57411,
+    "geom:longitude":-5.38634,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hay Malaga",
+    "gn:country_code":"MA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060493,
+    "gn:latitude":35.57411,
+    "gn:longitude":-5.38634,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hay Malaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060493
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fc525f26626a9eda87975705a037d615",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209109615
+        }
+    ],
+    "wof:id":1209109615,
+    "wof:lastmodified":1536297450,
+    "wof:name":"Hay Malaga",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3863400000000015,
+    35.57411,
+    -5.3863400000000015,
+    35.57411
+],
+  "geometry": {"coordinates":[-5.38634,35.57411],"type":"Point"}
+}

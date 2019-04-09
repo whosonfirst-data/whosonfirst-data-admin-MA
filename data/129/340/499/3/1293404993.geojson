@@ -1,0 +1,71 @@
+{
+  "id": 1293404993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.439,29.34667,-9.439,29.34667",
+    "geom:latitude":29.34667,
+    "geom:longitude":-9.439,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tagounsa",
+    "gn:country_code":"MA",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531619,
+    "gn:latitude":29.34667,
+    "gn:longitude":-9.439,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagounsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagounssa",
+        "Tagounsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531619
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1d7ce4aa499d2ca81a6bfa5840ee1275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293404993,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293404993,
+    "wof:lastmodified":1537663470,
+    "wof:name":"Tagounsa",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.439,
+    29.34667,
+    -9.439,
+    29.34667
+],
+  "geometry": {"coordinates":[-9.439,29.34667],"type":"Point"}
+}

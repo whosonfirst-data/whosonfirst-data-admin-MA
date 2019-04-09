@@ -1,0 +1,67 @@
+{
+  "id": 1259898411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.67429,30.77581,-7.67429,30.77581",
+    "geom:latitude":30.77581,
+    "geom:longitude":-7.67429,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Takchrirt",
+    "gn:country_code":"MA",
+    "gn:dem":2396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531291,
+    "gn:latitude":30.77581,
+    "gn:longitude":-7.67429,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Takchrirt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531291
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bf53328c6a3973c8b91caac671530f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1259898411,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259898411,
+    "wof:lastmodified":1536757743,
+    "wof:name":"Takchrirt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67429,
+    30.77581,
+    -7.67429,
+    30.77581
+],
+  "geometry": {"coordinates":[-7.67429,30.77581],"type":"Point"}
+}

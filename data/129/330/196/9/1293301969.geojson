@@ -1,0 +1,67 @@
+{
+  "id": 1293301969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.17078,35.32096,-5.17078,35.32096",
+    "geom:latitude":35.32096,
+    "geom:longitude":-5.17078,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Rammazene",
+    "gn:country_code":"MA",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10954264,
+    "gn:latitude":35.32096,
+    "gn:longitude":-5.17078,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Rammazene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10954264
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"96c88928c8028faf93c49e9eebf3b5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1293301969,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293301969,
+    "wof:lastmodified":1537052151,
+    "wof:name":"Douar Rammazene",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.17078,
+    35.32096,
+    -5.17078,
+    35.32096
+],
+  "geometry": {"coordinates":[-5.17078,35.32096],"type":"Point"}
+}

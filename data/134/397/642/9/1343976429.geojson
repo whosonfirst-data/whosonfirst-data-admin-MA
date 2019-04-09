@@ -1,0 +1,67 @@
+{
+  "id": 1343976429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.00152,30.21152,-7.00152,30.21152",
+    "geom:latitude":30.21152,
+    "geom:longitude":-7.00152,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Hait",
+    "gn:country_code":"MA",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596525,
+    "gn:latitude":30.21152,
+    "gn:longitude":-7.00152,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"El Ha\u00eft",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596525
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"64357fd6bfd76fdca47ed71743f264d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1343976429,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1343976429,
+    "wof:lastmodified":1536996176,
+    "wof:name":"El Hait",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.00152,
+    30.21152,
+    -7.00152,
+    30.21152
+],
+  "geometry": {"coordinates":[-7.00152,30.21152],"type":"Point"}
+}

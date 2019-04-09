@@ -1,0 +1,71 @@
+{
+  "id": 1309924207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05,29.71,-9.05,29.71",
+    "geom:latitude":29.71,
+    "geom:longitude":-9.05,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tioudid",
+    "gn:country_code":"MA",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527780,
+    "gn:latitude":29.71,
+    "gn:longitude":-9.05,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tioudid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taoudid",
+        "Tioudid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527780
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"330a411919bf12608840f798e3f95d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1309924207,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309924207,
+    "wof:lastmodified":1537663365,
+    "wof:name":"Tioudid",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05,
+    29.71,
+    -9.05,
+    29.71
+],
+  "geometry": {"coordinates":[-9.05,29.71],"type":"Point"}
+}

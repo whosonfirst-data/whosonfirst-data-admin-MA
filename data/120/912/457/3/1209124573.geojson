@@ -1,0 +1,61 @@
+{
+  "id": 1209124573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.26,34.85,-4.26,34.85",
+    "geom:latitude":34.85,
+    "geom:longitude":-4.26,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tizi Fri",
+    "gn:country_code":"MA",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527158,
+    "gn:latitude":34.85,
+    "gn:longitude":-4.26,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tizi Fri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527158
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"195fcc10b3cbac80bd99f3ef92096f6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209124573
+        }
+    ],
+    "wof:id":1209124573,
+    "wof:lastmodified":1536296994,
+    "wof:name":"Tizi Fri",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.26,
+    34.85,
+    -4.26,
+    34.85
+],
+  "geometry": {"coordinates":[-4.26,34.85],"type":"Point"}
+}

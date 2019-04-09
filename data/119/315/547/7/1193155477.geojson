@@ -1,0 +1,73 @@
+{
+  "id": 1193155477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.97891,32.41503,-7.97891,32.41503",
+    "geom:latitude":32.41503,
+    "geom:longitude":-7.97891,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lehlalat",
+    "gn:country_code":"MA",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547721,
+    "gn:latitude":32.41503,
+    "gn:longitude":-7.97891,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lehlalat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Halet",
+        "Hellelete",
+        "Hellelet",
+        "Douar Lehlalat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547721
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9e18ee4446014a97119a352ee395a3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1193155477,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1193155477,
+    "wof:lastmodified":1537663800,
+    "wof:name":"Douar Lehlalat",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.97891,
+    32.41503,
+    -7.97891,
+    32.41503
+],
+  "geometry": {"coordinates":[-7.97891,32.41503],"type":"Point"}
+}

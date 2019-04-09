@@ -1,0 +1,67 @@
+{
+  "id": 1327135597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.94246,33.89746,-4.94246,33.89746",
+    "geom:latitude":33.89746,
+    "geom:longitude":-4.94246,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Dehhou",
+    "gn:country_code":"MA",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8572891,
+    "gn:latitude":33.89746,
+    "gn:longitude":-4.94246,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Oulad Dehhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890454333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572891
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"68ebc382d4ee8f5e37bea81e96aebf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":1327135597,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1327135597,
+    "wof:lastmodified":1536608772,
+    "wof:name":"Douar Oulad Dehhou",
+    "wof:parent_id":890454333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.94246,
+    33.89746,
+    -4.94246,
+    33.89746
+],
+  "geometry": {"coordinates":[-4.94246,33.89746],"type":"Point"}
+}

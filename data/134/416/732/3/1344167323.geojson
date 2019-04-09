@@ -1,0 +1,72 @@
+{
+  "id": 1344167323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02783,30.58733,-8.02783,30.58733",
+    "geom:latitude":30.58733,
+    "geom:longitude":-8.02783,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Makhfamane",
+    "gn:country_code":"MA",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543025,
+    "gn:latitude":30.58733,
+    "gn:longitude":-8.02783,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Makhfamane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maknfamane",
+        "Marhfamane",
+        "Makhfamane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543025
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a3550df98646e620436f2b59bc973e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1344167323,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1344167323,
+    "wof:lastmodified":1537663665,
+    "wof:name":"Makhfamane",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02783,
+    30.58733,
+    -8.02783,
+    30.58733
+],
+  "geometry": {"coordinates":[-8.02783,30.58733],"type":"Point"}
+}

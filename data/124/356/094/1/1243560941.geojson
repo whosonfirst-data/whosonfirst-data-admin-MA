@@ -1,0 +1,67 @@
+{
+  "id": 1243560941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.63698,34.03185,-5.63698,34.03185",
+    "geom:latitude":34.03185,
+    "geom:longitude":-5.63698,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Baammi",
+    "gn:country_code":"MA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984135,
+    "gn:latitude":34.03185,
+    "gn:longitude":-5.63698,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Baammi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984135
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b2d02ba44cdb5d79c09e250e64c95e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":1243560941,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1243560941,
+    "wof:lastmodified":1536639485,
+    "wof:name":"Douar Baammi",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.63698,
+    34.03185,
+    -5.63698,
+    34.03185
+],
+  "geometry": {"coordinates":[-5.63698,34.03185],"type":"Point"}
+}

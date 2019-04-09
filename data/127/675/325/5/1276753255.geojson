@@ -1,0 +1,67 @@
+{
+  "id": 1276753255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88798,30.70489,-8.88798,30.70489",
+    "geom:latitude":30.70489,
+    "geom:longitude":-8.88798,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tafraoutane",
+    "gn:country_code":"MA",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948770,
+    "gn:latitude":30.70489,
+    "gn:longitude":-8.88798,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tafraoutane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948770
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"60545d56095689b11057e0b1a52ff35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1276753255,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276753255,
+    "wof:lastmodified":1536713551,
+    "wof:name":"Tafraoutane",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88798,
+    30.70489,
+    -8.88798,
+    30.70489
+],
+  "geometry": {"coordinates":[-8.88798,30.70489],"type":"Point"}
+}

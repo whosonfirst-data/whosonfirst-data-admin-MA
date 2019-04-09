@@ -1,0 +1,67 @@
+{
+  "id": 1360307171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.06209,33.3543,-7.06209,33.3543",
+    "geom:latitude":33.3543,
+    "geom:longitude":-7.06209,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Leaouija",
+    "gn:country_code":"MA",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939139,
+    "gn:latitude":33.3543,
+    "gn:longitude":-7.06209,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Leaouija",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939139
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2209e5f6d0949e0e73e9d7c59f7b14ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1360307171,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1360307171,
+    "wof:lastmodified":1536623300,
+    "wof:name":"Leaouija",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.06209,
+    33.3543,
+    -7.06209,
+    33.3543
+],
+  "geometry": {"coordinates":[-7.06209,33.3543],"type":"Point"}
+}

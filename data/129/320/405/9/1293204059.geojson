@@ -1,0 +1,67 @@
+{
+  "id": 1293204059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.37162,35.58795,-5.37162,35.58795",
+    "geom:latitude":35.58795,
+    "geom:longitude":-5.37162,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar Morsya",
+    "gn:country_code":"MA",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060526,
+    "gn:latitude":35.58795,
+    "gn:longitude":-5.37162,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Morsya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060526
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9c559023a6b41c97153d23991acf03f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1293204059,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293204059,
+    "wof:lastmodified":1536698904,
+    "wof:name":"Dar Morsya",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.37162,
+    35.58795,
+    -5.37162,
+    35.58795
+],
+  "geometry": {"coordinates":[-5.37162,35.58795],"type":"Point"}
+}

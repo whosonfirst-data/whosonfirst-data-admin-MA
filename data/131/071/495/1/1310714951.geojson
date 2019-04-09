@@ -1,0 +1,67 @@
+{
+  "id": 1310714951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.00922,35.31479,-5.00922,35.31479",
+    "geom:latitude":35.31479,
+    "geom:longitude":-5.00922,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Tiferouane",
+    "gn:country_code":"MA",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10954498,
+    "gn:latitude":35.31479,
+    "gn:longitude":-5.00922,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tiferouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10954498
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1e04b2c1e919790d601d6f22f1a99fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1310714951,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310714951,
+    "wof:lastmodified":1536612197,
+    "wof:name":"Douar Tiferouane",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.00922,
+    35.31479,
+    -5.00922,
+    35.31479
+],
+  "geometry": {"coordinates":[-5.00922,35.31479],"type":"Point"}
+}

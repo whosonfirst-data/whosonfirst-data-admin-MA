@@ -1,0 +1,67 @@
+{
+  "id": 1292915213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.12039,35.22654,-3.12039,35.22654",
+    "geom:latitude":35.22654,
+    "geom:longitude":-3.12039,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tamaazouzt",
+    "gn:country_code":"MA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961050,
+    "gn:latitude":35.22654,
+    "gn:longitude":-3.12039,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tamaazouzt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961050
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ab4392455b8970abebf42112fa3afde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1292915213,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1292915213,
+    "wof:lastmodified":1536615595,
+    "wof:name":"Tamaazouzt",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.12039,
+    35.22654,
+    -3.12039,
+    35.22654
+],
+  "geometry": {"coordinates":[-3.12039,35.22654],"type":"Point"}
+}

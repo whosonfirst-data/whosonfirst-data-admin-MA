@@ -1,0 +1,72 @@
+{
+  "id": 1327246395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07365,31.29194,-8.07365,31.29194",
+    "geom:latitude":31.29194,
+    "geom:longitude":-8.07365,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Ouizilene",
+    "gn:country_code":"MA",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551505,
+    "gn:latitude":31.29194,
+    "gn:longitude":-8.07365,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ouizilene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouizlene",
+        "Ouizil\u00e8n",
+        "Douar Ouizilene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551505
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"839a7330f2c900905ced429fd6627549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1327246395,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327246395,
+    "wof:lastmodified":1537663944,
+    "wof:name":"Douar Ouizilene",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07365,
+    31.29194,
+    -8.07365,
+    31.29194
+],
+  "geometry": {"coordinates":[-8.07365,31.29194],"type":"Point"}
+}

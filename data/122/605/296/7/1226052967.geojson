@@ -1,0 +1,70 @@
+{
+  "id": 1226052967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.89963,33.11634,-3.89963,33.11634",
+    "geom:latitude":33.11634,
+    "geom:longitude":-3.89963,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lhachiya Lhamra",
+    "gn:country_code":"MA",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550338,
+    "gn:latitude":33.11634,
+    "gn:longitude":-3.89963,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Lhachiya Lhamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Habat el Hamra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550338
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9e5208452adf3b169a46998dee793ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1226052967,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1226052967,
+    "wof:lastmodified":1537663877,
+    "wof:name":"Lhachiya Lhamra",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.89963,
+    33.11634,
+    -3.89963,
+    33.11634
+],
+  "geometry": {"coordinates":[-3.89963,33.11634],"type":"Point"}
+}

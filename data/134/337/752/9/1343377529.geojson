@@ -1,0 +1,70 @@
+{
+  "id": 1343377529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.85433,33.88091,-3.85433,33.88091",
+    "geom:latitude":33.88091,
+    "geom:longitude":-3.85433,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Beni Damal",
+    "gn:country_code":"MA",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555886,
+    "gn:latitude":33.88091,
+    "gn:longitude":-3.85433,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Beni Damal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Damal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555886
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b0ed4b24727851a6256db826d337f0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1343377529,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343377529,
+    "wof:lastmodified":1537664074,
+    "wof:name":"Douar Beni Damal",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.85433,
+    33.88091,
+    -3.85433,
+    33.88091
+],
+  "geometry": {"coordinates":[-3.85433,33.88091],"type":"Point"}
+}

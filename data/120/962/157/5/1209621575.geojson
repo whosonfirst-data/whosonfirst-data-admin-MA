@@ -1,0 +1,61 @@
+{
+  "id": 1209621575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05209,34.20584,-5.05209,34.20584",
+    "geom:latitude":34.20584,
+    "geom:longitude":-5.05209,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sebt Oulad Jamae",
+    "gn:country_code":"MA",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025417,
+    "gn:latitude":34.20584,
+    "gn:longitude":-5.05209,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sebt Oulad Jamae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025417
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2b96f8bdf6208952ca94f6acf5b009b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209621575
+        }
+    ],
+    "wof:id":1209621575,
+    "wof:lastmodified":1536281500,
+    "wof:name":"Sebt Oulad Jamae",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05209,
+    34.20584,
+    -5.05209,
+    34.20584
+],
+  "geometry": {"coordinates":[-5.05209,34.20584],"type":"Point"}
+}

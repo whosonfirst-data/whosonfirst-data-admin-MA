@@ -1,0 +1,67 @@
+{
+  "id": 1343285339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.378,34.68554,-6.378,34.68554",
+    "geom:latitude":34.68554,
+    "geom:longitude":-6.378,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Ghrabat",
+    "gn:country_code":"MA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969417,
+    "gn:latitude":34.68554,
+    "gn:longitude":-6.378,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ghrabat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969417
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"73c607c3c3a3a27573b6ca5875ea2884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1343285339,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1343285339,
+    "wof:lastmodified":1536998280,
+    "wof:name":"Douar Ghrabat",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.378,
+    34.68554,
+    -6.378,
+    34.68554
+],
+  "geometry": {"coordinates":[-6.378,34.68554],"type":"Point"}
+}

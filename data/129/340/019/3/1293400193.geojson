@@ -1,0 +1,71 @@
+{
+  "id": 1293400193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0,29.51,-10.0,29.51",
+    "geom:latitude":29.51,
+    "geom:longitude":-10.0,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Sobron",
+    "gn:country_code":"MA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547055,
+    "gn:latitude":29.51,
+    "gn:longitude":-10.0,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Sobron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Sabran",
+        "Id Sobron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547055
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ac8afe0ba9c18092255f2c54e6a8f5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293400193,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293400193,
+    "wof:lastmodified":1537663776,
+    "wof:name":"Id Sobron",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0,
+    29.51,
+    -10.0,
+    29.51
+],
+  "geometry": {"coordinates":[-10.0,29.51],"type":"Point"}
+}

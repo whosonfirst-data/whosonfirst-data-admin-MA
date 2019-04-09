@@ -1,0 +1,61 @@
+{
+  "id": 1209507195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18057,33.05316,-7.18057,33.05316",
+    "geom:latitude":33.05316,
+    "geom:longitude":-7.18057,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Emmaline Regba",
+    "gn:country_code":"MA",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10936625,
+    "gn:latitude":33.05316,
+    "gn:longitude":-7.18057,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Emmaline Regba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10936625
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"25eead30b51a881db9d21322ec99405e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209507195
+        }
+    ],
+    "wof:id":1209507195,
+    "wof:lastmodified":1536284997,
+    "wof:name":"Douar Emmaline Regba",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18057,
+    33.05316,
+    -7.18057,
+    33.05316
+],
+  "geometry": {"coordinates":[-7.18057,33.05316],"type":"Point"}
+}

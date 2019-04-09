@@ -1,0 +1,67 @@
+{
+  "id": 1343682167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58271,31.45996,-7.58271,31.45996",
+    "geom:latitude":31.45996,
+    "geom:longitude":-7.58271,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Boumar",
+    "gn:country_code":"MA",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353771,
+    "gn:latitude":31.45996,
+    "gn:longitude":-7.58271,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Boumar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353771
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8509c24bf57554d433022934aefc57bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1343682167,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343682167,
+    "wof:lastmodified":1536924483,
+    "wof:name":"Ait Boumar",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58271,
+    31.45996,
+    -7.58271,
+    31.45996
+],
+  "geometry": {"coordinates":[-7.58271,31.45996],"type":"Point"}
+}

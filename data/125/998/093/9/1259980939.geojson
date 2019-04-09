@@ -1,0 +1,67 @@
+{
+  "id": 1259980939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.00971,34.14765,-5.00971,34.14765",
+    "geom:latitude":34.14765,
+    "geom:longitude":-5.00971,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Oulad Ben Lahsen",
+    "gn:country_code":"MA",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025493,
+    "gn:latitude":34.14765,
+    "gn:longitude":-5.00971,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Ben Lahsen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025493
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"52925acec4e9d558ce317a90b33d32bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1259980939,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1259980939,
+    "wof:lastmodified":1536637709,
+    "wof:name":"Douar Oulad Ben Lahsen",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.00971,
+    34.14765,
+    -5.00971,
+    34.14765
+],
+  "geometry": {"coordinates":[-5.00971,34.14765],"type":"Point"}
+}

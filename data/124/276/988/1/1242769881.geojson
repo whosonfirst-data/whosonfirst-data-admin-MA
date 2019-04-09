@@ -1,0 +1,78 @@
+{
+  "id": 1242769881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9336,33.1148,-7.9336,33.1148",
+    "geom:latitude":33.1148,
+    "geom:longitude":-7.9336,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jem'at Oulad 'Abbou",
+    "gn:country_code":"MA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532420,
+    "gn:latitude":33.1148,
+    "gn:longitude":-7.9336,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Jem\u2019at Oulad \u2019Abbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foucauld",
+        "Souk-Jemad-Oulad-Abbou",
+        "Foucald",
+        "S\u016bq Jum\u2018ah Awl\u0101d \u2018Abb\u016b",
+        "Foucault",
+        "Souk-Jema\u00e2-Oulad-Abbou",
+        "Souk Jemaa des Oulad Arbou",
+        "Souk Jemaa des Oulad Abbou",
+        "Jem\u2019at Oulad \u2019Abbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532420
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"14373be45856bce389259f702611ca2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784793,
+            "locality_id":1242769881,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1242769881,
+    "wof:lastmodified":1537663497,
+    "wof:name":"Jem'at Oulad 'Abbou",
+    "wof:parent_id":1108784793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9336,
+    33.1148,
+    -7.9336,
+    33.1148
+],
+  "geometry": {"coordinates":[-7.9336,33.1148],"type":"Point"}
+}

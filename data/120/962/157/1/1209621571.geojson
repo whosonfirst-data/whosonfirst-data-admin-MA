@@ -1,0 +1,61 @@
+{
+  "id": 1209621571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.81286,33.82502,-4.81286,33.82502",
+    "geom:latitude":33.82502,
+    "geom:longitude":-4.81286,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Boudarhem",
+    "gn:country_code":"MA",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921625,
+    "gn:latitude":33.82502,
+    "gn:longitude":-4.81286,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Boudarhem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921625
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a7d91aa7740007a32a072aab70d104aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209621571
+        }
+    ],
+    "wof:id":1209621571,
+    "wof:lastmodified":1536281500,
+    "wof:name":"Boudarhem",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.81286,
+    33.82502,
+    -4.81286,
+    33.82502
+],
+  "geometry": {"coordinates":[-4.81286,33.82502],"type":"Point"}
+}

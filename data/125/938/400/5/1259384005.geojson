@@ -1,0 +1,67 @@
+{
+  "id": 1259384005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06569,34.12483,-5.06569,34.12483",
+    "geom:latitude":34.12483,
+    "geom:longitude":-5.06569,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Laazaybiya",
+    "gn:country_code":"MA",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025518,
+    "gn:latitude":34.12483,
+    "gn:longitude":-5.06569,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laazaybiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025518
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b22c7c15605caa8c55e6bed4025c27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1259384005,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1259384005,
+    "wof:lastmodified":1537000765,
+    "wof:name":"Douar Laazaybiya",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06569,
+    34.12483,
+    -5.06569,
+    34.12483
+],
+  "geometry": {"coordinates":[-5.06569,34.12483],"type":"Point"}
+}

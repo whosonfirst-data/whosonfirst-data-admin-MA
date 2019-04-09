@@ -1,0 +1,67 @@
+{
+  "id": 1243566255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.67082,35.08488,-2.67082,35.08488",
+    "geom:latitude":35.08488,
+    "geom:longitude":-2.67082,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Yat Hammou",
+    "gn:country_code":"MA",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100419,
+    "gn:latitude":35.08488,
+    "gn:longitude":-2.67082,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Yat Hammou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100419
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"053e45dce4236827097a6de5df5e8143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1243566255,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243566255,
+    "wof:lastmodified":1536631292,
+    "wof:name":"Douar Yat Hammou",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.67082,
+    35.08488,
+    -2.67082,
+    35.08488
+],
+  "geometry": {"coordinates":[-2.67082,35.08488],"type":"Point"}
+}

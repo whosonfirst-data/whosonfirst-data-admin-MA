@@ -1,0 +1,67 @@
+{
+  "id": 1326541847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.23954,34.91897,-2.23954,34.91897",
+    "geom:latitude":34.91897,
+    "geom:longitude":-2.23954,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Bou Amoud",
+    "gn:country_code":"MA",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11067727,
+    "gn:latitude":34.91897,
+    "gn:longitude":-2.23954,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bou Amoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11067727
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"43ec33f66c3c7a4889bd9560682b7e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":1326541847,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1326541847,
+    "wof:lastmodified":1536969804,
+    "wof:name":"Douar Bou Amoud",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.23954,
+    34.91897,
+    -2.23954,
+    34.91897
+],
+  "geometry": {"coordinates":[-2.23954,34.91897],"type":"Point"}
+}

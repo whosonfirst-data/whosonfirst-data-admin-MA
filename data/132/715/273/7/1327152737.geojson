@@ -1,0 +1,71 @@
+{
+  "id": 1327152737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42063,30.35286,-7.42063,30.35286",
+    "geom:latitude":30.35286,
+    "geom:longitude":-7.42063,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Itersane",
+    "gn:country_code":"MA",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560010,
+    "gn:latitude":30.35286,
+    "gn:longitude":-7.42063,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Itersane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Ersane",
+        "Itersane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560010
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"73f9a968e3c27ad089bc4c7c99281895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1327152737,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327152737,
+    "wof:lastmodified":1537664188,
+    "wof:name":"Itersane",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42063,
+    30.35286,
+    -7.42063,
+    30.35286
+],
+  "geometry": {"coordinates":[-7.42063,30.35286],"type":"Point"}
+}

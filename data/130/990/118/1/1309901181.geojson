@@ -1,0 +1,75 @@
+{
+  "id": 1309901181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.70086,29.58016,-9.70086,29.58016",
+    "geom:latitude":29.58016,
+    "geom:longitude":-9.70086,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"581.0",
+    "gn:admin3_code":"458111112.0",
+    "gn:asciiname":"Reggada",
+    "gn:country_code":"MA",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2538332,
+    "gn:latitude":29.58016,
+    "gn:longitude":-9.70086,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Reggada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souk-el-Had de Reggada",
+        "Er Reggada",
+        "Reggada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538332,
+        "wk:page":"Reggada"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b5de81e9fb0792c53219dcbeefab77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1309901181,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309901181,
+    "wof:lastmodified":1537663536,
+    "wof:name":"Reggada",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.70086,
+    29.58016,
+    -9.70086,
+    29.58016
+],
+  "geometry": {"coordinates":[-9.70086,29.58016],"type":"Point"}
+}

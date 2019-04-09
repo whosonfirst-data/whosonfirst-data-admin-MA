@@ -1,0 +1,67 @@
+{
+  "id": 1226652943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.72266,34.31281,-4.72266,34.31281",
+    "geom:latitude":34.31281,
+    "geom:longitude":-4.72266,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Oulad Ali Ben Said",
+    "gn:country_code":"MA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11042840,
+    "gn:latitude":34.31281,
+    "gn:longitude":-4.72266,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Ali Ben Said",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11042840
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9f551eab5fc55240cbc96f512b6ee863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1226652943,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1226652943,
+    "wof:lastmodified":1536847905,
+    "wof:name":"Douar Oulad Ali Ben Said",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.72266,
+    34.31281,
+    -4.72266,
+    34.31281
+],
+  "geometry": {"coordinates":[-4.72266,34.31281],"type":"Point"}
+}

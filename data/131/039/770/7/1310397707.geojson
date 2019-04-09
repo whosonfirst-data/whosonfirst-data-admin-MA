@@ -1,0 +1,67 @@
+{
+  "id": 1310397707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.10166,32.70866,-7.10166,32.70866",
+    "geom:latitude":32.70866,
+    "geom:longitude":-7.10166,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sania",
+    "gn:country_code":"MA",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11434468,
+    "gn:latitude":32.70866,
+    "gn:longitude":-7.10166,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Sania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11434468
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"11754104c11e13224538d28bda8ca0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1310397707,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1310397707,
+    "wof:lastmodified":1537069493,
+    "wof:name":"Sania",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.10166,
+    32.70865999999999,
+    -7.10166,
+    32.70865999999999
+],
+  "geometry": {"coordinates":[-7.10166,32.70865999999999],"type":"Point"}
+}

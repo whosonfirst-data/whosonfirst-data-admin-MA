@@ -1,0 +1,67 @@
+{
+  "id": 1260298415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.08069,35.25552,-6.08069,35.25552",
+    "geom:latitude":35.25552,
+    "geom:longitude":-6.08069,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Dacyane",
+    "gn:country_code":"MA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969927,
+    "gn:latitude":35.25552,
+    "gn:longitude":-6.08069,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Dacyane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969927
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"85ab2f4a3a099384fd5076f9f5189070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1260298415,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1260298415,
+    "wof:lastmodified":1536692004,
+    "wof:name":"Douar Dacyane",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.08069,
+    35.25552000000001,
+    -6.08069,
+    35.25552000000001
+],
+  "geometry": {"coordinates":[-6.08069,35.25552000000001],"type":"Point"}
+}

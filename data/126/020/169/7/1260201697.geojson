@@ -1,0 +1,73 @@
+{
+  "id": 1260201697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.94415,31.18112,-4.94415,31.18112",
+    "geom:latitude":31.18112,
+    "geom:longitude":-4.94415,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Wihlane",
+    "gn:country_code":"MA",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540557,
+    "gn:latitude":31.18112,
+    "gn:longitude":-4.94415,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Wihlane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouihalane",
+        "Ouihalene",
+        "Ouihlane",
+        "Wihlane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540557
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f25168a0a1b18c1970982ee3c8af357c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1260201697,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260201697,
+    "wof:lastmodified":1537663624,
+    "wof:name":"Wihlane",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.94415,
+    31.18112,
+    -4.94415,
+    31.18112
+],
+  "geometry": {"coordinates":[-4.94415,31.18112],"type":"Point"}
+}

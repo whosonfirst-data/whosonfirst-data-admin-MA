@@ -1,0 +1,75 @@
+{
+  "id": 1293375875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.07943,31.22218,-9.07943,31.22218",
+    "geom:latitude":31.22218,
+    "geom:longitude":-9.07943,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"161.0",
+    "gn:admin3_code":"716109132.0",
+    "gn:asciiname":"Taouloukoult",
+    "gn:country_code":"MA",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2530160,
+    "gn:latitude":31.22218,
+    "gn:longitude":-9.07943,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Taouloukoult",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia Taouloukoult",
+        "Taoulokoult",
+        "Taouloukoult"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530160,
+        "wk:page":"Taouloukoult"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a6b4b48d512769cd86802e3d555f40c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1293375875,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293375875,
+    "wof:lastmodified":1537663429,
+    "wof:name":"Taouloukoult",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.07943,
+    31.22218,
+    -9.07943,
+    31.22218
+],
+  "geometry": {"coordinates":[-9.07943,31.22218],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209322621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13548,34.84353,-2.13548,34.84353",
+    "geom:latitude":34.84353,
+    "geom:longitude":-2.13548,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"El Allaouiyine",
+    "gn:country_code":"MA",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11067477,
+    "gn:latitude":34.84353,
+    "gn:longitude":-2.13548,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"El Allaouiyine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11067477
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c103b7a4ba9e49d7e508c7b2a871845b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209322621
+        }
+    ],
+    "wof:id":1209322621,
+    "wof:lastmodified":1536290639,
+    "wof:name":"El Allaouiyine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13548,
+    34.84353,
+    -2.13548,
+    34.84353
+],
+  "geometry": {"coordinates":[-2.13548,34.84353],"type":"Point"}
+}

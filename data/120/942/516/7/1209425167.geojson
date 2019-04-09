@@ -1,0 +1,66 @@
+{
+  "id": 1209425167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17214,32.69019,-8.17214,32.69019",
+    "geom:latitude":32.69019,
+    "geom:longitude":-8.17214,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar El Qadi",
+    "gn:country_code":"MA",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551839,
+    "gn:latitude":32.69019,
+    "gn:longitude":-8.17214,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar El Qadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar el Qadi",
+        "Douar el Cadi",
+        "Douar El Qadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551839
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6622b4f8dff731142a0fae61618c4a24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425167
+        }
+    ],
+    "wof:id":1209425167,
+    "wof:lastmodified":1537663969,
+    "wof:name":"Douar El Qadi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17214,
+    32.69019,
+    -8.17214,
+    32.69019
+],
+  "geometry": {"coordinates":[-8.17214,32.69019],"type":"Point"}
+}

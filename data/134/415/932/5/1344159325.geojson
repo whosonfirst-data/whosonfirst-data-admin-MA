@@ -1,0 +1,67 @@
+{
+  "id": 1344159325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.70497,35.0426,-3.70497,35.0426",
+    "geom:latitude":35.0426,
+    "geom:longitude":-3.70497,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Boudilb",
+    "gn:country_code":"MA",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092312,
+    "gn:latitude":35.0426,
+    "gn:longitude":-3.70497,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Boudilb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092312
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"075a3f2d725c478c17d978e28cd83588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1344159325,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1344159325,
+    "wof:lastmodified":1536733165,
+    "wof:name":"Douar Boudilb",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.70497,
+    35.0426,
+    -3.70497,
+    35.0426
+],
+  "geometry": {"coordinates":[-3.70497,35.0426],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276534249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.97338,31.41234,-7.97338,31.41234",
+    "geom:latitude":31.41234,
+    "geom:longitude":-7.97338,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Moulay Tahar",
+    "gn:country_code":"MA",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353195,
+    "gn:latitude":31.41234,
+    "gn:longitude":-7.97338,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Moulay Tahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353195
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f359c5ed9fb595e9395f26069cfac6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1276534249,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276534249,
+    "wof:lastmodified":1537006048,
+    "wof:name":"Moulay Tahar",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.97338,
+    31.41234,
+    -7.97338,
+    31.41234
+],
+  "geometry": {"coordinates":[-7.97338,31.41234],"type":"Point"}
+}

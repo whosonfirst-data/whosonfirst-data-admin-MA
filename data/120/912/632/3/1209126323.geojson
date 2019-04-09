@@ -1,0 +1,61 @@
+{
+  "id": 1209126323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.52836,32.18581,-7.52836,32.18581",
+    "geom:latitude":32.18581,
+    "geom:longitude":-7.52836,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad Mbarek Ben Ettaher",
+    "gn:country_code":"MA",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10928479,
+    "gn:latitude":32.18581,
+    "gn:longitude":-7.52836,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad Mbarek Ben Ettaher",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10928479
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4039872f84b1ce3c2759247793a1574b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209126323
+        }
+    ],
+    "wof:id":1209126323,
+    "wof:lastmodified":1536296946,
+    "wof:name":"Douar Oulad Mbarek Ben Ettaher",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52836,
+    32.18581,
+    -7.52836,
+    32.18581
+],
+  "geometry": {"coordinates":[-7.52836,32.18581],"type":"Point"}
+}

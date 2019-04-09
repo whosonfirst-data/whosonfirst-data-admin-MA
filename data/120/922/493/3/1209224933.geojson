@@ -1,0 +1,61 @@
+{
+  "id": 1209224933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.02164,31.01032,-9.02164,31.01032",
+    "geom:latitude":31.01032,
+    "geom:longitude":-9.02164,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi bou Brahim",
+    "gn:country_code":"MA",
+    "gn:dem":1278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2535910,
+    "gn:latitude":31.01032,
+    "gn:longitude":-9.02164,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi bou Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2535910
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8a3668b8490a0a3b9d7b8b52fc46fe39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224933
+        }
+    ],
+    "wof:id":1209224933,
+    "wof:lastmodified":1536293830,
+    "wof:name":"Sidi bou Brahim",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.02164,
+    31.01032,
+    -9.02164,
+    31.01032
+],
+  "geometry": {"coordinates":[-9.02164,31.01032],"type":"Point"}
+}

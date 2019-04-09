@@ -1,0 +1,67 @@
+{
+  "id": 1360199519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.73,34.88,-4.73,34.88",
+    "geom:latitude":34.88,
+    "geom:longitude":-4.73,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Er Rif",
+    "gn:country_code":"MA",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549314,
+    "gn:latitude":34.88,
+    "gn:longitude":-4.73,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Er Rif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549314
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0262f345f7b44ee78dee2e61712f13bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1360199519,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1360199519,
+    "wof:lastmodified":1536781018,
+    "wof:name":"Er Rif",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.73,
+    34.88,
+    -4.73,
+    34.88
+],
+  "geometry": {"coordinates":[-4.73,34.88],"type":"Point"}
+}

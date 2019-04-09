@@ -1,0 +1,72 @@
+{
+  "id": 1277000049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.97694,31.13448,-7.97694,31.13448",
+    "geom:latitude":31.13448,
+    "geom:longitude":-7.97694,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Aissa",
+    "gn:country_code":"MA",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547426,
+    "gn:latitude":31.13448,
+    "gn:longitude":-7.97694,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft A\u00efssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft A\u00efssa",
+        "Id Issa",
+        "Id A\u00efssa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547426
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"62e6c9616cd14c603b1df7be97ca44cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1277000049,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1277000049,
+    "wof:lastmodified":1537663791,
+    "wof:name":"Ait Aissa",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.97694,
+    31.13448,
+    -7.97694,
+    31.13448
+],
+  "geometry": {"coordinates":[-7.97694,31.13448],"type":"Point"}
+}

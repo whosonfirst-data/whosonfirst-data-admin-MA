@@ -1,0 +1,61 @@
+{
+  "id": 1209419939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.24242,34.98078,-6.24242,34.98078",
+    "geom:latitude":34.98078,
+    "geom:longitude":-6.24242,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dar Abdeslam Naqach",
+    "gn:country_code":"MA",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10941435,
+    "gn:latitude":34.98078,
+    "gn:longitude":-6.24242,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Abdeslam Naqach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10941435
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3ed3a9a3cf6b6f00e376fedde4149c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209419939
+        }
+    ],
+    "wof:id":1209419939,
+    "wof:lastmodified":1536287565,
+    "wof:name":"Dar Abdeslam Naqach",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.24242,
+    34.98078,
+    -6.24242,
+    34.98078
+],
+  "geometry": {"coordinates":[-6.24242,34.98078],"type":"Point"}
+}

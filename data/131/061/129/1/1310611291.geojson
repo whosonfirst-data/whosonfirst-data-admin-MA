@@ -1,0 +1,67 @@
+{
+  "id": 1310611291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.29486,35.42704,-5.29486,35.42704",
+    "geom:latitude":35.42704,
+    "geom:longitude":-5.29486,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tagramt",
+    "gn:country_code":"MA",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531576,
+    "gn:latitude":35.42704,
+    "gn:longitude":-5.29486,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagramt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531576
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"97d1f9734abce92a849cc9323d8bfc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1310611291,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1310611291,
+    "wof:lastmodified":1536764602,
+    "wof:name":"Tagramt",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.29486,
+    35.42704000000001,
+    -5.29486,
+    35.42704000000001
+],
+  "geometry": {"coordinates":[-5.29486,35.42704000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277071511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14622,32.77154,-8.14622,32.77154",
+    "geom:latitude":32.77154,
+    "geom:longitude":-8.14622,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oulad Mohammed ben Moussa",
+    "gn:country_code":"MA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553065,
+    "gn:latitude":32.77154,
+    "gn:longitude":-8.14622,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Oulad Mohammed ben Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abbou",
+        "Douar Oulad Mohammed Ben Moussa",
+        "Ouled Beni Moussa",
+        "Dar Abbou",
+        "Oulad Mohammed ben Moussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553065
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a8dc1a95b0152e8af07e6866aa75e04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1277071511,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1277071511,
+    "wof:lastmodified":1537664024,
+    "wof:name":"Oulad Mohammed ben Moussa",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14622,
+    32.77154,
+    -8.14622,
+    32.77154
+],
+  "geometry": {"coordinates":[-8.14622,32.77154],"type":"Point"}
+}

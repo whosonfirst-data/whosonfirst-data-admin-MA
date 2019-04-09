@@ -1,0 +1,72 @@
+{
+  "id": 1293303061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.18769,34.94153,-6.18769,34.94153",
+    "geom:latitude":34.94153,
+    "geom:longitude":-6.18769,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chouafea Oulad Mssahel",
+    "gn:country_code":"MA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539434,
+    "gn:latitude":34.94153,
+    "gn:longitude":-6.18769,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Chouafea Oulad Mssahel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Msahel",
+        "Oulad Msahel",
+        "Chouafea Oulad Mssahel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539434
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ec726b7c601d14010aba04b33d3583ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1293303061,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1293303061,
+    "wof:lastmodified":1537663570,
+    "wof:name":"Chouafea Oulad Mssahel",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.18769,
+    34.94153,
+    -6.18769,
+    34.94153
+],
+  "geometry": {"coordinates":[-6.18769,34.94153],"type":"Point"}
+}

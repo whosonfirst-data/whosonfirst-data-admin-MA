@@ -1,0 +1,73 @@
+{
+  "id": 1226241277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50762,31.84797,-6.50762,31.84797",
+    "geom:latitude":31.84797,
+    "geom:longitude":-6.50762,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Barnat",
+    "gn:country_code":"MA",
+    "gn:dem":1623,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555458,
+    "gn:latitude":31.84797,
+    "gn:longitude":-6.50762,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Barnat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bernate",
+        "Bernat",
+        "Barnat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555458
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"084bbead3afc76de865c977d94e41ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226241277,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226241277,
+    "wof:lastmodified":1537664064,
+    "wof:name":"Barnat",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50762,
+    31.84797,
+    -6.50762,
+    31.84797
+],
+  "geometry": {"coordinates":[-6.50762,31.84797],"type":"Point"}
+}

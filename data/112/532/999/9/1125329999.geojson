@@ -1,0 +1,88 @@
+{
+  "id": 1125329999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.10829,33.39327,-7.10829,33.39327",
+    "geom:latitude":33.39327,
+    "geom:longitude":-7.10829,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":14257,
+    "gn:population":15081,
+    "iso:country":"MA",
+    "lbl:latitude":33.39327,
+    "lbl:longitude":-7.10829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u062d\u0644\u0627\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Mellila"
+    ],
+    "name:fra_x_variant":[
+        "Mellila (CR)",
+        "Mellila (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545637,
+    "qs_pg:gn_pop":14257,
+    "qs_pg:name":"Mellila",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628779,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545637,
+        "qs_pg:id":628779
+    },
+    "wof:country":"MA",
+    "wof:created":1497045080,
+    "wof:geomhash":"313bf40346971b1312ceb016167f8cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "localadmin_id":1125329999,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1125329999,
+    "wof:lastmodified":1509388349,
+    "wof:name":"Mellila",
+    "wof:parent_id":890436421,
+    "wof:placetype":"localadmin",
+    "wof:population":15081,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.10829,
+    33.39327,
+    -7.10829,
+    33.39327
+],
+  "geometry": {"coordinates":[-7.10829,33.39327],"type":"Point"}
+}

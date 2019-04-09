@@ -1,0 +1,65 @@
+{
+  "id": 1209534141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.62215,35.82757,-5.62215,35.82757",
+    "geom:latitude":35.82757,
+    "geom:longitude":-5.62215,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Fardioua",
+    "gn:country_code":"MA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549024,
+    "gn:latitude":35.82757,
+    "gn:longitude":-5.62215,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Fardioua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ferdigoua",
+        "Fardioua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549024
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bd88ba572b4dcb2dec1576f2e5e2f722",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209534141
+        }
+    ],
+    "wof:id":1209534141,
+    "wof:lastmodified":1537663820,
+    "wof:name":"Fardioua",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.62215,
+    35.82757,
+    -5.62215,
+    35.82757
+],
+  "geometry": {"coordinates":[-5.62215,35.82757],"type":"Point"}
+}

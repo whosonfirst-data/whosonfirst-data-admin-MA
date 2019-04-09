@@ -1,0 +1,67 @@
+{
+  "id": 1293409997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28118,32.359,-8.28118,32.359",
+    "geom:latitude":32.359,
+    "geom:longitude":-8.28118,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ahl Lahsen",
+    "gn:country_code":"MA",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10868159,
+    "gn:latitude":32.359,
+    "gn:longitude":-8.28118,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ahl Lahsen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10868159
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b9b59f9be32e70eaf9aaa6c29bf8b6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1293409997,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293409997,
+    "wof:lastmodified":1536898768,
+    "wof:name":"Douar Ahl Lahsen",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28118,
+    32.359,
+    -8.28118,
+    32.359
+],
+  "geometry": {"coordinates":[-8.28118,32.359],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226550127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.08902,31.11373,-9.08902,31.11373",
+    "geom:latitude":31.11373,
+    "geom:longitude":-9.08902,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Talektaout",
+    "gn:country_code":"MA",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531057,
+    "gn:latitude":31.11373,
+    "gn:longitude":-9.08902,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Talektaout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talktaoute",
+        "Talekbaoun",
+        "Talektaout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531057
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"26ccb53e7896eb4c223959a4c7fb27e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1226550127,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226550127,
+    "wof:lastmodified":1537663455,
+    "wof:name":"Talektaout",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.08902,
+    31.11373,
+    -9.08902,
+    31.11373
+],
+  "geometry": {"coordinates":[-9.08902,31.11373],"type":"Point"}
+}

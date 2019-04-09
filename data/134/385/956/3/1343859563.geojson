@@ -1,0 +1,67 @@
+{
+  "id": 1343859563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.97599,33.61841,-4.97599,33.61841",
+    "geom:latitude":33.61841,
+    "geom:longitude":-4.97599,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ait Youssef",
+    "gn:country_code":"MA",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10976918,
+    "gn:latitude":33.61841,
+    "gn:longitude":-4.97599,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Youssef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        890429095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10976918
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9eb7a968d0db166dd31514865be88d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429095,
+            "locality_id":1343859563,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1343859563,
+    "wof:lastmodified":1536667924,
+    "wof:name":"Douar Ait Youssef",
+    "wof:parent_id":890429095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.97599,
+    33.61841,
+    -4.97599,
+    33.61841
+],
+  "geometry": {"coordinates":[-4.97599,33.61841],"type":"Point"}
+}

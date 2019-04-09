@@ -1,0 +1,67 @@
+{
+  "id": 1310126143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66694,31.62608,-9.66694,31.62608",
+    "geom:latitude":31.62608,
+    "geom:longitude":-9.66694,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lfayda",
+    "gn:country_code":"MA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946811,
+    "gn:latitude":31.62608,
+    "gn:longitude":-9.66694,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lfayda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946811
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a02b6ba913c167d44651862e3dd042d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1310126143,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310126143,
+    "wof:lastmodified":1536966523,
+    "wof:name":"Douar Lfayda",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66694,
+    31.62608,
+    -9.66694,
+    31.62608
+],
+  "geometry": {"coordinates":[-9.66694,31.62608],"type":"Point"}
+}

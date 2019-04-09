@@ -1,0 +1,75 @@
+{
+  "id": 890423779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.8579,34.68924,-1.8579,34.68924",
+    "geom:latitude":34.68924,
+    "geom:longitude":-1.8579,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":16494,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0639\u0644\u064a \u0628\u0644\u0642\u0627\u0633\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Ahl Angad"
+    ],
+    "name:fra_x_variant":[
+        "Ahl Angad (CR)",
+        "Ahl Angad (Commune Rurale)"
+    ],
+    "qs:name":"Ahl Angad",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890453895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545640,
+        "qs:id":628782
+    },
+    "wof:country":"MA",
+    "wof:created":1469051514,
+    "wof:geomhash":"1e3b8970941a591f1741c4673e5c557e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453895,
+            "localadmin_id":890423779,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":890423779,
+    "wof:lastmodified":1505343477,
+    "wof:name":"Ahl Angad",
+    "wof:parent_id":890453895,
+    "wof:placetype":"localadmin",
+    "wof:population":16494,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.8579,
+    34.68924,
+    -1.8579,
+    34.68924
+],
+  "geometry": {"coordinates":[-1.8579,34.68924],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343568093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.09012,34.36157,-5.09012,34.36157",
+    "geom:latitude":34.36157,
+    "geom:longitude":-5.09012,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Houara",
+    "gn:country_code":"MA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985420,
+    "gn:latitude":34.36157,
+    "gn:longitude":-5.09012,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Houara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985420
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cfac3c5bda508811e3069b15945e3094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1343568093,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1343568093,
+    "wof:lastmodified":1537085218,
+    "wof:name":"Douar Houara",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.09012,
+    34.36157,
+    -5.09012,
+    34.36157
+],
+  "geometry": {"coordinates":[-5.09012,34.36157],"type":"Point"}
+}

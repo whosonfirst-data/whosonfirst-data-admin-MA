@@ -1,0 +1,67 @@
+{
+  "id": 1343756571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.10609,33.38634,-7.10609,33.38634",
+    "geom:latitude":33.38634,
+    "geom:longitude":-7.10609,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Hriz",
+    "gn:country_code":"MA",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939611,
+    "gn:latitude":33.38634,
+    "gn:longitude":-7.10609,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Hriz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939611
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"afeb29979d74f115f8a6b561517100dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1343756571,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1343756571,
+    "wof:lastmodified":1536815813,
+    "wof:name":"Douar Hriz",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.10609,
+    33.38634,
+    -7.10609,
+    33.38634
+],
+  "geometry": {"coordinates":[-7.10609,33.38634],"type":"Point"}
+}

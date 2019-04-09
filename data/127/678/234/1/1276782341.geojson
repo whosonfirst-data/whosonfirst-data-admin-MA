@@ -1,0 +1,73 @@
+{
+  "id": 1276782341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.8676,30.30471,-7.8676,30.30471",
+    "geom:latitude":30.30471,
+    "geom:longitude":-7.8676,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Iharrissane",
+    "gn:country_code":"MA",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546419,
+    "gn:latitude":30.30471,
+    "gn:longitude":-7.8676,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Iharrissane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ihaussine",
+        "Ilarhiss\u00e8n",
+        "Ilarhissene",
+        "Iharrissane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546419
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8e9313ddf1aeffbc3f54d1b98eef4ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1276782341,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276782341,
+    "wof:lastmodified":1537663755,
+    "wof:name":"Iharrissane",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8676,
+    30.30471,
+    -7.8676,
+    30.30471
+],
+  "geometry": {"coordinates":[-7.8676,30.30471],"type":"Point"}
+}

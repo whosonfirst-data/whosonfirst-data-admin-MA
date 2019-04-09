@@ -1,0 +1,61 @@
+{
+  "id": 1209421929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.53591,33.62795,-5.53591,33.62795",
+    "geom:latitude":33.62795,
+    "geom:longitude":-5.53591,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cooperative Sidi Mhamed Ben Amer",
+    "gn:country_code":"MA",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8542564,
+    "gn:latitude":33.62795,
+    "gn:longitude":-5.53591,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Coop\u00e9rative Sidi Mhamed Ben Amer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8542564
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"08851ef0155d78ae93d92dccc6f5d20a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209421929
+        }
+    ],
+    "wof:id":1209421929,
+    "wof:lastmodified":1536287502,
+    "wof:name":"Cooperative Sidi Mhamed Ben Amer",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5359099999999986,
+    33.62795,
+    -5.5359099999999986,
+    33.62795
+],
+  "geometry": {"coordinates":[-5.53591,33.62795],"type":"Point"}
+}

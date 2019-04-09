@@ -1,0 +1,67 @@
+{
+  "id": 1360078485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73758,31.6686,-7.73758,31.6686",
+    "geom:latitude":31.6686,
+    "geom:longitude":-7.73758,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Bel Qziz",
+    "gn:country_code":"MA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909820,
+    "gn:latitude":31.6686,
+    "gn:longitude":-7.73758,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bel Qziz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909820
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e9b4ee5c234e3d01aadc23552ff888da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1360078485,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360078485,
+    "wof:lastmodified":1536955316,
+    "wof:name":"Douar Bel Qziz",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73758,
+    31.6686,
+    -7.73758,
+    31.6686
+],
+  "geometry": {"coordinates":[-7.73758,31.6686],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242892373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.396,30.04497,-9.396,30.04497",
+    "geom:latitude":30.04497,
+    "geom:longitude":-9.396,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bakhir",
+    "gn:country_code":"MA",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556314,
+    "gn:latitude":30.04497,
+    "gn:longitude":-9.396,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bakhir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556314
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4272192c40725f6e4a9195f6a50c0314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1242892373,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242892373,
+    "wof:lastmodified":1536607452,
+    "wof:name":"Bakhir",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.396,
+    30.04497000000001,
+    -9.396,
+    30.04497000000001
+],
+  "geometry": {"coordinates":[-9.396,30.04497000000001],"type":"Point"}
+}

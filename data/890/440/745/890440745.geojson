@@ -1,0 +1,75 @@
+{
+  "id": 890440745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7092,32.17091,-4.7092,32.17091",
+    "geom:latitude":32.17091,
+    "geom:longitude":-4.7092,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":6443,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "M Zizel"
+    ],
+    "name:fra_x_variant":[
+        "M Zizel (CR)",
+        "M Zizel (Commune Rurale)"
+    ],
+    "qs:name":"M Zizel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546847,
+        "qs:id":629951
+    },
+    "wof:country":"MA",
+    "wof:created":1469052295,
+    "wof:geomhash":"08017b589a4cd3d2205eb2c635eafe21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "localadmin_id":890440745,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890440745,
+    "wof:lastmodified":1505343578,
+    "wof:name":"M Zizel",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"localadmin",
+    "wof:population":6443,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7092,
+    32.17091,
+    -4.7092,
+    32.17091
+],
+  "geometry": {"coordinates":[-4.7092,32.17091],"type":"Point"}
+}

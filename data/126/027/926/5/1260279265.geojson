@@ -1,0 +1,67 @@
+{
+  "id": 1260279265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.72546,31.49283,-8.72546,31.49283",
+    "geom:latitude":31.49283,
+    "geom:longitude":-8.72546,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Azib Sidi Abd el Jelil",
+    "gn:country_code":"MA",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950196,
+    "gn:latitude":31.49283,
+    "gn:longitude":-8.72546,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Azib Sidi Abd el Jelil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950196
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3e1a44c262722e988dbc5220ec3ab7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1260279265,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1260279265,
+    "wof:lastmodified":1536717970,
+    "wof:name":"Azib Sidi Abd el Jelil",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.72546,
+    31.49283,
+    -8.72546,
+    31.49283
+],
+  "geometry": {"coordinates":[-8.72546,31.49283],"type":"Point"}
+}

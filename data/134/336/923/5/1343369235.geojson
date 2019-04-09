@@ -1,0 +1,71 @@
+{
+  "id": 1343369235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0629,33.94232,-5.0629,33.94232",
+    "geom:latitude":33.94232,
+    "geom:longitude":-5.0629,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar er Rouazi",
+    "gn:country_code":"MA",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551722,
+    "gn:latitude":33.94232,
+    "gn:longitude":-5.0629,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar er Rouazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Rouazi",
+        "Douar er Rouazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551722
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1ba02c009ece4c15268e783ab4c39fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1343369235,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1343369235,
+    "wof:lastmodified":1537663961,
+    "wof:name":"Douar er Rouazi",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0629,
+    33.94232,
+    -5.0629,
+    33.94232
+],
+  "geometry": {"coordinates":[-5.0629,33.94232],"type":"Point"}
+}

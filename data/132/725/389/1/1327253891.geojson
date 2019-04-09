@@ -1,0 +1,67 @@
+{
+  "id": 1327253891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1309,31.01766,-9.1309,31.01766",
+    "geom:latitude":31.01766,
+    "geom:longitude":-9.1309,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait el Koub",
+    "gn:country_code":"MA",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149028,
+    "gn:latitude":31.01766,
+    "gn:longitude":-9.1309,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft el Koub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149028
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f1d30e8caa17c88eb07cfd4583c52450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1327253891,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1327253891,
+    "wof:lastmodified":1536939325,
+    "wof:name":"Ait el Koub",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1309,
+    31.01766,
+    -9.1309,
+    31.01766
+],
+  "geometry": {"coordinates":[-9.1309,31.01766],"type":"Point"}
+}

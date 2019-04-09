@@ -1,0 +1,67 @@
+{
+  "id": 1293510131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21391,32.4451,-8.21391,32.4451",
+    "geom:latitude":32.4451,
+    "geom:longitude":-8.21391,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Hasna",
+    "gn:country_code":"MA",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794751,
+    "gn:latitude":32.4451,
+    "gn:longitude":-8.21391,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Hasna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794751
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9ecb18d09d679a172502710233b85438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1293510131,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293510131,
+    "wof:lastmodified":1536754469,
+    "wof:name":"Douar Hasna",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21391,
+    32.4451,
+    -8.21391,
+    32.4451
+],
+  "geometry": {"coordinates":[-8.21391,32.4451],"type":"Point"}
+}

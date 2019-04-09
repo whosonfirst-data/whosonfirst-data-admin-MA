@@ -1,0 +1,67 @@
+{
+  "id": 1310211365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.31602,33.77193,-5.31602,33.77193",
+    "geom:latitude":33.77193,
+    "geom:longitude":-5.31602,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ait Msallem",
+    "gn:country_code":"MA",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024584,
+    "gn:latitude":33.77193,
+    "gn:longitude":-5.31602,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Msallem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024584
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"20519252a2c6b5b2402f2a21c2d783d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1310211365,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1310211365,
+    "wof:lastmodified":1536842701,
+    "wof:name":"Ait Msallem",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.31602,
+    33.77193,
+    -5.31602,
+    33.77193
+],
+  "geometry": {"coordinates":[-5.31602,33.77193],"type":"Point"}
+}

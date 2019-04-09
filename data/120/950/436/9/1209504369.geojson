@@ -1,0 +1,61 @@
+{
+  "id": 1209504369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4686,30.48602,-9.4686,30.48602",
+    "geom:latitude":30.48602,
+    "geom:longitude":-9.4686,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Timezguida Ou Goul",
+    "gn:country_code":"MA",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10375182,
+    "gn:latitude":30.48602,
+    "gn:longitude":-9.4686,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Timezguida Ou Goul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10375182
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d74e74ebf996e6f225c21691ddc22d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209504369
+        }
+    ],
+    "wof:id":1209504369,
+    "wof:lastmodified":1536285081,
+    "wof:name":"Timezguida Ou Goul",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4686,
+    30.48602,
+    -9.4686,
+    30.48602
+],
+  "geometry": {"coordinates":[-9.4686,30.48602],"type":"Point"}
+}

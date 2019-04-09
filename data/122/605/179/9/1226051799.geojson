@@ -1,0 +1,67 @@
+{
+  "id": 1226051799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.7958,35.49221,-5.7958,35.49221",
+    "geom:latitude":35.49221,
+    "geom:longitude":-5.7958,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar Ahmed Nadjar",
+    "gn:country_code":"MA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10844475,
+    "gn:latitude":35.49221,
+    "gn:longitude":-5.7958,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Ahmed Nadjar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10844475
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eac91455a92d97f167762a038fdcae90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1226051799,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226051799,
+    "wof:lastmodified":1536716664,
+    "wof:name":"Dar Ahmed Nadjar",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7958,
+    35.49221,
+    -5.7958,
+    35.49221
+],
+  "geometry": {"coordinates":[-5.7958,35.49221],"type":"Point"}
+}

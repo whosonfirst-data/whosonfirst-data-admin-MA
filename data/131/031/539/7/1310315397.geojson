@@ -1,0 +1,67 @@
+{
+  "id": 1310315397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94202,31.5075,-5.94202,31.5075",
+    "geom:latitude":31.5075,
+    "geom:longitude":-5.94202,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Outfi",
+    "gn:country_code":"MA",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596248,
+    "gn:latitude":31.5075,
+    "gn:longitude":-5.94202,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"A\u00eft Outfi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596248
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0eebee975fc59b7c44c7062b30e515c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1310315397,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310315397,
+    "wof:lastmodified":1536693762,
+    "wof:name":"Ait Outfi",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94202,
+    31.5075,
+    -5.94202,
+    31.5075
+],
+  "geometry": {"coordinates":[-5.94202,31.5075],"type":"Point"}
+}

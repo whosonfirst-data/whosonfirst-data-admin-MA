@@ -1,0 +1,67 @@
+{
+  "id": 1310097635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.06987,33.7241,-7.06987,33.7241",
+    "geom:latitude":33.7241,
+    "geom:longitude":-7.06987,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chouka",
+    "gn:country_code":"MA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940016,
+    "gn:latitude":33.7241,
+    "gn:longitude":-7.06987,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Chouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940016
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"146aabec56136738dfe2dc0dd0ed88af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1310097635,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1310097635,
+    "wof:lastmodified":1537007115,
+    "wof:name":"Chouka",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.06987,
+    33.7241,
+    -7.06987,
+    33.7241
+],
+  "geometry": {"coordinates":[-7.06987,33.7241],"type":"Point"}
+}

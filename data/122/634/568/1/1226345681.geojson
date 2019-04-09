@@ -1,0 +1,67 @@
+{
+  "id": 1226345681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.83717,35.12427,-3.83717,35.12427",
+    "geom:latitude":35.12427,
+    "geom:longitude":-3.83717,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Nekkour",
+    "gn:country_code":"MA",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559224,
+    "gn:latitude":35.12427,
+    "gn:longitude":-3.83717,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Nekkour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559224
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9b5fb7dc905a971bdce9adc80d0c1fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1226345681,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1226345681,
+    "wof:lastmodified":1536789933,
+    "wof:name":"Douar Nekkour",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.83717,
+    35.12427,
+    -3.83717,
+    35.12427
+],
+  "geometry": {"coordinates":[-3.83717,35.12427],"type":"Point"}
+}

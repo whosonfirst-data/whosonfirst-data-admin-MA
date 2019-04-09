@@ -1,0 +1,61 @@
+{
+  "id": 1209236179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29754,32.59725,-7.29754,32.59725",
+    "geom:latitude":32.59725,
+    "geom:longitude":-7.29754,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Brahma",
+    "gn:country_code":"MA",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10935683,
+    "gn:latitude":32.59725,
+    "gn:longitude":-7.29754,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Brahma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10935683
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5e0ea7fe5c5c164cdb2238f3d7ffff9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209236179
+        }
+    ],
+    "wof:id":1209236179,
+    "wof:lastmodified":1536293472,
+    "wof:name":"Douar Brahma",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29754,
+    32.59725,
+    -7.29754,
+    32.59725
+],
+  "geometry": {"coordinates":[-7.29754,32.59725],"type":"Point"}
+}

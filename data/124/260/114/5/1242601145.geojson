@@ -1,0 +1,67 @@
+{
+  "id": 1242601145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.63224,34.22105,-6.63224,34.22105",
+    "geom:latitude":34.22105,
+    "geom:longitude":-6.63224,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dar Nimou Chrif",
+    "gn:country_code":"MA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10797300,
+    "gn:latitude":34.22105,
+    "gn:longitude":-6.63224,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Nimou Chrif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10797300
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5e71730601f063556845769877387520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1242601145,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1242601145,
+    "wof:lastmodified":1537028543,
+    "wof:name":"Dar Nimou Chrif",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.63224,
+    34.22105,
+    -6.63224,
+    34.22105
+],
+  "geometry": {"coordinates":[-6.63224,34.22105],"type":"Point"}
+}

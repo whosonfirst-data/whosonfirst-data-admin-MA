@@ -1,0 +1,61 @@
+{
+  "id": 1209200467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0626,32.30161,-9.0626,32.30161",
+    "geom:latitude":32.30161,
+    "geom:longitude":-9.0626,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rekhayoussat",
+    "gn:country_code":"MA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10459907,
+    "gn:latitude":32.30161,
+    "gn:longitude":-9.0626,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Rekhayoussat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10459907
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a6b1ccfe570aa96a8d315e9c0b34de88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209200467
+        }
+    ],
+    "wof:id":1209200467,
+    "wof:lastmodified":1536294629,
+    "wof:name":"Rekhayoussat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0626,
+    32.30161,
+    -9.0626,
+    32.30161
+],
+  "geometry": {"coordinates":[-9.0626,32.30161],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125312855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.71656,35.76548,-5.71656,35.76548",
+    "geom:latitude":35.76548,
+    "geom:longitude":-5.71656,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":10368,
+    "gn:population":10368,
+    "iso:country":"MA",
+    "lbl:latitude":35.76548,
+    "lbl:longitude":-5.71656,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u063a\u0631\u0627\u0645\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Albahraoyine"
+    ],
+    "name:fra_x_variant":[
+        "Albahraoyine (CR)",
+        "Albahraoyine (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545718,
+    "qs_pg:gn_pop":10368,
+    "qs_pg:name":"Albahraoyine",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628860,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890442529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545718,
+        "qs_pg:id":628860
+    },
+    "wof:country":"MA",
+    "wof:created":1497044106,
+    "wof:geomhash":"373d0648a0dba2d4c56202f905704322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "localadmin_id":1125312855,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125312855,
+    "wof:lastmodified":1509387930,
+    "wof:name":"Albahraoyine",
+    "wof:parent_id":890442529,
+    "wof:placetype":"localadmin",
+    "wof:population":10368,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.71656,
+    35.76548,
+    -5.71656,
+    35.76548
+],
+  "geometry": {"coordinates":[-5.71656,35.76548],"type":"Point"}
+}

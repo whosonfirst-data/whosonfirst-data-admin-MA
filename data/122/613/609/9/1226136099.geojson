@@ -1,0 +1,67 @@
+{
+  "id": 1226136099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26056,31.32979,-8.26056,31.32979",
+    "geom:latitude":31.32979,
+    "geom:longitude":-8.26056,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ayt Ajanan",
+    "gn:country_code":"MA",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10963354,
+    "gn:latitude":31.32979,
+    "gn:longitude":-8.26056,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ayt Ajanan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10963354
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fee65b37164a857d379e5c8c877bfa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1226136099,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226136099,
+    "wof:lastmodified":1537088439,
+    "wof:name":"Ayt Ajanan",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26056,
+    31.32979000000001,
+    -8.26056,
+    31.32979000000001
+],
+  "geometry": {"coordinates":[-8.26056,31.32979000000001],"type":"Point"}
+}

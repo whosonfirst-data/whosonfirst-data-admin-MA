@@ -1,0 +1,67 @@
+{
+  "id": 1293475781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.94084,31.90989,-7.94084,31.90989",
+    "geom:latitude":31.90989,
+    "geom:longitude":-7.94084,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lgareh",
+    "gn:country_code":"MA",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10910522,
+    "gn:latitude":31.90989,
+    "gn:longitude":-7.94084,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lgareh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10910522
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"052e1dd1b074217d1a96809c6e08550e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1293475781,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293475781,
+    "wof:lastmodified":1536803890,
+    "wof:name":"Lgareh",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.94084,
+    31.90989,
+    -7.94084,
+    31.90989
+],
+  "geometry": {"coordinates":[-7.94084,31.90989],"type":"Point"}
+}

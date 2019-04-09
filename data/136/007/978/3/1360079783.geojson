@@ -1,0 +1,67 @@
+{
+  "id": 1360079783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58872,32.88334,-8.58872,32.88334",
+    "geom:latitude":32.88334,
+    "geom:longitude":-8.58872,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Guerarta",
+    "gn:country_code":"MA",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551689,
+    "gn:latitude":32.88334,
+    "gn:longitude":-8.58872,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Guerarta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551689
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"95099de9e347d5cf6d370c516a6596f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1360079783,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1360079783,
+    "wof:lastmodified":1536953455,
+    "wof:name":"Douar Guerarta",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58872,
+    32.88334,
+    -8.58872,
+    32.88334
+],
+  "geometry": {"coordinates":[-8.58872,32.88334],"type":"Point"}
+}

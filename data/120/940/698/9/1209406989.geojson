@@ -1,0 +1,61 @@
+{
+  "id": 1209406989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.85698,33.32851,-6.85698,33.32851",
+    "geom:latitude":33.32851,
+    "geom:longitude":-6.85698,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Laslatra",
+    "gn:country_code":"MA",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949862,
+    "gn:latitude":33.32851,
+    "gn:longitude":-6.85698,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laslatra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949862
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"37e6fcea41e92a3695d3a148529f00af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209406989
+        }
+    ],
+    "wof:id":1209406989,
+    "wof:lastmodified":1536287964,
+    "wof:name":"Douar Laslatra",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.85698,
+    33.328509999999994,
+    -6.85698,
+    33.328509999999994
+],
+  "geometry": {"coordinates":[-6.85698,33.32850999999999],"type":"Point"}
+}

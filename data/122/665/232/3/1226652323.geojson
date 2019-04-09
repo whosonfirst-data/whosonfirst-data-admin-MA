@@ -1,0 +1,67 @@
+{
+  "id": 1226652323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.74517,33.82764,-5.74517,33.82764",
+    "geom:latitude":33.82764,
+    "geom:longitude":-5.74517,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ait Yahya",
+    "gn:country_code":"MA",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024379,
+    "gn:latitude":33.82764,
+    "gn:longitude":-5.74517,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Yahya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024379
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"047112d91d2b310fd31aae1320700319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1226652323,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1226652323,
+    "wof:lastmodified":1536848801,
+    "wof:name":"Douar Ait Yahya",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.74517,
+    33.82764,
+    -5.74517,
+    33.82764
+],
+  "geometry": {"coordinates":[-5.74517,33.82764],"type":"Point"}
+}

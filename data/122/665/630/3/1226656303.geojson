@@ -1,0 +1,74 @@
+{
+  "id": 1226656303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.05279,33.09386,-7.05279,33.09386",
+    "geom:latitude":33.09386,
+    "geom:longitude":-7.05279,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jemaat Oulad Mhamed",
+    "gn:country_code":"MA",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550067,
+    "gn:latitude":33.09386,
+    "gn:longitude":-7.05279,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jemaat Oulad Mhamed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souk el Jem\u00e2",
+        "El Djem\u00e2",
+        "El Jema",
+        "Jemaat Oulad Mhamed",
+        "Oulad Mohammed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550067
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"67a05455ac26b3be6442677b034b9521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1226656303,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1226656303,
+    "wof:lastmodified":1537663863,
+    "wof:name":"Jemaat Oulad Mhamed",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.05279,
+    33.09386,
+    -7.05279,
+    33.09386
+],
+  "geometry": {"coordinates":[-7.05279,33.09386],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310416171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0,29.4,-10.0,29.4",
+    "geom:latitude":29.4,
+    "geom:longitude":-10.0,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Haram",
+    "gn:country_code":"MA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547203,
+    "gn:latitude":29.4,
+    "gn:longitude":-10.0,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Haram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547203
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"df536bdbb65bbed2b274f8285339aec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1310416171,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310416171,
+    "wof:lastmodified":1537043992,
+    "wof:name":"Id Haram",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0,
+    29.4,
+    -10.0,
+    29.4
+],
+  "geometry": {"coordinates":[-10.0,29.4],"type":"Point"}
+}

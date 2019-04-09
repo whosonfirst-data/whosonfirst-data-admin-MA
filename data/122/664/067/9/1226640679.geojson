@@ -1,0 +1,67 @@
+{
+  "id": 1226640679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.30376,33.01052,-8.30376,33.01052",
+    "geom:latitude":33.01052,
+    "geom:longitude":-8.30376,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Sabra",
+    "gn:country_code":"MA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11472209,
+    "gn:latitude":33.01052,
+    "gn:longitude":-8.30376,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Douar Sabra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11472209
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"773976779e77a416bc378de59c1a60b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1226640679,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1226640679,
+    "wof:lastmodified":1536865447,
+    "wof:name":"Douar Sabra",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30376,
+    33.01052,
+    -8.30376,
+    33.01052
+],
+  "geometry": {"coordinates":[-8.30376,33.01052],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193147243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14233,30.72487,-8.14233,30.72487",
+    "geom:latitude":30.72487,
+    "geom:longitude":-8.14233,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Eddern",
+    "gn:country_code":"MA",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550923,
+    "gn:latitude":30.72487,
+    "gn:longitude":-8.14233,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Eddern",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Edderne",
+        "Eddern"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550923
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eae969397a9ba877358d98975864127a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1193147243,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1193147243,
+    "wof:lastmodified":1537663905,
+    "wof:name":"Eddern",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14233,
+    30.72487000000001,
+    -8.14233,
+    30.72487000000001
+],
+  "geometry": {"coordinates":[-8.14233,30.72487000000001],"type":"Point"}
+}

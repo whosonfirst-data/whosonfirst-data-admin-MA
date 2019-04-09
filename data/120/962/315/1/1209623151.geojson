@@ -1,0 +1,61 @@
+{
+  "id": 1209623151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.79543,35.06699,-3.79543,35.06699",
+    "geom:latitude":35.06699,
+    "geom:longitude":-3.79543,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Jattarene",
+    "gn:country_code":"MA",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10958525,
+    "gn:latitude":35.06699,
+    "gn:longitude":-3.79543,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Jattarene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10958525
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eb38055dabd228011502c927d157fd53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209623151
+        }
+    ],
+    "wof:id":1209623151,
+    "wof:lastmodified":1536281446,
+    "wof:name":"Douar Jattarene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.79543,
+    35.066990000000004,
+    -3.79543,
+    35.066990000000004
+],
+  "geometry": {"coordinates":[-3.79543,35.06699],"type":"Point"}
+}

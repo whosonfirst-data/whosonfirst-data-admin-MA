@@ -1,0 +1,71 @@
+{
+  "id": 1226457419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.69683,34.55356,-3.69683,34.55356",
+    "geom:latitude":34.55356,
+    "geom:longitude":-3.69683,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hammouch n'Amar",
+    "gn:country_code":"MA",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551665,
+    "gn:latitude":34.55356,
+    "gn:longitude":-3.69683,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Hammouch n\u2019Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hammouch n\u2019Amar",
+        "Douar Hammouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551665
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6808df8407ba3d83aaef037dec6511f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1226457419,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1226457419,
+    "wof:lastmodified":1537663956,
+    "wof:name":"Hammouch n'Amar",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.69683,
+    34.55356,
+    -3.69683,
+    34.55356
+],
+  "geometry": {"coordinates":[-3.69683,34.55356],"type":"Point"}
+}

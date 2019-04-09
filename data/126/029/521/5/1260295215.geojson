@@ -1,0 +1,73 @@
+{
+  "id": 1260295215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84405,31.92637,-7.84405,31.92637",
+    "geom:latitude":31.92637,
+    "geom:longitude":-7.84405,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Laanakir Labhira",
+    "gn:country_code":"MA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550766,
+    "gn:latitude":31.92637,
+    "gn:longitude":-7.84405,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Laanakir Labhira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Anaguir",
+        "El Anakir Haj Aomar",
+        "El Anakir Hajj Aomar",
+        "Laanakir Labhira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550766
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e73ff6bacc19ae5af46df6d4625da8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1260295215,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1260295215,
+    "wof:lastmodified":1537663897,
+    "wof:name":"Laanakir Labhira",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84405,
+    31.92637,
+    -7.84405,
+    31.92637
+],
+  "geometry": {"coordinates":[-7.84405,31.92637],"type":"Point"}
+}

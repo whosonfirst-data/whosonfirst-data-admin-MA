@@ -1,0 +1,71 @@
+{
+  "id": 1293485637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.64315,31.68313,-6.64315,31.68313",
+    "geom:latitude":31.68313,
+    "geom:longitude":-6.64315,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tamatsift",
+    "gn:country_code":"MA",
+    "gn:dem":1736,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530629,
+    "gn:latitude":31.68313,
+    "gn:longitude":-6.64315,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tamatsift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tametsift"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530629
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eacfdec5737411379dd5a50784a25347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1293485637,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1293485637,
+    "wof:lastmodified":1537663443,
+    "wof:name":"Tamatsift",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.64315,
+    31.68313,
+    -6.64315,
+    31.68313
+],
+  "geometry": {"coordinates":[-6.64315,31.68313],"type":"Point"}
+}

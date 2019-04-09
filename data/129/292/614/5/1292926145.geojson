@@ -1,0 +1,67 @@
+{
+  "id": 1292926145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.83404,31.24503,-7.83404,31.24503",
+    "geom:latitude":31.24503,
+    "geom:longitude":-7.83404,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gouamane",
+    "gn:country_code":"MA",
+    "gn:dem":1869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171923,
+    "gn:latitude":31.24503,
+    "gn:longitude":-7.83404,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Gouamane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171923
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"845daf48914171e279414eb66a3bd544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1292926145,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1292926145,
+    "wof:lastmodified":1537096167,
+    "wof:name":"Gouamane",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.83404,
+    31.24503,
+    -7.83404,
+    31.24503
+],
+  "geometry": {"coordinates":[-7.83404,31.24503],"type":"Point"}
+}

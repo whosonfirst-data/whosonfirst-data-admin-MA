@@ -1,0 +1,68 @@
+{
+  "id": 1209208137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42657,31.56546,-7.42657,31.56546",
+    "geom:latitude":31.56546,
+    "geom:longitude":-7.42657,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Anzel",
+    "gn:country_code":"MA",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557663,
+    "gn:latitude":31.56546,
+    "gn:longitude":-7.42657,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Anzel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enzel",
+        "Anzale",
+        "El Khemis d\u2019Enzel",
+        "Annzel",
+        "Anzel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557663
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"05e0b0ea985f7b62a1d3dfcf906f96a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209208137
+        }
+    ],
+    "wof:id":1209208137,
+    "wof:lastmodified":1537664115,
+    "wof:name":"Anzel",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42657,
+    31.56546,
+    -7.42657,
+    31.56546
+],
+  "geometry": {"coordinates":[-7.42657,31.56546],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243382059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88133,31.10225,-8.88133,31.10225",
+    "geom:latitude":31.10225,
+    "geom:longitude":-8.88133,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Outfane",
+    "gn:country_code":"MA",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538564,
+    "gn:latitude":31.10225,
+    "gn:longitude":-8.88133,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Outfane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Outfano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538564
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"428d4786c1f2ea9de4dced50a40ffde0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1243382059,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1243382059,
+    "wof:lastmodified":1537663540,
+    "wof:name":"Outfane",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88133,
+    31.10225,
+    -8.88133,
+    31.10225
+],
+  "geometry": {"coordinates":[-8.88133,31.10225],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293019423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.17988,28.19926,-10.17988,28.19926",
+    "geom:latitude":28.19926,
+    "geom:longitude":-10.17988,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Amot",
+    "gn:country_code":"MA",
+    "gn:dem":380,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2558007,
+    "gn:latitude":28.19926,
+    "gn:longitude":-10.17988,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Amot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amot Poste",
+        "Amotte",
+        "Amot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890422523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2558007
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f2aa95c6064f0d1091e4478c002a9ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422523,
+            "locality_id":1293019423,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1293019423,
+    "wof:lastmodified":1537664126,
+    "wof:name":"Amot",
+    "wof:parent_id":890422523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.17988,
+    28.19926,
+    -10.17988,
+    28.19926
+],
+  "geometry": {"coordinates":[-10.17988,28.19926],"type":"Point"}
+}

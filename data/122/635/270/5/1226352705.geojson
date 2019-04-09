@@ -1,0 +1,72 @@
+{
+  "id": 1226352705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96603,33.85709,-6.96603,33.85709",
+    "geom:latitude":33.85709,
+    "geom:longitude":-6.96603,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oulad Ben Karroum",
+    "gn:country_code":"MA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569452,
+    "gn:latitude":33.85709,
+    "gn:longitude":-6.96603,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Ben Karroum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Karroum",
+        "Oulad Kerroum",
+        "Oulad Ben Karroum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569452
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9ef7faaa8fe529ce6d6bb7d494db810f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1226352705,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1226352705,
+    "wof:lastmodified":1537664270,
+    "wof:name":"Oulad Ben Karroum",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96603,
+    33.85709,
+    -6.96603,
+    33.85709
+],
+  "geometry": {"coordinates":[-6.96603,33.85709],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326948757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.95,34.16,-5.95,34.16",
+    "geom:latitude":34.16,
+    "geom:longitude":-5.95,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Dar Bel Amri",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553004,
+    "gn:latitude":34.16,
+    "gn:longitude":-5.95,
+    "gn:modification_date":"2007-05-27",
+    "gn:name":"Dar Bel Amri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bel Hamri",
+        "Dar Bel Amri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553004,
+        "wk:page":"Dar_Bel_Amri"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a48b213d9bde4cfbf6595afb9fc8612b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1326948757,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1326948757,
+    "wof:lastmodified":1537664022,
+    "wof:name":"Dar Bel Amri",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.95,
+    34.16,
+    -5.95,
+    34.16
+],
+  "geometry": {"coordinates":[-5.95,34.16],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209521829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.79201,33.82299,-4.79201,33.82299",
+    "geom:latitude":33.82299,
+    "geom:longitude":-4.79201,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dar Laabbadi",
+    "gn:country_code":"MA",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921614,
+    "gn:latitude":33.82299,
+    "gn:longitude":-4.79201,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Laabbadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921614
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a4613feb223f45b5a35a684afa8947c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209521829
+        }
+    ],
+    "wof:id":1209521829,
+    "wof:lastmodified":1536284555,
+    "wof:name":"Dar Laabbadi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7920099999999985,
+    33.822990000000004,
+    -4.7920099999999985,
+    33.822990000000004
+],
+  "geometry": {"coordinates":[-4.79201,33.82299],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343381495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.07932,31.78335,-9.07932,31.78335",
+    "geom:latitude":31.78335,
+    "geom:longitude":-9.07932,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Alla Belhaj",
+    "gn:country_code":"MA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10911669,
+    "gn:latitude":31.78335,
+    "gn:longitude":-9.07932,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Alla Belhaj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10911669
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"af956ba5fb918118e0ca736ae36c11b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1343381495,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343381495,
+    "wof:lastmodified":1536858865,
+    "wof:name":"Douar Alla Belhaj",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.07932,
+    31.78335,
+    -9.07932,
+    31.78335
+],
+  "geometry": {"coordinates":[-9.07932,31.78335],"type":"Point"}
+}

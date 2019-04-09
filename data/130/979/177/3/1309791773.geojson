@@ -1,0 +1,76 @@
+{
+  "id": 1309791773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.09988,31.96599,-7.09988,31.96599",
+    "geom:latitude":31.96599,
+    "geom:longitude":-7.09988,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nwaji",
+    "gn:country_code":"MA",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541282,
+    "gn:latitude":31.96599,
+    "gn:longitude":-7.09988,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Nwaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled l\u2019hou",
+        "Nouaji",
+        "Douar Nouaji Oulad Lahouel",
+        "Nouaji Oulad Lahoul",
+        "Nwaji Oulad Lahwel",
+        "Nouaji Oulad Lahouel",
+        "Nwaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541282
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c4825a8abc75d7568bc73f9a3a7889c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1309791773,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1309791773,
+    "wof:lastmodified":1537663636,
+    "wof:name":"Nwaji",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.09988,
+    31.96599,
+    -7.09988,
+    31.96599
+],
+  "geometry": {"coordinates":[-7.09988,31.96599],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209535991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18591,32.03106,-9.18591,32.03106",
+    "geom:latitude":32.03106,
+    "geom:longitude":-9.18591,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rbaat Oulad Ali Echeleh",
+    "gn:country_code":"MA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949149,
+    "gn:latitude":32.03106,
+    "gn:longitude":-9.18591,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Rbaat Oulad Ali Echeleh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949149
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f577e7d99dc01db4e308c5007d2e16c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209535991
+        }
+    ],
+    "wof:id":1209535991,
+    "wof:lastmodified":1536284140,
+    "wof:name":"Rbaat Oulad Ali Echeleh",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18591,
+    32.03106,
+    -9.18591,
+    32.03106
+],
+  "geometry": {"coordinates":[-9.18591,32.03106],"type":"Point"}
+}

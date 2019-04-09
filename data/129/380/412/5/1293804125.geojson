@@ -1,0 +1,67 @@
+{
+  "id": 1293804125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20664,30.90724,-9.20664,30.90724",
+    "geom:latitude":30.90724,
+    "geom:longitude":-9.20664,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tafkharht",
+    "gn:country_code":"MA",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11132594,
+    "gn:latitude":30.90724,
+    "gn:longitude":-9.20664,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tafkharht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11132594
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"05dad7d64b36eefce841eb9d9d0b6345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1293804125,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293804125,
+    "wof:lastmodified":1536826800,
+    "wof:name":"Tafkharht",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20664,
+    30.90724,
+    -9.20664,
+    30.90724
+],
+  "geometry": {"coordinates":[-9.20664,30.90724],"type":"Point"}
+}

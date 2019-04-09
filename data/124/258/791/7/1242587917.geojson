@@ -1,0 +1,72 @@
+{
+  "id": 1242587917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.95102,32.50052,-8.95102,32.50052",
+    "geom:latitude":32.50052,
+    "geom:longitude":-8.95102,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Zaouit Moulat Abdellah Ben Hsine",
+    "gn:country_code":"MA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526199,
+    "gn:latitude":32.50052,
+    "gn:longitude":-8.95102,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Zaouit Moulat Abdellah Ben Hsine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Abdellal Ben Hsine",
+        "Zaouiet Moulay Abdallah Ben Hassine",
+        "Douar Zaouit Moulat Abdellah Ben Hsine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526199
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"250a5668cae1e56c5907a2ca0e45f829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1242587917,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1242587917,
+    "wof:lastmodified":1537663314,
+    "wof:name":"Douar Zaouit Moulat Abdellah Ben Hsine",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95102,
+    32.50052,
+    -8.95102,
+    32.50052
+],
+  "geometry": {"coordinates":[-8.95102,32.50052],"type":"Point"}
+}

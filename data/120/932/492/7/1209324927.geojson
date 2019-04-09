@@ -1,0 +1,66 @@
+{
+  "id": 1209324927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.087,35.03538,-5.087,35.03538",
+    "geom:latitude":35.03538,
+    "geom:longitude":-5.087,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Ijoulouane",
+    "gn:country_code":"MA",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546756,
+    "gn:latitude":35.03538,
+    "gn:longitude":-5.087,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ijoulouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguelouane",
+        "Igouelouane",
+        "Douar Ijoulouane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546756
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6bad45d392976624dd44eb5d5f6775c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209324927
+        }
+    ],
+    "wof:id":1209324927,
+    "wof:lastmodified":1537663767,
+    "wof:name":"Douar Ijoulouane",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.087,
+    35.03538,
+    -5.087,
+    35.03538
+],
+  "geometry": {"coordinates":[-5.087,35.03538],"type":"Point"}
+}

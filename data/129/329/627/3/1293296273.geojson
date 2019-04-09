@@ -1,0 +1,67 @@
+{
+  "id": 1293296273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.37033,34.56014,-5.37033,34.56014",
+    "geom:latitude":34.56014,
+    "geom:longitude":-5.37033,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Laatamna",
+    "gn:country_code":"MA",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10923907,
+    "gn:latitude":34.56014,
+    "gn:longitude":-5.37033,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laatamna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10923907
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"079c35bde08d824e7845b3fb47b647ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1293296273,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293296273,
+    "wof:lastmodified":1537060010,
+    "wof:name":"Douar Laatamna",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.37033,
+    34.56014,
+    -5.37033,
+    34.56014
+],
+  "geometry": {"coordinates":[-5.37033,34.56014],"type":"Point"}
+}

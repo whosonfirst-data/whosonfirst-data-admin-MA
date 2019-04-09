@@ -1,0 +1,67 @@
+{
+  "id": 1276426887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.44573,31.11475,-8.44573,31.11475",
+    "geom:latitude":31.11475,
+    "geom:longitude":-8.44573,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Areg",
+    "gn:country_code":"MA",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149360,
+    "gn:latitude":31.11475,
+    "gn:longitude":-8.44573,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Areg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149360
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6c81e8fde39f8142d9305e8770fb76d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1276426887,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276426887,
+    "wof:lastmodified":1536653253,
+    "wof:name":"Areg",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.44573,
+    31.11475,
+    -8.44573,
+    31.11475
+],
+  "geometry": {"coordinates":[-8.44573,31.11475],"type":"Point"}
+}

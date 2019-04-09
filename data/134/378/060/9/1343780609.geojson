@@ -1,0 +1,71 @@
+{
+  "id": 1343780609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.70934,31.15747,-5.70934,31.15747",
+    "geom:latitude":31.15747,
+    "geom:longitude":-5.70934,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tichki",
+    "gn:country_code":"MA",
+    "gn:dem":2001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528824,
+    "gn:latitude":31.15747,
+    "gn:longitude":-5.70934,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tichki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tichkit",
+        "Tichki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528824
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"96f77a0c1d473fda7e3be0c6c75f4b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1343780609,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343780609,
+    "wof:lastmodified":1537663395,
+    "wof:name":"Tichki",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.70934,
+    31.15747,
+    -5.70934,
+    31.15747
+],
+  "geometry": {"coordinates":[-5.70934,31.15747],"type":"Point"}
+}

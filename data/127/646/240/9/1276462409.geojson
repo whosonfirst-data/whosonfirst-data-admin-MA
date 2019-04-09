@@ -1,0 +1,67 @@
+{
+  "id": 1276462409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.24562,35.30458,-5.24562,35.30458",
+    "geom:latitude":35.30458,
+    "geom:longitude":-5.24562,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ikarrane",
+    "gn:country_code":"MA",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546515,
+    "gn:latitude":35.30458,
+    "gn:longitude":-5.24562,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ikarrane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546515
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f1f97ef6ea0d9d5cab427114eba3317f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1276462409,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1276462409,
+    "wof:lastmodified":1536602682,
+    "wof:name":"Ikarrane",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.24562,
+    35.30458,
+    -5.24562,
+    35.30458
+],
+  "geometry": {"coordinates":[-5.24562,35.30458],"type":"Point"}
+}

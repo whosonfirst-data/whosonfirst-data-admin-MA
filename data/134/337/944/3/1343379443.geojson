@@ -1,0 +1,67 @@
+{
+  "id": 1343379443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77932,30.82131,-7.77932,30.82131",
+    "geom:latitude":30.82131,
+    "geom:longitude":-7.77932,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Ouzaghar",
+    "gn:country_code":"MA",
+    "gn:dem":2017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11148067,
+    "gn:latitude":30.82131,
+    "gn:longitude":-7.77932,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ouzaghar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11148067
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"712632b9bcca83637a0a3c4777924339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1343379443,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343379443,
+    "wof:lastmodified":1536861723,
+    "wof:name":"Ait Ouzaghar",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77932,
+    30.82131,
+    -7.77932,
+    30.82131
+],
+  "geometry": {"coordinates":[-7.77932,30.82131],"type":"Point"}
+}

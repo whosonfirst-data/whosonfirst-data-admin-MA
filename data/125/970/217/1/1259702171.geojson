@@ -1,0 +1,72 @@
+{
+  "id": 1259702171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98411,34.36383,-5.98411,34.36383",
+    "geom:latitude":34.36383,
+    "geom:longitude":-5.98411,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar El Gourbyne",
+    "gn:country_code":"MA",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551693,
+    "gn:latitude":34.36383,
+    "gn:longitude":-5.98411,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar El Gourbyne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Groubiine",
+        "Douar El Gourbyne",
+        "Douar Gouribine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551693
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"80f397fab6040041c04d89e8ad72e95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1259702171,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1259702171,
+    "wof:lastmodified":1537663958,
+    "wof:name":"Douar El Gourbyne",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98411,
+    34.36383,
+    -5.98411,
+    34.36383
+],
+  "geometry": {"coordinates":[-5.98411,34.36383],"type":"Point"}
+}

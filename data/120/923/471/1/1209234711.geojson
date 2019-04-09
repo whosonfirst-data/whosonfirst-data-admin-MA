@@ -1,0 +1,61 @@
+{
+  "id": 1209234711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.8303,31.51969,-7.8303,31.51969",
+    "geom:latitude":31.51969,
+    "geom:longitude":-7.8303,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar El Bellout",
+    "gn:country_code":"MA",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10908592,
+    "gn:latitude":31.51969,
+    "gn:longitude":-7.8303,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Bellout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10908592
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"de698eb643655edd3e89f04f05a10a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209234711
+        }
+    ],
+    "wof:id":1209234711,
+    "wof:lastmodified":1536293524,
+    "wof:name":"Douar El Bellout",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8303,
+    31.51969,
+    -7.8303,
+    31.51969
+],
+  "geometry": {"coordinates":[-7.8303,31.51969],"type":"Point"}
+}

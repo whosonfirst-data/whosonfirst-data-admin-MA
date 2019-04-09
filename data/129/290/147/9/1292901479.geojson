@@ -1,0 +1,67 @@
+{
+  "id": 1292901479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.6962,32.0754,-6.6962,32.0754",
+    "geom:latitude":32.0754,
+    "geom:longitude":-6.6962,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Imrrayne",
+    "gn:country_code":"MA",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435433,
+    "gn:latitude":32.0754,
+    "gn:longitude":-6.6962,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Imrrayne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435433
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8e5da1b783796e99f095973f76d202d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1292901479,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1292901479,
+    "wof:lastmodified":1536636605,
+    "wof:name":"Imrrayne",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.6962,
+    32.0754,
+    -6.6962,
+    32.0754
+],
+  "geometry": {"coordinates":[-6.6962,32.0754],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225846235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6209,33.76026,-4.6209,33.76026",
+    "geom:latitude":33.76026,
+    "geom:longitude":-4.6209,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bou Maane",
+    "gn:country_code":"MA",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10977753,
+    "gn:latitude":33.76026,
+    "gn:longitude":-4.6209,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bou Maane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10977753
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1139a2b42e27dbcb52190f8316628561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1225846235,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1225846235,
+    "wof:lastmodified":1537012237,
+    "wof:name":"Bou Maane",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6209,
+    33.76026,
+    -4.6209,
+    33.76026
+],
+  "geometry": {"coordinates":[-4.6209,33.76026],"type":"Point"}
+}

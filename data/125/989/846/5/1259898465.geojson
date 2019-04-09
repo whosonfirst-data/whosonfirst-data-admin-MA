@@ -1,0 +1,67 @@
+{
+  "id": 1259898465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.51811,31.1916,-9.51811,31.1916",
+    "geom:latitude":31.1916,
+    "geom:longitude":-9.51811,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi Said",
+    "gn:country_code":"MA",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569150,
+    "gn:latitude":31.1916,
+    "gn:longitude":-9.51811,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Sa\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569150
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"909e76414b3568a71972ed0b7485568a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1259898465,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1259898465,
+    "wof:lastmodified":1536757664,
+    "wof:name":"Sidi Said",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.51811,
+    31.1916,
+    -9.51811,
+    31.1916
+],
+  "geometry": {"coordinates":[-9.51811,31.1916],"type":"Point"}
+}

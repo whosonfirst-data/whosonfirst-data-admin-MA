@@ -1,0 +1,73 @@
+{
+  "id": 1225855073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.45558,29.76345,-9.45558,29.76345",
+    "geom:latitude":29.76345,
+    "geom:longitude":-9.45558,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait ou Lahyane",
+    "gn:country_code":"MA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559264,
+    "gn:latitude":29.76345,
+    "gn:longitude":-9.45558,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft ou Lahyane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Oulakine",
+        "A\u00eft Ou Lahiane",
+        "A\u00eft ou Lahyane",
+        "A\u00eft ou Lahcene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559264
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cbfe9145160f4f0aa9b6bdd0b0afd3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1225855073,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225855073,
+    "wof:lastmodified":1537664160,
+    "wof:name":"Ait ou Lahyane",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.45558,
+    29.76345,
+    -9.45558,
+    29.76345
+],
+  "geometry": {"coordinates":[-9.45558,29.76345],"type":"Point"}
+}

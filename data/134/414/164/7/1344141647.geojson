@@ -1,0 +1,72 @@
+{
+  "id": 1344141647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.43282,31.94821,-4.43282,31.94821",
+    "geom:latitude":31.94821,
+    "geom:longitude":-4.43282,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tazammourit",
+    "gn:country_code":"MA",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529252,
+    "gn:latitude":31.94821,
+    "gn:longitude":-4.43282,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tazammourit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazemourit",
+        "Tazemmourit",
+        "Tazammourit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529252
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b064939b37166f1fb6979d58c5bccdcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1344141647,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1344141647,
+    "wof:lastmodified":1537663404,
+    "wof:name":"Tazammourit",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.43282,
+    31.94821,
+    -4.43282,
+    31.94821
+],
+  "geometry": {"coordinates":[-4.43282,31.94821],"type":"Point"}
+}

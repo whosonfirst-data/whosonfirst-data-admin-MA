@@ -1,0 +1,73 @@
+{
+  "id": 1293108983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01108,34.88815,-6.01108,34.88815",
+    "geom:latitude":34.88815,
+    "geom:longitude":-6.01108,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oulad Chatouane",
+    "gn:country_code":"MA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539954,
+    "gn:latitude":34.88815,
+    "gn:longitude":-6.01108,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Chatouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chtaouna",
+        "Douar Oulad Chetouane",
+        "Oulad Chetouane",
+        "Oulad Chatouane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539954
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"170fde09698f6e6258e924d2d25a36fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1293108983,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1293108983,
+    "wof:lastmodified":1537663597,
+    "wof:name":"Oulad Chatouane",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01108,
+    34.88815,
+    -6.01108,
+    34.88815
+],
+  "geometry": {"coordinates":[-6.01108,34.88815],"type":"Point"}
+}

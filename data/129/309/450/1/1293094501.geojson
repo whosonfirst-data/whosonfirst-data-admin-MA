@@ -1,0 +1,67 @@
+{
+  "id": 1293094501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63787,31.56575,-7.63787,31.56575",
+    "geom:latitude":31.56575,
+    "geom:longitude":-7.63787,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Bouzekri",
+    "gn:country_code":"MA",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909448,
+    "gn:latitude":31.56575,
+    "gn:longitude":-7.63787,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Bouzekri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909448
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"77f65450ab1db11294b44b8a8c619cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1293094501,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1293094501,
+    "wof:lastmodified":1536855441,
+    "wof:name":"Ait Bouzekri",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63787,
+    31.56575,
+    -7.63787,
+    31.56575
+],
+  "geometry": {"coordinates":[-7.63787,31.56575],"type":"Point"}
+}

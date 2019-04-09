@@ -1,0 +1,88 @@
+{
+  "id": 1125314011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.98479,35.29542,-2.98479,35.29542",
+    "geom:latitude":35.29542,
+    "geom:longitude":-2.98479,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9439,
+    "gn:population":9439,
+    "iso:country":"MA",
+    "lbl:latitude":35.29542,
+    "lbl:longitude":-2.98479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0633\u064a\u062f\u0627\u0644 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Farkhana"
+    ],
+    "name:fra_x_variant":[
+        "Farkhana (CR)",
+        "Farkhana (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545743,
+    "qs_pg:gn_pop":9439,
+    "qs_pg:name":"Farkhana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":628887,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545743,
+        "qs_pg:id":628887
+    },
+    "wof:country":"MA",
+    "wof:created":1497044174,
+    "wof:geomhash":"58d73714ce3b7586d5be9f0f0b265264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "localadmin_id":1125314011,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1125314011,
+    "wof:lastmodified":1509387953,
+    "wof:name":"Farkhana",
+    "wof:parent_id":890455271,
+    "wof:placetype":"localadmin",
+    "wof:population":9439,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.98479,
+    35.29542,
+    -2.98479,
+    35.29542
+],
+  "geometry": {"coordinates":[-2.98479,35.29542],"type":"Point"}
+}

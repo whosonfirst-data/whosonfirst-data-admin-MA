@@ -1,0 +1,67 @@
+{
+  "id": 1343554459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.11213,31.67888,-7.11213,31.67888",
+    "geom:latitude":31.67888,
+    "geom:longitude":-7.11213,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sidi Boujemaa",
+    "gn:country_code":"MA",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354755,
+    "gn:latitude":31.67888,
+    "gn:longitude":-7.11213,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sidi Boujemaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354755
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4be058666c81472cb6c10ed652d06d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1343554459,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1343554459,
+    "wof:lastmodified":1536607808,
+    "wof:name":"Sidi Boujemaa",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.11213,
+    31.67888,
+    -7.11213,
+    31.67888
+],
+  "geometry": {"coordinates":[-7.11213,31.67888],"type":"Point"}
+}

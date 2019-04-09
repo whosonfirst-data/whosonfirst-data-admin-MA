@@ -1,0 +1,73 @@
+{
+  "id": 1293210781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82537,30.97072,-7.82537,30.97072",
+    "geom:latitude":30.97072,
+    "geom:longitude":-7.82537,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Taswalt",
+    "gn:country_code":"MA",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529377,
+    "gn:latitude":30.97072,
+    "gn:longitude":-7.82537,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taswalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taxoult",
+        "Tazoult",
+        "Tassoult",
+        "Taswalt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529377
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"19fa44714a1871b3d954a2d3a3974912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1293210781,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293210781,
+    "wof:lastmodified":1537663407,
+    "wof:name":"Taswalt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82537,
+    30.97072,
+    -7.82537,
+    30.97072
+],
+  "geometry": {"coordinates":[-7.82537,30.97072],"type":"Point"}
+}

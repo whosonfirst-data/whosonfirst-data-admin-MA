@@ -1,0 +1,67 @@
+{
+  "id": 1292992921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50385,33.11042,-8.50385,33.11042",
+    "geom:latitude":33.11042,
+    "geom:longitude":-8.50385,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nkheila",
+    "gn:country_code":"MA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471555,
+    "gn:latitude":33.11042,
+    "gn:longitude":-8.50385,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Nkhe\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471555
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b46fc28358512c25649cd6a520a8ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1292992921,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1292992921,
+    "wof:lastmodified":1537002273,
+    "wof:name":"Nkheila",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50385,
+    33.11042,
+    -8.50385,
+    33.11042
+],
+  "geometry": {"coordinates":[-8.50385,33.11042],"type":"Point"}
+}

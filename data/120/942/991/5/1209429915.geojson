@@ -1,0 +1,65 @@
+{
+  "id": 1209429915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.11957,34.69505,-4.11957,34.69505",
+    "geom:latitude":34.69505,
+    "geom:longitude":-4.11957,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kettanet",
+    "gn:country_code":"MA",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544498,
+    "gn:latitude":34.69505,
+    "gn:longitude":-4.11957,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kettanet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katanat",
+        "Kettanet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544498
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eabb534056f71cf0cbbbfc51f668aeb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209429915
+        }
+    ],
+    "wof:id":1209429915,
+    "wof:lastmodified":1537663696,
+    "wof:name":"Kettanet",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.11957,
+    34.69505,
+    -4.11957,
+    34.69505
+],
+  "geometry": {"coordinates":[-4.11957,34.69505],"type":"Point"}
+}

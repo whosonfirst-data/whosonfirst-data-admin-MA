@@ -1,0 +1,71 @@
+{
+  "id": 1310223507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.37523,32.37956,-5.37523,32.37956",
+    "geom:latitude":32.37956,
+    "geom:longitude":-5.37523,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Assaka",
+    "gn:country_code":"MA",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556963,
+    "gn:latitude":32.37956,
+    "gn:longitude":-5.37523,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Assaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asaka",
+        "Assaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556963
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ed4970ab44df9346b4ab2d87ea96abe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1310223507,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1310223507,
+    "wof:lastmodified":1537664097,
+    "wof:name":"Assaka",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.37523,
+    32.37956,
+    -5.37523,
+    32.37956
+],
+  "geometry": {"coordinates":[-5.37523,32.37956],"type":"Point"}
+}

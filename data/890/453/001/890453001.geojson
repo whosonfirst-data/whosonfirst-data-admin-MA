@@ -1,0 +1,78 @@
+{
+  "id": 890453001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.41616,34.09816,-5.41616,34.09816",
+    "geom:latitude":34.09816,
+    "geom:longitude":-5.41616,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":7539,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0646\u062c\u064a\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "N'Zalat Bni Amar"
+    ],
+    "name:fra_x_variant":[
+        "N'Zalat Bni Amar (CR)",
+        "N'Zalat Bni Amar (Commune Rurale)"
+    ],
+    "qs:name":"N'Zalat Bni Amar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546971,
+        "qs:id":630055,
+        "wd:id":"Q3334115",
+        "wk:page":"N'Zalat Bni Amar"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052837,
+    "wof:geomhash":"7ae22154eb8ac9ff426f5e8350f0a04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "localadmin_id":890453001,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":890453001,
+    "wof:lastmodified":1527736640,
+    "wof:name":"N'Zalat Bni Amar",
+    "wof:parent_id":1108784837,
+    "wof:placetype":"localadmin",
+    "wof:population":7539,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.41616,
+    34.09816,
+    -5.41616,
+    34.09816
+],
+  "geometry": {"coordinates":[-5.41616,34.09816],"type":"Point"}
+}

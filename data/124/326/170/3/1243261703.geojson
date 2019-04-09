@@ -1,0 +1,67 @@
+{
+  "id": 1243261703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.23775,31.98438,-6.23775,31.98438",
+    "geom:latitude":31.98438,
+    "geom:longitude":-6.23775,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Imziri",
+    "gn:country_code":"MA",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359377,
+    "gn:latitude":31.98438,
+    "gn:longitude":-6.23775,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Imziri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359377
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bbf4c4afb55ba04a700fdd9ecde3bfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1243261703,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1243261703,
+    "wof:lastmodified":1537068879,
+    "wof:name":"Imziri",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.23775,
+    31.98438,
+    -6.23775,
+    31.98438
+],
+  "geometry": {"coordinates":[-6.23775,31.98438],"type":"Point"}
+}

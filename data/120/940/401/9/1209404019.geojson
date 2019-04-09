@@ -1,0 +1,61 @@
+{
+  "id": 1209404019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.39818,30.22804,-9.39818,30.22804",
+    "geom:latitude":30.22804,
+    "geom:longitude":-9.39818,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Douar Idazene",
+    "gn:country_code":"MA",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10374960,
+    "gn:latitude":30.22804,
+    "gn:longitude":-9.39818,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Idazene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10374960
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"473276797b02dbbd52184329eae99523",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209404019
+        }
+    ],
+    "wof:id":1209404019,
+    "wof:lastmodified":1536288054,
+    "wof:name":"Douar Idazene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.39818,
+    30.228040000000004,
+    -9.39818,
+    30.228040000000004
+],
+  "geometry": {"coordinates":[-9.39818,30.22804],"type":"Point"}
+}

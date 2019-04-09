@@ -1,0 +1,67 @@
+{
+  "id": 1343454305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47835,31.88396,-9.47835,31.88396",
+    "geom:latitude":31.88396,
+    "geom:longitude":-9.47835,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Bir Kacem",
+    "gn:country_code":"MA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10904780,
+    "gn:latitude":31.88396,
+    "gn:longitude":-9.47835,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bir Kacem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10904780
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f526ff51debe26a71132aa6d68169bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1343454305,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1343454305,
+    "wof:lastmodified":1536755146,
+    "wof:name":"Douar Bir Kacem",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47835,
+    31.88396,
+    -9.47835,
+    31.88396
+],
+  "geometry": {"coordinates":[-9.47835,31.88396],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260309451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.47405,34.38538,-6.47405,34.38538",
+    "geom:latitude":34.38538,
+    "geom:longitude":-6.47405,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Statoua",
+    "gn:country_code":"MA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10960824,
+    "gn:latitude":34.38538,
+    "gn:longitude":-6.47405,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Statoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10960824
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e6d3241dbb5d77efad1555ab2c4ae791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1260309451,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1260309451,
+    "wof:lastmodified":1536677142,
+    "wof:name":"Statoua",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.47405,
+    34.38538,
+    -6.47405,
+    34.38538
+],
+  "geometry": {"coordinates":[-6.47405,34.38538],"type":"Point"}
+}

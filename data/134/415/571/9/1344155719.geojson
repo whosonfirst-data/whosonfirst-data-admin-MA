@@ -1,0 +1,67 @@
+{
+  "id": 1344155719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.47184,32.21227,-6.47184,32.21227",
+    "geom:latitude":32.21227,
+    "geom:longitude":-6.47184,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tourtit-n-Bouh",
+    "gn:country_code":"MA",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435744,
+    "gn:latitude":32.21227,
+    "gn:longitude":-6.47184,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Tourtit-n-Bouh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435744
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"527ddc1881edf422ea8c36546a83fbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1344155719,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1344155719,
+    "wof:lastmodified":1536738097,
+    "wof:name":"Tourtit-n-Bouh",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.47184,
+    32.21227,
+    -6.47184,
+    32.21227
+],
+  "geometry": {"coordinates":[-6.47184,32.21227],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327152811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.19142,34.10476,-4.19142,34.10476",
+    "geom:latitude":34.10476,
+    "geom:longitude":-4.19142,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bou Rhaleb",
+    "gn:country_code":"MA",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554123,
+    "gn:latitude":34.10476,
+    "gn:longitude":-4.19142,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Rhaleb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar bou Rhaleb",
+        "Bou Rhaleb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554123
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0e760fa7d428c8e7fe35a42c6cbd2a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1327152811,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1327152811,
+    "wof:lastmodified":1537664045,
+    "wof:name":"Bou Rhaleb",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.19142,
+    34.10476,
+    -4.19142,
+    34.10476
+],
+  "geometry": {"coordinates":[-4.19142,34.10476],"type":"Point"}
+}

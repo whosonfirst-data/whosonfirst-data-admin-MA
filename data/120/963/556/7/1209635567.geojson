@@ -1,0 +1,61 @@
+{
+  "id": 1209635567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.50376,31.41815,-9.50376,31.41815",
+    "geom:latitude":31.41815,
+    "geom:longitude":-9.50376,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ait Ou Zeroual",
+    "gn:country_code":"MA",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946591,
+    "gn:latitude":31.41815,
+    "gn:longitude":-9.50376,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Ou Zeroual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946591
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0af205d7790934674f1b148600d01da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209635567
+        }
+    ],
+    "wof:id":1209635567,
+    "wof:lastmodified":1536281057,
+    "wof:name":"Douar Ait Ou Zeroual",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.50376,
+    31.41815,
+    -9.50376,
+    31.41815
+],
+  "geometry": {"coordinates":[-9.50376,31.41815],"type":"Point"}
+}

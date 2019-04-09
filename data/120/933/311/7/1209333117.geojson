@@ -1,0 +1,64 @@
+{
+  "id": 1209333117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19987,32.29919,-8.19987,32.29919",
+    "geom:latitude":32.29919,
+    "geom:longitude":-8.19987,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar El Maalmine",
+    "gn:country_code":"MA",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549729,
+    "gn:latitude":32.29919,
+    "gn:longitude":-8.19987,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar El Maalmine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Maallemine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549729
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8a79aa6706fd2c63b3ec2b75c049f9a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333117
+        }
+    ],
+    "wof:id":1209333117,
+    "wof:lastmodified":1537663847,
+    "wof:name":"Douar El Maalmine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.19987,
+    32.29919,
+    -8.19987,
+    32.29919
+],
+  "geometry": {"coordinates":[-8.19987,32.29919],"type":"Point"}
+}

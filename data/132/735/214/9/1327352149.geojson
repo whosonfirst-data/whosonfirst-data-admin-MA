@@ -1,0 +1,75 @@
+{
+  "id": 1327352149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.54148,34.95593,-5.54148,34.95593",
+    "geom:latitude":34.95593,
+    "geom:longitude":-5.54148,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Lballouta",
+    "gn:country_code":"MA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556098,
+    "gn:latitude":34.95593,
+    "gn:longitude":-5.54148,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lballouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Bellouta",
+        "Bellota",
+        "Douar Ballout",
+        "Beliota",
+        "Bellouta",
+        "Douar Lballouta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556098
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"64e85d926194a534555228a0152f3fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784797,
+            "locality_id":1327352149,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327352149,
+    "wof:lastmodified":1537664079,
+    "wof:name":"Douar Lballouta",
+    "wof:parent_id":1108784797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.54148,
+    34.95593,
+    -5.54148,
+    34.95593
+],
+  "geometry": {"coordinates":[-5.54148,34.95593],"type":"Point"}
+}

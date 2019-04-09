@@ -1,0 +1,72 @@
+{
+  "id": 1343952773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73209,32.97508,-8.73209,32.97508",
+    "geom:latitude":32.97508,
+    "geom:longitude":-8.73209,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar Oulad Bou Khdija",
+    "gn:country_code":"MA",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551470,
+    "gn:latitude":32.97508,
+    "gn:longitude":-8.73209,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Oulad Bou Khdija",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad ben Khedja",
+        "Douar Oulad ben Kheja",
+        "Douar Oulad Bou Khdija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551470
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e97cbcd32a4a1ae6a6dd1c6a20fda5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1343952773,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343952773,
+    "wof:lastmodified":1537663941,
+    "wof:name":"Douar Oulad Bou Khdija",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73209,
+    32.97508,
+    -8.73209,
+    32.97508
+],
+  "geometry": {"coordinates":[-8.73209,32.97508],"type":"Point"}
+}

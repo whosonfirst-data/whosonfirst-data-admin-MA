@@ -1,0 +1,67 @@
+{
+  "id": 1310002961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28608,33.33736,-8.28608,33.33736",
+    "geom:latitude":33.33736,
+    "geom:longitude":-8.28608,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar Oulad Msader",
+    "gn:country_code":"MA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11470082,
+    "gn:latitude":33.33736,
+    "gn:longitude":-8.28608,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Dar Oulad Msader",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11470082
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"16200e9082d043836337ecc889ff4ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1310002961,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310002961,
+    "wof:lastmodified":1536646563,
+    "wof:name":"Dar Oulad Msader",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28608,
+    33.33736,
+    -8.28608,
+    33.33736
+],
+  "geometry": {"coordinates":[-8.28608,33.33736],"type":"Point"}
+}

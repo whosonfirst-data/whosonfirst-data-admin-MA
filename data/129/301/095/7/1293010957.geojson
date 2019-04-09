@@ -1,0 +1,67 @@
+{
+  "id": 1293010957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.86696,31.48987,-4.86696,31.48987",
+    "geom:latitude":31.48987,
+    "geom:longitude":-4.86696,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taoudoudout",
+    "gn:country_code":"MA",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530204,
+    "gn:latitude":31.48987,
+    "gn:longitude":-4.86696,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taoudoudout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530204
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e6a02a5d1e8d70229926ebc63faf87d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1293010957,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293010957,
+    "wof:lastmodified":1536976345,
+    "wof:name":"Taoudoudout",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.86696,
+    31.48987,
+    -4.86696,
+    31.48987
+],
+  "geometry": {"coordinates":[-4.86696,31.48987],"type":"Point"}
+}

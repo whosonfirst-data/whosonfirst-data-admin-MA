@@ -1,0 +1,67 @@
+{
+  "id": 1226528171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.44861,32.12457,-7.44861,32.12457",
+    "geom:latitude":32.12457,
+    "geom:longitude":-7.44861,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad Mansour",
+    "gn:country_code":"MA",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10935056,
+    "gn:latitude":32.12457,
+    "gn:longitude":-7.44861,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Mansour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10935056
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e0627064260a220c4511891c6deba285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1226528171,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1226528171,
+    "wof:lastmodified":1537022407,
+    "wof:name":"Oulad Mansour",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.44861,
+    32.12457,
+    -7.44861,
+    32.12457
+],
+  "geometry": {"coordinates":[-7.44861,32.12457],"type":"Point"}
+}

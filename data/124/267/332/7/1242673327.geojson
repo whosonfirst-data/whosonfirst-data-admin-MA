@@ -1,0 +1,67 @@
+{
+  "id": 1242673327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62811,31.94793,-8.62811,31.94793",
+    "geom:latitude":31.94793,
+    "geom:longitude":-8.62811,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Zaouiat Sidi Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11099243,
+    "gn:latitude":31.94793,
+    "gn:longitude":-8.62811,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Zaouiat Sidi Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11099243
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2b8f2e0043560c88a48fc6f1dceceabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784821,
+            "locality_id":1242673327,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1242673327,
+    "wof:lastmodified":1536926620,
+    "wof:name":"Douar Zaouiat Sidi Ahmed",
+    "wof:parent_id":1108784821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62811,
+    31.94793,
+    -8.62811,
+    31.94793
+],
+  "geometry": {"coordinates":[-8.62811,31.94793],"type":"Point"}
+}

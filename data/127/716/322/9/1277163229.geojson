@@ -1,0 +1,67 @@
+{
+  "id": 1277163229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01009,31.42106,-8.01009,31.42106",
+    "geom:latitude":31.42106,
+    "geom:longitude":-8.01009,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Chehida",
+    "gn:country_code":"MA",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965132,
+    "gn:latitude":31.42106,
+    "gn:longitude":-8.01009,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Chehida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965132
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0117eb3af8b3c71d1dabb934a4146aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1277163229,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1277163229,
+    "wof:lastmodified":1536651524,
+    "wof:name":"Douar Chehida",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01009,
+    31.42106,
+    -8.01009,
+    31.42106
+],
+  "geometry": {"coordinates":[-8.01009,31.42106],"type":"Point"}
+}

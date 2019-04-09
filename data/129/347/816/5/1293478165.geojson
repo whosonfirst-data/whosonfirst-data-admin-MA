@@ -1,0 +1,67 @@
+{
+  "id": 1293478165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.9795,29.24566,-9.9795,29.24566",
+    "geom:latitude":29.24566,
+    "geom:longitude":-9.9795,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Id Gragane",
+    "gn:country_code":"MA",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100458,
+    "gn:latitude":29.24566,
+    "gn:longitude":-9.9795,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Gragane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100458
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a48dfe58560cb158661635f1526ba28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293478165,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293478165,
+    "wof:lastmodified":1536800590,
+    "wof:name":"Id Gragane",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.9795,
+    29.24566,
+    -9.9795,
+    29.24566
+],
+  "geometry": {"coordinates":[-9.9795,29.24566],"type":"Point"}
+}

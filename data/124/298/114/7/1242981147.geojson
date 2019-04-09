@@ -1,0 +1,67 @@
+{
+  "id": 1242981147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03973,33.7102,-7.03973,33.7102",
+    "geom:latitude":33.7102,
+    "geom:longitude":-7.03973,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oulad Younes",
+    "gn:country_code":"MA",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539094,
+    "gn:latitude":33.7102,
+    "gn:longitude":-7.03973,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Younes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539094
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a7548c9909e915caf4254b7f2471bed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1242981147,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1242981147,
+    "wof:lastmodified":1536978673,
+    "wof:name":"Oulad Younes",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03973,
+    33.7102,
+    -7.03973,
+    33.7102
+],
+  "geometry": {"coordinates":[-7.03973,33.7102],"type":"Point"}
+}

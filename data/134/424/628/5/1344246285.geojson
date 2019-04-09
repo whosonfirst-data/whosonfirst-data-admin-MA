@@ -1,0 +1,67 @@
+{
+  "id": 1344246285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6551,30.01516,-9.6551,30.01516",
+    "geom:latitude":30.01516,
+    "geom:longitude":-9.6551,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tighermine",
+    "gn:country_code":"MA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10937447,
+    "gn:latitude":30.01516,
+    "gn:longitude":-9.6551,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tighermine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10937447
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"209bf19b2892eff6ecd1e7636b33c79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1344246285,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1344246285,
+    "wof:lastmodified":1536604420,
+    "wof:name":"Tighermine",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6551,
+    30.01516,
+    -9.6551,
+    30.01516
+],
+  "geometry": {"coordinates":[-9.6551,30.01516],"type":"Point"}
+}

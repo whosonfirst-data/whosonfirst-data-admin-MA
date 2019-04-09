@@ -1,0 +1,67 @@
+{
+  "id": 1309696189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32057,30.17446,-9.32057,30.17446",
+    "geom:latitude":30.17446,
+    "geom:longitude":-9.32057,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Douar Bou Toutla",
+    "gn:country_code":"MA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945603,
+    "gn:latitude":30.17446,
+    "gn:longitude":-9.32057,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bou Toutla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945603
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"897780c5d7fd5d01113af656ce3672ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1309696189,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309696189,
+    "wof:lastmodified":1537085997,
+    "wof:name":"Douar Bou Toutla",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32057,
+    30.17446,
+    -9.32057,
+    30.17446
+],
+  "geometry": {"coordinates":[-9.32057,30.17446],"type":"Point"}
+}

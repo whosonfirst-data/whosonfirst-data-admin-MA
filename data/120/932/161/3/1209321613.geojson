@@ -1,0 +1,61 @@
+{
+  "id": 1209321613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0476,34.4748,-5.0476,34.4748",
+    "geom:latitude":34.4748,
+    "geom:longitude":-5.0476,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ain Sefsal",
+    "gn:country_code":"MA",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985811,
+    "gn:latitude":34.4748,
+    "gn:longitude":-5.0476,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ain Sefsal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985811
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ab7705899b4ca617f8985852d656f5d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209321613
+        }
+    ],
+    "wof:id":1209321613,
+    "wof:lastmodified":1536290674,
+    "wof:name":"Douar Ain Sefsal",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0476,
+    34.4748,
+    -5.0476,
+    34.4748
+],
+  "geometry": {"coordinates":[-5.0476,34.4748],"type":"Point"}
+}

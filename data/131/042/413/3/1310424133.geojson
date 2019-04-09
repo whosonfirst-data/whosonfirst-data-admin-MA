@@ -1,0 +1,67 @@
+{
+  "id": 1310424133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.678,34.85667,-2.678,34.85667",
+    "geom:latitude":34.85667,
+    "geom:longitude":-2.678,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Oulad Ibrahim",
+    "gn:country_code":"MA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539703,
+    "gn:latitude":34.85667,
+    "gn:longitude":-2.678,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Ibrahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539703
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cd3d5b0c72e42d77d62ca93f81dc81f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":1310424133,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1310424133,
+    "wof:lastmodified":1537032928,
+    "wof:name":"Oulad Ibrahim",
+    "wof:parent_id":1108784771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.678,
+    34.85667,
+    -2.678,
+    34.85667
+],
+  "geometry": {"coordinates":[-2.678,34.85667],"type":"Point"}
+}

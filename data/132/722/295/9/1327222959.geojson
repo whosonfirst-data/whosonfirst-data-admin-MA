@@ -1,0 +1,67 @@
+{
+  "id": 1327222959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.79232,29.55223,-9.79232,29.55223",
+    "geom:latitude":29.55223,
+    "geom:longitude":-9.79232,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Id Laabdi",
+    "gn:country_code":"MA",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10945049,
+    "gn:latitude":29.55223,
+    "gn:longitude":-9.79232,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Laabdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10945049
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1a9b97d11acc82747f1b3199fc34f740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1327222959,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327222959,
+    "wof:lastmodified":1536982544,
+    "wof:name":"Id Laabdi",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.79232,
+    29.55223,
+    -9.79232,
+    29.55223
+],
+  "geometry": {"coordinates":[-9.79232,29.55223],"type":"Point"}
+}

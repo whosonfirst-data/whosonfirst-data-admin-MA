@@ -1,0 +1,72 @@
+{
+  "id": 1293215501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.99508,35.2094,-5.99508,35.2094",
+    "geom:latitude":35.2094,
+    "geom:longitude":-5.99508,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oulad el Klai",
+    "gn:country_code":"MA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539844,
+    "gn:latitude":35.2094,
+    "gn:longitude":-5.99508,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad el Kla\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled el k\u00e9la\u00ef",
+        "Oulad Kalai de Bouraha",
+        "Oulad el Kla\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539844
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c4e4a20848f15748640f756d0e1564bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1293215501,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293215501,
+    "wof:lastmodified":1537663592,
+    "wof:name":"Oulad el Klai",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.99508,
+    35.2094,
+    -5.99508,
+    35.2094
+],
+  "geometry": {"coordinates":[-5.99508,35.2094],"type":"Point"}
+}

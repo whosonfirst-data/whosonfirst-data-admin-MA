@@ -1,0 +1,67 @@
+{
+  "id": 1326650299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.57668,31.00893,-9.57668,31.00893",
+    "geom:latitude":31.00893,
+    "geom:longitude":-9.57668,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Baydya",
+    "gn:country_code":"MA",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10427958,
+    "gn:latitude":31.00893,
+    "gn:longitude":-9.57668,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Baydya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10427958
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"35467f6440bd140f3a679e2ad6d441a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1326650299,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326650299,
+    "wof:lastmodified":1536813233,
+    "wof:name":"Douar Baydya",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.57668,
+    31.00893,
+    -9.57668,
+    31.00893
+],
+  "geometry": {"coordinates":[-9.57668,31.00893],"type":"Point"}
+}

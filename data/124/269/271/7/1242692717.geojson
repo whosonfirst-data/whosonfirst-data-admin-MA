@@ -1,0 +1,72 @@
+{
+  "id": 1242692717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17139,30.59793,-8.17139,30.59793",
+    "geom:latitude":30.59793,
+    "geom:longitude":-8.17139,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tabia-n-Imawn",
+    "gn:country_code":"MA",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532225,
+    "gn:latitude":30.59793,
+    "gn:longitude":-8.17139,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tabia-n-Imawn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019dbia",
+        "Tabia",
+        "Tabia-n-Imawn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532225
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"540299dd18d00a0b4d983f4519eabb14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1242692717,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242692717,
+    "wof:lastmodified":1537663490,
+    "wof:name":"Tabia-n-Imawn",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17139,
+    30.59793,
+    -8.17139,
+    30.59793
+],
+  "geometry": {"coordinates":[-8.17139,30.59793],"type":"Point"}
+}

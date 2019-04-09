@@ -1,0 +1,67 @@
+{
+  "id": 1310008189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.00281,35.14422,-3.00281,35.14422",
+    "geom:latitude":35.14422,
+    "geom:longitude":-3.00281,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Imechrobene",
+    "gn:country_code":"MA",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961210,
+    "gn:latitude":35.14422,
+    "gn:longitude":-3.00281,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Imechrobene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890455271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961210
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8113d519b5fb406270b0465cd3aa6e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1310008189,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1310008189,
+    "wof:lastmodified":1536638360,
+    "wof:name":"Imechrobene",
+    "wof:parent_id":890455271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.00281,
+    35.14422,
+    -3.00281,
+    35.14422
+],
+  "geometry": {"coordinates":[-3.00281,35.14422],"type":"Point"}
+}

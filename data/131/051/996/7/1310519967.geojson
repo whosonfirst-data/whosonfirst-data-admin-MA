@@ -1,0 +1,72 @@
+{
+  "id": 1310519967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54608,32.36884,-8.54608,32.36884",
+    "geom:latitude":32.36884,
+    "geom:longitude":-8.54608,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Chemama",
+    "gn:country_code":"MA",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553380,
+    "gn:latitude":32.36884,
+    "gn:longitude":-8.54608,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Chemama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Chemama",
+        "Douar Chemmem",
+        "Chemama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553380
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1fd039bda048135dc384e90bd0cba969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1310519967,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310519967,
+    "wof:lastmodified":1537664033,
+    "wof:name":"Chemama",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54608,
+    32.36884000000001,
+    -8.54608,
+    32.36884000000001
+],
+  "geometry": {"coordinates":[-8.54608,32.36884000000001],"type":"Point"}
+}

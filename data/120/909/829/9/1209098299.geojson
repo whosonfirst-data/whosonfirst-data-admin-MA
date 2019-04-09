@@ -1,0 +1,61 @@
+{
+  "id": 1209098299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.08766,33.77165,-7.08766,33.77165",
+    "geom:latitude":33.77165,
+    "geom:longitude":-7.08766,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ramliya",
+    "gn:country_code":"MA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949689,
+    "gn:latitude":33.77165,
+    "gn:longitude":-7.08766,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ramliya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949689
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3b957e4be4017d6f009eea85413dbb79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209098299
+        }
+    ],
+    "wof:id":1209098299,
+    "wof:lastmodified":1536297816,
+    "wof:name":"Ramliya",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0876600000000005,
+    33.77165,
+    -7.0876600000000005,
+    33.77165
+],
+  "geometry": {"coordinates":[-7.08766,33.77165],"type":"Point"}
+}

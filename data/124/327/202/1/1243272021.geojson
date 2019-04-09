@@ -1,0 +1,67 @@
+{
+  "id": 1243272021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8002,35.08949,-3.8002,35.08949",
+    "geom:latitude":35.08949,
+    "geom:longitude":-3.8002,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Oulad El Houssine",
+    "gn:country_code":"MA",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10958512,
+    "gn:latitude":35.08949,
+    "gn:longitude":-3.8002,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad El Houssine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10958512
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ad95cbad8de44dadda049106ff937991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1243272021,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243272021,
+    "wof:lastmodified":1537054529,
+    "wof:name":"Douar Oulad El Houssine",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8002,
+    35.08949,
+    -3.8002,
+    35.08949
+],
+  "geometry": {"coordinates":[-3.8002,35.08949],"type":"Point"}
+}

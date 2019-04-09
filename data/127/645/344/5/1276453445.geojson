@@ -1,0 +1,71 @@
+{
+  "id": 1276453445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.28378,29.26376,-10.28378,29.26376",
+    "geom:latitude":29.26376,
+    "geom:longitude":-10.28378,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sidi Ouarsik",
+    "gn:country_code":"MA",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2533205,
+    "gn:latitude":29.26376,
+    "gn:longitude":-10.28378,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Ouarsik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Uarsig",
+        "Sidi Uarzik",
+        "Sidi Ouarsik",
+        "Sidi Barsig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2533205
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8c2c94f1ca0022a4cca6b942663ddd8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1276453445,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276453445,
+    "wof:lastmodified":1537663506,
+    "wof:name":"Sidi Ouarsik",
+    "wof:parent_id":85673929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.28378,
+    29.26376,
+    -10.28378,
+    29.26376
+],
+  "geometry": {"coordinates":[-10.28378,29.26376],"type":"Point"}
+}

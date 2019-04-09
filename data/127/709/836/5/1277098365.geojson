@@ -1,0 +1,67 @@
+{
+  "id": 1277098365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.2192,33.2486,-7.2192,33.2486",
+    "geom:latitude":33.2486,
+    "geom:longitude":-7.2192,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mhajer Chouadla",
+    "gn:country_code":"MA",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939061,
+    "gn:latitude":33.2486,
+    "gn:longitude":-7.2192,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Mhajer Chouadla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939061
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"79f04a8e92d6b8940ac44153d1ad6904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1277098365,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1277098365,
+    "wof:lastmodified":1536744828,
+    "wof:name":"Mhajer Chouadla",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.2192,
+    33.2486,
+    -7.2192,
+    33.2486
+],
+  "geometry": {"coordinates":[-7.2192,33.2486],"type":"Point"}
+}

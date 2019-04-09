@@ -1,0 +1,61 @@
+{
+  "id": 1209099381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.73243,31.9134,-6.73243,31.9134",
+    "geom:latitude":31.9134,
+    "geom:longitude":-6.73243,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Ahourat",
+    "gn:country_code":"MA",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359017,
+    "gn:latitude":31.9134,
+    "gn:longitude":-6.73243,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ahourat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359017
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6403128f39986af523353d377cd56598",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209099381
+        }
+    ],
+    "wof:id":1209099381,
+    "wof:lastmodified":1536297783,
+    "wof:name":"Ait Ahourat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73243,
+    31.9134,
+    -6.73243,
+    31.9134
+],
+  "geometry": {"coordinates":[-6.73243,31.9134],"type":"Point"}
+}

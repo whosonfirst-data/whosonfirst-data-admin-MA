@@ -1,0 +1,72 @@
+{
+  "id": 1242597939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22929,31.97849,-7.22929,31.97849",
+    "geom:latitude":31.97849,
+    "geom:longitude":-7.22929,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bou Walja",
+    "gn:country_code":"MA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554190,
+    "gn:latitude":31.97849,
+    "gn:longitude":-7.22929,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Bou Walja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boulja",
+        "Bou Oulja",
+        "Bou Walja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554190
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"44adaa9d47e77b4c8b3c0fa9a4b52806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1242597939,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242597939,
+    "wof:lastmodified":1537664046,
+    "wof:name":"Bou Walja",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22929,
+    31.97849,
+    -7.22929,
+    31.97849
+],
+  "geometry": {"coordinates":[-7.22929,31.97849],"type":"Point"}
+}

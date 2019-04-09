@@ -1,0 +1,61 @@
+{
+  "id": 1209424165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.04271,35.09568,-4.04271,35.09568",
+    "geom:latitude":35.09568,
+    "geom:longitude":-4.04271,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Izerqamene",
+    "gn:country_code":"MA",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091993,
+    "gn:latitude":35.09568,
+    "gn:longitude":-4.04271,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Izerqamene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091993
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"57afca9161dfef08a4c9556a051dc18d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209424165
+        }
+    ],
+    "wof:id":1209424165,
+    "wof:lastmodified":1536287433,
+    "wof:name":"Douar Izerqamene",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.04271,
+    35.09568,
+    -4.04271,
+    35.09568
+],
+  "geometry": {"coordinates":[-4.04271,35.09568],"type":"Point"}
+}

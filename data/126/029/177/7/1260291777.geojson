@@ -1,0 +1,67 @@
+{
+  "id": 1260291777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.62891,33.69037,-5.62891,33.69037",
+    "geom:latitude":33.69037,
+    "geom:longitude":-5.62891,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ain Oubejja",
+    "gn:country_code":"MA",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970829,
+    "gn:latitude":33.69037,
+    "gn:longitude":-5.62891,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ain Oubejja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970829
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e3a9cfb271c5bf5f36453fa72cc67cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1260291777,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1260291777,
+    "wof:lastmodified":1536701048,
+    "wof:name":"Ain Oubejja",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.62891,
+    33.69037,
+    -5.62891,
+    33.69037
+],
+  "geometry": {"coordinates":[-5.62891,33.69037],"type":"Point"}
+}

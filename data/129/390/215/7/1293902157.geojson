@@ -1,0 +1,67 @@
+{
+  "id": 1293902157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.78618,33.76793,-5.78618,33.76793",
+    "geom:latitude":33.76793,
+    "geom:longitude":-5.78618,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Messala",
+    "gn:country_code":"MA",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549588,
+    "gn:latitude":33.76793,
+    "gn:longitude":-5.78618,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Messala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890453897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549588
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b1f64e21a5c643c9b2a928b75c396b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453897,
+            "locality_id":1293902157,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1293902157,
+    "wof:lastmodified":1536686461,
+    "wof:name":"El Messala",
+    "wof:parent_id":890453897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.78618,
+    33.76793,
+    -5.78618,
+    33.76793
+],
+  "geometry": {"coordinates":[-5.78618,33.76793],"type":"Point"}
+}

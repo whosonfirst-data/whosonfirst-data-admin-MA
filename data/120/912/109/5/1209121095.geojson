@@ -1,0 +1,67 @@
+{
+  "id": 1209121095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.51743,33.82013,-4.51743,33.82013",
+    "geom:latitude":33.82013,
+    "geom:longitude":-4.51743,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Mbarek",
+    "gn:country_code":"MA",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539827,
+    "gn:latitude":33.82013,
+    "gn:longitude":-4.51743,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Mbarek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Mbark",
+        "Oulad M\u2019barek",
+        "Oulad Embarek",
+        "Douar Oulad Mbarek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539827
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3be9f2c2dfed6281b418adb785418265",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209121095
+        }
+    ],
+    "wof:id":1209121095,
+    "wof:lastmodified":1537663590,
+    "wof:name":"Douar Oulad Mbarek",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.51743,
+    33.82013,
+    -4.51743,
+    33.82013
+],
+  "geometry": {"coordinates":[-4.51743,33.82013],"type":"Point"}
+}

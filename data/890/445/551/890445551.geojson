@@ -1,0 +1,78 @@
+{
+  "id": 890445551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23118,32.21624,-8.23118,32.21624",
+    "geom:latitude":32.21624,
+    "geom:longitude":-8.23118,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":7499,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0645\u0631\u0627\u0646 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Hammou"
+    ],
+    "name:fra_x_variant":[
+        "Ait Hammou (CR)",
+        "Ait Hammou (Commune Rurale)"
+    ],
+    "qs:name":"Ait Hammou",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546767,
+        "qs:id":629870,
+        "wd:id":"Q4699240",
+        "wk:page":"Ait Hammou"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052514,
+    "wof:geomhash":"0bb21e6a1a19f76a1ca0e31b0c36aa17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "localadmin_id":890445551,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890445551,
+    "wof:lastmodified":1527792867,
+    "wof:name":"Ait Hammou",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"localadmin",
+    "wof:population":7499,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23118,
+    32.21624,
+    -8.23118,
+    32.21624
+],
+  "geometry": {"coordinates":[-8.23118,32.21624],"type":"Point"}
+}

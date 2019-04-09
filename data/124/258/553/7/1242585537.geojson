@@ -1,0 +1,67 @@
+{
+  "id": 1242585537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.80305,35.03726,-3.80305,35.03726",
+    "geom:latitude":35.03726,
+    "geom:longitude":-3.80305,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Ihmadchiouene",
+    "gn:country_code":"MA",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10958559,
+    "gn:latitude":35.03726,
+    "gn:longitude":-3.80305,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ihmadchiouene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10958559
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"01e80c0cbdc3fe23b1128b034d2319ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1242585537,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1242585537,
+    "wof:lastmodified":1537050022,
+    "wof:name":"Douar Ihmadchiouene",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.80305,
+    35.03726,
+    -3.80305,
+    35.03726
+],
+  "geometry": {"coordinates":[-3.80305,35.03726],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293772377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.84569,29.30578,-9.84569,29.30578",
+    "geom:latitude":29.30578,
+    "geom:longitude":-9.84569,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Id Chaka",
+    "gn:country_code":"MA",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101042,
+    "gn:latitude":29.30578,
+    "gn:longitude":-9.84569,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Chaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101042
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ce6043d1b41d9968f4aca3772c9ce3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1293772377,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293772377,
+    "wof:lastmodified":1536872440,
+    "wof:name":"Id Chaka",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.84569,
+    29.30578,
+    -9.84569,
+    29.30578
+],
+  "geometry": {"coordinates":[-9.84569,29.30578],"type":"Point"}
+}

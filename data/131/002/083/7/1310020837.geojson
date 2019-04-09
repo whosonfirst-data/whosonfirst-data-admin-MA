@@ -1,0 +1,72 @@
+{
+  "id": 1310020837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.37038,33.89418,-4.37038,33.89418",
+    "geom:latitude":33.89418,
+    "geom:longitude":-4.37038,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Saqya",
+    "gn:country_code":"MA",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537776,
+    "gn:latitude":33.89418,
+    "gn:longitude":-4.37038,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Saqya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakia Ouled Ali",
+        "Sakia",
+        "Douar Saqya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537776
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"762d8a1811626e15da2e80f3c366ae6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1310020837,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310020837,
+    "wof:lastmodified":1537663527,
+    "wof:name":"Douar Saqya",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.37038,
+    33.89418,
+    -4.37038,
+    33.89418
+],
+  "geometry": {"coordinates":[-4.37038,33.89418],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344163993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.87562,34.04752,-4.87562,34.04752",
+    "geom:latitude":34.04752,
+    "geom:longitude":-4.87562,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Lehja",
+    "gn:country_code":"MA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10993061,
+    "gn:latitude":34.04752,
+    "gn:longitude":-4.87562,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lehja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10993061
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8f5c78d092e26b087fe6737ab9f002fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1344163993,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1344163993,
+    "wof:lastmodified":1536726532,
+    "wof:name":"Douar Lehja",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.87562,
+    34.04752,
+    -4.87562,
+    34.04752
+],
+  "geometry": {"coordinates":[-4.87562,34.04752],"type":"Point"}
+}

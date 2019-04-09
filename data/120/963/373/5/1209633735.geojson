@@ -1,0 +1,67 @@
+{
+  "id": 1209633735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4696,31.68896,-9.4696,31.68896",
+    "geom:latitude":31.68896,
+    "geom:longitude":-9.4696,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Lgaraa",
+    "gn:country_code":"MA",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543431,
+    "gn:latitude":31.68896,
+    "gn:longitude":-9.4696,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lgaraa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ambbersa",
+        "Lembarsa",
+        "Lemdarsa",
+        "Douar Lgaraa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543431
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7faf2fd53559844e137e4b434f4fa362",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209633735
+        }
+    ],
+    "wof:id":1209633735,
+    "wof:lastmodified":1537663673,
+    "wof:name":"Douar Lgaraa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4696,
+    31.68896,
+    -9.4696,
+    31.68896
+],
+  "geometry": {"coordinates":[-9.4696,31.68896],"type":"Point"}
+}

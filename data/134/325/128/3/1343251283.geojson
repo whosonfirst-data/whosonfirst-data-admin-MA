@@ -1,0 +1,67 @@
+{
+  "id": 1343251283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9686,29.95583,-8.9686,29.95583",
+    "geom:latitude":29.95583,
+    "geom:longitude":-8.9686,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Oumziyl",
+    "gn:country_code":"MA",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130847,
+    "gn:latitude":29.95583,
+    "gn:longitude":-8.9686,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Oumziyl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130847
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f26f93c8bab0468bd00f54596eeca07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1343251283,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343251283,
+    "wof:lastmodified":1537046263,
+    "wof:name":"Ait Oumziyl",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9686,
+    29.95583,
+    -8.9686,
+    29.95583
+],
+  "geometry": {"coordinates":[-8.9686,29.95583],"type":"Point"}
+}

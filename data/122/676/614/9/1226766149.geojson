@@ -1,0 +1,74 @@
+{
+  "id": 1226766149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99641,30.88967,-7.99641,30.88967",
+    "geom:latitude":30.88967,
+    "geom:longitude":-7.99641,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Taghouggalt",
+    "gn:country_code":"MA",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529761,
+    "gn:latitude":30.88967,
+    "gn:longitude":-7.99641,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taghouggalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarougalt",
+        "Targgaolte",
+        "Tarhouggalt",
+        "Taghouggalt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529761,
+        "wk:page":"Tarhouggalt"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"42cc6c19ef4ebcce6abb68d755dc6ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1226766149,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226766149,
+    "wof:lastmodified":1537663418,
+    "wof:name":"Taghouggalt",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99641,
+    30.88967,
+    -7.99641,
+    30.88967
+],
+  "geometry": {"coordinates":[-7.99641,30.88967],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890417247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69643,31.54996,-7.69643,31.54996",
+    "geom:latitude":31.54996,
+    "geom:longitude":-7.69643,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":19228,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a \u0639\u0627\u062f\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Ait Faska"
+    ],
+    "name:fra_x_variant":[
+        "Ait Faska (CR)",
+        "Ait Faska (Commune Rurale)"
+    ],
+    "qs:name":"Ait Faska",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546742,
+        "qs:id":629842,
+        "wd:id":"Q4699236",
+        "wk:page":"Ait Faska"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051191,
+    "wof:geomhash":"e3b24771814cf33df237dc17ce0b4244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "localadmin_id":890417247,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":890417247,
+    "wof:lastmodified":1527782124,
+    "wof:name":"Ait Faska",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"localadmin",
+    "wof:population":19228,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69643,
+    31.54996,
+    -7.69643,
+    31.54996
+],
+  "geometry": {"coordinates":[-7.69643,31.54996],"type":"Point"}
+}

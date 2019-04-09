@@ -1,0 +1,74 @@
+{
+  "id": 1327450003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.83043,34.1428,-4.83043,34.1428",
+    "geom:latitude":34.1428,
+    "geom:longitude":-4.83043,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ain Kansara",
+    "gn:country_code":"MA",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544838,
+    "gn:latitude":34.1428,
+    "gn:longitude":-4.83043,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ain Kansara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar A\u00efn Kansara",
+        "Kansara",
+        "\u2019A\u00efn Kansara",
+        "A\u00efn Kansara",
+        "Ain Kansara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544838
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"48483e9bf45393ddbb04574f7a5fd4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1327450003,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1327450003,
+    "wof:lastmodified":1537663706,
+    "wof:name":"Ain Kansara",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.83043,
+    34.1428,
+    -4.83043,
+    34.1428
+],
+  "geometry": {"coordinates":[-4.83043,34.1428],"type":"Point"}
+}

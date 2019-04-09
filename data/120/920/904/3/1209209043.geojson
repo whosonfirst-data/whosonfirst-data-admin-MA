@@ -1,0 +1,61 @@
+{
+  "id": 1209209043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34853,30.70771,-9.34853,30.70771",
+    "geom:latitude":30.70771,
+    "geom:longitude":-9.34853,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tiguemml Cherfa",
+    "gn:country_code":"MA",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11131799,
+    "gn:latitude":30.70771,
+    "gn:longitude":-9.34853,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tiguemml Cherfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131799
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"af5e7bb00af93e528965cfa994176be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209209043
+        }
+    ],
+    "wof:id":1209209043,
+    "wof:lastmodified":1536294352,
+    "wof:name":"Tiguemml Cherfa",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34853,
+    30.70771,
+    -9.34853,
+    30.70771
+],
+  "geometry": {"coordinates":[-9.34853,30.70771],"type":"Point"}
+}

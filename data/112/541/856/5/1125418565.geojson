@@ -1,0 +1,86 @@
+{
+  "id": 1125418565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.55998,22.70937,-14.55998,22.70937",
+    "geom:latitude":22.70937,
+    "geom:longitude":-14.55998,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":976,
+    "gn:population":976,
+    "iso:country":"MA",
+    "lbl:latitude":22.70937,
+    "lbl:longitude":-14.55998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u063a\u0648\u064a\u0646\u064a\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Aousserd"
+    ],
+    "name:fra_x_variant":[
+        "Aousserd (CR)",
+        "Aousserd (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545582,
+    "qs_pg:gn_pop":976,
+    "qs_pg:name":"Aousserd",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":628722,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545582,
+        "qs_pg:id":628722
+    },
+    "wof:country":"MA",
+    "wof:created":1497051807,
+    "wof:geomhash":"0c3890938afaea2e6aa723c2979a2b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "localadmin_id":1125418565,
+            "region_id":85673951
+        }
+    ],
+    "wof:id":1125418565,
+    "wof:lastmodified":1509390421,
+    "wof:name":"Aousserd",
+    "wof:parent_id":85673951,
+    "wof:placetype":"localadmin",
+    "wof:population":976,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.55998,
+    22.70937,
+    -14.55998,
+    22.70937
+],
+  "geometry": {"coordinates":[-14.55998,22.70937],"type":"Point"}
+}

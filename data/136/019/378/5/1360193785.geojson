@@ -1,0 +1,67 @@
+{
+  "id": 1360193785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.37584,35.0735,-4.37584,35.0735",
+    "geom:latitude":35.0735,
+    "geom:longitude":-4.37584,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Founjir",
+    "gn:country_code":"MA",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091168,
+    "gn:latitude":35.0735,
+    "gn:longitude":-4.37584,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Founjir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091168
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"697b647315f119be2af24aaa35b4b857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1360193785,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1360193785,
+    "wof:lastmodified":1536789184,
+    "wof:name":"Douar Founjir",
+    "wof:parent_id":890429097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.37584,
+    35.0735,
+    -4.37584,
+    35.0735
+],
+  "geometry": {"coordinates":[-4.37584,35.0735],"type":"Point"}
+}

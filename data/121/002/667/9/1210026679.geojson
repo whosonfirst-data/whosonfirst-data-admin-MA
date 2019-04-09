@@ -1,0 +1,73 @@
+{
+  "id": 1210026679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19804,29.54205,-9.19804,29.54205",
+    "geom:latitude":29.54205,
+    "geom:longitude":-9.19804,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Wiyntsray",
+    "gn:country_code":"MA",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540526,
+    "gn:latitude":29.54205,
+    "gn:longitude":-9.19804,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Wiyntsray",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ountesra\u00ef",
+        "Ouin l\u2019Spraye",
+        "Ouin l\u2019Sraya",
+        "Wiyntsray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540526
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3d88adf844f5717bd3a94232b484bfc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1210026679,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1210026679,
+    "wof:lastmodified":1537663624,
+    "wof:name":"Wiyntsray",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19804,
+    29.54205,
+    -9.19804,
+    29.54205
+],
+  "geometry": {"coordinates":[-9.19804,29.54205],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242788053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.94474,33.80616,-3.94474,33.80616",
+    "geom:latitude":33.80616,
+    "geom:longitude":-3.94474,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Tammast",
+    "gn:country_code":"MA",
+    "gn:dem":1361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2530520,
+    "gn:latitude":33.80616,
+    "gn:longitude":-3.94474,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Tammast",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tammast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        1108784807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2530520
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2675d68f60a2015ddfaf5f910bf22088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784807,
+            "locality_id":1242788053,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1242788053,
+    "wof:lastmodified":1537663440,
+    "wof:name":"Douar Tammast",
+    "wof:parent_id":1108784807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.94474,
+    33.80616,
+    -3.94474,
+    33.80616
+],
+  "geometry": {"coordinates":[-3.94474,33.80616],"type":"Point"}
+}

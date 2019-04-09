@@ -1,0 +1,67 @@
+{
+  "id": 1310690567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.00281,30.35609,-9.00281,30.35609",
+    "geom:latitude":30.35609,
+    "geom:longitude":-9.00281,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Ben Zi",
+    "gn:country_code":"MA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131629,
+    "gn:latitude":30.35609,
+    "gn:longitude":-9.00281,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Ben Zi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131629
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b236be27a9ccf87ad972783a43254ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1310690567,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1310690567,
+    "wof:lastmodified":1536649686,
+    "wof:name":"Ait Ben Zi",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00281,
+    30.35609,
+    -9.00281,
+    30.35609
+],
+  "geometry": {"coordinates":[-9.00281,30.35609],"type":"Point"}
+}

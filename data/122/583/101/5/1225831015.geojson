@@ -1,0 +1,67 @@
+{
+  "id": 1225831015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52466,31.31523,-8.52466,31.31523",
+    "geom:latitude":31.31523,
+    "geom:longitude":-8.52466,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ait Abdallah ou Sous",
+    "gn:country_code":"MA",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950195,
+    "gn:latitude":31.31523,
+    "gn:longitude":-8.52466,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Abdallah ou Sous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950195
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ca58542ba52af33ba08b907bc878299a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1225831015,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1225831015,
+    "wof:lastmodified":1537033472,
+    "wof:name":"Ait Abdallah ou Sous",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52466,
+    31.31523,
+    -8.52466,
+    31.31523
+],
+  "geometry": {"coordinates":[-8.52466,31.31523],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1210026727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.62898,33.21652,-4.62898,33.21652",
+    "geom:latitude":33.21652,
+    "geom:longitude":-4.62898,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait Bou Haddou",
+    "gn:country_code":"MA",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560285,
+    "gn:latitude":33.21652,
+    "gn:longitude":-4.62898,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Bou Haddou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Boohoo",
+        "A\u00eft Bou Haddou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560285
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bbc60740901c34ba44e0fef01f2fbf8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1210026727,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1210026727,
+    "wof:lastmodified":1537664199,
+    "wof:name":"Ait Bou Haddou",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.62898,
+    33.21652,
+    -4.62898,
+    33.21652
+],
+  "geometry": {"coordinates":[-4.62898,33.21652],"type":"Point"}
+}

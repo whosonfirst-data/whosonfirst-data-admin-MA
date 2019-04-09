@@ -1,0 +1,73 @@
+{
+  "id": 1242871179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.99888,32.50753,-6.99888,32.50753",
+    "geom:latitude":32.50753,
+    "geom:longitude":-6.99888,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oulad Al 'Aych",
+    "gn:country_code":"MA",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551442,
+    "gn:latitude":32.50753,
+    "gn:longitude":-6.99888,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Oulad Al \u2019Aych",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad el A\u00efch",
+        "Dar el Aich",
+        "Douar Oulad el A\u00efch",
+        "Oulad Al \u2019Aych"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551442
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4e139c969e1ee2428ba5260d694c4983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1242871179,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1242871179,
+    "wof:lastmodified":1537663938,
+    "wof:name":"Oulad Al 'Aych",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.99888,
+    32.50753,
+    -6.99888,
+    32.50753
+],
+  "geometry": {"coordinates":[-6.99888,32.50753],"type":"Point"}
+}

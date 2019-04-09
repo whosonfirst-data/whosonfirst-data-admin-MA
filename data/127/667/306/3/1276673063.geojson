@@ -1,0 +1,71 @@
+{
+  "id": 1276673063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.715,31.30178,-6.715,31.30178",
+    "geom:latitude":31.30178,
+    "geom:longitude":-6.715,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imilmane",
+    "gn:country_code":"MA",
+    "gn:dem":1810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542628,
+    "gn:latitude":31.30178,
+    "gn:longitude":-6.715,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imilmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mellemane",
+        "Imilmane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542628
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"983bf5dac6a179a1315eee84f0dc5cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1276673063,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276673063,
+    "wof:lastmodified":1537663658,
+    "wof:name":"Imilmane",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.715,
+    31.30178,
+    -6.715,
+    31.30178
+],
+  "geometry": {"coordinates":[-6.715,31.30178],"type":"Point"}
+}

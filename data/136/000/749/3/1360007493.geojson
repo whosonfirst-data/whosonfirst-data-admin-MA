@@ -1,0 +1,70 @@
+{
+  "id": 1360007493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.72689,32.87362,-7.72689,32.87362",
+    "geom:latitude":32.87362,
+    "geom:longitude":-7.72689,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oulad Bou Qaddour",
+    "gn:country_code":"MA",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552706,
+    "gn:latitude":32.87362,
+    "gn:longitude":-7.72689,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Oulad Bou Qaddour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Hammou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552706
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fdf506d1589b501cc8c169685bc12f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1360007493,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1360007493,
+    "wof:lastmodified":1537664011,
+    "wof:name":"Oulad Bou Qaddour",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.72689,
+    32.87362,
+    -7.72689,
+    32.87362
+],
+  "geometry": {"coordinates":[-7.72689,32.87362],"type":"Point"}
+}

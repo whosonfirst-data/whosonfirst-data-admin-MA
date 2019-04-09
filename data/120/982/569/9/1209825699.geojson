@@ -1,0 +1,73 @@
+{
+  "id": 1209825699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.85417,34.90556,-5.85417,34.90556",
+    "geom:latitude":34.90556,
+    "geom:longitude":-5.85417,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Bni Halma",
+    "gn:country_code":"MA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555834,
+    "gn:latitude":34.90556,
+    "gn:longitude":-5.85417,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bni Halma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Beni Helma",
+        "Bni Halina",
+        "Beni Helma",
+        "Douar Bni Halma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555834
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6da0bf66350076831aeccb9e8d51f904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1209825699,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1209825699,
+    "wof:lastmodified":1537664072,
+    "wof:name":"Douar Bni Halma",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.85417,
+    34.90555999999999,
+    -5.85417,
+    34.90555999999999
+],
+  "geometry": {"coordinates":[-5.85417,34.90555999999999],"type":"Point"}
+}

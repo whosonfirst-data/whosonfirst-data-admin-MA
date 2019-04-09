@@ -1,0 +1,65 @@
+{
+  "id": 1209333077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.35,29.18,-10.35,29.18",
+    "geom:latitude":29.18,
+    "geom:longitude":-10.35,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sidi Ali Jama",
+    "gn:country_code":"MA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2536486,
+    "gn:latitude":29.18,
+    "gn:longitude":-10.35,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Ali Jama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Ali U Yama",
+        "Sidi Ali Jama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2536486
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"078840b13a2252b1571bace7cadcafb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333077
+        }
+    ],
+    "wof:id":1209333077,
+    "wof:lastmodified":1537663517,
+    "wof:name":"Sidi Ali Jama",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.35,
+    29.18,
+    -10.35,
+    29.18
+],
+  "geometry": {"coordinates":[-10.35,29.18],"type":"Point"}
+}

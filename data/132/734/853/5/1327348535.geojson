@@ -1,0 +1,77 @@
+{
+  "id": 1327348535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.77253,35.1806,-3.77253,35.1806",
+    "geom:latitude":35.1806,
+    "geom:longitude":-3.77253,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Trougout",
+    "gn:country_code":"MA",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550674,
+    "gn:latitude":35.1806,
+    "gn:longitude":-3.77253,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Trougout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atroukoute",
+        "Soko el Arbaa de Trugut",
+        "Zoco el Arbaa",
+        "Atrukut",
+        "Zoco Arbaa Trugut",
+        "Trugut",
+        "El Arba de Trougout",
+        "Douar Trougout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550674
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c52c5f1521b77b33fca335d780d479bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1327348535,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1327348535,
+    "wof:lastmodified":1537663893,
+    "wof:name":"Douar Trougout",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.77253,
+    35.1806,
+    -3.77253,
+    35.1806
+],
+  "geometry": {"coordinates":[-3.77253,35.1806],"type":"Point"}
+}

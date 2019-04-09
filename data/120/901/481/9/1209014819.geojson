@@ -1,0 +1,65 @@
+{
+  "id": 1209014819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6,31.58,-7.6,31.58",
+    "geom:latitude":31.58,
+    "geom:longitude":-7.6,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tafoukt",
+    "gn:country_code":"MA",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531896,
+    "gn:latitude":31.58,
+    "gn:longitude":-7.6,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tafoukt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Tafoukt",
+        "Tafoukt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531896
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"242e37774946ba4b5f62811ca6e6fae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209014819
+        }
+    ],
+    "wof:id":1209014819,
+    "wof:lastmodified":1537663480,
+    "wof:name":"Tafoukt",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6,
+    31.58,
+    -7.6,
+    31.58
+],
+  "geometry": {"coordinates":[-7.6,31.58],"type":"Point"}
+}

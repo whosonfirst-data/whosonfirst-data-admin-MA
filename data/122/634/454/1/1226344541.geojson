@@ -1,0 +1,67 @@
+{
+  "id": 1226344541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.44184,35.10281,-3.44184,35.10281",
+    "geom:latitude":35.10281,
+    "geom:longitude":-3.44184,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Adoui",
+    "gn:country_code":"MA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11092633,
+    "gn:latitude":35.10281,
+    "gn:longitude":-3.44184,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Adoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11092633
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3aa80fb72676b5ece8b1e8ced369e1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784779,
+            "locality_id":1226344541,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1226344541,
+    "wof:lastmodified":1536791549,
+    "wof:name":"Adoui",
+    "wof:parent_id":1108784779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.44184,
+    35.10281,
+    -3.44184,
+    35.10281
+],
+  "geometry": {"coordinates":[-3.44184,35.10281],"type":"Point"}
+}

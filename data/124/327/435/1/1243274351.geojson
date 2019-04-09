@@ -1,0 +1,74 @@
+{
+  "id": 1243274351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.60658,34.20144,-2.60658,34.20144",
+    "geom:latitude":34.20144,
+    "geom:longitude":-2.60658,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Ghrass",
+    "gn:country_code":"MA",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2549427,
+    "gn:latitude":34.20144,
+    "gn:longitude":-2.60658,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Ghrass",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Er Rhoress",
+        "El Rhoness",
+        "El Rheres",
+        "El Rhoress",
+        "El Ghrass"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549427
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b38cd9ee5d5efb0f73df06f89a1a7e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784813,
+            "locality_id":1243274351,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1243274351,
+    "wof:lastmodified":1537663834,
+    "wof:name":"El Ghrass",
+    "wof:parent_id":1108784813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.60658,
+    34.20144000000001,
+    -2.60658,
+    34.20144000000001
+],
+  "geometry": {"coordinates":[-2.60658,34.20144000000001],"type":"Point"}
+}

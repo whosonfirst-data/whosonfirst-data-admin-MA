@@ -1,0 +1,67 @@
+{
+  "id": 1259886279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05958,34.04425,-5.05958,34.04425",
+    "geom:latitude":34.04425,
+    "geom:longitude":-5.05958,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Le Ennahda",
+    "gn:country_code":"MA",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984867,
+    "gn:latitude":34.04425,
+    "gn:longitude":-5.05958,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Le Ennahda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984867
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9ecebfbf0b85765935d04c8503f05e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1259886279,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1259886279,
+    "wof:lastmodified":1536775674,
+    "wof:name":"Le Ennahda",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05958,
+    34.04425,
+    -5.05958,
+    34.04425
+],
+  "geometry": {"coordinates":[-5.05958,34.04425],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193135919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8003,31.51139,-6.8003,31.51139",
+    "geom:latitude":31.51139,
+    "geom:longitude":-6.8003,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Inighdane",
+    "gn:country_code":"MA",
+    "gn:dem":2330,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545926,
+    "gn:latitude":31.51139,
+    "gn:longitude":-6.8003,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Inighdane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inlghdene",
+        "Inighdene",
+        "Inighdane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545926
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"26ed977bd2ef8716095053caac143881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1193135919,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1193135919,
+    "wof:lastmodified":1537663739,
+    "wof:name":"Inighdane",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8003,
+    31.51139,
+    -6.8003,
+    31.51139
+],
+  "geometry": {"coordinates":[-6.8003,31.51139],"type":"Point"}
+}

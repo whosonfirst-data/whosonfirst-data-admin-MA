@@ -1,0 +1,73 @@
+{
+  "id": 1310424119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96761,31.83451,-7.96761,31.83451",
+    "geom:latitude":31.83451,
+    "geom:longitude":-7.96761,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bou Kricha",
+    "gn:country_code":"MA",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554441,
+    "gn:latitude":31.83451,
+    "gn:longitude":-7.96761,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bou Kricha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar bou Kricha",
+        "Nzala bou Kricha",
+        "Bou Kricha Ouled Bouhisoun",
+        "Bou Kricha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554441
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cbdb9a68ccb37c719115a26cadf9d455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1310424119,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310424119,
+    "wof:lastmodified":1537664050,
+    "wof:name":"Bou Kricha",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96761,
+    31.83451,
+    -7.96761,
+    31.83451
+],
+  "geometry": {"coordinates":[-7.96761,31.83451],"type":"Point"}
+}

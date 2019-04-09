@@ -1,0 +1,65 @@
+{
+  "id": 1209333065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.70766,34.16542,-5.70766,34.16542",
+    "geom:latitude":34.16542,
+    "geom:longitude":-5.70766,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Caid Salah",
+    "gn:country_code":"MA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551976,
+    "gn:latitude":34.16542,
+    "gn:longitude":-5.70766,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ca\u00efd Salah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sallah",
+        "Douar Ca\u00efd Salah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551976
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bccec8660fa97d738fb05198d3c9d749",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333065
+        }
+    ],
+    "wof:id":1209333065,
+    "wof:lastmodified":1537663980,
+    "wof:name":"Douar Caid Salah",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.70766,
+    34.16542,
+    -5.70766,
+    34.16542
+],
+  "geometry": {"coordinates":[-5.70766,34.16542],"type":"Point"}
+}

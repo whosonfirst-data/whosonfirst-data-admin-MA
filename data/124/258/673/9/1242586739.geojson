@@ -1,0 +1,78 @@
+{
+  "id": 1242586739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.4,35.43,-5.4,35.43",
+    "geom:latitude":35.43,
+    "geom:longitude":-5.4,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"571.0",
+    "gn:admin3_code":"1657105272.0",
+    "gn:asciiname":"Zinat",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2525973,
+    "gn:latitude":35.43,
+    "gn:longitude":-5.4,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Zinat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinat",
+        "Jinat",
+        "Ercoulene",
+        "Ercouiene",
+        "Zinat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2525973,
+        "wk:page":"Zinat"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8a0acce7625c6cab95b19ebb735a7ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1242586739,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1242586739,
+    "wof:lastmodified":1537663308,
+    "wof:name":"Zinat",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.4,
+    35.43,
+    -5.4,
+    35.43
+],
+  "geometry": {"coordinates":[-5.4,35.43],"type":"Point"}
+}

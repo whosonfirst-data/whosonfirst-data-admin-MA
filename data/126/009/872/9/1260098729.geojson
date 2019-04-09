@@ -1,0 +1,72 @@
+{
+  "id": 1260098729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.10526,34.35497,-5.10526,34.35497",
+    "geom:latitude":34.35497,
+    "geom:longitude":-5.10526,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Bouazza",
+    "gn:country_code":"MA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540064,
+    "gn:latitude":34.35497,
+    "gn:longitude":-5.10526,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Bouazza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Bouazza",
+        "Oulad Bou Azza",
+        "Douar Oulad Bouazza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540064
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"99406b0597aa0a68ffdfaf8a5456a598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1260098729,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1260098729,
+    "wof:lastmodified":1537663603,
+    "wof:name":"Douar Oulad Bouazza",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.10526,
+    34.35497,
+    -5.10526,
+    34.35497
+],
+  "geometry": {"coordinates":[-5.10526,34.35497],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259667719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.16326,30.09101,-9.16326,30.09101",
+    "geom:latitude":30.09101,
+    "geom:longitude":-9.16326,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tanammert",
+    "gn:country_code":"MA",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131135,
+    "gn:latitude":30.09101,
+    "gn:longitude":-9.16326,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tanammert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131135
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"aa9b31f640f8b029481850ee0032934e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1259667719,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259667719,
+    "wof:lastmodified":1537086549,
+    "wof:name":"Tanammert",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16326,
+    30.09101,
+    -9.16326,
+    30.09101
+],
+  "geometry": {"coordinates":[-9.16326,30.09101],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226352707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75592,30.26434,-8.75592,30.26434",
+    "geom:latitude":30.26434,
+    "geom:longitude":-8.75592,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ait Barka",
+    "gn:country_code":"MA",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560399,
+    "gn:latitude":30.26434,
+    "gn:longitude":-8.75592,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Barka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560399
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7021c00af7d7f11330ca83914b62351e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1226352707,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226352707,
+    "wof:lastmodified":1536779853,
+    "wof:name":"Ait Barka",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75592,
+    30.26434,
+    -8.75592,
+    30.26434
+],
+  "geometry": {"coordinates":[-8.75592,30.26434],"type":"Point"}
+}

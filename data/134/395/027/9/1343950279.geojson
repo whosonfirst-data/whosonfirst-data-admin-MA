@@ -1,0 +1,67 @@
+{
+  "id": 1343950279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3786,33.23338,-8.3786,33.23338",
+    "geom:latitude":33.23338,
+    "geom:longitude":-8.3786,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Bourhemine",
+    "gn:country_code":"MA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471819,
+    "gn:latitude":33.23338,
+    "gn:longitude":-8.3786,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Douar Bourhemine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471819
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d183e118bc7fd33c39e8da503a800da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1343950279,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343950279,
+    "wof:lastmodified":1537033306,
+    "wof:name":"Douar Bourhemine",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3786,
+    33.23338,
+    -8.3786,
+    33.23338
+],
+  "geometry": {"coordinates":[-8.3786,33.23338],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343780593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.42393,29.40314,-9.42393,29.40314",
+    "geom:latitude":29.40314,
+    "geom:longitude":-9.42393,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Id Abdallah",
+    "gn:country_code":"MA",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547451,
+    "gn:latitude":29.40314,
+    "gn:longitude":-9.42393,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Abdallah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Abdellah",
+        "Id Abdallah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547451
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9b432241d88eef1fa891eec9d42a6e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1343780593,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1343780593,
+    "wof:lastmodified":1537663792,
+    "wof:name":"Id Abdallah",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42393,
+    29.40314,
+    -9.42393,
+    29.40314
+],
+  "geometry": {"coordinates":[-9.42393,29.40314],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226061181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.48477,34.07496,-4.48477,34.07496",
+    "geom:latitude":34.07496,
+    "geom:longitude":-4.48477,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ifrane",
+    "gn:country_code":"MA",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546915,
+    "gn:latitude":34.07496,
+    "gn:longitude":-4.48477,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ifrane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0444\u0440\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ifrane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546915
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"36cde4715c07a3191e3f2edd10e4aa54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1226061181,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1226061181,
+    "wof:lastmodified":1537663771,
+    "wof:name":"Douar Ifrane",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.48477,
+    34.07496,
+    -4.48477,
+    34.07496
+],
+  "geometry": {"coordinates":[-4.48477,34.07496],"type":"Point"}
+}

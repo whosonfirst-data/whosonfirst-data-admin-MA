@@ -1,0 +1,67 @@
+{
+  "id": 1209625535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.12552,34.64899,-6.12552,34.64899",
+    "geom:latitude":34.64899,
+    "geom:longitude":-6.12552,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Regragua",
+    "gn:country_code":"MA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538456,
+    "gn:latitude":34.64899,
+    "gn:longitude":-6.12552,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Regragua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ragraga",
+        "Ragrag",
+        "Ragraga",
+        "Douar Regragua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538456
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2edd1d03e3e435a2275077151048d59f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625535
+        }
+    ],
+    "wof:id":1209625535,
+    "wof:lastmodified":1537663539,
+    "wof:name":"Douar Regragua",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.12552,
+    34.64899,
+    -6.12552,
+    34.64899
+],
+  "geometry": {"coordinates":[-6.12552,34.64899],"type":"Point"}
+}

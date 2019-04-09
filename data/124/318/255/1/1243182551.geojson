@@ -1,0 +1,72 @@
+{
+  "id": 1243182551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.28374,34.16003,-4.28374,34.16003",
+    "geom:latitude":34.16003,
+    "geom:longitude":-4.28374,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Errouqaa",
+    "gn:country_code":"MA",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2537990,
+    "gn:latitude":34.16003,
+    "gn:longitude":-4.28374,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Errouqaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Roka",
+        "Roka",
+        "Douar Errouqaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537990
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"09263e6749b4f56ccddc22aca1b65f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "locality_id":1243182551,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1243182551,
+    "wof:lastmodified":1537663531,
+    "wof:name":"Douar Errouqaa",
+    "wof:parent_id":890436791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.28374,
+    34.16003,
+    -4.28374,
+    34.16003
+],
+  "geometry": {"coordinates":[-4.28374,34.16003],"type":"Point"}
+}

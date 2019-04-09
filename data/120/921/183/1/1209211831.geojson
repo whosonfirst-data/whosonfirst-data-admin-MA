@@ -1,0 +1,61 @@
+{
+  "id": 1209211831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64494,32.73895,-7.64494,32.73895",
+    "geom:latitude":32.73895,
+    "geom:longitude":-7.64494,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Fakhsi",
+    "gn:country_code":"MA",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11368485,
+    "gn:latitude":32.73895,
+    "gn:longitude":-7.64494,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Fakhsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11368485
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"72e25a5a9d4bd175865f0d40033ef17a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209211831
+        }
+    ],
+    "wof:id":1209211831,
+    "wof:lastmodified":1536294265,
+    "wof:name":"Douar Fakhsi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.644939999999999,
+    32.73895,
+    -7.644939999999999,
+    32.73895
+],
+  "geometry": {"coordinates":[-7.64494,32.73895],"type":"Point"}
+}

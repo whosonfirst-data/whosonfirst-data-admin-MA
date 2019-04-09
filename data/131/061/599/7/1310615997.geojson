@@ -1,0 +1,72 @@
+{
+  "id": 1310615997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.50358,34.30071,-4.50358,34.30071",
+    "geom:latitude":34.30071,
+    "geom:longitude":-4.50358,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Belaajiyat",
+    "gn:country_code":"MA",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556147,
+    "gn:latitude":34.30071,
+    "gn:longitude":-4.50358,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Belaajiyat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Bel Ajiat",
+        "Bel Ajiata",
+        "Douar Belaajiyat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556147
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6c8188cf3dd688c04eb389e91887a085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1310615997,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1310615997,
+    "wof:lastmodified":1537664080,
+    "wof:name":"Douar Belaajiyat",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.50358,
+    34.30071,
+    -4.50358,
+    34.30071
+],
+  "geometry": {"coordinates":[-4.50358,34.30071],"type":"Point"}
+}

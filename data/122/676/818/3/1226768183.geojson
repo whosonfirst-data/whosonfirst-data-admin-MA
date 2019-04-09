@@ -1,0 +1,67 @@
+{
+  "id": 1226768183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.22918,29.97414,-9.22918,29.97414",
+    "geom:latitude":29.97414,
+    "geom:longitude":-9.22918,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Adad Ifradn",
+    "gn:country_code":"MA",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130527,
+    "gn:latitude":29.97414,
+    "gn:longitude":-9.22918,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Adad Ifradn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130527
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2964a25ad0cf742fdd50c9e9b3819ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1226768183,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226768183,
+    "wof:lastmodified":1536683241,
+    "wof:name":"Adad Ifradn",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22918,
+    29.97414,
+    -9.22918,
+    29.97414
+],
+  "geometry": {"coordinates":[-9.22918,29.97414],"type":"Point"}
+}

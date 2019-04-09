@@ -1,0 +1,71 @@
+{
+  "id": 1327446385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.3253,32.67403,-4.3253,32.67403",
+    "geom:latitude":32.67403,
+    "geom:longitude":-4.3253,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bertah",
+    "gn:country_code":"MA",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2555430,
+    "gn:latitude":32.67403,
+    "gn:longitude":-4.3253,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bertah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bertate el Kebir",
+        "Bertah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2555430
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b8fa59fa77993829c66093acd6b9a7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1327446385,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1327446385,
+    "wof:lastmodified":1537664064,
+    "wof:name":"Bertah",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3253,
+    32.67403,
+    -4.3253,
+    32.67403
+],
+  "geometry": {"coordinates":[-4.3253,32.67403],"type":"Point"}
+}

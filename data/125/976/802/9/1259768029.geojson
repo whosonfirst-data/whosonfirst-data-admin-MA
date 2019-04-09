@@ -1,0 +1,67 @@
+{
+  "id": 1259768029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.8231,31.08359,-5.8231,31.08359",
+    "geom:latitude":31.08359,
+    "geom:longitude":-5.8231,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Afourar",
+    "gn:country_code":"MA",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10952159,
+    "gn:latitude":31.08359,
+    "gn:longitude":-5.8231,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Afourar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10952159
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a22c79389865ff8eb8ca7159ce65925b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1259768029,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259768029,
+    "wof:lastmodified":1536945855,
+    "wof:name":"Afourar",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.8231,
+    31.08359,
+    -5.8231,
+    31.08359
+],
+  "geometry": {"coordinates":[-5.8231,31.08359],"type":"Point"}
+}

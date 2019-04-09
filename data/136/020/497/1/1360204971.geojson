@@ -1,0 +1,67 @@
+{
+  "id": 1360204971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09996,31.5777,-8.09996,31.5777",
+    "geom:latitude":31.5777,
+    "geom:longitude":-8.09996,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oulad al Garne",
+    "gn:country_code":"MA",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10971081,
+    "gn:latitude":31.5777,
+    "gn:longitude":-8.09996,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad al Garne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10971081
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a6c3f9d1ca12d8d9c72f2f049fb447a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":1360204971,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360204971,
+    "wof:lastmodified":1536773430,
+    "wof:name":"Oulad al Garne",
+    "wof:parent_id":1108784829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09996,
+    31.5777,
+    -8.09996,
+    31.5777
+],
+  "geometry": {"coordinates":[-8.09996,31.5777],"type":"Point"}
+}

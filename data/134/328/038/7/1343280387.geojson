@@ -1,0 +1,73 @@
+{
+  "id": 1343280387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2387,32.41682,-9.2387,32.41682",
+    "geom:latitude":32.41682,
+    "geom:longitude":-9.2387,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lemacchat",
+    "gn:country_code":"MA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543240,
+    "gn:latitude":32.41682,
+    "gn:longitude":-9.2387,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lemacchat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar M\u00e2chat",
+        "Machaati",
+        "M\u00e2chat",
+        "Lemacchat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543240
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"75f7019e13b62a16fcaa8ae9894e8ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1343280387,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1343280387,
+    "wof:lastmodified":1537663668,
+    "wof:name":"Lemacchat",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2387,
+    32.41682,
+    -9.2387,
+    32.41682
+],
+  "geometry": {"coordinates":[-9.2387,32.41682],"type":"Point"}
+}

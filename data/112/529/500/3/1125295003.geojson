@@ -1,0 +1,88 @@
+{
+  "id": 1125295003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.44166,34.76418,-4.44166,34.76418",
+    "geom:latitude":34.76418,
+    "geom:longitude":-4.44166,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":8949,
+    "gn:population":9086,
+    "iso:country":"MA",
+    "lbl:latitude":34.76418,
+    "lbl:longitude":-4.44166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0623\u062d\u0645\u062f \u0627\u0645\u0648\u0643\u0632\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Ahmed Imoukzan"
+    ],
+    "name:fra_x_variant":[
+        "Bni Ahmed Imoukzan (CR)",
+        "Bni Ahmed Imoukzan (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6546173,
+    "qs_pg:gn_pop":8949,
+    "qs_pg:name":"Bni Ahmed Imoukzan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":629311,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890429097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546173,
+        "qs_pg:id":629311
+    },
+    "wof:country":"MA",
+    "wof:created":1497043099,
+    "wof:geomhash":"26d9b8a996b9837d43de6864a26a0973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "localadmin_id":1125295003,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125295003,
+    "wof:lastmodified":1509387605,
+    "wof:name":"Bni Ahmed Imoukzan",
+    "wof:parent_id":890429097,
+    "wof:placetype":"localadmin",
+    "wof:population":9086,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.44166,
+    34.76418,
+    -4.44166,
+    34.76418
+],
+  "geometry": {"coordinates":[-4.44166,34.76418],"type":"Point"}
+}

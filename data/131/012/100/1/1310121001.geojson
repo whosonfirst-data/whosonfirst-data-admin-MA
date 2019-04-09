@@ -1,0 +1,67 @@
+{
+  "id": 1310121001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58348,30.92844,-9.58348,30.92844",
+    "geom:latitude":30.92844,
+    "geom:longitude":-9.58348,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Abbajn",
+    "gn:country_code":"MA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568282,
+    "gn:latitude":30.92844,
+    "gn:longitude":-9.58348,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Abbajn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890453939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568282
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"79bb3b20f068ab4d4a92c2a5d57667a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":1310121001,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1310121001,
+    "wof:lastmodified":1536973608,
+    "wof:name":"Abbajn",
+    "wof:parent_id":890453939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58348,
+    30.92844,
+    -9.58348,
+    30.92844
+],
+  "geometry": {"coordinates":[-9.58348,30.92844],"type":"Point"}
+}

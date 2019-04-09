@@ -1,0 +1,93 @@
+{
+  "id": 421194911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58299,33.60016,-7.58299,33.60016",
+    "geom:latitude":33.60016,
+    "geom:longitude":-7.58299,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u062e\u0648\u0631 \u0627\u0644\u0633\u0648\u062f\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Roches Noires"
+    ],
+    "name:fre_x_preferred":[
+        "Les Roches Noires"
+    ],
+    "name:ger_x_preferred":[
+        "Roches Noires"
+    ],
+    "name:unk_x_variant":[
+        "Les Roches Noires"
+    ],
+    "qs:gn_country":"MA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2537994,
+    "qs:gn_pop":0,
+    "qs:name":"Roches Noires",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 \u0627\u0644\u0643\u0628\u0631\u0649",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":58978,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1539485,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890442533,
+        85673905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2537994,
+        "gp:id":1539485,
+        "qs:id":58978,
+        "wd:id":"Q7353920"
+    },
+    "wof:country":"MA",
+    "wof:created":1459009824,
+    "wof:geomhash":"dee0bb72df01eade51b16d28860e7adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442533,
+            "locality_id":-1,
+            "neighbourhood_id":421194911,
+            "region_id":85673905
+        }
+    ],
+    "wof:id":421194911,
+    "wof:lastmodified":1531858734,
+    "wof:name":"Roches Noires",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58299,
+    33.60016,
+    -7.58299,
+    33.60016
+],
+  "geometry": {"coordinates":[-7.58299,33.60016],"type":"Point"}
+}

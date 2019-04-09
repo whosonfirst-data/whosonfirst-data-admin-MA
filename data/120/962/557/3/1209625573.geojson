@@ -1,0 +1,68 @@
+{
+  "id": 1209625573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.89127,35.36209,-5.89127,35.36209",
+    "geom:latitude":35.36209,
+    "geom:longitude":-5.89127,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Ain Legdah",
+    "gn:country_code":"MA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560826,
+    "gn:latitude":35.36209,
+    "gn:longitude":-5.89127,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Ain Legdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duar Ain Kdah",
+        "A\u00efn Kadah",
+        "Ain Cadah",
+        "A\u00efn Kedah",
+        "Douar Ain Legdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560826
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"edbbbcb4458c167b0b9c59a3e52f06d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625573
+        }
+    ],
+    "wof:id":1209625573,
+    "wof:lastmodified":1537664219,
+    "wof:name":"Douar Ain Legdah",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.89127,
+    35.36209,
+    -5.89127,
+    35.36209
+],
+  "geometry": {"coordinates":[-5.89127,35.36209],"type":"Point"}
+}

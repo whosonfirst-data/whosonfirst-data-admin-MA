@@ -1,0 +1,67 @@
+{
+  "id": 1293705381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.38069,31.09958,-7.38069,31.09958",
+    "geom:latitude":31.09958,
+    "geom:longitude":-7.38069,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imider",
+    "gn:country_code":"MA",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546208,
+    "gn:latitude":31.09958,
+    "gn:longitude":-7.38069,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imider",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546208
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0fdb3194207b9393dfe390587bfefb20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1293705381,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1293705381,
+    "wof:lastmodified":1536969963,
+    "wof:name":"Imider",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.38069,
+    31.09958,
+    -7.38069,
+    31.09958
+],
+  "geometry": {"coordinates":[-7.38069,31.09958],"type":"Point"}
+}

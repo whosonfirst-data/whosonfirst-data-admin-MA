@@ -1,0 +1,70 @@
+{
+  "id": 1293873645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.20926,31.60212,-4.20926,31.60212",
+    "geom:latitude":31.60212,
+    "geom:longitude":-4.20926,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dwira",
+    "gn:country_code":"MA",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2551099,
+    "gn:latitude":31.60212,
+    "gn:longitude":-4.20926,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Dwira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2551099
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a989de3d45f2912b846c957c1ac2e890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784773,
+            "locality_id":1293873645,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293873645,
+    "wof:lastmodified":1537663911,
+    "wof:name":"Dwira",
+    "wof:parent_id":1108784773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.20926,
+    31.60212000000001,
+    -4.20926,
+    31.60212000000001
+],
+  "geometry": {"coordinates":[-4.20926,31.60212000000001],"type":"Point"}
+}

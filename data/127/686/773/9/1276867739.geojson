@@ -1,0 +1,67 @@
+{
+  "id": 1276867739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75941,31.32812,-7.75941,31.32812",
+    "geom:latitude":31.32812,
+    "geom:longitude":-7.75941,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Asguine",
+    "gn:country_code":"MA",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557058,
+    "gn:latitude":31.32812,
+    "gn:longitude":-7.75941,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Asguine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557058
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"118c4137808f5c40879392e29a19e938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1276867739,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276867739,
+    "wof:lastmodified":1537055055,
+    "wof:name":"Asguine",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75941,
+    31.32812,
+    -7.75941,
+    31.32812
+],
+  "geometry": {"coordinates":[-7.75941,31.32812],"type":"Point"}
+}

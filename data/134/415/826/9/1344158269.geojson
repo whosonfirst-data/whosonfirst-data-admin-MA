@@ -1,0 +1,67 @@
+{
+  "id": 1344158269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.74588,33.9252,-4.74588,33.9252",
+    "geom:latitude":33.9252,
+    "geom:longitude":-4.74588,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Ait Ali Bousraf",
+    "gn:country_code":"MA",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10977944,
+    "gn:latitude":33.9252,
+    "gn:longitude":-4.74588,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ait Ali Bousraf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890440849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10977944
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8a23b630ab53379c8dda80f5d4585379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1344158269,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1344158269,
+    "wof:lastmodified":1536734613,
+    "wof:name":"Douar Ait Ali Bousraf",
+    "wof:parent_id":890440849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.74588,
+    33.9252,
+    -4.74588,
+    33.9252
+],
+  "geometry": {"coordinates":[-4.74588,33.9252],"type":"Point"}
+}

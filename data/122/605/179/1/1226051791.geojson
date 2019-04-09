@@ -1,0 +1,67 @@
+{
+  "id": 1226051791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.79704,35.17236,-4.79704,35.17236",
+    "geom:latitude":35.17236,
+    "geom:longitude":-4.79704,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Sddad",
+    "gn:country_code":"MA",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11068001,
+    "gn:latitude":35.17236,
+    "gn:longitude":-4.79704,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Sddad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11068001
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4b71d98f532541b5e3f6392aabacc31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1226051791,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226051791,
+    "wof:lastmodified":1536716673,
+    "wof:name":"Douar Sddad",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.79704,
+    35.17236,
+    -4.79704,
+    35.17236
+],
+  "geometry": {"coordinates":[-4.79704,35.17236],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209121075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03211,30.539,-9.03211,30.539",
+    "geom:latitude":30.539,
+    "geom:longitude":-9.03211,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Graoua el Foukaniine",
+    "gn:country_code":"MA",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2548581,
+    "gn:latitude":30.539,
+    "gn:longitude":-9.03211,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Graoua el Foukaniine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Graoua",
+        "Graoua el Foukaniine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2548581
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9749fb3a3418097b66eb876317896bfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209121075
+        }
+    ],
+    "wof:id":1209121075,
+    "wof:lastmodified":1537663813,
+    "wof:name":"Graoua el Foukaniine",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03211,
+    30.539,
+    -9.03211,
+    30.539
+],
+  "geometry": {"coordinates":[-9.03211,30.539],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226041439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.20314,32.03003,-6.20314,32.03003",
+    "geom:latitude":32.03003,
+    "geom:longitude":-6.20314,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tilougguit",
+    "gn:country_code":"MA",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2528266,
+    "gn:latitude":32.03003,
+    "gn:longitude":-6.20314,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tilougguit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tilougguite",
+        "Tilougguite centre",
+        "Tillouguit n\u2019A\u00eft Isha",
+        "Tilougguit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2528266,
+        "wk:page":"Tilougguite"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"eabf577fec4df37ae6366260b2420e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1226041439,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226041439,
+    "wof:lastmodified":1537663379,
+    "wof:name":"Tilougguit",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.20314,
+    32.03003,
+    -6.20314,
+    32.03003
+],
+  "geometry": {"coordinates":[-6.20314,32.03003],"type":"Point"}
+}

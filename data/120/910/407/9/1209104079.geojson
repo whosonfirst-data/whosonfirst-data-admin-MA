@@ -1,0 +1,61 @@
+{
+  "id": 1209104079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95808,32.10783,-6.95808,32.10783",
+    "geom:latitude":32.10783,
+    "geom:longitude":-6.95808,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Grir",
+    "gn:country_code":"MA",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11435356,
+    "gn:latitude":32.10783,
+    "gn:longitude":-6.95808,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Grir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11435356
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a159108637b16ee0c3d741d80b198362",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209104079
+        }
+    ],
+    "wof:id":1209104079,
+    "wof:lastmodified":1536297635,
+    "wof:name":"Grir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.958080000000002,
+    32.10783,
+    -6.958080000000002,
+    32.10783
+],
+  "geometry": {"coordinates":[-6.95808,32.10783],"type":"Point"}
+}

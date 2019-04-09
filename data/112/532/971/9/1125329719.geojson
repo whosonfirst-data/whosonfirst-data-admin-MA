@@ -1,0 +1,88 @@
+{
+  "id": 1125329719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.11053,34.00922,-2.11053,34.00922",
+    "geom:latitude":34.00922,
+    "geom:longitude":-2.11053,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":13526,
+    "gn:population":13526,
+    "iso:country":"MA",
+    "lbl:latitude":34.00922,
+    "lbl:longitude":-2.11053,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0648\u0644\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Bni Mathar"
+    ],
+    "name:fra_x_variant":[
+        "Ain Bni Mathar (MU)",
+        "Ain Bni Mathar (Commune Urbaine)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545517,
+    "qs_pg:gn_pop":13526,
+    "qs_pg:name":"Ain Bni Mathar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628662,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545517,
+        "qs_pg:id":628662
+    },
+    "wof:country":"MA",
+    "wof:created":1497045064,
+    "wof:geomhash":"70f53c74d132c1ca9301df5f21a74f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784775,
+            "localadmin_id":1125329719,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1125329719,
+    "wof:lastmodified":1509388341,
+    "wof:name":"Ain Bni Mathar",
+    "wof:parent_id":1108784775,
+    "wof:placetype":"localadmin",
+    "wof:population":13526,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.11053,
+    34.00922,
+    -2.11053,
+    34.00922
+],
+  "geometry": {"coordinates":[-2.11053,34.00922],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293201933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.59447,33.49838,-5.59447,33.49838",
+    "geom:latitude":33.49838,
+    "geom:longitude":-5.59447,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Izarar",
+    "gn:country_code":"MA",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10970643,
+    "gn:latitude":33.49838,
+    "gn:longitude":-5.59447,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Izarar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10970643
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"22c5e5b48b716e8c1fee21e4551dcb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1293201933,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1293201933,
+    "wof:lastmodified":1536702014,
+    "wof:name":"Douar Izarar",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.59447,
+    33.49838,
+    -5.59447,
+    33.49838
+],
+  "geometry": {"coordinates":[-5.59447,33.49838],"type":"Point"}
+}

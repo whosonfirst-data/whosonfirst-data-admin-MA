@@ -1,0 +1,61 @@
+{
+  "id": 1209425209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98,29.63,-8.98,29.63",
+    "geom:latitude":29.63,
+    "geom:longitude":-8.98,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tarharat",
+    "gn:country_code":"MA",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529860,
+    "gn:latitude":29.63,
+    "gn:longitude":-8.98,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tarharat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529860
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6ad09bebb92747f67b150c9029215500",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425209
+        }
+    ],
+    "wof:id":1209425209,
+    "wof:lastmodified":1536287402,
+    "wof:name":"Tarharat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98,
+    29.63,
+    -8.98,
+    29.63
+],
+  "geometry": {"coordinates":[-8.98,29.63],"type":"Point"}
+}

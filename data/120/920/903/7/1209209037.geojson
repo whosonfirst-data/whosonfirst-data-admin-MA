@@ -1,0 +1,61 @@
+{
+  "id": 1209209037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51555,30.06359,-8.51555,30.06359",
+    "geom:latitude":30.06359,
+    "geom:longitude":-8.51555,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Toukard",
+    "gn:country_code":"MA",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11142927,
+    "gn:latitude":30.06359,
+    "gn:longitude":-8.51555,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Toukard",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11142927
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a83be1b5905564f439b449bb73d242d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209209037
+        }
+    ],
+    "wof:id":1209209037,
+    "wof:lastmodified":1536294353,
+    "wof:name":"Toukard",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51555,
+    30.06359,
+    -8.51555,
+    30.06359
+],
+  "geometry": {"coordinates":[-8.51555,30.06359],"type":"Point"}
+}

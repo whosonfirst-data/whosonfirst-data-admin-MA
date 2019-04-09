@@ -1,0 +1,78 @@
+{
+  "id": 890416937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31067,32.85634,-7.31067,32.85634",
+    "geom:latitude":32.85634,
+    "geom:longitude":-7.31067,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":11249,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u062e\u0632\u0627\u0632\u0631\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Mniaa"
+    ],
+    "name:fra_x_variant":[
+        "Mniaa (CR)",
+        "Mniaa (Commune Rurale)"
+    ],
+    "qs:name":"Mniaa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546113,
+        "qs:id":629254,
+        "wd:id":"Q12195145",
+        "wk:page":"Mniaa"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051172,
+    "wof:geomhash":"847a4853edfe0968339ba54254ad3b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "localadmin_id":890416937,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890416937,
+    "wof:lastmodified":1527792798,
+    "wof:name":"Mniaa",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"localadmin",
+    "wof:population":11249,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31067,
+    32.85634,
+    -7.31067,
+    32.85634
+],
+  "geometry": {"coordinates":[-7.31067,32.85634],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243086033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96485,34.27524,-4.96485,34.27524",
+    "geom:latitude":34.27524,
+    "geom:longitude":-4.96485,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ed Derdara",
+    "gn:country_code":"MA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571913,
+    "gn:latitude":34.27524,
+    "gn:longitude":-4.96485,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ed Derdara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar ed Derdara",
+        "Ed Derdara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571913
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"45bea350303cc20be15736c0c758fa73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1243086033,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1243086033,
+    "wof:lastmodified":1537664280,
+    "wof:name":"Ed Derdara",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96485,
+    34.27524,
+    -4.96485,
+    34.27524
+],
+  "geometry": {"coordinates":[-4.96485,34.27524],"type":"Point"}
+}

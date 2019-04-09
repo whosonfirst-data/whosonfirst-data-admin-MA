@@ -1,0 +1,73 @@
+{
+  "id": 1242596117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6532,32.0859,-7.6532,32.0859",
+    "geom:latitude":32.0859,
+    "geom:longitude":-7.6532,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Ktaoua",
+    "gn:country_code":"MA",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549746,
+    "gn:latitude":32.0859,
+    "gn:longitude":-7.6532,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El Ktaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Ktaoua",
+        "Ktaoua",
+        "Douar et Ktaoua",
+        "El Ktaoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549746
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b2bdde16c129b409d98353e75209dcc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784785,
+            "locality_id":1242596117,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1242596117,
+    "wof:lastmodified":1537663848,
+    "wof:name":"El Ktaoua",
+    "wof:parent_id":1108784785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6532,
+    32.0859,
+    -7.6532,
+    32.0859
+],
+  "geometry": {"coordinates":[-7.6532,32.0859],"type":"Point"}
+}

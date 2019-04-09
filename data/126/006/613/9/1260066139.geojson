@@ -1,0 +1,70 @@
+{
+  "id": 1260066139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23251,32.1632,-8.23251,32.1632",
+    "geom:latitude":32.1632,
+    "geom:longitude":-8.23251,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bwirat",
+    "gn:country_code":"MA",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2556803,
+    "gn:latitude":32.1632,
+    "gn:longitude":-8.23251,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Bwirat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir el Atatfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2556803
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"22f39fa60f9916552bfeee16fed3f730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784803,
+            "locality_id":1260066139,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1260066139,
+    "wof:lastmodified":1537664093,
+    "wof:name":"Bwirat",
+    "wof:parent_id":1108784803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23251,
+    32.1632,
+    -8.23251,
+    32.1632
+],
+  "geometry": {"coordinates":[-8.23251,32.1632],"type":"Point"}
+}

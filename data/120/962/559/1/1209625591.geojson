@@ -1,0 +1,66 @@
+{
+  "id": 1209625591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25145,31.81476,-9.25145,31.81476",
+    "geom:latitude":31.81476,
+    "geom:longitude":-9.25145,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Douar Nouama",
+    "gn:country_code":"MA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541278,
+    "gn:latitude":31.81476,
+    "gn:longitude":-9.25145,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Nouama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Kaddour",
+        "Nouama",
+        "Douar Nouama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541278
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2359090eeb9b06d5959642ed5c94f420",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625591
+        }
+    ],
+    "wof:id":1209625591,
+    "wof:lastmodified":1537663636,
+    "wof:name":"Douar Nouama",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25145,
+    31.81476,
+    -9.25145,
+    31.81476
+],
+  "geometry": {"coordinates":[-9.25145,31.81476],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209534115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96,34.81,-4.96,34.81",
+    "geom:latitude":34.81,
+    "geom:longitude":-4.96,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dar Benea",
+    "gn:country_code":"MA",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552985,
+    "gn:latitude":34.81,
+    "gn:longitude":-4.96,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dar Benea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552985
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d2d1883ed0de0059e274f3bc5ccb5f66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209534115
+        }
+    ],
+    "wof:id":1209534115,
+    "wof:lastmodified":1536284192,
+    "wof:name":"Dar Benea",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96,
+    34.81,
+    -4.96,
+    34.81
+],
+  "geometry": {"coordinates":[-4.96,34.81],"type":"Point"}
+}

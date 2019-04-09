@@ -1,0 +1,61 @@
+{
+  "id": 1209536005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41641,31.80268,-7.41641,31.80268",
+    "geom:latitude":31.80268,
+    "geom:longitude":-7.41641,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Zghouda",
+    "gn:country_code":"MA",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11355086,
+    "gn:latitude":31.80268,
+    "gn:longitude":-7.41641,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Zghouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11355086
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fcc8f8426ed456b1f55a503b1c6819e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209536005
+        }
+    ],
+    "wof:id":1209536005,
+    "wof:lastmodified":1536284140,
+    "wof:name":"Douar Zghouda",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.416410000000001,
+    31.80268,
+    -7.416410000000001,
+    31.80268
+],
+  "geometry": {"coordinates":[-7.41641,31.80268],"type":"Point"}
+}

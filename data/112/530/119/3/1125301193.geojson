@@ -1,0 +1,88 @@
+{
+  "id": 1125301193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.07819,34.35557,-4.07819,34.35557",
+    "geom:latitude":34.35557,
+    "geom:longitude":-4.07819,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":8808,
+    "gn:population":6992,
+    "iso:country":"MA",
+    "lbl:latitude":34.35557,
+    "lbl:longitude":-4.07819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u0633\u064a\u0644\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Taifa"
+    ],
+    "name:fra_x_variant":[
+        "Taifa (CR)",
+        "Taifa (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547062,
+    "qs_pg:gn_pop":8808,
+    "qs_pg:name":"Taifa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":630143,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890436791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547062,
+        "qs_pg:id":630143
+    },
+    "wof:country":"MA",
+    "wof:created":1497043433,
+    "wof:geomhash":"acf097c628c9cb28f5ebaa3df4755d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436791,
+            "localadmin_id":1125301193,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1125301193,
+    "wof:lastmodified":1509387715,
+    "wof:name":"Taifa",
+    "wof:parent_id":890436791,
+    "wof:placetype":"localadmin",
+    "wof:population":6992,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.07819,
+    34.35557,
+    -4.07819,
+    34.35557
+],
+  "geometry": {"coordinates":[-4.07819,34.35557],"type":"Point"}
+}

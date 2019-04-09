@@ -1,0 +1,61 @@
+{
+  "id": 1209198421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23902,29.90871,-9.23902,29.90871",
+    "geom:latitude":29.90871,
+    "geom:longitude":-9.23902,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ighir-n-Tyoult",
+    "gn:country_code":"MA",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130563,
+    "gn:latitude":29.90871,
+    "gn:longitude":-9.23902,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ighir-n-Tyoult",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130563
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"840090a121ab235bfbf5cb36fd780b9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209198421
+        }
+    ],
+    "wof:id":1209198421,
+    "wof:lastmodified":1536294694,
+    "wof:name":"Ighir-n-Tyoult",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23902,
+    29.90871,
+    -9.23902,
+    29.90871
+],
+  "geometry": {"coordinates":[-9.23902,29.90871],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343377509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96471,35.34431,-5.96471,35.34431",
+    "geom:latitude":35.34431,
+    "geom:longitude":-5.96471,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Oulad Erriyahi",
+    "gn:country_code":"MA",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539826,
+    "gn:latitude":35.34431,
+    "gn:longitude":-5.96471,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Erriyahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Riahi",
+        "Oulad er Riahi",
+        "Douar Oulad Erriyahi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539826
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c229a21b67a7a1d3569f6c589211427a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1343377509,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1343377509,
+    "wof:lastmodified":1537663590,
+    "wof:name":"Douar Oulad Erriyahi",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96471,
+    35.34431,
+    -5.96471,
+    35.34431
+],
+  "geometry": {"coordinates":[-5.96471,35.34431],"type":"Point"}
+}

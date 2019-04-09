@@ -1,0 +1,67 @@
+{
+  "id": 1209333067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.78987,30.89869,-9.78987,30.89869",
+    "geom:latitude":30.89869,
+    "geom:longitude":-9.78987,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Douar Id Ouanir",
+    "gn:country_code":"MA",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547119,
+    "gn:latitude":30.89869,
+    "gn:longitude":-9.78987,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Id Ouanir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Id Ouami",
+        "Id Wanir",
+        "Id Ouanir",
+        "Douar Id Ouanir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547119
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f0349c1e23bfddac987fe8403b159068",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209333067
+        }
+    ],
+    "wof:id":1209333067,
+    "wof:lastmodified":1537663779,
+    "wof:name":"Douar Id Ouanir",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.78987,
+    30.89869,
+    -9.78987,
+    30.89869
+],
+  "geometry": {"coordinates":[-9.78987,30.89869],"type":"Point"}
+}

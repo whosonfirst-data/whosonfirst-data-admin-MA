@@ -1,0 +1,76 @@
+{
+  "id": 1259498305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.30991,33.56748,-7.30991,33.56748",
+    "geom:latitude":33.56748,
+    "geom:longitude":-7.30991,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Souq Jamaa Fdalate",
+    "gn:country_code":"MA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545077,
+    "gn:latitude":33.56748,
+    "gn:longitude":-7.30991,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Souq Jamaa Fdalate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souq aj Jem\u2019a-Fedalat",
+        "Souk el Jemaa",
+        "El Djeama",
+        "El Jema",
+        "El Djem\u00e2",
+        "Fedalate",
+        "Souq Jamaa Fdalate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545077
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c42e8760afe2452a20756d049723ef5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1259498305,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1259498305,
+    "wof:lastmodified":1537663713,
+    "wof:name":"Souq Jamaa Fdalate",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.30991,
+    33.56748,
+    -7.30991,
+    33.56748
+],
+  "geometry": {"coordinates":[-7.30991,33.56748],"type":"Point"}
+}

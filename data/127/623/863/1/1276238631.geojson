@@ -1,0 +1,67 @@
+{
+  "id": 1276238631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18,31.23,-7.18,31.23",
+    "geom:latitude":31.23,
+    "geom:longitude":-7.18,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ouahlili",
+    "gn:country_code":"MA",
+    "gn:dem":1903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541102,
+    "gn:latitude":31.23,
+    "gn:longitude":-7.18,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouahlili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541102
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c2a1c66f8520edcd52bcc79251e91cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1276238631,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276238631,
+    "wof:lastmodified":1536905697,
+    "wof:name":"Ouahlili",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18,
+    31.23,
+    -7.18,
+    31.23
+],
+  "geometry": {"coordinates":[-7.18,31.23],"type":"Point"}
+}

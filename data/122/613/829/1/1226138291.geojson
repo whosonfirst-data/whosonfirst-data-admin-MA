@@ -1,0 +1,67 @@
+{
+  "id": 1226138291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10687,30.03977,-9.10687,30.03977",
+    "geom:latitude":30.03977,
+    "geom:longitude":-9.10687,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aguerd n'Snine",
+    "gn:country_code":"MA",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131327,
+    "gn:latitude":30.03977,
+    "gn:longitude":-9.10687,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Aguerd n\u2019Snine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131327
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6d5cba53745bdfed05654a4ab15179fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1226138291,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1226138291,
+    "wof:lastmodified":1537085302,
+    "wof:name":"Aguerd n'Snine",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10687,
+    30.03977,
+    -9.10687,
+    30.03977
+],
+  "geometry": {"coordinates":[-9.10687,30.03977],"type":"Point"}
+}

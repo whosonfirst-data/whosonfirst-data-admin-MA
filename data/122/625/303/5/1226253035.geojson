@@ -1,0 +1,72 @@
+{
+  "id": 1226253035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.79179,32.52493,-3.79179,32.52493",
+    "geom:latitude":32.52493,
+    "geom:longitude":-3.79179,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Qcar Ayt Bcher",
+    "gn:country_code":"MA",
+    "gn:dem":1495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544034,
+    "gn:latitude":32.52493,
+    "gn:longitude":-3.79179,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Q\u00e7ar Ayt Bcher",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar A\u00eft Bk\u00e8r",
+        "Ksar A\u00eft Beker",
+        "Q\u00e7ar Ayt Bcher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544034
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6fdfc788cc46221d71bff177e2ac5ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1226253035,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1226253035,
+    "wof:lastmodified":1537663687,
+    "wof:name":"Qcar Ayt Bcher",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.79179,
+    32.52493,
+    -3.79179,
+    32.52493
+],
+  "geometry": {"coordinates":[-3.79179,32.52493],"type":"Point"}
+}

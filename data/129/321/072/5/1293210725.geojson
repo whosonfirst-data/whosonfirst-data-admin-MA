@@ -1,0 +1,73 @@
+{
+  "id": 1293210725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.05303,35.41017,-6.05303,35.41017",
+    "geom:latitude":35.41017,
+    "geom:longitude":-6.05303,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Laaqba",
+    "gn:country_code":"MA",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550799,
+    "gn:latitude":35.41017,
+    "gn:longitude":-6.05303,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Laaqba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akba",
+        "Al Akba",
+        "El Akba",
+        "Laaqba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550799
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6b36c62a0e426e9dda4b0e6fa02cf386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1293210725,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293210725,
+    "wof:lastmodified":1537663899,
+    "wof:name":"Laaqba",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.05303,
+    35.41017,
+    -6.05303,
+    35.41017
+],
+  "geometry": {"coordinates":[-6.05303,35.41017],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209725875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82158,30.56234,-7.82158,30.56234",
+    "geom:latitude":30.56234,
+    "geom:longitude":-7.82158,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Agadir n' Oumerhdir",
+    "gn:country_code":"MA",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561599,
+    "gn:latitude":30.56234,
+    "gn:longitude":-7.82158,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Agadir n\u2019 Oumerhdir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561599
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cd3ed05ce3c792621234700f265816cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1209725875,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209725875,
+    "wof:lastmodified":1536383823,
+    "wof:name":"Agadir n' Oumerhdir",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82158,
+    30.56234000000001,
+    -7.82158,
+    30.56234000000001
+],
+  "geometry": {"coordinates":[-7.82158,30.56234000000001],"type":"Point"}
+}

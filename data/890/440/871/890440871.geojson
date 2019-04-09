@@ -1,0 +1,78 @@
+{
+  "id": 890440871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1593,30.49661,-9.1593,30.49661",
+    "geom:latitude":30.49661,
+    "geom:longitude":-9.1593,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":12074,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0628\u0648\u0645\u0648\u0633\u0649"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Moussa Lhamri"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Moussa Lhamri (CR)",
+        "Sidi Moussa Lhamri (Commune Rurale)"
+    ],
+    "qs:name":"Sidi Moussa Lhamri",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545456,
+        "qs:id":628604,
+        "wd:id":"Q7508798",
+        "wk:page":"Sidi Moussa Lhamri"
+    },
+    "wof:country":"MA",
+    "wof:created":1469052300,
+    "wof:geomhash":"0b02dbf175ac52b9b19caedf3b71c84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "localadmin_id":890440871,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":890440871,
+    "wof:lastmodified":1527727108,
+    "wof:name":"Sidi Moussa Lhamri",
+    "wof:parent_id":890445395,
+    "wof:placetype":"localadmin",
+    "wof:population":12074,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1593,
+    30.49661,
+    -9.1593,
+    30.49661
+],
+  "geometry": {"coordinates":[-9.1593,30.49661],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209315813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.07614,34.17781,-5.07614,34.17781",
+    "geom:latitude":34.17781,
+    "geom:longitude":-5.07614,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Bou Ramdanat",
+    "gn:country_code":"MA",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025455,
+    "gn:latitude":34.17781,
+    "gn:longitude":-5.07614,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bou Ramdanat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025455
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f80cb6e88146eefdd5dd5102a554bc7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209315813
+        }
+    ],
+    "wof:id":1209315813,
+    "wof:lastmodified":1536290869,
+    "wof:name":"Douar Bou Ramdanat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0761400000000005,
+    34.17781,
+    -5.0761400000000005,
+    34.17781
+],
+  "geometry": {"coordinates":[-5.07614,34.17781],"type":"Point"}
+}

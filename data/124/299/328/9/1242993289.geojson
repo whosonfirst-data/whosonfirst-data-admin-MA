@@ -1,0 +1,67 @@
+{
+  "id": 1242993289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88443,32.24654,-8.88443,32.24654",
+    "geom:latitude":32.24654,
+    "geom:longitude":-8.88443,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Leqraqra",
+    "gn:country_code":"MA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637718,
+    "gn:latitude":32.24654,
+    "gn:longitude":-8.88443,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Leqraqra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637718
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f8b0906a27e526ea67948a06f930c760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1242993289,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1242993289,
+    "wof:lastmodified":1536961796,
+    "wof:name":"Douar Leqraqra",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88443,
+    32.24654,
+    -8.88443,
+    32.24654
+],
+  "geometry": {"coordinates":[-8.88443,32.24654],"type":"Point"}
+}

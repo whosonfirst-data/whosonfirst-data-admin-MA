@@ -1,0 +1,67 @@
+{
+  "id": 1259696989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.91071,35.15808,-4.91071,35.15808",
+    "geom:latitude":35.15808,
+    "geom:longitude":-4.91071,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ain Hjar",
+    "gn:country_code":"MA",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999044,
+    "gn:latitude":35.15808,
+    "gn:longitude":-4.91071,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ain Hjar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999044
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8a9d8a1a15b5ee457f163b909b721b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1259696989,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1259696989,
+    "wof:lastmodified":1537045610,
+    "wof:name":"Ain Hjar",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.91071,
+    35.15808,
+    -4.91071,
+    35.15808
+],
+  "geometry": {"coordinates":[-4.91071,35.15808],"type":"Point"}
+}

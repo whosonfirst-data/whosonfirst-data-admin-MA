@@ -1,0 +1,88 @@
+{
+  "id": 1125300005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.89337,35.26992,-4.89337,35.26992",
+    "geom:latitude":35.26992,
+    "geom:longitude":-4.89337,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15254,
+    "gn:population":16568,
+    "iso:country":"MA",
+    "lbl:latitude":35.26992,
+    "lbl:longitude":-4.89337,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0631\u064a\u0643\u0634\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Bni Bouzra"
+    ],
+    "name:fra_x_variant":[
+        "Bni Bouzra (CR)",
+        "Bni Bouzra (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6547021,
+    "qs_pg:gn_pop":15254,
+    "qs_pg:name":"Bni Bouzra",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":630101,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547021,
+        "qs_pg:id":630101
+    },
+    "wof:country":"MA",
+    "wof:created":1497043370,
+    "wof:geomhash":"9f2f10b34faa9e1b71bddb10b3f0035a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "localadmin_id":1125300005,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1125300005,
+    "wof:lastmodified":1509387692,
+    "wof:name":"Bni Bouzra",
+    "wof:parent_id":890453883,
+    "wof:placetype":"localadmin",
+    "wof:population":16568,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.89337,
+    35.26992,
+    -4.89337,
+    35.26992
+],
+  "geometry": {"coordinates":[-4.89337,35.26992],"type":"Point"}
+}

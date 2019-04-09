@@ -1,0 +1,70 @@
+{
+  "id": 1242787973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.87243,34.45638,-5.87243,34.45638",
+    "geom:latitude":34.45638,
+    "geom:longitude":-5.87243,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Oulad Jezouli",
+    "gn:country_code":"MA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539666,
+    "gn:latitude":34.45638,
+    "gn:longitude":-5.87243,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Jezouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Jezouli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539666
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d7e986189a572dade90b61d6c12f3f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1242787973,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1242787973,
+    "wof:lastmodified":1537663583,
+    "wof:name":"Douar Oulad Jezouli",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.87243,
+    34.45638,
+    -5.87243,
+    34.45638
+],
+  "geometry": {"coordinates":[-5.87243,34.45638],"type":"Point"}
+}

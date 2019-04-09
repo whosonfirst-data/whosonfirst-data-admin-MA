@@ -1,0 +1,72 @@
+{
+  "id": 1276350725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.86661,34.79089,-1.86661,34.79089",
+    "geom:latitude":34.79089,
+    "geom:longitude":-1.86661,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Lagnafda",
+    "gn:country_code":"MA",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550362,
+    "gn:latitude":34.79089,
+    "gn:longitude":-1.86661,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Lagnafda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Guenafda",
+        "El Guenafda",
+        "Douar Lagnafda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        890453895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550362
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"183c84721d4970e0197ddf72824e74f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453895,
+            "locality_id":1276350725,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1276350725,
+    "wof:lastmodified":1537663877,
+    "wof:name":"Douar Lagnafda",
+    "wof:parent_id":890453895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.86661,
+    34.79089,
+    -1.86661,
+    34.79089
+],
+  "geometry": {"coordinates":[-1.86661,34.79089],"type":"Point"}
+}

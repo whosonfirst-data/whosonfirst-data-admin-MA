@@ -1,0 +1,67 @@
+{
+  "id": 1276212517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19036,32.53821,-9.19036,32.53821",
+    "geom:latitude":32.53821,
+    "geom:longitude":-9.19036,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bounagat",
+    "gn:country_code":"MA",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10461436,
+    "gn:latitude":32.53821,
+    "gn:longitude":-9.19036,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bounagat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10461436
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a02b8fafd8e238efd4bd99ae4831b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1276212517,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1276212517,
+    "wof:lastmodified":1536941639,
+    "wof:name":"Bounagat",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19036,
+    32.53821,
+    -9.19036,
+    32.53821
+],
+  "geometry": {"coordinates":[-9.19036,32.53821],"type":"Point"}
+}

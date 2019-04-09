@@ -1,0 +1,67 @@
+{
+  "id": 1309701475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31427,29.58014,-9.31427,29.58014",
+    "geom:latitude":29.58014,
+    "geom:longitude":-9.31427,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ighaln",
+    "gn:country_code":"MA",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11130001,
+    "gn:latitude":29.58014,
+    "gn:longitude":-9.31427,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ighaln",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11130001
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b72d2b70275fe2467d5d67436a210f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1309701475,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309701475,
+    "wof:lastmodified":1537078426,
+    "wof:name":"Ighaln",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31427,
+    29.58014,
+    -9.31427,
+    29.58014
+],
+  "geometry": {"coordinates":[-9.31427,29.58014],"type":"Point"}
+}

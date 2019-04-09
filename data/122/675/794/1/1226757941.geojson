@@ -1,0 +1,67 @@
+{
+  "id": 1226757941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.54486,35.62869,-5.54486,35.62869",
+    "geom:latitude":35.62869,
+    "geom:longitude":-5.54486,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hansis",
+    "gn:country_code":"MA",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547923,
+    "gn:latitude":35.62869,
+    "gn:longitude":-5.54486,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Hansis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547923
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f01fba866e095da4f6e0922734a74436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1226757941,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1226757941,
+    "wof:lastmodified":1536698156,
+    "wof:name":"Hansis",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.54486,
+    35.62869,
+    -5.54486,
+    35.62869
+],
+  "geometry": {"coordinates":[-5.54486,35.62869],"type":"Point"}
+}

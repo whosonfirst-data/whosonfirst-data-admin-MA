@@ -1,0 +1,78 @@
+{
+  "id": 890420367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.76871,34.23703,-4.76871,34.23703",
+    "geom:latitude":34.23703,
+    "geom:longitude":-4.76871,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":9983,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0645\u0631\u064a\u062c\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Oued Jemaa"
+    ],
+    "name:fra_x_variant":[
+        "Oued Jemaa (CR)",
+        "Oued Jemaa (Commune Rurale)"
+    ],
+    "qs:name":"Oued Jemaa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547016,
+        "qs:id":630096,
+        "wd:id":"Q12250433",
+        "wk:page":"Oued Jemaa"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051334,
+    "wof:geomhash":"1ea4d30cb8f8819753d34ebadd117b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "localadmin_id":890420367,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":890420367,
+    "wof:lastmodified":1527792810,
+    "wof:name":"Oued Jemaa",
+    "wof:parent_id":890418103,
+    "wof:placetype":"localadmin",
+    "wof:population":9983,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.76871,
+    34.23703,
+    -4.76871,
+    34.23703
+],
+  "geometry": {"coordinates":[-4.76871,34.23703],"type":"Point"}
+}

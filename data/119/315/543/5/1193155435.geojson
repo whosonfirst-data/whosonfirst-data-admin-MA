@@ -1,0 +1,67 @@
+{
+  "id": 1193155435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.79785,31.99262,-5.79785,31.99262",
+    "geom:latitude":31.99262,
+    "geom:longitude":-5.79785,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tizraz",
+    "gn:country_code":"MA",
+    "gn:dem":2295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596222,
+    "gn:latitude":31.99262,
+    "gn:longitude":-5.79785,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Tizraz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596222
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"925ba7358384de4b9b04a7a0c0fb9838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784795,
+            "locality_id":1193155435,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1193155435,
+    "wof:lastmodified":1536373741,
+    "wof:name":"Tizraz",
+    "wof:parent_id":1108784795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.79785,
+    31.99262,
+    -5.79785,
+    31.99262
+],
+  "geometry": {"coordinates":[-5.79785,31.99262],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343566225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1164,34.99376,-6.1164,34.99376",
+    "geom:latitude":34.99376,
+    "geom:longitude":-6.1164,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dyar Lamjadba",
+    "gn:country_code":"MA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969412,
+    "gn:latitude":34.99376,
+    "gn:longitude":-6.1164,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dyar Lamjadba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890427533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969412
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0455ec5a3c68f474650bb5305c49b73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":1343566225,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1343566225,
+    "wof:lastmodified":1537087894,
+    "wof:name":"Dyar Lamjadba",
+    "wof:parent_id":890427533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1164,
+    34.99375999999999,
+    -6.1164,
+    34.99375999999999
+],
+  "geometry": {"coordinates":[-6.1164,34.99375999999999],"type":"Point"}
+}

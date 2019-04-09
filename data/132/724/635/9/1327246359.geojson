@@ -1,0 +1,67 @@
+{
+  "id": 1327246359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18666,35.28359,-5.18666,35.28359",
+    "geom:latitude":35.28359,
+    "geom:longitude":-5.18666,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Honoulo",
+    "gn:country_code":"MA",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2547664,
+    "gn:latitude":35.28359,
+    "gn:longitude":-5.18666,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Honoulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2547664
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"57f212fc6e303919db9983e53ff732b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1327246359,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327246359,
+    "wof:lastmodified":1536949576,
+    "wof:name":"Honoulo",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18666,
+    35.28359000000001,
+    -5.18666,
+    35.28359000000001
+],
+  "geometry": {"coordinates":[-5.18666,35.28359000000001],"type":"Point"}
+}

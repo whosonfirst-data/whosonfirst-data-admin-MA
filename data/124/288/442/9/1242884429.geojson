@@ -1,0 +1,67 @@
+{
+  "id": 1242884429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.95172,29.21441,-9.95172,29.21441",
+    "geom:latitude":29.21441,
+    "geom:longitude":-9.95172,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bousemel",
+    "gn:country_code":"MA",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554030,
+    "gn:latitude":29.21441,
+    "gn:longitude":-9.95172,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bousemel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554030
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bade47404bf181f8011b7b917b6537ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1242884429,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242884429,
+    "wof:lastmodified":1536619504,
+    "wof:name":"Bousemel",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.95172,
+    29.21441,
+    -9.95172,
+    29.21441
+],
+  "geometry": {"coordinates":[-9.95172,29.21441],"type":"Point"}
+}

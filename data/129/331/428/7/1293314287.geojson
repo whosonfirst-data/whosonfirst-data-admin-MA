@@ -1,0 +1,67 @@
+{
+  "id": 1293314287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.72179,32.80549,-7.72179,32.80549",
+    "geom:latitude":32.80549,
+    "geom:longitude":-7.72179,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rhahla",
+    "gn:country_code":"MA",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433949,
+    "gn:latitude":32.80549,
+    "gn:longitude":-7.72179,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Rhahla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        1108784833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433949
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8f57e8b2bf626117fbbdb1d5d1789b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":1293314287,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1293314287,
+    "wof:lastmodified":1537035256,
+    "wof:name":"Rhahla",
+    "wof:parent_id":1108784833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.72179,
+    32.80549,
+    -7.72179,
+    32.80549
+],
+  "geometry": {"coordinates":[-7.72179,32.80549],"type":"Point"}
+}

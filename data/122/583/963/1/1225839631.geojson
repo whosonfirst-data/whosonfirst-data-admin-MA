@@ -1,0 +1,67 @@
+{
+  "id": 1225839631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.00068,33.49724,-7.00068,33.49724",
+    "geom:latitude":33.49724,
+    "geom:longitude":-7.00068,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Chouaouet",
+    "gn:country_code":"MA",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10939684,
+    "gn:latitude":33.49724,
+    "gn:longitude":-7.00068,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Chouaouet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890436421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10939684
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b1801cc1e20697f7a0e7089357668f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":1225839631,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1225839631,
+    "wof:lastmodified":1537021571,
+    "wof:name":"Douar Chouaouet",
+    "wof:parent_id":890436421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.00068,
+    33.49724000000001,
+    -7.00068,
+    33.49724000000001
+],
+  "geometry": {"coordinates":[-7.00068,33.49724000000001],"type":"Point"}
+}

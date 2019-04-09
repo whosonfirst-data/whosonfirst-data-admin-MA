@@ -1,0 +1,61 @@
+{
+  "id": 1209421315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.30539,34.19288,-4.30539,34.19288",
+    "geom:latitude":34.19288,
+    "geom:longitude":-4.30539,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Laaras",
+    "gn:country_code":"MA",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10998013,
+    "gn:latitude":34.19288,
+    "gn:longitude":-4.30539,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laaras",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10998013
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e71df4fd7ce507a2c507fb7d859a00db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209421315
+        }
+    ],
+    "wof:id":1209421315,
+    "wof:lastmodified":1536287522,
+    "wof:name":"Douar Laaras",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.30539,
+    34.19288,
+    -4.30539,
+    34.19288
+],
+  "geometry": {"coordinates":[-4.30539,34.19288],"type":"Point"}
+}

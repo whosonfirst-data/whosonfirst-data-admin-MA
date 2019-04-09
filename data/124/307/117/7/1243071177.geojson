@@ -1,0 +1,67 @@
+{
+  "id": 1243071177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.82808,35.25379,-5.82808,35.25379",
+    "geom:latitude":35.25379,
+    "geom:longitude":-5.82808,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Azriba",
+    "gn:country_code":"MA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10998186,
+    "gn:latitude":35.25379,
+    "gn:longitude":-5.82808,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Azriba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890422513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10998186
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"477cf5d8f305e99499812b4095480644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":1243071177,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1243071177,
+    "wof:lastmodified":1536848380,
+    "wof:name":"Azriba",
+    "wof:parent_id":890422513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.82808,
+    35.25379,
+    -5.82808,
+    35.25379
+],
+  "geometry": {"coordinates":[-5.82808,35.25379],"type":"Point"}
+}

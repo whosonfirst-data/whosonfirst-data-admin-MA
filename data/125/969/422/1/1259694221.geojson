@@ -1,0 +1,72 @@
+{
+  "id": 1259694221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0991,30.66551,-9.0991,30.66551",
+    "geom:latitude":30.66551,
+    "geom:longitude":-9.0991,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Loummih",
+    "gn:country_code":"MA",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543313,
+    "gn:latitude":30.66551,
+    "gn:longitude":-9.0991,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Loummih",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loumih",
+        "Lemoui",
+        "Loummih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543313
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"286fbfd5d3a42d185a70693b3d0420f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1259694221,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1259694221,
+    "wof:lastmodified":1537663670,
+    "wof:name":"Loummih",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0991,
+    30.66551,
+    -9.0991,
+    30.66551
+],
+  "geometry": {"coordinates":[-9.0991,30.66551],"type":"Point"}
+}

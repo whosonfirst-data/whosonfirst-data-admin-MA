@@ -1,0 +1,73 @@
+{
+  "id": 1326740773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.24124,31.15208,-9.24124,31.15208",
+    "geom:latitude":31.15208,
+    "geom:longitude":-9.24124,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tizemlaline",
+    "gn:country_code":"MA",
+    "gn:dem":1278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527235,
+    "gn:latitude":31.15208,
+    "gn:longitude":-9.24124,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tizemlaline",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouia Tizemlaline",
+        "Tiznabaline",
+        "Zaou\u00efa Tizemlalne",
+        "Tizemlaline"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2527235
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"07cb00ac5b5d313914f3750e69f3003b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1326740773,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1326740773,
+    "wof:lastmodified":1537663348,
+    "wof:name":"Tizemlaline",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24124,
+    31.15208,
+    -9.24124,
+    31.15208
+],
+  "geometry": {"coordinates":[-9.24124,31.15208],"type":"Point"}
+}

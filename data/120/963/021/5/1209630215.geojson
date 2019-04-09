@@ -1,0 +1,67 @@
+{
+  "id": 1209630215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5418,34.17374,-5.5418,34.17374",
+    "geom:latitude":34.17374,
+    "geom:longitude":-5.5418,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Loukrimat",
+    "gn:country_code":"MA",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549785,
+    "gn:latitude":34.17374,
+    "gn:longitude":-5.5418,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Loukrimat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kreimet",
+        "Al Kourimet",
+        "El Kourimet",
+        "Douar Loukrimat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549785
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5c5e60d4ae6c896b9149f9726a06e893",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209630215
+        }
+    ],
+    "wof:id":1209630215,
+    "wof:lastmodified":1537663850,
+    "wof:name":"Douar Loukrimat",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5418,
+    34.17374,
+    -5.5418,
+    34.17374
+],
+  "geometry": {"coordinates":[-5.5418,34.17374],"type":"Point"}
+}

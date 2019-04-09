@@ -1,0 +1,71 @@
+{
+  "id": 1326745259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05964,31.1898,-5.05964,31.1898",
+    "geom:latitude":31.1898,
+    "geom:longitude":-5.05964,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taghoucht n'Imelouane",
+    "gn:country_code":"MA",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596316,
+    "gn:latitude":31.1898,
+    "gn:longitude":-5.05964,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Taghoucht n\u2019Imelouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarhoucht n\u2019Imelouane",
+        "Taghoucht n\u2019Imelouane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596316
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ea6631a448f65230e17badf364e0e106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":1326745259,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1326745259,
+    "wof:lastmodified":1537664286,
+    "wof:name":"Taghoucht n'Imelouane",
+    "wof:parent_id":1108784839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05964,
+    31.1898,
+    -5.05964,
+    31.1898
+],
+  "geometry": {"coordinates":[-5.05964,31.1898],"type":"Point"}
+}

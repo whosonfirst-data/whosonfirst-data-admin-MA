@@ -1,0 +1,71 @@
+{
+  "id": 1327149357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18582,35.22852,-5.18582,35.22852",
+    "geom:latitude":35.22852,
+    "geom:longitude":-5.18582,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ouslaf",
+    "gn:country_code":"MA",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550974,
+    "gn:latitude":35.22852,
+    "gn:longitude":-5.18582,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouslaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duslaf",
+        "Ouslaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550974
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f177df4bc8d0f7d47c14665834165fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1327149357,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1327149357,
+    "wof:lastmodified":1537663908,
+    "wof:name":"Ouslaf",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18582,
+    35.22852,
+    -5.18582,
+    35.22852
+],
+  "geometry": {"coordinates":[-5.18582,35.22852],"type":"Point"}
+}

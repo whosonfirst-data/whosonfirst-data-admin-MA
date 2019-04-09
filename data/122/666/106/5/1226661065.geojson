@@ -1,0 +1,71 @@
+{
+  "id": 1226661065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.02958,32.68713,-4.02958,32.68713",
+    "geom:latitude":32.68713,
+    "geom:longitude":-4.02958,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tagourast",
+    "gn:country_code":"MA",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531610,
+    "gn:latitude":32.68713,
+    "gn:longitude":-4.02958,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagourast",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafoudast",
+        "Tagourast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531610
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"40023c240a45d93d4afed2caa4c0b0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1226661065,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1226661065,
+    "wof:lastmodified":1537663470,
+    "wof:name":"Tagourast",
+    "wof:parent_id":890436419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.02958,
+    32.68713,
+    -4.02958,
+    32.68713
+],
+  "geometry": {"coordinates":[-4.02958,32.68713],"type":"Point"}
+}

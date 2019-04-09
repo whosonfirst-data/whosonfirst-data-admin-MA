@@ -1,0 +1,67 @@
+{
+  "id": 1225863307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.08,29.15,-10.08,29.15",
+    "geom:latitude":29.15,
+    "geom:longitude":-10.08,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Muguin",
+    "gn:country_code":"MA",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541544,
+    "gn:latitude":29.15,
+    "gn:longitude":-10.08,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Muguin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541544
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4f642c76745c4c397f95413507057e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":1225863307,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1225863307,
+    "wof:lastmodified":1536987549,
+    "wof:name":"Muguin",
+    "wof:parent_id":1108784841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.08,
+    29.15,
+    -10.08,
+    29.15
+],
+  "geometry": {"coordinates":[-10.08,29.15],"type":"Point"}
+}

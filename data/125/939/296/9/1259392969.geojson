@@ -1,0 +1,73 @@
+{
+  "id": 1259392969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.10253,33.84023,-5.10253,33.84023",
+    "geom:latitude":33.84023,
+    "geom:longitude":-5.10253,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ait Brahim",
+    "gn:country_code":"MA",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2552131,
+    "gn:latitude":33.84023,
+    "gn:longitude":-5.10253,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ait Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasba Brahim",
+        "Dar A\u00eft Brahim",
+        "Douar A\u00eft Brahim",
+        "Ait Brahim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        1108784789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2552131
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6747bdeaa165a9594680f7a1ccab3a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784789,
+            "locality_id":1259392969,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1259392969,
+    "wof:lastmodified":1537663991,
+    "wof:name":"Ait Brahim",
+    "wof:parent_id":1108784789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.10253,
+    33.84023,
+    -5.10253,
+    33.84023
+],
+  "geometry": {"coordinates":[-5.10253,33.84023],"type":"Point"}
+}

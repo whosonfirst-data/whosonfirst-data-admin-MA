@@ -1,0 +1,72 @@
+{
+  "id": 1225962725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.33107,31.70511,-6.33107,31.70511",
+    "geom:latitude":31.70511,
+    "geom:longitude":-6.33107,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ighirine",
+    "gn:country_code":"MA",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546813,
+    "gn:latitude":31.70511,
+    "gn:longitude":-6.33107,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ighirine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ighirne",
+        "Irhirine",
+        "Ighirine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546813
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a159b36b91ce5456b053afe43a246046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1225962725,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1225962725,
+    "wof:lastmodified":1537663768,
+    "wof:name":"Ighirine",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.33107,
+    31.70511,
+    -6.33107,
+    31.70511
+],
+  "geometry": {"coordinates":[-6.33107,31.70511],"type":"Point"}
+}

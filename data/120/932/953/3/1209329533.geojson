@@ -1,0 +1,67 @@
+{
+  "id": 1209329533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.97281,29.55562,-9.97281,29.55562",
+    "geom:latitude":29.55562,
+    "geom:longitude":-9.97281,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Douar Bou Zeger",
+    "gn:country_code":"MA",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554584,
+    "gn:latitude":29.55562,
+    "gn:longitude":-9.97281,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bou Zeger",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouzgar",
+        "Bou Izguer",
+        "Bou Izguir",
+        "Douar Bou Zeger"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554584
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"09d43fa2c4a45c023cae7adcd3283bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209329533
+        }
+    ],
+    "wof:id":1209329533,
+    "wof:lastmodified":1537664052,
+    "wof:name":"Douar Bou Zeger",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.97281,
+    29.55562,
+    -9.97281,
+    29.55562
+],
+  "geometry": {"coordinates":[-9.97281,29.55562],"type":"Point"}
+}

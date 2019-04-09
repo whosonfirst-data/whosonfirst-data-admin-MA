@@ -1,0 +1,74 @@
+{
+  "id": 1309813891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.56629,30.61813,-6.56629,30.61813",
+    "geom:latitude":30.61813,
+    "geom:longitude":-6.56629,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zawat Awnas",
+    "gn:country_code":"MA",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526391,
+    "gn:latitude":30.61813,
+    "gn:longitude":-6.56629,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zawat Awnas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aynas",
+        "Zawyat Aynas",
+        "Zaouia A\u00efnass",
+        "Zaouiat A\u00efnas",
+        "Zawat Awnas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890424149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526391
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ad119cb4e2970ccc1813d43edfe7cdac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424149,
+            "locality_id":1309813891,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1309813891,
+    "wof:lastmodified":1537663328,
+    "wof:name":"Zawat Awnas",
+    "wof:parent_id":890424149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.56629,
+    30.61813,
+    -6.56629,
+    30.61813
+],
+  "geometry": {"coordinates":[-6.56629,30.61813],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209099523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63751,31.37437,-7.63751,31.37437",
+    "geom:latitude":31.37437,
+    "geom:longitude":-7.63751,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Agard",
+    "gn:country_code":"MA",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353569,
+    "gn:latitude":31.37437,
+    "gn:longitude":-7.63751,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Agard",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353569
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"37a0d6f56aa33f2516f10e8a0cf0aa6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209099523
+        }
+    ],
+    "wof:id":1209099523,
+    "wof:lastmodified":1536297779,
+    "wof:name":"Agard",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.637510000000002,
+    31.374370000000006,
+    -7.637510000000002,
+    31.374370000000006
+],
+  "geometry": {"coordinates":[-7.63751,31.37437000000001],"type":"Point"}
+}

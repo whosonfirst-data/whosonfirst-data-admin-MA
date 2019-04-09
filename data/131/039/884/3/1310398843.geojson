@@ -1,0 +1,67 @@
+{
+  "id": 1310398843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18736,31.70287,-7.18736,31.70287",
+    "geom:latitude":31.70287,
+    "geom:longitude":-7.18736,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Benaouch",
+    "gn:country_code":"MA",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354713,
+    "gn:latitude":31.70287,
+    "gn:longitude":-7.18736,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ait Benaouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        1108784827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354713
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b001078d1a35b9bdc4f80addc22dfb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":1310398843,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1310398843,
+    "wof:lastmodified":1537067908,
+    "wof:name":"Ait Benaouch",
+    "wof:parent_id":1108784827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18736,
+    31.70287,
+    -7.18736,
+    31.70287
+],
+  "geometry": {"coordinates":[-7.18736,31.70287],"type":"Point"}
+}

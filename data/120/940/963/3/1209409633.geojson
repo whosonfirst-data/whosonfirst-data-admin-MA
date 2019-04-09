@@ -1,0 +1,61 @@
+{
+  "id": 1209409633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.79317,32.86826,-7.79317,32.86826",
+    "geom:latitude":32.86826,
+    "geom:longitude":-7.79317,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad el Fkira",
+    "gn:country_code":"MA",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11368813,
+    "gn:latitude":32.86826,
+    "gn:longitude":-7.79317,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad el Fkira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11368813
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c7b27ed97de294b366dea2a7974661eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209409633
+        }
+    ],
+    "wof:id":1209409633,
+    "wof:lastmodified":1536287881,
+    "wof:name":"Oulad el Fkira",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.79317,
+    32.86826,
+    -7.79317,
+    32.86826
+],
+  "geometry": {"coordinates":[-7.79317,32.86826],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209730507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.04323,30.21357,-9.04323,30.21357",
+    "geom:latitude":30.21357,
+    "geom:longitude":-9.04323,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Iml Ougadir",
+    "gn:country_code":"MA",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546097,
+    "gn:latitude":30.21357,
+    "gn:longitude":-9.04323,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Iml Ougadir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Augader",
+        "Imi Ougadir",
+        "Iml Ougadir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546097
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3dbf019e61953be0bfb8d3fa1001f7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1209730507,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1209730507,
+    "wof:lastmodified":1537663744,
+    "wof:name":"Iml Ougadir",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.04323,
+    30.21357,
+    -9.04323,
+    30.21357
+],
+  "geometry": {"coordinates":[-9.04323,30.21357],"type":"Point"}
+}

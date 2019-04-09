@@ -1,0 +1,70 @@
+{
+  "id": 1260197925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.85651,30.1146,-8.85651,30.1146",
+    "geom:latitude":30.1146,
+    "geom:longitude":-8.85651,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Walmou",
+    "gn:country_code":"MA",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541059,
+    "gn:latitude":30.1146,
+    "gn:longitude":-8.85651,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Walmou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oualmou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2541059
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3a24dcf76199fdea99c56c30380284a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1260197925,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1260197925,
+    "wof:lastmodified":1537663632,
+    "wof:name":"Walmou",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.85651,
+    30.1146,
+    -8.85651,
+    30.1146
+],
+  "geometry": {"coordinates":[-8.85651,30.1146],"type":"Point"}
+}

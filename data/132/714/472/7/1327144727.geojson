@@ -1,0 +1,67 @@
+{
+  "id": 1327144727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61454,30.02506,-8.61454,30.02506",
+    "geom:latitude":30.02506,
+    "geom:longitude":-8.61454,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tagragra",
+    "gn:country_code":"MA",
+    "gn:dem":1750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531589,
+    "gn:latitude":30.02506,
+    "gn:longitude":-8.61454,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tagragra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2531589
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7eee1abc72774c7e40fd4892eea35a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1327144727,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327144727,
+    "wof:lastmodified":1537092856,
+    "wof:name":"Tagragra",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61454,
+    30.02506,
+    -8.61454,
+    30.02506
+],
+  "geometry": {"coordinates":[-8.61454,30.02506],"type":"Point"}
+}

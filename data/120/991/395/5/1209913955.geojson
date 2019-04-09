@@ -1,0 +1,67 @@
+{
+  "id": 1209913955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.02119,34.53622,-6.02119,34.53622",
+    "geom:latitude":34.53622,
+    "geom:longitude":-6.02119,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Abdellah",
+    "gn:country_code":"MA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10937786,
+    "gn:latitude":34.53622,
+    "gn:longitude":-6.02119,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Abdellah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10937786
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"957609c5e57459b48cecc57057a322c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1209913955,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1209913955,
+    "wof:lastmodified":1536375761,
+    "wof:name":"Oulad Abdellah",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.02119,
+    34.53622,
+    -6.02119,
+    34.53622
+],
+  "geometry": {"coordinates":[-6.02119,34.53622],"type":"Point"}
+}

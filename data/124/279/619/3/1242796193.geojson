@@ -1,0 +1,73 @@
+{
+  "id": 1242796193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.05819,34.45477,-6.05819,34.45477",
+    "geom:latitude":34.45477,
+    "geom:longitude":-6.05819,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oulad al 'Arbi",
+    "gn:country_code":"MA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539728,
+    "gn:latitude":34.45477,
+    "gn:longitude":-6.05819,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad al \u2019Arbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Harbi",
+        "Douar Ouled Harbi",
+        "Ouled Larbi",
+        "Oulad al \u2019Arbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        890429091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539728
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"faf753965e05f2671573493e99e26531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429091,
+            "locality_id":1242796193,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1242796193,
+    "wof:lastmodified":1537663586,
+    "wof:name":"Oulad al 'Arbi",
+    "wof:parent_id":890429091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.05819,
+    34.45477,
+    -6.05819,
+    34.45477
+],
+  "geometry": {"coordinates":[-6.05819,34.45477],"type":"Point"}
+}

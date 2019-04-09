@@ -1,0 +1,67 @@
+{
+  "id": 1276327387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.30917,31.46183,-7.30917,31.46183",
+    "geom:latitude":31.46183,
+    "geom:longitude":-7.30917,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mdast",
+    "gn:country_code":"MA",
+    "gn:dem":1431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11354108,
+    "gn:latitude":31.46183,
+    "gn:longitude":-7.30917,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Mdast",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11354108
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d1dccf67792aba3523433c0e1bf9828b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1276327387,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276327387,
+    "wof:lastmodified":1536787085,
+    "wof:name":"Mdast",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.30917,
+    31.46183,
+    -7.30917,
+    31.46183
+],
+  "geometry": {"coordinates":[-7.30917,31.46183],"type":"Point"}
+}

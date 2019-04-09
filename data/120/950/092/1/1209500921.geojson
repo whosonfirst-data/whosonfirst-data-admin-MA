@@ -1,0 +1,61 @@
+{
+  "id": 1209500921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.95111,32.03027,-8.95111,32.03027",
+    "geom:latitude":32.03027,
+    "geom:longitude":-8.95111,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad El Maati",
+    "gn:country_code":"MA",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636859,
+    "gn:latitude":32.03027,
+    "gn:longitude":-8.95111,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Oulad El Maati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636859
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9d49ed6af26b481c207a0a1fbacd5aa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209500921
+        }
+    ],
+    "wof:id":1209500921,
+    "wof:lastmodified":1536285186,
+    "wof:name":"Douar Oulad El Maati",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95111,
+    32.03027,
+    -8.95111,
+    32.03027
+],
+  "geometry": {"coordinates":[-8.95111,32.03027],"type":"Point"}
+}

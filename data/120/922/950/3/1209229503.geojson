@@ -1,0 +1,66 @@
+{
+  "id": 1209229503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.00758,35.17157,-6.00758,35.17157",
+    "geom:latitude":35.17157,
+    "geom:longitude":-6.00758,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Oulad Masbah",
+    "gn:country_code":"MA",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539555,
+    "gn:latitude":35.17157,
+    "gn:longitude":-6.00758,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Masbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Merah",
+        "Oulad Mesbah",
+        "Douar Oulad Masbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2539555
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c1b5ea693ca429850eb4af92d9e330a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209229503
+        }
+    ],
+    "wof:id":1209229503,
+    "wof:lastmodified":1537663576,
+    "wof:name":"Douar Oulad Masbah",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.00758,
+    35.17157,
+    -6.00758,
+    35.17157
+],
+  "geometry": {"coordinates":[-6.00758,35.17157],"type":"Point"}
+}

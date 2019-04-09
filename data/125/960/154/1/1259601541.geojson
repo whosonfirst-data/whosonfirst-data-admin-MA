@@ -1,0 +1,71 @@
+{
+  "id": 1259601541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06049,32.70564,-9.06049,32.70564",
+    "geom:latitude":32.70564,
+    "geom:longitude":-9.06049,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kasbet Aier",
+    "gn:country_code":"MA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544710,
+    "gn:latitude":32.70564,
+    "gn:longitude":-9.06049,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kasbet A\u00efer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souk Eyr",
+        "Kasbet A\u00efer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544710
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ca529d1d616ed5ab76e5fc9421b64e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1259601541,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1259601541,
+    "wof:lastmodified":1537663699,
+    "wof:name":"Kasbet Aier",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06049,
+    32.70564,
+    -9.06049,
+    32.70564
+],
+  "geometry": {"coordinates":[-9.06049,32.70564],"type":"Point"}
+}

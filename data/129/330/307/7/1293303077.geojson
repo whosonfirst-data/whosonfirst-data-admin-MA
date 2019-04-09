@@ -1,0 +1,73 @@
+{
+  "id": 1293303077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9424,35.57873,-5.9424,35.57873",
+    "geom:latitude":35.57873,
+    "geom:longitude":-5.9424,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ain Ben Amar",
+    "gn:country_code":"MA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560923,
+    "gn:latitude":35.57873,
+    "gn:longitude":-5.9424,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ain Ben Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madissa A\u00efn Ben Ahmar",
+        "A\u00efn Ben Amar",
+        "A\u00efn Ben Ammar",
+        "Ain Ben Amar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        1108784783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560923
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9327a529f2aaa25ac5e1db054ebd1a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":1293303077,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293303077,
+    "wof:lastmodified":1537664223,
+    "wof:name":"Ain Ben Amar",
+    "wof:parent_id":1108784783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9424,
+    35.57873,
+    -5.9424,
+    35.57873
+],
+  "geometry": {"coordinates":[-5.9424,35.57873],"type":"Point"}
+}

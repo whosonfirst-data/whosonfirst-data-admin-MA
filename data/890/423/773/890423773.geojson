@@ -1,0 +1,80 @@
+{
+  "id": 890423773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.57927,33.3852,-7.57927,33.3852",
+    "geom:latitude":33.3852,
+    "geom:longitude":-7.57927,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":12153,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u064a\u062e\u0644\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Nouaceur"
+    ],
+    "name:fra_x_variant":[
+        "Nouaceur (MU)",
+        "Nouaceur (Commune Urbaine)"
+    ],
+    "qs:name":"Nouaceur",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:latitude":"33.36111111",
+    "wd:longitude":"-7.61138889",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673901,
+        890424145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545638,
+        "qs:id":628780,
+        "wd:id":"Q1876685",
+        "wk:page":"Nouaceur"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051513,
+    "wof:geomhash":"d0c8145e12d6f1f82f395720bfe43925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890424145,
+            "localadmin_id":890423773,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":890423773,
+    "wof:lastmodified":1527729728,
+    "wof:name":"Nouaceur",
+    "wof:parent_id":890424145,
+    "wof:placetype":"localadmin",
+    "wof:population":12153,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.57927,
+    33.3852,
+    -7.57927,
+    33.3852
+],
+  "geometry": {"coordinates":[-7.57927,33.3852],"type":"Point"}
+}

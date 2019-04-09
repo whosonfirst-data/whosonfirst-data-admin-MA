@@ -1,0 +1,88 @@
+{
+  "id": 1125312605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36306,33.47166,-5.36306,33.47166",
+    "geom:latitude":33.47166,
+    "geom:longitude":-5.36306,
+    "gn:gn_country":"MA",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":10849,
+    "gn:population":11031,
+    "iso:country":"MA",
+    "lbl:latitude":33.47166,
+    "lbl:longitude":-5.36306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0627\u0644\u0645\u062e\u0641\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Tigrigra"
+    ],
+    "name:fra_x_variant":[
+        "Tigrigra (CR)",
+        "Tigrigra (Commune Rurale)"
+    ],
+    "qs_pg:aaroncc":"MA",
+    "qs_pg:gn_country":"MA",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6545703,
+    "qs_pg:gn_pop":10849,
+    "qs_pg:name":"Tigrigra",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":628845,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673915,
+        890429095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545703,
+        "qs_pg:id":628845
+    },
+    "wof:country":"MA",
+    "wof:created":1497044093,
+    "wof:geomhash":"4e779fae54a4663e2b7c37483e19740a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429095,
+            "localadmin_id":1125312605,
+            "region_id":85673915
+        }
+    ],
+    "wof:id":1125312605,
+    "wof:lastmodified":1509387924,
+    "wof:name":"Tigrigra",
+    "wof:parent_id":890429095,
+    "wof:placetype":"localadmin",
+    "wof:population":11031,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36306,
+    33.47166,
+    -5.36306,
+    33.47166
+],
+  "geometry": {"coordinates":[-5.36306,33.47166],"type":"Point"}
+}

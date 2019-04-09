@@ -1,0 +1,65 @@
+{
+  "id": 1209625555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.92485,31.16048,-7.92485,31.16048",
+    "geom:latitude":31.16048,
+    "geom:longitude":-7.92485,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Aguersioual",
+    "gn:country_code":"MA",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2561179,
+    "gn:latitude":31.16048,
+    "gn:longitude":-7.92485,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aguersioual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguerrioual",
+        "Aguersioual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2561179
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a75bdfb7ce277e073a0b1b087f51b984",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209625555
+        }
+    ],
+    "wof:id":1209625555,
+    "wof:lastmodified":1537664229,
+    "wof:name":"Aguersioual",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.92485,
+    31.16048,
+    -7.92485,
+    31.16048
+],
+  "geometry": {"coordinates":[-7.92485,31.16048],"type":"Point"}
+}

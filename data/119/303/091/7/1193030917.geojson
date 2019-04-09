@@ -1,0 +1,73 @@
+{
+  "id": 1193030917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.79227,35.0456,-4.79227,35.0456",
+    "geom:latitude":35.0456,
+    "geom:longitude":-4.79227,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Houmat Ihannachene",
+    "gn:country_code":"MA",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546594,
+    "gn:latitude":35.0456,
+    "gn:longitude":-4.79227,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Houmat Ihannachene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ihnassine",
+        "Ihanaxen",
+        "Ihanachene",
+        "Houmat Ihannachene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2546594
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a423f0242f6f118de8d5fce67916cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1193030917,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1193030917,
+    "wof:lastmodified":1537663761,
+    "wof:name":"Houmat Ihannachene",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.79227,
+    35.0456,
+    -4.79227,
+    35.0456
+],
+  "geometry": {"coordinates":[-4.79227,35.0456],"type":"Point"}
+}

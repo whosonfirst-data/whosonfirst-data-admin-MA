@@ -1,0 +1,67 @@
+{
+  "id": 1209425181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.60434,34.95166,-5.60434,34.95166",
+    "geom:latitude":34.95166,
+    "geom:longitude":-5.60434,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Mersala",
+    "gn:country_code":"MA",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542990,
+    "gn:latitude":34.95166,
+    "gn:longitude":-5.60434,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Mersala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Marsala",
+        "Mersala",
+        "Marsala",
+        "Douar Mersala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542990
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0288eda077f2ef5f26fa3f1164508e03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209425181
+        }
+    ],
+    "wof:id":1209425181,
+    "wof:lastmodified":1537663664,
+    "wof:name":"Douar Mersala",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.60434,
+    34.95166,
+    -5.60434,
+    34.95166
+],
+  "geometry": {"coordinates":[-5.60434,34.95166],"type":"Point"}
+}

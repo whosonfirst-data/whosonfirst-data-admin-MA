@@ -1,0 +1,61 @@
+{
+  "id": 1209518931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.39641,35.0857,-4.39641,35.0857",
+    "geom:latitude":35.0857,
+    "geom:longitude":-4.39641,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Bouyeriou",
+    "gn:country_code":"MA",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091160,
+    "gn:latitude":35.0857,
+    "gn:longitude":-4.39641,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Bouyeriou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091160
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9062b6e3562f9be79bb4194bfed5d437",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209518931
+        }
+    ],
+    "wof:id":1209518931,
+    "wof:lastmodified":1536284642,
+    "wof:name":"Douar Bouyeriou",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.39641,
+    35.0857,
+    -4.39641,
+    35.0857
+],
+  "geometry": {"coordinates":[-4.39641,35.0857],"type":"Point"}
+}

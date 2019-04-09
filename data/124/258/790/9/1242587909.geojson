@@ -1,0 +1,72 @@
+{
+  "id": 1242587909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63046,31.11654,-7.63046,31.11654",
+    "geom:latitude":31.11654,
+    "geom:longitude":-7.63046,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zaouia Sidi Ali Ou Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526287,
+    "gn:latitude":31.11654,
+    "gn:longitude":-7.63046,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zaouia Sidi Ali Ou Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouit Sidi Ali ou Ahmed",
+        "Zaouia sidi ali ohmad",
+        "Zaouia Sidi Ali Ou Ahmed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526287
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0a3d68a7cfdb5cf46876f1c9bc459251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":1242587909,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1242587909,
+    "wof:lastmodified":1537663320,
+    "wof:name":"Zaouia Sidi Ali Ou Ahmed",
+    "wof:parent_id":1108784843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63046,
+    31.11654,
+    -7.63046,
+    31.11654
+],
+  "geometry": {"coordinates":[-7.63046,31.11654],"type":"Point"}
+}

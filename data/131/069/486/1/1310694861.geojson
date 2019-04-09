@@ -1,0 +1,67 @@
+{
+  "id": 1310694861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.99784,32.03033,-8.99784,32.03033",
+    "geom:latitude":32.03033,
+    "geom:longitude":-8.99784,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Lehmidat Nagga",
+    "gn:country_code":"MA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636800,
+    "gn:latitude":32.03033,
+    "gn:longitude":-8.99784,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lehmidat Nagga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636800
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e53b29e05298e180b221cb3182c29ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":1310694861,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310694861,
+    "wof:lastmodified":1536643046,
+    "wof:name":"Douar Lehmidat Nagga",
+    "wof:parent_id":890445397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.99784,
+    32.03033,
+    -8.99784,
+    32.03033
+],
+  "geometry": {"coordinates":[-8.99784,32.03033],"type":"Point"}
+}

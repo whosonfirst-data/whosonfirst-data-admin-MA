@@ -1,0 +1,67 @@
+{
+  "id": 1360303897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91645,31.10538,-8.91645,31.10538",
+    "geom:latitude":31.10538,
+    "geom:longitude":-8.91645,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ait Irmer",
+    "gn:country_code":"MA",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559757,
+    "gn:latitude":31.10538,
+    "gn:longitude":-8.91645,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Irmer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        890440847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559757
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5dcc941dd97ef06e83d9c12db3984041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440847,
+            "locality_id":1360303897,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1360303897,
+    "wof:lastmodified":1536628238,
+    "wof:name":"Ait Irmer",
+    "wof:parent_id":890440847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91645,
+    31.10538,
+    -8.91645,
+    31.10538
+],
+  "geometry": {"coordinates":[-8.91645,31.10538],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242779203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.33661,34.31423,-5.33661,34.31423",
+    "geom:latitude":34.31423,
+    "geom:longitude":-5.33661,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Qtaben",
+    "gn:country_code":"MA",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10985137,
+    "gn:latitude":34.31423,
+    "gn:longitude":-5.33661,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Qtaben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673893,
+        890418103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10985137
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f0325152344fc6fbee24b6f03fd405c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":1242779203,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1242779203,
+    "wof:lastmodified":1536773930,
+    "wof:name":"Douar Qtaben",
+    "wof:parent_id":890418103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.33661,
+    34.31423,
+    -5.33661,
+    34.31423
+],
+  "geometry": {"coordinates":[-5.33661,34.31423],"type":"Point"}
+}

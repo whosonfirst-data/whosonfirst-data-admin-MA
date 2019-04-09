@@ -1,0 +1,70 @@
+{
+  "id": 1360004307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9418,34.26387,-5.9418,34.26387",
+    "geom:latitude":34.26387,
+    "geom:longitude":-5.9418,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douar Jebirat",
+    "gn:country_code":"MA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545131,
+    "gn:latitude":34.26387,
+    "gn:longitude":-5.9418,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Jebirat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jebirat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673897,
+        1108784809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2545131
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9a4e86f6d32e30652e5b51690e2588ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784809,
+            "locality_id":1360004307,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1360004307,
+    "wof:lastmodified":1537663714,
+    "wof:name":"Douar Jebirat",
+    "wof:parent_id":1108784809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9418,
+    34.26387,
+    -5.9418,
+    34.26387
+],
+  "geometry": {"coordinates":[-5.9418,34.26387],"type":"Point"}
+}

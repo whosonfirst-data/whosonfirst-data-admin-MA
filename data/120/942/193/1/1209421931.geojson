@@ -1,0 +1,61 @@
+{
+  "id": 1209421931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.64619,33.83653,-4.64619,33.83653",
+    "geom:latitude":33.83653,
+    "geom:longitude":-4.64619,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Lkeskas",
+    "gn:country_code":"MA",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10977662,
+    "gn:latitude":33.83653,
+    "gn:longitude":-4.64619,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Lkeskas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10977662
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"66503082a9d9349cbe690d49a8ad658a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209421931
+        }
+    ],
+    "wof:id":1209421931,
+    "wof:lastmodified":1536287502,
+    "wof:name":"Douar Lkeskas",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.64619,
+    33.83653,
+    -4.64619,
+    33.83653
+],
+  "geometry": {"coordinates":[-4.64619,33.83653],"type":"Point"}
+}

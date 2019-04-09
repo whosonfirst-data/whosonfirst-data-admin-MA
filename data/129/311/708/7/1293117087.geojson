@@ -1,0 +1,73 @@
+{
+  "id": 1293117087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.12221,34.2728,-5.12221,34.2728",
+    "geom:latitude":34.2728,
+    "geom:longitude":-5.12221,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Ahmed",
+    "gn:country_code":"MA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2540380,
+    "gn:latitude":34.2728,
+    "gn:longitude":-5.12221,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Ahmed",
+        "Oulad Hamed",
+        "Oulad Ahmed",
+        "Douar Oulad Ahmed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        1108784805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2540380
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"67e29a54004ad404b23d115610bf34dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1293117087,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1293117087,
+    "wof:lastmodified":1537663619,
+    "wof:name":"Douar Oulad Ahmed",
+    "wof:parent_id":1108784805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.12221,
+    34.2728,
+    -5.12221,
+    34.2728
+],
+  "geometry": {"coordinates":[-5.12221,34.2728],"type":"Point"}
+}

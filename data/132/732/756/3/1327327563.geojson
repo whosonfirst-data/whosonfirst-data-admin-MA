@@ -1,0 +1,67 @@
+{
+  "id": 1327327563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.00043,30.36742,-9.00043,30.36742",
+    "geom:latitude":30.36742,
+    "geom:longitude":-9.00043,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ait Bouazza",
+    "gn:country_code":"MA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131627,
+    "gn:latitude":30.36742,
+    "gn:longitude":-9.00043,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Bouazza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890445395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131627
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"5b52a2381263826e72c7af5bc63643d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":1327327563,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1327327563,
+    "wof:lastmodified":1536831237,
+    "wof:name":"Ait Bouazza",
+    "wof:parent_id":890445395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00043,
+    30.36742000000001,
+    -9.00043,
+    30.36742000000001
+],
+  "geometry": {"coordinates":[-9.00043,30.36742000000001],"type":"Point"}
+}

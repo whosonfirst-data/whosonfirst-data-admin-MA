@@ -1,0 +1,67 @@
+{
+  "id": 1209224927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.30888,35.19545,-5.30888,35.19545",
+    "geom:latitude":35.19545,
+    "geom:longitude":-5.30888,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Caotina",
+    "gn:country_code":"MA",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2553607,
+    "gn:latitude":35.19545,
+    "gn:longitude":-5.30888,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Caotina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puento Fomento",
+        "Fomento",
+        "Puente de Fomento",
+        "Caotina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2553607
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0f534d51275ad55e5b8e41d6149978f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209224927
+        }
+    ],
+    "wof:id":1209224927,
+    "wof:lastmodified":1537664038,
+    "wof:name":"Caotina",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.30888,
+    35.19545,
+    -5.30888,
+    35.19545
+],
+  "geometry": {"coordinates":[-5.30888,35.19545],"type":"Point"}
+}

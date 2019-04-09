@@ -1,0 +1,72 @@
+{
+  "id": 1226550077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77476,32.37315,-5.77476,32.37315",
+    "geom:latitude":32.37315,
+    "geom:longitude":-5.77476,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chrakt",
+    "gn:country_code":"MA",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550961,
+    "gn:latitude":32.37315,
+    "gn:longitude":-5.77476,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Chrakt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cherket",
+        "Ech Cherket",
+        "Chrakt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673919,
+        890452779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550961
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"515687ce02170769ad903c04480c11f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890452779,
+            "locality_id":1226550077,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1226550077,
+    "wof:lastmodified":1537663907,
+    "wof:name":"Chrakt",
+    "wof:parent_id":890452779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77476,
+    32.37315,
+    -5.77476,
+    32.37315
+],
+  "geometry": {"coordinates":[-5.77476,32.37315],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209124637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18128,33.05793,-7.18128,33.05793",
+    "geom:latitude":33.05793,
+    "geom:longitude":-7.18128,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sidi Dahbi",
+    "gn:country_code":"MA",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2532427,
+    "gn:latitude":33.05793,
+    "gn:longitude":-7.18128,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sidi Dahbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souk el Mellah",
+        "El Mellah",
+        "Sidi Dahbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2532427
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"0ed4033717308e250ba1d4cd0ddedd5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209124637
+        }
+    ],
+    "wof:id":1209124637,
+    "wof:lastmodified":1537663497,
+    "wof:name":"Sidi Dahbi",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18128,
+    33.05793,
+    -7.18128,
+    33.05793
+],
+  "geometry": {"coordinates":[-7.18128,33.05793],"type":"Point"}
+}

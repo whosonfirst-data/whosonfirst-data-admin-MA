@@ -1,0 +1,73 @@
+{
+  "id": 1259998007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.20633,28.84881,-10.20633,28.84881",
+    "geom:latitude":28.84881,
+    "geom:longitude":-10.20633,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Aouzeroualt",
+    "gn:country_code":"MA",
+    "gn:dem":247,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2557469,
+    "gn:latitude":28.84881,
+    "gn:longitude":-10.20633,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Aouzeroualt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aouzeroult",
+        "Aouzeroual",
+        "Aouzeroualt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        1108784815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2557469
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"9908ff1568e98d34f606abd20c344adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784815,
+            "locality_id":1259998007,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1259998007,
+    "wof:lastmodified":1537664110,
+    "wof:name":"Aouzeroualt",
+    "wof:parent_id":1108784815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.20633,
+    28.84881,
+    -10.20633,
+    28.84881
+],
+  "geometry": {"coordinates":[-10.20633,28.84881],"type":"Point"}
+}

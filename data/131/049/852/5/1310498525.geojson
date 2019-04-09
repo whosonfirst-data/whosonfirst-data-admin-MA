@@ -1,0 +1,73 @@
+{
+  "id": 1310498525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81144,32.79016,-8.81144,32.79016",
+    "geom:latitude":32.79016,
+    "geom:longitude":-8.81144,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar El Arich",
+    "gn:country_code":"MA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550658,
+    "gn:latitude":32.79016,
+    "gn:longitude":-8.81144,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar El Arich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Arrich",
+        "El Hrich",
+        "El Arich",
+        "Douar El Arich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        890445399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550658
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1f691f9d3e575c692ea5a629eb985a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":1310498525,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1310498525,
+    "wof:lastmodified":1537663892,
+    "wof:name":"Douar El Arich",
+    "wof:parent_id":890445399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81144,
+    32.79016,
+    -8.81144,
+    32.79016
+],
+  "geometry": {"coordinates":[-8.81144,32.79016],"type":"Point"}
+}

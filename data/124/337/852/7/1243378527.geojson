@@ -1,0 +1,71 @@
+{
+  "id": 1243378527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.95397,32.62416,-8.95397,32.62416",
+    "geom:latitude":32.62416,
+    "geom:longitude":-8.95397,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Douar El Azzaba",
+    "gn:country_code":"MA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550607,
+    "gn:latitude":32.62416,
+    "gn:longitude":-8.95397,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar El Azzaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Azzaba",
+        "Azib Ouasti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673937,
+        1108784819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550607
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b6924a9d6daee8fe4a40d741b86b26c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":1243378527,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1243378527,
+    "wof:lastmodified":1537663890,
+    "wof:name":"Douar El Azzaba",
+    "wof:parent_id":1108784819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95397,
+    32.62416,
+    -8.95397,
+    32.62416
+],
+  "geometry": {"coordinates":[-8.95397,32.62416],"type":"Point"}
+}

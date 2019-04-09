@@ -1,0 +1,72 @@
+{
+  "id": 1276350713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4494,29.82683,-9.4494,29.82683",
+    "geom:latitude":29.82683,
+    "geom:longitude":-9.4494,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Leqcebt n'Billouch",
+    "gn:country_code":"MA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544707,
+    "gn:latitude":29.82683,
+    "gn:longitude":-9.4494,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Leq\u00e7ebt n\u2019Billouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabet n\u2019Belouche",
+        "Kasbet Ou Bellouch",
+        "Leq\u00e7ebt n\u2019Billouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890428801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2544707
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"811e693819e6cbc034d70b6566222cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890428801,
+            "locality_id":1276350713,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1276350713,
+    "wof:lastmodified":1537663699,
+    "wof:name":"Leqcebt n'Billouch",
+    "wof:parent_id":890428801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4494,
+    29.82683,
+    -9.4494,
+    29.82683
+],
+  "geometry": {"coordinates":[-9.4494,29.82683],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293301957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.81863,35.13491,-4.81863,35.13491",
+    "geom:latitude":35.13491,
+    "geom:longitude":-4.81863,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Tazemmourt",
+    "gn:country_code":"MA",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11067973,
+    "gn:latitude":35.13491,
+    "gn:longitude":-4.81863,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Tazemmourt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11067973
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a292e3e2d00d8afb0cdd7c02b9ae4e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1293301957,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1293301957,
+    "wof:lastmodified":1537052168,
+    "wof:name":"Douar Tazemmourt",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.81863,
+    35.13491,
+    -4.81863,
+    35.13491
+],
+  "geometry": {"coordinates":[-4.81863,35.13491],"type":"Point"}
+}

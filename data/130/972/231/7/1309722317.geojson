@@ -1,0 +1,67 @@
+{
+  "id": 1309722317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.99071,34.95785,-4.99071,34.95785",
+    "geom:latitude":34.95785,
+    "geom:longitude":-4.99071,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ma'alla",
+    "gn:country_code":"MA",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2543274,
+    "gn:latitude":34.95785,
+    "gn:longitude":-4.99071,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ma\u2019alla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890453883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2543274
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"a545c2fd3cca89a95698755e007f883e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":1309722317,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1309722317,
+    "wof:lastmodified":1537049270,
+    "wof:name":"Ma'alla",
+    "wof:parent_id":890453883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.99071,
+    34.95785,
+    -4.99071,
+    34.95785
+],
+  "geometry": {"coordinates":[-4.99071,34.95785],"type":"Point"}
+}

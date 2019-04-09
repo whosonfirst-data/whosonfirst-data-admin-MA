@@ -1,0 +1,72 @@
+{
+  "id": 1225959301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.54718,35.47652,-5.54718,35.47652",
+    "geom:latitude":35.47652,
+    "geom:longitude":-5.54718,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Essabbab",
+    "gn:country_code":"MA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549273,
+    "gn:latitude":35.47652,
+    "gn:longitude":-5.54718,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Essabbab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabbab",
+        "Es Sabbab",
+        "Essabbab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673883,
+        890421483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549273
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"346b4d230c935290908b698c21f6b480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890421483,
+            "locality_id":1225959301,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1225959301,
+    "wof:lastmodified":1537663828,
+    "wof:name":"Essabbab",
+    "wof:parent_id":890421483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.54718,
+    35.47652,
+    -5.54718,
+    35.47652
+],
+  "geometry": {"coordinates":[-5.54718,35.47652],"type":"Point"}
+}

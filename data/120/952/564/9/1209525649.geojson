@@ -1,0 +1,66 @@
+{
+  "id": 1209525649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.49081,35.70847,-5.49081,35.70847",
+    "geom:latitude":35.70847,
+    "geom:longitude":-5.49081,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Jbel Lhajjam",
+    "gn:country_code":"MA",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571941,
+    "gn:latitude":35.70847,
+    "gn:longitude":-5.49081,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Jbel Lhajjam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jbel el Hejjam",
+        "Jebel el Hejjam",
+        "Douar Jbel Lhajjam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571941
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f772956e50c7ed51675f7b94b0394e47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209525649
+        }
+    ],
+    "wof:id":1209525649,
+    "wof:lastmodified":1537664281,
+    "wof:name":"Douar Jbel Lhajjam",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.49081,
+    35.70847,
+    -5.49081,
+    35.70847
+],
+  "geometry": {"coordinates":[-5.49081,35.70847],"type":"Point"}
+}

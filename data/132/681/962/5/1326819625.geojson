@@ -1,0 +1,67 @@
+{
+  "id": 1326819625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.49692,30.17549,-9.49692,30.17549",
+    "geom:latitude":30.17549,
+    "geom:longitude":-9.49692,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hay Niyya",
+    "gn:country_code":"MA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10375013,
+    "gn:latitude":30.17549,
+    "gn:longitude":-9.49692,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hay Niyya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10375013
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"382429a79f53727432e5eb09c6e9f647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784831,
+            "locality_id":1326819625,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1326819625,
+    "wof:lastmodified":1537064149,
+    "wof:name":"Hay Niyya",
+    "wof:parent_id":1108784831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.49692,
+    30.17549,
+    -9.49692,
+    30.17549
+],
+  "geometry": {"coordinates":[-9.49692,30.17549],"type":"Point"}
+}

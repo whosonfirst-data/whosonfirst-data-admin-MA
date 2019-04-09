@@ -1,0 +1,78 @@
+{
+  "id": 890424107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1565,33.23593,-4.1565,33.23593",
+    "geom:latitude":33.23593,
+    "geom:longitude":-4.1565,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:pop":2698,
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0628\u0627\u0628 \u0628\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Almis Marmoucha"
+    ],
+    "name:fra_x_variant":[
+        "Almis Marmoucha (CR)",
+        "Almis Marmoucha (Commune Rurale)"
+    ],
+    "qs:name":"Almis Marmoucha",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673887,
+        890436419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6546975,
+        "qs:id":630059,
+        "wd:id":"Q4733854",
+        "wk:page":"Almis Marmoucha"
+    },
+    "wof:country":"MA",
+    "wof:created":1469051529,
+    "wof:geomhash":"eee0f2063d62ee40467247960115bb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "localadmin_id":890424107,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":890424107,
+    "wof:lastmodified":1527727266,
+    "wof:name":"Almis Marmoucha",
+    "wof:parent_id":890436419,
+    "wof:placetype":"localadmin",
+    "wof:population":2698,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1565,
+    33.23593,
+    -4.1565,
+    33.23593
+],
+  "geometry": {"coordinates":[-4.1565,33.23593],"type":"Point"}
+}

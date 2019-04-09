@@ -1,0 +1,61 @@
+{
+  "id": 1209637131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07439,32.94765,-8.07439,32.94765",
+    "geom:latitude":32.94765,
+    "geom:longitude":-8.07439,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Kribis",
+    "gn:country_code":"MA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11367849,
+    "gn:latitude":32.94765,
+    "gn:longitude":-8.07439,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"El Kribis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11367849
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b78ccf39c049aad0b1ea72b607f9dd1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209637131
+        }
+    ],
+    "wof:id":1209637131,
+    "wof:lastmodified":1536281007,
+    "wof:name":"El Kribis",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07439,
+    32.94765,
+    -8.07439,
+    32.94765
+],
+  "geometry": {"coordinates":[-8.07439,32.94765],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209019321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.12917,33.35202,-8.12917,33.35202",
+    "geom:latitude":33.35202,
+    "geom:longitude":-8.12917,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zaouia Sidi Bou Azza",
+    "gn:country_code":"MA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2526278,
+    "gn:latitude":33.35202,
+    "gn:longitude":-8.12917,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zaouia Sidi Bou Azza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2526278
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"69e6c9ec54229b9075787ac260ca0dd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209019321
+        }
+    ],
+    "wof:id":1209019321,
+    "wof:lastmodified":1536300194,
+    "wof:name":"Zaouia Sidi Bou Azza",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.12917,
+    33.35202,
+    -8.12917,
+    33.35202
+],
+  "geometry": {"coordinates":[-8.12917,33.35202],"type":"Point"}
+}

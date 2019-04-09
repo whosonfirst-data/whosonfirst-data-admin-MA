@@ -1,0 +1,67 @@
+{
+  "id": 1209116365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.31895,34.0183,-5.31895,34.0183",
+    "geom:latitude":34.0183,
+    "geom:longitude":-5.31895,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Sidi Cheikh",
+    "gn:country_code":"MA",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538935,
+    "gn:latitude":34.0183,
+    "gn:longitude":-5.31895,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Sidi Cheikh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Sidi Che\u00efld",
+        "Ouled Sidi Che\u00efld",
+        "Ouled Sidi Che\u00efkh",
+        "Douar Oulad Sidi Cheikh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538935
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"cec8da809ef23f25dddaac6edb6c3d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632693,
+            "locality_id":1209116365
+        }
+    ],
+    "wof:id":1209116365,
+    "wof:lastmodified":1537663544,
+    "wof:name":"Douar Oulad Sidi Cheikh",
+    "wof:parent_id":85632693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.31895,
+    34.0183,
+    -5.31895,
+    34.0183
+],
+  "geometry": {"coordinates":[-5.31895,34.0183],"type":"Point"}
+}

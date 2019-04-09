@@ -1,0 +1,67 @@
+{
+  "id": 1276542545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73724,31.57935,-7.73724,31.57935",
+    "geom:latitude":31.57935,
+    "geom:longitude":-7.73724,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Laamriya",
+    "gn:country_code":"MA",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909266,
+    "gn:latitude":31.57935,
+    "gn:longitude":-7.73724,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Laamriya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909266
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"fd2148ede3352570625d3f24b3e43967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":1276542545,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1276542545,
+    "wof:lastmodified":1536994868,
+    "wof:name":"Laamriya",
+    "wof:parent_id":1108784801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73724,
+    31.57935,
+    -7.73724,
+    31.57935
+],
+  "geometry": {"coordinates":[-7.73724,31.57935],"type":"Point"}
+}
