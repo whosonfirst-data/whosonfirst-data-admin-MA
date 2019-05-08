@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.375849,
-    "geom:area_square_m":14224646181.594309,
+    "geom:area_square_m":14224646181.594334,
     "geom:bbox":"-5.02178281841,32.6008020116,-2.90074610433,33.9065167844",
     "geom:latitude":33.266251,
     "geom:longitude":-3.975595,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":185110,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Boulemane Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":33.130925,
     "lbl:longitude":-4.152111,
     "meso:adm1_en":"Fez-Meknes",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":890436419,
-    "wof:lastmodified":1553816397,
+    "wof:lastmodified":1555037030,
     "wof:name":"Boulemane",
     "wof:parent_id":85673887,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.624123,
-    "geom:area_square_m":6589290343.708522,
+    "geom:area_square_m":6589290343.708525,
     "geom:bbox":"-9.846278191,30.7875212615,-8.97112340068,31.9349615152",
     "geom:latitude":31.368749,
     "geom:longitude":-9.452458,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":452979,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Essaouira Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":31.378699,
     "lbl:longitude":-9.548237,
     "meso:adm1_en":"Marrakech-Safi",
@@ -46,6 +52,9 @@
         "Essaouira"
     ],
     "name:eng_x_preferred":[
+        "Essaouira"
+    ],
+    "name:eng_x_variant":[
         "Essaouira Province"
     ],
     "name:fin_x_preferred":[
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":890453939,
-    "wof:lastmodified":1553816403,
+    "wof:lastmodified":1555220350,
     "wof:name":"Essaouira",
     "wof:parent_id":85673933,
     "wof:placetype":"county",

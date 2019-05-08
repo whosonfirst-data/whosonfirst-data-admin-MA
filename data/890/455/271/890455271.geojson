@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.310858,
-    "geom:area_square_m":3149027907.601822,
+    "geom:area_square_m":3149027907.601815,
     "geom:bbox":"-3.26923885367,34.6621942519,-2.34753837507,35.441970825",
     "geom:latitude":34.990408,
     "geom:longitude":-2.920543,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":728634,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Nador Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":34.9202,
     "lbl:longitude":-2.965895,
     "meso:adm1_en":"Oriental",
@@ -46,9 +52,10 @@
         "Nador"
     ],
     "name:eng_x_preferred":[
-        "Nador Province"
+        "Nador"
     ],
     "name:eng_x_variant":[
+        "Nador",
         "Nador"
     ],
     "name:fra_x_preferred":[
@@ -137,7 +144,7 @@
         }
     ],
     "wof:id":890455271,
-    "wof:lastmodified":1553816403,
+    "wof:lastmodified":1555220351,
     "wof:name":"Nador",
     "wof:parent_id":85673923,
     "wof:placetype":"county",

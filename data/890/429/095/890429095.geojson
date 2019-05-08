@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.362159,
-    "geom:area_square_m":3741257223.775901,
+    "geom:area_square_m":3741257223.775917,
     "geom:bbox":"-5.66077612677,32.8666687493,-4.82895195229,33.84285118",
     "geom:latitude":33.337373,
     "geom:longitude":-5.199161,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":143380,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Ifrane Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":33.339285,
     "lbl:longitude":-5.199175,
     "meso:adm1_en":"Fez-Meknes",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":890429095,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1555037032,
     "wof:name":"Ifrane",
     "wof:parent_id":85673915,
     "wof:placetype":"county",

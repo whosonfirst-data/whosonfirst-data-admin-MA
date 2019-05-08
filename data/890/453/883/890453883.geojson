@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.384845,
-    "geom:area_square_m":3894114014.519478,
+    "geom:area_square_m":3894114014.519498,
     "geom:bbox":"-5.54589978744,34.76497843,-4.4712188334,35.4344750017",
     "geom:latitude":35.083158,
     "geom:longitude":-5.004924,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":524602,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Chefchaouen Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":35.069702,
     "lbl:longitude":-5.01304,
     "meso:adm1_en":"Tangier-Tetouan-Al Hoceima",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":890453883,
-    "wof:lastmodified":1553816403,
+    "wof:lastmodified":1555037021,
     "wof:name":"Chefchaouen",
     "wof:parent_id":85673883,
     "wof:placetype":"county",

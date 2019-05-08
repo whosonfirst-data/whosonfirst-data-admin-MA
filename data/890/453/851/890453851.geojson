@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.46719,
-    "geom:area_square_m":26533279369.691238,
+    "geom:area_square_m":26533279369.691338,
     "geom:bbox":"-9.24597908672,28.3237618647,-6.35538104058,30.4608741893",
     "geom:latitude":29.569192,
     "geom:longitude":-7.841275,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":121618,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Tata Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":29.498135,
     "lbl:longitude":-8.180305,
     "meso:adm1_en":"Souss-Massa",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":890453851,
-    "wof:lastmodified":1553816403,
+    "wof:lastmodified":1555037021,
     "wof:name":"Tata",
     "wof:parent_id":85673947,
     "wof:placetype":"county",

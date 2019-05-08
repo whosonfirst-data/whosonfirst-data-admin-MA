@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.54743,
-    "geom:area_square_m":5580446852.450759,
+    "geom:area_square_m":5580446852.450783,
     "geom:bbox":"-5.52554380491,34.0394005036,-4.08764350107,34.8394908267",
     "geom:latitude":34.471699,
     "geom:longitude":-4.795522,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":668003,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Taounate Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":34.465272,
     "lbl:longitude":-4.735663,
     "meso:adm1_en":"Fez-Meknes",
@@ -43,6 +49,9 @@
         "Taounate"
     ],
     "name:eng_x_preferred":[
+        "Taounate"
+    ],
+    "name:eng_x_variant":[
         "Taounate Province"
     ],
     "name:fra_x_preferred":[
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":890418103,
-    "wof:lastmodified":1553816392,
+    "wof:lastmodified":1555220348,
     "wof:name":"Taounate",
     "wof:parent_id":85673893,
     "wof:placetype":"county",

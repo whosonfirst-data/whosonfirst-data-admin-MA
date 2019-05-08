@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030615,
-    "geom:area_square_m":313876220.835409,
+    "geom:area_square_m":313876220.835411,
     "geom:bbox":"-5.07180972575,33.8546845705,-4.79067661238,34.0759768156",
     "geom:latitude":33.989765,
     "geom:longitude":-4.939601,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":975507,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Fes Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":33.984911,
     "lbl:longitude":-4.941731,
     "meso:adm1_en":"Fez-Meknes",
@@ -205,7 +211,7 @@
         }
     ],
     "wof:id":890454333,
-    "wof:lastmodified":1553816403,
+    "wof:lastmodified":1555037019,
     "wof:name":"Fes",
     "wof:parent_id":85673887,
     "wof:placetype":"county",

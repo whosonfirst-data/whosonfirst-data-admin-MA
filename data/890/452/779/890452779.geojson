@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.427469,
-    "geom:area_square_m":4459800892.983454,
+    "geom:area_square_m":4459800892.983466,
     "geom:bbox":"-6.65188558066,32.1287205813,-5.44924667159,32.7770754306",
     "geom:latitude":32.4623,
     "geom:longitude":-6.033532,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":946018,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Beni Mellal Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":32.485452,
     "lbl:longitude":-6.22458,
     "meso:adm1_en":"Beni Mellal-Khenifra",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":890452779,
-    "wof:lastmodified":1553816403,
+    "wof:lastmodified":1555037023,
     "wof:name":"Beni Mellal",
     "wof:parent_id":85673919,
     "wof:placetype":"county",

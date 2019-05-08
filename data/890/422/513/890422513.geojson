@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271564,
-    "geom:area_square_m":2744811581.661967,
+    "geom:area_square_m":2744811581.661971,
     "geom:bbox":"-6.24718200176,34.9229565811,-5.46115315289,35.4696557143",
     "geom:latitude":35.173454,
     "geom:longitude":-5.832166,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":472386,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Larache Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":35.155758,
     "lbl:longitude":-5.800389,
     "meso:adm1_en":"Tangier-Tetouan-Al Hoceima",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":890422513,
-    "wof:lastmodified":1553816393,
+    "wof:lastmodified":1555037038,
     "wof:name":"Larache",
     "wof:parent_id":85673883,
     "wof:placetype":"county",

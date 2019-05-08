@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.477332,
-    "geom:area_square_m":5130618123.394897,
+    "geom:area_square_m":5130618123.394907,
     "geom:bbox":"-10.0122828154,29.2680842011,-8.60113197099,29.9353234501",
     "geom:latitude":29.627285,
     "geom:longitude":-9.343692,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":344831,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Tiznit Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":29.655558,
     "lbl:longitude":-9.471826,
     "meso:adm1_en":"Souss-Massa",
@@ -43,6 +49,9 @@
         "Tiznit"
     ],
     "name:eng_x_preferred":[
+        "Tiznit"
+    ],
+    "name:eng_x_variant":[
         "Tiznit Province"
     ],
     "name:fra_x_preferred":[
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":890428801,
-    "wof:lastmodified":1553816393,
+    "wof:lastmodified":1555220348,
     "wof:name":"Tiznit",
     "wof:parent_id":85673929,
     "wof:placetype":"county",

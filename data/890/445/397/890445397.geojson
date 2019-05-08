@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.395186,
-    "geom:area_square_m":4132610907.370013,
+    "geom:area_square_m":4132610907.370044,
     "geom:bbox":"-9.46347055163,31.7778294377,-8.5484171441,32.7303795136",
     "geom:latitude":32.251104,
     "geom:longitude":-9.023901,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":881007,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Safi Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":32.262489,
     "lbl:longitude":-9.030873,
     "meso:adm1_en":"Marrakech-Safi",
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":890445397,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1555037025,
     "wof:name":"Safi",
     "wof:parent_id":85673937,
     "wof:placetype":"county",

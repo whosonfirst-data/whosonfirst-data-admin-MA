@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189063,
-    "geom:area_square_m":1904265272.653336,
+    "geom:area_square_m":1904265272.653332,
     "geom:bbox":"-5.83104786513,35.2082224566,-5.084583282,35.6979007544",
     "geom:latitude":35.456765,
     "geom:longitude":-5.432057,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":613506,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Tetouan Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":35.421644,
     "lbl:longitude":-5.333085,
     "meso:adm1_en":"Tangier-Tetouan-Al Hoceima",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":890421483,
-    "wof:lastmodified":1553816393,
+    "wof:lastmodified":1555037039,
     "wof:name":"Tetouan",
     "wof:parent_id":85673883,
     "wof:placetype":"county",

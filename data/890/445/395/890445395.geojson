@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.488271,
-    "geom:area_square_m":15863382926.141985,
+    "geom:area_square_m":15863382926.142065,
     "geom:bbox":"-9.32848627795,29.7187097918,-7.52031592358,31.1593080698",
     "geom:latitude":30.455633,
     "geom:longitude":-8.424071,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":780661,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Taroudant Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":30.436556,
     "lbl:longitude":-8.485567,
     "meso:adm1_en":"Souss-Massa",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":890445395,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1555037026,
     "wof:name":"Taroudant",
     "wof:parent_id":85673929,
     "wof:placetype":"county",
