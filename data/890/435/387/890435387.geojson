@@ -22,20 +22,11 @@
     "name:afr_x_preferred":[
         "Marrakesj"
     ],
-    "name:alb_x_preferred":[
-        "Marrakesh"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u0643\u0634"
     ],
     "name:arg_x_preferred":[
         "Marr\u00e1quex"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u057c\u0561\u056f\u0565\u0577"
-    ],
-    "name:baq_x_preferred":[
-        "Marrakex"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0435\u0448"
@@ -61,14 +52,11 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u0440\u0440\u0430\u043a\u0435\u0448"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u62c9\u5580\u4ec0"
-    ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0440\u0440\u0430\u043a\u0435\u0448"
     ],
-    "name:cze_x_preferred":[
-        "Marr\u00e1ke\u0161"
+    "name:cym_x_preferred":[
+        "Marrakech"
     ],
     "name:dan_x_preferred":[
         "Marrakech"
@@ -76,8 +64,8 @@
     "name:deu_x_preferred":[
         "Marrakesch"
     ],
-    "name:dut_x_preferred":[
-        "Marrakesh"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b1\u03ba\u03ad\u03c2"
     ],
     "name:eng_x_preferred":[
         "Marrakech"
@@ -91,26 +79,20 @@
     "name:est_x_preferred":[
         "Marrakech"
     ],
+    "name:eus_x_preferred":[
+        "Marrakex"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0627\u06a9\u0634"
+    ],
     "name:fin_x_preferred":[
         "Marrakech"
     ],
     "name:fra_x_preferred":[
         "Marrakech"
     ],
-    "name:fre_x_preferred":[
-        "Marrakech"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10d0\u10d9\u10d4\u10e8\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Marrakesch"
-    ],
     "name:glg_x_preferred":[
         "Marrakech"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c1\u03b1\u03ba\u03ad\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0abe\u0a95\u0ac7\u0ab6"
@@ -127,11 +109,14 @@
     "name:hun_x_preferred":[
         "Marr\u00e1kes"
     ],
-    "name:ice_x_preferred":[
-        "Marrakess"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057c\u0561\u056f\u0565\u0577"
     ],
     "name:ind_x_preferred":[
         "Marrakesh"
+    ],
+    "name:isl_x_preferred":[
+        "Marrakess"
     ],
     "name:ita_x_preferred":[
         "Marrakech"
@@ -144,6 +129,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb0\u0c95\u0cc7\u0cb6\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d0\u10d9\u10d4\u10e8\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0440\u0440\u0430\u043a\u0435\u0448 \u049b\u0430\u043b\u0430\u0441\u044b"
@@ -169,20 +157,17 @@
     "name:lit_x_preferred":[
         "Marake\u0161as"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0440\u0430\u043a\u0435\u0448"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d30\u0d3e\u0d15\u0d4d\u0d15\u0d47\u0d37\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u093e\u0915\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Marrakesh"
-    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0435\u0448"
+    ],
+    "name:msa_x_preferred":[
+        "Marrakesh"
     ],
     "name:nds_x_preferred":[
         "Marrakesch"
@@ -205,9 +190,6 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a30\u0a3e\u0a15\u0a3f\u0a38\u0a3c"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u0627\u06a9\u0634"
-    ],
     "name:pol_x_preferred":[
         "Marrakesz"
     ],
@@ -218,9 +200,6 @@
         "Marraquexe"
     ],
     "name:ron_x_preferred":[
-        "Marrakech"
-    ],
-    "name:rum_x_preferred":[
         "Marrakech"
     ],
     "name:rus_x_preferred":[
@@ -238,7 +217,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dbb\u0d9a\u0dd9\u0dc2\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Murr\u00e1ku\u0161"
     ],
     "name:slv_x_preferred":[
@@ -249,6 +228,9 @@
     ],
     "name:spa_x_preferred":[
         "Marrakech"
+    ],
+    "name:sqi_x_preferred":[
+        "Marrakesh"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0435\u0448"
@@ -298,11 +280,11 @@
     "name:war_x_preferred":[
         "Marrakech"
     ],
-    "name:wel_x_preferred":[
-        "Marrakech"
-    ],
     "name:yue_x_preferred":[
         "\u99ac\u62c9\u5580\u4ec0"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u62c9\u5580\u4ec0"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Morocco",
@@ -433,7 +415,7 @@
         }
     ],
     "wof:id":890435387,
-    "wof:lastmodified":1553816396,
+    "wof:lastmodified":1561839819,
     "wof:name":"Marrakesh",
     "wof:parent_id":1108784829,
     "wof:placetype":"locality",

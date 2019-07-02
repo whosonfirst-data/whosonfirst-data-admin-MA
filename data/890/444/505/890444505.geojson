@@ -19,12 +19,6 @@
     "name:ara_x_preferred":[
         "\u0622\u0633\u0641\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0586\u056b"
-    ],
-    "name:baq_x_preferred":[
-        "Safi"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u0444\u0456"
     ],
@@ -43,11 +37,8 @@
     "name:ces_x_preferred":[
         "S\u00e1f\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u975e"
-    ],
-    "name:cze_x_preferred":[
-        "S\u00e1f\u00ed"
+    "name:cym_x_preferred":[
+        "Safi"
     ],
     "name:dan_x_preferred":[
         "Safi"
@@ -55,8 +46,8 @@
     "name:deu_x_preferred":[
         "Safi"
     ],
-    "name:dut_x_preferred":[
-        "Safi"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c6\u03af"
     ],
     "name:eng_x_historical":[
         "Asafi"
@@ -70,6 +61,9 @@
     "name:epo_x_preferred":[
         "Safi"
     ],
+    "name:eus_x_preferred":[
+        "Safi"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0641\u06cc"
     ],
@@ -78,18 +72,6 @@
     ],
     "name:fra_x_preferred":[
         "Safi"
-    ],
-    "name:fre_x_preferred":[
-        "Safi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e4\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Safi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c6\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aab\u0ac0"
@@ -136,17 +118,14 @@
     "name:lit_x_preferred":[
         "Safi"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0444\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0945\u092b\u0940"
     ],
-    "name:may_x_preferred":[
-        "Safi"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0444\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Safi"
     ],
     "name:nan_x_preferred":[
         "Safi"
@@ -157,16 +136,13 @@
     "name:nob_x_preferred":[
         "Safi"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0641\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Asfi"
     ],
     "name:por_x_preferred":[
         "Safim"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Safi"
     ],
     "name:rus_x_preferred":[
@@ -212,9 +188,6 @@
         "Safi"
     ],
     "name:war_x_preferred":[
-        "Safi"
-    ],
-    "name:wel_x_preferred":[
         "Safi"
     ],
     "name:wln_x_preferred":[
@@ -348,7 +321,7 @@
         }
     ],
     "wof:id":890444505,
-    "wof:lastmodified":1527782127,
+    "wof:lastmodified":1561839817,
     "wof:name":"Safi",
     "wof:parent_id":890445397,
     "wof:placetype":"locality",
