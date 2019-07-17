@@ -42,11 +42,23 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u062d\u0633\u064a\u0645\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Provincia d'Alhucemas"
+    ],
+    "name:bar_x_preferred":[
+        "Al Hoce\u00efma"
+    ],
     "name:ber_x_preferred":[
         "\u2d5c\u2d30\u2d59\u2d33\u2d30 \u2d4f \u2d4d\u2d43\u2d53\u2d59\u2d49\u2d4e\u2d30"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Al Hoceima"
+    ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Al Hoceima"
+    ],
+    "name:ceb_x_preferred":[
+        "Al-Hoceima"
     ],
     "name:deu_x_preferred":[
         "Al Hoce\u00efma"
@@ -54,12 +66,16 @@
     "name:eng_x_preferred":[
         "Al Hoceima"
     ],
+    "name:eng_x_variant":[
+        "Al Hoce\u00efma Province"
+    ],
     "name:fra_x_preferred":[
         "Al-Hoceima"
     ],
     "name:fra_x_variant":[
         "Province d'Al-Hoceima",
-        "province d'Al Hoce\u00efma"
+        "province d'Al Hoce\u00efma",
+        "Al Hoce\u00efma"
     ],
     "name:ita_x_preferred":[
         "Provincia di Al-Hoseyma"
@@ -87,6 +103,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u062d\u0633\u06cc\u0645\u06c1 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u585e\u99ac\u7701"
     ],
     "qs:name":"Al-Hoceima",
     "qs:photos_9r":0,
@@ -135,7 +154,7 @@
         }
     ],
     "wof:id":890429097,
-    "wof:lastmodified":1561839817,
+    "wof:lastmodified":1563362339,
     "wof:name":"Al Hoceima",
     "wof:parent_id":85673893,
     "wof:placetype":"county",

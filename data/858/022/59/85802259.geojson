@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13021677.029705,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-7.607203,33.573752,-7.607203,33.573752",
     "geom:latitude":33.573752,
     "geom:longitude":-7.607203,
@@ -32,7 +32,17 @@
     ],
     "name:ara_x_variant":[
         "A\u00efn Chok",
-        "Casablanca ain Chok"
+        "Casablanca ain Chok",
+        "\u0639\u0645\u0627\u0644\u0629 \u0645\u0642\u0627\u0637\u0639\u0629 \u0639\u064a\u0646 \u0627\u0644\u0634\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn Chock"
+    ],
+    "name:fra_x_preferred":[
+        "pr\u00e9fecture d'A\u00efn Chock"
+    ],
+    "name:nld_x_preferred":[
+        "A\u00efn Chock"
     ],
     "name:unk_x_variant":[
         "A\u00efn Chok",
@@ -69,10 +79,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673905,
         102191573,
         85632693,
-        890442533,
-        85673905
+        890442533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +108,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862157,
+    "wof:lastmodified":1563358769,
     "wof:name":"A\u00efn Chock",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

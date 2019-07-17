@@ -19,8 +19,14 @@
     "name:ara_x_preferred":[
         "\u0622\u0633\u0641\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u0641\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u0444\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u0444\u0456"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ab\u09bf"
@@ -32,6 +38,9 @@
         "\u0421\u0430\u0444\u0438"
     ],
     "name:cat_x_preferred":[
+        "Safi"
+    ],
+    "name:ceb_x_preferred":[
         "Safi"
     ],
     "name:ces_x_preferred":[
@@ -139,6 +148,9 @@
     "name:pol_x_preferred":[
         "Asfi"
     ],
+    "name:pol_x_variant":[
+        "Safi"
+    ],
     "name:por_x_preferred":[
         "Safim"
     ],
@@ -183,6 +195,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0641\u06cc\u060c \u0645\u0631\u0627\u06a9\u0634"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0633\u0641\u06cc"
     ],
     "name:vie_x_preferred":[
         "Safi"
@@ -321,7 +336,7 @@
         }
     ],
     "wof:id":890444505,
-    "wof:lastmodified":1561839817,
+    "wof:lastmodified":1563362329,
     "wof:name":"Safi",
     "wof:parent_id":890445397,
     "wof:placetype":"locality",

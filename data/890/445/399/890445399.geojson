@@ -42,8 +42,17 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Provincia d'El Yadida"
+    ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'El Jadida"
+    ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'El Jadida"
+    ],
+    "name:ceb_x_preferred":[
+        "El-Jadida"
     ],
     "name:deu_x_preferred":[
         "El Jadida"
@@ -51,12 +60,16 @@
     "name:eng_x_preferred":[
         "El Jadida"
     ],
+    "name:eng_x_variant":[
+        "El Jadida Province"
+    ],
     "name:fra_x_preferred":[
         "El-Jadida"
     ],
     "name:fra_x_variant":[
         "Province d'El-Jadida",
-        "province d'El Jadida"
+        "province d'El Jadida",
+        "El Jadida"
     ],
     "name:ita_x_preferred":[
         "Provincia di El Jadida"
@@ -78,6 +91,9 @@
     ],
     "name:unk_x_variant":[
         "Provincia de El Yadida"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u8fea\u4ee3\u7701"
     ],
     "qs:name":"El-Jadida",
     "qs:photos_9r":0,
@@ -128,7 +144,7 @@
         }
     ],
     "wof:id":890445399,
-    "wof:lastmodified":1561839818,
+    "wof:lastmodified":1563362412,
     "wof:name":"El Jadida",
     "wof:parent_id":85673937,
     "wof:placetype":"county",
