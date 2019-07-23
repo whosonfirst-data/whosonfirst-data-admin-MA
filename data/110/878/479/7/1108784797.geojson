@@ -42,14 +42,23 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Ouezzane"
     ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Ouezzane"
+    ],
     "name:deu_x_preferred":[
         "Ouezzane"
     ],
     "name:eng_x_preferred":[
         "Ouezzane"
     ],
+    "name:eng_x_variant":[
+        "Ouezzane Province"
+    ],
     "name:fra_x_preferred":[
         "province d'Ouezzane"
+    ],
+    "name:fra_x_variant":[
+        "Ouezzane"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a7\u30b6\u30fc\u30f3\u5dde"
@@ -59,6 +68,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0632\u0627\u0646 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u723e\u624e\u624e\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u6c83\u8d0a\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,7 +111,7 @@
         }
     ],
     "wof:id":1108784797,
-    "wof:lastmodified":1561839792,
+    "wof:lastmodified":1563361119,
     "wof:name":"Ouezzane",
     "wof:parent_id":85673883,
     "wof:placetype":"county",

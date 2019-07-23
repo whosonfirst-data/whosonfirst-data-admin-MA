@@ -45,18 +45,25 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de B\u00e9ni Mellal"
     ],
+    "name:ceb_x_preferred":[
+        "Beni-Mellal"
+    ],
     "name:deu_x_preferred":[
         "B\u00e9ni Mellal"
     ],
     "name:eng_x_preferred":[
         "B\u00e9ni Mellal"
     ],
+    "name:eng_x_variant":[
+        "B\u00e9ni-Mellal Province"
+    ],
     "name:fra_x_preferred":[
         "Beni-Mellal"
     ],
     "name:fra_x_variant":[
         "Province de Beni-Mellal",
-        "province de B\u00e9ni-Mellal"
+        "province de B\u00e9ni-Mellal",
+        "B\u00e9ni-Mellal"
     ],
     "name:ita_x_preferred":[
         "Provincia di B\u00e9ni-Mellal"
@@ -81,6 +88,9 @@
     ],
     "name:unk_x_variant":[
         "Iql\u012bm Ban\u012b Mal\u0101l"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u5c3c\u9081\u62c9\u52d2\u7701"
     ],
     "qs:name":"Beni-Mellal",
     "qs:photos_9r":0,
@@ -129,7 +139,7 @@
         }
     ],
     "wof:id":890452779,
-    "wof:lastmodified":1561839814,
+    "wof:lastmodified":1563362225,
     "wof:name":"Beni Mellal",
     "wof:parent_id":85673919,
     "wof:placetype":"county",

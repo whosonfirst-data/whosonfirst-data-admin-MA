@@ -39,8 +39,14 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0642\u0644\u0639\u0629 \u0627\u0644\u0633\u0631\u0627\u063a\u0646\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Provincia d'El Kelaa des Sraghna"
+    ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'El Kel\u00e2a des Sraghna"
+    ],
+    "name:ceb_x_preferred":[
+        "Kelaa-Des-Sraghna"
     ],
     "name:deu_x_preferred":[
         "El Kela\u00e2 des Sraghna"
@@ -48,8 +54,17 @@
     "name:eng_x_preferred":[
         "El Kel\u00e2a des Sraghna"
     ],
+    "name:eng_x_variant":[
+        "Kelaat Sraghna Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0644\u0639\u0647 \u0633\u0631\u0627\u063a\u0646\u0647"
+    ],
     "name:fra_x_preferred":[
         "province d'El Kela\u00e2 des Sraghna"
+    ],
+    "name:fra_x_variant":[
+        "El Kela\u00e2 des Sraghna"
     ],
     "name:ita_x_preferred":[
         "Provincia di El Kel\u00e2at Es-Sraghna"
@@ -74,6 +89,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0642\u0639\u06c1 \u0633\u0631\u0627\u063a\u0646\u06c1 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u62c9\u683c\u5948\u5821\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":1108784785,
-    "wof:lastmodified":1561839791,
+    "wof:lastmodified":1563361109,
     "wof:name":"El Kelaat Es-Sraghna",
     "wof:parent_id":85673933,
     "wof:placetype":"county",

@@ -65,7 +65,7 @@
         "Fez"
     ],
     "name:eng_x_variant":[
-        "Fez"
+        "Fez Prefecture"
     ],
     "name:fin_x_preferred":[
         "Fez"
@@ -75,7 +75,8 @@
     ],
     "name:fra_x_variant":[
         "Province de Fes",
-        "pr\u00e9fecture de F\u00e8s"
+        "pr\u00e9fecture de F\u00e8s",
+        "F\u00e8s"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac7\u0a9c"
@@ -146,8 +147,14 @@
     "name:tur_x_preferred":[
         "Fez"
     ],
+    "name:tur_x_variant":[
+        "Fez(Valilik)"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0437"
+    ],
+    "name:ukr_x_variant":[
+        "\u043f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0424\u0435\u0441"
     ],
     "name:und_x_variant":[
         "\u0639\u0645\u0627\u0644\u0629 \u0641\u0627\u0633"
@@ -209,7 +216,7 @@
         }
     ],
     "wof:id":890454333,
-    "wof:lastmodified":1561839815,
+    "wof:lastmodified":1563362266,
     "wof:name":"Fes",
     "wof:parent_id":85673887,
     "wof:placetype":"county",

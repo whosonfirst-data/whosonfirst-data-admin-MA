@@ -48,8 +48,14 @@
     "name:eng_x_preferred":[
         "Tarfaya"
     ],
+    "name:eng_x_variant":[
+        "Tarfaya Province"
+    ],
     "name:fra_x_preferred":[
         "province de Tarfaya"
+    ],
+    "name:fra_x_variant":[
+        "Tarfaya"
     ],
     "name:ita_x_preferred":[
         "Provincia di Tarfaya"
@@ -60,8 +66,14 @@
     "name:spa_x_preferred":[
         "Prov\u00edncia de Tarfaya"
     ],
+    "name:spa_x_variant":[
+        "Tarfaya"
+    ],
     "name:und_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0637\u0631\u0641\u0627\u064a\u0629"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5c14\u6cd5\u4e9a\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1108784823,
-    "wof:lastmodified":1561839791,
+    "wof:lastmodified":1563361111,
     "wof:name":"Tarfaya",
     "wof:parent_id":85673941,
     "wof:placetype":"county",

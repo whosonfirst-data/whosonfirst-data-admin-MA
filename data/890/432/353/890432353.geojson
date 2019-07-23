@@ -18,10 +18,16 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0633\u0644\u064a\u0645\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0633\u0644\u06cc\u0645\u0627\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09a6\u09bf \u09b8\u09cd\u09b2\u09bf\u09ae\u09be\u09a8"
     ],
     "name:cat_x_preferred":[
+        "Sidi Slimane"
+    ],
+    "name:ceb_x_preferred":[
         "Sidi Slimane"
     ],
     "name:dan_x_preferred":[
@@ -35,6 +41,9 @@
     ],
     "name:eng_x_preferred":[
         "Sidi Slimane"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0633\u0644\u06cc\u0645\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Sidi Slimane"
@@ -90,6 +99,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u0434\u0438-\u0421\u043b\u0438\u043c\u0430\u043d\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0438\u0434\u0438-\u0421\u043b\u0438\u043c\u0430\u043d"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0da9\u0dd2 \u0dc3\u0dca\u0dbd\u0dd2\u0db8\u0dcf\u0db1\u0dda"
     ],
@@ -119,6 +131,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u0633\u0644\u06cc\u0645\u0627\u0646\u060c \u0645\u0631\u0627\u06a9\u0634"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u062f\u06cc \u0633\u0644\u06cc\u0645\u0627\u0646"
     ],
     "name:vie_x_preferred":[
         "Sidi Slimane"
@@ -159,7 +174,7 @@
         }
     ],
     "wof:id":890432353,
-    "wof:lastmodified":1561839819,
+    "wof:lastmodified":1563362427,
     "wof:name":"Sidi Slimane",
     "wof:parent_id":1108784809,
     "wof:placetype":"locality",

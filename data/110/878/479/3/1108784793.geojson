@@ -48,8 +48,17 @@
     "name:eng_x_preferred":[
         "Berrechid"
     ],
+    "name:eng_x_variant":[
+        "Berrechid Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u0634\u06cc\u062f"
+    ],
     "name:fra_x_preferred":[
         "province de Berrechid"
+    ],
+    "name:fra_x_variant":[
+        "Berrechid"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30ec\u30c1\u30c9\u5dde"
@@ -62,6 +71,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0634\u06cc\u062f \u0635\u0648\u0628\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u8cf4\u5e0c\u5fb7\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1108784793,
-    "wof:lastmodified":1561839792,
+    "wof:lastmodified":1563361120,
     "wof:name":"Berrechid",
     "wof:parent_id":85673901,
     "wof:placetype":"county",

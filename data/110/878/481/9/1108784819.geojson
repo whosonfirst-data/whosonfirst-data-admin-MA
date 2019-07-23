@@ -48,8 +48,17 @@
     "name:eng_x_preferred":[
         "Sidi Bennour"
     ],
+    "name:eng_x_variant":[
+        "Sidi Bennour Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u062f\u06cc \u0628\u0646\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "province de Sidi Bennour"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Bennour"
     ],
     "name:ita_x_preferred":[
         "Provincia di Sidi Bennour"
@@ -62,6 +71,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u0628\u0646\u0648\u0631 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u8fea\u672c\u52aa\u723e\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1108784819,
-    "wof:lastmodified":1561839793,
+    "wof:lastmodified":1563361121,
     "wof:name":"Sidi Bennour",
     "wof:parent_id":85673937,
     "wof:placetype":"county",

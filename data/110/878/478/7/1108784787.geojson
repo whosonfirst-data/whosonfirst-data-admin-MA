@@ -39,6 +39,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0641\u0642\u064a\u0647 \u0628\u0646\u0635\u0627\u0644\u062d"
     ],
+    "name:ara_x_variant":[
+        "\u202b\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0641\u0642\u064a\u0647 \u0628\u0646 \u0635\u0627\u0644\u062d\u202c"
+    ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Fquih Ben Salah"
     ],
@@ -48,14 +51,26 @@
     "name:eng_x_preferred":[
         "Fquih Ben Salah"
     ],
+    "name:eng_x_variant":[
+        "Fquih Ben Salah Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0641\u0642\u06cc\u0647 \u0628\u0646 \u0635\u0627\u0644\u062d"
+    ],
     "name:fra_x_preferred":[
         "province de Fquih Ben Salah"
+    ],
+    "name:fra_x_variant":[
+        "Fquih Ben Salah"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30ad\u30ec\u30fb\u30d9\u30f3\u30cc\u30fb\u30b5\u30e9\u5dde"
     ],
     "name:und_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0641\u0642\u064a\u0647 \u0628\u0646 \u0635\u0627\u0644\u062d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u57fa\u8d6b\u62dc\u5c3c\u585e\u62c9\u8d6b\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -93,7 +108,7 @@
         }
     ],
     "wof:id":1108784787,
-    "wof:lastmodified":1561839791,
+    "wof:lastmodified":1563361108,
     "wof:name":"Fquih Ben Saleh",
     "wof:parent_id":85673919,
     "wof:placetype":"county",
