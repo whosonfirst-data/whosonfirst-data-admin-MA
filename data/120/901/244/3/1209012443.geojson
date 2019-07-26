@@ -25,6 +25,24 @@
     "iso:country":"MA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0644\u062d\u062c\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0626\u06cc\u0646 \u0644\u0647\u062c\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Ain Lehjer"
+    ],
+    "name:ceb_x_preferred":[
+        "Ain Lehjer"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0626\u06cc\u0646 \u0644\u0647\u062c\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "Ain Lehjer"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +52,7 @@
         "gn:id":10998315
     },
     "wof:country":"MA",
-    "wof:geomhash":"3e77ed7ea8823ac6f802e7bf5537d298",
+    "wof:geomhash":"d04f10949dc311afa81505d24254641f",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209012443,
-    "wof:lastmodified":1536300402,
+    "wof:lastmodified":1564109311,
     "wof:name":"Ain Lehjer",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.4965900000000003,
+    -2.49659,
     34.57021,
-    -2.4965900000000003,
+    -2.49659,
     34.57021
 ],
   "geometry": {"coordinates":[-2.49659,34.57021],"type":"Point"}
