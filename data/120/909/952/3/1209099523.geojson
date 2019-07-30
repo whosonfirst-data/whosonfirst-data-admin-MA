@@ -25,6 +25,9 @@
     "iso:country":"MA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Agard"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +37,7 @@
         "gn:id":11353569
     },
     "wof:country":"MA",
-    "wof:geomhash":"37a0d6f56aa33f2516f10e8a0cf0aa6e",
+    "wof:geomhash":"13422b714197e568d05c39197be9afee",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209099523,
-    "wof:lastmodified":1536297779,
+    "wof:lastmodified":1564109226,
     "wof:name":"Agard",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.637510000000002,
-    31.374370000000006,
-    -7.637510000000002,
-    31.374370000000006
+    -7.63751,
+    31.37437000000001,
+    -7.63751,
+    31.37437000000001
 ],
   "geometry": {"coordinates":[-7.63751,31.37437000000001],"type":"Point"}
 }

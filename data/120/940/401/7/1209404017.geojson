@@ -25,6 +25,18 @@
     "iso:country":"MA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0642\u0648\u0646\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0648\u0646\u06cc"
+    ],
+    "name:nor_x_preferred":[
+        "Agouni"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0646\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +46,7 @@
         "gn:id":11147986
     },
     "wof:country":"MA",
-    "wof:geomhash":"44e6e2275901dfb6e244a5a5ce60bedb",
+    "wof:geomhash":"f1ae7824a5adb737bcec0099d042ee45",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209404017,
-    "wof:lastmodified":1536288054,
+    "wof:lastmodified":1564109503,
     "wof:name":"Agouni",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.870189999999999,
+    -7.87019,
     30.83403,
-    -7.870189999999999,
+    -7.87019,
     30.83403
 ],
   "geometry": {"coordinates":[-7.87019,30.83403],"type":"Point"}

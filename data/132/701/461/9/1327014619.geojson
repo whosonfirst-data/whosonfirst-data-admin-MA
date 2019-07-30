@@ -33,8 +33,17 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0631\u0634\u064a\u062f\u064a\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0631\u0634\u06cc\u062f\u06cc\u0647"
+    ],
     "name:cat_x_preferred":[
         "Rachidia"
+    ],
+    "name:ceb_x_preferred":[
+        "Errachidia"
+    ],
+    "name:deu_x_preferred":[
+        "Errachidia"
     ],
     "name:eng_x_historical":[
         "Ksar es-Souk"
@@ -45,6 +54,12 @@
     "name:eng_x_variant":[
         "Ksar es-Souk"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0634\u06cc\u062f\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Errachidia"
+    ],
     "name:heb_x_preferred":[
         "\u05d0-\u05e8\u05e9\u05d9\u05d3\u05d9\u05d4"
     ],
@@ -54,14 +69,26 @@
     "name:kab_x_preferred":[
         "Imt\u0263eren"
     ],
+    "name:kab_x_variant":[
+        "Imet\u0263aren"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\ub77c\uc2dc\ub514\uc544"
+    ],
     "name:lav_x_preferred":[
         "R\u0101\u0161\u012bd\u012bja"
     ],
     "name:lit_x_preferred":[
         "Ra\u0161idija"
     ],
+    "name:nld_x_preferred":[
+        "Errachidia"
+    ],
     "name:pol_x_preferred":[
         "Ar-Raszidijja"
+    ],
+    "name:por_x_preferred":[
+        "Errachidia"
     ],
     "name:ron_x_preferred":[
         "Er Rachidia"
@@ -71,6 +98,9 @@
     ],
     "name:spa_x_preferred":[
         "Er-Rachid\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Errachidia"
     ],
     "name:und_x_variant":[
         "ar-Rach\u012bd\u012bya"
@@ -109,7 +139,7 @@
         }
     ],
     "wof:id":1327014619,
-    "wof:lastmodified":1537664289,
+    "wof:lastmodified":1564106310,
     "wof:name":"Errachidia",
     "wof:parent_id":1108784773,
     "wof:placetype":"locality",

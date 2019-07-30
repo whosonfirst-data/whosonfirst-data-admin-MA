@@ -25,6 +25,39 @@
     "iso:country":"MA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0632\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u06cc\u0632\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0632\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Tizi"
+    ],
+    "name:ita_x_preferred":[
+        "Tizi"
+    ],
+    "name:kab_x_preferred":[
+        "Tizi"
+    ],
+    "name:msa_x_preferred":[
+        "Tizi"
+    ],
+    "name:por_x_preferred":[
+        "Tizi"
+    ],
+    "name:ron_x_preferred":[
+        "Tizi"
+    ],
+    "name:spa_x_preferred":[
+        "Tizi"
+    ],
+    "name:vie_x_preferred":[
+        "Tizi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +67,7 @@
         "gn:id":10963575
     },
     "wof:country":"MA",
-    "wof:geomhash":"09c098c0c9b6e4c6687088435c5602fe",
+    "wof:geomhash":"5992d8732441fc23d6d4f8116f1e0521",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +75,7 @@
         }
     ],
     "wof:id":1209608363,
-    "wof:lastmodified":1536281931,
+    "wof:lastmodified":1564109663,
     "wof:name":"Tizi",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +85,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.8598300000000005,
+    -6.85983,
     31.77073,
-    -6.8598300000000005,
+    -6.85983,
     31.77073
 ],
   "geometry": {"coordinates":[-6.85983,31.77073],"type":"Point"}

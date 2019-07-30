@@ -25,6 +25,24 @@
     "iso:country":"MA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u064a \u0628\u0648\u0639\u0632\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Moulay Bouazza"
+    ],
+    "name:ceb_x_preferred":[
+        "Moulay Bouazza"
+    ],
+    "name:fra_x_preferred":[
+        "Moulay Bouazza"
+    ],
+    "name:ita_x_preferred":[
+        "Moulay Bouazza"
+    ],
+    "name:swe_x_preferred":[
+        "Moulay Bouazza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +52,7 @@
         "gn:id":10960136
     },
     "wof:country":"MA",
-    "wof:geomhash":"64508c4f595b63c51398f86e85fed3f7",
+    "wof:geomhash":"974a2cd251163948ba853d28f4ff0615",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209414877,
-    "wof:lastmodified":1536287721,
+    "wof:lastmodified":1564109459,
     "wof:name":"Moulay Bouazza",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +71,9 @@
 },
   "bbox": [
     -5.79606,
-    33.573170000000005,
+    33.57317,
     -5.79606,
-    33.573170000000005
+    33.57317
 ],
   "geometry": {"coordinates":[-5.79606,33.57317],"type":"Point"}
 }
