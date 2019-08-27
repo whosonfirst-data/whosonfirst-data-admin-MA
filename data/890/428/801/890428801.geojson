@@ -11,7 +11,7 @@
     "geom:longitude":-9.343692,
     "gn:country":"MA",
     "gn:fcode":"ADM2",
-    "gn:pop":344831,
+    "gn:population":344831,
     "iso:country":"MA",
     "label:eng_x_preferred_longname":[
         "Tiznit Province"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":29.655558,
     "lbl:longitude":-9.471826,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Souss-Massa",
     "meso:adm1_loc":"\u0633\u0648\u0633-\u0645\u0627\u0633\u0629",
     "meso:adm1_loc2":"\u2d59\u2d53\u2d59\u2d59-\u2d4e\u2d30\u2d59\u2d59\u2d30",
@@ -39,6 +41,7 @@
     "mps:longitude":-9.471826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062a\u064a\u0632\u0646\u064a\u062a"
     ],
@@ -86,9 +89,7 @@
         "Tiznit"
     ],
     "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u062a\u0632\u0646\u064a\u062a"
-    ],
-    "name:unk_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u062a\u0632\u0646\u064a\u062a",
         "Igl\u012bm Tizn\u012bt"
     ],
     "name:zho_x_preferred":[
@@ -102,9 +103,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"Tiznit",
@@ -125,7 +126,7 @@
     "wof:concordances":{
         "gn:id":2527087,
         "hasc:id":"MA.SS.TI",
-        "qs:id":574983,
+        "qs_pg:id":574983,
         "wd:id":"Q2339589",
         "wk:page":"Tiznit"
     },
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":890428801,
-    "wof:lastmodified":1563362287,
+    "wof:lastmodified":1566602031,
     "wof:name":"Tiznit",
     "wof:parent_id":85673929,
     "wof:placetype":"county",

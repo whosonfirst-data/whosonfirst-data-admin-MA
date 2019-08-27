@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.97272,31.96292,-7.93272,32.00292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10910491
     },
     "wof:country":"MA",
-    "wof:geomhash":"80b4b70a1adba90e8c47ebb41768bfde",
+    "wof:geomhash":"f055d8c489d2249e018d78832d0d7aa9",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209635609,
-    "wof:lastmodified":1536281055,
+    "wof:lastmodified":1566600951,
     "wof:name":"Nzalat Habbal",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.9527199999999985,
+    -7.95272,
     31.98292,
-    -7.9527199999999985,
+    -7.95272,
     31.98292
 ],
   "geometry": {"coordinates":[-7.95272,31.98292],"type":"Point"}

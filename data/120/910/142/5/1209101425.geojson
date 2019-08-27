@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.58388,30.65253,-8.54388,30.69253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11144127
     },
     "wof:country":"MA",
-    "wof:geomhash":"b9870a30c89c4e2ffc5423ece1062dae",
+    "wof:geomhash":"706e56d5a15b3f651eee9fcbd7edc2d6",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209101425,
-    "wof:lastmodified":1536297720,
+    "wof:lastmodified":1566601230,
     "wof:name":"Ait Tama",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.563880000000001,
+    -8.56388,
     30.67253,
-    -8.563880000000001,
+    -8.56388,
     30.67253
 ],
   "geometry": {"coordinates":[-8.56388,30.67253],"type":"Point"}

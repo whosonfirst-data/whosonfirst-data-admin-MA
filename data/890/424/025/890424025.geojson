@@ -11,10 +11,14 @@
     "geom:longitude":-9.81144,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":6810,
+    "gn:population":6810,
     "iso:country":"MA",
+    "lbl:bbox":"-9.91144,29.37559,-9.71144,29.57559",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0643\u0627\u062f\u0629"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546594,
-        "qs:id":629695,
+        "qs_pg:id":629695,
         "wd:id":"Q12217625",
         "wk:page":"Sidi Bouabdelli"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890424025,
-    "wof:lastmodified":1563362150,
+    "wof:lastmodified":1566601999,
     "wof:name":"Sidi Bouabdelli",
     "wof:parent_id":890428801,
     "wof:placetype":"localadmin",

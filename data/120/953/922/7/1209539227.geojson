@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.43318,34.58184,-6.39318,34.62184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11099481
     },
     "wof:country":"MA",
-    "wof:geomhash":"4ab4dda9f48c4a6bcd6a27e5593167e8",
+    "wof:geomhash":"5d18b478af1efecbc500b9a521ebf2ec",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209539227,
-    "wof:lastmodified":1536284038,
+    "wof:lastmodified":1566600901,
     "wof:name":"Dar Boubarkat",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.4131800000000005,
+    -6.41318,
     34.60184,
-    -6.4131800000000005,
+    -6.41318,
     34.60184
 ],
   "geometry": {"coordinates":[-6.41318,34.60184],"type":"Point"}

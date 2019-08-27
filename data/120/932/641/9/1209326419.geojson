@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-2.16619,34.84854,-2.12619,34.88854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11067441
     },
     "wof:country":"MA",
-    "wof:geomhash":"79526bc727de3253cb801aefbca14efb",
+    "wof:geomhash":"aae6624bee8c281f8a87bfebc152fd3b",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209326419,
-    "wof:lastmodified":1536290520,
+    "wof:lastmodified":1566601115,
     "wof:name":"Aghrem Leffaqa",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.1461900000000003,
+    -2.14619,
     34.86854,
-    -2.1461900000000003,
+    -2.14619,
     34.86854
 ],
   "geometry": {"coordinates":[-2.14619,34.86854],"type":"Point"}

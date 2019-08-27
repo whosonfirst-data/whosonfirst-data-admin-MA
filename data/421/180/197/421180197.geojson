@@ -10,8 +10,12 @@
     "geom:latitude":29.52403,
     "geom:longitude":-9.13073,
     "iso:country":"MA",
+    "lbl:bbox":"-9.15073,29.50403,-9.11073,29.54403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0641\u0631\u0627\u0648\u062a"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Tafraout"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tafrawt"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":2531878,
         "gp:id":1540293,
-        "qs:id":423496,
+        "qs_pg:id":423496,
         "wd:id":"Q1936239"
     },
     "wof:country":"MA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421180197,
-    "wof:lastmodified":1563362026,
+    "wof:lastmodified":1566601970,
     "wof:name":"Tafraout",
     "wof:parent_id":890428801,
     "wof:placetype":"locality",

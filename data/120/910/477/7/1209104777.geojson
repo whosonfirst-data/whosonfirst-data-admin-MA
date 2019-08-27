@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.03102,31.63333,-6.99102,31.67333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11354927
     },
     "wof:country":"MA",
-    "wof:geomhash":"03ba1eab89247392020e62cee740d0af",
+    "wof:geomhash":"9c52dbf6c34ec425938a2bbcb3d4afa5",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209104777,
-    "wof:lastmodified":1536297612,
+    "wof:lastmodified":1566601229,
     "wof:name":"Ait Jaa",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.0110199999999985,
+    -7.01102,
     31.65333,
-    -7.0110199999999985,
+    -7.01102,
     31.65333
 ],
   "geometry": {"coordinates":[-7.01102,31.65333],"type":"Point"}

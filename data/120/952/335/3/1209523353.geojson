@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-3.82447,35.10009,-3.78447,35.14009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10958478
     },
     "wof:country":"MA",
-    "wof:geomhash":"c3d04acedb9a6d427727b1b795bec291",
+    "wof:geomhash":"f2af939f7861c21b46ad720f686938bf",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209523353,
-    "wof:lastmodified":1536284510,
+    "wof:lastmodified":1566600981,
     "wof:name":"Douar Ibouazzene",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -3.80447,
-    35.120090000000005,
+    35.12009,
     -3.80447,
-    35.120090000000005
+    35.12009
 ],
   "geometry": {"coordinates":[-3.80447,35.12009],"type":"Point"}
 }

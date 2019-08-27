@@ -9,15 +9,18 @@
     "geom:bbox":"-5.90534,35.00174,-5.90534,35.00174",
     "geom:latitude":35.00174,
     "geom:longitude":-5.90534,
-    "gn:gn_country":"MA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":108753,
+    "gn:country":"MA",
+    "gn:fcode":"PPL",
     "gn:population":108753,
     "iso:country":"MA",
+    "lbl:bbox":"-5.92534,34.98174,-5.88534,35.02174",
     "lbl:latitude":35.00174,
     "lbl:longitude":-5.90534,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0635\u0631 \u0627\u0644\u0643\u0628\u064a\u0631"
@@ -154,7 +157,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0441\u0430\u0440-\u0435\u043b\u044c-\u041a\u0435\u0431\u0456\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Ksar El Kbir"
     ],
     "name:urd_x_preferred":[
@@ -181,7 +184,7 @@
     "qs_pg:qs_id":278889,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":1125784187,
-    "wof:lastmodified":1563362511,
+    "wof:lastmodified":1566602094,
     "wof:name":"Ksar el Kebir",
     "wof:parent_id":890422513,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24451679.376883,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-7.632487,33.606017,-7.632487,33.606017",
     "geom:latitude":33.606017,
     "geom:longitude":-7.632487,
     "iso:country":"MA",
+    "lbl:bbox":"-7.637487,33.601017,-7.627487,33.611017",
     "lbl:latitude":33.606017,
     "lbl:longitude":-7.632487,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.607366,
     "mps:longitude":-7.639498,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:ara_x_variant":[
         "Casablanca el Hank"
-    ],
-    "name:unk_x_variant":[
-        "El Hank"
     ],
     "qs:gn_adm0_cc":"MA",
     "qs:gn_fcode":"PPLX",
@@ -61,18 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673905,
         102191573,
         85632693,
-        890442533,
-        85673905
+        890442533
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2550196,
         "gp:id":1534862,
-        "qs:id":1026463,
         "qs_pg:id":1026463
     },
     "wof:country":"MA",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862161,
+    "wof:lastmodified":1566600145,
     "wof:name":"El Hank",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

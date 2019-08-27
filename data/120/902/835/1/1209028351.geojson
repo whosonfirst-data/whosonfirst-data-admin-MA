@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.25135,32.96132,-8.21135,33.00132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11367523
     },
     "wof:country":"MA",
-    "wof:geomhash":"e85427b399da8024fbf5cdcf7992c26a",
+    "wof:geomhash":"28b6db69eca586a3197413fc53182ba3",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209028351,
-    "wof:lastmodified":1536299924,
+    "wof:lastmodified":1566601155,
     "wof:name":"Oulad Ajil",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -8.23135,
-    32.981320000000004,
+    32.98132,
     -8.23135,
-    32.981320000000004
+    32.98132
 ],
   "geometry": {"coordinates":[-8.23135,32.98132],"type":"Point"}
 }

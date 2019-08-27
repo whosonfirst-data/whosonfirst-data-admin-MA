@@ -11,10 +11,14 @@
     "geom:longitude":-7.43486,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":7165,
+    "gn:population":7165,
     "iso:country":"MA",
+    "lbl:bbox":"-7.53486,32.18488,-7.33486,32.38488",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0627\u062f \u0628\u0648\u0639\u0644\u064a \u0627\u0644\u0648\u0627\u062f"
     ],
@@ -52,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546267,
-        "qs:id":629394,
+        "qs_pg:id":629394,
         "wd:id":"Q7110394",
         "wk:page":"Oulad Cherki"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890417011,
-    "wof:lastmodified":1563362315,
+    "wof:lastmodified":1566602037,
     "wof:name":"Oulad Cherki",
     "wof:parent_id":1108784785,
     "wof:placetype":"localadmin",

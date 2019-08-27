@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":32.516752,
     "lbl:longitude":-4.65847,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Draa-Tafilalet",
     "meso:adm1_loc":"\u062f\u0631\u0639\u0629-\u062a\u0627\u0641\u064a\u0644\u0627\u0644\u062a",
     "meso:adm1_loc2":"\u2d37\u2d30\u2d54\u2d44\u2d30-\u2d5c\u2d30\u2d3c\u2d49\u2d4d\u2d30\u2d4d\u2d5c",
@@ -36,6 +38,7 @@
     "mps:longitude":-4.65847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0645\u064a\u062f\u0644\u062a"
     ],
@@ -69,16 +72,13 @@
     "name:spa_x_preferred":[
         "Provincia de Midelt"
     ],
-    "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u0645\u064a\u062f\u0644\u062a"
-    ],
     "name:zho_x_preferred":[
         "\u7c73\u5fb7\u52d2\u7279\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108784795,
-    "wof:lastmodified":1563361121,
+    "wof:lastmodified":1566601522,
     "wof:name":"Midelt",
     "wof:parent_id":85673915,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":-6.265,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":39887,
+    "gn:population":39887,
     "iso:country":"MA",
+    "lbl:bbox":"-6.365,32.49609,-6.165,32.69609",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0642\u064a\u0647 \u0628\u0646 \u0635\u0627\u0644\u062d (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
     ],
@@ -76,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546821,
-        "qs:id":629925,
+        "qs_pg:id":629925,
         "wd:id":"Q1734833",
         "wk:page":"Kasba Tadla"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890424085,
-    "wof:lastmodified":1563362152,
+    "wof:lastmodified":1566601999,
     "wof:name":"Kasba Tadla",
     "wof:parent_id":890452779,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.93841,31.94382,-7.89841,31.98382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10910498
     },
     "wof:country":"MA",
-    "wof:geomhash":"f4765402f3b708d9bdbe1329f9766cb9",
+    "wof:geomhash":"2cb7c668f5c67f4edb40ad113b1fd957",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209400687,
-    "wof:lastmodified":1536288157,
+    "wof:lastmodified":1566601045,
     "wof:name":"Oulad Razzoug",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.9184100000000015,
+    -7.91841,
     31.96382,
-    -7.9184100000000015,
+    -7.91841,
     31.96382
 ],
   "geometry": {"coordinates":[-7.91841,31.96382],"type":"Point"}

@@ -11,10 +11,14 @@
     "geom:longitude":-6.57094,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":14535,
+    "gn:population":14535,
     "iso:country":"MA",
+    "lbl:bbox":"-6.67094,32.17536,-6.47094,32.37536",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0639\u064a\u0633\u0649 \u0628\u0646 \u0639\u0644\u064a"
     ],
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546118,
-        "qs:id":629259,
+        "qs_pg:id":629259,
         "wk:page":"Sidi Hammadi"
     },
     "wof:country":"MA",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890452951,
-    "wof:lastmodified":1564111367,
+    "wof:lastmodified":1566602017,
     "wof:name":"Sidi Hammadi",
     "wof:parent_id":1108784787,
     "wof:placetype":"localadmin",

@@ -10,8 +10,12 @@
     "geom:latitude":31.03794,
     "geom:longitude":-4.00911,
     "iso:country":"MA",
+    "lbl:bbox":"-4.02911,31.01794,-3.98911,31.05794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Khamlia"
@@ -19,7 +23,7 @@
     "name:nld_x_preferred":[
         "Khamlia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khemlia"
     ],
     "qs:gn_country":"MA",
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":2544359,
         "gp:id":1537323,
-        "qs:id":492997,
+        "qs_pg:id":492997,
         "wd:id":"Q6399979"
     },
     "wof:country":"MA",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421196143,
-    "wof:lastmodified":1561839811,
+    "wof:lastmodified":1566601971,
     "wof:name":"Khemliya",
     "wof:parent_id":1108784773,
     "wof:placetype":"locality",

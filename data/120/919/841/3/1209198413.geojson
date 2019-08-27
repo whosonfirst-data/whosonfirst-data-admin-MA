@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.87172,30.75416,-7.83172,30.79416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11147990
     },
     "wof:country":"MA",
-    "wof:geomhash":"ab482519696c997c85f4d9028e6ec6b1",
+    "wof:geomhash":"dd456278d2409aeab5d39fabaeb3b3c2",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209198413,
-    "wof:lastmodified":1536294694,
+    "wof:lastmodified":1566601220,
     "wof:name":"Ighil",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.8517199999999985,
+    -7.85172,
     30.77416,
-    -7.8517199999999985,
+    -7.85172,
     30.77416
 ],
   "geometry": {"coordinates":[-7.85172,30.77416],"type":"Point"}

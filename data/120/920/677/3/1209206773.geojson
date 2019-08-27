@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.77979,32.54797,-8.73979,32.58797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10796455
     },
     "wof:country":"MA",
-    "wof:geomhash":"b19bca804bf376878b7a1c1861cf68b7",
+    "wof:geomhash":"76049cd3cf8b11f94e7d389d698885c8",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209206773,
-    "wof:lastmodified":1536294428,
+    "wof:lastmodified":1566601184,
     "wof:name":"Douar Lakehoula",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.759789999999999,
+    -8.75979,
     32.56797,
-    -8.759789999999999,
+    -8.75979,
     32.56797
 ],
   "geometry": {"coordinates":[-8.75979,32.56797],"type":"Point"}

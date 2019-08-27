@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.66256,34.18402,-6.62256,34.22402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10797327
     },
     "wof:country":"MA",
-    "wof:geomhash":"aea16eac7815352d10ae3b69faada66d",
+    "wof:geomhash":"f5e9da9d639ee55c7e52f979da4e0c18",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209615041,
-    "wof:lastmodified":1536281718,
+    "wof:lastmodified":1566601088,
     "wof:name":"Dar Gnabua",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.6425600000000005,
+    -6.64256,
     34.20402,
-    -6.6425600000000005,
+    -6.64256,
     34.20402
 ],
   "geometry": {"coordinates":[-6.64256,34.20402],"type":"Point"}

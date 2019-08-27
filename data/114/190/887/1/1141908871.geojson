@@ -9,15 +9,18 @@
     "geom:bbox":"-9.62004358055,30.4399882192,-9.62004358055,30.4399882192",
     "geom:latitude":30.439988,
     "geom:longitude":-9.620044,
-    "gn:gn_country":"MA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":698310,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA",
     "gn:population":698310,
     "iso:country":"MA",
+    "lbl:bbox":"-9.64004358055,30.4199882192,-9.60004358055,30.4599882192",
     "lbl:latitude":30.439988,
     "lbl:longitude":-9.620044,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Agadir"
     ],
@@ -240,7 +243,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0430\u0434\u0456\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Irhir"
     ],
     "name:urd_x_preferred":[
@@ -395,7 +398,7 @@
         }
     ],
     "wof:id":1141908871,
-    "wof:lastmodified":1563364287,
+    "wof:lastmodified":1566602963,
     "wof:name":"Agadir",
     "wof:parent_id":85673929,
     "wof:placetype":"locality",

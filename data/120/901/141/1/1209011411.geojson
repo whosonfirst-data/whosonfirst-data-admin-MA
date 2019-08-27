@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.27163,33.73168,-5.23163,33.77168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11024643
     },
     "wof:country":"MA",
-    "wof:geomhash":"2f3ba5a0f2301a6bfb79739961b29e35",
+    "wof:geomhash":"e23a83fb8940e1b7fd474c249b1a7a35",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209011411,
-    "wof:lastmodified":1536300434,
+    "wof:lastmodified":1566600941,
     "wof:name":"Dar Llassi Lhadi",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.2516300000000005,
+    -5.25163,
     33.75168,
-    -5.2516300000000005,
+    -5.25163,
     33.75168
 ],
   "geometry": {"coordinates":[-5.25163,33.75168],"type":"Point"}

@@ -11,10 +11,14 @@
     "geom:longitude":-6.07048,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":104769,
+    "gn:population":104769,
     "iso:country":"MA",
+    "lbl:bbox":"-6.17048,33.72449,-5.97048,33.92449",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0639\u0644\u0627\u0644 \u0627\u0644\u0645\u0635\u062f\u0631"
     ],
@@ -175,7 +179,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546130,
-        "qs:id":629270,
+        "qs_pg:id":629270,
         "wd:id":"Q1046653",
         "wk:page":"Khemisset"
     },
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":890441209,
-    "wof:lastmodified":1563362140,
+    "wof:lastmodified":1566601996,
     "wof:name":"Khemisset",
     "wof:parent_id":890453897,
     "wof:placetype":"localadmin",

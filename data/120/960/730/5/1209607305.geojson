@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.43392,32.44579,-7.39392,32.48579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10935366
     },
     "wof:country":"MA",
-    "wof:geomhash":"e503d7a1ef6610a3ea5ff83cd451b18c",
+    "wof:geomhash":"0fa8b67a60d11b552f13ee7114de904c",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209607305,
-    "wof:lastmodified":1536281967,
+    "wof:lastmodified":1566601130,
     "wof:name":"Oulad Jaddi Abdelouahed",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.41392,
-    32.465790000000005,
+    32.46579000000001,
     -7.41392,
-    32.465790000000005
+    32.46579000000001
 ],
   "geometry": {"coordinates":[-7.41392,32.46579000000001],"type":"Point"}
 }

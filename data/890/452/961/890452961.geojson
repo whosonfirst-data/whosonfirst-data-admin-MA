@@ -11,10 +11,14 @@
     "geom:longitude":-8.66917,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":5620,
+    "gn:population":5620,
     "iso:country":"MA",
+    "lbl:bbox":"-8.76917,30.16065,-8.56917,30.36065",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0627\u0645\u0632\u0627\u0644"
     ],
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546201,
-        "qs:id":629340,
+        "qs_pg:id":629340,
         "wd:id":"Q7687866",
         "wk:page":"Tataoute"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890452961,
-    "wof:lastmodified":1563362226,
+    "wof:lastmodified":1566602017,
     "wof:name":"Tataoute",
     "wof:parent_id":890445395,
     "wof:placetype":"localadmin",

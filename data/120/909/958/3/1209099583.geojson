@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.75992,32.31904,-7.71992,32.35904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10928926
     },
     "wof:country":"MA",
-    "wof:geomhash":"c44a58e0bfa1c000f8d0c3efcc89eef0",
+    "wof:geomhash":"8b77e66158bc0201fae2c8d8060d8d45",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209099583,
-    "wof:lastmodified":1536297777,
+    "wof:lastmodified":1566600889,
     "wof:name":"Oulad Ben Jilali",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.73992,
-    32.339040000000004,
+    32.33904,
     -7.73992,
-    32.339040000000004
+    32.33904
 ],
   "geometry": {"coordinates":[-7.73992,32.33904],"type":"Point"}
 }

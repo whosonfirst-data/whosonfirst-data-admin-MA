@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":33.489818,
     "lbl:longitude":-2.338697,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.489818,
     "mps:longitude":-2.338697,
     "mz:hierarchy_label":1,
@@ -33,7 +34,7 @@
     "name:fra_x_preferred":[
         "R\u00e9gion de l'Oriental"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oriental Region"
     ],
     "ne:abbrev":"",
@@ -107,7 +108,7 @@
     "qs:woeid":56120058,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MA-04",
     "wof:belongsto":[
         102191573,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":85673923,
-    "wof:lastmodified":1553550444,
+    "wof:lastmodified":1566600144,
     "wof:name":"Oriental",
     "wof:parent_id":85632693,
     "wof:placetype":"region",

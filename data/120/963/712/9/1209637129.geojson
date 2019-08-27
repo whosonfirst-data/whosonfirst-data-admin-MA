@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.70894,32.94517,-8.66894,32.98517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11367168
     },
     "wof:country":"MA",
-    "wof:geomhash":"cc209cc181f8a82ff7a9de8912c23d95",
+    "wof:geomhash":"9838692658005b854ad818a924212a04",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209637129,
-    "wof:lastmodified":1536281007,
+    "wof:lastmodified":1566600958,
     "wof:name":"Dar El 'Waza",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.688939999999999,
+    -8.68894,
     32.96517,
-    -8.688939999999999,
+    -8.68894,
     32.96517
 ],
   "geometry": {"coordinates":[-8.68894,32.96517],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.82843,32.02001,-7.78843,32.06001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10927746
     },
     "wof:country":"MA",
-    "wof:geomhash":"e6213006a7b7f086e088e0b35fabdf91",
+    "wof:geomhash":"375a58fb2f30b73550172482d4b07fdc",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209208111,
-    "wof:lastmodified":1536294384,
+    "wof:lastmodified":1566601179,
     "wof:name":"Dar El Arbada Abdelfaltah",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.80843,
-    32.040009999999995,
+    32.04001,
     -7.80843,
-    32.040009999999995
+    32.04001
 ],
   "geometry": {"coordinates":[-7.80843,32.04001],"type":"Point"}
 }

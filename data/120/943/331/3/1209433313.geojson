@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.02975,29.84517,-8.98975,29.88517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":2528444
     },
     "wof:country":"MA",
-    "wof:geomhash":"6c0808e57b79c8f1dda1bfff4a455d14",
+    "wof:geomhash":"f24499d6a79d94f9e295ffd5994070d2",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209433313,
-    "wof:lastmodified":1536287174,
+    "wof:lastmodified":1566601233,
     "wof:name":"Tiguissas",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.00975,
-    29.865170000000006,
+    29.86517000000001,
     -9.00975,
-    29.865170000000006
+    29.86517000000001
 ],
   "geometry": {"coordinates":[-9.00975,29.86517000000001],"type":"Point"}
 }

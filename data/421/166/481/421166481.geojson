@@ -10,13 +10,17 @@
     "geom:latitude":32.10488,
     "geom:longitude":-6.67575,
     "iso:country":"MA",
+    "lbl:bbox":"-6.69575,32.08488,-6.65575,32.12488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ait Attab"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayt Tab"
     ],
     "qs:gn_country":"MA",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2560449,
         "gp:id":1530149,
-        "qs:id":266882,
+        "qs_pg:id":266882,
         "wd:id":"Q4699229"
     },
     "wof:country":"MA",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421166481,
-    "wof:lastmodified":1563362014,
+    "wof:lastmodified":1566601967,
     "wof:name":"Ait Attab",
     "wof:parent_id":1108784827,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.75999,30.48435,-8.71999,30.52435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11144178
     },
     "wof:country":"MA",
-    "wof:geomhash":"059714e946958b1c7a7e54b44dc6d182",
+    "wof:geomhash":"01b52a09ebdf7574423c040ceb663967",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209504351,
-    "wof:lastmodified":1536285082,
+    "wof:lastmodified":1566601085,
     "wof:name":"Jemaa el Kebir",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.739989999999999,
+    -8.73999,
     30.50435,
-    -8.739989999999999,
+    -8.73999,
     30.50435
 ],
   "geometry": {"coordinates":[-8.73999,30.50435],"type":"Point"}

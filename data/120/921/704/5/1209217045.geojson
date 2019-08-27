@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-2.9262,35.07828,-2.8862,35.11828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10961524
     },
     "wof:country":"MA",
-    "wof:geomhash":"19001881fb12773105adb56f2a2c253a",
+    "wof:geomhash":"bb2c9a10cdafb9e249b268f15a49dd36",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209217045,
-    "wof:lastmodified":1536294096,
+    "wof:lastmodified":1566601223,
     "wof:name":"Ijouhriya",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -2.9062,
-    35.098279999999995,
+    35.09828,
     -2.9062,
-    35.098279999999995
+    35.09828
 ],
   "geometry": {"coordinates":[-2.9062,35.09828],"type":"Point"}
 }

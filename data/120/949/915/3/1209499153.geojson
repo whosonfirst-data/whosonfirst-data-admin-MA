@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.46312,29.60727,-9.42312,29.64727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11129926
     },
     "wof:country":"MA",
-    "wof:geomhash":"cc2ad806bc5751fdc7debef9b3c6a32f",
+    "wof:geomhash":"dd432d9ca016758fecdf7643a94fb50b",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209499153,
-    "wof:lastmodified":1536285239,
+    "wof:lastmodified":1566601055,
     "wof:name":"Aqacbat",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.44312,
-    29.627270000000006,
+    29.62727000000001,
     -9.44312,
-    29.627270000000006
+    29.62727000000001
 ],
   "geometry": {"coordinates":[-9.44312,29.62727000000001],"type":"Point"}
 }

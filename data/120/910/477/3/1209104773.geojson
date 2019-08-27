@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.06964,31.42249,-7.02964,31.46249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10951043
     },
     "wof:country":"MA",
-    "wof:geomhash":"91846f205ee843fac8e9faf555721308",
+    "wof:geomhash":"9b10ba6e8867017fb34869a8ac805146",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209104773,
-    "wof:lastmodified":1536297612,
+    "wof:lastmodified":1566601229,
     "wof:name":"Ait 'Abdi",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.049639999999999,
-    31.442490000000006,
-    -7.049639999999999,
-    31.442490000000006
+    -7.04964,
+    31.44249000000001,
+    -7.04964,
+    31.44249000000001
 ],
   "geometry": {"coordinates":[-7.04964,31.44249000000001],"type":"Point"}
 }

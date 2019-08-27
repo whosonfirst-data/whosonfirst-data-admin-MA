@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.6839,31.11224,-9.6439,31.15224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10889821
     },
     "wof:country":"MA",
-    "wof:geomhash":"21a6d589b646fdd75d681a6e6a73f067",
+    "wof:geomhash":"fb2285c7cc528d42ef70b414defec175",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209508467,
-    "wof:lastmodified":1536284958,
+    "wof:lastmodified":1566601082,
     "wof:name":"Id El Mouddene",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.6639,
-    31.132240000000003,
+    31.13224,
     -9.6639,
-    31.132240000000003
+    31.13224
 ],
   "geometry": {"coordinates":[-9.6639,31.13224],"type":"Point"}
 }

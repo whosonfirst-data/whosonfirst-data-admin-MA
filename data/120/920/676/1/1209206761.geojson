@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.42977,33.16174,-7.38977,33.20174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10869705
     },
     "wof:country":"MA",
-    "wof:geomhash":"e3ef3bfc93cfae7c76f30f86a344ac4c",
+    "wof:geomhash":"34226d0ee5057cdfa3117d6cc9697123",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209206761,
-    "wof:lastmodified":1536294429,
+    "wof:lastmodified":1566601182,
     "wof:name":"Douar Dqaqna",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.40977,
-    33.181740000000005,
+    33.18174,
     -7.40977,
-    33.181740000000005
+    33.18174
 ],
   "geometry": {"coordinates":[-7.40977,33.18174],"type":"Point"}
 }

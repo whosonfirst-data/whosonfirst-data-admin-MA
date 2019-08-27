@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.00218,33.82723,-6.96218,33.86723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10918944
     },
     "wof:country":"MA",
-    "wof:geomhash":"7f503bb0924c025c1be1bf18aafffc01",
+    "wof:geomhash":"6ae0246f76603cafac9b053dcb02a6cb",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209414859,
-    "wof:lastmodified":1536287721,
+    "wof:lastmodified":1566601011,
     "wof:name":"Lfardi",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.9821800000000005,
+    -6.98218,
     33.84723,
-    -6.9821800000000005,
+    -6.98218,
     33.84723
 ],
   "geometry": {"coordinates":[-6.98218,33.84723],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.34665,32.99154,-7.30665,33.03154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10936144
     },
     "wof:country":"MA",
-    "wof:geomhash":"d8d020a487d26bae5d06da0048908d53",
+    "wof:geomhash":"77c82a5982dff9ebcb6ca6b74fb5d1ba",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209336305,
-    "wof:lastmodified":1536290209,
+    "wof:lastmodified":1566601167,
     "wof:name":"Oulad Bou Allala",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.32665,
-    33.011540000000004,
+    33.01154,
     -7.32665,
-    33.011540000000004
+    33.01154
 ],
   "geometry": {"coordinates":[-7.32665,33.01154],"type":"Point"}
 }

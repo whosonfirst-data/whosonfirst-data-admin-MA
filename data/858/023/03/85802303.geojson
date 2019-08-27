@@ -10,8 +10,10 @@
     "geom:latitude":34.017399,
     "geom:longitude":-6.839281,
     "iso:country":"MA",
+    "lbl:bbox":"-6.844281,34.012399,-6.834281,34.022399",
     "lbl:latitude":34.017399,
     "lbl:longitude":-6.839281,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.019656,
     "mps:longitude":-6.853743,
     "mz:hierarchy_label":0,
@@ -62,9 +64,8 @@
     "name:spa_x_preferred":[
         "Oc\u00e9an"
     ],
-    "name:unk_x_variant":[
-        "Quartier de l\u2019Oc\u00e9an",
-        "Oc\u00e9an"
+    "name:und_x_variant":[
+        "Quartier de l\u2019Oc\u00e9an"
     ],
     "name:zho_x_preferred":[
         "\u5927\u6d0b\u5dde"
@@ -98,7 +99,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":81,
     "wof:belongsto":[
         85673911,
@@ -110,7 +111,6 @@
     "wof:concordances":{
         "gn:id":2541186,
         "gp:id":1538239,
-        "qs:id":1083615,
         "qs_pg:id":1083615
     },
     "wof:country":"MA",
@@ -129,7 +129,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1564107754,
+    "wof:lastmodified":1566600145,
     "wof:name":"Oc\u00e9an",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

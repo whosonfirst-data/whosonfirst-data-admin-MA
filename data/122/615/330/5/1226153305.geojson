@@ -23,8 +23,12 @@
     "gn:population":36021,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-3.02938,34.9909,-2.98938,35.0309",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0631\u0648\u064a"
     ],
@@ -65,12 +69,10 @@
         "Al Aaroui"
     ],
     "name:und_x_variant":[
-        "Monte Arruit",
         "Mont-Aroui",
         "Mont-Arruit",
         "Mont Arrouit",
-        "Monte \u2019Arrouit",
-        "Al Aaroui"
+        "Monte \u2019Arrouit"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1226153305,
-    "wof:lastmodified":1564113099,
+    "wof:lastmodified":1566602858,
     "wof:name":"Al Aaroui",
     "wof:parent_id":890455271,
     "wof:placetype":"locality",

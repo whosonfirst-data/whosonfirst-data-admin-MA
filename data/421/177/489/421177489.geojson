@@ -10,8 +10,12 @@
     "geom:latitude":35.84906,
     "geom:longitude":-5.35747,
     "iso:country":"MA",
+    "lbl:bbox":"-5.37747,35.82906,-5.33747,35.86906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0646\u064a\u062f\u0642"
@@ -76,7 +80,7 @@
     "name:swe_x_preferred":[
         "Fnideq"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Los Castillejos"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2548818,
         "gp:id":1535476,
-        "qs:id":423497,
+        "qs_pg:id":423497,
         "wd:id":"Q513678",
         "wk:page":"Fnideq"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421177489,
-    "wof:lastmodified":1563362051,
+    "wof:lastmodified":1566601977,
     "wof:name":"Fnideq",
     "wof:parent_id":1108784777,
     "wof:placetype":"locality",

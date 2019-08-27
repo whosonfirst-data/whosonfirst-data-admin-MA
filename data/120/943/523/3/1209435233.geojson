@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.50792,31.22163,-8.46792,31.26163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11149346
     },
     "wof:country":"MA",
-    "wof:geomhash":"2993b70f5c8ffa2945ff01c3e14b594d",
+    "wof:geomhash":"4b33a46e058643ef7c8d3de2c49cb954",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209435233,
-    "wof:lastmodified":1536287124,
+    "wof:lastmodified":1566601242,
     "wof:name":"Ait Bouyoussef",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.487919999999999,
+    -8.48792,
     31.24163,
-    -8.487919999999999,
+    -8.48792,
     31.24163
 ],
   "geometry": {"coordinates":[-8.48792,31.24163],"type":"Point"}

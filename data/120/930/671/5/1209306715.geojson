@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.86217,32.8231,-7.82217,32.8631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11368764
     },
     "wof:country":"MA",
-    "wof:geomhash":"f35d10d1ec8aa867495ca636bb8b28fa",
+    "wof:geomhash":"38ec6e9fd484ab3d2612206edce89454",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209306715,
-    "wof:lastmodified":1536291170,
+    "wof:lastmodified":1566600948,
     "wof:name":"Oulad Hajj Ali",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.8421699999999985,
+    -7.84217,
     32.8431,
-    -7.8421699999999985,
+    -7.84217,
     32.8431
 ],
   "geometry": {"coordinates":[-7.84217,32.8431],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.91253,30.88294,-6.87253,30.92294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":2531336
     },
     "wof:country":"MA",
-    "wof:geomhash":"4fa2b7bb5706a40b53465d4153e8a08f",
+    "wof:geomhash":"d36118f3d0df5149fc10524da11b8394",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209530611,
-    "wof:lastmodified":1536284292,
+    "wof:lastmodified":1566600906,
     "wof:name":"Tajda",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.892530000000002,
+    -6.89253,
     30.90294,
-    -6.892530000000002,
+    -6.89253,
     30.90294
 ],
   "geometry": {"coordinates":[-6.89253,30.90294],"type":"Point"}

@@ -11,10 +11,14 @@
     "geom:longitude":-6.79891,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":21466,
+    "gn:population":21466,
     "iso:country":"MA",
+    "lbl:bbox":"-6.89891,32.10644,-6.69891,32.30644",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0642\u0635\u0628\u0629 \u062a\u0627\u062f\u0644\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
     ],
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545549,
-        "qs:id":628690,
+        "qs_pg:id":628690,
         "wd:id":"Q3358158",
         "wk:page":"Oulad Ayad"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890440913,
-    "wof:lastmodified":1563362082,
+    "wof:lastmodified":1566601984,
     "wof:name":"Oulad Ayad",
     "wof:parent_id":1108784787,
     "wof:placetype":"localadmin",

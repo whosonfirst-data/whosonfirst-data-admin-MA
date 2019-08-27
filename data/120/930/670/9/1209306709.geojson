@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.23526,33.43903,-7.19526,33.47903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10939320
     },
     "wof:country":"MA",
-    "wof:geomhash":"1b96791bbc46b9dbaf5d39a671f45081",
+    "wof:geomhash":"00089d86cbaa0da7d7afb2ed0e362138",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209306709,
-    "wof:lastmodified":1536291170,
+    "wof:lastmodified":1566600948,
     "wof:name":"Cooperative Alaouiya",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.215260000000002,
+    -7.21526,
     33.45903,
-    -7.215260000000002,
+    -7.21526,
     33.45903
 ],
   "geometry": {"coordinates":[-7.21526,33.45903],"type":"Point"}

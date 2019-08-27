@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.79146,30.56569,-8.75146,30.60569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10948892
     },
     "wof:country":"MA",
-    "wof:geomhash":"1393c6117db81f737cb915aafb5c098f",
+    "wof:geomhash":"ac9ce009425501f3fe5aa20d94a98f09",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209404029,
-    "wof:lastmodified":1536288054,
+    "wof:lastmodified":1566601044,
     "wof:name":"Dar Jedida",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.771460000000001,
-    30.585690000000003,
-    -8.771460000000001,
-    30.585690000000003
+    -8.77146,
+    30.58569,
+    -8.77146,
+    30.58569
 ],
   "geometry": {"coordinates":[-8.77146,30.58569],"type":"Point"}
 }

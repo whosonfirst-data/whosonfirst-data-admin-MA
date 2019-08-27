@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.53039,32.57481,-8.49039,32.61481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10795807
     },
     "wof:country":"MA",
-    "wof:geomhash":"a95a0c9a298ce4943836459ef0bb653a",
+    "wof:geomhash":"37439e6420a79759df6256f147d4f23b",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209609825,
-    "wof:lastmodified":1536281885,
+    "wof:lastmodified":1566601133,
     "wof:name":"Dr. Laqraoucha",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -8.51039,
-    32.594809999999995,
+    32.59481,
     -8.51039,
-    32.594809999999995
+    32.59481
 ],
   "geometry": {"coordinates":[-8.51039,32.59481],"type":"Point"}
 }

@@ -11,10 +11,14 @@
     "geom:longitude":-7.64711,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":44859,
+    "gn:population":44859,
     "iso:country":"MA",
+    "lbl:bbox":"-7.74711,33.37629,-7.54711,33.57629",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0648\u0627\u0635\u0631 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
     ],
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546277,
-        "qs:id":629404,
+        "qs_pg:id":629404,
         "wd:id":"Q2294847",
         "wk:page":"Bouskoura"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890417033,
-    "wof:lastmodified":1563362323,
+    "wof:lastmodified":1566602038,
     "wof:name":"Bouskoura",
     "wof:parent_id":890424145,
     "wof:placetype":"localadmin",

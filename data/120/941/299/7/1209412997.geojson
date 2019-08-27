@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.95426,32.62227,-6.91426,32.66227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11436145
     },
     "wof:country":"MA",
-    "wof:geomhash":"c0b261f2b3f4ab9fd43231966ee26752",
+    "wof:geomhash":"f49414095482b88e71c0867a2a41ad61",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209412997,
-    "wof:lastmodified":1536287778,
+    "wof:lastmodified":1566601016,
     "wof:name":"Koudiat Tala' al Guess'a",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.934260000000001,
+    -6.93426,
     32.64227,
-    -6.934260000000001,
+    -6.93426,
     32.64227
 ],
   "geometry": {"coordinates":[-6.93426,32.64227],"type":"Point"}

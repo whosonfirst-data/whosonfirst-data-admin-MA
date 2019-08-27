@@ -10,8 +10,12 @@
     "geom:latitude":32.170672,
     "geom:longitude":-5.657958,
     "iso:country":"MA",
+    "lbl:bbox":"-5.677958,32.150672,-5.637958,32.190672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0625\u0645\u0644\u0634\u064a\u0644"
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1536647,
-        "qs:id":1118265,
+        "qs_pg:id":1118265,
         "wd:id":"Q2676569"
     },
     "wof:country":"MA",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421190061,
-    "wof:lastmodified":1563362041,
+    "wof:lastmodified":1566601975,
     "wof:name":"Imilchil",
     "wof:parent_id":1108784795,
     "wof:placetype":"locality",

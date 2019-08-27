@@ -10,10 +10,13 @@
     "geom:latitude":34.03136,
     "geom:longitude":-6.83631,
     "iso:country":"MA",
+    "lbl:bbox":"-6.84131,34.02636,-6.83131,34.03636",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kasba des Ouda\u00efas"
     ],
     "qs:gn_country":"MA",
@@ -36,16 +39,16 @@
     "qs:woe_id":1538350,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85673911,
         102191573,
         85632693,
-        890437999,
-        85673911
+        890437999
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2540758,
         "gp:id":1538350,
-        "qs:id":479120
+        "qs_pg:id":479120
     },
     "wof:country":"MA",
     "wof:created":1459009784,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421193831,
-    "wof:lastmodified":1531858721,
+    "wof:lastmodified":1566601970,
     "wof:name":"Oudaya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

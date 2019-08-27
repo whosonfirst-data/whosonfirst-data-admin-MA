@@ -10,8 +10,12 @@
     "geom:latitude":30.44599,
     "geom:longitude":-9.65877,
     "iso:country":"MA",
+    "lbl:bbox":"-9.67877,30.42599,-9.63877,30.46599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u0646\u0632\u0629"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Anza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Annza"
     ],
     "qs:gn_country":"MA",
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":2557674,
         "gp:id":1531520,
-        "qs:id":238645
+        "qs_pg:id":238645
     },
     "wof:country":"MA",
     "wof:created":1459010176,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421204193,
-    "wof:lastmodified":1564111323,
+    "wof:lastmodified":1566601970,
     "wof:name":"Anza",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

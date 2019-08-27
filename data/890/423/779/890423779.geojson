@@ -11,10 +11,14 @@
     "geom:longitude":-1.8579,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":16494,
+    "gn:population":16494,
     "iso:country":"MA",
+    "lbl:bbox":"-1.9579,34.58924,-1.7579,34.78924",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0639\u0644\u064a \u0628\u0644\u0642\u0627\u0633\u0645"
     ],
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545640,
-        "qs:id":628782
+        "qs_pg:id":628782
     },
     "wof:country":"MA",
     "wof:created":1469051514,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890423779,
-    "wof:lastmodified":1505343477,
+    "wof:lastmodified":1566602007,
     "wof:name":"Ahl Angad",
     "wof:parent_id":890453895,
     "wof:placetype":"localadmin",

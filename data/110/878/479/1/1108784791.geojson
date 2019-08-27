@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.020699,
     "lbl:longitude":-5.764358,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Beni Mellal-Khenifra",
     "meso:adm1_loc":"\u0628\u0646\u064a \u0645\u0644\u0627\u0644-\u062e\u0646\u064a\u0641\u0631\u0629",
     "meso:adm1_loc2":"\u2d30\u2d62\u2d5c \u2d4e\u2d4d\u2d4d\u2d30\u2d4d-\u2d45\u2d4f\u2d49\u2d3c\u2d55\u2d30",
@@ -36,6 +38,7 @@
     "mps:longitude":-5.764358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062e\u0646\u064a\u0641\u0631\u0629"
     ],
@@ -69,16 +72,13 @@
     "name:spa_x_preferred":[
         "Provincia de Jenifra"
     ],
-    "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u062e\u0646\u064a\u0641\u0631\u0629"
-    ],
     "name:zho_x_preferred":[
         "\u6d77\u5c3c\u592b\u62c9\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"Kh\u00e9nifra",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108784791,
-    "wof:lastmodified":1563361120,
+    "wof:lastmodified":1566601522,
     "wof:name":"Khenifra",
     "wof:parent_id":85673915,
     "wof:placetype":"county",

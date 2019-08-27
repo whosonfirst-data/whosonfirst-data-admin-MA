@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.48823,31.58464,-8.44823,31.62464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10901615
     },
     "wof:country":"MA",
-    "wof:geomhash":"c20d45850ea671b3937785b3bb0f82cb",
+    "wof:geomhash":"1b5d8561705ec744d9d16a320ab829c5",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209601147,
-    "wof:lastmodified":1536282163,
+    "wof:lastmodified":1566601138,
     "wof:name":"Douar El Koudia",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -8.46823,
-    31.604640000000003,
+    31.60464,
     -8.46823,
-    31.604640000000003
+    31.60464
 ],
   "geometry": {"coordinates":[-8.46823,31.60464],"type":"Point"}
 }

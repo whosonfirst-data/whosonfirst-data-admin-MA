@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.25822,33.22311,-7.21822,33.26311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10938837
     },
     "wof:country":"MA",
-    "wof:geomhash":"924118e3db15f4d94748d44a34e0ddc5",
+    "wof:geomhash":"00a1d7bb0da1fbaeff026fbd00bb4131",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209512369,
-    "wof:lastmodified":1536284842,
+    "wof:lastmodified":1566601147,
     "wof:name":"Douar Oulad El Maati",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.23822,
-    33.243109999999994,
+    33.24310999999999,
     -7.23822,
-    33.243109999999994
+    33.24310999999999
 ],
   "geometry": {"coordinates":[-7.23822,33.24310999999999],"type":"Point"}
 }

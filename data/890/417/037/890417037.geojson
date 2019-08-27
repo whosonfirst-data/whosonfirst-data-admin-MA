@@ -11,10 +11,14 @@
     "geom:longitude":-5.56232,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":9526,
+    "gn:population":9526,
     "iso:country":"MA",
+    "lbl:bbox":"-5.66232,34.08356,-5.46232,34.28356",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0627\u062f \u062d\u0633\u064a\u0646"
     ],
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546306,
-        "qs:id":629423,
+        "qs_pg:id":629423,
         "wd:id":"Q8064382",
         "wk:page":"Zaggota"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890417037,
-    "wof:lastmodified":1563362302,
+    "wof:lastmodified":1566602034,
     "wof:name":"Zaggota",
     "wof:parent_id":890429091,
     "wof:placetype":"localadmin",

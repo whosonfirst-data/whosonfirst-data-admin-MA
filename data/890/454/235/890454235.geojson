@@ -11,10 +11,14 @@
     "geom:longitude":-7.50489,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":207081,
+    "gn:population":207081,
     "iso:country":"MA",
+    "lbl:bbox":"-7.60489,33.48192,-7.40489,33.68192",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0633 \u0627\u0644\u0633\u0644\u0637\u0627\u0646 (\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629)"
     ],
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545968,
-        "qs:id":629111
+        "qs_pg:id":629111
     },
     "wof:country":"MA",
     "wof:created":1469052891,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890454235,
-    "wof:lastmodified":1564111372,
+    "wof:lastmodified":1566602025,
     "wof:name":"Moulay Rachid",
     "wof:parent_id":890442533,
     "wof:placetype":"localadmin",

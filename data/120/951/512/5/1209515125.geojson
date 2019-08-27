@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.99896,33.73128,-6.95896,33.77128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10918896
     },
     "wof:country":"MA",
-    "wof:geomhash":"0070749049e09b2e404152b680de9344",
+    "wof:geomhash":"a32c1ee63e6959581ca4e0713d0d0773",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209515125,
-    "wof:lastmodified":1536284757,
+    "wof:lastmodified":1566601150,
     "wof:name":"Lhachya",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.978960000000002,
+    -6.97896,
     33.75128,
-    -6.978960000000002,
+    -6.97896,
     33.75128
 ],
   "geometry": {"coordinates":[-6.97896,33.75128],"type":"Point"}

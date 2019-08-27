@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.81672,29.44209,-9.77672,29.48209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11100927
     },
     "wof:country":"MA",
-    "wof:geomhash":"828ff5d6364192c39de5e173c84810d5",
+    "wof:geomhash":"7cebfd652339e2b2704486d66f976bd4",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209203881,
-    "wof:lastmodified":1536294519,
+    "wof:lastmodified":1566601186,
     "wof:name":"Id Barka",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.79672,
-    29.462090000000003,
+    29.46209,
     -9.79672,
-    29.462090000000003
+    29.46209
 ],
   "geometry": {"coordinates":[-9.79672,29.46209],"type":"Point"}
 }

@@ -11,10 +11,14 @@
     "geom:longitude":-5.28192,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":2321,
+    "gn:population":2321,
     "iso:country":"MA",
+    "lbl:bbox":"-5.38192,34.51442,-5.18192,34.71442",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0643\u0632 \u0633\u064a\u062f\u064a \u0628\u0648\u0628\u0643\u0631"
     ],
@@ -65,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546545,
-        "qs:id":629648,
+        "qs_pg:id":629648,
         "wd:id":"Q2876283",
         "wk:page":"Ain Dorij"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890424021,
-    "wof:lastmodified":1563362161,
+    "wof:lastmodified":1566602002,
     "wof:name":"Ain Dorij",
     "wof:parent_id":1108784797,
     "wof:placetype":"localadmin",

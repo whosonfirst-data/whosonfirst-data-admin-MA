@@ -11,11 +11,15 @@
     "geom:longitude":-4.02696,
     "gn:country":"MA",
     "gn:fcode":"PPL",
-    "gn:pop":1250,
+    "gn:population":1250,
     "iso:country":"MA",
+    "lbl:bbox":"-4.04696,33.8865,-4.00696,33.9265",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tamrghoute"
     ],
     "qs:name":"Tamoughout",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2526981,
         "gp:id":1537909,
-        "qs:id":574981
+        "qs_pg:id":574981
     },
     "wof:country":"MA",
     "wof:created":1469051772,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890428799,
-    "wof:lastmodified":1505343508,
+    "wof:lastmodified":1566602030,
     "wof:name":"Tamoughout",
     "wof:parent_id":890436791,
     "wof:placetype":"locality",

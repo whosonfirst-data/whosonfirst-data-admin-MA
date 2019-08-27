@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.11283,31.21639,-9.07283,31.25639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11148957
     },
     "wof:country":"MA",
-    "wof:geomhash":"0d7b406e3b76eda9df37dd0560461014",
+    "wof:geomhash":"31a90f33b0b15e10d76dcae978f0abb9",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209334831,
-    "wof:lastmodified":1536290257,
+    "wof:lastmodified":1566601162,
     "wof:name":"Iboussabkane",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.09283,
-    31.236390000000004,
+    31.23639,
     -9.09283,
-    31.236390000000004
+    31.23639
 ],
   "geometry": {"coordinates":[-9.09283,31.23639],"type":"Point"}
 }

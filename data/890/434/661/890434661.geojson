@@ -11,8 +11,11 @@
     "geom:longitude":-7.61138,
     "gn:country":"MA",
     "gn:fcode":"PPLA",
-    "gn:pop":3144909,
+    "gn:population":3144909,
     "iso:country":"MA",
+    "lbl:bbox":"-7.63138,33.56831,-7.59138,33.60831",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":3.7,
@@ -343,7 +346,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0430\u0431\u043b\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anfa"
     ],
     "name:urd_x_preferred":[
@@ -483,7 +486,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2553604,
-        "qs:id":140533,
+        "qs_pg:id":140533,
         "wd:id":"Q7903",
         "wk:page":"Casablanca"
     },
@@ -500,7 +503,7 @@
         }
     ],
     "wof:id":890434661,
-    "wof:lastmodified":1563362424,
+    "wof:lastmodified":1566602061,
     "wof:name":"Casablanca",
     "wof:parent_id":890442533,
     "wof:placetype":"locality",

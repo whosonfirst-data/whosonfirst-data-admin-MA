@@ -10,8 +10,12 @@
     "geom:latitude":33.61297,
     "geom:longitude":-7.12079,
     "iso:country":"MA",
+    "lbl:bbox":"-7.14079,33.59297,-7.10079,33.63297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0646 \u0633\u0644\u064a\u0645\u0627\u0646"
@@ -73,7 +77,7 @@
     "name:swe_x_variant":[
         "Ben Slimane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bouhault"
     ],
     "name:urd_x_preferred":[
@@ -114,7 +118,7 @@
     "wof:concordances":{
         "gn:id":2555519,
         "gp:id":1532115,
-        "qs:id":1353127,
+        "qs_pg:id":1353127,
         "wd:id":"Q1970952",
         "wk:page":"Benslimane"
     },
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":421195947,
-    "wof:lastmodified":1563362017,
+    "wof:lastmodified":1566601968,
     "wof:name":"Ben Sliman",
     "wof:parent_id":890436421,
     "wof:placetype":"locality",

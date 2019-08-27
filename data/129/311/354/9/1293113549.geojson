@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.31016,32.24721,-7.27016,32.28721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0627\u0644\u062d\u0637\u0627\u0628"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "Zaouia Sidi Hattab",
         "Douar Sidi el Hattab",
-        "Oulad sidi el hatabe",
-        "Sidi El Hattab"
+        "Oulad sidi el hatabe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1293113549,
-    "wof:lastmodified":1564108350,
+    "wof:lastmodified":1566600426,
     "wof:name":"Sidi El Hattab",
     "wof:parent_id":1108784785,
     "wof:placetype":"locality",

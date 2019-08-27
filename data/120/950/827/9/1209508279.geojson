@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.89744,31.65868,-6.85744,31.69868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11355804
     },
     "wof:country":"MA",
-    "wof:geomhash":"cad2d1b7981fa400d4049b92620f4c9c",
+    "wof:geomhash":"f61c33bd256682e72913a7e13a0c53e3",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209508279,
-    "wof:lastmodified":1536284964,
+    "wof:lastmodified":1566601077,
     "wof:name":"Ikhachane",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.877439999999999,
+    -6.87744,
     31.67868,
-    -6.877439999999999,
+    -6.87744,
     31.67868
 ],
   "geometry": {"coordinates":[-6.87744,31.67868],"type":"Point"}

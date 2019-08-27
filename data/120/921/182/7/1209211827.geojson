@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.96706,33.2385,-6.92706,33.2785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10940238
     },
     "wof:country":"MA",
-    "wof:geomhash":"0b541c8c536c73225d028486e904fb3b",
+    "wof:geomhash":"d4445a48e63163bf56abbb4f651ee07a",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209211827,
-    "wof:lastmodified":1536294265,
+    "wof:lastmodified":1566601226,
     "wof:name":"El Batma",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.9470600000000005,
+    -6.94706,
     33.2585,
-    -6.9470600000000005,
+    -6.94706,
     33.2585
 ],
   "geometry": {"coordinates":[-6.94706,33.2585],"type":"Point"}

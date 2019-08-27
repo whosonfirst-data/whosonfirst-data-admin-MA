@@ -11,10 +11,14 @@
     "geom:longitude":-2.66973,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":9759,
+    "gn:population":9759,
     "iso:country":"MA",
+    "lbl:bbox":"-2.76973,33.92856,-2.56973,34.12856",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u064a\u062a \u0645\u064a\u0645\u0648\u0646"
     ],
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545920,
-        "qs:id":629063,
+        "qs_pg:id":629063,
         "wd:id":"Q3483246",
         "wk:page":"Sidi Lahsen"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890416857,
-    "wof:lastmodified":1563362355,
+    "wof:lastmodified":1566602045,
     "wof:name":"Sidi Lahsen",
     "wof:parent_id":1108784813,
     "wof:placetype":"localadmin",

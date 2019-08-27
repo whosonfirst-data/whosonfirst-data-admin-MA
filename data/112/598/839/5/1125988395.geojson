@@ -9,15 +9,18 @@
     "geom:bbox":"-7.58754,33.26553,-7.58754,33.26553",
     "geom:latitude":33.26553,
     "geom:longitude":-7.58754,
-    "gn:gn_country":"MA",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":93954,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA3",
     "gn:population":93954,
     "iso:country":"MA",
+    "lbl:bbox":"-7.60754,33.24553,-7.56754,33.28553",
     "lbl:latitude":33.26553,
     "lbl:longitude":-7.58754,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0631\u0634\u064a\u062f"
@@ -133,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0440\u0435\u0448\u0456\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bev-rechid"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +160,7 @@
     "qs_pg:qs_id":278909,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":1125988395,
-    "wof:lastmodified":1563362509,
+    "wof:lastmodified":1566602094,
     "wof:name":"Berrechid",
     "wof:parent_id":1108784793,
     "wof:placetype":"locality",

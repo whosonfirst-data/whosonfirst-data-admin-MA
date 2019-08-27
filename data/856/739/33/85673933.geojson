@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":31.650937,
     "lbl:longitude":-7.922582,
+    "lbl:min_zoom":8.0,
     "mps:latitude":31.650937,
     "mps:longitude":-7.922582,
     "mz:hierarchy_label":1,
@@ -152,7 +153,7 @@
         "Marrakech-Tensift-Al Haouz"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bb0\u0bb0\u0bbe\u0b95\u0bc7\u0bb7\u0bcd -\u0b9f\u0bc6\u0ba9\u0bcd\u0b9a\u0bbf\u0baa\u0bcd\u0b9f\u0bcd -\u0b8e\u0bb2\u0bcd  \u0bb9\u0bca\u0baf\u0bc2\u0bb8\u0bcd"
+        "\u0bae\u0bb0\u0bb0\u0bbe\u0b95\u0bc7\u0bb7\u0bcd -\u0b9f\u0bc6\u0ba9\u0bcd\u0b9a\u0bbf\u0baa\u0bcd\u0b9f\u0bcd -\u0b8e\u0bb2\u0bcd \u0bb9\u0bca\u0baf\u0bc2\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c30\u0c3e\u0c15\u0c47\u0c36\u0c4d-\u0c1f\u0c46\u0c28\u0c4d\u0c38\u0c3f\u0c2b\u0c4d\u0c1f\u0c4d-\u0c0e\u0c32\u0c4d \u0c39\u0c3e\u0c35\u0c41\u0c1c\u0c4d"
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041c\u0430\u0440\u0440\u0430\u043a\u0435\u0448-\u0422\u0435\u043d\u0441\u0456\u0444\u0442-\u0415\u043b\u044c-\u0425\u0430\u0443\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Marraquech"
     ],
     "name:urd_x_preferred":[
@@ -249,7 +250,7 @@
     "qs:woeid":56120056,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MA-HAO",
     "wd:wordcount":240,
     "wof:belongsto":[
@@ -285,7 +286,7 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1561839753,
+    "wof:lastmodified":1566600143,
     "wof:name":"Marrakech - Tensift - Al Haouz",
     "wof:parent_id":85632693,
     "wof:placetype":"region",

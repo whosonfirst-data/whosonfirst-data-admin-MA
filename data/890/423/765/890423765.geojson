@@ -11,10 +11,14 @@
     "geom:longitude":-7.56545,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":163052,
+    "gn:population":163052,
     "iso:country":"MA",
+    "lbl:bbox":"-7.66545,33.4623,-7.46545,33.6623",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u062e\u0648\u0631 \u0627\u0644\u0633\u0648\u062f\u0627\u0621 (\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629)"
     ],
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545475,
-        "qs:id":628623,
+        "qs_pg:id":628623,
         "wd:id":"Q3408877",
         "wk:page":"Ben M'Sick"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890423765,
-    "wof:lastmodified":1563362172,
+    "wof:lastmodified":1566602004,
     "wof:name":"Ben M'Sick",
     "wof:parent_id":890442533,
     "wof:placetype":"localadmin",

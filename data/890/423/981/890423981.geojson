@@ -11,10 +11,14 @@
     "geom:longitude":-7.19531,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":6185,
+    "gn:population":6185,
     "iso:country":"MA",
+    "lbl:bbox":"-7.29531,30.46964,-7.09531,30.66964",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0631\u0632\u0627\u0632\u0627\u062a (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
     ],
@@ -71,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546385,
-        "qs:id":629489,
+        "qs_pg:id":629489,
         "wd:id":"Q13420293",
         "wk:page":"Taznakht"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890423981,
-    "wof:lastmodified":1563362204,
+    "wof:lastmodified":1566602012,
     "wof:name":"Taznakht",
     "wof:parent_id":1108784843,
     "wof:placetype":"localadmin",

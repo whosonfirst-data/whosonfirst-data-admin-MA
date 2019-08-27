@@ -11,10 +11,14 @@
     "geom:longitude":-6.49441,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":15936,
+    "gn:population":15936,
     "iso:country":"MA",
+    "lbl:bbox":"-6.59441,34.24432,-6.39441,34.44432",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0643\u0631\u0646"
     ],
@@ -55,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546901,
-        "qs:id":629984,
+        "qs_pg:id":629984,
         "wd:id":"Q2369027",
         "wk:page":"Oulad Slama"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890440789,
-    "wof:lastmodified":1563362109,
+    "wof:lastmodified":1566601989,
     "wof:name":"Oulad Slama",
     "wof:parent_id":890427533,
     "wof:placetype":"localadmin",

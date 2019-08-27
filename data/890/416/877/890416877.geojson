@@ -11,10 +11,14 @@
     "geom:longitude":-7.55521,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":14630,
+    "gn:population":14630,
     "iso:country":"MA",
+    "lbl:bbox":"-7.65521,30.96641,-7.45521,31.16641",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0644\u0648\u0627\u062a"
     ],
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545937,
-        "qs:id":629079,
+        "qs_pg:id":629079,
         "wd:id":"Q20405809",
         "wk:page":"Tidli"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890416877,
-    "wof:lastmodified":1563362374,
+    "wof:lastmodified":1566602050,
     "wof:name":"Tidli",
     "wof:parent_id":1108784843,
     "wof:placetype":"localadmin",

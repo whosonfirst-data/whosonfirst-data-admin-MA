@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.62236,31.38419,-9.58236,31.42419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10946621
     },
     "wof:country":"MA",
-    "wof:geomhash":"9be9ebc2716e7ad318c24fe8fe1ac8cd",
+    "wof:geomhash":"35dde6e5d877de3f8f277e158edbee84",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209200485,
-    "wof:lastmodified":1536294628,
+    "wof:lastmodified":1566601179,
     "wof:name":"Douar Id Allal",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.60236,
-    31.404190000000003,
+    31.40419,
     -9.60236,
-    31.404190000000003
+    31.40419
 ],
   "geometry": {"coordinates":[-9.60236,31.40419],"type":"Point"}
 }

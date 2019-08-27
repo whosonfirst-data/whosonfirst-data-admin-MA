@@ -11,10 +11,14 @@
     "geom:longitude":-3.3984,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":5765,
+    "gn:population":5765,
     "iso:country":"MA",
+    "lbl:bbox":"-3.4984,34.6765,-3.2984,34.8765",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0631\u064a\u0648\u0634"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546073,
-        "qs:id":629216,
+        "qs_pg:id":629216,
         "wd:id":"Q17013217",
         "wk:page":"Oulad Boubker"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890441203,
-    "wof:lastmodified":1563362128,
+    "wof:lastmodified":1566601994,
     "wof:name":"Oulad Boubker",
     "wof:parent_id":1108784779,
     "wof:placetype":"localadmin",

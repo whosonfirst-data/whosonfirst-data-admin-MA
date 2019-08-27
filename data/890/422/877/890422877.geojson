@@ -11,10 +11,14 @@
     "geom:longitude":-8.47682,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":7212,
+    "gn:population":7212,
     "iso:country":"MA",
+    "lbl:bbox":"-8.57682,31.0476,-8.37682,31.2476",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0645\u0632\u0643\u062f\u0648\u064a\u0646"
     ],
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546627,
-        "qs:id":629729,
+        "qs_pg:id":629729,
         "wd:id":"Q4680871",
         "wk:page":"Adassil"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890422877,
-    "wof:lastmodified":1563362116,
+    "wof:lastmodified":1566601991,
     "wof:name":"Adassil",
     "wof:parent_id":890440847,
     "wof:placetype":"localadmin",

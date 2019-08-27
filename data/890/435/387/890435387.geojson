@@ -11,8 +11,11 @@
     "geom:longitude":-7.99994,
     "gn:country":"MA",
     "gn:fcode":"PPLA",
-    "gn:pop":839296,
+    "gn:population":839296,
     "iso:country":"MA",
+    "lbl:bbox":"-8.01994,31.61416,-7.97994,31.65416",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -289,7 +292,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0440\u0430\u043a\u0435\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maraksh"
     ],
     "name:urd_x_preferred":[
@@ -428,7 +431,7 @@
     "wof:concordances":{
         "gn:id":2542997,
         "gp:id":56125888,
-        "qs:id":274226,
+        "qs_pg:id":274226,
         "wd:id":"Q101625",
         "wk:page":"Marrakesh"
     },
@@ -445,7 +448,7 @@
         }
     ],
     "wof:id":890435387,
-    "wof:lastmodified":1563362440,
+    "wof:lastmodified":1566602064,
     "wof:name":"Marrakesh",
     "wof:parent_id":1108784829,
     "wof:placetype":"locality",

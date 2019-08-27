@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.75489,30.24804,-8.71489,30.28804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11143488
     },
     "wof:country":"MA",
-    "wof:geomhash":"8a0814a6f2e565ad884e38e90a1eb488",
+    "wof:geomhash":"ad5f079fbdcb3b5bdef5b463ed81463d",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209024689,
-    "wof:lastmodified":1536300038,
+    "wof:lastmodified":1566601160,
     "wof:name":"Anelgou",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -8.73489,
-    30.268040000000006,
+    30.26804000000001,
     -8.73489,
-    30.268040000000006
+    30.26804000000001
 ],
   "geometry": {"coordinates":[-8.73489,30.26804000000001],"type":"Point"}
 }

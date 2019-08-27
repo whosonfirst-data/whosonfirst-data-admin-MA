@@ -9,15 +9,18 @@
     "geom:bbox":"-6.5802,34.26101,-6.5802,34.26101",
     "geom:latitude":34.26101,
     "geom:longitude":-6.5802,
-    "gn:gn_country":"MA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":366570,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA",
     "gn:population":366570,
     "iso:country":"MA",
+    "lbl:bbox":"-6.6002,34.24101,-6.5602,34.28101",
     "lbl:latitude":34.26101,
     "lbl:longitude":-6.5802,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629"
@@ -187,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043d\u0456\u0442\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Port Laoti"
     ],
     "name:urd_x_preferred":[
@@ -220,7 +223,7 @@
     "qs_pg:qs_id":278890,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -247,7 +250,7 @@
         }
     ],
     "wof:id":1125770099,
-    "wof:lastmodified":1563362517,
+    "wof:lastmodified":1566602097,
     "wof:name":"Kenitra",
     "wof:parent_id":890427533,
     "wof:placetype":"locality",

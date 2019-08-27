@@ -11,8 +11,11 @@
     "geom:longitude":-9.23718,
     "gn:country":"MA",
     "gn:fcode":"PPLA",
-    "gn:pop":288163,
+    "gn:population":288163,
     "iso:country":"MA",
+    "lbl:bbox":"-9.25718,32.27939,-9.21718,32.31939",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -190,9 +193,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0444\u0456"
     ],
-    "name:unk_x_variant":[
-        "Asfi"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0641\u06cc\u060c \u0645\u0631\u0627\u06a9\u0634"
     ],
@@ -319,7 +319,7 @@
     "wof:concordances":{
         "gn:id":2537881,
         "gp:id":1537829,
-        "qs:id":1036571,
+        "qs_pg:id":1036571,
         "wd:id":"Q183405",
         "wk:page":"Safi"
     },
@@ -336,7 +336,7 @@
         }
     ],
     "wof:id":890444505,
-    "wof:lastmodified":1563362329,
+    "wof:lastmodified":1566602040,
     "wof:name":"Safi",
     "wof:parent_id":890445397,
     "wof:placetype":"locality",

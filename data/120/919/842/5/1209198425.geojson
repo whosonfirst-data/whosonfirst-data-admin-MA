@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.85871,30.69279,-7.81871,30.73279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10918387
     },
     "wof:country":"MA",
-    "wof:geomhash":"73151254049fc5b2a831263ef46f96ac",
+    "wof:geomhash":"358b1706a88ca2430b9bf5c5df06631a",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209198425,
-    "wof:lastmodified":1536294694,
+    "wof:lastmodified":1566601219,
     "wof:name":"Sidi Al Kouch",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.838710000000002,
+    -7.83871,
     30.71279,
-    -7.838710000000002,
+    -7.83871,
     30.71279
 ],
   "geometry": {"coordinates":[-7.83871,30.71279],"type":"Point"}

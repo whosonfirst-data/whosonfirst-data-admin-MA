@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-2.94585,35.00974,-2.90585,35.04974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10961484
     },
     "wof:country":"MA",
-    "wof:geomhash":"988e3fedbfc7f1616dfdad6f6b331ba2",
+    "wof:geomhash":"523c782197c95615d83d836ecf0ecf7f",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209108385,
-    "wof:lastmodified":1536297489,
+    "wof:lastmodified":1566601232,
     "wof:name":"Bni Hmad",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -2.92585,
-    35.029740000000004,
+    35.02974,
     -2.92585,
-    35.029740000000004
+    35.02974
 ],
   "geometry": {"coordinates":[-2.92585,35.02974],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.92208,32.67261,-8.88208,32.71261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10917778
     },
     "wof:country":"MA",
-    "wof:geomhash":"d37110f3159cf184134fc7467165b43f",
+    "wof:geomhash":"e293f925c91c1ef99b13be10562d60a7",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209409631,
-    "wof:lastmodified":1536287881,
+    "wof:lastmodified":1566601036,
     "wof:name":"Douar El Haj Tahar",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -8.90208,
-    32.692609999999995,
+    32.69260999999999,
     -8.90208,
-    32.692609999999995
+    32.69260999999999
 ],
   "geometry": {"coordinates":[-8.90208,32.69260999999999],"type":"Point"}
 }

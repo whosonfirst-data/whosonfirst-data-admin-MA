@@ -11,10 +11,14 @@
     "geom:longitude":-9.23643,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":7649,
+    "gn:population":7649,
     "iso:country":"MA",
+    "lbl:bbox":"-9.33643,30.45847,-9.13643,30.65847",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Eddir"
     ],
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546473,
-        "qs:id":629575,
+        "qs_pg:id":629575,
         "wd:id":"Q5336609",
         "wk:page":"Eddir"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890440573,
-    "wof:lastmodified":1563362082,
+    "wof:lastmodified":1566601984,
     "wof:name":"Eddir",
     "wof:parent_id":890445395,
     "wof:placetype":"localadmin",

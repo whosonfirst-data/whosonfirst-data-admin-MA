@@ -11,10 +11,14 @@
     "geom:longitude":-9.67735,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":5343,
+    "gn:population":5343,
     "iso:country":"MA",
+    "lbl:bbox":"-9.77735,30.48042,-9.57735,30.68042",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u062f\u0631\u0627\u0631\u062a"
     ],
@@ -79,7 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545796,
-        "qs:id":628939,
+        "qs_pg:id":628939,
         "wd:id":"Q621472",
         "wk:page":"Taghazout"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890416815,
-    "wof:lastmodified":1563362375,
+    "wof:lastmodified":1566602050,
     "wof:name":"Taghazout",
     "wof:parent_id":890429099,
     "wof:placetype":"localadmin",

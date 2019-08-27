@@ -11,10 +11,14 @@
     "geom:longitude":-6.13193,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":4087,
+    "gn:population":4087,
     "iso:country":"MA",
+    "lbl:bbox":"-6.23193,33.15646,-6.03193,33.35646",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u064a\u062a\u0632\u0631"
     ],
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546015,
-        "qs:id":629156,
+        "qs_pg:id":629156,
         "wd:id":"Q3325534",
         "wk:page":"Moulay Bouazza"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890420271,
-    "wof:lastmodified":1563362399,
+    "wof:lastmodified":1566602056,
     "wof:name":"Moulay Bouazza",
     "wof:parent_id":1108784791,
     "wof:placetype":"localadmin",

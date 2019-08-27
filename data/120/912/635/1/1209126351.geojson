@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.045,31.97154,-9.005,32.01154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10912285
     },
     "wof:country":"MA",
-    "wof:geomhash":"9fb6b198429a5ec3933af5d696599317",
+    "wof:geomhash":"f6eb407ea174cc2918def54a4b043331",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209126351,
-    "wof:lastmodified":1536296945,
+    "wof:lastmodified":1566601020,
     "wof:name":"Oulad Sidi Mhamed",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.025,
-    31.991540000000004,
+    31.99154,
     -9.025,
-    31.991540000000004
+    31.99154
 ],
   "geometry": {"coordinates":[-9.025,31.99154],"type":"Point"}
 }

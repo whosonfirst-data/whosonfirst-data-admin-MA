@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.79484,31.65357,-7.75484,31.69357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10428082
     },
     "wof:country":"MA",
-    "wof:geomhash":"96c5e114b9f21915fa9361cbbfcc3d15",
+    "wof:geomhash":"78abb191636944ea95799c967da325d7",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209334865,
-    "wof:lastmodified":1536290256,
+    "wof:lastmodified":1566601165,
     "wof:name":"Douar Dar El Hamra",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.774839999999998,
+    -7.77484,
     31.67357,
-    -7.774839999999998,
+    -7.77484,
     31.67357
 ],
   "geometry": {"coordinates":[-7.77484,31.67357],"type":"Point"}

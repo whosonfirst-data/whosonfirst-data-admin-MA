@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.10691,33.01459,-8.06691,33.05459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10964063
     },
     "wof:country":"MA",
-    "wof:geomhash":"a11ffcdb9c19acc35d7bfab2fbea3a92",
+    "wof:geomhash":"58f81049099060b7af4604ac6100b1e4",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209336323,
-    "wof:lastmodified":1536290208,
+    "wof:lastmodified":1566601163,
     "wof:name":"Hwachma",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.086910000000001,
+    -8.08691,
     33.03459,
-    -8.086910000000001,
+    -8.08691,
     33.03459
 ],
   "geometry": {"coordinates":[-8.08691,33.03459],"type":"Point"}

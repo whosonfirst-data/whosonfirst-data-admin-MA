@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.34905,33.49989,-7.30905,33.53989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10917886
     },
     "wof:country":"MA",
-    "wof:geomhash":"55ce1f3cfa6b948d0f97e443eb6c8b9c",
+    "wof:geomhash":"2e266e1c0d6bd49c009aa81c97f2bd9b",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209436729,
-    "wof:lastmodified":1536287082,
+    "wof:lastmodified":1566601233,
     "wof:name":"Oulad Chantouf",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.32905,
-    33.519890000000004,
+    33.51989,
     -7.32905,
-    33.519890000000004
+    33.51989
 ],
   "geometry": {"coordinates":[-7.32905,33.51989],"type":"Point"}
 }

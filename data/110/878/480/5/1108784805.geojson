@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":34.156916,
     "lbl:longitude":-5.112017,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Fez-Meknes",
     "meso:adm1_loc":"\u0641\u0627\u0633 - \u0645\u0643\u0646\u0627\u0633",
     "meso:adm1_loc2":"\u2d3c\u2d30\u2d59-\u2d4e\u2d3d\u2d4f\u2d30\u2d59",
@@ -36,6 +38,7 @@
     "mps:longitude":-5.112017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0645\u0648\u0644\u0627\u064a \u064a\u0639\u0642\u0648\u0628"
     ],
@@ -75,16 +78,13 @@
     "name:swe_x_preferred":[
         "Moulay-Yacoub"
     ],
-    "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u0645\u0648\u0644\u0627\u064a \u064a\u0639\u0642\u0648\u0628"
-    ],
     "name:zho_x_preferred":[
         "\u7a46\u96f7\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"F\u00e8s, Moulay Yacoub",
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1108784805,
-    "wof:lastmodified":1563361125,
+    "wof:lastmodified":1566601524,
     "wof:name":"Moulay Yacoub",
     "wof:parent_id":85673887,
     "wof:placetype":"county",

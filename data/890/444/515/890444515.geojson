@@ -11,11 +11,15 @@
     "geom:longitude":-4.42795,
     "gn:country":"MA",
     "gn:fcode":"PPL",
-    "gn:pop":25761,
+    "gn:population":25761,
     "iso:country":"MA",
+    "lbl:bbox":"-4.44795,34.02845,-4.40795,34.06845",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "El Ayba Tahalla"
     ],
     "qs:name":"Tahala",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2531480,
         "gp:id":1540461,
-        "qs:id":1036580
+        "qs_pg:id":1036580
     },
     "wof:country":"MA",
     "wof:created":1469052471,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890444515,
-    "wof:lastmodified":1505343599,
+    "wof:lastmodified":1566602040,
     "wof:name":"Tahala",
     "wof:parent_id":890436791,
     "wof:placetype":"locality",

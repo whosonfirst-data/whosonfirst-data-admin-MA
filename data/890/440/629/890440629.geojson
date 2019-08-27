@@ -11,10 +11,14 @@
     "geom:longitude":-9.76954,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":69005,
+    "gn:population":69005,
     "iso:country":"MA",
+    "lbl:bbox":"-9.86954,31.34845,-9.66954,31.54845",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ace_x_preferred":[
         "As-Shawirah"
     ],
@@ -217,7 +221,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546650,
-        "qs:id":629754,
+        "qs_pg:id":629754,
         "wd:id":"Q216939",
         "wk:page":"Essaouira"
     },
@@ -234,7 +238,7 @@
         }
     ],
     "wof:id":890440629,
-    "wof:lastmodified":1563362069,
+    "wof:lastmodified":1566601981,
     "wof:name":"Essaouira",
     "wof:parent_id":890453939,
     "wof:placetype":"localadmin",

@@ -9,15 +9,18 @@
     "geom:bbox":"-9.77,31.5125,-9.77,31.5125",
     "geom:latitude":31.5125,
     "geom:longitude":-9.77,
-    "gn:gn_country":"MA",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":70634,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA3",
     "gn:population":70634,
     "iso:country":"MA",
+    "lbl:bbox":"-9.79,31.4925,-9.75,31.5325",
     "lbl:latitude":31.5125,
     "lbl:longitude":-9.77,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "As-Shawirah"
@@ -205,7 +208,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0441-\u0421\u0443\u0432\u0435\u0439\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u015f \u015euwayrah"
     ],
     "name:urd_x_preferred":[
@@ -232,7 +235,7 @@
     "qs_pg:qs_id":1036607,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":1125893333,
-    "wof:lastmodified":1563362486,
+    "wof:lastmodified":1566602084,
     "wof:name":"Essaouira",
     "wof:parent_id":85673933,
     "wof:placetype":"locality",

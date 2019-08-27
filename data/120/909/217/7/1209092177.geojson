@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.68643,31.11797,-9.64643,31.15797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10889792
     },
     "wof:country":"MA",
-    "wof:geomhash":"e573ef506a58f182f8bb8d4e397be167",
+    "wof:geomhash":"5d0385adb6a0923c8283888cf599d514",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209092177,
-    "wof:lastmodified":1536298003,
+    "wof:lastmodified":1566600887,
     "wof:name":"Tabya",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.66643,
-    31.137970000000006,
+    31.13797000000001,
     -9.66643,
-    31.137970000000006
+    31.13797000000001
 ],
   "geometry": {"coordinates":[-9.66643,31.13797000000001],"type":"Point"}
 }

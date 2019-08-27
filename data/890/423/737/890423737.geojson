@@ -11,10 +11,14 @@
     "geom:longitude":-7.39768,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":14583,
+    "gn:population":14583,
     "iso:country":"MA",
+    "lbl:bbox":"-7.49768,31.47875,-7.29768,31.67875",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0645\u0632\u0648\u0632\u062a"
     ],
@@ -70,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545426,
-        "qs:id":628572,
+        "qs_pg:id":628572,
         "wd:id":"Q7690401",
         "wk:page":"Tazart"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890423737,
-    "wof:lastmodified":1563362171,
+    "wof:lastmodified":1566602004,
     "wof:name":"Tazart",
     "wof:parent_id":1108784801,
     "wof:placetype":"localadmin",

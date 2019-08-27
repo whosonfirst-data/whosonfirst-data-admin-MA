@@ -9,15 +9,18 @@
     "geom:bbox":"-3.35361,34.22568,-3.35361,34.22568",
     "geom:latitude":34.22568,
     "geom:longitude":-3.35361,
-    "gn:gn_country":"MA",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":57544,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA3",
     "gn:population":57544,
     "iso:country":"MA",
+    "lbl:bbox":"-3.37361,34.20568,-3.33361,34.24568",
     "lbl:latitude":34.22568,
     "lbl:longitude":-3.35361,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062c\u0631\u0633\u064a\u0641"
@@ -67,7 +70,7 @@
     "name:swe_x_preferred":[
         "Guercif"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Garsif"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":1036599,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125776345,
-    "wof:lastmodified":1563362516,
+    "wof:lastmodified":1566602097,
     "wof:name":"Guercif",
     "wof:parent_id":1108784807,
     "wof:placetype":"locality",

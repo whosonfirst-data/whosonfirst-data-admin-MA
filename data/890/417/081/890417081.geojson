@@ -11,10 +11,14 @@
     "geom:longitude":-5.52236,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":8514,
+    "gn:population":8514,
     "iso:country":"MA",
+    "lbl:bbox":"-5.62236,33.70276,-5.42236,33.90276",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u064a\u0645\u0648\u0632\u0627\u0631 \u0645\u0631\u0645\u0648\u0634\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
     ],
@@ -66,10 +70,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545885,
-        "qs:id":629443,
         "qs_pg:id":629029,
         "wd:id":"Q6737908",
         "wk:page":"Majjate"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":629443
     },
     "wof:country":"MA",
     "wof:created":1469051179,
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890417081,
-    "wof:lastmodified":1563362316,
+    "wof:lastmodified":1566602037,
     "wof:name":"Majjate",
     "wof:parent_id":1108784837,
     "wof:placetype":"localadmin",

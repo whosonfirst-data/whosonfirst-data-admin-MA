@@ -9,18 +9,21 @@
     "geom:bbox":"-4.0401,33.76755,-4.0401,33.76755",
     "geom:latitude":33.76755,
     "geom:longitude":-4.0401,
-    "gn:gn_country":"MA",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3534,
-    "gn:population":2410,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
+    "gn:population":3534,
     "iso:country":"MA",
+    "lbl:bbox":"-4.1401,33.66755,-3.9401,33.86755",
     "lbl:latitude":33.76755,
     "lbl:longitude":-4.0401,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
-        "\u0628\u0646\u064a \u0623\u062d\u0645\u062f  \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+        "\u0628\u0646\u064a \u0623\u062d\u0645\u062f \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
     ],
     "name:ara_x_variant":[
         "\u0628\u0648\u064a\u0628\u0644\u0627\u0646"
@@ -56,7 +59,7 @@
     "qs_pg:qs_id":629537,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125295653,
-    "wof:lastmodified":1564111450,
+    "wof:lastmodified":1566602083,
     "wof:name":"Bouyablane",
     "wof:parent_id":890436791,
     "wof:placetype":"localadmin",

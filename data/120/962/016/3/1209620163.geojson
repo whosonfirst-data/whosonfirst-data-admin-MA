@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.63294,34.23372,-6.59294,34.27372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10921200
     },
     "wof:country":"MA",
-    "wof:geomhash":"7c42013b8ad8221832f73edb1fc163f2",
+    "wof:geomhash":"c72c060391d6f2c8ff376fcaa839448c",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209620163,
-    "wof:lastmodified":1536281547,
+    "wof:lastmodified":1566600925,
     "wof:name":"Douar Cheikh",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.612939999999999,
+    -6.61294,
     34.25372,
-    -6.612939999999999,
+    -6.61294,
     34.25372
 ],
   "geometry": {"coordinates":[-6.61294,34.25372],"type":"Point"}

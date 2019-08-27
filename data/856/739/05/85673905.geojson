@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":33.531736,
     "lbl:longitude":-7.543818,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.531736,
     "mps:longitude":-7.543818,
     "mz:hierarchy_label":1,
@@ -162,7 +163,7 @@
         "Grand Casablanca"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0b95\u0bc7\u0b9a\u0baa\u0bcd\u0bb3\u0bbe\u0ba9\u0bcd\u0b95\u0bcd\u0b95\u0bbe"
+        "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0b95\u0bc7\u0b9a\u0baa\u0bcd\u0bb3\u0bbe\u0ba9\u0bcd\u0b95\u0bcd\u0b95\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c3e\u0c02\u0c21\u0c4d \u0c15\u0c3e\u0c38\u0c2c\u0c4d\u0c32\u0c3e\u0c02\u0c15\u0c3e"
@@ -176,7 +177,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u0430\u0441\u0430\u0431\u043b\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00e9fecture de Casablanca"
     ],
     "name:urd_x_preferred":[
@@ -259,7 +260,7 @@
     "qs:woeid":56120054,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MA-08",
     "wd:wordcount":241,
     "wof:belongsto":[
@@ -295,7 +296,7 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1563358761,
+    "wof:lastmodified":1566600143,
     "wof:name":"Grand Casablanca",
     "wof:parent_id":85632693,
     "wof:placetype":"region",

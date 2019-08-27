@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.26598,30.64932,-8.22598,30.68932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10916903
     },
     "wof:country":"MA",
-    "wof:geomhash":"0b013c59762c70095306253c8164368b",
+    "wof:geomhash":"69de4b8b8cff2d11a3d91426c14166ff",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209309803,
-    "wof:lastmodified":1536291069,
+    "wof:lastmodified":1566600950,
     "wof:name":"Tiguidar",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -8.24598,
-    30.669320000000006,
+    30.66932000000001,
     -8.24598,
-    30.669320000000006
+    30.66932000000001
 ],
   "geometry": {"coordinates":[-8.24598,30.66932000000001],"type":"Point"}
 }

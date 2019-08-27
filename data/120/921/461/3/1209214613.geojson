@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.85031,33.85362,-6.81031,33.89362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10918993
     },
     "wof:country":"MA",
-    "wof:geomhash":"6f82cbee1d692448e1490d9d7e6cb9f5",
+    "wof:geomhash":"f07ea01ad55eb3a919c5d1b167bb4d82",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209214613,
-    "wof:lastmodified":1536294175,
+    "wof:lastmodified":1566601225,
     "wof:name":"Dar Lhabchi Laamin",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.830310000000001,
+    -6.83031,
     33.87362,
-    -6.830310000000001,
+    -6.83031,
     33.87362
 ],
   "geometry": {"coordinates":[-6.83031,33.87362],"type":"Point"}

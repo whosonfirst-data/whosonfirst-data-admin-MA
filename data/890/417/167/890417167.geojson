@@ -11,10 +11,14 @@
     "geom:longitude":-8.9615,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":20142,
+    "gn:population":20142,
     "iso:country":"MA",
+    "lbl:bbox":"-9.0615,32.13368,-8.8615,32.33368",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u064a\u0648\u0633\u0641\u064a\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
     ],
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546519,
-        "qs:id":629625,
+        "qs_pg:id":629625,
         "wd:id":"Q532652",
         "wk:page":"Bouguedra"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890417167,
-    "wof:lastmodified":1563362290,
+    "wof:lastmodified":1566602031,
     "wof:name":"Bouguedra",
     "wof:parent_id":890445397,
     "wof:placetype":"localadmin",

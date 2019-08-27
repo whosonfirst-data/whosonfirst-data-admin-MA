@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.93719,32.12061,-8.89719,32.16061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10637645
     },
     "wof:country":"MA",
-    "wof:geomhash":"5b45701cfaf2527e79833017967856e5",
+    "wof:geomhash":"d1c27623ee6e84b7be79447d5b951259",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209126319,
-    "wof:lastmodified":1536296946,
+    "wof:lastmodified":1566601027,
     "wof:name":"Douar Laahouat",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -8.91719,
-    32.140609999999995,
+    32.14061,
     -8.91719,
-    32.140609999999995
+    32.14061
 ],
   "geometry": {"coordinates":[-8.91719,32.14061],"type":"Point"}
 }

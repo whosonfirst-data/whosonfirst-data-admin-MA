@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.93051,32.10002,-8.89051,32.14002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10636956
     },
     "wof:country":"MA",
-    "wof:geomhash":"9424bb48f2542940a80b28b2b134061b",
+    "wof:geomhash":"9f7056ab14ee2204d3d19a60024dd7d2",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209026775,
-    "wof:lastmodified":1536299971,
+    "wof:lastmodified":1566601159,
     "wof:name":"Douar Lalla Rahma",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -8.91051,
-    32.120020000000004,
+    32.12002,
     -8.91051,
-    32.120020000000004
+    32.12002
 ],
   "geometry": {"coordinates":[-8.91051,32.12002],"type":"Point"}
 }

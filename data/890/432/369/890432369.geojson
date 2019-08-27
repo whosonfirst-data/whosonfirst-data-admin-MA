@@ -11,11 +11,15 @@
     "geom:longitude":-6.00272,
     "gn:country":"MA",
     "gn:fcode":"PPL",
-    "gn:pop":44059,
+    "gn:population":44059,
     "iso:country":"MA",
+    "lbl:bbox":"-6.02272,34.66664,-5.98272,34.70664",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "El Arba du Gharb"
     ],
     "qs:name":"Souq Larb\u2019a al Gharb",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2532394,
         "gp:id":1540094,
-        "qs:id":278881
+        "qs_pg:id":278881
     },
     "wof:country":"MA",
     "wof:created":1469051938,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890432369,
-    "wof:lastmodified":1505343529,
+    "wof:lastmodified":1566602061,
     "wof:name":"Souq Larb\u2019a al Gharb",
     "wof:parent_id":890427533,
     "wof:placetype":"locality",

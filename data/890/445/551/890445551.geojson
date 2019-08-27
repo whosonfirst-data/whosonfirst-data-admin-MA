@@ -11,10 +11,14 @@
     "geom:longitude":-8.23118,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":7499,
+    "gn:population":7499,
     "iso:country":"MA",
+    "lbl:bbox":"-8.33118,32.11624,-8.13118,32.31624",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u0645\u0631\u0627\u0646 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546767,
-        "qs:id":629870,
+        "qs_pg:id":629870,
         "wd:id":"Q4699240",
         "wk:page":"Ait Hammou"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890445551,
-    "wof:lastmodified":1563362410,
+    "wof:lastmodified":1566602058,
     "wof:name":"Ait Hammou",
     "wof:parent_id":1108784803,
     "wof:placetype":"localadmin",

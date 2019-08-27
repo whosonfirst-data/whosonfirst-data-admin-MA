@@ -11,10 +11,14 @@
     "geom:longitude":-3.00008,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":36021,
+    "gn:population":36021,
     "iso:country":"MA",
+    "lbl:bbox":"-3.10008,34.92009,-2.90008,35.12009",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0641\u0648\u063a\u0627\u0644\u062a"
     ],
@@ -83,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6547049,
-        "qs:id":630128,
+        "qs_pg:id":630128,
         "wd:id":"Q613913",
         "wk:page":"Al Aaroui"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890422895,
-    "wof:lastmodified":1563362114,
+    "wof:lastmodified":1566601991,
     "wof:name":"Al Aaroui",
     "wof:parent_id":890455271,
     "wof:placetype":"localadmin",

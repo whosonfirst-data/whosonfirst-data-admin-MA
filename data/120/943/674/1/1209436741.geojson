@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.61016,32.95695,-7.57016,32.99695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11434047
     },
     "wof:country":"MA",
-    "wof:geomhash":"32d18e1731e11222de3cf9ea27c2d7b5",
+    "wof:geomhash":"9b1d842a0cd057a7b96a0a76f2f51f62",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209436741,
-    "wof:lastmodified":1536287081,
+    "wof:lastmodified":1566601234,
     "wof:name":"Oulad Sinto",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.590160000000001,
+    -7.59016,
     32.97695,
-    -7.590160000000001,
+    -7.59016,
     32.97695
 ],
   "geometry": {"coordinates":[-7.59016,32.97695],"type":"Point"}

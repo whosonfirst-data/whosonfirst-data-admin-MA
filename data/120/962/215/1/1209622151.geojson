@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.1237,34.30552,-5.0837,34.34552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10985490
     },
     "wof:country":"MA",
-    "wof:geomhash":"524dfea7e2785bc03b2bf954dd549175",
+    "wof:geomhash":"050668d9f36d420e924fdd1aaa71ed5b",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209622151,
-    "wof:lastmodified":1536281480,
+    "wof:lastmodified":1566600925,
     "wof:name":"Douar Sidi Abed",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -5.1037,
-    34.325520000000004,
+    34.32552,
     -5.1037,
-    34.325520000000004
+    34.32552
 ],
   "geometry": {"coordinates":[-5.1037,34.32552],"type":"Point"}
 }

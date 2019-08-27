@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.15587,32.4661,-8.11587,32.5061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10794879
     },
     "wof:country":"MA",
-    "wof:geomhash":"0a0deb080bf5940857897a92a41ea5c6",
+    "wof:geomhash":"9a9ae5c79c1e48e891d8f1a8b7b4f585",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209608501,
-    "wof:lastmodified":1536281927,
+    "wof:lastmodified":1566601131,
     "wof:name":"Douar Jbel",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.135869999999999,
+    -8.13587,
     32.4861,
-    -8.135869999999999,
+    -8.13587,
     32.4861
 ],
   "geometry": {"coordinates":[-8.13587,32.4861],"type":"Point"}

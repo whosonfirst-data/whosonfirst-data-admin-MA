@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.43271,32.66132,-7.39271,32.70132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10935945
     },
     "wof:country":"MA",
-    "wof:geomhash":"400b5f991964eea9bc135aba387cf2d6",
+    "wof:geomhash":"447f2d9f9abf99dce20f98b182d59115",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209028333,
-    "wof:lastmodified":1536299925,
+    "wof:lastmodified":1566601155,
     "wof:name":"Douar Oulad Boukhris",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.4127100000000015,
+    -7.41271,
     32.68132,
-    -7.4127100000000015,
+    -7.41271,
     32.68132
 ],
   "geometry": {"coordinates":[-7.41271,32.68132],"type":"Point"}

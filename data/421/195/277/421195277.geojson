@@ -10,8 +10,12 @@
     "geom:latitude":31.49406,
     "geom:longitude":-8.09709,
     "iso:country":"MA",
+    "lbl:bbox":"-8.11709,31.47406,-8.07709,31.51406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0645\u0635\u0644\u0648\u062d\u062a"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Tameslouht"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tameslout"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":2530641,
         "gp:id":1540802,
-        "qs:id":140521,
+        "qs_pg:id":140521,
         "wd:id":"Q3304306",
         "wk:page":"Tameslouht"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421195277,
-    "wof:lastmodified":1563362018,
+    "wof:lastmodified":1566601968,
     "wof:name":"Tameslouht",
     "wof:parent_id":1108784801,
     "wof:placetype":"locality",

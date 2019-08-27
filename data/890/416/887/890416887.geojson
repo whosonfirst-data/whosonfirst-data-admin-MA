@@ -11,10 +11,14 @@
     "geom:longitude":-5.60753,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":8281,
+    "gn:population":8281,
     "iso:country":"MA",
+    "lbl:bbox":"-5.70753,30.10117,-5.50753,30.30117",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u062d\u0627"
     ],
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545943,
-        "qs:id":629085
+        "qs_pg:id":629085
     },
     "wof:country":"MA",
     "wof:created":1469051169,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890416887,
-    "wof:lastmodified":1505343435,
+    "wof:lastmodified":1566602044,
     "wof:name":"Fezouata",
     "wof:parent_id":890424149,
     "wof:placetype":"localadmin",

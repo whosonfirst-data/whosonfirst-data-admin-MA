@@ -9,25 +9,28 @@
     "geom:bbox":"-4.9819,34.67442,-4.9819,34.67442",
     "geom:latitude":34.67442,
     "geom:longitude":-4.9819,
-    "gn:gn_country":"MA",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":14930,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
     "gn:population":14930,
     "iso:country":"MA",
+    "lbl:bbox":"-5.0819,34.57442,-4.8819,34.77442",
     "lbl:latitude":34.67442,
     "lbl:longitude":-4.9819,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0645\u0639\u0637\u0648\u0641"
     ],
     "name:fra_x_preferred":[
-        "Sidi Yahya  Bni Zero"
+        "Sidi Yahya Bni Zero"
     ],
     "name:fra_x_variant":[
-        "Sidi Yahya  Bni Zero (CR)",
-        "Sidi Yahya  Bni Zero (Commune Rurale)"
+        "Sidi Yahya Bni Zero (CR)",
+        "Sidi Yahya Bni Zero (Commune Rurale)"
     ],
     "qs_pg:aaroncc":"MA",
     "qs_pg:gn_country":"MA",
@@ -41,7 +44,7 @@
     "qs_pg:qs_id":630085,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -67,8 +70,8 @@
         }
     ],
     "wof:id":1125330891,
-    "wof:lastmodified":1509388378,
-    "wof:name":"Sidi Yahya  Bni Zero",
+    "wof:lastmodified":1566602069,
+    "wof:name":"Sidi Yahya Bni Zero",
     "wof:parent_id":890418103,
     "wof:placetype":"localadmin",
     "wof:population":14930,

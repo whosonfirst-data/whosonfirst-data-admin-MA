@@ -11,10 +11,14 @@
     "geom:longitude":-7.74018,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":6398,
+    "gn:population":6398,
     "iso:country":"MA",
+    "lbl:bbox":"-7.84018,31.75799,-7.64018,31.95799",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0623\u0633 \u0639\u064a\u0646 \u0627\u0644\u0631\u062d\u0627\u0645\u0646\u0629"
     ],
@@ -49,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546067,
-        "qs:id":629208,
+        "qs_pg:id":629208,
         "wk:page":"Sidi Boubker"
     },
     "wof:country":"MA",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890454253,
-    "wof:lastmodified":1564111374,
+    "wof:lastmodified":1566602027,
     "wof:name":"Sidi Boubker",
     "wof:parent_id":1108784803,
     "wof:placetype":"localadmin",

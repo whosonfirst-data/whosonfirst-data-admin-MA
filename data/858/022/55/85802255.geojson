@@ -10,8 +10,10 @@
     "geom:latitude":34.004605,
     "geom:longitude":-6.845139,
     "iso:country":"MA",
+    "lbl:bbox":"-6.850139,33.999605,-6.840139,34.009605",
     "lbl:latitude":34.004605,
     "lbl:longitude":-6.845139,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.008643,
     "mps:longitude":-6.870046,
     "mz:hierarchy_label":0,
@@ -41,9 +43,8 @@
     "name:nld_x_preferred":[
         "Agdal"
     ],
-    "name:unk_x_variant":[
-        "Grand Aguedal",
-        "Agdal"
+    "name:und_x_variant":[
+        "Grand Aguedal"
     ],
     "qs:gn_adm0_cc":"MA",
     "qs:gn_fcode":"PPLX",
@@ -74,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":106,
     "wof:belongsto":[
         85673911,
@@ -86,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2561545,
         "gp:id":1529623,
-        "qs:id":423185,
         "qs_pg:id":423185,
         "wd:id":"Q2826513"
     },
@@ -106,7 +106,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563358770,
+    "wof:lastmodified":1566600145,
     "wof:name":"Agdal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.15004,34.78568,-6.11004,34.82568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10938091
     },
     "wof:country":"MA",
-    "wof:geomhash":"13b30d736393c71b5deae950c178ae41",
+    "wof:geomhash":"3a767ac0b559eb585634a161e7ce9dcd",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209414875,
-    "wof:lastmodified":1536287721,
+    "wof:lastmodified":1566601015,
     "wof:name":"Oulad Barkate",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -6.13004,
-    34.805679999999995,
+    34.80568,
     -6.13004,
-    34.805679999999995
+    34.80568
 ],
   "geometry": {"coordinates":[-6.13004,34.80568],"type":"Point"}
 }

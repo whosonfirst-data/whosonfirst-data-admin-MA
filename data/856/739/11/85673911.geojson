@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":33.817935,
     "lbl:longitude":-6.311339,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.817935,
     "mps:longitude":-6.311339,
     "mz:hierarchy_label":1,
@@ -163,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0431\u0430\u0442-\u0421\u0430\u043b\u0435-\u0417\u0430\u043c\u043c\u0443\u0440-\u0417\u0430\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Am\u0101lat ar Rib\u0101\u0163-Sal\u0101"
     ],
     "name:urd_x_preferred":[
@@ -246,7 +247,7 @@
     "qs:woeid":56120059,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MA-SAL",
     "wd:wordcount":276,
     "wof:belongsto":[
@@ -282,7 +283,7 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1561839753,
+    "wof:lastmodified":1566600143,
     "wof:name":"Rabat - Sal\u00e9 - Zemmour - Zaer",
     "wof:parent_id":85632693,
     "wof:placetype":"region",

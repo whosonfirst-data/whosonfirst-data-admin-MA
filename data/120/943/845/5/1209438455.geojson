@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.17136,34.63174,-6.13136,34.67174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10969514
     },
     "wof:country":"MA",
-    "wof:geomhash":"f25b863f582584cb6c90d1e481b918af",
+    "wof:geomhash":"48ce43256c55609981ba16aa9a39a59b",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209438455,
-    "wof:lastmodified":1536287031,
+    "wof:lastmodified":1566601234,
     "wof:name":"Dar Lhaj Ariah",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -6.15136,
-    34.651740000000004,
+    34.65174,
     -6.15136,
-    34.651740000000004
+    34.65174
 ],
   "geometry": {"coordinates":[-6.15136,34.65174],"type":"Point"}
 }

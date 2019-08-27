@@ -11,10 +11,14 @@
     "geom:longitude":-9.75184,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":17433,
+    "gn:population":17433,
     "iso:country":"MA",
+    "lbl:bbox":"-9.85184,30.58855,-9.65184,30.78855",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u063a\u0632\u0648\u062a"
     ],
@@ -79,7 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545797,
-        "qs:id":628940,
+        "qs_pg:id":628940,
         "wd:id":"Q3514885",
         "wk:page":"Tamri"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890416817,
-    "wof:lastmodified":1563362350,
+    "wof:lastmodified":1566602044,
     "wof:name":"Tamri",
     "wof:parent_id":890429099,
     "wof:placetype":"localadmin",

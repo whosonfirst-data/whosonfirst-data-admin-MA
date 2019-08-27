@@ -11,10 +11,14 @@
     "geom:longitude":-7.29177,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":10555,
+    "gn:population":10555,
     "iso:country":"MA",
+    "lbl:bbox":"-7.39177,31.84558,-7.19177,32.04558",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062f\u0632\u0648\u0632"
     ],
@@ -115,7 +119,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546273,
-        "qs:id":629400,
+        "qs_pg:id":629400,
         "wd:id":"Q1440541",
         "wk:page":"Fraita"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890417023,
-    "wof:lastmodified":1563362291,
+    "wof:lastmodified":1566602032,
     "wof:name":"Fraita",
     "wof:parent_id":1108784785,
     "wof:placetype":"localadmin",

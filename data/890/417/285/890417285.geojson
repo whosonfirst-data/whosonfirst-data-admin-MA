@@ -11,10 +11,14 @@
     "geom:longitude":-5.59183,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":13291,
+    "gn:population":13291,
     "iso:country":"MA",
+    "lbl:bbox":"-5.69183,33.53883,-5.49183,33.73883",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u064a\u062a \u062d\u0631\u0632 \u0627\u0644\u0644\u0647"
     ],
@@ -73,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546953,
-        "qs:id":630037,
+        "qs_pg:id":630037,
         "wd:id":"Q2827113",
         "wk:page":"Agourai"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890417285,
-    "wof:lastmodified":1563362317,
+    "wof:lastmodified":1566602037,
     "wof:name":"Agourai",
     "wof:parent_id":1108784789,
     "wof:placetype":"localadmin",
