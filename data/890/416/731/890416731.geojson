@@ -11,12 +11,16 @@
     "geom:longitude":-7.96836,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":15192,
+    "gn:population":15192,
     "iso:country":"MA",
+    "lbl:bbox":"-8.06836,29.6562,-7.86836,29.8562",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
-        "\u0641\u0645  \u0632\u0643\u064a\u062f (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
+        "\u0641\u0645 \u0632\u0643\u064a\u062f (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
     ],
     "name:ara_x_variant":[
         "\u062a\u0627\u062a\u0627"
@@ -109,7 +113,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545618,
-        "qs:id":628759,
+        "qs_pg:id":628759,
         "wk:page":"Tata"
     },
     "wof:country":"MA",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":890416731,
-    "wof:lastmodified":1564111383,
+    "wof:lastmodified":1566602043,
     "wof:name":"Tata",
     "wof:parent_id":890453851,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.73038,31.41838,-7.69038,31.45838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11353597
     },
     "wof:country":"MA",
-    "wof:geomhash":"dfcbe8d2816dddb9fd8e9a15feae38da",
+    "wof:geomhash":"d1abd9252b1e501ccaea4205f294a87a",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209200421,
-    "wof:lastmodified":1536294631,
+    "wof:lastmodified":1566601181,
     "wof:name":"Igharbil",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.710380000000002,
+    -7.71038,
     31.43838,
-    -7.710380000000002,
+    -7.71038,
     31.43838
 ],
   "geometry": {"coordinates":[-7.71038,31.43838],"type":"Point"}

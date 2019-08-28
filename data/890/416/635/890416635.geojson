@@ -11,10 +11,14 @@
     "geom:longitude":-9.38717,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":8934,
+    "gn:population":8934,
     "iso:country":"MA",
+    "lbl:bbox":"-9.48717,30.99556,-9.28717,31.19556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u062f\u063a\u0627\u0633"
     ],
@@ -70,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545441,
-        "qs:id":628588,
+        "qs_pg:id":628588,
         "wd:id":"Q4692883",
         "wk:page":"Aglif"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890416635,
-    "wof:lastmodified":1563362357,
+    "wof:lastmodified":1566602046,
     "wof:name":"Aglif",
     "wof:parent_id":890453939,
     "wof:placetype":"localadmin",

@@ -11,10 +11,14 @@
     "geom:longitude":-5.29654,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":10413,
+    "gn:population":10413,
     "iso:country":"MA",
+    "lbl:bbox":"-5.39654,34.4582,-5.19654,34.6582",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0627\u0644\u0646\u0635\u0631"
     ],
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546311,
-        "qs:id":629426,
+        "qs_pg:id":629426,
         "wd:id":"Q17019247",
         "wk:page":"Sidi Ahmed Cherif"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890417045,
-    "wof:lastmodified":1563362313,
+    "wof:lastmodified":1566602036,
     "wof:name":"Sidi Ahmed Cherif",
     "wof:parent_id":1108784797,
     "wof:placetype":"localadmin",

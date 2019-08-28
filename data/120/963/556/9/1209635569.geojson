@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.82775,31.18807,-9.78775,31.22807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10869330
     },
     "wof:country":"MA",
-    "wof:geomhash":"376fa62eb6e18ef4af75b387c494f138",
+    "wof:geomhash":"d9b1b6c4b2e6c64b4d66397623990290",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209635569,
-    "wof:lastmodified":1536281057,
+    "wof:lastmodified":1566600951,
     "wof:name":"Issayedene",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.80775,
-    31.208070000000006,
+    31.20807000000001,
     -9.80775,
-    31.208070000000006
+    31.20807000000001
 ],
   "geometry": {"coordinates":[-9.80775,31.20807000000001],"type":"Point"}
 }

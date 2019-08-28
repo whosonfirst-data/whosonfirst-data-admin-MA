@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.85664,31.56873,-6.81664,31.60873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11355831
     },
     "wof:country":"MA",
-    "wof:geomhash":"c92a47a1f91d68b8d2a15ca0eb9110f4",
+    "wof:geomhash":"452ec94b289bc5c44dce28ae8a73de58",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209099377,
-    "wof:lastmodified":1536297783,
+    "wof:lastmodified":1566600884,
     "wof:name":"Tiniwalt",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.836639999999999,
+    -6.83664,
     31.58873,
-    -6.836639999999999,
+    -6.83664,
     31.58873
 ],
   "geometry": {"coordinates":[-6.83664,31.58873],"type":"Point"}

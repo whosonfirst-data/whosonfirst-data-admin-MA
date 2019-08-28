@@ -11,7 +11,7 @@
     "geom:longitude":-6.572717,
     "gn:country":"MA",
     "gn:fcode":"ADM2",
-    "gn:pop":499144,
+    "gn:population":499144,
     "iso:country":"MA",
     "label:eng_x_preferred_longname":[
         "Khouribga Province"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":32.926825,
     "lbl:longitude":-6.532041,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Beni Mellal-Khenifra",
     "meso:adm1_loc":"\u0628\u0646\u064a \u0645\u0644\u0627\u0644-\u062e\u0646\u064a\u0641\u0631\u0629",
     "meso:adm1_loc2":"\u2d30\u2d62\u2d5c \u2d4e\u2d4d\u2d4d\u2d30\u2d4d-\u2d45\u2d4f\u2d49\u2d3c\u2d55\u2d30",
@@ -39,6 +41,7 @@
     "mps:longitude":-6.532041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u062e\u0631\u064a\u0628\u0643\u0629"
     ],
@@ -79,12 +82,6 @@
     "name:swe_x_preferred":[
         "Khouribga Province"
     ],
-    "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u062e\u0631\u064a\u0628\u0643\u0629"
-    ],
-    "name:unk_x_variant":[
-        "Provincia de Juribga"
-    ],
     "name:zho_x_preferred":[
         "\u80e1\u91cc\u535c\u84cb\u7701"
     ],
@@ -96,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"Khouribga",
@@ -119,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2544246,
         "hasc:id":"MA.BK.KB",
-        "qs:id":575051,
+        "qs_pg:id":575051,
         "wd:id":"Q1740686",
         "wk:page":"Khouribga Province"
     },
@@ -135,7 +132,7 @@
         }
     ],
     "wof:id":890422519,
-    "wof:lastmodified":1563362115,
+    "wof:lastmodified":1566601991,
     "wof:name":"Khouribga",
     "wof:parent_id":85673901,
     "wof:placetype":"county",

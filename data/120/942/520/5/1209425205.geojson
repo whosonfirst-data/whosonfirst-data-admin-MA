@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.86757,30.59597,-7.82757,30.63597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":2527853
     },
     "wof:country":"MA",
-    "wof:geomhash":"98d5b86d26aec68fab196319ffa9a551",
+    "wof:geomhash":"d366120fe47a659a33d15cf164c718a3",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209425205,
-    "wof:lastmodified":1536287402,
+    "wof:lastmodified":1566601214,
     "wof:name":"Tinlif",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.847569999999998,
+    -7.84757,
     30.61597,
-    -7.847569999999998,
+    -7.84757,
     30.61597
 ],
   "geometry": {"coordinates":[-7.84757,30.61597],"type":"Point"}

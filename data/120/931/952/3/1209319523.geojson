@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.48953,34.14756,-5.44953,34.18756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10922149
     },
     "wof:country":"MA",
-    "wof:geomhash":"4e06a6064af8dcf367e9d717b66e7186",
+    "wof:geomhash":"20aa4ce23e1d6f628d6bab466b33dcff",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209319523,
-    "wof:lastmodified":1536290745,
+    "wof:lastmodified":1566600892,
     "wof:name":"Oulad Elah",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.469530000000002,
-    34.167559999999995,
-    -5.469530000000002,
-    34.167559999999995
+    -5.46953,
+    34.16755999999999,
+    -5.46953,
+    34.16755999999999
 ],
   "geometry": {"coordinates":[-5.46953,34.16755999999999],"type":"Point"}
 }

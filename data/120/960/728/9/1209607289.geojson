@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.90737,32.53536,-8.86737,32.57536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10796271
     },
     "wof:country":"MA",
-    "wof:geomhash":"816921db06028ef463fc839f9f0f8ece",
+    "wof:geomhash":"ba83fe5a01b4ded5ae4575603ac765d9",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209607289,
-    "wof:lastmodified":1536281968,
+    "wof:lastmodified":1566601138,
     "wof:name":"Douar Jaafar",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.887369999999997,
+    -8.88737,
     32.55536,
-    -8.887369999999997,
+    -8.88737,
     32.55536
 ],
   "geometry": {"coordinates":[-8.88737,32.55536],"type":"Point"}

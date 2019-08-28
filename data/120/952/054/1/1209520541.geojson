@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.87995,34.71606,-5.83995,34.75606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11025734
     },
     "wof:country":"MA",
-    "wof:geomhash":"4078614e227a7848bfbc63ee276d0a7a",
+    "wof:geomhash":"dee8bc2f7b8bfd0db941f422cf0e9b28",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209520541,
-    "wof:lastmodified":1536284594,
+    "wof:lastmodified":1566600979,
     "wof:name":"Douar Oulad Briniyya",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -5.85995,
-    34.736059999999995,
+    34.73605999999999,
     -5.85995,
-    34.736059999999995
+    34.73605999999999
 ],
   "geometry": {"coordinates":[-5.85995,34.73605999999999],"type":"Point"}
 }

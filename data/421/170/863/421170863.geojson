@@ -10,8 +10,12 @@
     "geom:latitude":31.19088,
     "geom:longitude":-6.19238,
     "iso:country":"MA",
+    "lbl:bbox":"-6.21238,31.17088,-6.17238,31.21088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MA",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2559158,
         "gp:id":1530885,
-        "qs:id":267452
+        "qs_pg:id":267452
     },
     "wof:country":"MA",
     "wof:created":1459008871,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421170863,
-    "wof:lastmodified":1499519194,
+    "wof:lastmodified":1566601977,
     "wof:name":"Ait Ridi",
     "wof:parent_id":1108784839,
     "wof:placetype":"locality",

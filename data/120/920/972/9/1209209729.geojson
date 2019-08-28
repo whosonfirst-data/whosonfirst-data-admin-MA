@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.58217,30.29879,-7.54217,30.33879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11147829
     },
     "wof:country":"MA",
-    "wof:geomhash":"09648c2ac4aae8bad4d7eb56f1294142",
+    "wof:geomhash":"f13dd04d19908e7185c6fefce6aa933c",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209209729,
-    "wof:lastmodified":1536294330,
+    "wof:lastmodified":1566601186,
     "wof:name":"Idikal",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.56217,
-    30.318790000000003,
+    30.31879,
     -7.56217,
-    30.318790000000003
+    30.31879
 ],
   "geometry": {"coordinates":[-7.56217,30.31879],"type":"Point"}
 }

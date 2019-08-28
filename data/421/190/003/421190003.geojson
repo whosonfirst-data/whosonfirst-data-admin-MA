@@ -10,8 +10,12 @@
     "geom:latitude":30.696634,
     "geom:longitude":-6.446228,
     "iso:country":"MA",
+    "lbl:bbox":"-6.466228,30.676634,-6.426228,30.716634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1529626,
-        "qs:id":1118207
+        "qs_pg:id":1118207
     },
     "wof:country":"MA",
     "wof:created":1459009643,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421190003,
-    "wof:lastmodified":1499519204,
+    "wof:lastmodified":1566601975,
     "wof:name":"\u0627\u0643\u062f\u0632",
     "wof:parent_id":890424149,
     "wof:placetype":"locality",

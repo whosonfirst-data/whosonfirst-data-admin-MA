@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.71922,32.48244,-7.67922,32.52244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":2535531
     },
     "wof:country":"MA",
-    "wof:geomhash":"a38c65788acdf11c6335c9d06e03aa4c",
+    "wof:geomhash":"f590dcf59115fcc2cead4c9cba895554",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209026819,
-    "wof:lastmodified":1536299970,
+    "wof:lastmodified":1566601151,
     "wof:name":"Sidi Bou Oukfa",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.699219999999999,
+    -7.69922,
     32.50244,
-    -7.699219999999999,
+    -7.69922,
     32.50244
 ],
   "geometry": {"coordinates":[-7.69922,32.50244],"type":"Point"}

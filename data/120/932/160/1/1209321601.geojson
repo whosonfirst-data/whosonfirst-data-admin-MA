@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-4.30922,34.34283,-4.26922,34.38283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10933077
     },
     "wof:country":"MA",
-    "wof:geomhash":"64de5d3fb4d2d1a1ec4b172d55c78a0a",
+    "wof:geomhash":"7864c9298f2d846a1cea7442dafc52b0",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209321601,
-    "wof:lastmodified":1536290674,
+    "wof:lastmodified":1566601107,
     "wof:name":"Douar El Kalaa",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.2892199999999985,
-    34.362829999999995,
-    -4.2892199999999985,
-    34.362829999999995
+    -4.28922,
+    34.36283,
+    -4.28922,
+    34.36283
 ],
   "geometry": {"coordinates":[-4.28922,34.36283],"type":"Point"}
 }

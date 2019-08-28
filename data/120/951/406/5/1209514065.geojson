@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.60974,31.57925,-6.56974,31.61925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11356028
     },
     "wof:country":"MA",
-    "wof:geomhash":"c5ab47404c64ad8388d6d15219bc8622",
+    "wof:geomhash":"fe19d7364016bccb8f83a3ac74448bf8",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209514065,
-    "wof:lastmodified":1536284790,
+    "wof:lastmodified":1566601145,
     "wof:name":"Tabghiwiyn",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.589739999999999,
+    -6.58974,
     31.59925,
-    -6.589739999999999,
+    -6.58974,
     31.59925
 ],
   "geometry": {"coordinates":[-6.58974,31.59925],"type":"Point"}

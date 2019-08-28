@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.609,32.60736,-7.569,32.64736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11368527
     },
     "wof:country":"MA",
-    "wof:geomhash":"1ff2065c5ae90735c82f45a74d84a2bc",
+    "wof:geomhash":"316fb6d777656bd754713cb314c03ca2",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209306737,
-    "wof:lastmodified":1536291169,
+    "wof:lastmodified":1566600944,
     "wof:name":"Ed-Debanecha",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.588999999999999,
+    -7.589,
     32.62736,
-    -7.588999999999999,
+    -7.589,
     32.62736
 ],
   "geometry": {"coordinates":[-7.589,32.62736],"type":"Point"}

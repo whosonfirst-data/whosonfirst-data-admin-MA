@@ -11,10 +11,14 @@
     "geom:longitude":-2.60141,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":3666,
+    "gn:population":3666,
     "iso:country":"MA",
+    "lbl:bbox":"-2.70141,34.88106,-2.50141,35.08106",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062d\u0627\u0633\u064a \u0628\u0631\u0643\u0627\u0646"
     ],
@@ -65,10 +69,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545784,
-        "qs:id":629201,
         "qs_pg:id":628928,
         "wd:id":"Q17013233",
         "wk:page":"Oulad Daoud Zkhanine"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":629201
     },
     "wof:country":"MA",
     "wof:created":1469052313,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890441193,
-    "wof:lastmodified":1563362122,
+    "wof:lastmodified":1566601993,
     "wof:name":"Oulad Daoud Zkhanine",
     "wof:parent_id":890455271,
     "wof:placetype":"localadmin",

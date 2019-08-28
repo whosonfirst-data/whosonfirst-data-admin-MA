@@ -11,10 +11,14 @@
     "geom:longitude":-5.93374,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":11147,
+    "gn:population":11147,
     "iso:country":"MA",
+    "lbl:bbox":"-6.03374,34.67492,-5.83374,34.87492",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0627\u0648\u0644\u0627\u062f \u0646\u0648\u0627\u0644"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546309,
-        "qs:id":629424,
+        "qs_pg:id":629424,
         "wd:id":"Q2368920",
         "wk:page":"Kariat Ben Aouda"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890417039,
-    "wof:lastmodified":1563362303,
+    "wof:lastmodified":1566602035,
     "wof:name":"Kariat Ben Aouda",
     "wof:parent_id":890427533,
     "wof:placetype":"localadmin",

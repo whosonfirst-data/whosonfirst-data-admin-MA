@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.10197,33.03759,-7.06197,33.07759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10798096
     },
     "wof:country":"MA",
-    "wof:geomhash":"0266dd9f9b73eb6fb0138d5ab9542193",
+    "wof:geomhash":"947b663a24a5f23fb64853958eefc005",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209512375,
-    "wof:lastmodified":1536284842,
+    "wof:lastmodified":1566601149,
     "wof:name":"Douar Oulad Taghi Toualae",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.08197,
-    33.057590000000005,
+    33.05759,
     -7.08197,
-    33.057590000000005
+    33.05759
 ],
   "geometry": {"coordinates":[-7.08197,33.05759],"type":"Point"}
 }

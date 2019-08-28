@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.78062,31.17176,-7.74062,31.21176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10950435
     },
     "wof:country":"MA",
-    "wof:geomhash":"00cfedef6ad6c30b35cbbd69b818f297",
+    "wof:geomhash":"41e4539ab30f69751bb70a3918e29ed5",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209022721,
-    "wof:lastmodified":1536300096,
+    "wof:lastmodified":1566601154,
     "wof:name":"Isgouarne",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.7606199999999985,
+    -7.76062,
     31.19176,
-    -7.7606199999999985,
+    -7.76062,
     31.19176
 ],
   "geometry": {"coordinates":[-7.76062,31.19176],"type":"Point"}

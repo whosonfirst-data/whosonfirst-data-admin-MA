@@ -11,10 +11,14 @@
     "geom:longitude":-9.15476,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":13203,
+    "gn:population":13203,
     "iso:country":"MA",
+    "lbl:bbox":"-9.25476,31.71834,-9.05476,31.91834",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0627\u0645\u062e\u0627\u0644\u064a\u0641"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546514,
-        "qs:id":629620,
+        "qs_pg:id":629620,
         "wd:id":"Q7508752",
         "wk:page":"Sidi Laaroussi"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890417157,
-    "wof:lastmodified":1563362288,
+    "wof:lastmodified":1566602031,
     "wof:name":"Sidi Laaroussi",
     "wof:parent_id":890453939,
     "wof:placetype":"localadmin",

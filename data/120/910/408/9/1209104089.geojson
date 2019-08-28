@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.86354,32.51945,-6.82354,32.55945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11436253
     },
     "wof:country":"MA",
-    "wof:geomhash":"e00f63413d77382cd79f1b77b6bc20e3",
+    "wof:geomhash":"34f5e67cb228d934ee275c8e642c7709",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209104089,
-    "wof:lastmodified":1536297634,
+    "wof:lastmodified":1566601229,
     "wof:name":"Qbeur Brahim",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.843539999999999,
+    -6.84354,
     32.53945,
-    -6.843539999999999,
+    -6.84354,
     32.53945
 ],
   "geometry": {"coordinates":[-6.84354,32.53945],"type":"Point"}

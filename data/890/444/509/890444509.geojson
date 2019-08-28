@@ -11,8 +11,11 @@
     "geom:longitude":-1.90764,
     "gn:country":"MA",
     "gn:fcode":"PPLA",
-    "gn:pop":405253,
+    "gn:population":405253,
     "iso:country":"MA",
+    "lbl:bbox":"-1.92764,34.66052,-1.88764,34.70052",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -199,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0434\u0436\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ouja"
     ],
     "name:urd_x_preferred":[
@@ -325,7 +328,7 @@
     "wof:concordances":{
         "gn:id":2540483,
         "gp:id":1538412,
-        "qs:id":1036573,
+        "qs_pg:id":1036573,
         "wd:id":"Q193802",
         "wk:page":"Oujda"
     },
@@ -342,7 +345,7 @@
         }
     ],
     "wof:id":890444509,
-    "wof:lastmodified":1563362336,
+    "wof:lastmodified":1566602040,
     "wof:name":"Oujda",
     "wof:parent_id":890453895,
     "wof:placetype":"locality",

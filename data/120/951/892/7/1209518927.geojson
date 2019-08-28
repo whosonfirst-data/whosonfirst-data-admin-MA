@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.40337,35.85478,-5.36337,35.89478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11066496
     },
     "wof:country":"MA",
-    "wof:geomhash":"5a2e6bf6469517aa35faf2d01fb0a88b",
+    "wof:geomhash":"362f663b9f33653ac6736f260ac2e678",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209518927,
-    "wof:lastmodified":1536284642,
+    "wof:lastmodified":1566601145,
     "wof:name":"Oued Lakhlout",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.383369999999998,
+    -5.38337,
     35.87478,
-    -5.383369999999998,
+    -5.38337,
     35.87478
 ],
   "geometry": {"coordinates":[-5.38337,35.87478],"type":"Point"}

@@ -10,8 +10,12 @@
     "geom:latitude":34.09631,
     "geom:longitude":-4.04358,
     "iso:country":"MA",
+    "lbl:bbox":"-4.06358,34.07631,-4.02358,34.11631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u0639\u0648\u062f\u0629"
@@ -25,7 +29,7 @@
     "name:pol_x_preferred":[
         "Ajn al-Auda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Douar A\u00efn el Aouda"
     ],
     "qs:gn_country":"MA",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2560886,
         "gp:id":1529908,
-        "qs:id":266881
+        "qs_pg:id":266881
     },
     "wof:country":"MA",
     "wof:created":1459008691,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421166479,
-    "wof:lastmodified":1527716102,
+    "wof:lastmodified":1566601967,
     "wof:name":"Ain el Aouda",
     "wof:parent_id":890436791,
     "wof:placetype":"locality",

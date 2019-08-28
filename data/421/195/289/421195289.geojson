@@ -10,8 +10,12 @@
     "geom:latitude":34.05521,
     "geom:longitude":-5.52361,
     "iso:country":"MA",
+    "lbl:bbox":"-5.54361,34.03521,-5.50361,34.07521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0644\u0627\u064a \u0627\u062f\u0631\u064a\u0633 \u0632\u0631\u0647\u0648\u0646"
@@ -70,9 +74,6 @@
     "name:swe_x_preferred":[
         "Moulay Idriss"
     ],
-    "name:unk_x_variant":[
-        "Moulay Idris"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0644\u0627\u0626\u06d2 \u0627\u062f\u0631\u06cc\u0633 \u0632\u0631\u06c1\u0648\u0646"
     ],
@@ -109,7 +110,7 @@
     "wof:concordances":{
         "gn:id":2541805,
         "gp:id":1538090,
-        "qs:id":317064,
+        "qs_pg:id":317064,
         "wd:id":"Q593222",
         "wk:page":"Moulay Idriss Zerhoun"
     },
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421195289,
-    "wof:lastmodified":1563362016,
+    "wof:lastmodified":1566601968,
     "wof:name":"Moulay Idriss",
     "wof:parent_id":1108784837,
     "wof:placetype":"locality",

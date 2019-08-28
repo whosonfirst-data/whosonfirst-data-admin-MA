@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.12761,32.25379,-8.08761,32.29379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10867956
     },
     "wof:country":"MA",
-    "wof:geomhash":"1862483323c2d0f2dea3e7d87fb9878f",
+    "wof:geomhash":"d34d5826ef34da0e2152129f8af6b6ac",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209026769,
-    "wof:lastmodified":1536299972,
+    "wof:lastmodified":1566601157,
     "wof:name":"Chdayda",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.107610000000001,
-    32.273790000000005,
-    -8.107610000000001,
-    32.273790000000005
+    -8.10761,
+    32.27379000000001,
+    -8.10761,
+    32.27379000000001
 ],
   "geometry": {"coordinates":[-8.10761,32.27379000000001],"type":"Point"}
 }

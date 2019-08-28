@@ -11,10 +11,14 @@
     "geom:longitude":-8.97507,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":12107,
+    "gn:population":12107,
     "iso:country":"MA",
+    "lbl:bbox":"-9.07507,31.7968,-8.87507,31.9968",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062e\u0637 \u0627\u0632\u0643\u0627\u0646"
     ],
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545491,
-        "qs:id":628637
+        "qs_pg:id":628637
     },
     "wof:country":"MA",
     "wof:created":1469052112,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890436445,
-    "wof:lastmodified":1505343553,
+    "wof:lastmodified":1566602022,
     "wof:name":"Laamamra",
     "wof:parent_id":890445397,
     "wof:placetype":"localadmin",

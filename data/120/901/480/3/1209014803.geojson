@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.48023,30.06928,-8.44023,30.10928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u063a\u0631\u0645"
     ],
@@ -41,9 +45,7 @@
         "Irherm"
     ],
     "name:und_x_variant":[
-        "Irherm",
-        "Ighram",
-        "Igherm"
+        "Ighram"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1209014803,
-    "wof:lastmodified":1564109323,
+    "wof:lastmodified":1566600940,
     "wof:name":"Ighram",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",

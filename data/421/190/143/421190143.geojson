@@ -10,6 +10,9 @@
     "geom:latitude":34.039004,
     "geom:longitude":-4.999465,
     "iso:country":"MA",
+    "lbl:bbox":"-5.019465,34.019004,-4.979465,34.059004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -279,9 +282,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "F\u00e8s"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0633"
     ],
@@ -427,7 +427,7 @@
     "wof:concordances":{
         "gn:id":2548885,
         "gp:id":1542372,
-        "qs:id":1118316,
+        "qs_pg:id":1118316,
         "wd:id":"Q80985"
     },
     "wof:country":"MA",
@@ -443,7 +443,7 @@
         }
     ],
     "wof:id":421190143,
-    "wof:lastmodified":1563362036,
+    "wof:lastmodified":1566601973,
     "wof:name":"Fes-Ville-Nouvelle",
     "wof:parent_id":890454333,
     "wof:placetype":"locality",

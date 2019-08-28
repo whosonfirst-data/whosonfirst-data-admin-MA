@@ -11,10 +11,14 @@
     "geom:longitude":-7.68688,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":7202,
+    "gn:population":7202,
     "iso:country":"MA",
+    "lbl:bbox":"-7.78688,32.85948,-7.58688,33.05948",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u062e\u0645\u064a\u0633\u0627\u062a \u0627\u0644\u0634\u0627\u0648\u064a\u0629"
     ],
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546082,
-        "qs:id":629225,
+        "qs_pg:id":629225,
         "wd:id":"Q6473439",
         "wk:page":"Lahouaza"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890452941,
-    "wof:lastmodified":1563362222,
+    "wof:lastmodified":1566602016,
     "wof:name":"Lahouaza",
     "wof:parent_id":1108784833,
     "wof:placetype":"localadmin",

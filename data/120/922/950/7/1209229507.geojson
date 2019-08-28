@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-4.34047,34.50123,-4.30047,34.54123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":2549294
     },
     "wof:country":"MA",
-    "wof:geomhash":"702bf4ae3dc5e514f0179a63a445eff9",
+    "wof:geomhash":"53b101cc5d927caaba1cbf55bbee2c9e",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209229507,
-    "wof:lastmodified":1536293683,
+    "wof:lastmodified":1566601071,
     "wof:name":"Er Roukba",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.3204699999999985,
+    -4.32047,
     34.52123,
-    -4.3204699999999985,
+    -4.32047,
     34.52123
 ],
   "geometry": {"coordinates":[-4.32047,34.52123],"type":"Point"}

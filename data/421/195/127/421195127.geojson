@@ -10,8 +10,12 @@
     "geom:latitude":32.11539,
     "geom:longitude":-6.47175,
     "iso:country":"MA",
+    "lbl:bbox":"-6.49175,32.09539,-6.45175,32.13539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646 \u0648\u064a\u062f\u0627\u0646"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Bin El Ouidane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ben el Ouidane"
     ],
     "qs:gn_country":"MA",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2555364,
         "gp:id":1532319,
-        "qs:id":1221144,
+        "qs_pg:id":1221144,
         "wd:id":"Q2903881"
     },
     "wof:country":"MA",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421195127,
-    "wof:lastmodified":1563362016,
+    "wof:lastmodified":1566601968,
     "wof:name":"Bin el Ouidane",
     "wof:parent_id":1108784827,
     "wof:placetype":"locality",

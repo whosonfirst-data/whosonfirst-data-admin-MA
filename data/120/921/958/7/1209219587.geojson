@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.75989,33.98142,-6.71989,34.02142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10920962
     },
     "wof:country":"MA",
-    "wof:geomhash":"b72fe092df36b96658228420120379eb",
+    "wof:geomhash":"f76ea87f03b2edc31a53c8e7bdbe0072",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209219587,
-    "wof:lastmodified":1536294010,
+    "wof:lastmodified":1566601223,
     "wof:name":"Douar Haj Lhoussine",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.739889999999999,
+    -6.73989,
     34.00142,
-    -6.739889999999999,
+    -6.73989,
     34.00142
 ],
   "geometry": {"coordinates":[-6.73989,34.00142],"type":"Point"}

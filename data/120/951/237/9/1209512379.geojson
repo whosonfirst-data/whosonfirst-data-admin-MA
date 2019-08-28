@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.63044,33.15363,-8.59044,33.19363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11471703
     },
     "wof:country":"MA",
-    "wof:geomhash":"f0e0a4fd6b4ef9459a0cfa0f8939f867",
+    "wof:geomhash":"fe684374b13b6c7cb434ac105eb32309",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209512379,
-    "wof:lastmodified":1536284841,
+    "wof:lastmodified":1566601148,
     "wof:name":"El Haj Ali",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.610439999999999,
+    -8.61044,
     33.17363,
-    -8.610439999999999,
+    -8.61044,
     33.17363
 ],
   "geometry": {"coordinates":[-8.61044,33.17363],"type":"Point"}

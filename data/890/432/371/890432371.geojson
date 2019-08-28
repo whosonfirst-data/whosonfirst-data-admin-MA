@@ -11,10 +11,14 @@
     "geom:longitude":-10.17299,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
-    "gn:pop":20000,
+    "gn:population":20000,
     "iso:country":"MA",
+    "lbl:bbox":"-10.19299,29.35975,-10.15299,29.39975",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0625\u0641\u0646\u064a"
     ],
@@ -93,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0434\u0456-\u0406\u0444\u043d\u0456"
     ],
-    "name:unk_x_variant":[
-        "Ifni"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u0627\u0641\u0646\u06cc"
     ],
@@ -120,12 +121,12 @@
     "wof:concordances":{
         "gn:id":2534515,
         "gp:id":1539847,
-        "qs:id":278886,
+        "qs_pg:id":278886,
         "wd:id":"Q632361",
         "wk:page":"Sidi Ifni"
     },
     "wof:concordances_alt":{
-        "qs:id":900172
+        "qs_pg:id":900172
     },
     "wof:country":"MA",
     "wof:created":1469051938,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":890432371,
-    "wof:lastmodified":1563362429,
+    "wof:lastmodified":1566602061,
     "wof:name":"Sidi Ifni",
     "wof:parent_id":1108784841,
     "wof:placetype":"locality",

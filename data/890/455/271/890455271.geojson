@@ -11,7 +11,7 @@
     "geom:longitude":-2.920543,
     "gn:country":"MA",
     "gn:fcode":"ADM2",
-    "gn:pop":728634,
+    "gn:population":728634,
     "iso:country":"MA",
     "label:eng_x_preferred_longname":[
         "Nador Province"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":34.9202,
     "lbl:longitude":-2.965895,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Oriental",
     "meso:adm1_loc":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
     "meso:adm1_loc2":"\u2d5c\u2d30\u2d4f\u2d33\u2d4e\u2d53\u2d39\u2d5c",
@@ -39,6 +41,7 @@
     "mps:longitude":-2.965895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Nador"
     ],
@@ -93,9 +96,6 @@
         "Nador"
     ],
     "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0646\u0627\u0638\u0648\u0631"
-    ],
-    "name:unk_x_variant":[
         "Iql\u012bm an N\u0101\u1e11awr"
     ],
     "name:urd_x_preferred":[
@@ -112,9 +112,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"Nador",
@@ -138,7 +138,7 @@
     "wof:concordances":{
         "gn:id":2541472,
         "hasc:id":"MA.OF.NA",
-        "qs:id":91803,
+        "qs_pg:id":91803,
         "wd:id":"Q367864",
         "wk:page":"Nador"
     },
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":890455271,
-    "wof:lastmodified":1563362235,
+    "wof:lastmodified":1566602019,
     "wof:name":"Nador",
     "wof:parent_id":85673923,
     "wof:placetype":"county",

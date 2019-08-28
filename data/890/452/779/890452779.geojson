@@ -11,7 +11,7 @@
     "geom:longitude":-6.033532,
     "gn:country":"MA",
     "gn:fcode":"ADM2",
-    "gn:pop":946018,
+    "gn:population":946018,
     "iso:country":"MA",
     "label:eng_x_preferred_longname":[
         "Beni Mellal Province"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":32.485452,
     "lbl:longitude":-6.22458,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Beni Mellal-Khenifra",
     "meso:adm1_loc":"\u0628\u0646\u064a \u0645\u0644\u0627\u0644-\u062e\u0646\u064a\u0641\u0631\u0629",
     "meso:adm1_loc2":"\u2d30\u2d62\u2d5c \u2d4e\u2d4d\u2d4d\u2d30\u2d4d-\u2d45\u2d4f\u2d49\u2d3c\u2d55\u2d30",
@@ -39,6 +41,7 @@
     "mps:longitude":-6.22458,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0628\u0646\u064a \u0645\u0644\u0627\u0644"
     ],
@@ -84,9 +87,6 @@
         "Beni-Mellal"
     ],
     "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u0628\u0646\u064a \u0645\u0644\u0627\u0644"
-    ],
-    "name:unk_x_variant":[
         "Iql\u012bm Ban\u012b Mal\u0101l"
     ],
     "name:zho_x_preferred":[
@@ -100,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"B\u00e9ni Mellal",
@@ -123,7 +123,7 @@
     "wof:concordances":{
         "gn:id":2555742,
         "hasc:id":"MA.BK.BM",
-        "qs:id":575102,
+        "qs_pg:id":575102,
         "wd:id":"Q1019461",
         "wk:page":"Beni Mellal"
     },
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":890452779,
-    "wof:lastmodified":1563362225,
+    "wof:lastmodified":1566602017,
     "wof:name":"Beni Mellal",
     "wof:parent_id":85673919,
     "wof:placetype":"county",

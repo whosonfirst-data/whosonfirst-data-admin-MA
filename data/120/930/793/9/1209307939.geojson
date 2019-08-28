@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.97191,32.12708,-8.93191,32.16708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10637594
     },
     "wof:country":"MA",
-    "wof:geomhash":"c05b93af250e784f1c9f45b466d7a4ae",
+    "wof:geomhash":"0c2a66eec2b7ff95ce1b60a096b957ec",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209307939,
-    "wof:lastmodified":1536291129,
+    "wof:lastmodified":1566600947,
     "wof:name":"Douar Lehraychiya Khenifrat",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -8.95191,
-    32.147079999999995,
+    32.14708,
     -8.95191,
-    32.147079999999995
+    32.14708
 ],
   "geometry": {"coordinates":[-8.95191,32.14708],"type":"Point"}
 }

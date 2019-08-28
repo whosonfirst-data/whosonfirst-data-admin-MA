@@ -11,10 +11,14 @@
     "geom:longitude":-6.43361,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":13985,
+    "gn:population":13985,
     "iso:country":"MA",
+    "lbl:bbox":"-6.53361,32.2534,-6.33361,32.4534",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0627\u062f \u0627\u064a\u0639\u064a\u0634"
     ],
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546117,
-        "qs:id":629258,
+        "qs_pg:id":629258,
         "wd:id":"Q3483238",
         "wk:page":"Sidi Jaber"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890452949,
-    "wof:lastmodified":1563362224,
+    "wof:lastmodified":1566602017,
     "wof:name":"Sidi Jaber",
     "wof:parent_id":890452779,
     "wof:placetype":"localadmin",

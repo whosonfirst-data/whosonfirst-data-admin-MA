@@ -11,10 +11,14 @@
     "geom:longitude":-7.03958,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":11826,
+    "gn:population":11826,
     "iso:country":"MA",
+    "lbl:bbox":"-7.13958,33.38861,-6.93958,33.58861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0639\u0644\u0627\u0644 \u0627\u0644\u062a\u0627\u0632\u064a"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545864,
-        "qs:id":629008,
+        "qs_pg:id":629008,
         "wd:id":"Q8071339",
         "wk:page":"Ziaida"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890441067,
-    "wof:lastmodified":1563362143,
+    "wof:lastmodified":1566601997,
     "wof:name":"Ziaida",
     "wof:parent_id":890436421,
     "wof:placetype":"localadmin",

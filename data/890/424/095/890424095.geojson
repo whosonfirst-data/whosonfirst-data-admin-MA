@@ -11,10 +11,14 @@
     "geom:longitude":-6.04759,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":15990,
+    "gn:population":15990,
     "iso:country":"MA",
+    "lbl:bbox":"-6.14759,34.82176,-5.94759,35.02176",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0627\u0645\u062d\u0645\u062f \u0627\u0644\u0634\u0644\u062d"
     ],
@@ -62,10 +66,12 @@
     "wof:concordances":{
         "gn:id":6546910,
         "gp:id":29401955,
-        "qs:id":629991,
-        "qs_pg:id":1205786,
+        "qs_pg:id":629991,
         "wd:id":"Q7508686",
         "wk:page":"Sidi Boubker El Haj"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1205786
     },
     "wof:country":"MA",
     "wof:created":1469051529,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890424095,
-    "wof:lastmodified":1563362162,
+    "wof:lastmodified":1566602002,
     "wof:name":"Sidi Boubker El Haj",
     "wof:parent_id":890427533,
     "wof:placetype":"localadmin",

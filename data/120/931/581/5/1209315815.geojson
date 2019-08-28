@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.27048,34.19999,-5.23048,34.23999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10922300
     },
     "wof:country":"MA",
-    "wof:geomhash":"552a7b5356a0154a9cbed3d0e6dc5f20",
+    "wof:geomhash":"112f71ebadfaf3889d6c6fe00822d493",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209315815,
-    "wof:lastmodified":1536290869,
+    "wof:lastmodified":1566600894,
     "wof:name":"Douar Oulad Ben Hiyyane",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.2504800000000005,
+    -5.25048,
     34.21999,
-    -5.2504800000000005,
+    -5.25048,
     34.21999
 ],
   "geometry": {"coordinates":[-5.25048,34.21999],"type":"Point"}

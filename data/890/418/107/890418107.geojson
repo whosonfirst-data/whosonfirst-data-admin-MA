@@ -11,7 +11,7 @@
     "geom:longitude":-10.984357,
     "gn:country":"MA",
     "gn:fcode":"ADM2",
-    "gn:pop":70146,
+    "gn:population":70146,
     "iso:country":"MA",
     "label:eng_x_preferred_longname":[
         "Tan-Tan Province"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.077832,
     "lbl:longitude":-11.077336,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Guelmim-Oued Noun",
     "meso:adm1_loc":"\u06af\u0644\u0645\u064a\u0645 - \u0648\u0627\u062f \u0646\u0648\u0646",
     "meso:adm1_loc2":"\u2d33\u2d4d\u2d4e\u2d49\u2d4e-\u2d61\u2d30\u2d37 \u2d4f\u2d53\u2d4f",
@@ -39,6 +41,7 @@
     "mps:longitude":-11.077336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0637\u0627\u0646\u0637\u0627\u0646"
     ],
@@ -83,9 +86,6 @@
         "Tan-Tan"
     ],
     "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u0637\u0627\u0646\u0637\u0627\u0646"
-    ],
-    "name:unk_x_variant":[
         "Province Tan-Tan"
     ],
     "name:zho_x_preferred":[
@@ -99,9 +99,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"Tan-Tan",
@@ -122,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2530240,
         "hasc:id":"MA.GN.TN",
-        "qs:id":575001,
+        "qs_pg:id":575001,
         "wd:id":"Q972535",
         "wk:page":"Tan-Tan"
     },
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":890418107,
-    "wof:lastmodified":1563362403,
+    "wof:lastmodified":1566602056,
     "wof:name":"Tan-Tan",
     "wof:parent_id":85673947,
     "wof:placetype":"county",

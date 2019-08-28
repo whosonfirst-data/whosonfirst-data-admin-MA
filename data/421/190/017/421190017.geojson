@@ -10,8 +10,12 @@
     "geom:latitude":31.963158,
     "geom:longitude":-6.564159,
     "iso:country":"MA",
+    "lbl:bbox":"-6.584159,31.943158,-6.544159,31.983158",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0632\u064a\u0644\u0627\u0644"
@@ -70,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0437\u0456\u043b\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arilal"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2556570,
         "gp:id":1531919,
-        "qs:id":1118226,
+        "qs_pg:id":1118226,
         "wd:id":"Q1934167"
     },
     "wof:country":"MA",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":421190017,
-    "wof:lastmodified":1563362040,
+    "wof:lastmodified":1566601974,
     "wof:name":"Azilal",
     "wof:parent_id":1108784827,
     "wof:placetype":"locality",

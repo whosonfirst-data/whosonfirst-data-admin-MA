@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.90654,30.05714,-6.86654,30.09714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":2554872
     },
     "wof:country":"MA",
-    "wof:geomhash":"8e952ded748c73b9cd4304b6fd3b9d9c",
+    "wof:geomhash":"5d57d11860f5711796320c53f1d0e19b",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209534137,
-    "wof:lastmodified":1536284192,
+    "wof:lastmodified":1566600897,
     "wof:name":"Bou Guir",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.886539999999999,
-    30.077140000000004,
-    -6.886539999999999,
-    30.077140000000004
+    -6.88654,
+    30.07714,
+    -6.88654,
+    30.07714
 ],
   "geometry": {"coordinates":[-6.88654,30.07714],"type":"Point"}
 }

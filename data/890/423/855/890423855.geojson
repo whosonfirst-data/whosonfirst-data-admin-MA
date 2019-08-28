@@ -11,10 +11,14 @@
     "geom:longitude":-8.07564,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":6916,
+    "gn:population":6916,
     "iso:country":"MA",
+    "lbl:bbox":"-8.17564,31.08774,-7.97564,31.28774",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0645\u0643\u062f\u0627\u0644"
     ],
@@ -70,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545803,
-        "qs:id":628946,
+        "qs_pg:id":628946,
         "wd:id":"Q3358143",
         "wk:page":"Ouirgane"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890423855,
-    "wof:lastmodified":1563362197,
+    "wof:lastmodified":1566602010,
     "wof:name":"Ouirgane",
     "wof:parent_id":1108784801,
     "wof:placetype":"localadmin",

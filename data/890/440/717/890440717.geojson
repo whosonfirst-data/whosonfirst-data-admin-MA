@@ -11,10 +11,14 @@
     "geom:longitude":-7.14965,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":11883,
+    "gn:population":11883,
     "iso:country":"MA",
+    "lbl:bbox":"-7.24965,31.61492,-7.04965,31.81492",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u064a\u0639\u0642\u0648\u0628"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546810,
-        "qs:id":629913,
+        "qs_pg:id":629913,
         "wd:id":"Q7800909",
         "wk:page":"Tidili Fetouaka"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890440717,
-    "wof:lastmodified":1563362108,
+    "wof:lastmodified":1566601989,
     "wof:name":"Tidili Fetouaka",
     "wof:parent_id":1108784827,
     "wof:placetype":"localadmin",

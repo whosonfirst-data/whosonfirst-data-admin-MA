@@ -11,7 +11,7 @@
     "geom:longitude":-7.841275,
     "gn:country":"MA",
     "gn:fcode":"ADM2",
-    "gn:pop":121618,
+    "gn:population":121618,
     "iso:country":"MA",
     "label:eng_x_preferred_longname":[
         "Tata Province"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":29.498135,
     "lbl:longitude":-8.180305,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Souss-Massa",
     "meso:adm1_loc":"\u0633\u0648\u0633-\u0645\u0627\u0633\u0629",
     "meso:adm1_loc2":"\u2d59\u2d53\u2d59\u2d59-\u2d4e\u2d30\u2d59\u2d59\u2d30",
@@ -39,6 +41,7 @@
     "mps:longitude":-8.180305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0637\u0627\u0637\u0627"
     ],
@@ -83,9 +86,6 @@
         "Tata"
     ],
     "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u0637\u0627\u0637\u0627"
-    ],
-    "name:unk_x_variant":[
         "Iql\u012bm \u0162\u0101\u0163\u0101"
     ],
     "name:zho_x_preferred":[
@@ -99,9 +99,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"Tata",
@@ -122,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2529360,
         "hasc:id":"MA.SS.TT",
-        "qs:id":574989,
+        "qs_pg:id":574989,
         "wd:id":"Q546437",
         "wk:page":"Tata"
     },
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":890453851,
-    "wof:lastmodified":1563362277,
+    "wof:lastmodified":1566602028,
     "wof:name":"Tata",
     "wof:parent_id":85673947,
     "wof:placetype":"county",

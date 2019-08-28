@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.27224,31.06657,-8.23224,31.10657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11149426
     },
     "wof:country":"MA",
-    "wof:geomhash":"8fbd505ac8b74bbdb785a5cd390aaed9",
+    "wof:geomhash":"6856d48585e27534d673849ef868bca9",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209307935,
-    "wof:lastmodified":1536291129,
+    "wof:lastmodified":1566600947,
     "wof:name":"Ourmer",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.252239999999999,
+    -8.25224,
     31.08657,
-    -8.252239999999999,
+    -8.25224,
     31.08657
 ],
   "geometry": {"coordinates":[-8.25224,31.08657],"type":"Point"}

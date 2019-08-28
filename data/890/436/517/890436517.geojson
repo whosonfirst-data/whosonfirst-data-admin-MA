@@ -11,10 +11,14 @@
     "geom:longitude":-7.10129,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":8265,
+    "gn:population":8265,
     "iso:country":"MA",
+    "lbl:bbox":"-7.20129,33.67653,-7.00129,33.87653",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0627\u062f \u0628\u0648\u063a\u0627\u062f\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546926,
-        "qs:id":630009
+        "qs_pg:id":630009
     },
     "wof:country":"MA",
     "wof:created":1469052114,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890436517,
-    "wof:lastmodified":1505343554,
+    "wof:lastmodified":1566602021,
     "wof:name":"Cherrat",
     "wof:parent_id":890436421,
     "wof:placetype":"localadmin",

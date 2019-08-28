@@ -11,10 +11,14 @@
     "geom:longitude":-5.2411,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":7720,
+    "gn:population":7720,
     "iso:country":"MA",
+    "lbl:bbox":"-5.3411,34.84988,-5.1411,35.04988",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0632\u0643\u0627\u0646"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6547020,
-        "qs:id":630100,
+        "qs_pg:id":630100,
         "wk:page":"Fifi"
     },
     "wof:country":"MA",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890420377,
-    "wof:lastmodified":1564111394,
+    "wof:lastmodified":1566602055,
     "wof:name":"Fifi",
     "wof:parent_id":890453883,
     "wof:placetype":"localadmin",

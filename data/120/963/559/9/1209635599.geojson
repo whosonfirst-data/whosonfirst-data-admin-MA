@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.60237,31.56092,-9.56237,31.60092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10898693
     },
     "wof:country":"MA",
-    "wof:geomhash":"937148f0bbdb56ab2fd4962397ea36ac",
+    "wof:geomhash":"5307f2264a9f75bcccf3ed9d275d9271",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209635599,
-    "wof:lastmodified":1536281056,
+    "wof:lastmodified":1566600952,
     "wof:name":"Ait El Haj Tahar",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.58237,
-    31.580920000000006,
+    31.58092000000001,
     -9.58237,
-    31.580920000000006
+    31.58092000000001
 ],
   "geometry": {"coordinates":[-9.58237,31.58092000000001],"type":"Point"}
 }

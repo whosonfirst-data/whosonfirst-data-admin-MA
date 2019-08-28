@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.41986,29.70494,-9.37986,29.74494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11129875
     },
     "wof:country":"MA",
-    "wof:geomhash":"9c550351ee5edd9f787a2f1a060a845b",
+    "wof:geomhash":"7c0118a10ff76f23d12a47ee08f6bb5c",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209198397,
-    "wof:lastmodified":1536294695,
+    "wof:lastmodified":1566601220,
     "wof:name":"Agrd Oudad",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.39986,
-    29.724940000000004,
+    29.72494,
     -9.39986,
-    29.724940000000004
+    29.72494
 ],
   "geometry": {"coordinates":[-9.39986,29.72494],"type":"Point"}
 }

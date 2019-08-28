@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.4476,31.53029,-9.4076,31.57029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10899885
     },
     "wof:country":"MA",
-    "wof:geomhash":"2e7b8a3d81effb59e671f0c72500b285",
+    "wof:geomhash":"960c637f2409cc76f1ddc85ebfce9526",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209635557,
-    "wof:lastmodified":1536281057,
+    "wof:lastmodified":1566600959,
     "wof:name":"Douar Ait El Aybel",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.4276,
-    31.550290000000004,
+    31.55029,
     -9.4276,
-    31.550290000000004
+    31.55029
 ],
   "geometry": {"coordinates":[-9.4276,31.55029],"type":"Point"}
 }

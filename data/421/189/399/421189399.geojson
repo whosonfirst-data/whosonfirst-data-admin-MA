@@ -10,13 +10,17 @@
     "geom:latitude":32.64562,
     "geom:longitude":-5.91783,
     "iso:country":"MA",
+    "lbl:bbox":"-5.93783,32.62562,-5.89783,32.66562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:rus_x_preferred":[
         "\u0417\u0430\u0432\u0438\u0439\u044f \u0430\u0448 \u0428\u0435\u0439\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zaouia ech Che\u00efkh"
     ],
     "qs:gn_country":"MA",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":2526359,
         "gp:id":1542450,
-        "qs:id":44405
+        "qs_pg:id":44405
     },
     "wof:country":"MA",
     "wof:created":1459009624,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421189399,
-    "wof:lastmodified":1501263425,
+    "wof:lastmodified":1566601970,
     "wof:name":"Zaouia Ech Cheikh",
     "wof:parent_id":890452779,
     "wof:placetype":"locality",

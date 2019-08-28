@@ -11,10 +11,14 @@
     "geom:longitude":-7.52778,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":6131,
+    "gn:population":6131,
     "iso:country":"MA",
+    "lbl:bbox":"-7.62778,31.96666,-7.42778,32.16666",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0627\u062f \u0627\u0645\u0633\u0628\u0644"
     ],
@@ -49,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545888,
-        "qs:id":629032,
+        "qs_pg:id":629032,
         "wk:page":"Oulad Sbih"
     },
     "wof:country":"MA",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890441095,
-    "wof:lastmodified":1564111354,
+    "wof:lastmodified":1566601996,
     "wof:name":"Oulad Sbih",
     "wof:parent_id":1108784785,
     "wof:placetype":"localadmin",

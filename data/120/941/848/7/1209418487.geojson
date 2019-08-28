@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.47303,34.60739,-5.43303,34.64739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10925314
     },
     "wof:country":"MA",
-    "wof:geomhash":"e4153a1f8a37859fb8adf0b2240b7e53",
+    "wof:geomhash":"6a9134e12a93bb92f3b9db1f4605c2e1",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209418487,
-    "wof:lastmodified":1536287608,
+    "wof:lastmodified":1566601014,
     "wof:name":"Douar Ain Echamiyine",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -5.45303,
-    34.627390000000005,
+    34.62739000000001,
     -5.45303,
-    34.627390000000005
+    34.62739000000001
 ],
   "geometry": {"coordinates":[-5.45303,34.62739000000001],"type":"Point"}
 }

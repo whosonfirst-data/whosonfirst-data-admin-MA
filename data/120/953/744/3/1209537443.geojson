@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.34774,33.58565,-7.30774,33.62565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10917914
     },
     "wof:country":"MA",
-    "wof:geomhash":"aec5a81e1024e328f2bc14a9a9f755b3",
+    "wof:geomhash":"d16613311302dd26b961c966f4989f4b",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209537443,
-    "wof:lastmodified":1536284094,
+    "wof:lastmodified":1566600908,
     "wof:name":"Douar Ballouta",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.327739999999999,
+    -7.32774,
     33.60565,
-    -7.327739999999999,
+    -7.32774,
     33.60565
 ],
   "geometry": {"coordinates":[-7.32774,33.60565],"type":"Point"}

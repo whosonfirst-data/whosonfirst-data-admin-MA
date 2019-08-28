@@ -9,18 +9,21 @@
     "geom:bbox":"-9.12031,29.40816,-9.12031,29.40816",
     "geom:latitude":29.40816,
     "geom:longitude":-9.12031,
-    "gn:gn_country":"MA",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":5428,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
     "gn:population":5428,
     "iso:country":"MA",
+    "lbl:bbox":"-9.22031,29.30816,-9.02031,29.50816",
     "lbl:latitude":29.40816,
     "lbl:longitude":-9.12031,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
-        "\u0623\u0641\u0644\u0627  \u0627\u063a\u064a\u0631"
+        "\u0623\u0641\u0644\u0627 \u0627\u063a\u064a\u0631"
     ],
     "name:ara_x_variant":[
         "\u0622\u064a\u062a \u0623\u0648\u0641\u0642\u0627"
@@ -62,7 +65,7 @@
     "qs_pg:qs_id":629616,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125365519,
-    "wof:lastmodified":1564111475,
+    "wof:lastmodified":1566602092,
     "wof:name":"Ait Ouafqa",
     "wof:parent_id":890453851,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.31434,31.51113,-7.27434,31.55113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11354353
     },
     "wof:country":"MA",
-    "wof:geomhash":"a8259cdd5d61055b52a4b41c8af3989b",
+    "wof:geomhash":"bf3d92ae4c401b1a933d6d2cd82cbbf6",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209334901,
-    "wof:lastmodified":1536290255,
+    "wof:lastmodified":1566601163,
     "wof:name":"Tamadout",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.294339999999999,
+    -7.29434,
     31.53113,
-    -7.294339999999999,
+    -7.29434,
     31.53113
 ],
   "geometry": {"coordinates":[-7.29434,31.53113],"type":"Point"}

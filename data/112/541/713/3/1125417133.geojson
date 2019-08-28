@@ -9,18 +9,21 @@
     "geom:bbox":"-7.58408,32.94826,-7.58408,32.94826",
     "geom:latitude":32.94826,
     "geom:longitude":-7.58408,
-    "gn:gn_country":"MA",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":11504,
+    "gn:country":"MA",
+    "gn:fcode":"ADM3",
     "gn:population":11504,
     "iso:country":"MA",
+    "lbl:bbox":"-7.68408,32.84826,-7.48408,33.04826",
     "lbl:latitude":32.94826,
     "lbl:longitude":-7.58408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
-        "\u0627\u064a\u0631\u064a\u063a  \u0646\u062a\u0627\u0647\u0644\u0629"
+        "\u0627\u064a\u0631\u064a\u063a \u0646\u062a\u0627\u0647\u0644\u0629"
     ],
     "name:ara_x_variant":[
         "\u0639\u064a\u0646 \u0646\u0632\u0627\u063a"
@@ -56,7 +59,7 @@
     "qs_pg:qs_id":628739,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125417133,
-    "wof:lastmodified":1564111484,
+    "wof:lastmodified":1566602096,
     "wof:name":"Ain Nzagh",
     "wof:parent_id":1108784833,
     "wof:placetype":"localadmin",

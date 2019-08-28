@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-2.33275,34.62109,-2.29275,34.66109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10998556
     },
     "wof:country":"MA",
-    "wof:geomhash":"8d8d8cc9feca9d6846ce53fcd50a482f",
+    "wof:geomhash":"4229ea80a5defe49ca6c58f45d3e2e68",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209527363,
-    "wof:lastmodified":1536284392,
+    "wof:lastmodified":1566600978,
     "wof:name":"Dar Oulad El Qadi",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -2.31275,
-    34.641090000000005,
+    34.64109000000001,
     -2.31275,
-    34.641090000000005
+    34.64109000000001
 ],
   "geometry": {"coordinates":[-2.31275,34.64109000000001],"type":"Point"}
 }

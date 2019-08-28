@@ -10,8 +10,12 @@
     "geom:latitude":33.28819,
     "geom:longitude":-5.33722,
     "iso:country":"MA",
+    "lbl:bbox":"-5.35722,33.26819,-5.31722,33.30819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u0644\u0648\u062d"
@@ -46,9 +50,6 @@
     "name:swe_x_preferred":[
         "A\u00efn Leuh"
     ],
-    "name:unk_x_variant":[
-        "A\u00efn Leuh"
-    ],
     "qs:gn_country":"MA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2560813,
@@ -78,7 +79,7 @@
     "wof:concordances":{
         "gn:id":2560813,
         "gp:id":1529957,
-        "qs:id":1036624,
+        "qs_pg:id":1036624,
         "wd:id":"Q540643",
         "wk:page":"Ain Leuh"
     },
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":421195461,
-    "wof:lastmodified":1563362019,
+    "wof:lastmodified":1566601969,
     "wof:name":"\u0639\u064a\u0646 \u0644\u0648\u062d",
     "wof:parent_id":890429095,
     "wof:placetype":"locality",

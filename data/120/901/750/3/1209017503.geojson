@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.15196,35.42999,-5.11196,35.46999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10847827
     },
     "wof:country":"MA",
-    "wof:geomhash":"7859c08e2e53ffe139756879e3515131",
+    "wof:geomhash":"202ae7ae5fb42f3d25d16af57873bb4a",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209017503,
-    "wof:lastmodified":1536300249,
+    "wof:lastmodified":1566600936,
     "wof:name":"Aqmoumene",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.1319599999999985,
+    -5.13196,
     35.44999,
-    -5.1319599999999985,
+    -5.13196,
     35.44999
 ],
   "geometry": {"coordinates":[-5.13196,35.44999],"type":"Point"}

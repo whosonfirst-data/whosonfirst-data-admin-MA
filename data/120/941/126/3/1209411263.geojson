@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.54207,30.93455,-7.50207,30.97455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10956863
     },
     "wof:country":"MA",
-    "wof:geomhash":"f908179a4d055340fc9c6a106d0c9cb8",
+    "wof:geomhash":"7007a1c992872f6dcefb5ef0036c9026",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209411263,
-    "wof:lastmodified":1536287830,
+    "wof:lastmodified":1566601012,
     "wof:name":"Timjjat",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.5220699999999985,
+    -7.52207,
     30.95455,
-    -7.5220699999999985,
+    -7.52207,
     30.95455
 ],
   "geometry": {"coordinates":[-7.52207,30.95455],"type":"Point"}

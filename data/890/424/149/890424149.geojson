@@ -11,7 +11,7 @@
     "geom:longitude":-5.926873,
     "gn:country":"MA",
     "gn:fcode":"ADM2",
-    "gn:pop":283368,
+    "gn:population":283368,
     "iso:country":"MA",
     "label:eng_x_preferred_longname":[
         "Zagora Province"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":30.374716,
     "lbl:longitude":-5.848819,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Draa-Tafilalet",
     "meso:adm1_loc":"\u062f\u0631\u0639\u0629-\u062a\u0627\u0641\u064a\u0644\u0627\u0644\u062a",
     "meso:adm1_loc2":"\u2d37\u2d30\u2d54\u2d44\u2d30-\u2d5c\u2d30\u2d3c\u2d49\u2d4d\u2d30\u2d4d\u2d5c",
@@ -39,6 +41,7 @@
     "mps:longitude":-5.848819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0632\u0627\u0643\u0648\u0631\u0629"
     ],
@@ -79,9 +82,6 @@
     "name:spa_x_preferred":[
         "Provincia de Zagora"
     ],
-    "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u0632\u0627\u0643\u0648\u0631\u0629"
-    ],
     "name:zho_x_preferred":[
         "\u624e\u53e4\u62c9\u7701"
     ],
@@ -93,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"Zagora",
@@ -116,7 +116,7 @@
     "wof:concordances":{
         "gn:id":6547302,
         "hasc:id":"MA.DT.ZA",
-        "qs:id":630196,
+        "qs_pg:id":630196,
         "wd:id":"Q2265471",
         "wk:page":"Zagora"
     },
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":890424149,
-    "wof:lastmodified":1563362167,
+    "wof:lastmodified":1566602003,
     "wof:name":"Zagora",
     "wof:parent_id":85673929,
     "wof:placetype":"county",

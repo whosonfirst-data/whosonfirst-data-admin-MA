@@ -11,10 +11,14 @@
     "geom:longitude":-9.34712,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":7029,
+    "gn:population":7029,
     "iso:country":"MA",
+    "lbl:bbox":"-9.44712,31.4682,-9.24712,31.6682",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u062d\u0633\u064a\u0646\u0627\u062a"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546657,
-        "qs:id":629762,
+        "qs_pg:id":629762,
         "wd:id":"Q20422283",
         "wk:page":"Mejji"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890454297,
-    "wof:lastmodified":1563362270,
+    "wof:lastmodified":1566602027,
     "wof:name":"Mejji",
     "wof:parent_id":890453939,
     "wof:placetype":"localadmin",

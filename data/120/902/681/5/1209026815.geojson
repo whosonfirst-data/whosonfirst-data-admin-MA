@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.46023,31.53016,-7.42023,31.57016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":2571595
     },
     "wof:country":"MA",
-    "wof:geomhash":"759f0f88fdb52e4ebb19bf27607fcfa0",
+    "wof:geomhash":"93bdb1db038f5c7329ccdd13b5aade39",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209026815,
-    "wof:lastmodified":1536299970,
+    "wof:lastmodified":1566601151,
     "wof:name":"Ait Hammad",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.4402300000000015,
+    -7.44023,
     31.55016,
-    -7.4402300000000015,
+    -7.44023,
     31.55016
 ],
   "geometry": {"coordinates":[-7.44023,31.55016],"type":"Point"}

@@ -11,10 +11,14 @@
     "geom:longitude":-2.10027,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
-    "gn:pop":19611,
+    "gn:population":19611,
     "iso:country":"MA",
+    "lbl:bbox":"-2.12027,34.93368,-2.08027,34.97368",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u062d\u0641\u064a\u0631"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Ahfir"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Martimprey du Kiss"
     ],
     "name:urd_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":2561124,
         "gp:id":1529807,
-        "qs:id":1036625,
+        "qs_pg:id":1036625,
         "wd:id":"Q2544620",
         "wk:page":"Ahfir"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890435407,
-    "wof:lastmodified":1563362433,
+    "wof:lastmodified":1566602062,
     "wof:name":"Ahfir",
     "wof:parent_id":1108784771,
     "wof:placetype":"locality",

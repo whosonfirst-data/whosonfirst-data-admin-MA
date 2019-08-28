@@ -11,10 +11,14 @@
     "geom:longitude":-6.02531,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":3221,
+    "gn:population":3221,
     "iso:country":"MA",
+    "lbl:bbox":"-6.12531,32.22497,-5.92531,32.42497",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u064a\u062a \u0648\u0627\u0648\u0631\u062f\u0627"
     ],
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546813,
-        "qs:id":629916,
+        "qs_pg:id":629916,
         "wd:id":"Q4699265",
         "wk:page":"Ait Ouqabli"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890440721,
-    "wof:lastmodified":1563362107,
+    "wof:lastmodified":1566601989,
     "wof:name":"Ait Ouqabli",
     "wof:parent_id":1108784827,
     "wof:placetype":"localadmin",

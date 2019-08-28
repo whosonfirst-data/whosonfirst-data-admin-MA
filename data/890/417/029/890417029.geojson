@@ -11,10 +11,14 @@
     "geom:longitude":-1.23902,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":12516,
+    "gn:population":12516,
     "iso:country":"MA",
+    "lbl:bbox":"-1.33902,31.98011,-1.13902,32.18011",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0639\u0631\u0641\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
     ],
@@ -165,7 +169,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546275,
-        "qs:id":629402,
+        "qs_pg:id":629402,
         "wd:id":"Q425646",
         "wk:page":"Figuig"
     },
@@ -182,7 +186,7 @@
         }
     ],
     "wof:id":890417029,
-    "wof:lastmodified":1563362315,
+    "wof:lastmodified":1566602037,
     "wof:name":"Figuig",
     "wof:parent_id":1108784825,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.97808,32.08783,-6.93808,32.12783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11435356
     },
     "wof:country":"MA",
-    "wof:geomhash":"a159108637b16ee0c3d741d80b198362",
+    "wof:geomhash":"d8b7dff203b92f5c3a7aa91d33e7f5d7",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209104079,
-    "wof:lastmodified":1536297635,
+    "wof:lastmodified":1566601230,
     "wof:name":"Grir",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.958080000000002,
+    -6.95808,
     32.10783,
-    -6.958080000000002,
+    -6.95808,
     32.10783
 ],
   "geometry": {"coordinates":[-6.95808,32.10783],"type":"Point"}

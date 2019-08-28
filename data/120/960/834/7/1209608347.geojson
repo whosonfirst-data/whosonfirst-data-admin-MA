@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.70702,32.55494,-6.66702,32.59494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11470152
     },
     "wof:country":"MA",
-    "wof:geomhash":"c859de131c52a43563a3906c280c201a",
+    "wof:geomhash":"f5d4bd76da7786005fb5d09ea9c3771f",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209608347,
-    "wof:lastmodified":1536281932,
+    "wof:lastmodified":1566601132,
     "wof:name":"Al Haj Rahal",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -6.68702,
-    32.574940000000005,
+    32.57494000000001,
     -6.68702,
-    32.574940000000005
+    32.57494000000001
 ],
   "geometry": {"coordinates":[-6.68702,32.57494000000001],"type":"Point"}
 }

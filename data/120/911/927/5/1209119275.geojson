@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.55893,35.61225,-5.51893,35.65225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10955318
     },
     "wof:country":"MA",
-    "wof:geomhash":"6e09ee422d756f9160b91cf17e68d9cd",
+    "wof:geomhash":"14adf81870ab71dc0b6c9b790ad65480",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209119275,
-    "wof:lastmodified":1536297155,
+    "wof:lastmodified":1566601175,
     "wof:name":"Douar Chfared",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.5389300000000015,
+    -5.53893,
     35.63225,
-    -5.5389300000000015,
+    -5.53893,
     35.63225
 ],
   "geometry": {"coordinates":[-5.53893,35.63225],"type":"Point"}

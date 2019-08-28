@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-3.52358,35.05885,-3.48358,35.09885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10999387
     },
     "wof:country":"MA",
-    "wof:geomhash":"9f3189f53127ea99bea135638b2ccf29",
+    "wof:geomhash":"5ac28fe20792abf9a0e70b549e31408e",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209422941,
-    "wof:lastmodified":1536287471,
+    "wof:lastmodified":1566601210,
     "wof:name":"Douar Iaddaouyene",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.5035800000000004,
+    -3.50358,
     35.07885,
-    -3.5035800000000004,
+    -3.50358,
     35.07885
 ],
   "geometry": {"coordinates":[-3.50358,35.07885],"type":"Point"}

@@ -11,7 +11,7 @@
     "geom:longitude":-5.581784,
     "gn:country":"MA",
     "gn:fcode":"ADM2",
-    "gn:pop":96497,
+    "gn:population":96497,
     "iso:country":"MA",
     "label:eng_x_preferred_longname":[
         "Fahs-Anjra Province"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":35.744536,
     "lbl:longitude":-5.568599,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Tangier-Tetouan-Al Hoceima",
     "meso:adm1_loc":"\u0637\u0646\u062c\u0629 - \u062a\u0637\u0648\u0627\u0646 - \u0627\u0644\u062d\u0633\u064a\u0645\u0629",
     "meso:adm1_loc2":"\u2d5f\u2d30\u2d4f\u2d4a-\u2d5f\u2d49\u2d5c\u2d30\u2d61\u2d49\u2d4f-\u2d4d\u2d43\u2d53\u2d59\u2d49\u2d4e\u2d30",
@@ -39,6 +41,7 @@
     "mps:longitude":-5.568599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0641\u062d\u0635 - \u0627\u0646\u062c\u0631\u0629"
     ],
@@ -99,9 +102,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"Fahs-Bni Makada, Anjra",
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gn:id":6547293,
         "hasc:id":"MA.TC.FB",
-        "qs:id":630187,
+        "qs_pg:id":630187,
         "wd:id":"Q2013946"
     },
     "wof:country":"MA",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":890442529,
-    "wof:lastmodified":1563362407,
+    "wof:lastmodified":1566602057,
     "wof:name":"Fahs-Anjra",
     "wof:parent_id":85673883,
     "wof:placetype":"county",

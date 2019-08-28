@@ -11,10 +11,14 @@
     "geom:longitude":-6.3494,
     "gn:country":"MA",
     "gn:fcode":"PPL",
-    "gn:pop":13000,
+    "gn:population":13000,
     "iso:country":"MA",
+    "lbl:bbox":"-6.3694,31.68217,-6.3294,31.72217",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0625\u0641\u0631\u0627\u0646"
     ],
@@ -81,7 +85,7 @@
     "name:tur_x_preferred":[
         "\u0130fran"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lfrane"
     ],
     "name:urd_x_preferred":[
@@ -108,7 +112,7 @@
     "wof:concordances":{
         "gn:id":2543394,
         "gp:id":1540140,
-        "qs:id":1036597,
+        "qs_pg:id":1036597,
         "wk:page":"Ifrane"
     },
     "wof:country":"MA",
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":890438745,
-    "wof:lastmodified":1564111371,
+    "wof:lastmodified":1566602024,
     "wof:name":"Ifrane",
     "wof:parent_id":1108784827,
     "wof:placetype":"locality",

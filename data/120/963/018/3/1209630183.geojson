@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.59011,31.2706,-6.55011,31.3106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":2528223
     },
     "wof:country":"MA",
-    "wof:geomhash":"ab7f98e9e160e1cb3f08410c363871fd",
+    "wof:geomhash":"12ef676ac1b79ae318f81b5c21a2fb5a",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209630183,
-    "wof:lastmodified":1536281215,
+    "wof:lastmodified":1566600962,
     "wof:name":"Timassirine",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.5701100000000014,
+    -6.57011,
     31.2906,
-    -6.5701100000000014,
+    -6.57011,
     31.2906
 ],
   "geometry": {"coordinates":[-6.57011,31.2906],"type":"Point"}

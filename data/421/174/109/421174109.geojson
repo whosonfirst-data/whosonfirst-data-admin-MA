@@ -10,8 +10,12 @@
     "geom:latitude":35.26,
     "geom:longitude":-2.93,
     "iso:country":"MA",
+    "lbl:bbox":"-2.95,35.24,-2.91,35.28",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0627\u0646\u0635\u0627\u0631"
@@ -73,7 +77,7 @@
     "name:swe_x_preferred":[
         "Beni Enzar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beni Anzar"
     ],
     "name:zho_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":2555882,
         "gp:id":1532176,
-        "qs:id":317055,
+        "qs_pg:id":317055,
         "wd:id":"Q537462",
         "wk:page":"Beni Ansar"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421174109,
-    "wof:lastmodified":1563362025,
+    "wof:lastmodified":1566601970,
     "wof:name":"Beni Enzar",
     "wof:parent_id":890455271,
     "wof:placetype":"locality",

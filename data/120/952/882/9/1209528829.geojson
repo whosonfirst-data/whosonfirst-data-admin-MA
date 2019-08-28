@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.53153,35.76747,-5.49153,35.80747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10955497
     },
     "wof:country":"MA",
-    "wof:geomhash":"572ab260f16c736e900377ad9917554e",
+    "wof:geomhash":"65c3e6746a8900698c32564b67b22249",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209528829,
-    "wof:lastmodified":1536284347,
+    "wof:lastmodified":1566600983,
     "wof:name":"Rchachqa",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.5115300000000005,
+    -5.51153,
     35.78747,
-    -5.5115300000000005,
+    -5.51153,
     35.78747
 ],
   "geometry": {"coordinates":[-5.51153,35.78747],"type":"Point"}

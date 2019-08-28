@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.96873,31.09064,-5.92873,31.13064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10952130
     },
     "wof:country":"MA",
-    "wof:geomhash":"71d0a43bf6357072ec3095d93aa543b3",
+    "wof:geomhash":"7ff14f64e73df63fe676b6c959c91393",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209600103,
-    "wof:lastmodified":1536282196,
+    "wof:lastmodified":1566601135,
     "wof:name":"Foudoud",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -5.94873,
-    31.110640000000004,
+    31.11064,
     -5.94873,
-    31.110640000000004
+    31.11064
 ],
   "geometry": {"coordinates":[-5.94873,31.11064],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.65164,32.76113,-7.61164,32.80113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":11434152
     },
     "wof:country":"MA",
-    "wof:geomhash":"7784a84a4c36111352362cef29a36ed1",
+    "wof:geomhash":"cae9e9675f51b46e098d4143c9d3fc4a",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209407009,
-    "wof:lastmodified":1536287963,
+    "wof:lastmodified":1566601036,
     "wof:name":"El Qouareb",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.631639999999999,
+    -7.63164,
     32.78113,
-    -7.631639999999999,
+    -7.63164,
     32.78113
 ],
   "geometry": {"coordinates":[-7.63164,32.78113],"type":"Point"}

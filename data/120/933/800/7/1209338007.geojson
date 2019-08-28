@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.62899,33.67994,-6.58899,33.71994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10940438
     },
     "wof:country":"MA",
-    "wof:geomhash":"64c4aa89937c672f1a1b59e2b85fe9af",
+    "wof:geomhash":"f369d6d48500e5ab2e6d1a245c7cb4ff",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209338007,
-    "wof:lastmodified":1536290154,
+    "wof:lastmodified":1566601166,
     "wof:name":"Douar Oulad Mimoun I",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -6.60899,
-    33.699940000000005,
+    33.69994000000001,
     -6.60899,
-    33.699940000000005
+    33.69994000000001
 ],
   "geometry": {"coordinates":[-6.60899,33.69994000000001],"type":"Point"}
 }

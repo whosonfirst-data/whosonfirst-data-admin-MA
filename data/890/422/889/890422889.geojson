@@ -11,10 +11,14 @@
     "geom:longitude":-9.69927,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":53441,
+    "gn:population":53441,
     "iso:country":"MA",
+    "lbl:bbox":"-9.79927,29.58638,-9.59927,29.78638",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0644\u0628\u0648\u064a\u0631\u0627\u062a"
     ],
@@ -172,7 +176,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6547047,
-        "qs:id":630126,
+        "qs_pg:id":630126,
         "wd:id":"Q587107",
         "wk:page":"Tiznit"
     },
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":890422889,
-    "wof:lastmodified":1563362112,
+    "wof:lastmodified":1566601990,
     "wof:name":"Tiznit",
     "wof:parent_id":890428801,
     "wof:placetype":"localadmin",

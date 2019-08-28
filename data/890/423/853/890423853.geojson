@@ -11,10 +11,14 @@
     "geom:longitude":-8.29907,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":5551,
+    "gn:population":5551,
     "iso:country":"MA",
+    "lbl:bbox":"-8.39907,31.23113,-8.19907,31.43113",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0632\u0643\u064a\u0637\u0629"
     ],
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545802,
-        "qs:id":628945,
+        "qs_pg:id":628945,
         "wd:id":"Q7110417",
         "wk:page":"Oulad Mtaa"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890423853,
-    "wof:lastmodified":1563362196,
+    "wof:lastmodified":1566602010,
     "wof:name":"Oulad Mtaa",
     "wof:parent_id":1108784801,
     "wof:placetype":"localadmin",

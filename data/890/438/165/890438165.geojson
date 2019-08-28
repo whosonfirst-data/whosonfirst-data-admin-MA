@@ -11,10 +11,14 @@
     "geom:longitude":-6.16667,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":17202,
+    "gn:population":17202,
     "iso:country":"MA",
+    "lbl:bbox":"-6.26667,34.84685,-6.06667,35.04685",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u062d\u0627\u0631\u0629 \u0623\u0648\u0644\u0627\u062f \u0639\u064a\u0627\u062f"
     ],
@@ -52,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546601,
-        "qs:id":629702,
+        "qs_pg:id":629702,
         "wd:id":"Q2368948",
         "wk:page":"Chouafaa"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890438165,
-    "wof:lastmodified":1563362252,
+    "wof:lastmodified":1566602023,
     "wof:name":"Chouafaa",
     "wof:parent_id":890427533,
     "wof:placetype":"localadmin",

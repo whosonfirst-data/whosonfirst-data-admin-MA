@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.74238,32.17409,-8.70238,32.21409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10638470
     },
     "wof:country":"MA",
-    "wof:geomhash":"9914669f0d6b1cfb1568e420ad6f1aba",
+    "wof:geomhash":"9fe24f8a86fdc94101791f9ed32166d4",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209508453,
-    "wof:lastmodified":1536284959,
+    "wof:lastmodified":1566601078,
     "wof:name":"Douar Amer",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.722380000000001,
+    -8.72238,
     32.19409,
-    -8.722380000000001,
+    -8.72238,
     32.19409
 ],
   "geometry": {"coordinates":[-8.72238,32.19409],"type":"Point"}

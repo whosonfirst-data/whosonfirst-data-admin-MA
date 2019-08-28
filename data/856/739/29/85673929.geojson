@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":30.904946,
     "lbl:longitude":-6.135426,
+    "lbl:min_zoom":8.0,
     "mps:latitude":30.904946,
     "mps:longitude":-6.135426,
     "mz:hierarchy_label":1,
@@ -161,9 +162,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0441-\u041c\u0430\u0441\u0441\u0430-\u0414\u0440\u0430\u0430"
     ],
-    "name:unk_x_variant":[
-        "Souss-Massa-Dr\u00e2a"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0633 \u0645\u0627\u0633\u06c1 \u062f\u0631\u0639\u06c1"
     ],
@@ -244,7 +242,7 @@
     "qs:woeid":56120060,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
         102191573,
@@ -278,7 +276,7 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1563358761,
+    "wof:lastmodified":1566600143,
     "wof:name":"Souss - Massa - Dra\u00e2",
     "wof:parent_id":85632693,
     "wof:placetype":"region",

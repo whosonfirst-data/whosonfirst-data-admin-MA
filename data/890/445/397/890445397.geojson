@@ -11,7 +11,7 @@
     "geom:longitude":-9.023901,
     "gn:country":"MA",
     "gn:fcode":"ADM2",
-    "gn:pop":881007,
+    "gn:population":881007,
     "iso:country":"MA",
     "label:eng_x_preferred_longname":[
         "Safi Province"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":32.262489,
     "lbl:longitude":-9.030873,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Marrakech-Safi",
     "meso:adm1_loc":"\u0645\u0631\u0627\u0643\u0634 \u0623\u0633\u0641\u064a",
     "meso:adm1_loc2":"\u2d4e\u2d55\u2d55\u2d30\u2d3d\u2d5b-\u2d30\u2d59\u2d3c\u2d49",
@@ -39,6 +41,7 @@
     "mps:longitude":-9.030873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0622\u0633\u0641\u064a"
     ],
@@ -83,9 +86,7 @@
         "Safi"
     ],
     "name:und_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u0623\u0633\u0641\u064a"
-    ],
-    "name:unk_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0623\u0633\u0641\u064a",
         "Igl\u012bm \u0100saf\u012b"
     ],
     "name:zho_x_preferred":[
@@ -99,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"Safi",
@@ -122,7 +123,7 @@
     "wof:concordances":{
         "gn:id":2537878,
         "hasc:id":"MA.MS.SA",
-        "qs:id":575017,
+        "qs_pg:id":575017,
         "wd:id":"Q637778",
         "wk:page":"Safi"
     },
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":890445397,
-    "wof:lastmodified":1563362413,
+    "wof:lastmodified":1566602059,
     "wof:name":"Safi",
     "wof:parent_id":85673937,
     "wof:placetype":"county",

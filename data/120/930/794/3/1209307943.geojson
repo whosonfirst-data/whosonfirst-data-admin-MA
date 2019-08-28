@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.53787,31.80584,-9.49787,31.84584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10962771
     },
     "wof:country":"MA",
-    "wof:geomhash":"ead2ffa9eab9fe5eb9978332fa14ca25",
+    "wof:geomhash":"49028b827701f88bc627ca0d8245db85",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209307943,
-    "wof:lastmodified":1536291129,
+    "wof:lastmodified":1566600947,
     "wof:name":"Haouira",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.51787,
-    31.825840000000003,
+    31.82584,
     -9.51787,
-    31.825840000000003
+    31.82584
 ],
   "geometry": {"coordinates":[-9.51787,31.82584],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.85826,33.34174,-6.81826,33.38174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10949852
     },
     "wof:country":"MA",
-    "wof:geomhash":"90f1e95a922286f95ff19090da25513c",
+    "wof:geomhash":"d85a24afd790f67fbf089b78cfa454b6",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209406997,
-    "wof:lastmodified":1536287963,
+    "wof:lastmodified":1566601043,
     "wof:name":"Leffia Oulad Si Ahmed",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.838260000000001,
-    33.361740000000005,
-    -6.838260000000001,
-    33.361740000000005
+    -6.83826,
+    33.36174,
+    -6.83826,
+    33.36174
 ],
   "geometry": {"coordinates":[-6.83826,33.36174],"type":"Point"}
 }

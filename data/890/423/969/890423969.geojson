@@ -11,10 +11,14 @@
     "geom:longitude":-9.06115,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":6088,
+    "gn:population":6088,
     "iso:country":"MA",
+    "lbl:bbox":"-9.16115,31.64096,-8.96115,31.84096",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0644\u0639\u0631\u0648\u0633\u064a"
     ],
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546380,
-        "qs:id":629484
+        "qs_pg:id":629484
     },
     "wof:country":"MA",
     "wof:created":1469051523,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890423969,
-    "wof:lastmodified":1505343479,
+    "wof:lastmodified":1566602008,
     "wof:name":"Sidi M Hamed Ou Marz",
     "wof:parent_id":890453939,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-7.15987,33.77271,-7.11987,33.81271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10940110
     },
     "wof:country":"MA",
-    "wof:geomhash":"260c2d737e33323d29f7f5f5e6339f76",
+    "wof:geomhash":"18cf522be1a4a46dd042664fecb55afd",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209336317,
-    "wof:lastmodified":1536290209,
+    "wof:lastmodified":1566601167,
     "wof:name":"Dar Lhaj Abdelkader",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.139869999999998,
+    -7.13987,
     33.79271,
-    -7.139869999999998,
+    -7.13987,
     33.79271
 ],
   "geometry": {"coordinates":[-7.13987,33.79271],"type":"Point"}

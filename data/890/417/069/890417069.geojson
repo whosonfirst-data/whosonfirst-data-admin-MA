@@ -11,10 +11,14 @@
     "geom:longitude":-5.60866,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":14615,
+    "gn:population":14615,
     "iso:country":"MA",
+    "lbl:bbox":"-5.70866,33.64463,-5.50866,33.84463",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0645\u0627\u0645"
     ],
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546323,
-        "qs:id":629438,
+        "qs_pg:id":629438,
         "wd:id":"Q4699274",
         "wk:page":"Ait Yaazem"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890417069,
-    "wof:lastmodified":1563362324,
+    "wof:lastmodified":1566602039,
     "wof:name":"Ait Yaazem",
     "wof:parent_id":1108784789,
     "wof:placetype":"localadmin",

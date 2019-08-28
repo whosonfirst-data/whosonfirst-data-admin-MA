@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-4.74896,33.34376,-4.70896,33.38376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0645\u0627\u0646"
     ],
@@ -63,10 +67,6 @@
     "name:swe_x_preferred":[
         "Boulemane"
     ],
-    "name:und_x_variant":[
-        "Boulmane",
-        "Boulemane"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0644\u0645\u0627\u0646"
     ],
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1343959229,
-    "wof:lastmodified":1564107379,
+    "wof:lastmodified":1566599956,
     "wof:name":"Boulemane",
     "wof:parent_id":890436419,
     "wof:placetype":"locality",

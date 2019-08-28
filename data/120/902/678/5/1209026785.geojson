@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-8.64184,31.24805,-8.60184,31.28805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10950146
     },
     "wof:country":"MA",
-    "wof:geomhash":"719c4cc988cdeab9a32eac7dd32c89a1",
+    "wof:geomhash":"aca0408108ee8a272b9e695aa9c8e810",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209026785,
-    "wof:lastmodified":1536299971,
+    "wof:lastmodified":1566601157,
     "wof:name":"Irhzer Izgarene",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.621839999999999,
+    -8.62184,
     31.26805,
-    -8.621839999999999,
+    -8.62184,
     31.26805
 ],
   "geometry": {"coordinates":[-8.62184,31.26805],"type":"Point"}

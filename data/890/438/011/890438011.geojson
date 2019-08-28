@@ -11,10 +11,14 @@
     "geom:longitude":-1.77119,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":3429,
+    "gn:population":3429,
     "iso:country":"MA",
+    "lbl:bbox":"-1.87119,34.36736,-1.67119,34.56736",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u064a\u0633\u064a\u062a"
     ],
@@ -69,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545873,
-        "qs:id":629017,
+        "qs_pg:id":629017,
         "wd:id":"Q3532864",
         "wk:page":"Touissit"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890438011,
-    "wof:lastmodified":1563362252,
+    "wof:lastmodified":1566602023,
     "wof:name":"Touissit",
     "wof:parent_id":1108784775,
     "wof:placetype":"localadmin",

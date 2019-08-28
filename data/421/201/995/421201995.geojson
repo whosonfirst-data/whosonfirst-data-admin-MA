@@ -10,10 +10,14 @@
     "geom:latitude":31.0419,
     "geom:longitude":-3.95066,
     "iso:country":"MA",
+    "lbl:bbox":"-3.97066,31.0219,-3.93066,31.0619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khebach m\u2019fis"
     ],
     "qs:gn_country":"MA",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2542297,
         "gp:id":1537965,
-        "qs:id":1353158
+        "qs_pg:id":1353158
     },
     "wof:country":"MA",
     "wof:created":1459010100,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421201995,
-    "wof:lastmodified":1501263437,
+    "wof:lastmodified":1566601976,
     "wof:name":"Mfis",
     "wof:parent_id":1108784773,
     "wof:placetype":"locality",

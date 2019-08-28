@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.54509,34.69426,-5.50509,34.73426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10991998
     },
     "wof:country":"MA",
-    "wof:geomhash":"0d253ac3ad954b377d7aed1caa5f70e8",
+    "wof:geomhash":"54fb7b87e6af5636a8db5bed219420a4",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209218137,
-    "wof:lastmodified":1536294058,
+    "wof:lastmodified":1566601225,
     "wof:name":"Douar Lbiyar",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.5250900000000005,
+    -5.52509,
     34.71426,
-    -5.5250900000000005,
+    -5.52509,
     34.71426
 ],
   "geometry": {"coordinates":[-5.52509,34.71426],"type":"Point"}

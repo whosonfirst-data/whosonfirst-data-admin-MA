@@ -11,10 +11,14 @@
     "geom:longitude":-7.24358,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":21360,
+    "gn:population":21360,
     "iso:country":"MA",
+    "lbl:bbox":"-7.34358,32.97141,-7.14358,33.17141",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0644\u0645\u0639\u0627\u062f\u0646\u0629"
     ],
@@ -72,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6546108,
-        "qs:id":629249,
+        "qs_pg:id":629249,
         "wd:id":"Q2294808",
         "wk:page":"Ben Ahmed"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890416925,
-    "wof:lastmodified":1563362366,
+    "wof:lastmodified":1566602047,
     "wof:name":"Ben Ahmed",
     "wof:parent_id":1108784833,
     "wof:placetype":"localadmin",

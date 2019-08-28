@@ -11,10 +11,14 @@
     "geom:longitude":-2.35921,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":16065,
+    "gn:population":16065,
     "iso:country":"MA",
+    "lbl:bbox":"-2.45921,34.81324,-2.25921,35.01324",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0639\u064a\u062f\u064a\u0629 (\u0627\u0644\u0628\u0644\u062f\u064a\u0629)"
     ],
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545875,
-        "qs:id":629019
+        "qs_pg:id":629019
     },
     "wof:country":"MA",
     "wof:created":1469051328,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890420261,
-    "wof:lastmodified":1564111393,
+    "wof:lastmodified":1566602054,
     "wof:name":"Zegzel",
     "wof:parent_id":1108784771,
     "wof:placetype":"localadmin",

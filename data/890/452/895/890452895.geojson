@@ -11,10 +11,14 @@
     "geom:longitude":-9.68174,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":4301,
+    "gn:population":4301,
     "iso:country":"MA",
+    "lbl:bbox":"-9.78174,31.25423,-9.58174,31.45423",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0627\u062d\u0645\u062f \u0627\u0648 \u0645\u0628\u0627\u0631\u0643"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545825,
-        "qs:id":628968,
+        "qs_pg:id":628968,
         "wd:id":"Q20389498",
         "wk:page":"Sidi Hmad Ou Hamed"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890452895,
-    "wof:lastmodified":1563362218,
+    "wof:lastmodified":1566602016,
     "wof:name":"Sidi Hmad Ou Hamed",
     "wof:parent_id":890453939,
     "wof:placetype":"localadmin",

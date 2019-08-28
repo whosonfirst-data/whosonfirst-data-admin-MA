@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.63381,31.43309,-6.59381,31.47309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":2588526
     },
     "wof:country":"MA",
-    "wof:geomhash":"a8fbdd43d0497cc6a87a353fa346ac65",
+    "wof:geomhash":"4f0f8497a4ca207e7cf275fe72c493d5",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209534135,
-    "wof:lastmodified":1536284192,
+    "wof:lastmodified":1566600897,
     "wof:name":"Tagzirt",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.613810000000001,
-    31.453090000000003,
-    -6.613810000000001,
-    31.453090000000003
+    -6.61381,
+    31.45309,
+    -6.61381,
+    31.45309
 ],
   "geometry": {"coordinates":[-6.61381,31.45309],"type":"Point"}
 }

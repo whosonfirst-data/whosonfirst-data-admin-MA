@@ -11,7 +11,7 @@
     "geom:longitude":-9.454589,
     "gn:country":"MA",
     "gn:fcode":"ADM2",
-    "gn:pop":414670,
+    "gn:population":414670,
     "iso:country":"MA",
     "label:eng_x_preferred_longname":[
         "Inezgane-Ait Melloul Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":30.315946,
     "lbl:longitude":-9.494854,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Souss-Massa",
     "meso:adm1_loc":"\u0633\u0648\u0633-\u0645\u0627\u0633\u0629",
     "meso:adm1_loc2":"\u2d59\u2d53\u2d59\u2d59-\u2d4e\u2d30\u2d59\u2d59\u2d30",
@@ -39,6 +41,7 @@
     "mps:longitude":-9.494854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0625\u0646\u0632\u0643\u0627\u0646 \u0623\u064a\u062a \u0645\u0644\u0648\u0644"
     ],
@@ -92,9 +95,6 @@
     "name:swe_x_preferred":[
         "Inezgane-Ait Mellou"
     ],
-    "name:und_x_variant":[
-        "\u0639\u0645\u0627\u0644\u0629 \u0625\u0646\u0632\u0643\u0627\u0646 \u0622\u064a\u062a \u0645\u0644\u0648\u0644"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u0632\u06a9\u0627\u0646 \u0622\u06cc\u062a \u0645\u0644\u0648\u0644"
     ],
@@ -109,9 +109,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-01",
+    "src:population_date":"2014-09-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-09-01",
     "statoids:capital":"Inezgane",
@@ -131,7 +131,7 @@
     "wof:concordances":{
         "gn:id":2545956,
         "hasc:id":"MA.SS.IA",
-        "qs:id":91817,
+        "qs_pg:id":91817,
         "wd:id":"Q1662264"
     },
     "wof:country":"MA",
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":890429093,
-    "wof:lastmodified":1563362341,
+    "wof:lastmodified":1566602041,
     "wof:name":"Inezgane-Ait Melloul",
     "wof:parent_id":85673929,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":31.286352,
     "geom:longitude":-7.236049,
     "iso:country":"MA",
+    "lbl:bbox":"-7.256049,31.266352,-7.216049,31.306352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1541421,
-        "qs:id":891581
+        "qs_pg:id":891581
     },
     "wof:country":"MA",
     "wof:created":1459009440,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421185345,
-    "wof:lastmodified":1499519196,
+    "wof:lastmodified":1566601978,
     "wof:name":"Dar Kaid el Glaoui",
     "wof:parent_id":1108784843,
     "wof:placetype":"locality",

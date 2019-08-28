@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.48548,31.28502,-9.44548,31.32502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10924202
     },
     "wof:country":"MA",
-    "wof:geomhash":"a6743e8c2df865bc41b8d3008f9e6978",
+    "wof:geomhash":"f5991aee0b561e51f8ff396a25af4e4f",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209099533,
-    "wof:lastmodified":1536297778,
+    "wof:lastmodified":1566600883,
     "wof:name":"Tigmi ou Fella",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.46548,
-    31.305020000000006,
+    31.30502000000001,
     -9.46548,
-    31.305020000000006
+    31.30502000000001
 ],
   "geometry": {"coordinates":[-9.46548,31.30502000000001],"type":"Point"}
 }

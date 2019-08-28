@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-6.97818,33.27539,-6.93818,33.31539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10940183
     },
     "wof:country":"MA",
-    "wof:geomhash":"07ef89177228fc4b8784d26736836220",
+    "wof:geomhash":"b3f068ca599c14dfbe2d769c8967d662",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209103091,
-    "wof:lastmodified":1536297669,
+    "wof:lastmodified":1566601228,
     "wof:name":"Douar Lkarkour Oulad Zayd",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.9581800000000005,
-    33.295390000000005,
-    -6.9581800000000005,
-    33.295390000000005
+    -6.95818,
+    33.29539,
+    -6.95818,
+    33.29539
 ],
   "geometry": {"coordinates":[-6.95818,33.29539],"type":"Point"}
 }

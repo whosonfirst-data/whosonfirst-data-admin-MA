@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-9.4361,31.91844,-9.3961,31.95844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10904731
     },
     "wof:country":"MA",
-    "wof:geomhash":"a9283fb8b6a7f5949c270518322362f7",
+    "wof:geomhash":"29b6952b0a9530a003a3a1e2a9c33720",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209307947,
-    "wof:lastmodified":1536291129,
+    "wof:lastmodified":1566600947,
     "wof:name":"Oulad El Maati",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.4161,
-    31.938440000000003,
+    31.93844,
     -9.4161,
-    31.938440000000003
+    31.93844
 ],
   "geometry": {"coordinates":[-9.4161,31.93844],"type":"Point"}
 }

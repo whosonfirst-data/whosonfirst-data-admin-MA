@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
+    "lbl:bbox":"-5.17518,34.71466,-5.13518,34.75466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632693
@@ -34,7 +38,7 @@
         "gn:id":10925521
     },
     "wof:country":"MA",
-    "wof:geomhash":"c48626ddd4b6ac26454a160df625de34",
+    "wof:geomhash":"5157e3214506151fdde043b5fc2677a4",
     "wof:hierarchy":[
         {
             "country_id":85632693,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209421937,
-    "wof:lastmodified":1536287502,
+    "wof:lastmodified":1566601208,
     "wof:name":"Douar Dhar",
     "wof:parent_id":85632693,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.1551800000000005,
+    -5.15518,
     34.73466,
-    -5.1551800000000005,
+    -5.15518,
     34.73466
 ],
   "geometry": {"coordinates":[-5.15518,34.73466],"type":"Point"}

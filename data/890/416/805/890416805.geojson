@@ -11,10 +11,14 @@
     "geom:longitude":-7.39356,
     "gn:country":"MA",
     "gn:fcode":"ADM3",
-    "gn:pop":7925,
+    "gn:population":7925,
     "iso:country":"MA",
+    "lbl:bbox":"-7.49356,32.97904,-7.29356,33.17904",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062f \u0627\u0644\u0646\u0639\u0646\u0627\u0639"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6545767,
-        "qs:id":628912,
+        "qs_pg:id":628912,
         "wd:id":"Q7110392",
         "wk:page":"Oulad Chbana"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890416805,
-    "wof:lastmodified":1563362359,
+    "wof:lastmodified":1566602046,
     "wof:name":"Oulad Chbana",
     "wof:parent_id":1108784833,
     "wof:placetype":"localadmin",

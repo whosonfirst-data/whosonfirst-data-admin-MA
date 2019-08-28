@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":32.990058,
     "lbl:longitude":-7.289512,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.990058,
     "mps:longitude":-7.289512,
     "mz:hierarchy_label":1,
@@ -179,9 +180,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0428\u0430\u0432\u0456\u044f-\u0423\u0430\u0440\u0434\u0456\u0433\u0430"
     ],
-    "name:unk_x_variant":[
-        "Chaouia-Ouardigha"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0627\u0648\u06cc\u06c1 \u0648\u0631\u062f\u06cc\u063a\u06c1"
     ],
@@ -262,7 +260,7 @@
     "qs:woeid":56120050,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MA-09",
     "wd:wordcount":144,
     "wof:belongsto":[
@@ -298,7 +296,7 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1563358763,
+    "wof:lastmodified":1566600144,
     "wof:name":"Chaouia - Ouardigha",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
