@@ -85,11 +85,23 @@
     "name:dan_x_preferred":[
         "Casablanca"
     ],
+    "name:deu_ch_x_preferred":[
+        "Casablanca"
+    ],
     "name:deu_x_preferred":[
         "Casablanca"
     ],
+    "name:diq_x_preferred":[
+        "Kazablanka"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03b6\u03b1\u03bc\u03c0\u03bb\u03ac\u03bd\u03ba\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Casablanca"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Casablanca"
     ],
     "name:eng_x_historical":[
         "White House"
@@ -271,6 +283,9 @@
     "name:pol_x_preferred":[
         "Casablanca"
     ],
+    "name:por_br_x_preferred":[
+        "Casablanca"
+    ],
     "name:por_x_preferred":[
         "Casablanca"
     ],
@@ -285,6 +300,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u0430\u0431\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c5f\u1c65\u1c5f\u1c75\u1c5e\u1c5f\u1c71\u1c60\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Casablanca"
@@ -374,6 +392,12 @@
         "Casablanca"
     ],
     "name:yue_x_preferred":[
+        "\u5361\u85a9\u5e03\u862d\u5361"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5361\u85a9\u5e03\u862d\u5361"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u5361\u85a9\u5e03\u862d\u5361"
     ],
     "name:zho_x_preferred":[
@@ -480,8 +504,8 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673905,
-        890442533
+        890442533,
+        85673905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -503,7 +527,7 @@
         }
     ],
     "wof:id":890434661,
-    "wof:lastmodified":1566602061,
+    "wof:lastmodified":1587428373,
     "wof:name":"Casablanca",
     "wof:parent_id":890442533,
     "wof:placetype":"locality",
