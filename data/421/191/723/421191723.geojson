@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.2815015,35.6288875,-5.2815015,35.6288875",
+    "geom:bbox":"-5.281502,35.628887,-5.281502,35.628887",
     "geom:latitude":35.628887,
     "geom:longitude":-5.281502,
     "iso:country":"MA",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u062a\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Martil"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673883,
-        1108784777
+        1108784777,
+        85673883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"MA",
     "wof:created":1459009703,
-    "wof:geomhash":"f9797a5c43a9f8b3fbe04638f61792d7",
+    "wof:geomhash":"961d53491c3042d55b750302d1f582de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421191723,
-    "wof:lastmodified":1566601972,
-    "wof:name":"\u0645\u0627\u0631\u062a\u064a\u0644",
+    "wof:lastmodified":1601423090,
+    "wof:name":"Martil",
     "wof:parent_id":1108784777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.2815015,
-    35.6288875,
-    -5.2815015,
-    35.6288875
+    -5.281502,
+    35.628887,
+    -5.281502,
+    35.628887
 ],
-  "geometry": {"coordinates":[-5.2815015,35.6288875],"type":"Point"}
+  "geometry": {"coordinates":[-5.281502,35.628887],"type":"Point"}
 }

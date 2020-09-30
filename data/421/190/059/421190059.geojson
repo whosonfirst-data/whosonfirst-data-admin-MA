@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.112247,33.5330125,-5.112247,33.5330125",
+    "geom:bbox":"-5.112247,33.533012,-5.112247,33.533012",
     "geom:latitude":33.533012,
     "geom:longitude":-5.112247,
     "iso:country":"MA",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0641\u0631\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ifran"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673915,
-        890429095
+        890429095,
+        85673915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"MA",
     "wof:created":1459009644,
-    "wof:geomhash":"50a89181b786718ae1884ea32507e08c",
+    "wof:geomhash":"06bc0017adb381f2ffd5ad7fd2e5deec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421190059,
-    "wof:lastmodified":1566601975,
-    "wof:name":"\u0627\u0641\u0631\u0627\u0646",
+    "wof:lastmodified":1601423089,
+    "wof:name":"Ifran",
     "wof:parent_id":890429095,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     -5.112247,
-    33.5330125,
+    33.533012,
     -5.112247,
-    33.5330125
+    33.533012
 ],
-  "geometry": {"coordinates":[-5.112247,33.5330125],"type":"Point"}
+  "geometry": {"coordinates":[-5.112247,33.533012],"type":"Point"}
 }

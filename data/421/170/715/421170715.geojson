@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.00148,31.6293035,-8.00148,31.6293035",
+    "geom:bbox":"-8.00148,31.629303,-8.00148,31.629303",
     "geom:latitude":31.629303,
     "geom:longitude":-8.00148,
     "iso:country":"MA",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u0643\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Marrakesh"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673933,
-        1108784829
+        1108784829,
+        85673933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"MA",
     "wof:created":1459008865,
-    "wof:geomhash":"f5f42b56bfdd490e11363ddac5c60260",
+    "wof:geomhash":"28c957b9290e0a930ffebfbe5a1785c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421170715,
-    "wof:lastmodified":1566601977,
-    "wof:name":"\u0645\u0631\u0627\u0643\u0634",
+    "wof:lastmodified":1601423090,
+    "wof:name":"Marrakesh",
     "wof:parent_id":1108784829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     -8.00148,
-    31.6293035,
+    31.629303,
     -8.00148,
-    31.6293035
+    31.629303
 ],
-  "geometry": {"coordinates":[-8.00148,31.6293035],"type":"Point"}
+  "geometry": {"coordinates":[-8.00148,31.629303],"type":"Point"}
 }
