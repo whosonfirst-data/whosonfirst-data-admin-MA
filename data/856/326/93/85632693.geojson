@@ -1060,7 +1060,8 @@
     "src:geom_alt":[
         "meso",
         "naturalearth",
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1120,7 +1121,8 @@
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6",
         "meso",
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"fd23b6687346838cdd2bff761a8ba0a7",
     "wof:hierarchy":[
@@ -1140,7 +1142,7 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1617839509,
+    "wof:lastmodified":1618362114,
     "wof:name":"Morocco",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
