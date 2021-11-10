@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-11.6833284927,26.7332894073,-11.6833284927,26.7332894073",
+    "geom:bbox":"-11.683328,26.733289,-11.683328,26.733289",
     "geom:latitude":26.733289,
     "geom:longitude":-11.683328,
     "iso:country":"MA",
@@ -74,6 +74,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u094d\u092e\u093e\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Smara"
     ],
     "name:ind_x_preferred":[
         "Smara"
@@ -263,7 +266,7 @@
     },
     "wof:country":"MA",
     "wof:created":1499130996,
-    "wof:geomhash":"bb00476e75cad9169c4d63dabf1702dc",
+    "wof:geomhash":"11b19723a6e6f6efa5c917ca2466ea55",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":1141908901,
-    "wof:lastmodified":1566602964,
+    "wof:lastmodified":1636494996,
     "wof:name":"Smara",
     "wof:parent_id":85673947,
     "wof:placetype":"locality",
@@ -283,10 +286,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -11.68332849267227,
-    26.73328940734984,
-    -11.68332849267227,
-    26.73328940734984
+    -11.683328,
+    26.733289,
+    -11.683328,
+    26.733289
 ],
-  "geometry": {"coordinates":[-11.68332849267227,26.73328940734984],"type":"Point"}
+  "geometry": {"coordinates":[-11.683328,26.733289],"type":"Point"}
 }

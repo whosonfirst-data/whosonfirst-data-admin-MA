@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.44997155905,31.9404134308,-4.44997155905,31.9404134308",
+    "geom:bbox":"-4.449972,31.940413,-4.449972,31.940413",
     "geom:latitude":31.940413,
     "geom:longitude":-4.449972,
     "iso:country":"MA",
@@ -24,6 +24,9 @@
     "name:azb_x_preferred":[
         "\u0631\u0634\u06cc\u062f\u06cc\u0647"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b0 \u09b0\u09df\u09be\u099a\u09bf\u09a6\u09bf\u09df\u09be"
+    ],
     "name:cat_x_preferred":[
         "Rachidia"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:deu_x_preferred":[
         "Errachidia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c1 \u03a1\u03b1\u03c7\u03b9\u03b4\u03b9\u03ac"
     ],
     "name:eng_x_preferred":[
         "Errachidia"
@@ -44,6 +50,15 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0-\u05e8\u05e9\u05d9\u05d3\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0930 \u0930\u093e\u0936\u0940\u0921\u093f\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Er Rachidia"
+    ],
+    "name:ind_x_preferred":[
+        "Er Rachidia"
     ],
     "name:ita_x_preferred":[
         "Al-Rashidiyya"
@@ -87,8 +102,14 @@
     "name:swe_x_preferred":[
         "Errachidia"
     ],
+    "name:tur_x_preferred":[
+        "Er Rachidia"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0631\u0634\u06cc\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Er Rachidia"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5e0c\u8fea\u8036"
@@ -200,7 +221,7 @@
     },
     "wof:country":"MA",
     "wof:created":1499130694,
-    "wof:geomhash":"a05852671d63b51308bf204e027429ad",
+    "wof:geomhash":"273a95770d8560854ea864841c897bf9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -210,7 +231,7 @@
         }
     ],
     "wof:id":1141907195,
-    "wof:lastmodified":1566602964,
+    "wof:lastmodified":1636494996,
     "wof:name":"Er Rachidia",
     "wof:parent_id":85673915,
     "wof:placetype":"locality",
@@ -220,10 +241,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.44997155904963,
-    31.94041343080823,
-    -4.44997155904963,
-    31.94041343080823
+    -4.449972,
+    31.940413,
+    -4.449972,
+    31.940413
 ],
-  "geometry": {"coordinates":[-4.44997155904963,31.94041343080823],"type":"Point"}
+  "geometry": {"coordinates":[-4.449972,31.940413],"type":"Point"}
 }

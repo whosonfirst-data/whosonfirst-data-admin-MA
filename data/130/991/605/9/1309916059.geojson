@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d2\u05d0\u05e0\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Tagant"
+    ],
     "name:und_x_variant":[
         "Tassakkast Tagant",
         "Tagannt",
@@ -46,7 +52,7 @@
         "gn:id":2531758
     },
     "wof:country":"MA",
-    "wof:geomhash":"c772d787684c6ce2db7d04a009ed4ef1",
+    "wof:geomhash":"65d421465fb23f304b600415663d088d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1309916059,
-    "wof:lastmodified":1566601876,
+    "wof:lastmodified":1636494992,
     "wof:name":"Tagant",
     "wof:parent_id":1108784815,
     "wof:placetype":"locality",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     -9.78352,
-    29.12099000000001,
+    29.12099,
     -9.78352,
-    29.12099000000001
+    29.12099
 ],
-  "geometry": {"coordinates":[-9.78352,29.12099000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.78352,29.12099],"type":"Point"}
 }
