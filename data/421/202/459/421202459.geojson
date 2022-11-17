@@ -9,6 +9,21 @@
     "geom:bbox":"-6.43444,31.648227,-6.377527,31.662375",
     "geom:latitude":31.656591,
     "geom:longitude":-6.408493,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"1208103092.0",
+    "gn:asciiname":"Tabant",
+    "gn:country_code":"MA",
+    "gn:dem":1972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2532270,
+    "gn:latitude":31.65255,
+    "gn:longitude":-6.41049,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Tabant",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
     "lbl:latitude":31.657154,
     "lbl:longitude":-6.408924,
@@ -41,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Tabant"
+    ],
+    "name:und_x_variant":[
+        "Tabannt"
     ],
     "qs:gn_country":"MA",
     "qs:gn_fcode":"PPL",
@@ -97,13 +115,15 @@
         }
     ],
     "wof:id":421202459,
-    "wof:lastmodified":1668713757,
+    "wof:lastmodified":1668723100,
     "wof:name":"Tabant",
     "wof:parent_id":1108784839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344155709
+    ],
     "wof:tags":[]
 },
   "bbox": [

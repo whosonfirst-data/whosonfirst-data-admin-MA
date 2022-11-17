@@ -9,6 +9,9 @@
     "geom:bbox":"-2.377527,34.89355,-2.285157,34.957835",
     "geom:latitude":34.923039,
     "geom:longitude":-2.326782,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA3",
+    "gn:population":80721,
     "iso:country":"MA",
     "lbl:latitude":34.926624,
     "lbl:longitude":-2.321284,
@@ -21,8 +24,146 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0643\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u06a9\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b0\u0995\u09be\u09a8\u09c7"
+    ],
+    "name:cat_x_preferred":[
+        "Berkane"
+    ],
+    "name:ceb_x_preferred":[
+        "Berkane"
+    ],
+    "name:ces_x_preferred":[
+        "Berkane"
+    ],
+    "name:dan_x_preferred":[
+        "Berkane"
+    ],
+    "name:deu_x_preferred":[
+        "Berkane"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1\u03ba\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Burkan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06a9\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Berkane"
+    ],
+    "name:fra_x_preferred":[
+        "Berkane"
+    ],
+    "name:glg_x_preferred":[
+        "Birkani"
+    ],
+    "name:glg_x_variant":[
+        "Berkane"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ab0\u0a95\u0ac7\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05e7\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0930\u0915\u093e\u0928\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Berkane"
+    ],
+    "name:ita_x_preferred":[
+        "Berkane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30ab\u30f3\u30cc"
+    ],
+    "name:kab_x_preferred":[
+        "Berkan"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cb0\u0ccd\u0c95\u0ca8\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub974\uce78"
+    ],
+    "name:lav_x_preferred":[
+        "Berkane"
+    ],
+    "name:lit_x_preferred":[
+        "Berkan\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0930\u094d\u0915\u0928\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Berkane"
+    ],
+    "name:nld_x_preferred":[
+        "Berkane"
+    ],
+    "name:nob_x_preferred":[
+        "Berkane"
+    ],
+    "name:pol_x_preferred":[
+        "Berkane"
+    ],
+    "name:por_x_preferred":[
+        "Berkane"
+    ],
+    "name:ron_x_preferred":[
+        "Berkane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043a\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Berkane"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dbb\u0dca\u0d9a\u0dcf\u0db1\u0dda"
+    ],
+    "name:slv_x_preferred":[
+        "Berkane"
+    ],
+    "name:spa_x_preferred":[
+        "Berkan"
+    ],
+    "name:swe_x_preferred":[
+        "Berkane"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0bb0\u0bcd\u0b95\u0bc7\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c30\u0c4d\u0c15\u0c3e\u0c28\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e04\u0e32\u0e40\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Berkane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u043a\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Berkawe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u06a9\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Berkane"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u723e\u574e"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -57,8 +198,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2555467,
         "gp:id":1532288,
-        "qs_pg:id":1118228
+        "qs_pg:id":1118228,
+        "wd:id":"Q820813",
+        "wk:page":"Berkane"
     },
     "wof:country":"MA",
     "wof:created":1459009643,
@@ -76,13 +220,15 @@
         }
     ],
     "wof:id":421190023,
-    "wof:lastmodified":1668713760,
+    "wof:lastmodified":1668723101,
     "wof:name":"Burkan",
     "wof:parent_id":1108784771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890429501
+    ],
     "wof:tags":[]
 },
   "bbox": [

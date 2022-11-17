@@ -9,6 +9,19 @@
     "geom:bbox":"-6.057112,32.553897,-6.00746,32.574059",
     "geom:latitude":32.564697,
     "geom:longitude":-6.032745,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Ksiba",
+    "gn:country_code":"MA",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544793,
+    "gn:latitude":32.56536,
+    "gn:longitude":-6.03238,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"El Ksiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
     "lbl:latitude":32.565392,
     "lbl:longitude":-6.038183,
@@ -41,6 +54,11 @@
     ],
     "name:swe_x_preferred":[
         "El Ksiba"
+    ],
+    "name:und_x_variant":[
+        "A\u00eft Yakoub",
+        "Kasba A\u00eft Youdi",
+        "Ksiba"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -76,6 +94,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2544793,
         "gp:id":1535097,
         "qs_pg:id":1118261,
         "wd:id":"Q3050022"
@@ -96,13 +115,15 @@
         }
     ],
     "wof:id":421190051,
-    "wof:lastmodified":1668713765,
+    "wof:lastmodified":1668723102,
     "wof:name":"El Ksiba",
     "wof:parent_id":890452779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242575623
+    ],
     "wof:tags":[]
 },
   "bbox": [

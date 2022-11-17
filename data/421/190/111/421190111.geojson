@@ -9,6 +9,9 @@
     "geom:bbox":"-4.853352,33.809375,-4.804161,33.844543",
     "geom:latitude":33.828442,
     "geom:longitude":-4.831004,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA3",
+    "gn:population":65150,
     "iso:country":"MA",
     "lbl:latitude":33.827819,
     "lbl:longitude":-4.831472,
@@ -18,6 +21,66 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0635\u0641\u0631\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0635\u0641\u0631\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Sufruy"
+    ],
+    "name:ceb_x_preferred":[
+        "Sefrou"
+    ],
+    "name:cym_x_preferred":[
+        "Sefrou"
+    ],
+    "name:deu_x_preferred":[
+        "Sefrou"
+    ],
+    "name:eng_x_preferred":[
+        "Sefrou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0641\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e9frou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05e4\u05e8\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Sefrou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30d5\u30eb"
+    ],
+    "name:kab_x_preferred":[
+        "Sefru"
+    ],
+    "name:nld_x_preferred":[
+        "Sefrou"
+    ],
+    "name:por_x_preferred":[
+        "Sefrou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0444\u0440\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Sefr\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "Sefrou"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0641\u0631\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u592b\u9b6f"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -51,8 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2537545,
         "gp:id":1539603,
-        "qs_pg:id":1118296
+        "qs_pg:id":1118296,
+        "wd:id":"Q1009308",
+        "wk:page":"Sefrou"
     },
     "wof:country":"MA",
     "wof:created":1459009646,
@@ -70,13 +136,15 @@
         }
     ],
     "wof:id":421190111,
-    "wof:lastmodified":1668713762,
+    "wof:lastmodified":1668723103,
     "wof:name":"Sefru",
     "wof:parent_id":890440849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890432375
+    ],
     "wof:tags":[]
 },
   "bbox": [

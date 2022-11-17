@@ -9,6 +9,21 @@
     "geom:bbox":"-6.465341,30.691017,-6.441004,30.709819",
     "geom:latitude":30.698707,
     "geom:longitude":-6.451673,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"587.0",
+    "gn:admin3_code":"458701011.0",
+    "gn:asciiname":"Agdz",
+    "gn:country_code":"MA",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2561539,
+    "gn:latitude":30.69356,
+    "gn:longitude":-6.44628,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Agdz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
     "lbl:latitude":30.696756,
     "lbl:longitude":-6.450474,
@@ -21,8 +36,54 @@
     "name:ara_x_preferred":[
         "\u0627\u0643\u062f\u0632"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06a9\u062f\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "Aqd\u0259z"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0434\u0435\u0437"
+    ],
+    "name:cat_x_preferred":[
+        "Agdz"
+    ],
+    "name:ceb_x_preferred":[
+        "Agdz"
+    ],
+    "name:deu_x_preferred":[
+        "Agdz"
+    ],
     "name:eng_x_preferred":[
         "Agdz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u062f\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Agdz"
+    ],
+    "name:ita_x_preferred":[
+        "Agdz"
+    ],
+    "name:lit_x_preferred":[
+        "Agdezas"
+    ],
+    "name:pol_x_preferred":[
+        "Akdaz"
+    ],
+    "name:por_x_preferred":[
+        "Agdz"
+    ],
+    "name:swe_x_preferred":[
+        "Agdz"
+    ],
+    "name:und_x_variant":[
+        "Ksar Agdz",
+        "Agoz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u062f\u0632"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -57,8 +118,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2561539,
         "gp:id":1529626,
-        "qs_pg:id":1118207
+        "qs_pg:id":1118207,
+        "wk:page":"Agdz"
     },
     "wof:country":"MA",
     "wof:created":1459009643,
@@ -76,13 +139,15 @@
         }
     ],
     "wof:id":421190003,
-    "wof:lastmodified":1668713764,
+    "wof:lastmodified":1668723102,
     "wof:name":"Agdz",
     "wof:parent_id":890424149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226139031
+    ],
     "wof:tags":[]
 },
   "bbox": [

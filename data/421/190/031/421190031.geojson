@@ -9,6 +9,21 @@
     "geom:bbox":"-8.798291,31.510853,-8.722424,31.563334",
     "geom:latitude":31.544206,
     "geom:longitude":-8.765283,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"161.0",
+    "gn:admin3_code":"716101011.0",
+    "gn:asciiname":"Chichaoua",
+    "gn:country_code":"MA",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2553303,
+    "gn:latitude":31.54351,
+    "gn:longitude":-8.76275,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Chichaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
     "lbl:latitude":31.54547,
     "lbl:longitude":-8.765858,
@@ -21,8 +36,51 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0634\u0627\u0648\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u0634\u0627\u0648\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Chichaoua"
+    ],
+    "name:ceb_x_preferred":[
+        "Chichaoua"
+    ],
+    "name:deu_x_preferred":[
+        "Chichaoua"
+    ],
     "name:eng_x_preferred":[
         "Chichaoua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0634\u0627\u0648\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Chichaoua"
+    ],
+    "name:fra_x_preferred":[
+        "Chichaoua"
+    ],
+    "name:ita_x_preferred":[
+        "Chichaoua"
+    ],
+    "name:nld_x_preferred":[
+        "Chichaoua"
+    ],
+    "name:por_x_preferred":[
+        "Chichaoua"
+    ],
+    "name:swe_x_preferred":[
+        "Chichaoua"
+    ],
+    "name:und_x_variant":[
+        "Mzala Chichaoua",
+        "Chichaua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0634\u0627\u0648\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u6c99\u74e6"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -57,8 +115,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2553303,
         "gp:id":1532851,
-        "qs_pg:id":1118238
+        "qs_pg:id":1118238,
+        "wk:page":"Chichaoua"
     },
     "wof:country":"MA",
     "wof:created":1459009644,
@@ -76,13 +136,15 @@
         }
     ],
     "wof:id":421190031,
-    "wof:lastmodified":1668713761,
+    "wof:lastmodified":1668723100,
     "wof:name":"Chichaoua",
     "wof:parent_id":890440847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293483319
+    ],
     "wof:tags":[]
 },
   "bbox": [

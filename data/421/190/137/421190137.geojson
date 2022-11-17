@@ -9,6 +9,19 @@
     "geom:bbox":"-5.661769,32.775981,-5.644159,32.788377",
     "geom:latitude":32.782309,
     "geom:longitude":-5.653749,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tirhassaline",
+    "gn:country_code":"MA",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2527641,
+    "gn:latitude":32.7822,
+    "gn:longitude":-5.65282,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tirhassaline",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
     "lbl:latitude":32.780178,
     "lbl:longitude":-5.655951,
@@ -21,8 +34,29 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u063a\u0633\u0627\u0644\u064a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Tighassaline"
+    ],
+    "name:ceb_x_preferred":[
+        "Tighassaline"
+    ],
     "name:eng_x_preferred":[
         "Tighassaline"
+    ],
+    "name:fra_x_preferred":[
+        "Tighassaline"
+    ],
+    "name:ita_x_preferred":[
+        "Tighassaline"
+    ],
+    "name:swe_x_preferred":[
+        "Tighassaline"
+    ],
+    "name:und_x_variant":[
+        "Dechra Maamar",
+        "M\u00e2ama",
+        "Tirhassaline",
+        "Mammar"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -57,8 +91,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2527641,
         "gp:id":1541575,
-        "qs_pg:id":1118312
+        "qs_pg:id":1118312,
+        "wk:page":"Tighassaline"
     },
     "wof:country":"MA",
     "wof:created":1459009648,
@@ -76,13 +112,15 @@
         }
     ],
     "wof:id":421190137,
-    "wof:lastmodified":1668713763,
+    "wof:lastmodified":1668723105,
     "wof:name":"Tighassaline",
     "wof:parent_id":1108784791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193030869
+    ],
     "wof:tags":[]
 },
   "bbox": [

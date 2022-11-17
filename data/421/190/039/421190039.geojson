@@ -9,6 +9,19 @@
     "geom:bbox":"-4.669883,35.198365,-4.658662,35.209819",
     "geom:latitude":35.204107,
     "geom:longitude":-4.66412,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jebha",
+    "gn:country_code":"MA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550079,
+    "gn:latitude":35.20549,
+    "gn:longitude":-4.66524,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jebha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
     "lbl:latitude":35.204168,
     "lbl:longitude":-4.664013,
@@ -21,8 +34,46 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0647\u0629"
     ],
+    "name:cat_x_preferred":[
+        "El Jebha"
+    ],
+    "name:ceb_x_preferred":[
+        "El Jabha"
+    ],
+    "name:deu_x_preferred":[
+        "El Jebha"
+    ],
     "name:eng_x_preferred":[
         "Jubeiha"
+    ],
+    "name:eus_x_preferred":[
+        "El Jebha"
+    ],
+    "name:fra_x_preferred":[
+        "Jebha"
+    ],
+    "name:nld_x_preferred":[
+        "El Jebha"
+    ],
+    "name:pol_x_preferred":[
+        "Al-D\u017cabha"
+    ],
+    "name:por_x_preferred":[
+        "El Jebha"
+    ],
+    "name:spa_x_preferred":[
+        "El Jebha"
+    ],
+    "name:swe_x_preferred":[
+        "El Jabha"
+    ],
+    "name:und_x_variant":[
+        "Puerto Capax",
+        "Puerto Capaz",
+        "Yebha",
+        "K\u0101b\u0101z",
+        "Yebba",
+        "Jebba"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -57,8 +108,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2550079,
         "gp:id":1534935,
-        "qs_pg:id":1118250
+        "qs_pg:id":1118250,
+        "wk:page":"El_Jebha"
     },
     "wof:country":"MA",
     "wof:created":1459009644,
@@ -76,13 +129,15 @@
         }
     ],
     "wof:id":421190039,
-    "wof:lastmodified":1668713762,
+    "wof:lastmodified":1668723101,
     "wof:name":"Jubeiha",
     "wof:parent_id":890453883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225959253
+    ],
     "wof:tags":[]
 },
   "bbox": [

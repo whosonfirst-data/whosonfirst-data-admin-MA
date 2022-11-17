@@ -9,6 +9,21 @@
     "geom:bbox":"-9.689358,30.989358,-9.659473,31.016393",
     "geom:latitude":31.003091,
     "geom:longitude":-9.674505,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"211.0",
+    "gn:admin3_code":"721101091.0",
+    "gn:asciiname":"Tamanar",
+    "gn:country_code":"MA",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2530843,
+    "gn:latitude":31.00087,
+    "gn:longitude":-9.67802,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Tamanar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
     "lbl:latitude":31.001631,
     "lbl:longitude":-9.67479,
@@ -21,8 +36,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0645\u0646\u0627\u0631"
     ],
+    "name:cat_x_preferred":[
+        "Tamanar"
+    ],
     "name:eng_x_preferred":[
         "Tamanar"
+    ],
+    "name:fin_x_preferred":[
+        "Tamanar"
+    ],
+    "name:fra_x_preferred":[
+        "Tamanar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u043d\u0430\u0440"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -57,8 +84,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2530843,
         "gp:id":1540724,
-        "qs_pg:id":1118305
+        "qs_pg:id":1118305,
+        "wk:page":"Tamanar"
     },
     "wof:country":"MA",
     "wof:created":1459009648,
@@ -76,13 +105,15 @@
         }
     ],
     "wof:id":421190125,
-    "wof:lastmodified":1668713765,
+    "wof:lastmodified":1668723104,
     "wof:name":"Tamanar",
     "wof:parent_id":890453939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326916169
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,19 @@
     "geom:bbox":"-6.568202,31.052148,-6.560577,31.057888",
     "geom:latitude":31.05481,
     "geom:longitude":-6.564467,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oulad Said",
+    "gn:country_code":"MA",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2539333,
+    "gn:latitude":31.05536,
+    "gn:longitude":-6.56155,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Oulad Sa\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
     "lbl:latitude":31.054877,
     "lbl:longitude":-6.56441,
@@ -26,6 +39,12 @@
     ],
     "name:bul_x_preferred":[
         "\u0423\u043b\u0435\u0434 \u0421\u0430\u0438\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Oulad Said"
+    ],
+    "name:ceb_x_preferred":[
+        "Oulad Sa\u00efd"
     ],
     "name:deu_x_preferred":[
         "Ouled Said"
@@ -55,6 +74,12 @@
         "\u0423\u043b\u0435\u0434-\u0421\u0430\u0438\u0434"
     ],
     "name:spa_x_preferred":[
+        "Ouled Sa\u00efd"
+    ],
+    "name:swe_x_preferred":[
+        "Oulad Sa\u00efd"
+    ],
+    "name:und_x_variant":[
         "Ouled Sa\u00efd"
     ],
     "name:urd_x_preferred":[
@@ -97,6 +122,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2539333,
         "gp:id":1540007,
         "qs_pg:id":1118297
     },
@@ -116,13 +142,15 @@
         }
     ],
     "wof:id":421190113,
-    "wof:lastmodified":1668713765,
+    "wof:lastmodified":1668723104,
     "wof:name":"Ouled Said",
     "wof:parent_id":1108784843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259401217
+    ],
     "wof:tags":[]
 },
   "bbox": [

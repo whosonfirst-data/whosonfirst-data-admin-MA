@@ -9,6 +9,19 @@
     "geom:bbox":"-9.566446,31.51653,-9.530412,31.547541",
     "geom:latitude":31.533412,
     "geom:longitude":-9.548197,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ounagha",
+    "gn:country_code":"MA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538755,
+    "gn:latitude":31.53203,
+    "gn:longitude":-9.54944,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ounagha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
     "lbl:latitude":31.534122,
     "lbl:longitude":-9.549652,
@@ -21,8 +34,33 @@
     "name:ara_x_preferred":[
         "\u0627\u0648\u0646\u0627\u063a\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Ounagha"
+    ],
+    "name:ceb_x_preferred":[
+        "Ounara"
+    ],
     "name:eng_x_preferred":[
         "Ounagha"
+    ],
+    "name:fin_x_preferred":[
+        "Ounagha"
+    ],
+    "name:fra_x_preferred":[
+        "Ounagha"
+    ],
+    "name:ita_x_preferred":[
+        "Ounagha"
+    ],
+    "name:por_x_preferred":[
+        "Ounagha"
+    ],
+    "name:swe_x_preferred":[
+        "Ounara"
+    ],
+    "name:und_x_variant":[
+        "Ounarha",
+        "Oumara"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -57,8 +95,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2538755,
         "gp:id":1539308,
-        "qs_pg:id":993042
+        "qs_pg:id":993042,
+        "wk:page":"Ounagha"
     },
     "wof:country":"MA",
     "wof:created":1459009406,
@@ -76,13 +116,15 @@
         }
     ],
     "wof:id":421184287,
-    "wof:lastmodified":1668713766,
+    "wof:lastmodified":1668723100,
     "wof:name":"Ounagha",
     "wof:parent_id":890453939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209224983
+    ],
     "wof:tags":[]
 },
   "bbox": [
