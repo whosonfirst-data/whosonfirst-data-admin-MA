@@ -41,6 +41,9 @@
     "name:azb_x_preferred":[
         "\u0631\u0634\u06cc\u062f\u06cc\u0647"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b0 \u09b0\u09df\u09be\u099a\u09bf\u09a6\u09bf\u09df\u09be"
+    ],
     "name:cat_x_preferred":[
         "Rachidia"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:deu_x_preferred":[
         "Errachidia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c1 \u03a1\u03b1\u03c7\u03b9\u03b4\u03b9\u03ac"
     ],
     "name:eng_x_historical":[
         "Ksar es-Souk"
@@ -68,8 +74,20 @@
     "name:heb_x_preferred":[
         "\u05d0-\u05e8\u05e9\u05d9\u05d3\u05d9\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u090f\u0930 \u0930\u093e\u0936\u0940\u0921\u093f\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Er Rachidia"
+    ],
+    "name:ind_x_preferred":[
+        "Er Rachidia"
+    ],
     "name:ita_x_preferred":[
         "Al-Rashidiyya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30e9\u30b7\u30c7\u30a3\u30a2"
     ],
     "name:kab_x_preferred":[
         "Imt\u0263eren"
@@ -107,11 +125,17 @@
     "name:swe_x_preferred":[
         "Errachidia"
     ],
+    "name:tur_x_preferred":[
+        "Er Rachidia"
+    ],
     "name:und_x_variant":[
         "ar-Rach\u012bd\u012bya"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0631\u0634\u06cc\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Er Rachidia"
     ],
     "name:wuu_x_preferred":[
         "\u62c9\u5e0c\u8fea\u8036"
@@ -119,6 +143,99 @@
     "name:zho_x_preferred":[
         "\u62c9\u5e0c\u8fea\u8036"
     ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Morocco",
+    "ne:ADM0_A3":"MAR",
+    "ne:ADM1NAME":"Mekncs - Tafilalet",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"MA",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":31.940413,
+    "ne:LONGITUDE":-4.449972,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Er Rachidia",
+    "ne:MAX_AREAKM":46.0,
+    "ne:MAX_AREAMI":18.0,
+    "ne:MAX_BBXMAX":-4.383333,
+    "ne:MAX_BBXMIN":-4.475,
+    "ne:MAX_BBYMAX":31.983333,
+    "ne:MAX_BBYMIN":31.891667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":50.0,
+    "ne:MAX_PERMI":31.0,
+    "ne:MAX_POP10":228489,
+    "ne:MAX_POP20":228489,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-4.426389,
+    "ne:MEAN_BBYC":31.933929,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":46.0,
+    "ne:MIN_AREAMI":18.0,
+    "ne:MIN_BBXMAX":-4.383333,
+    "ne:MIN_BBXMIN":-4.475,
+    "ne:MIN_BBYMAX":31.983333,
+    "ne:MIN_BBYMIN":31.891667,
+    "ne:MIN_PERKM":50.0,
+    "ne:MIN_PERMI":31.0,
+    "ne:NAME":"Er Rachidia",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Er Rachidia",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":228489,
+    "ne:POP_MIN":228489,
+    "ne:POP_OTHER":228339,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Morocco",
+    "ne:SOV_A3":"MAR",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
     "reversegeo:latitude":31.926208,
     "reversegeo:longitude":-4.433378,
     "src:geom":"whosonfirst",
@@ -136,6 +253,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7280528,
+        "wd:id":"Q1980885",
         "wk:page":"Errachidia"
     },
     "wof:country":"MA",
@@ -153,7 +271,7 @@
         }
     ],
     "wof:id":1327014619,
-    "wof:lastmodified":1668713752,
+    "wof:lastmodified":1668724670,
     "wof:name":"Errachidia",
     "wof:parent_id":1108784773,
     "wof:placetype":"locality",
@@ -161,7 +279,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907195
+    ],
     "wof:tags":[]
 },
   "bbox": [
