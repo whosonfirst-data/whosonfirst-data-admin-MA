@@ -4,13 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001187,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.564159,31.963158,-6.564159,31.963158",
-    "geom:latitude":31.963158,
-    "geom:longitude":-6.564159,
+    "geom:bbox":"-6.601038,31.936605,-6.557099,31.980228",
+    "geom:latitude":31.957913,
+    "geom:longitude":-6.57706,
     "iso:country":"MA",
-    "lbl:bbox":"-6.584159,31.943158,-6.544159,31.983158",
+    "lbl:latitude":31.957654,
+    "lbl:longitude":-6.576641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -101,7 +102,13 @@
     "qs:qs_id":1118226,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1531919,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":31.957654,
+    "reversegeo:longitude":-6.576641,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         102191573,
@@ -118,7 +125,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009643,
-    "wof:geomhash":"334efb4db9273b3484b6bf1b07f87ea6",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"20bc44a67d4e1baca947377e5530c565",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -129,7 +139,7 @@
         }
     ],
     "wof:id":421190017,
-    "wof:lastmodified":1566601974,
+    "wof:lastmodified":1668713764,
     "wof:name":"Azilal",
     "wof:parent_id":1108784827,
     "wof:placetype":"locality",
@@ -139,10 +149,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.564159,
-    31.963158,
-    -6.564159,
-    31.963158
+    -6.601038,
+    31.936605,
+    -6.557099,
+    31.980228
 ],
-  "geometry": {"coordinates":[-6.564159,31.963158],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.557099,31.97517],[-6.557626,31.962947],[-6.559207,31.954728],[-6.56163,31.950092],[-6.566161,31.946615],[-6.573958,31.944086],[-6.576698,31.941241],[-6.581861,31.939766],[-6.58713,31.937553],[-6.592503,31.936605],[-6.597983,31.938607],[-6.601038,31.945245],[-6.596613,31.950303],[-6.595348,31.953991],[-6.59145,31.961999],[-6.587235,31.9679],[-6.580491,31.974749],[-6.572694,31.978331],[-6.564475,31.980228],[-6.557099,31.97517]]],"type":"Polygon"}
 }

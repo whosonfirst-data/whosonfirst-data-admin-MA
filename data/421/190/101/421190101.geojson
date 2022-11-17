@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000438,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.783329,32.033329,-6.783329,32.033329",
-    "geom:latitude":32.033329,
-    "geom:longitude":-6.783329,
+    "geom:bbox":"-6.800952,32.017414,-6.773077,32.04586",
+    "geom:latitude":32.033334,
+    "geom:longitude":-6.788026,
     "iso:country":"MA",
-    "lbl:bbox":"-6.803329,32.013329,-6.763329,32.053329",
+    "lbl:latitude":32.032949,
+    "lbl:longitude":-6.787815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -41,12 +42,18 @@
     "qs:qs_id":1118292,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1539345,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":32.032949,
+    "reversegeo:longitude":-6.787815,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        1108784827,
-        85673919
+        85673919,
+        1108784827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009646,
-    "wof:geomhash":"ad9f3ea470296cc24fea94e6d0fee479",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e9db55fcaff790d36e0fddc9580f1738",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":421190101,
-    "wof:lastmodified":1601423091,
+    "wof:lastmodified":1668713763,
     "wof:name":"Ouzoud",
     "wof:parent_id":1108784827,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.783329,
-    32.033329,
-    -6.783329,
-    32.033329
+    -6.800952,
+    32.017414,
+    -6.773077,
+    32.04586
 ],
-  "geometry": {"coordinates":[-6.783329,32.033329],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.779679,32.04154],[-6.77487,32.03559],[-6.773077,32.034286],[-6.773077,32.032656],[-6.774299,32.030862],[-6.775604,32.029721],[-6.777723,32.028743],[-6.777478,32.027521],[-6.780249,32.025157],[-6.78188,32.025728],[-6.785221,32.019044],[-6.786118,32.017414],[-6.786933,32.019126],[-6.787177,32.020185],[-6.787911,32.020756],[-6.787096,32.021489],[-6.78734,32.022141],[-6.788808,32.022304],[-6.788726,32.022956],[-6.789052,32.023282],[-6.789378,32.024016],[-6.790682,32.02426],[-6.792149,32.024423],[-6.794268,32.025076],[-6.796714,32.026461],[-6.799729,32.027521],[-6.800952,32.032737],[-6.798507,32.035997],[-6.798018,32.037954],[-6.798018,32.039747],[-6.800463,32.042844],[-6.798751,32.04586],[-6.79003,32.042681],[-6.779679,32.04154]]],"type":"Polygon"}
 }

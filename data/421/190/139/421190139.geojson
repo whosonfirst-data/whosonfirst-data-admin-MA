@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.009665,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.537624,31.52742,-5.537624,31.52742",
-    "geom:latitude":31.52742,
-    "geom:longitude":-5.537624,
+    "geom:bbox":"-5.606577,31.466451,-5.452706,31.562877",
+    "geom:latitude":31.515898,
+    "geom:longitude":-5.520147,
     "iso:country":"MA",
-    "lbl:bbox":"-5.557624,31.50742,-5.517624,31.54742",
+    "lbl:latitude":31.518033,
+    "lbl:longitude":-5.513919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -41,12 +42,18 @@
     "qs:qs_id":1118314,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1541877,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":31.518033,
+    "reversegeo:longitude":-5.513919,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        1108784839,
-        85673929
+        85673929,
+        1108784839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009648,
-    "wof:geomhash":"8698fe95020ec2c8740d92ddf80c949d",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"8cc6e51852df0d03a373276eb8d17211",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":421190139,
-    "wof:lastmodified":1601423093,
+    "wof:lastmodified":1668713763,
     "wof:name":"Tinghir",
     "wof:parent_id":1108784839,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.537624,
-    31.52742,
-    -5.537624,
-    31.52742
+    -5.606577,
+    31.466451,
+    -5.452706,
+    31.562877
 ],
-  "geometry": {"coordinates":[-5.537624,31.52742],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.464104,31.562877],[-5.461368,31.551251],[-5.458633,31.500417],[-5.452706,31.489247],[-5.466383,31.485372],[-5.498753,31.474658],[-5.507188,31.476937],[-5.545485,31.471922],[-5.551412,31.481496],[-5.556199,31.477165],[-5.555059,31.475114],[-5.566685,31.466451],[-5.579906,31.477849],[-5.560074,31.489931],[-5.566229,31.491526],[-5.573751,31.495858],[-5.581274,31.501329],[-5.596091,31.501329],[-5.599967,31.517286],[-5.606577,31.519565],[-5.592672,31.527088],[-5.576487,31.533015],[-5.571928,31.535294],[-5.550956,31.547376],[-5.539102,31.550568],[-5.535455,31.553759],[-5.532263,31.556494],[-5.521549,31.559458],[-5.483708,31.562193],[-5.464104,31.562877]]],"type":"Polygon"}
 }

@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001103,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.42769,32.65236,-8.42769,32.65236",
-    "geom:latitude":32.65236,
-    "geom:longitude":-8.42769,
+    "geom:bbox":"-8.452392,32.634439,-8.404003,32.67561",
+    "geom:latitude":32.652482,
+    "geom:longitude":-8.428162,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":40044,
     "iso:country":"MA",
-    "lbl:bbox":"-8.44769,32.63236,-8.40769,32.67236",
+    "lbl:latitude":32.651377,
+    "lbl:longitude":-8.428529,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
@@ -77,6 +78,13 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"7",
+    "reversegeo:latitude":32.651377,
+    "reversegeo:longitude":-8.428529,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":207,
     "wof:belongsto":[
@@ -95,7 +103,10 @@
     },
     "wof:country":"MA",
     "wof:created":1469051938,
-    "wof:geomhash":"4ff8e8a29c4eb244b9fb8f42b7113aa6",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"c93e9b67e46f01c589600c9f150f30bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":890432373,
-    "wof:lastmodified":1566602061,
+    "wof:lastmodified":1668713770,
     "wof:name":"Sidi Bennour",
     "wof:parent_id":1108784819,
     "wof:placetype":"locality",
@@ -118,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.42769,
-    32.65236,
-    -8.42769,
-    32.65236
+    -8.452392,
+    32.634439,
+    -8.404003,
+    32.67561
 ],
-  "geometry": {"coordinates":[-8.42769,32.65236],"type":"Point"}
+  "geometry": {"coordinates":[[[-8.438351,32.67561],[-8.430217,32.671702],[-8.425106,32.667936],[-8.424125,32.663887],[-8.419224,32.662183],[-8.413418,32.659892],[-8.409157,32.655311],[-8.406067,32.650251],[-8.406121,32.646949],[-8.406973,32.644498],[-8.404003,32.641499],[-8.407176,32.639675],[-8.41487,32.634915],[-8.416933,32.639516],[-8.420185,32.637295],[-8.421455,32.639675],[-8.424469,32.637692],[-8.428356,32.634439],[-8.433116,32.636026],[-8.441128,32.641103],[-8.447791,32.646259],[-8.452392,32.651098],[-8.446601,32.65562],[-8.441207,32.658079],[-8.437241,32.662283],[-8.447157,32.670374],[-8.438351,32.67561]]],"type":"Polygon"}
 }

@@ -7,18 +7,17 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.003007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.69062,32.50093,-6.69062,32.50093",
-    "geom:latitude":32.50093,
-    "geom:longitude":-6.69062,
+    "geom:bbox":"-6.723156,32.477113,-6.639826,32.533719",
+    "geom:latitude":32.506972,
+    "geom:longitude":-6.684414,
     "gn:country":"MA",
     "gn:fcode":"PPL",
     "gn:population":84072,
     "iso:country":"MA",
-    "lbl:bbox":"-6.71062,32.48093,-6.67062,32.52093",
-    "lbl:latitude":32.50093,
-    "lbl:longitude":-6.69062,
+    "lbl:latitude":32.508605,
+    "lbl:longitude":-6.685208,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
@@ -87,8 +86,13 @@
     "qs_pg:pop_sr":8,
     "qs_pg:qs_id":1036601,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":32.508605,
+    "reversegeo:longitude":-6.685208,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -104,7 +108,10 @@
     },
     "wof:country":"MA",
     "wof:created":1497295426,
-    "wof:geomhash":"b7f0839270e9159e7389c9dd5373a74d",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"2ff312c7ce6e43e9a9da79fd341536c2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +122,7 @@
         }
     ],
     "wof:id":1125893329,
-    "wof:lastmodified":1566602084,
+    "wof:lastmodified":1668713771,
     "wof:name":"Fkih Ben Salah",
     "wof:parent_id":1108784787,
     "wof:placetype":"locality",
@@ -127,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.69062,
-    32.50093,
-    -6.69062,
-    32.50093
+    -6.723156,
+    32.477113,
+    -6.639826,
+    32.533719
 ],
-  "geometry": {"coordinates":[-6.69062,32.50093],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.669257,32.533719],[-6.653132,32.521202],[-6.639826,32.509024],[-6.660574,32.486923],[-6.675233,32.49008],[-6.692034,32.482638],[-6.69429,32.482638],[-6.717518,32.477113],[-6.723156,32.482864],[-6.714699,32.488164],[-6.717631,32.503273],[-6.713008,32.509024],[-6.717969,32.519624],[-6.711768,32.5256],[-6.704438,32.530449],[-6.699364,32.530562],[-6.696432,32.5309],[-6.676924,32.532027],[-6.669257,32.533719]]],"type":"Polygon"}
 }

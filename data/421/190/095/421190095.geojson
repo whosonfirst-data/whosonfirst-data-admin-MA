@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001073,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.57084,34.810984,-5.57084,34.810984",
-    "geom:latitude":34.810984,
-    "geom:longitude":-5.57084,
+    "geom:bbox":"-5.604138,34.785184,-5.551042,34.813566",
+    "geom:latitude":34.799888,
+    "geom:longitude":-5.57499,
     "iso:country":"MA",
-    "lbl:bbox":"-5.59084,34.790984,-5.55084,34.830984",
+    "lbl:latitude":34.798676,
+    "lbl:longitude":-5.574485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -41,12 +42,18 @@
     "qs:qs_id":1118289,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1538339,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":34.798676,
+    "reversegeo:longitude":-5.574485,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        1108784797,
-        85673883
+        85673883,
+        1108784797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009645,
-    "wof:geomhash":"0aeae6de5d95b5e36d711855ee2ed524",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"86a9bbbb6ec6dcd37b37de63ec44916a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":421190095,
-    "wof:lastmodified":1601423091,
+    "wof:lastmodified":1668713764,
     "wof:name":"Quazzane",
     "wof:parent_id":1108784797,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.57084,
-    34.810984,
-    -5.57084,
-    34.810984
+    -5.604138,
+    34.785184,
+    -5.551042,
+    34.813566
 ],
-  "geometry": {"coordinates":[-5.57084,34.810984],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.562482,34.810335],[-5.560037,34.812606],[-5.557679,34.813042],[-5.552177,34.804833],[-5.551042,34.800729],[-5.551042,34.796974],[-5.553749,34.79383],[-5.556543,34.792695],[-5.553924,34.786145],[-5.557155,34.785272],[-5.563792,34.785184],[-5.566412,34.786407],[-5.567198,34.787455],[-5.573835,34.78597],[-5.579598,34.786669],[-5.584838,34.792171],[-5.587633,34.791647],[-5.589816,34.792083],[-5.591388,34.792433],[-5.601256,34.796974],[-5.602828,34.80003],[-5.604138,34.806318],[-5.589379,34.811732],[-5.578638,34.809374],[-5.573747,34.811645],[-5.572961,34.813566],[-5.566237,34.81313],[-5.564665,34.811732],[-5.562482,34.810335]]],"type":"Polygon"}
 }

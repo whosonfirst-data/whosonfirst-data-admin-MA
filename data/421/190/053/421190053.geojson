@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.005278,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-10.066738,28.984774,-10.066738,28.984774",
-    "geom:latitude":28.984774,
-    "geom:longitude":-10.066738,
+    "geom:bbox":"-10.114214,28.94934,-10.024523,29.041335",
+    "geom:latitude":28.989859,
+    "geom:longitude":-10.063923,
     "iso:country":"MA",
-    "lbl:bbox":"-10.086738,28.964774,-10.046738,29.004774",
+    "lbl:latitude":28.987893,
+    "lbl:longitude":-10.063069,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -41,12 +42,18 @@
     "qs:qs_id":1118262,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1535570,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":28.987893,
+    "reversegeo:longitude":-10.063069,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        1108784815,
-        85673947
+        85673947,
+        1108784815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009644,
-    "wof:geomhash":"4ec47295d352b16cc3a07ce03f56976f",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"b2b95b4550fc615a98c21dfd5fac4fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":421190053,
-    "wof:lastmodified":1601423089,
+    "wof:lastmodified":1668713761,
     "wof:name":"Guelmim",
     "wof:parent_id":1108784815,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -10.066738,
-    28.984774,
-    -10.066738,
-    28.984774
+    -10.114214,
+    28.94934,
+    -10.024523,
+    29.041335
 ],
-  "geometry": {"coordinates":[-10.066738,28.984774],"type":"Point"}
+  "geometry": {"coordinates":[[[-10.035855,29.041335],[-10.024523,29.027315],[-10.031821,29.01656],[-10.032974,29.009069],[-10.033742,29.001579],[-10.031629,28.986215],[-10.029517,28.980453],[-10.031629,28.969121],[-10.034702,28.965088],[-10.03355,28.953373],[-10.046418,28.951836],[-10.057173,28.94934],[-10.08022,28.9503],[-10.09328,28.955869],[-10.102691,28.961631],[-10.110565,28.971234],[-10.113446,28.975651],[-10.114214,28.982373],[-10.096737,28.990056],[-10.093088,28.995625],[-10.092319,29.003692],[-10.093088,29.009646],[-10.093856,29.014255],[-10.077723,29.016944],[-10.070041,29.029235],[-10.060438,29.032116],[-10.046418,29.03807],[-10.035855,29.041335]]],"type":"Polygon"}
 }

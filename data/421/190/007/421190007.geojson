@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.003041,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.072521,33.838878,-6.072521,33.838878",
-    "geom:latitude":33.838878,
-    "geom:longitude":-6.072521,
+    "geom:bbox":"-6.111627,33.799454,-6.028274,33.850505",
+    "geom:latitude":33.823435,
+    "geom:longitude":-6.071675,
     "iso:country":"MA",
-    "lbl:bbox":"-6.092521,33.818878,-6.052521,33.858878",
+    "lbl:latitude":33.825599,
+    "lbl:longitude":-6.071675,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -41,12 +42,18 @@
     "qs:qs_id":1118219,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1531166,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":33.825599,
+    "reversegeo:longitude":-6.071675,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        890453897,
-        85673911
+        85673911,
+        890453897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009643,
-    "wof:geomhash":"fcf8a908d43a6ed96ed808a58ad5a2cf",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"fbb27478237dd2bb7bb7e7445b299d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":421190007,
-    "wof:lastmodified":1601423084,
+    "wof:lastmodified":1668713761,
     "wof:name":"Al Khemisset",
     "wof:parent_id":890453897,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.072521,
-    33.838878,
-    -6.072521,
-    33.838878
+    -6.111627,
+    33.799454,
+    -6.028274,
+    33.850505
 ],
-  "geometry": {"coordinates":[-6.072521,33.838878],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.06577,33.850505],[-6.050443,33.844297],[-6.028274,33.820102],[-6.031821,33.815162],[-6.035875,33.812122],[-6.036128,33.809588],[-6.040182,33.803761],[-6.043349,33.803761],[-6.050569,33.802368],[-6.078185,33.801101],[-6.084898,33.801988],[-6.095666,33.799454],[-6.100606,33.805535],[-6.109093,33.812122],[-6.111627,33.815922],[-6.10998,33.822889],[-6.110614,33.828843],[-6.087685,33.847591],[-6.082112,33.848858],[-6.06805,33.850125],[-6.06577,33.850505]]],"type":"Polygon"}
 }

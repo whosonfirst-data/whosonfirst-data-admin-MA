@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001887,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.26844,32.5977,-6.26844,32.5977",
-    "geom:latitude":32.5977,
-    "geom:longitude":-6.26844,
+    "geom:bbox":"-6.290061,32.573743,-6.237196,32.619484",
+    "geom:latitude":32.596279,
+    "geom:longitude":-6.26583,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":41199,
     "iso:country":"MA",
-    "lbl:bbox":"-6.28844,32.5777,-6.24844,32.6177",
+    "lbl:latitude":32.597637,
+    "lbl:longitude":-6.266334,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
@@ -65,6 +66,13 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"7",
+    "reversegeo:latitude":32.597637,
+    "reversegeo:longitude":-6.266334,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -83,7 +91,10 @@
     },
     "wof:country":"MA",
     "wof:created":1469051938,
-    "wof:geomhash":"87ce4eeae2dd3904066fd981d1b66a40",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"131ba8d26e0f6845ce30d22914a575d1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":890432381,
-    "wof:lastmodified":1566602062,
+    "wof:lastmodified":1668713770,
     "wof:name":"Kasba Tadla",
     "wof:parent_id":890452779,
     "wof:placetype":"locality",
@@ -106,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.26844,
-    32.5977,
-    -6.26844,
-    32.5977
+    -6.290061,
+    32.573743,
+    -6.237196,
+    32.619484
 ],
-  "geometry": {"coordinates":[-6.26844,32.5977],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.251614,32.618969],[-6.237196,32.573743],[-6.258737,32.57503],[-6.286457,32.578892],[-6.290061,32.585672],[-6.2868,32.619484],[-6.251614,32.618969]]],"type":"Polygon"}
 }

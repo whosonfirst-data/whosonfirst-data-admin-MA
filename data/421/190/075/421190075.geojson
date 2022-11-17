@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001743,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.167309,34.3185,-2.167309,34.3185",
-    "geom:latitude":34.3185,
-    "geom:longitude":-2.167309,
+    "geom:bbox":"-2.216203,34.288845,-2.149504,34.323511",
+    "geom:latitude":34.305397,
+    "geom:longitude":-2.180267,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":43696,
     "iso:country":"MA",
-    "lbl:bbox":"-2.187309,34.2985,-2.147309,34.3385",
+    "lbl:latitude":34.302163,
+    "lbl:longitude":-2.172962,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
@@ -101,7 +102,13 @@
     "qs:qs_id":1118277,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1537094,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":34.302163,
+    "reversegeo:longitude":-2.172962,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.31,
     "wd:longitude":-2.16,
@@ -125,7 +132,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009645,
-    "wof:geomhash":"25d9f78c206fb926e5d64a4d8f75e84c",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"78790ef315d2ced96e78cfea236315a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -136,7 +146,7 @@
         }
     ],
     "wof:id":421190075,
-    "wof:lastmodified":1566601974,
+    "wof:lastmodified":1668713764,
     "wof:name":"Jerada",
     "wof:parent_id":1108784775,
     "wof:placetype":"locality",
@@ -150,10 +160,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.167309,
-    34.3185,
-    -2.167309,
-    34.3185
+    -2.216203,
+    34.288845,
+    -2.149504,
+    34.323511
 ],
-  "geometry": {"coordinates":[-2.167309,34.3185],"type":"Point"}
+  "geometry": {"coordinates":[[[-2.15119,34.323195],[-2.150769,34.312974],[-2.149504,34.300541],[-2.151506,34.292954],[-2.154984,34.289688],[-2.17237,34.290004],[-2.171948,34.288845],[-2.192285,34.289898],[-2.193338,34.290952],[-2.206615,34.296958],[-2.215044,34.302227],[-2.216203,34.310024],[-2.215571,34.316978],[-2.212832,34.320666],[-2.204191,34.320772],[-2.201768,34.317927],[-2.187648,34.316241],[-2.185014,34.311499],[-2.180905,34.310762],[-2.180905,34.313396],[-2.176479,34.315609],[-2.17237,34.315398],[-2.16805,34.323511],[-2.15119,34.323195]]],"type":"Polygon"}
 }

@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00121,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.633022,30.533728,-8.633022,30.533728",
-    "geom:latitude":30.533728,
-    "geom:longitude":-8.633022,
+    "geom:bbox":"-8.65894,30.51789,-8.598924,30.549805",
+    "geom:latitude":30.531632,
+    "geom:longitude":-8.627138,
     "iso:country":"MA",
-    "lbl:bbox":"-8.653022,30.513728,-8.613022,30.553728",
+    "lbl:latitude":30.534623,
+    "lbl:longitude":-8.627138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -41,12 +42,18 @@
     "qs:qs_id":1171815,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1531613,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":30.534623,
+    "reversegeo:longitude":-8.627138,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        890445395,
-        85673929
+        85673929,
+        890445395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009745,
-    "wof:geomhash":"feda122e97909114988f3e59b57ecd1d",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"fcbea817e5731078c8a3ca9cb6683e25",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":421192693,
-    "wof:lastmodified":1601423087,
+    "wof:lastmodified":1668713754,
     "wof:name":"Arazan",
     "wof:parent_id":890445395,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.633022,
-    30.533728,
-    -8.633022,
-    30.533728
+    -8.65894,
+    30.51789,
+    -8.598924,
+    30.549805
 ],
-  "geometry": {"coordinates":[-8.633022,30.533728],"type":"Point"}
+  "geometry": {"coordinates":[[[-8.627787,30.549805],[-8.614945,30.543193],[-8.60312,30.535818],[-8.598924,30.521959],[-8.610495,30.51789],[-8.62321,30.518653],[-8.631221,30.520941],[-8.647496,30.521068],[-8.652328,30.523739],[-8.65894,30.526027],[-8.650929,30.536072],[-8.643173,30.542557],[-8.631602,30.547262],[-8.630458,30.549169],[-8.627787,30.549805]]],"type":"Polygon"}
 }

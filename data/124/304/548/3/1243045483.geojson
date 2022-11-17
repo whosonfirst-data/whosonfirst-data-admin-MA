@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000073,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-12.37168,25.14276,-12.37168,25.14276",
-    "geom:latitude":25.14276,
-    "geom:longitude":-12.37168,
+    "geom:bbox":"-12.374982,25.138887,-12.364224,25.153129",
+    "geom:latitude":25.147336,
+    "geom:longitude":-12.370419,
     "gn:admin1_code":"11",
     "gn:admin2_code":"121.0",
     "gn:admin3_code":"212103012.0",
@@ -25,11 +25,12 @@
     "gn:population":6740,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-12.39168,25.12276,-12.35168,25.16276",
+    "lbl:latitude":25.147382,
+    "lbl:longitude":-12.370948,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u062a\u0629 \u0632\u0645\u0648\u0631"
@@ -61,7 +62,13 @@
     "name:spa_x_preferred":[
         "Guelta Zemmur"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":25.147382,
+    "reversegeo:longitude":-12.370948,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -74,7 +81,10 @@
         "wk:page":"Guelta_Zemmur"
     },
     "wof:country":"MA",
-    "wof:geomhash":"6d77510acca7c7364a8ce5485247fa78",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"39c78e4dee41ff33b573b30ce488767b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +94,7 @@
         }
     ],
     "wof:id":1243045483,
-    "wof:lastmodified":1566602299,
+    "wof:lastmodified":1668713771,
     "wof:name":"Gueltat Zemmour",
     "wof:parent_id":85673941,
     "wof:placetype":"locality",
@@ -96,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -12.37168,
-    25.14276,
-    -12.37168,
-    25.14276
+    -12.374982,
+    25.138887,
+    -12.364224,
+    25.153129
 ],
-  "geometry": {"coordinates":[-12.37168,25.14276],"type":"Point"}
+  "geometry": {"coordinates":[[[-12.364665,25.152732],[-12.364224,25.152335],[-12.3644,25.151806],[-12.365194,25.151189],[-12.36612,25.149249],[-12.366693,25.148631],[-12.367531,25.146603],[-12.36903,25.143869],[-12.369691,25.143384],[-12.370793,25.14215],[-12.370838,25.140695],[-12.371675,25.139813],[-12.37216,25.138887],[-12.373351,25.139989],[-12.373703,25.141577],[-12.373307,25.142282],[-12.373307,25.142943],[-12.373968,25.144487],[-12.373968,25.145192],[-12.3741,25.145545],[-12.374629,25.148499],[-12.374982,25.149469],[-12.374012,25.149822],[-12.372998,25.150263],[-12.371852,25.151012],[-12.371499,25.151762],[-12.37119,25.152688],[-12.370176,25.15282],[-12.367928,25.152026],[-12.367222,25.152247],[-12.366869,25.152776],[-12.366032,25.152599],[-12.365723,25.153129],[-12.364665,25.152732]]],"type":"Polygon"}
 }

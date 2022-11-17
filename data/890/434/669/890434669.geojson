@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001705,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.89732,34.4073,-2.89732,34.4073",
-    "geom:latitude":34.4073,
-    "geom:longitude":-2.89732,
+    "geom:bbox":"-2.92701,34.382914,-2.869212,34.427121",
+    "geom:latitude":34.405544,
+    "geom:longitude":-2.899756,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":82518,
     "iso:country":"MA",
-    "lbl:bbox":"-2.91732,34.3873,-2.87732,34.4273",
+    "lbl:latitude":34.405374,
+    "lbl:longitude":-2.900306,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
@@ -143,6 +144,13 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"8",
+    "reversegeo:latitude":34.405374,
+    "reversegeo:longitude":-2.900306,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":25,
     "wof:belongsto":[
@@ -161,7 +169,10 @@
     },
     "wof:country":"MA",
     "wof:created":1469052035,
-    "wof:geomhash":"825308e3e82a545fb236d5c0dcb82b6f",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"e56e20e7b188e9c208aac5d3cb9c5861",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -172,7 +183,7 @@
         }
     ],
     "wof:id":890434669,
-    "wof:lastmodified":1566602061,
+    "wof:lastmodified":1668713770,
     "wof:name":"Taourirt",
     "wof:parent_id":1108784813,
     "wof:placetype":"locality",
@@ -184,10 +195,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.89732,
-    34.4073,
-    -2.89732,
-    34.4073
+    -2.92701,
+    34.382914,
+    -2.869212,
+    34.427121
 ],
-  "geometry": {"coordinates":[-2.89732,34.4073],"type":"Point"}
+  "geometry": {"coordinates":[[[-2.903507,34.427121],[-2.895593,34.425762],[-2.891756,34.423924],[-2.88648,34.418088],[-2.87321,34.409614],[-2.869212,34.404258],[-2.870412,34.400741],[-2.874489,34.398263],[-2.877127,34.392987],[-2.881923,34.38851],[-2.905666,34.382914],[-2.916937,34.38811],[-2.918856,34.402579],[-2.921334,34.406577],[-2.92701,34.410014],[-2.924372,34.419207],[-2.921814,34.425203],[-2.912061,34.425762],[-2.910862,34.425842],[-2.903507,34.427121]]],"type":"Polygon"}
 }

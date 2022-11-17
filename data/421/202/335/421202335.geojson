@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.009279,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-13.201446,27.159211,-13.201446,27.159211",
-    "geom:latitude":27.159211,
-    "geom:longitude":-13.201446,
+    "geom:bbox":"-13.25005,27.097197,-13.112127,27.184849",
+    "geom:latitude":27.140161,
+    "geom:longitude":-13.185512,
     "iso:country":"MA",
-    "lbl:bbox":"-13.221446,27.139211,-13.181446,27.179211",
+    "lbl:latitude":27.142112,
+    "lbl:longitude":-13.191094,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -41,7 +42,13 @@
     "qs:qs_id":221266,
     "qs:woe_adm0":23424990,
     "qs:woe_id":1466769,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":27.142112,
+    "reversegeo:longitude":-13.191094,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
@@ -54,7 +61,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459010114,
-    "wof:geomhash":"48cbc8cce941a43072d9441ef8b30566",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"b3e571eed357f51f96dfb0d033f47df6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +74,7 @@
         }
     ],
     "wof:id":421202335,
-    "wof:lastmodified":1601423090,
+    "wof:lastmodified":1668713757,
     "wof:name":"Laayoune",
     "wof:parent_id":85673941,
     "wof:placetype":"locality",
@@ -74,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -13.201446,
-    27.159211,
-    -13.201446,
-    27.159211
+    -13.25005,
+    27.097197,
+    -13.112127,
+    27.184849
 ],
-  "geometry": {"coordinates":[-13.201446,27.159211],"type":"Point"}
+  "geometry": {"coordinates":[[[-13.184569,27.184849],[-13.128884,27.164225],[-13.115221,27.154171],[-13.112127,27.145405],[-13.122697,27.120141],[-13.130689,27.113954],[-13.148735,27.104931],[-13.16807,27.099001],[-13.188951,27.100033],[-13.207513,27.097197],[-13.219114,27.098228],[-13.230973,27.101837],[-13.235871,27.105189],[-13.244378,27.116016],[-13.246183,27.130453],[-13.25005,27.145405],[-13.237676,27.173248],[-13.220145,27.183044],[-13.184569,27.184849]]],"type":"Polygon"}
 }

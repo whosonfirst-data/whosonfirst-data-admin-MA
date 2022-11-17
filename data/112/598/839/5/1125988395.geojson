@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.002964,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.58754,33.26553,-7.58754,33.26553",
-    "geom:latitude":33.26553,
-    "geom:longitude":-7.58754,
+    "geom:bbox":"-7.613623,33.230306,-7.545455,33.299095",
+    "geom:latitude":33.264999,
+    "geom:longitude":-7.58039,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":93954,
     "iso:country":"MA",
-    "lbl:bbox":"-7.60754,33.24553,-7.56754,33.28553",
-    "lbl:latitude":33.26553,
-    "lbl:longitude":-7.58754,
+    "lbl:latitude":33.265354,
+    "lbl:longitude":-7.581039,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
@@ -159,8 +158,13 @@
     "qs_pg:pop_sr":8,
     "qs_pg:qs_id":278909,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":33.265354,
+    "reversegeo:longitude":-7.581039,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -176,7 +180,10 @@
     },
     "wof:country":"MA",
     "wof:created":1497298924,
-    "wof:geomhash":"86ac94563cf267215feebd06ec812ed9",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"f5b95e184904a15f60f04c550baa37ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -187,7 +194,7 @@
         }
     ],
     "wof:id":1125988395,
-    "wof:lastmodified":1566602094,
+    "wof:lastmodified":1668713771,
     "wof:name":"Berrechid",
     "wof:parent_id":1108784793,
     "wof:placetype":"locality",
@@ -199,10 +206,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.58754,
-    33.26553,
-    -7.58754,
-    33.26553
+    -7.613623,
+    33.230306,
+    -7.545455,
+    33.299095
 ],
-  "geometry": {"coordinates":[-7.58754,33.26553],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.547193,33.282705],[-7.545455,33.281215],[-7.546572,33.272896],[-7.549428,33.267681],[-7.560727,33.253277],[-7.576373,33.23043],[-7.58643,33.230306],[-7.593011,33.232913],[-7.602572,33.240363],[-7.604807,33.244089],[-7.609774,33.246199],[-7.613623,33.249304],[-7.60965,33.265942],[-7.606049,33.273144],[-7.605304,33.278483],[-7.595991,33.289659],[-7.586058,33.289534],[-7.576124,33.295495],[-7.568178,33.299095],[-7.559113,33.293011],[-7.550173,33.284195],[-7.547193,33.282705]]],"type":"Polygon"}
 }

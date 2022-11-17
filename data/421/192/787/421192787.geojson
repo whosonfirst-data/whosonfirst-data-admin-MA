@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000048,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.23949,33.47898,-5.23949,33.47898",
-    "geom:latitude":33.47898,
-    "geom:longitude":-5.23949,
+    "geom:bbox":"-5.241403,33.477662,-5.232166,33.48687",
+    "geom:latitude":33.482306,
+    "geom:longitude":-5.236019,
     "iso:country":"MA",
-    "lbl:bbox":"-5.25949,33.45898,-5.21949,33.49898",
+    "lbl:latitude":33.482267,
+    "lbl:longitude":-5.235634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MA",
@@ -35,7 +36,13 @@
     "qs:qs_id":1175304,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1530720,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":33.482267,
+    "reversegeo:longitude":-5.235634,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
@@ -50,7 +57,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009748,
-    "wof:geomhash":"12637b10ea952d6e298fa4ff6e59f316",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c49a156da9edbe2e610f724ed4bb23f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":421192787,
-    "wof:lastmodified":1566601968,
+    "wof:lastmodified":1668713754,
     "wof:name":"Ait Moussa Addi",
     "wof:parent_id":890429095,
     "wof:placetype":"locality",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.23949,
-    33.47898,
-    -5.23949,
-    33.47898
+    -5.241403,
+    33.477662,
+    -5.232166,
+    33.48687
 ],
-  "geometry": {"coordinates":[-5.23949,33.47898],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.232899,33.48646],[-5.232195,33.485492],[-5.232518,33.485023],[-5.232635,33.484465],[-5.232195,33.483556],[-5.232195,33.482882],[-5.232723,33.481562],[-5.23243,33.48121],[-5.232166,33.480888],[-5.233867,33.480008],[-5.233573,33.479363],[-5.234277,33.478982],[-5.234776,33.479773],[-5.23765,33.478571],[-5.239908,33.477662],[-5.240406,33.478336],[-5.24026,33.478894],[-5.240054,33.479245],[-5.241403,33.480067],[-5.240641,33.4808],[-5.239527,33.481386],[-5.238823,33.481093],[-5.238764,33.482501],[-5.236917,33.484993],[-5.237151,33.485873],[-5.23721,33.486225],[-5.236917,33.486313],[-5.236887,33.48687],[-5.233808,33.486694],[-5.232899,33.48646]]],"type":"Polygon"}
 }

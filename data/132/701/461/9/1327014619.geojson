@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.003233,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.42663,31.9314,-4.42663,31.9314",
-    "geom:latitude":31.9314,
-    "geom:longitude":-4.42663,
+    "geom:bbox":"-4.473837,31.899624,-4.375608,31.96252",
+    "geom:latitude":31.930762,
+    "geom:longitude":-4.428541,
     "gn:admin1_code":"08",
     "gn:admin2_code":"201.0",
     "gn:admin3_code":"1320101051.0",
@@ -25,11 +25,12 @@
     "gn:population":92374,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-4.44663,31.9114,-4.40663,31.9514",
+    "lbl:latitude":31.926208,
+    "lbl:longitude":-4.433378,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0634\u064a\u062f\u064a\u0629\u200e"
@@ -118,7 +119,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u5e0c\u8fea\u8036"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":31.926208,
+    "reversegeo:longitude":-4.433378,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -132,7 +139,10 @@
         "wk:page":"Errachidia"
     },
     "wof:country":"MA",
-    "wof:geomhash":"cb45b91a389d6891db6b0f9b29afda12",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0b1abf59c2d98d3f9e6582116cf1f3b5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -143,7 +153,7 @@
         }
     ],
     "wof:id":1327014619,
-    "wof:lastmodified":1566599311,
+    "wof:lastmodified":1668713752,
     "wof:name":"Errachidia",
     "wof:parent_id":1108784773,
     "wof:placetype":"locality",
@@ -155,10 +165,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.42663,
-    31.9314,
-    -4.42663,
-    31.9314
+    -4.473837,
+    31.899624,
+    -4.375608,
+    31.96252
 ],
-  "geometry": {"coordinates":[-4.42663,31.9314],"type":"Point"}
+  "geometry": {"coordinates":[[[-4.417832,31.96252],[-4.375608,31.936717],[-4.385284,31.925428],[-4.395693,31.931585],[-4.400825,31.926014],[-4.410794,31.928946],[-4.410941,31.923375],[-4.408888,31.920296],[-4.41226,31.91018],[-4.419884,31.903289],[-4.430733,31.899624],[-4.452579,31.904609],[-4.466213,31.904755],[-4.467093,31.911499],[-4.464454,31.913552],[-4.45683,31.915165],[-4.455951,31.921909],[-4.456537,31.92704],[-4.466653,31.939062],[-4.473837,31.940968],[-4.473837,31.945513],[-4.472518,31.949325],[-4.467386,31.952257],[-4.462988,31.951231],[-4.458736,31.948152],[-4.455804,31.947273],[-4.451112,31.947126],[-4.447301,31.943754],[-4.433812,31.950645],[-4.432493,31.955336],[-4.43088,31.956802],[-4.426189,31.952257],[-4.417832,31.96252]]],"type":"Polygon"}
 }

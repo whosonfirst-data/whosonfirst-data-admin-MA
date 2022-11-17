@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000121,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.864837,31.227775,-7.864837,31.227775",
-    "geom:latitude":31.227775,
-    "geom:longitude":-7.864837,
+    "geom:bbox":"-7.815582,31.225805,-7.804622,31.244491",
+    "geom:latitude":31.23563,
+    "geom:longitude":-7.809892,
     "iso:country":"MA",
-    "lbl:bbox":"-7.884837,31.207775,-7.844837,31.247775",
+    "lbl:latitude":31.235995,
+    "lbl:longitude":-7.809344,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -35,7 +36,13 @@
     "qs:qs_id":1118224,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1531076,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":31.235995,
+    "reversegeo:longitude":-7.809344,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
@@ -49,7 +56,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009643,
-    "wof:geomhash":"823bc7976685c80281b6c573ecdea264",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"b1a3532740026db839a1c0677d3ea51f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":421190013,
-    "wof:lastmodified":1566601972,
+    "wof:lastmodified":1668713761,
     "wof:name":"Ait-lekak",
     "wof:parent_id":1108784801,
     "wof:placetype":"locality",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.864837,
-    31.227775,
-    -7.864837,
-    31.227775
+    -7.815582,
+    31.225805,
+    -7.804622,
+    31.244491
 ],
-  "geometry": {"coordinates":[-7.864837,31.227775],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.809671,31.229499],[-7.810902,31.228237],[-7.812288,31.226513],[-7.813858,31.225805],[-7.815028,31.226298],[-7.815582,31.227652],[-7.815335,31.229222],[-7.814481,31.230709],[-7.813889,31.232024],[-7.813396,31.232793],[-7.813181,31.233932],[-7.813581,31.235841],[-7.814381,31.239781],[-7.812688,31.24089],[-7.810933,31.241505],[-7.808501,31.244491],[-7.805823,31.243414],[-7.804622,31.24169],[-7.804684,31.237503],[-7.8053,31.234733],[-7.8057,31.23344],[-7.807362,31.231531],[-7.809671,31.229499]]],"type":"Polygon"}
 }

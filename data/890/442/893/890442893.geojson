@@ -4,25 +4,34 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.22862,32.10928,-1.22862,32.10928",
-    "geom:latitude":32.10928,
-    "geom:longitude":-1.22862,
+    "geom:bbox":"-1.233782,32.107376,-1.226756,32.112961",
+    "geom:latitude":32.110043,
+    "geom:longitude":-1.230399,
     "gn:country":"MA",
     "gn:fcode":"AREA",
     "gn:population":12516,
     "iso:country":"MA",
+    "lbl:latitude":32.109588,
+    "lbl:longitude":-1.23016,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":10.0,
     "qs:name":"Bureau Coop\u00e9ration Internationale D\u00e9centralis\u00e9e",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"6",
+    "reversegeo:latitude":32.109588,
+    "reversegeo:longitude":-1.23016,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -38,7 +47,10 @@
     },
     "wof:country":"MA",
     "wof:created":1469052386,
-    "wof:geomhash":"c8dbf50c408b45f89de0c039653e9135",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"c1fee5065eea015aa9e17396046d870b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":890442893,
-    "wof:lastmodified":1566602057,
+    "wof:lastmodified":1668713770,
     "wof:name":"Bureau Coop\u00e9ration Internationale D\u00e9centralis\u00e9e",
     "wof:parent_id":1108784825,
     "wof:placetype":"locality",
@@ -61,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.22862,
-    32.10928,
-    -1.22862,
-    32.10928
+    -1.233782,
+    32.107376,
+    -1.226756,
+    32.112961
 ],
-  "geometry": {"coordinates":[-1.22862,32.10928],"type":"Point"}
+  "geometry": {"coordinates":[[[-1.230752,32.112961],[-1.23035,32.111669],[-1.230202,32.111416],[-1.228969,32.111862],[-1.228598,32.110985],[-1.228018,32.109099],[-1.227855,32.10895],[-1.227097,32.108237],[-1.226785,32.107836],[-1.226756,32.107658],[-1.228895,32.107405],[-1.229118,32.10797],[-1.229266,32.10797],[-1.230499,32.107658],[-1.230707,32.107613],[-1.2309,32.107435],[-1.230974,32.107376],[-1.231331,32.108222],[-1.231628,32.108505],[-1.232044,32.108817],[-1.23197,32.109247],[-1.232534,32.109188],[-1.232608,32.109396],[-1.232356,32.109485],[-1.2324,32.109648],[-1.232133,32.109723],[-1.232579,32.110733],[-1.232891,32.110673],[-1.2335,32.111684],[-1.233455,32.111788],[-1.233604,32.112025],[-1.233722,32.112055],[-1.233782,32.112278],[-1.233158,32.112441],[-1.233024,32.112337],[-1.232593,32.112501],[-1.232593,32.112649],[-1.230752,32.112961]]],"type":"Polygon"}
 }

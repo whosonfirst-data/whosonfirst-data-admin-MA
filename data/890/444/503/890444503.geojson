@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.3065,33.89469,-6.3065,33.89469",
-    "geom:latitude":33.89469,
-    "geom:longitude":-6.3065,
+    "geom:bbox":"-6.347935,33.877218,-6.295758,33.912476",
+    "geom:latitude":33.89441,
+    "geom:longitude":-6.323883,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":70010,
     "iso:country":"MA",
-    "lbl:bbox":"-6.3265,33.87469,-6.2865,33.91469",
+    "lbl:latitude":33.892755,
+    "lbl:longitude":-6.325662,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
@@ -68,6 +69,13 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"8",
+    "reversegeo:latitude":33.892755,
+    "reversegeo:longitude":-6.325662,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":"33.9",
     "wd:longitude":"-6.33",
@@ -88,7 +96,10 @@
     },
     "wof:country":"MA",
     "wof:created":1469052471,
-    "wof:geomhash":"4b1c4c65b402c215ecd6d5d2b70b9941",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"8e070275a651ecd09a9ed8fbaf034f28",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":890444503,
-    "wof:lastmodified":1566602040,
+    "wof:lastmodified":1668713769,
     "wof:name":"Tiflet",
     "wof:parent_id":890453897,
     "wof:placetype":"locality",
@@ -111,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.3065,
-    33.89469,
-    -6.3065,
-    33.89469
+    -6.347935,
+    33.877218,
+    -6.295758,
+    33.912476
 ],
-  "geometry": {"coordinates":[-6.3065,33.89469],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.333149,33.912476],[-6.324406,33.907429],[-6.323766,33.904373],[-6.322557,33.904302],[-6.321207,33.902595],[-6.316017,33.902595],[-6.310828,33.899468],[-6.304004,33.900321],[-6.2959,33.893994],[-6.295758,33.892572],[-6.296398,33.889089],[-6.308838,33.8839],[-6.313103,33.880843],[-6.315591,33.880274],[-6.317439,33.879777],[-6.321846,33.882194],[-6.324121,33.878639],[-6.325827,33.877218],[-6.332509,33.883047],[-6.336846,33.885748],[-6.338196,33.887241],[-6.338978,33.89108],[-6.34758,33.893141],[-6.347935,33.902595],[-6.333149,33.912476]]],"type":"Polygon"}
 }

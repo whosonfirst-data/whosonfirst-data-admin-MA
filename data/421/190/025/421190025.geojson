@@ -4,13 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000313,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.86667,33.850672,-4.86667,33.850672",
-    "geom:latitude":33.850672,
-    "geom:longitude":-4.86667,
+    "geom:bbox":"-4.879482,33.843922,-4.862714,33.868035",
+    "geom:latitude":33.856434,
+    "geom:longitude":-4.871463,
     "iso:country":"MA",
-    "lbl:bbox":"-4.88667,33.830672,-4.84667,33.870672",
+    "lbl:latitude":33.858187,
+    "lbl:longitude":-4.871623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -68,7 +69,13 @@
     "qs:qs_id":1118230,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1532311,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":33.858187,
+    "reversegeo:longitude":-4.871623,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1005,
     "wof:belongsto":[
         102191573,
@@ -85,7 +92,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009644,
-    "wof:geomhash":"9b532a29136775e726c595e6188bb809",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"984f47b6c96a3005b4d4f4f31750dc78",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +106,7 @@
         }
     ],
     "wof:id":421190025,
-    "wof:lastmodified":1566601972,
+    "wof:lastmodified":1668713761,
     "wof:name":"Bhalil",
     "wof:parent_id":890440849,
     "wof:placetype":"locality",
@@ -106,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.86667,
-    33.850672,
-    -4.86667,
-    33.850672
+    -4.879482,
+    33.843922,
+    -4.862714,
+    33.868035
 ],
-  "geometry": {"coordinates":[-4.86667,33.850672],"type":"Point"}
+  "geometry": {"coordinates":[[[-4.862714,33.863831],[-4.86455,33.855858],[-4.865855,33.853393],[-4.866,33.850494],[-4.865323,33.848077],[-4.866676,33.84571],[-4.868947,33.844357],[-4.87117,33.843922],[-4.873538,33.844212],[-4.877356,33.844888],[-4.877549,33.846338],[-4.877162,33.848126],[-4.878322,33.849044],[-4.878709,33.851943],[-4.879482,33.854408],[-4.878999,33.857984],[-4.879144,33.862526],[-4.877839,33.865377],[-4.875423,33.865522],[-4.872765,33.867262],[-4.870204,33.868035],[-4.867111,33.867987],[-4.863583,33.866392],[-4.862714,33.863831]]],"type":"Polygon"}
 }

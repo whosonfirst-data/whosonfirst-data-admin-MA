@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000439,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.34595,33.292977,-8.34595,33.292977",
-    "geom:latitude":33.292977,
-    "geom:longitude":-8.34595,
+    "geom:bbox":"-8.365397,33.275418,-8.331043,33.298172",
+    "geom:latitude":33.285059,
+    "geom:longitude":-8.348495,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":37140,
     "iso:country":"MA",
-    "lbl:bbox":"-8.36595,33.272977,-8.32595,33.312977",
+    "lbl:latitude":33.284885,
+    "lbl:longitude":-8.348235,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
@@ -107,7 +108,13 @@
     "qs:qs_id":1118225,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1531867,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":33.284885,
+    "reversegeo:longitude":-8.348235,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":411,
     "wof:belongsto":[
@@ -129,7 +136,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009643,
-    "wof:geomhash":"ee094133c8897475f2143a063cc0e6a8",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"b8b238b6c670ab72dcb7a3cf1bd27a7e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -140,7 +150,7 @@
         }
     ],
     "wof:id":421190015,
-    "wof:lastmodified":1566601972,
+    "wof:lastmodified":1668713760,
     "wof:name":"Azemmour",
     "wof:parent_id":890445399,
     "wof:placetype":"locality",
@@ -154,10 +164,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.34595,
-    33.292977,
-    -8.34595,
-    33.292977
+    -8.365397,
+    33.275418,
+    -8.331043,
+    33.298172
 ],
-  "geometry": {"coordinates":[-8.34595,33.292977],"type":"Point"}
+  "geometry": {"coordinates":[[[-8.34004,33.298024],[-8.33952,33.288803],[-8.338255,33.286572],[-8.331786,33.280623],[-8.331043,33.279657],[-8.344279,33.277352],[-8.345245,33.275493],[-8.347104,33.275864],[-8.350302,33.275418],[-8.353053,33.276087],[-8.359894,33.276013],[-8.365397,33.281218],[-8.359225,33.287613],[-8.357961,33.288059],[-8.353499,33.291852],[-8.353425,33.294008],[-8.350079,33.295198],[-8.348963,33.296313],[-8.34822,33.297206],[-8.343684,33.298172],[-8.34004,33.298024]]],"type":"Polygon"}
 }

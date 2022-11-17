@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001907,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.765716,31.550452,-8.765716,31.550452",
-    "geom:latitude":31.550452,
-    "geom:longitude":-8.765716,
+    "geom:bbox":"-8.798291,31.510853,-8.722424,31.563334",
+    "geom:latitude":31.544206,
+    "geom:longitude":-8.765283,
     "iso:country":"MA",
-    "lbl:bbox":"-8.785716,31.530452,-8.745716,31.570452",
+    "lbl:latitude":31.54547,
+    "lbl:longitude":-8.765858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -41,12 +42,18 @@
     "qs:qs_id":1118238,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1532851,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":31.54547,
+    "reversegeo:longitude":-8.765858,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        890440847,
-        85673933
+        85673933,
+        890440847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,10 @@
     },
     "wof:country":"MA",
     "wof:created":1459009644,
-    "wof:geomhash":"6e7d8ab908d070902138e56829a67633",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"019ea906b3968ddb4f47ba2fa536c561",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":421190031,
-    "wof:lastmodified":1601423088,
+    "wof:lastmodified":1668713761,
     "wof:name":"Chichaoua",
     "wof:parent_id":890440847,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.765716,
-    31.550452,
-    -8.765716,
-    31.550452
+    -8.798291,
+    31.510853,
+    -8.722424,
+    31.563334
 ],
-  "geometry": {"coordinates":[-8.765716,31.550452],"type":"Point"}
+  "geometry": {"coordinates":[[[-8.749839,31.562215],[-8.75051,31.557739],[-8.749167,31.555389],[-8.746146,31.555389],[-8.743573,31.558074],[-8.741223,31.559081],[-8.732606,31.562103],[-8.727683,31.561879],[-8.724102,31.560872],[-8.722424,31.557179],[-8.726004,31.553934],[-8.73753,31.547332],[-8.747937,31.53894],[-8.74637,31.537261],[-8.750846,31.532226],[-8.763938,31.527078],[-8.765281,31.523721],[-8.765057,31.519357],[-8.763043,31.515665],[-8.770876,31.510853],[-8.779492,31.525512],[-8.783744,31.526743],[-8.783968,31.530883],[-8.791801,31.536366],[-8.794934,31.541513],[-8.798179,31.545654],[-8.798291,31.549682],[-8.790682,31.553375],[-8.787325,31.557851],[-8.783968,31.559193],[-8.781059,31.560872],[-8.765057,31.563334],[-8.754539,31.561879],[-8.749839,31.562215]]],"type":"Polygon"}
 }

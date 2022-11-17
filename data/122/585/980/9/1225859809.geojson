@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00045,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.02623,31.13448,-4.02623,31.13448",
-    "geom:latitude":31.13448,
-    "geom:longitude":-4.02623,
+    "geom:bbox":"-4.037572,31.124336,-4.009916,31.149671",
+    "geom:latitude":31.135739,
+    "geom:longitude":-4.025931,
     "gn:admin1_code":"48",
     "gn:asciiname":"Hassilabied",
     "gn:country_code":"MA",
@@ -23,11 +23,12 @@
     "gn:population":150,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-4.04623,31.11448,-4.00623,31.15448",
+    "lbl:latitude":31.135041,
+    "lbl:longitude":-4.026195,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Hassi Labied"
@@ -35,7 +36,13 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u0441\u0441\u0438\u043b\u0430\u0431\u0438\u0435\u0434"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":31.135041,
+    "reversegeo:longitude":-4.026195,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +56,10 @@
         "wk:page":"Hassilabied"
     },
     "wof:country":"MA",
-    "wof:geomhash":"d94e16c32676711e73885ba4d54cb7e8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f1e1c37545a7b15891932b2cb112f7f6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1225859809,
-    "wof:lastmodified":1566602946,
+    "wof:lastmodified":1668713772,
     "wof:name":"Hassilabied",
     "wof:parent_id":1108784773,
     "wof:placetype":"locality",
@@ -72,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.02623,
-    31.13448,
-    -4.02623,
-    31.13448
+    -4.037572,
+    31.124336,
+    -4.009916,
+    31.149671
 ],
-  "geometry": {"coordinates":[-4.02623,31.13448],"type":"Point"}
+  "geometry": {"coordinates":[[[-4.02772,31.149671],[-4.024109,31.145785],[-4.020321,31.143184],[-4.017446,31.137479],[-4.015803,31.134924],[-4.014799,31.132824],[-4.012015,31.130679],[-4.009916,31.125659],[-4.017628,31.124336],[-4.019454,31.12461],[-4.033191,31.125842],[-4.037572,31.140172],[-4.036906,31.146337],[-4.037568,31.147372],[-4.036684,31.148535],[-4.02772,31.149671]]],"type":"Polygon"}
 }

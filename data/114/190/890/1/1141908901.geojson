@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.007168,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-11.683328,26.733289,-11.683328,26.733289",
-    "geom:latitude":26.733289,
-    "geom:longitude":-11.683328,
+    "geom:bbox":"-11.73249,26.698209,-11.62605,26.784186",
+    "geom:latitude":26.740615,
+    "geom:longitude":-11.676768,
     "iso:country":"MA",
-    "lbl:bbox":"-11.7033284927,26.7132894073,-11.6633284927,26.7532894073",
-    "lbl:latitude":26.733289,
-    "lbl:longitude":-11.683328,
+    "lbl:latitude":26.73932,
+    "lbl:longitude":-11.676768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -252,9 +251,13 @@
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
     "ne:min_zoom":6.0,
-    "reversegeo:latitude":26.733289,
-    "reversegeo:longitude":-11.683328,
-    "src:geom":"naturalearth",
+    "reversegeo:latitude":26.73932,
+    "reversegeo:longitude":-11.676768,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
@@ -266,7 +269,10 @@
     },
     "wof:country":"MA",
     "wof:created":1499130996,
-    "wof:geomhash":"11b19723a6e6f6efa5c917ca2466ea55",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:geomhash":"e9a1b7e4256851cec29ca9889be36e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -276,7 +282,7 @@
         }
     ],
     "wof:id":1141908901,
-    "wof:lastmodified":1636494996,
+    "wof:lastmodified":1668713772,
     "wof:name":"Smara",
     "wof:parent_id":85673947,
     "wof:placetype":"locality",
@@ -286,10 +292,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -11.683328,
-    26.733289,
-    -11.683328,
-    26.733289
+    -11.73249,
+    26.698209,
+    -11.62605,
+    26.784186
 ],
-  "geometry": {"coordinates":[-11.683328,26.733289],"type":"Point"}
+  "geometry": {"coordinates":[[[-11.712192,26.784186],[-11.661035,26.77577],[-11.62737,26.766034],[-11.62704,26.747221],[-11.626875,26.724283],[-11.628526,26.716361],[-11.62605,26.709596],[-11.631166,26.702995],[-11.643873,26.698209],[-11.655919,26.700849],[-11.680178,26.700189],[-11.693545,26.703655],[-11.714503,26.715041],[-11.73249,26.735669],[-11.73051,26.749201],[-11.724899,26.766859],[-11.717143,26.780886],[-11.712192,26.784186]]],"type":"Polygon"}
 }
