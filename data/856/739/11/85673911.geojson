@@ -2,7 +2,7 @@
   "id": 85673911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2015-03-05",
     "edtf:inception":"uuuu",
     "geom:area":0.92717,
     "geom:area_square_m":9535058794.990572,
@@ -19,7 +19,7 @@
     "mps:latitude":33.817935,
     "mps:longitude":-6.311339,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:ace_x_preferred":[
@@ -283,14 +283,16 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1614895347,
+    "wof:lastmodified":1668816312,
     "wof:name":"Rabat - Sal\u00e9 - Zemmour - Zaer",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:shortcode":"RZ",
     "wof:subdivision":"MA-SAL",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796661377
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

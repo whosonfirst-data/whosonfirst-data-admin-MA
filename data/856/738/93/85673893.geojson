@@ -2,7 +2,7 @@
   "id": 85673893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2015-03-05",
     "edtf:inception":"uuuu",
     "geom:area":2.177446,
     "geom:area_square_m":22209293746.432255,
@@ -19,7 +19,7 @@
     "mps:latitude":34.494358,
     "mps:longitude":-4.191937,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:ace_x_preferred":[
@@ -283,14 +283,18 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1636494988,
+    "wof:lastmodified":1668816313,
     "wof:name":"Taza - Al Hoceima - Taounate",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:shortcode":"TH",
     "wof:subdivision":"MA-TAZ",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796661381,
+        1796661365,
+        1796661375
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
