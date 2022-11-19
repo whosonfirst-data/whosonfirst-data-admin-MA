@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0628\u0631\u0634\u064a\u062f"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0631\u0634\u064a\u062f"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0634\u064a\u062f"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u0634\u06cc\u062f"
     ],
@@ -64,6 +70,9 @@
     "name:fra_x_variant":[
         "Berrechid (MU)",
         "Berrechid (Commune Urbaine)"
+    ],
+    "name:gle_x_preferred":[
+        "Berrechid"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0ab0\u0ac7\u0a9a\u0abf\u0aa1"
@@ -116,10 +125,16 @@
     "name:sco_x_preferred":[
         "Berrechid"
     ],
+    "name:shi_x_preferred":[
+        "Brrcid"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0dd9\u0dbb\u0dd2\u0da0\u0dd2\u0da9\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Berrechid"
+    ],
+    "name:swa_x_preferred":[
         "Berrechid"
     ],
     "name:swe_x_preferred":[
@@ -140,8 +155,14 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0440\u0435\u0448\u0456\u0434"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u0440\u0440\u0435\u0448\u0438\u0434"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0634\u06cc\u062f"
+    ],
+    "name:vec_x_preferred":[
+        "Berrechid"
     ],
     "name:vie_x_preferred":[
         "Berrechid"
@@ -183,7 +204,7 @@
         }
     ],
     "wof:id":890417197,
-    "wof:lastmodified":1566602036,
+    "wof:lastmodified":1668818499,
     "wof:name":"Berrechid",
     "wof:parent_id":1108784793,
     "wof:placetype":"localadmin",

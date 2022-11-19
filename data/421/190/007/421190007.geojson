@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0645\u064a\u0633\u0627\u062a"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u062e\u0645\u064a\u0633\u0627\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062e\u0645\u064a\u0633\u0627\u062a"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u0645\u06cc\u0633\u0627\u062a"
     ],
@@ -48,6 +54,9 @@
     "name:eng_x_preferred":[
         "Al Khemisset"
     ],
+    "name:eng_x_variant":[
+        "Khemisset"
+    ],
     "name:epo_x_preferred":[
         "\u0124emisset"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:fra_x_preferred":[
         "Kh\u00e9misset"
+    ],
+    "name:gle_x_preferred":[
+        "Khemisset"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0ac7\u0aae\u0ac0\u0ab8\u0ac7\u0a9f"
@@ -123,6 +135,9 @@
     "name:sco_x_preferred":[
         "Khemisset"
     ],
+    "name:shi_x_preferred":[
+        "Khmisat"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd9\u0db8\u0dd2\u0dc3\u0dd9\u0da7\u0dca"
     ],
@@ -152,6 +167,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062e\u0645\u06cc\u0633\u0627\u062a"
+    ],
+    "name:vec_x_preferred":[
+        "Khemisset"
     ],
     "name:vie_x_preferred":[
         "Khemisset"
@@ -224,7 +242,7 @@
         }
     ],
     "wof:id":421190007,
-    "wof:lastmodified":1668723101,
+    "wof:lastmodified":1668818361,
     "wof:name":"Al Khemisset",
     "wof:parent_id":890453897,
     "wof:placetype":"locality",

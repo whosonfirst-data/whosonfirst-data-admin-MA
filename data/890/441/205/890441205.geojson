@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0628\u0646\u064a \u0628\u0648\u064a\u0641\u0631\u0648\u0631"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0646\u064a \u0628\u0648\u064a\u0641\u0631\u0648\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0646\u06cc \u0628\u0648\u06cc\u0641\u0631\u0648\u0631"
     ],
@@ -45,10 +48,17 @@
     ],
     "name:fra_x_variant":[
         "Bni Bouifrour (CR)",
-        "Bni Bouifrour (Commune Rurale)"
+        "Bni Bouifrour (Commune Rurale)",
+        "Beni Boughafer"
     ],
     "name:ita_x_preferred":[
         "Bni Bouifrour"
+    ],
+    "name:nld_x_preferred":[
+        "Beni-Boughafer"
+    ],
+    "name:spa_x_preferred":[
+        "Beni Buifrur"
     ],
     "name:swe_x_preferred":[
         "Bni Bouifrour"
@@ -85,7 +95,7 @@
         }
     ],
     "wof:id":890441205,
-    "wof:lastmodified":1566601994,
+    "wof:lastmodified":1668818408,
     "wof:name":"Bni Bouifrour",
     "wof:parent_id":890455271,
     "wof:placetype":"localadmin",

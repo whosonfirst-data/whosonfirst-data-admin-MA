@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0632\u0646\u064a\u062a"
     ],
+    "name:ary_x_preferred":[
+        "\u062a\u064a\u0632\u0646\u064a\u062a"
+    ],
     "name:arz_x_preferred":[
         "\u062a\u0632\u0646\u064a\u062a"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05d6\u05e0\u05d9\u05ea"
+    ],
+    "name:heb_x_variant":[
+        "\u05ea\u05d9\u05d6\u05e0\u05d9\u05ea"
     ],
     "name:hin_x_preferred":[
         "\u0924\u0940\u091c\u0928\u093f\u0924"
@@ -120,6 +126,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0438\u0437\u043d\u0438\u0442"
     ],
+    "name:shi_x_preferred":[
+        "Tiznit"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0dd2\u0dc3\u0dca\u0db1\u0dd2\u0da7\u0dca"
     ],
@@ -127,6 +136,9 @@
         "Tiznit"
     ],
     "name:spa_x_preferred":[
+        "Tiznit"
+    ],
+    "name:swa_x_preferred":[
         "Tiznit"
     ],
     "name:swe_x_preferred":[
@@ -308,7 +320,7 @@
         }
     ],
     "wof:id":421180041,
-    "wof:lastmodified":1668713758,
+    "wof:lastmodified":1668818357,
     "wof:name":"Tiznit",
     "wof:parent_id":890428801,
     "wof:placetype":"locality",

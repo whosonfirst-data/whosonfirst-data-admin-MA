@@ -24,8 +24,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0643\u0627\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0631\u0643\u0627\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u06a9\u0627\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0440\u043a\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u0995\u09be\u09a8\u09c7"
@@ -50,6 +56,9 @@
     ],
     "name:eng_x_preferred":[
         "Burkan"
+    ],
+    "name:eng_x_variant":[
+        "Berkane"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u06a9\u0627\u0646"
@@ -134,6 +143,9 @@
     ],
     "name:spa_x_preferred":[
         "Berkan"
+    ],
+    "name:swa_x_preferred":[
+        "Berkane"
     ],
     "name:swe_x_preferred":[
         "Berkane"
@@ -220,7 +232,7 @@
         }
     ],
     "wof:id":421190023,
-    "wof:lastmodified":1668723101,
+    "wof:lastmodified":1668818360,
     "wof:name":"Burkan",
     "wof:parent_id":1108784771,
     "wof:placetype":"locality",

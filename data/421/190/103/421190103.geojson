@@ -33,11 +33,11 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0628\u0627\u0637"
     ],
-    "name:ara_x_variant":[
-        "\u0627\u0644\u0631\u0628\u0627\u0637"
-    ],
     "name:arg_x_preferred":[
         "Rabat"
+    ],
+    "name:ary_x_preferred":[
+        "\u0627\u0644\u0631\u0628\u0627\u0637"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0631\u0628\u0627\u0637"
@@ -45,7 +45,19 @@
     "name:ast_x_preferred":[
         "Rabat"
     ],
+    "name:avk_x_preferred":[
+        "Ribat"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u0628\u0627\u0637"
+    ],
     "name:aze_x_preferred":[
+        "Rabat"
+    ],
+    "name:bak_x_preferred":[
+        "\u0420\u0430\u0431\u0430\u0442"
+    ],
+    "name:ban_x_preferred":[
         "Rabat"
     ],
     "name:bel_x_preferred":[
@@ -102,6 +114,9 @@
     "name:deu_x_preferred":[
         "Rabat"
     ],
+    "name:diq_x_preferred":[
+        "Rebat"
+    ],
     "name:ell_x_preferred":[
         "\u03a1\u03b1\u03bc\u03c0\u03ac\u03c4"
     ],
@@ -118,6 +133,9 @@
         "Rabat"
     ],
     "name:ext_x_preferred":[
+        "Rabat"
+    ],
+    "name:fao_x_preferred":[
         "Rabat"
     ],
     "name:fas_x_preferred":[
@@ -168,6 +186,9 @@
     "name:hin_x_preferred":[
         "\u0930\u092c\u0924"
     ],
+    "name:hin_x_variant":[
+        "\u0930\u092c\u093e\u0924"
+    ],
     "name:hrv_x_preferred":[
         "Rabat"
     ],
@@ -187,6 +208,9 @@
         "Rabat"
     ],
     "name:ile_x_preferred":[
+        "Rabat"
+    ],
+    "name:ina_x_preferred":[
         "Rabat"
     ],
     "name:ind_x_preferred":[
@@ -212,6 +236,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10d1\u10d0\u10e2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0431\u0430\u0442"
     ],
     "name:kbp_x_preferred":[
         "Raabaa"
@@ -264,6 +291,12 @@
     "name:mar_x_preferred":[
         "\u0930\u092c\u093e\u0924"
     ],
+    "name:mdf_x_preferred":[
+        "\u0420\u0430\u0431\u0430\u0442"
+    ],
+    "name:min_x_preferred":[
+        "Rabat"
+    ],
     "name:mkd_x_preferred":[
         "\u0420\u0430\u0431\u0430\u0442"
     ],
@@ -312,7 +345,13 @@
     "name:nov_x_preferred":[
         "Rabat"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d9\u07d3\u07ca\u07eb"
+    ],
     "name:oci_x_preferred":[
+        "Rabat"
+    ],
+    "name:olo_x_preferred":[
         "Rabat"
     ],
     "name:ori_x_preferred":[
@@ -357,6 +396,9 @@
     "name:sco_x_preferred":[
         "Rabat"
     ],
+    "name:shi_x_preferred":[
+        "Rbat"
+    ],
     "name:sin_x_preferred":[
         "\u0dbb\u0db6\u0dcf\u0dad\u0dca"
     ],
@@ -364,6 +406,9 @@
         "Rabat"
     ],
     "name:slv_x_preferred":[
+        "Rabat"
+    ],
+    "name:smn_x_preferred":[
         "Rabat"
     ],
     "name:sna_x_preferred":[
@@ -377,6 +422,9 @@
     ],
     "name:sqi_x_preferred":[
         "Rabati"
+    ],
+    "name:srd_x_preferred":[
+        "Rabat"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0431\u0430\u0442"
@@ -441,11 +489,17 @@
     "name:vls_x_preferred":[
         "Rabat"
     ],
+    "name:vol_x_preferred":[
+        "Ribat"
+    ],
     "name:war_x_preferred":[
         "Rabat"
     ],
     "name:wol_x_preferred":[
         "Rabat"
+    ],
+    "name:wuu_x_preferred":[
+        "\u62c9\u5df4\u7279"
     ],
     "name:xmf_x_preferred":[
         "\u10e0\u10d0\u10d1\u10d0\u10e2\u10d8"
@@ -613,7 +667,7 @@
         }
     ],
     "wof:id":421190103,
-    "wof:lastmodified":1668723103,
+    "wof:lastmodified":1668818359,
     "wof:name":"Rabat",
     "wof:parent_id":890437999,
     "wof:placetype":"locality",

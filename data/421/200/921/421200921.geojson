@@ -24,11 +24,23 @@
     "name:ara_x_preferred":[
         "\u0648\u062c\u062f\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u0648\u062c\u062f\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u062c\u062f\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u062c\u062f\u0647"
+    ],
     "name:aze_x_preferred":[
         "Ucda"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0434\u0436\u0434\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0423\u0434\u0436\u0434\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0993\u099c\u09a6\u09be"
@@ -69,6 +81,9 @@
     "name:epo_x_preferred":[
         "U\u011dda"
     ],
+    "name:est_x_preferred":[
+        "Oujda"
+    ],
     "name:eus_x_preferred":[
         "Ujda"
     ],
@@ -79,6 +94,12 @@
         "Oujda"
     ],
     "name:fra_x_preferred":[
+        "Oujda"
+    ],
+    "name:frr_x_preferred":[
+        "Oujda"
+    ],
+    "name:gle_x_preferred":[
         "Oujda"
     ],
     "name:glg_x_preferred":[
@@ -100,6 +121,12 @@
         "Oujda"
     ],
     "name:hun_x_preferred":[
+        "Oujda"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u057b\u0561"
+    ],
+    "name:ile_x_preferred":[
         "Oujda"
     ],
     "name:ind_x_preferred":[
@@ -125,6 +152,9 @@
     ],
     "name:kur_x_preferred":[
         "Oujda"
+    ],
+    "name:lat_x_preferred":[
+        "Ugda"
     ],
     "name:lav_x_preferred":[
         "Ud\u017edza"
@@ -165,6 +195,9 @@
     "name:sco_x_preferred":[
         "Oujda"
     ],
+    "name:shi_x_preferred":[
+        "Wajda"
+    ],
     "name:sin_x_preferred":[
         "\u0d96\u0da2\u0dcf"
     ],
@@ -180,8 +213,14 @@
     "name:sqi_x_preferred":[
         "Oujda"
     ],
+    "name:swa_x_preferred":[
+        "Oujda"
+    ],
     "name:swe_x_preferred":[
         "Oujda"
+    ],
+    "name:szl_x_preferred":[
+        "Wad\u017cda"
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb5\u0bc1\u0b9c\u0bcd\u0ba4\u0bbe"
@@ -210,11 +249,17 @@
     "name:urd_x_preferred":[
         "\u0648\u062c\u062f\u06c1"
     ],
+    "name:vec_x_preferred":[
+        "Oujda"
+    ],
     "name:vie_x_preferred":[
         "Oujda"
     ],
     "name:war_x_preferred":[
         "Oujda"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10ef\u10d3\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u5b63\u8fbe"
@@ -366,7 +411,7 @@
         }
     ],
     "wof:id":421200921,
-    "wof:lastmodified":1668723100,
+    "wof:lastmodified":1668818367,
     "wof:name":"Oujda",
     "wof:parent_id":890453895,
     "wof:placetype":"locality",

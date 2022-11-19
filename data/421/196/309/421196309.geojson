@@ -18,8 +18,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Merzouga"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0631\u0632\u0648\u0643\u0629"
+    ],
+    "name:ary_x_preferred":[
+        "\u0645\u0631\u0632\u0648\u0763\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u0632\u0648\u0643\u0647"
     ],
     "name:azb_x_preferred":[
         "\u0645\u0631\u0632\u0648\u0642\u0647"
@@ -31,6 +40,9 @@
         "Merzouga"
     ],
     "name:eng_x_preferred":[
+        "Merzouga"
+    ],
+    "name:eus_x_preferred":[
         "Merzouga"
     ],
     "name:fas_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":421196309,
-    "wof:lastmodified":1668713759,
+    "wof:lastmodified":1668818358,
     "wof:name":"Merzouga",
     "wof:parent_id":1108784773,
     "wof:placetype":"locality",
