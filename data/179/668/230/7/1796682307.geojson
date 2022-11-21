@@ -1,0 +1,74 @@
+{
+  "id": 1796682307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04646,31.61449,-8.04646,31.61449",
+    "geom:latitude":31.61449,
+    "geom:longitude":-8.04646,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Harch",
+    "gn:country_code":"MA",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10971114,
+    "gn:latitude":31.61449,
+    "gn:longitude":-8.04646,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Al Harch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-8.06646,31.59449,-8.02646,31.63449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784829,
+        85673933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10971114
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"28a5626270575d137dd0702185c423f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":-1,
+            "neighbourhood_id":1796682307,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1796682307,
+    "wof:lastmodified":1669054377,
+    "wof:name":"Al Harch",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293609379
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04646,
+    31.61449,
+    -8.04646,
+    31.61449
+],
+  "geometry": {"coordinates":[-8.04646,31.61449],"type":"Point"}
+}

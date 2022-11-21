@@ -1,0 +1,74 @@
+{
+  "id": 1796682205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.43123,32.64329,-8.43123,32.64329",
+    "geom:latitude":32.64329,
+    "geom:longitude":-8.43123,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar El Abdi",
+    "gn:country_code":"MA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10795534,
+    "gn:latitude":32.64329,
+    "gn:longitude":-8.43123,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar El Abdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-8.45123,32.62329,-8.41123,32.66329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784819,
+        85673937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10795534
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"75d31a63fa030e66479231af2e00b377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784819,
+            "locality_id":-1,
+            "neighbourhood_id":1796682205,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1796682205,
+    "wof:lastmodified":1669054382,
+    "wof:name":"Douar El Abdi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293093203
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43123,
+    32.64329,
+    -8.43123,
+    32.64329
+],
+  "geometry": {"coordinates":[-8.43123,32.64329],"type":"Point"}
+}

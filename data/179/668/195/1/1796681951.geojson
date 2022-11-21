@@ -1,0 +1,74 @@
+{
+  "id": 1796681951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.73797,35.81935,-5.73797,35.81935",
+    "geom:latitude":35.81935,
+    "geom:longitude":-5.73797,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Touares",
+    "gn:country_code":"MA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060201,
+    "gn:latitude":35.81935,
+    "gn:longitude":-5.73797,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Touares",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-5.75797,35.79935,-5.71797,35.83935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890442529,
+        85673883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060201
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"10ee6237b1657f300b84afb9d6ff113c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890442529,
+            "locality_id":-1,
+            "neighbourhood_id":1796681951,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1796681951,
+    "wof:lastmodified":1669054398,
+    "wof:name":"Touares",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326643157
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.73797,
+    35.81935,
+    -5.73797,
+    35.81935
+],
+  "geometry": {"coordinates":[-5.73797,35.81935],"type":"Point"}
+}

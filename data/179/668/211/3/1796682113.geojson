@@ -1,0 +1,74 @@
+{
+  "id": 1796682113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59572,32.99696,-7.59572,32.99696",
+    "geom:latitude":32.99696,
+    "geom:longitude":-7.59572,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Es-Sekouriine",
+    "gn:country_code":"MA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11434042,
+    "gn:latitude":32.99696,
+    "gn:longitude":-7.59572,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Es-Sekouriine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-7.61572,32.97696,-7.57572,33.01696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784833,
+        85673901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11434042
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b3f2a96a38e413211d4db978c82d2878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784833,
+            "locality_id":-1,
+            "neighbourhood_id":1796682113,
+            "region_id":85673901
+        }
+    ],
+    "wof:id":1796682113,
+    "wof:lastmodified":1669054385,
+    "wof:name":"Es-Sekouriine",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343950271
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59572,
+    32.99696,
+    -7.59572,
+    32.99696
+],
+  "geometry": {"coordinates":[-7.59572,32.99696],"type":"Point"}
+}

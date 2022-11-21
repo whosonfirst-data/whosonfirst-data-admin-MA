@@ -1,0 +1,74 @@
+{
+  "id": 1796682121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.58013,34.24893,-6.58013,34.24893",
+    "geom:latitude":34.24893,
+    "geom:longitude":-6.58013,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cite Maamora",
+    "gn:country_code":"MA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921264,
+    "gn:latitude":34.24893,
+    "gn:longitude":-6.58013,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Cit\u00e9 Maamora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.60013,34.22893,-6.56013,34.26893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890427533,
+        85673897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921264
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"245d8659ea0e01153755aef4e16ed27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":-1,
+            "neighbourhood_id":1796682121,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1796682121,
+    "wof:lastmodified":1669054390,
+    "wof:name":"Cite Maamora",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343685229
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.58013,
+    34.24893,
+    -6.58013,
+    34.24893
+],
+  "geometry": {"coordinates":[-6.58013,34.24893],"type":"Point"}
+}

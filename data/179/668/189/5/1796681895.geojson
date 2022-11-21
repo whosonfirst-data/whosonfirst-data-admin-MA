@@ -1,0 +1,74 @@
+{
+  "id": 1796681895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.63312,34.21459,-6.63312,34.21459",
+    "geom:latitude":34.21459,
+    "geom:longitude":-6.63312,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bin Skak",
+    "gn:country_code":"MA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10797326,
+    "gn:latitude":34.21459,
+    "gn:longitude":-6.63312,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bin Skak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.65312,34.19459,-6.61312,34.23459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890427533,
+        85673897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10797326
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1a34f551852bf3753239fba1c486f8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":-1,
+            "neighbourhood_id":1796681895,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1796681895,
+    "wof:lastmodified":1669054386,
+    "wof:name":"Bin Skak",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327029725
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.63312,
+    34.21459,
+    -6.63312,
+    34.21459
+],
+  "geometry": {"coordinates":[-6.63312,34.21459],"type":"Point"}
+}

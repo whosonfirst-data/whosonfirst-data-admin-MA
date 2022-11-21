@@ -1,0 +1,74 @@
+{
+  "id": 1796682019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14477,31.23277,-6.14477,31.23277",
+    "geom:latitude":31.23277,
+    "geom:longitude":-6.14477,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Al Qal'a",
+    "gn:country_code":"MA",
+    "gn:dem":1424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951614,
+    "gn:latitude":31.23277,
+    "gn:longitude":-6.14477,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Al Qal\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.16477,31.21277,-6.12477,31.25277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784839,
+        85673929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951614
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"769e449d8bfa53347b4d93b9fdb55ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":-1,
+            "neighbourhood_id":1796682019,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1796682019,
+    "wof:lastmodified":1669054379,
+    "wof:name":"Al Qal'a",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327423859
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14477,
+    31.23277,
+    -6.14477,
+    31.23277
+],
+  "geometry": {"coordinates":[-6.14477,31.23277],"type":"Point"}
+}

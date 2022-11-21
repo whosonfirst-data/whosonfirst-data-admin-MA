@@ -1,0 +1,74 @@
+{
+  "id": 1796682011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.73395,34.11353,-6.73395,34.11353",
+    "geom:latitude":34.11353,
+    "geom:longitude":-6.73395,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Makhlouf",
+    "gn:country_code":"MA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10920926,
+    "gn:latitude":34.11353,
+    "gn:longitude":-6.73395,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Makhlouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.75395,34.09353,-6.71395,34.13353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784811,
+        85673911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10920926
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6810c2205491b636557aeb1f3b277974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":-1,
+            "neighbourhood_id":1796682011,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1796682011,
+    "wof:lastmodified":1669054391,
+    "wof:name":"Oulad Makhlouf",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327266209
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73395,
+    34.11353,
+    -6.73395,
+    34.11353
+],
+  "geometry": {"coordinates":[-6.73395,34.11353],"type":"Point"}
+}

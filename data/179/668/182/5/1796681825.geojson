@@ -1,0 +1,79 @@
+{
+  "id": 1796681825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.83187,30.68803,-9.83187,30.68803",
+    "geom:latitude":30.68803,
+    "geom:longitude":-9.83187,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Id Behemmouch",
+    "gn:country_code":"MA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568399,
+    "gn:latitude":30.68803,
+    "gn:longitude":-9.83187,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Id Behemmouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-9.85187,30.66803,-9.81187,30.70803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Id Bahammouch",
+        "Id Bahemmouch",
+        "Id Behemmouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890429099,
+        85673929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568399
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"27038820afe2ad57325b21ebc982c8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":-1,
+            "neighbourhood_id":1796681825,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1796681825,
+    "wof:lastmodified":1669054382,
+    "wof:name":"Id Behemmouch",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326740797
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.83187,
+    30.68803,
+    -9.83187,
+    30.68803
+],
+  "geometry": {"coordinates":[-9.83187,30.68803],"type":"Point"}
+}

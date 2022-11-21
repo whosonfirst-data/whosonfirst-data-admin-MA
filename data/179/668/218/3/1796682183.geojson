@@ -1,0 +1,74 @@
+{
+  "id": 1796682183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.22122,32.2147,-9.22122,32.2147",
+    "geom:latitude":32.2147,
+    "geom:longitude":-9.22122,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Eddegadga",
+    "gn:country_code":"MA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10868624,
+    "gn:latitude":32.2147,
+    "gn:longitude":-9.22122,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Eddegadga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-9.24122,32.1947,-9.20122,32.2347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890445397,
+        85673937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10868624
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"f6fb1d4e6e6220b8db9eb6cd07e58bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":-1,
+            "neighbourhood_id":1796682183,
+            "region_id":85673937
+        }
+    ],
+    "wof:id":1796682183,
+    "wof:lastmodified":1669054383,
+    "wof:name":"Douar Eddegadga",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343878527
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22122,
+    32.2147,
+    -9.22122,
+    32.2147
+],
+  "geometry": {"coordinates":[-9.22122,32.2147],"type":"Point"}
+}

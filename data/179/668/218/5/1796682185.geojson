@@ -1,0 +1,86 @@
+{
+  "id": 1796682185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.92777,35.74588,-5.92777,35.74588",
+    "geom:latitude":35.74588,
+    "geom:longitude":-5.92777,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mediouna",
+    "gn:country_code":"MA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2542824,
+    "gn:latitude":35.74588,
+    "gn:longitude":-5.92777,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mediouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-5.94777,35.72588,-5.90777,35.76588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0648\u0646\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Mediouna"
+    ],
+    "name:fra_x_preferred":[
+        "Mediouna"
+    ],
+    "name:ita_x_preferred":[
+        "Mediouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784783,
+        85673883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2542824
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"56329b72990c24e798a3a56c788ce2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":-1,
+            "neighbourhood_id":1796682185,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1796682185,
+    "wof:lastmodified":1669054383,
+    "wof:name":"Mediouna",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343280489
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.92777,
+    35.74588,
+    -5.92777,
+    35.74588
+],
+  "geometry": {"coordinates":[-5.92777,35.74588],"type":"Point"}
+}

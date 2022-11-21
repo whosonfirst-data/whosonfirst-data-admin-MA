@@ -1,0 +1,74 @@
+{
+  "id": 1796682341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5419,30.3635,-9.5419,30.3635",
+    "geom:latitude":30.3635,
+    "geom:longitude":-9.5419,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cite Oued Eddahab",
+    "gn:country_code":"MA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10374953,
+    "gn:latitude":30.3635,
+    "gn:longitude":-9.5419,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Cit\u00e9 Oued Eddahab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-9.5619,30.3435,-9.5219,30.3835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890429093,
+        85673929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10374953
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"91f29a63b32ca0c16b5b97b71584785c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429093,
+            "locality_id":-1,
+            "neighbourhood_id":1796682341,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1796682341,
+    "wof:lastmodified":1669054392,
+    "wof:name":"Cite Oued Eddahab",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293119175
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5419,
+    30.3635,
+    -9.5419,
+    30.3635
+],
+  "geometry": {"coordinates":[-9.5419,30.3635],"type":"Point"}
+}

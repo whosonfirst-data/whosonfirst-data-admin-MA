@@ -1,0 +1,74 @@
+{
+  "id": 1796681847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.23532,35.04933,-5.23532,35.04933",
+    "geom:latitude":35.04933,
+    "geom:longitude":-5.23532,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Houmat Ayyadene",
+    "gn:country_code":"MA",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10953662,
+    "gn:latitude":35.04933,
+    "gn:longitude":-5.23532,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Houmat Ayyadene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-5.25532,35.02933,-5.21532,35.06933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890453883,
+        85673883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10953662
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"49479f83bd4551a2f941b9cf4526cf47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453883,
+            "locality_id":-1,
+            "neighbourhood_id":1796681847,
+            "region_id":85673883
+        }
+    ],
+    "wof:id":1796681847,
+    "wof:lastmodified":1669054396,
+    "wof:name":"Houmat Ayyadene",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326933885
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.23532,
+    35.04933,
+    -5.23532,
+    35.04933
+],
+  "geometry": {"coordinates":[-5.23532,35.04933],"type":"Point"}
+}

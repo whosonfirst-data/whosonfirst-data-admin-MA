@@ -2,7 +2,7 @@
   "id": 1343660503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-11-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":11435462
     },
     "wof:country":"MA",
-    "wof:geomhash":"cf4cc78eb18cca05aac95b197df696e7",
+    "wof:geomhash":"14db81015309bf1b65c6b2e617f21d58",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1343660503,
-    "wof:lastmodified":1566599966,
+    "wof:lastmodified":1669054394,
     "wof:name":"Imi -N- Tghouni",
     "wof:parent_id":1108784827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796682117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -6.69152,
-    32.09755999999999,
+    32.09756,
     -6.69152,
-    32.09755999999999
+    32.09756
 ],
-  "geometry": {"coordinates":[-6.69152,32.09755999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.69152,32.09756],"type":"Point"}
 }

@@ -1,0 +1,74 @@
+{
+  "id": 1796682257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.15546,29.36707,-10.15546,29.36707",
+    "geom:latitude":29.36707,
+    "geom:longitude":-10.15546,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Ain Ifni",
+    "gn:country_code":"MA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550809,
+    "gn:latitude":29.36707,
+    "gn:longitude":-10.15546,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"El A\u00efn Ifni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-10.17546,29.34707,-10.13546,29.38707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784841,
+        85673929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2550809
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e8787be75b895b4f76bfa844ce3a915f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784841,
+            "locality_id":-1,
+            "neighbourhood_id":1796682257,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1796682257,
+    "wof:lastmodified":1669054377,
+    "wof:name":"El Ain Ifni",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293705307
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.15546,
+    29.36707,
+    -10.15546,
+    29.36707
+],
+  "geometry": {"coordinates":[-10.15546,29.36707],"type":"Point"}
+}

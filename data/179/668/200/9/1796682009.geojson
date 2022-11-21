@@ -1,0 +1,74 @@
+{
+  "id": 1796682009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.86815,33.94096,-6.86815,33.94096",
+    "geom:latitude":33.94096,
+    "geom:longitude":-6.86815,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Douar Chyadma",
+    "gn:country_code":"MA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10918978,
+    "gn:latitude":33.94096,
+    "gn:longitude":-6.86815,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Chyadma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.88815,33.92096,-6.84815,33.96096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890437999,
+        85673911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10918978
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d8413e19836621768fe3c432a792566e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890437999,
+            "locality_id":-1,
+            "neighbourhood_id":1796682009,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1796682009,
+    "wof:lastmodified":1669054384,
+    "wof:name":"Douar Chyadma",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327266213
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.86815,
+    33.94096,
+    -6.86815,
+    33.94096
+],
+  "geometry": {"coordinates":[-6.86815,33.94096],"type":"Point"}
+}

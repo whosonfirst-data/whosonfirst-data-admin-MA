@@ -1,0 +1,74 @@
+{
+  "id": 1796682165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.59425,31.94462,-6.59425,31.94462",
+    "geom:latitude":31.94462,
+    "geom:longitude":-6.59425,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ait Oumzil",
+    "gn:country_code":"MA",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11359197,
+    "gn:latitude":31.94462,
+    "gn:longitude":-6.59425,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"A\u00eft Oumzil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.61425,31.92462,-6.57425,31.96462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784827,
+        85673919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11359197
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"419ebaa51a0d3e5fbb7d49d4a424153d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":-1,
+            "neighbourhood_id":1796682165,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1796682165,
+    "wof:lastmodified":1669054380,
+    "wof:name":"Ait Oumzil",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344050393
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.59425,
+    31.94462,
+    -6.59425,
+    31.94462
+],
+  "geometry": {"coordinates":[-6.59425,31.94462],"type":"Point"}
+}

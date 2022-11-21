@@ -1,0 +1,74 @@
+{
+  "id": 1796682297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.87144,33.84862,-4.87144,33.84862",
+    "geom:latitude":33.84862,
+    "geom:longitude":-4.87144,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aghziz",
+    "gn:country_code":"MA",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921580,
+    "gn:latitude":33.84862,
+    "gn:longitude":-4.87144,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Aghziz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-4.89144,33.82862,-4.85144,33.86862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890440849,
+        85673887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921580
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e71c1c96a9da1f2e71431ddbc7ebaa18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":-1,
+            "neighbourhood_id":1796682297,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1796682297,
+    "wof:lastmodified":1669054381,
+    "wof:name":"Aghziz",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293693215
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.87144,
+    33.84862,
+    -4.87144,
+    33.84862
+],
+  "geometry": {"coordinates":[-4.87144,33.84862],"type":"Point"}
+}

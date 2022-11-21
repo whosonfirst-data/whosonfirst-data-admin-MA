@@ -1,0 +1,74 @@
+{
+  "id": 1796681905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.11494,33.82785,-7.11494,33.82785",
+    "geom:latitude":33.82785,
+    "geom:longitude":-7.11494,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Oulad Sidi Taher",
+    "gn:country_code":"MA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10949664,
+    "gn:latitude":33.82785,
+    "gn:longitude":-7.11494,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Oulad Sidi Taher",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-7.13494,33.80785,-7.09494,33.84785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890429101,
+        85673911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10949664
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"71b0069d6f7d48d83daaffc2605f23ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":-1,
+            "neighbourhood_id":1796681905,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1796681905,
+    "wof:lastmodified":1669054378,
+    "wof:name":"Oulad Sidi Taher",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327357083
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.11494,
+    33.82785,
+    -7.11494,
+    33.82785
+],
+  "geometry": {"coordinates":[-7.11494,33.82785],"type":"Point"}
+}

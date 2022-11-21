@@ -1,0 +1,80 @@
+{
+  "id": 1796681839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.43108,35.13255,-2.43108,35.13255",
+    "geom:latitude":35.13255,
+    "geom:longitude":-2.43108,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abd el Kader Sadia",
+    "gn:country_code":"MA",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2562148,
+    "gn:latitude":35.13255,
+    "gn:longitude":-2.43108,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Abd el Kader Sadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-2.45108,35.11255,-2.41108,35.15255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sa\u00efdia",
+        "Abdelcader Soodia",
+        "Sadia",
+        "Abd el Kader Sadia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890455271,
+        85673923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562148
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6b2b36b58ec71e1b7ac12af528a2bf82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":-1,
+            "neighbourhood_id":1796681839,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1796681839,
+    "wof:lastmodified":1669054396,
+    "wof:name":"Abd el Kader Sadia",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326945161
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.43108,
+    35.13255,
+    -2.43108,
+    35.13255
+],
+  "geometry": {"coordinates":[-2.43108,35.13255],"type":"Point"}
+}

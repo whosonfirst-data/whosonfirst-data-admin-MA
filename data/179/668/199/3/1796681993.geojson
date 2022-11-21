@@ -1,0 +1,74 @@
+{
+  "id": 1796681993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98418,31.14582,-7.98418,31.14582",
+    "geom:latitude":31.14582,
+    "geom:longitude":-7.98418,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ait Ouaougmoute",
+    "gn:country_code":"MA",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950290,
+    "gn:latitude":31.14582,
+    "gn:longitude":-7.98418,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"A\u00eft Ouaougmoute",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-8.00418,31.12582,-7.96418,31.16582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784801,
+        85673933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950290
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"45e4a7e8cc30bb1960637c41a0d80428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":-1,
+            "neighbourhood_id":1796681993,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1796681993,
+    "wof:lastmodified":1669054395,
+    "wof:name":"Ait Ouaougmoute",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327441759
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98418,
+    31.14582,
+    -7.98418,
+    31.14582
+],
+  "geometry": {"coordinates":[-7.98418,31.14582],"type":"Point"}
+}

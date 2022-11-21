@@ -1,0 +1,104 @@
+{
+  "id": 1796681921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23,32.1,-1.23,32.1",
+    "geom:latitude":32.1,
+    "geom:longitude":-1.23,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ouled Slimane",
+    "gn:country_code":"MA",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2538933,
+    "gn:latitude":32.1,
+    "gn:longitude":-1.23,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ouled Slimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-1.25,32.08,-1.21,32.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u0633\u0644\u064a\u0645\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u062f \u0633\u0644\u06cc\u0645\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u062f \u0633\u0644\u06cc\u0645\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ouled Slimane"
+    ],
+    "name:ita_x_preferred":[
+        "Ouled Slimane"
+    ],
+    "name:msa_x_preferred":[
+        "Ouled Slimane"
+    ],
+    "name:por_x_preferred":[
+        "Ouled Slimane"
+    ],
+    "name:ron_x_preferred":[
+        "Ouled Slimane"
+    ],
+    "name:spa_x_preferred":[
+        "Ouled Slimane"
+    ],
+    "name:vie_x_preferred":[
+        "Ouled Slimane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784825,
+        85673923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2538933
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6edbe9e49fdc6f255cdc21f2d7589000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":-1,
+            "neighbourhood_id":1796681921,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1796681921,
+    "wof:lastmodified":1669054391,
+    "wof:name":"Ouled Slimane",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327045063
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23,
+    32.1,
+    -1.23,
+    32.1
+],
+  "geometry": {"coordinates":[-1.23,32.1],"type":"Point"}
+}

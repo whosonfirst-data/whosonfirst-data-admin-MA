@@ -1,0 +1,74 @@
+{
+  "id": 1796682031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66198,31.01147,-9.66198,31.01147",
+    "geom:latitude":31.01147,
+    "geom:longitude":-9.66198,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Talouart",
+    "gn:country_code":"MA",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869237,
+    "gn:latitude":31.01147,
+    "gn:longitude":-9.66198,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Talouart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-9.68198,30.99147,-9.64198,31.03147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890453939,
+        85673933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869237
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e38af6d76cea903e88276ccbd898f7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":-1,
+            "neighbourhood_id":1796682031,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1796682031,
+    "wof:lastmodified":1669054380,
+    "wof:name":"Douar Talouart",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343655133
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66198,
+    31.01147,
+    -9.66198,
+    31.01147
+],
+  "geometry": {"coordinates":[-9.66198,31.01147],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1796681899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.66909,31.56388,-7.66909,31.56388",
+    "geom:latitude":31.56388,
+    "geom:longitude":-7.66909,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bachaouiya",
+    "gn:country_code":"MA",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909378,
+    "gn:latitude":31.56388,
+    "gn:longitude":-7.66909,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bachaouiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-7.68909,31.54388,-7.64909,31.58388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784801,
+        85673933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909378
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"faef41a8d9c7f346719c78e6261a581b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784801,
+            "locality_id":-1,
+            "neighbourhood_id":1796681899,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1796681899,
+    "wof:lastmodified":1669054377,
+    "wof:name":"Bachaouiya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327329377
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.66909,
+    31.56388,
+    -7.66909,
+    31.56388
+],
+  "geometry": {"coordinates":[-7.66909,31.56388],"type":"Point"}
+}

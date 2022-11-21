@@ -1,0 +1,80 @@
+{
+  "id": 1796682039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.12631,34.55668,-5.12631,34.55668",
+    "geom:latitude":34.55668,
+    "geom:longitude":-5.12631,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Oulad Ben Talha",
+    "gn:country_code":"MA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2549206,
+    "gn:latitude":34.55668,
+    "gn:longitude":-5.12631,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Oulad Ben Talha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-5.14631,34.53668,-5.10631,34.57668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Taabba",
+        "Talba",
+        "Et Taalba",
+        "Douar Oulad Ben Talha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890418103,
+        85673893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2549206
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8ff218f4845315e5404f71e567270a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890418103,
+            "locality_id":-1,
+            "neighbourhood_id":1796682039,
+            "region_id":85673893
+        }
+    ],
+    "wof:id":1796682039,
+    "wof:lastmodified":1669054393,
+    "wof:name":"Douar Oulad Ben Talha",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343968379
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.12631,
+    34.55668,
+    -5.12631,
+    34.55668
+],
+  "geometry": {"coordinates":[-5.12631,34.55668],"type":"Point"}
+}

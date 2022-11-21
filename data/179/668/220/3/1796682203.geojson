@@ -1,0 +1,74 @@
+{
+  "id": 1796682203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50954,34.24053,-6.50954,34.24053",
+    "geom:latitude":34.24053,
+    "geom:longitude":-6.50954,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Saleh Rchid",
+    "gn:country_code":"MA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10960352,
+    "gn:latitude":34.24053,
+    "gn:longitude":-6.50954,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Saleh Rchid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.52954,34.22053,-6.48954,34.26053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890427533,
+        85673897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10960352
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"80174209c70b18b1ad2c31865cc9002c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":-1,
+            "neighbourhood_id":1796682203,
+            "region_id":85673897
+        }
+    ],
+    "wof:id":1796682203,
+    "wof:lastmodified":1669054391,
+    "wof:name":"Saleh Rchid",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293098641
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50954,
+    34.24053,
+    -6.50954,
+    34.24053
+],
+  "geometry": {"coordinates":[-6.50954,34.24053],"type":"Point"}
+}

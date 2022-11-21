@@ -1,0 +1,74 @@
+{
+  "id": 1796681915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.04795,34.04466,-5.04795,34.04466",
+    "geom:latitude":34.04466,
+    "geom:longitude":-5.04795,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Sidi Amira",
+    "gn:country_code":"MA",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984871,
+    "gn:latitude":34.04466,
+    "gn:longitude":-5.04795,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Sidi Amira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-5.06795,34.02466,-5.02795,34.06466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890454333,
+        85673887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984871
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"06977a49234434f58ffb42c00c974d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":-1,
+            "neighbourhood_id":1796681915,
+            "region_id":85673887
+        }
+    ],
+    "wof:id":1796681915,
+    "wof:lastmodified":1669054396,
+    "wof:name":"Douar Sidi Amira",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327031187
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.04795,
+    34.04466,
+    -5.04795,
+    34.04466
+],
+  "geometry": {"coordinates":[-5.04795,34.04466],"type":"Point"}
+}

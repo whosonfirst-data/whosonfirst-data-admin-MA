@@ -1,0 +1,74 @@
+{
+  "id": 1796681929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04209,31.67846,-8.04209,31.67846",
+    "geom:latitude":31.67846,
+    "geom:longitude":-8.04209,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Al Houmri",
+    "gn:country_code":"MA",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10971118,
+    "gn:latitude":31.67846,
+    "gn:longitude":-8.04209,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Al Houmri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-8.06209,31.65846,-8.02209,31.69846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784829,
+        85673933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10971118
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"85def5080d25c97d966b7ef25ac34b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":-1,
+            "neighbourhood_id":1796681929,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":1796681929,
+    "wof:lastmodified":1669054379,
+    "wof:name":"Al Houmri",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326823589
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04209,
+    31.67846,
+    -8.04209,
+    31.67846
+],
+  "geometry": {"coordinates":[-8.04209,31.67846],"type":"Point"}
+}

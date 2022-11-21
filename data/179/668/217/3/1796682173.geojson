@@ -1,0 +1,74 @@
+{
+  "id": 1796682173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.70035,34.13856,-6.70035,34.13856",
+    "geom:latitude":34.13856,
+    "geom:longitude":-6.70035,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dar Boughaba",
+    "gn:country_code":"MA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10797421,
+    "gn:latitude":34.13856,
+    "gn:longitude":-6.70035,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Boughaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.72035,34.11856,-6.68035,34.15856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784811,
+        85673911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10797421
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c3823a8a62e9026b3423c009473ead53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":-1,
+            "neighbourhood_id":1796682173,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1796682173,
+    "wof:lastmodified":1669054379,
+    "wof:name":"Dar Boughaba",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343458481
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.70035,
+    34.13856,
+    -6.70035,
+    34.13856
+],
+  "geometry": {"coordinates":[-6.70035,34.13856],"type":"Point"}
+}

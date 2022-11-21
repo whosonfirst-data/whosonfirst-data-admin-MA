@@ -1,0 +1,74 @@
+{
+  "id": 1796681977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47342,30.37733,-9.47342,30.37733",
+    "geom:latitude":30.37733,
+    "geom:longitude":-9.47342,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"My Drarga",
+    "gn:country_code":"MA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10375207,
+    "gn:latitude":30.37733,
+    "gn:longitude":-9.47342,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"My Drarga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-9.49342,30.35733,-9.45342,30.39733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890429099,
+        85673929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10375207
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"3ca8cdca333356175c54cb74fb5fde9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429099,
+            "locality_id":-1,
+            "neighbourhood_id":1796681977,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":1796681977,
+    "wof:lastmodified":1669054395,
+    "wof:name":"My Drarga",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326919505
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47342,
+    30.37733,
+    -9.47342,
+    30.37733
+],
+  "geometry": {"coordinates":[-9.47342,30.37733],"type":"Point"}
+}

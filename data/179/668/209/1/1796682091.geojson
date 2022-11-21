@@ -1,0 +1,74 @@
+{
+  "id": 1796682091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.78327,33.97447,-6.78327,33.97447",
+    "geom:latitude":33.97447,
+    "geom:longitude":-6.78327,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Agol Sghir",
+    "gn:country_code":"MA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10919025,
+    "gn:latitude":33.97447,
+    "gn:longitude":-6.78327,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Agol Sghir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.80327,33.95447,-6.76327,33.99447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890437999,
+        85673911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10919025
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"ca4ab3fd1e8b910810b57128214b26c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890437999,
+            "locality_id":-1,
+            "neighbourhood_id":1796682091,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1796682091,
+    "wof:lastmodified":1669054385,
+    "wof:name":"Agol Sghir",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343858101
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.78327,
+    33.97447,
+    -6.78327,
+    33.97447
+],
+  "geometry": {"coordinates":[-6.78327,33.97447],"type":"Point"}
+}

@@ -2,7 +2,7 @@
   "id": 1343950271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-11-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":11434042
     },
     "wof:country":"MA",
-    "wof:geomhash":"b571d33763558d51cfc8c557e0d3c574",
+    "wof:geomhash":"b3f2a96a38e413211d4db978c82d2878",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1343950271,
-    "wof:lastmodified":1566599959,
+    "wof:lastmodified":1669054385,
     "wof:name":"Es-Sekouriine",
     "wof:parent_id":1108784833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796682113
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -7.59572,
-    32.99695999999999,
+    32.99696,
     -7.59572,
-    32.99695999999999
+    32.99696
 ],
-  "geometry": {"coordinates":[-7.59572,32.99695999999999],"type":"Point"}
+  "geometry": {"coordinates":[-7.59572,32.99696],"type":"Point"}
 }

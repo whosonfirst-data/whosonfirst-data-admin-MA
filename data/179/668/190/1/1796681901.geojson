@@ -1,0 +1,74 @@
+{
+  "id": 1796681901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.66089,32.50184,-6.66089,32.50184",
+    "geom:latitude":32.50184,
+    "geom:longitude":-6.66089,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oulad Sidi Channane",
+    "gn:country_code":"MA",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11470146,
+    "gn:latitude":32.50184,
+    "gn:longitude":-6.66089,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Oulad Sidi Channane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.68089,32.48184,-6.64089,32.52184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1108784787,
+        85673919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11470146
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2343ad9961f4ecf58d93d82b68d0d793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784787,
+            "locality_id":-1,
+            "neighbourhood_id":1796681901,
+            "region_id":85673919
+        }
+    ],
+    "wof:id":1796681901,
+    "wof:lastmodified":1669054390,
+    "wof:name":"Oulad Sidi Channane",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327326847
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.66089,
+    32.50184,
+    -6.66089,
+    32.50184
+],
+  "geometry": {"coordinates":[-6.66089,32.50184],"type":"Point"}
+}
