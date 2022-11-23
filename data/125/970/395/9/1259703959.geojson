@@ -34,9 +34,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -47,15 +44,15 @@
     "wof:geomhash":"1a7a95c3ad02e722960d57efd8b6089a",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1259703959,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1259703959,
-    "wof:lastmodified":1566602517,
+    "wof:lastmodified":1669155633,
     "wof:name":"Hulat Centre",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

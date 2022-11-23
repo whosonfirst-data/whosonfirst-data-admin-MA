@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890445397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"26525857278464b91a8a6c06caa984ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209329525
+            "county_id":890445397,
+            "locality_id":1209329525,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209329525,
-    "wof:lastmodified":1566601108,
+    "wof:lastmodified":1669162475,
     "wof:name":"Douar Boujaouane",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

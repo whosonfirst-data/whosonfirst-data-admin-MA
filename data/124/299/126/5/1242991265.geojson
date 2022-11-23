@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"cadc9ee15893ba8e63763af94c05aeb0",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1242991265,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1242991265,
-    "wof:lastmodified":1566602381,
+    "wof:lastmodified":1669156228,
     "wof:name":"Takounchi",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

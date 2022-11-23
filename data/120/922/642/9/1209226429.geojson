@@ -31,7 +31,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +43,16 @@
     "wof:geomhash":"a3853dc0df21cce4913ae5650fce6ce0",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209226429
+            "locality_id":1209226429,
+            "region_id":1796661375
         }
     ],
     "wof:id":1209226429,
-    "wof:lastmodified":1566601068,
+    "wof:lastmodified":1669159737,
     "wof:name":"Dar Bou Ras",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1796661375,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +49,16 @@
     "wof:geomhash":"be86df0d4ec988be7e56797c48609164",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209424157
+            "locality_id":1209424157,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209424157,
-    "wof:lastmodified":1566601210,
+    "wof:lastmodified":1669161216,
     "wof:name":"Cap Negro II",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1796661381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

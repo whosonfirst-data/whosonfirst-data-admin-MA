@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,17 @@
     "wof:geomhash":"64b635fa9b12ba6a303f722a541a753b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209116375
+            "county_id":1108784801,
+            "locality_id":1209116375,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209116375,
-    "wof:lastmodified":1566601174,
+    "wof:lastmodified":1669159236,
     "wof:name":"Tifni",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

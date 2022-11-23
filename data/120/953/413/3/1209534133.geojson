@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661363,
+        1108784843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"b807eaa957aa6d2bb2d4ce4e702ba30b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209534133
+            "county_id":1108784843,
+            "locality_id":1209534133,
+            "region_id":1796661363
         }
     ],
     "wof:id":1209534133,
-    "wof:lastmodified":1566600897,
+    "wof:lastmodified":1669157679,
     "wof:name":"Amazer",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

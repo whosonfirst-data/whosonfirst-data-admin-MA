@@ -61,7 +61,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890453939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,14 +74,17 @@
     "wof:geomhash":"53b1e7e13744965ed1b2c7aee4f509e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209625585
+            "county_id":890453939,
+            "locality_id":1209625585,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209625585,
-    "wof:lastmodified":1566600917,
+    "wof:lastmodified":1669162204,
     "wof:name":"Aourir",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

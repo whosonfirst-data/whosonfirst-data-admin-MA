@@ -34,7 +34,10 @@
         "Atalayo\u00fbm"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85632693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2556808
@@ -43,14 +46,14 @@
     "wof:geomhash":"db74f6c48d840bead0fdf41de649980b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191573,
+            "country_id":85632693,
             "locality_id":1226757901,
             "region_id":-1
         }
     ],
     "wof:id":1226757901,
-    "wof:lastmodified":1566602673,
+    "wof:lastmodified":1669161927,
     "wof:name":"Atalayoum",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

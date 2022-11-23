@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        85673887,
+        890436419,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,24 @@
     "wof:geomhash":"3e1f54efcd9dbef79c8af637adfa7774",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209224945
+            "county_id":890436419,
+            "locality_id":1209224945,
+            "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1209224945,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209224945,
-    "wof:lastmodified":1566601075,
+    "wof:lastmodified":1669163221,
     "wof:name":"Tawarda",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890436419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

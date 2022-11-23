@@ -41,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        1108784783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +54,17 @@
     "wof:geomhash":"3a8323f40596b19658262d34bd4ee5bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209017501
+            "county_id":1108784783,
+            "locality_id":1209017501,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209017501,
-    "wof:lastmodified":1566600936,
+    "wof:lastmodified":1669161211,
     "wof:name":"Dar Chaoui",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

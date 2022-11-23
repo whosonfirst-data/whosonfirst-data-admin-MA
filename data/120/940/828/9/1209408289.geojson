@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890453939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"556c424a70377e462f7146b253e78690",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209408289
+            "county_id":890453939,
+            "locality_id":1209408289,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209408289,
-    "wof:lastmodified":1566601038,
+    "wof:lastmodified":1669162037,
     "wof:name":"Douar Id Boussiker",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

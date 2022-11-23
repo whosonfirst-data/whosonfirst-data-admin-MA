@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890453939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"35dde6e5d877de3f8f277e158edbee84",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209200485
+            "county_id":890453939,
+            "locality_id":1209200485,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209200485,
-    "wof:lastmodified":1566601179,
+    "wof:lastmodified":1669159283,
     "wof:name":"Douar Id Allal",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

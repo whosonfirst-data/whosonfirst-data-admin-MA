@@ -49,7 +49,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890445395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"86678d788748e23f20d3764529d722af",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209014803
+            "county_id":890445395,
+            "locality_id":1209014803,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209014803,
-    "wof:lastmodified":1566600940,
+    "wof:lastmodified":1669160770,
     "wof:name":"Ighram",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

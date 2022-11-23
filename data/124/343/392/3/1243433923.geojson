@@ -61,6 +61,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
+        1796661361,
         85673951
     ],
     "wof:breaches":[],
@@ -77,13 +78,19 @@
             "continent_id":102191573,
             "country_id":85632693,
             "locality_id":1243433923,
+            "region_id":1796661361
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1243433923,
             "region_id":85673951
         }
     ],
     "wof:id":1243433923,
-    "wof:lastmodified":1668713771,
+    "wof:lastmodified":1669164750,
     "wof:name":"Imlili",
-    "wof:parent_id":85673951,
+    "wof:parent_id":-4,
     "wof:placetype":"locality",
     "wof:population":2269,
     "wof:population_rank":4,

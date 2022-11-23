@@ -160,7 +160,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        1108784783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,14 +173,17 @@
     "wof:geomhash":"595b6471d5889e50ddf53d4c758f7834",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209124613
+            "county_id":1108784783,
+            "locality_id":1209124613,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209124613,
-    "wof:lastmodified":1636494990,
+    "wof:lastmodified":1669161208,
     "wof:name":"Sanya",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

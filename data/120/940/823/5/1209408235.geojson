@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890453939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"8cacd0d50ff1929e3065aa5ee224b988",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209408235
+            "county_id":890453939,
+            "locality_id":1209408235,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209408235,
-    "wof:lastmodified":1566601041,
+    "wof:lastmodified":1669159277,
     "wof:name":"Douar El Haj El Arla",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

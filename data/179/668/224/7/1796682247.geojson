@@ -38,7 +38,9 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673937
+        421190107,
+        890445397,
+        1796661373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,16 @@
         {
             "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":-1,
+            "county_id":890445397,
+            "locality_id":421190107,
             "neighbourhood_id":1796682247,
-            "region_id":85673937
+            "region_id":1796661373
         }
     ],
     "wof:id":1796682247,
-    "wof:lastmodified":1669054394,
+    "wof:lastmodified":1669163203,
     "wof:name":"Sidi Ghouziya",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190107,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

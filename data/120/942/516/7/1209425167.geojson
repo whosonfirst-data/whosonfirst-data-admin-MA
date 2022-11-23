@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661359,
+        1108784819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"6622b4f8dff731142a0fae61618c4a24",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209425167
+            "county_id":1108784819,
+            "locality_id":1209425167,
+            "region_id":1796661359
         }
     ],
     "wof:id":1209425167,
-    "wof:lastmodified":1566601214,
+    "wof:lastmodified":1669157269,
     "wof:name":"Douar El Qadi",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

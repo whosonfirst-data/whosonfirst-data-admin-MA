@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661377,
+        1108784811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"8eeb45f6c6baf42aa87b85a5485e4b4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209539213
+            "county_id":1108784811,
+            "locality_id":1209539213,
+            "region_id":1796661377
         }
     ],
     "wof:id":1209539213,
-    "wof:lastmodified":1566600909,
+    "wof:lastmodified":1669160361,
     "wof:name":"Douar Mazza",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

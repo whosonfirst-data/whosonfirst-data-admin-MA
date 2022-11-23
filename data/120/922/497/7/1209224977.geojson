@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890429097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"5c58dd44a2c10b78f5cf76f01639f1e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209224977
+            "county_id":890429097,
+            "locality_id":1209224977,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209224977,
-    "wof:lastmodified":1566601068,
+    "wof:lastmodified":1669161411,
     "wof:name":"Douar Imenza",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890429097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

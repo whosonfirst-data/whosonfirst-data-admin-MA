@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890428801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"88defc1a9a95aa39c851429f80cf548f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209014827
+            "county_id":890428801,
+            "locality_id":1209014827,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209014827,
-    "wof:lastmodified":1566600931,
+    "wof:lastmodified":1669160824,
     "wof:name":"Bouksaa",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890428801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

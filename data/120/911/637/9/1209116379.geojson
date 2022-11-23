@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890428801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"de3e733096ae1a619db3641d841ca725",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209116379
+            "county_id":890428801,
+            "locality_id":1209116379,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209116379,
-    "wof:lastmodified":1566601173,
+    "wof:lastmodified":1669160996,
     "wof:name":"Ikhef Ighir",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890428801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

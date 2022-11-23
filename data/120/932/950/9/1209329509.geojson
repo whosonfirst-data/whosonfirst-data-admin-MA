@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661367,
+        1108784841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"6da4af51aa0a2e138b47315ea9524cab",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209329509
+            "county_id":1108784841,
+            "locality_id":1209329509,
+            "region_id":1796661367
         }
     ],
     "wof:id":1209329509,
-    "wof:lastmodified":1566601113,
+    "wof:lastmodified":1669158536,
     "wof:name":"Imi Ou Gouni",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

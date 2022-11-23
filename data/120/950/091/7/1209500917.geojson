@@ -52,7 +52,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890440847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +65,17 @@
     "wof:geomhash":"c945a840988c225a3e36b218c88776cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209500917
+            "county_id":890440847,
+            "locality_id":1209500917,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209500917,
-    "wof:lastmodified":1566601079,
+    "wof:lastmodified":1669162097,
     "wof:name":"Tidli",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890440847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

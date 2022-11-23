@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"e3aa60a26239371691958fd754f66b2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209630225
+            "county_id":1108784803,
+            "locality_id":1209630225,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209630225,
-    "wof:lastmodified":1566600955,
+    "wof:lastmodified":1669159166,
     "wof:name":"Dbibzat",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

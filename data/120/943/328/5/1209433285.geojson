@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        1108784797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"88c6c46537806eaceaa199c94f6941bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209433285
+            "county_id":1108784797,
+            "locality_id":1209433285,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209433285,
-    "wof:lastmodified":1566601241,
+    "wof:lastmodified":1669161216,
     "wof:name":"Tarhnit",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

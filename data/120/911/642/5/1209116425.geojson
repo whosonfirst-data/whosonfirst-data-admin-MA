@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"c0e4e6f7a92564121c98cc965eeaacc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209116425
+            "county_id":1108784801,
+            "locality_id":1209116425,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209116425,
-    "wof:lastmodified":1566601170,
+    "wof:lastmodified":1669158984,
     "wof:name":"Adouz",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

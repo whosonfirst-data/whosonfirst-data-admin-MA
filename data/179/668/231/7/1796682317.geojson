@@ -36,8 +36,10 @@
     "wof:belongsto":[
         102191573,
         85632693,
+        421190143,
         890454333,
-        85673887
+        85673887,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,23 @@
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890454333,
-            "locality_id":-1,
+            "locality_id":421190143,
             "neighbourhood_id":1796682317,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":421190143,
+            "neighbourhood_id":1796682317,
+            "region_id":1796661365
         }
     ],
     "wof:id":1796682317,
-    "wof:lastmodified":1669054380,
+    "wof:lastmodified":1669163391,
     "wof:name":"Cooperative Drissiya",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190143,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

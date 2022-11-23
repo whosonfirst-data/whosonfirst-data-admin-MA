@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        1108784783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"3e0235a8e8df5eb25359e5dcb56ccaa8",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209525681
+            "county_id":1108784783,
+            "locality_id":1209525681,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209525681,
-    "wof:lastmodified":1566600978,
+    "wof:lastmodified":1669161248,
     "wof:name":"Cheiba",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661375,
+        1108784779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"587774145ca25aa4456d95e4a43f1dfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209527353
+            "county_id":1108784779,
+            "locality_id":1209527353,
+            "region_id":1796661375
         }
     ],
     "wof:id":1209527353,
-    "wof:lastmodified":1566600982,
+    "wof:lastmodified":1669159825,
     "wof:name":"Oulad Lhaj Boukil",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -37,9 +37,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -50,15 +47,15 @@
     "wof:geomhash":"2417c4690960af9c6daed871f2372265",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1327144695,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1327144695,
-    "wof:lastmodified":1566599458,
+    "wof:lastmodified":1669155619,
     "wof:name":"Zaouiat Lahna",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

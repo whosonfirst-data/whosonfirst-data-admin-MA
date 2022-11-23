@@ -101,18 +101,27 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85632693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "wd:id":"Q23048167"
     },
     "wof:country":"MA",
     "wof:geomhash":"5d125438286230051499626ae6657b26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "region_id":1796661375
+        }
+    ],
     "wof:id":1796661375,
-    "wof:lastmodified":1668818952,
+    "wof:lastmodified":1669160049,
     "wof:name":"Oriental",
-    "wof:parent_id":-1,
+    "wof:parent_id":85632693,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

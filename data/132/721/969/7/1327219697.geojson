@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"77727d2c33b8b3fe52c3a5f170ff26a3",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1327219697,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1327219697,
-    "wof:lastmodified":1566599710,
+    "wof:lastmodified":1669155607,
     "wof:name":"Rhau Abderjaoun",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

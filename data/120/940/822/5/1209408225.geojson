@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"76e6b8a11d017f87b1848abccc6ac851",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209408225
+            "county_id":1108784801,
+            "locality_id":1209408225,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209408225,
-    "wof:lastmodified":1566601043,
+    "wof:lastmodified":1669162130,
     "wof:name":"Ait Khlaf",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

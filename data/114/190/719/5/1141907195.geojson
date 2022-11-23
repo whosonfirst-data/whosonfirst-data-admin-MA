@@ -213,7 +213,8 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673915
+        85673915,
+        1108784773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -226,14 +227,15 @@
         {
             "continent_id":102191573,
             "country_id":85632693,
+            "county_id":1108784773,
             "locality_id":1141907195,
             "region_id":85673915
         }
     ],
     "wof:id":1141907195,
-    "wof:lastmodified":1668724670,
+    "wof:lastmodified":1669150769,
     "wof:name":"Er Rachidia",
-    "wof:parent_id":85673915,
+    "wof:parent_id":1108784773,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[

@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890422513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"b265d92be8bb5deb853fbd7742546e35",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209233193
+            "county_id":890422513,
+            "locality_id":1209233193,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209233193,
-    "wof:lastmodified":1566601035,
+    "wof:lastmodified":1669161398,
     "wof:name":"Tleta Rissana",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890422513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

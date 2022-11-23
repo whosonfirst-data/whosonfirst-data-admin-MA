@@ -34,7 +34,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        85673887,
+        890440849,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,24 @@
     "wof:geomhash":"021c3e46472c1626c81ba408233435ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209421933
+            "county_id":890440849,
+            "locality_id":1209421933,
+            "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1209421933,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209421933,
-    "wof:lastmodified":1566601208,
+    "wof:lastmodified":1669163232,
     "wof:name":"Douar Dhar Lbir",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890440849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

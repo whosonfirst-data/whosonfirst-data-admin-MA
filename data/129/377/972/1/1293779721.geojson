@@ -36,9 +36,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937
+        1796661373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +46,16 @@
     "wof:geomhash":"63991cebd0dd8a905896fb1852d288b6",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":1293779721,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1293779721,
-    "wof:lastmodified":1669054394,
+    "wof:lastmodified":1669150371,
     "wof:name":"Sidi Ghouziya",
-    "wof:parent_id":85673937,
+    "wof:parent_id":1796661373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[

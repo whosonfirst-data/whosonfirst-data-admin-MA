@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"512a2be28a67b57c9d8c18840c3f3556",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1243063245,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1243063245,
-    "wof:lastmodified":1566602149,
+    "wof:lastmodified":1669156235,
     "wof:name":"Ighil",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"5be52030f875c60c5f3e5b716d347236",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209092205
+            "county_id":1108784829,
+            "locality_id":1209092205,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209092205,
-    "wof:lastmodified":1566600885,
+    "wof:lastmodified":1669159023,
     "wof:name":"Oulad Bella guide",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

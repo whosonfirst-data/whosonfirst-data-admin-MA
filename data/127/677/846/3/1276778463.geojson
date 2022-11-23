@@ -52,9 +52,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -65,15 +62,15 @@
     "wof:geomhash":"48a7878bc722de9872647ad7fe2627b2",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1276778463,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1276778463,
-    "wof:lastmodified":1566600792,
+    "wof:lastmodified":1669156283,
     "wof:name":"Ait Daoud",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

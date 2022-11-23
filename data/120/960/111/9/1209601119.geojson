@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890445397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +56,17 @@
     "wof:geomhash":"a3789da6f5dded37116a0d000592fb2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209601119
+            "county_id":890445397,
+            "locality_id":1209601119,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209601119,
-    "wof:lastmodified":1566601133,
+    "wof:lastmodified":1669162331,
     "wof:name":"Sidi Abderrahmane",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

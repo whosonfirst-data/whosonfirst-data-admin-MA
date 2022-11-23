@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661359,
+        890436421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"eb4c5121b438a791166880873bce4761",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209211849
+            "county_id":890436421,
+            "locality_id":1209211849,
+            "region_id":1796661359
         }
     ],
     "wof:id":1209211849,
-    "wof:lastmodified":1566601226,
+    "wof:lastmodified":1669156965,
     "wof:name":"Douar Oulad Abid",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890436421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        1108784831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"76d26af5a6c81ba58674058915da49e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209625543
+            "county_id":1108784831,
+            "locality_id":1209625543,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209625543,
-    "wof:lastmodified":1566600924,
+    "wof:lastmodified":1669161125,
     "wof:name":"Iggur Ilerd",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

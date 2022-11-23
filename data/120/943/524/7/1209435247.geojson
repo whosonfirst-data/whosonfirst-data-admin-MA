@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890445397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"242d35daa13ce70fa44b4ec7bf0c8635",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209435247
+            "county_id":890445397,
+            "locality_id":1209435247,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209435247,
-    "wof:lastmodified":1566601242,
+    "wof:lastmodified":1669162455,
     "wof:name":"Douar Ahl Eddrae",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

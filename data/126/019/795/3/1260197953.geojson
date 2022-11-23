@@ -34,9 +34,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673923,
         1108784779
     ],
     "wof:breaches":[],
@@ -47,15 +44,15 @@
     "wof:geomhash":"4d271b1a7fe7ee7dc0686ea88089f380",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784779,
             "locality_id":1260197953,
-            "region_id":85673923
+            "region_id":-1
         }
     ],
     "wof:id":1260197953,
-    "wof:lastmodified":1566601511,
+    "wof:lastmodified":1669155806,
     "wof:name":"Douar El Hadid",
     "wof:parent_id":1108784779,
     "wof:placetype":"locality",

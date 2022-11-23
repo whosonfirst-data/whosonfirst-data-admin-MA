@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"ebf044b79fc5ec102db3598862b42412",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209408243
+            "county_id":1108784829,
+            "locality_id":1209408243,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209408243,
-    "wof:lastmodified":1566601042,
+    "wof:lastmodified":1669162131,
     "wof:name":"Douar Chouiter",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

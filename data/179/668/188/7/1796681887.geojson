@@ -33,8 +33,9 @@
     "wof:belongsto":[
         102191573,
         85632693,
+        890432381,
         890452779,
-        85673919
+        1796661357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +48,15 @@
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890452779,
-            "locality_id":-1,
+            "locality_id":890432381,
             "neighbourhood_id":1796681887,
-            "region_id":85673919
+            "region_id":1796661357
         }
     ],
     "wof:id":1796681887,
-    "wof:lastmodified":1669054385,
+    "wof:lastmodified":1669156882,
     "wof:name":"Douar Moulay Bou'azza",
-    "wof:parent_id":-1,
+    "wof:parent_id":890432381,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

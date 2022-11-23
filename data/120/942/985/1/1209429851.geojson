@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661375,
+        890455271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"b09dc751b28c3efd9009ae18a2e57997",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209429851
+            "county_id":890455271,
+            "locality_id":1209429851,
+            "region_id":1796661375
         }
     ],
     "wof:id":1209429851,
-    "wof:lastmodified":1566601214,
+    "wof:lastmodified":1669159855,
     "wof:name":"Iboudiahane",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890455271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

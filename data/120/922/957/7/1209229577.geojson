@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        1108784831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"148abbcea2cff76d0f543e66929827d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209229577
+            "county_id":1108784831,
+            "locality_id":1209229577,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209229577,
-    "wof:lastmodified":1566601072,
+    "wof:lastmodified":1669161003,
     "wof:name":"Ti ou Mannou",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

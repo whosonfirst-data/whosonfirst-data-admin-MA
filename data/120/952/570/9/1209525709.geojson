@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661363,
+        1108784843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"b5527deccf8de58f46a118578b8007bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209525709
+            "county_id":1108784843,
+            "locality_id":1209525709,
+            "region_id":1796661363
         }
     ],
     "wof:id":1209525709,
-    "wof:lastmodified":1566600985,
+    "wof:lastmodified":1669157697,
     "wof:name":"Ait Amrane",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

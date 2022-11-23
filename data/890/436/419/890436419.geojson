@@ -125,7 +125,8 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673887
+        85673887,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,12 +148,18 @@
             "country_id":85632693,
             "county_id":890436419,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "region_id":1796661365
         }
     ],
     "wof:id":890436419,
-    "wof:lastmodified":1668818465,
+    "wof:lastmodified":1669163931,
     "wof:name":"Boulemane",
-    "wof:parent_id":85673887,
+    "wof:parent_id":-1,
     "wof:placetype":"county",
     "wof:placetype_local":"province",
     "wof:population":197596,

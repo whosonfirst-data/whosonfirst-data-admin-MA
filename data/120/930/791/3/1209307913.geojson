@@ -73,7 +73,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,14 +86,17 @@
     "wof:geomhash":"7406c53bd990a8d59c4446229d01759d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209307913
+            "county_id":1108784801,
+            "locality_id":1209307913,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209307913,
-    "wof:lastmodified":1566600943,
+    "wof:lastmodified":1669158994,
     "wof:name":"Igrane",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -61,7 +61,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661359,
+        1108784819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,14 +75,17 @@
     "wof:geomhash":"bc1a40802471d02e38c54e912c96065d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209124659
+            "county_id":1108784819,
+            "locality_id":1209124659,
+            "region_id":1796661359
         }
     ],
     "wof:id":1209124659,
-    "wof:lastmodified":1566601020,
+    "wof:lastmodified":1669157265,
     "wof:name":"Douar Lehgagcha",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

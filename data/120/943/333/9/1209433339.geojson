@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890429097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"35447c2c66cff6ed4466bef7c41dbeee",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209433339
+            "county_id":890429097,
+            "locality_id":1209433339,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209433339,
-    "wof:lastmodified":1566601239,
+    "wof:lastmodified":1669161653,
     "wof:name":"Bouchanchet",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890429097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

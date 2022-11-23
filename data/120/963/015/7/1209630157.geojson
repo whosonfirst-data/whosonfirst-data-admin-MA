@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        1108784783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"e84c432065364b1fad3a768adcc70fc5",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209630157
+            "county_id":1108784783,
+            "locality_id":1209630157,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209630157,
-    "wof:lastmodified":1566600953,
+    "wof:lastmodified":1669161413,
     "wof:name":"Douar Daidaat",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

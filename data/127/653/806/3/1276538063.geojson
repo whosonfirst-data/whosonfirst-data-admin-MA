@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"214f49f49e1575e90c317adc0ee45c4f",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1276538063,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1276538063,
-    "wof:lastmodified":1566600863,
+    "wof:lastmodified":1669156233,
     "wof:name":"Tagdiycht",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

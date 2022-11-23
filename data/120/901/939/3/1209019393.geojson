@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661367,
+        1108784815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"459f199ac6938b03b91cba0db3cdc093",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209019393
+            "county_id":1108784815,
+            "locality_id":1209019393,
+            "region_id":1796661367
         }
     ],
     "wof:id":1209019393,
-    "wof:lastmodified":1566600929,
+    "wof:lastmodified":1669158557,
     "wof:name":"Akchtim",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

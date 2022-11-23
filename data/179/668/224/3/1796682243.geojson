@@ -33,8 +33,10 @@
     "wof:belongsto":[
         102191573,
         85632693,
+        1360103523,
         1108784805,
-        85673887
+        85673887,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,23 @@
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784805,
-            "locality_id":-1,
+            "locality_id":1360103523,
             "neighbourhood_id":1796682243,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1360103523,
+            "neighbourhood_id":1796682243,
+            "region_id":1796661365
         }
     ],
     "wof:id":1796682243,
-    "wof:lastmodified":1669054396,
+    "wof:lastmodified":1669163391,
     "wof:name":"Dar Ito Lahssene",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360103523,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

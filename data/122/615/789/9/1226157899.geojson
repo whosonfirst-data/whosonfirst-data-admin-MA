@@ -38,7 +38,8 @@
         102191573,
         85632693,
         85673887,
-        890440849
+        890440849,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,10 +54,17 @@
             "county_id":890440849,
             "locality_id":1226157899,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890440849,
+            "locality_id":1226157899,
+            "region_id":1796661365
         }
     ],
     "wof:id":1226157899,
-    "wof:lastmodified":1566602866,
+    "wof:lastmodified":1669163281,
     "wof:name":"Beni Sohane",
     "wof:parent_id":890440849,
     "wof:placetype":"locality",

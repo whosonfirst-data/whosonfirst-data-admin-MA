@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"9ec389b599a666a293fad1f2d2a8b92b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209408247
+            "county_id":1108784801,
+            "locality_id":1209408247,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209408247,
-    "wof:lastmodified":1566601042,
+    "wof:lastmodified":1669159291,
     "wof:name":"Ben Hassi Bamou",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

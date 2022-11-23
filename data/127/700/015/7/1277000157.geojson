@@ -36,9 +36,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -49,15 +46,15 @@
     "wof:geomhash":"048e6dcc232aa72d32bbbb228e48f927",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1277000157,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1277000157,
-    "wof:lastmodified":1566600556,
+    "wof:lastmodified":1669156291,
     "wof:name":"Abatoulou",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

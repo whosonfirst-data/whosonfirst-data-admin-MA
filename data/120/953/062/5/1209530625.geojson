@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661357,
+        890452779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"f5f625f569564fdff9155446d3546f2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209530625
+            "county_id":890452779,
+            "locality_id":1209530625,
+            "region_id":1796661357
         }
     ],
     "wof:id":1209530625,
-    "wof:lastmodified":1566600899,
+    "wof:lastmodified":1669156619,
     "wof:name":"Anagal-Ait-Boumelal",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890452779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

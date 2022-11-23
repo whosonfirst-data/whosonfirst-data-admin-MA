@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661357,
+        1108784827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"8b670b3e3df518a6c239b1c423ba2b19",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209408065
+            "county_id":1108784827,
+            "locality_id":1209408065,
+            "region_id":1796661357
         }
     ],
     "wof:id":1209408065,
-    "wof:lastmodified":1566601046,
+    "wof:lastmodified":1669156658,
     "wof:name":"Tirariyn",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661377,
+        890427533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"2edd1d03e3e435a2275077151048d59f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209625535
+            "county_id":890427533,
+            "locality_id":1209625535,
+            "region_id":1796661377
         }
     ],
     "wof:id":1209625535,
-    "wof:lastmodified":1566600924,
+    "wof:lastmodified":1669160149,
     "wof:name":"Douar Regragua",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890427533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

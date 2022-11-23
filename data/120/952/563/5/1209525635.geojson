@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        1108784777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"a69fb77a5f1958b73f137620caa0148f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209525635
+            "county_id":1108784777,
+            "locality_id":1209525635,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209525635,
-    "wof:lastmodified":1566600982,
+    "wof:lastmodified":1669161434,
     "wof:name":"Hay Saniat Torris",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

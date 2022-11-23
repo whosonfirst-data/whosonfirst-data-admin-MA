@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        85673887,
+        1108784805,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,24 @@
     "wof:geomhash":"bef966936738de482ecaa8f914965b20",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209124585
+            "county_id":1108784805,
+            "locality_id":1209124585,
+            "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1209124585,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209124585,
-    "wof:lastmodified":1566601024,
+    "wof:lastmodified":1669163388,
     "wof:name":"Oulad Taieb",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784805,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

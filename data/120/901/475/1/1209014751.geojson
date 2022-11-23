@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890429097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"e3cb5cd25f4b6175eaf26ae41191f88e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209014751
+            "county_id":890429097,
+            "locality_id":1209014751,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209014751,
-    "wof:lastmodified":1566600938,
+    "wof:lastmodified":1669161653,
     "wof:name":"Tazrot",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890429097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

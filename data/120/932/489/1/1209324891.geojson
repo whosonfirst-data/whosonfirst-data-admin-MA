@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661375,
+        890453895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"8d1bf8d2b0db30a3ae1f81dfa32a478c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209324891
+            "county_id":890453895,
+            "locality_id":1209324891,
+            "region_id":1796661375
         }
     ],
     "wof:id":1209324891,
-    "wof:lastmodified":1566601116,
+    "wof:lastmodified":1669159733,
     "wof:name":"Ouarrala",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

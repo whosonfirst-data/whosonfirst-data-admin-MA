@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661363,
+        1108784773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"af9be8efabd5ea9a8239fa6af1708241",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209199225
+            "county_id":1108784773,
+            "locality_id":1209199225,
+            "region_id":1796661363
         }
     ],
     "wof:id":1209199225,
-    "wof:lastmodified":1566601220,
+    "wof:lastmodified":1669157506,
     "wof:name":"Ait Sidi Al Ghazi",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784773,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

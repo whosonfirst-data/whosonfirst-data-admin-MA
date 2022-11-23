@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890440847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +56,17 @@
     "wof:geomhash":"3e6f68839b5c4315777352f4374d3af6",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209329485
+            "county_id":890440847,
+            "locality_id":1209329485,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209329485,
-    "wof:lastmodified":1566601111,
+    "wof:lastmodified":1669162044,
     "wof:name":"Talilit",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890440847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

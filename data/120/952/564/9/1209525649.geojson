@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890442529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"f772956e50c7ed51675f7b94b0394e47",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209525649
+            "county_id":890442529,
+            "locality_id":1209525649,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209525649,
-    "wof:lastmodified":1566600981,
+    "wof:lastmodified":1669161486,
     "wof:name":"Douar Jbel Lhajjam",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890442529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

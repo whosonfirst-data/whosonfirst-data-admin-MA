@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661365,
+        890436791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"fe28a427f6f06a153ae489cdd3317f0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209329515
+            "county_id":890436791,
+            "locality_id":1209329515,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209329515,
-    "wof:lastmodified":1566601114,
+    "wof:lastmodified":1669158160,
     "wof:name":"Talmest",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890436791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

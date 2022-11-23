@@ -34,7 +34,8 @@
         102191573,
         85632693,
         85673887,
-        1108784805
+        1108784805,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,10 +50,17 @@
             "county_id":1108784805,
             "locality_id":1210017883,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1210017883,
+            "region_id":1796661365
         }
     ],
     "wof:id":1210017883,
-    "wof:lastmodified":1566601276,
+    "wof:lastmodified":1669163240,
     "wof:name":"Dar Ould Lazzar",
     "wof:parent_id":1108784805,
     "wof:placetype":"locality",

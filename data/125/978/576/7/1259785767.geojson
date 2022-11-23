@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673923,
         1108784779
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"9546256f48e04ef9a5b9ae062a01afd4",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784779,
             "locality_id":1259785767,
-            "region_id":85673923
+            "region_id":-1
         }
     ],
     "wof:id":1259785767,
-    "wof:lastmodified":1566602542,
+    "wof:lastmodified":1669155806,
     "wof:name":"Assaqqif",
     "wof:parent_id":1108784779,
     "wof:placetype":"locality",

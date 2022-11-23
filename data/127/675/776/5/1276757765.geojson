@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"3ed6375811413cbbd6a5a94274fc170a",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1276757765,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1276757765,
-    "wof:lastmodified":1566600573,
+    "wof:lastmodified":1669155631,
     "wof:name":"Douar Ali Ben Sellam",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

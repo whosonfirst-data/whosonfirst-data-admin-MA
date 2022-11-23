@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        1108784797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"b56dd7ff869cbca59d0cc30d2d87f9fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209022747
+            "county_id":1108784797,
+            "locality_id":1209022747,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209022747,
-    "wof:lastmodified":1566601151,
+    "wof:lastmodified":1669161409,
     "wof:name":"Douar Dchayer",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

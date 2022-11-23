@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"8ca7d854d301b3767c45ac2afe8fa31d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209601169
+            "county_id":1108784821,
+            "locality_id":1209601169,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209601169,
-    "wof:lastmodified":1566601132,
+    "wof:lastmodified":1669162365,
     "wof:name":"Douar Lahbib",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

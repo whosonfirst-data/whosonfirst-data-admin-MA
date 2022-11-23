@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890453939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"f6227f59016f6dabfc0117f7ac27b66f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209633667
+            "county_id":890453939,
+            "locality_id":1209633667,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209633667,
-    "wof:lastmodified":1566600959,
+    "wof:lastmodified":1669159196,
     "wof:name":"Douar Jbilat",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

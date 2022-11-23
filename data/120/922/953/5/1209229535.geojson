@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661367,
+        1108784841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"74329f462f24972f2515197322003890",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209229535
+            "county_id":1108784841,
+            "locality_id":1209229535,
+            "region_id":1796661367
         }
     ],
     "wof:id":1209229535,
-    "wof:lastmodified":1566601066,
+    "wof:lastmodified":1669158511,
     "wof:name":"Inflas",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

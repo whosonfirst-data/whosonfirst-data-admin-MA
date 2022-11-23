@@ -67,7 +67,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890421483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,14 +80,17 @@
     "wof:geomhash":"723f15cb8569843a7e5b5b77fdf3fd30",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209525675
+            "county_id":890421483,
+            "locality_id":1209525675,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209525675,
-    "wof:lastmodified":1566600977,
+    "wof:lastmodified":1669161241,
     "wof:name":"Kasara",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890421483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

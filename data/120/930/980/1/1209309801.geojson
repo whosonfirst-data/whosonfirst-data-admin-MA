@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890428801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"d15668ab95a4a1f664b20287797b7c3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209309801
+            "county_id":890428801,
+            "locality_id":1209309801,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209309801,
-    "wof:lastmodified":1566600950,
+    "wof:lastmodified":1669160931,
     "wof:name":"Amalou",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890428801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

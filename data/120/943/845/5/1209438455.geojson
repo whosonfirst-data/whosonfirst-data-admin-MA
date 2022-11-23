@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661377,
+        890427533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"48ce43256c55609981ba16aa9a39a59b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209438455
+            "county_id":890427533,
+            "locality_id":1209438455,
+            "region_id":1796661377
         }
     ],
     "wof:id":1209438455,
-    "wof:lastmodified":1566601234,
+    "wof:lastmodified":1669160162,
     "wof:name":"Dar Lhaj Ariah",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890427533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

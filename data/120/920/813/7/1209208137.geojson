@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"05e0b0ea985f7b62a1d3dfcf906f96a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209208137
+            "county_id":1108784801,
+            "locality_id":1209208137,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209208137,
-    "wof:lastmodified":1566601183,
+    "wof:lastmodified":1669159209,
     "wof:name":"Anzel",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661375,
+        1108784771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"58ab0fb7efc26b1ee78cd9dd5e4d17dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209326407
+            "county_id":1108784771,
+            "locality_id":1209326407,
+            "region_id":1796661375
         }
     ],
     "wof:id":1209326407,
-    "wof:lastmodified":1566601115,
+    "wof:lastmodified":1669159796,
     "wof:name":"Douar Igharinaouene",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

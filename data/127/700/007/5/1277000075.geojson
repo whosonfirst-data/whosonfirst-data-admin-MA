@@ -37,9 +37,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -50,15 +47,15 @@
     "wof:geomhash":"a7219a02f916beb8611fa06fff90ee5f",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1277000075,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1277000075,
-    "wof:lastmodified":1566600557,
+    "wof:lastmodified":1669155628,
     "wof:name":"Douar Labbazda",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

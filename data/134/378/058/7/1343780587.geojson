@@ -34,9 +34,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -47,15 +44,15 @@
     "wof:geomhash":"95ab5319fa1e27aa96c21b7ca515cfc4",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1343780587,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1343780587,
-    "wof:lastmodified":1566599940,
+    "wof:lastmodified":1669156240,
     "wof:name":"Tamgrst",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

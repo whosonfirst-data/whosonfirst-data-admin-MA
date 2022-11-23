@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"5eee83ebdf10d7e3b52fb105a4db6426",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1293475741,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1293475741,
-    "wof:lastmodified":1566600307,
+    "wof:lastmodified":1669155593,
     "wof:name":"Douar Oulad Earalmuniya Sfa",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

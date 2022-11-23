@@ -34,9 +34,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -47,15 +44,15 @@
     "wof:geomhash":"1ccd836939d7c6eff36084a15bde7f15",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1327446325,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1327446325,
-    "wof:lastmodified":1566599692,
+    "wof:lastmodified":1669155603,
     "wof:name":"Lekhoualef",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

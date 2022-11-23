@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661377,
+        1108784809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"f683690a319b73fe81986b6878be9b49",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209019355
+            "county_id":1108784809,
+            "locality_id":1209019355,
+            "region_id":1796661377
         }
     ],
     "wof:id":1209019355,
-    "wof:lastmodified":1566600935,
+    "wof:lastmodified":1669160167,
     "wof:name":"Douar Oulad Brahim",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -34,9 +34,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -47,15 +44,15 @@
     "wof:geomhash":"17fe9a0a0079c345992379ca02765382",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1327044975,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1327044975,
-    "wof:lastmodified":1566599564,
+    "wof:lastmodified":1669155596,
     "wof:name":"Douar Oulad El Haj Jilali",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

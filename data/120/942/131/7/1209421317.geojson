@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661365,
+        1108784789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"3761c61205d23f815ca355454729a50e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209421317
+            "county_id":1108784789,
+            "locality_id":1209421317,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209421317,
-    "wof:lastmodified":1566601215,
+    "wof:lastmodified":1669158356,
     "wof:name":"Dar El Haj Driss Lghazi",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784789,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

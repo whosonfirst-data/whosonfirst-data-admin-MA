@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890453883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"3f74475460b35cf671d84e2f5e994f2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209318097
+            "county_id":890453883,
+            "locality_id":1209318097,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209318097,
-    "wof:lastmodified":1566600896,
+    "wof:lastmodified":1669161429,
     "wof:name":"Douar Yaggoun",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

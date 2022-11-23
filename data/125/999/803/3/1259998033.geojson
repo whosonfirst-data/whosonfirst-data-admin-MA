@@ -34,9 +34,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -47,15 +44,15 @@
     "wof:geomhash":"cad74f50daaef6a2c43836856cc4880b",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1259998033,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1259998033,
-    "wof:lastmodified":1566602495,
+    "wof:lastmodified":1669156292,
     "wof:name":"Imgharn",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

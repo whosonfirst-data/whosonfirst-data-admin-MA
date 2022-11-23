@@ -76,10 +76,11 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":155,
     "wof:belongsto":[
-        85673905,
         102191573,
         85632693,
-        890442533
+        890434661,
+        890442533,
+        1796661359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,15 +98,15 @@
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890442533,
-            "locality_id":-1,
+            "locality_id":890434661,
             "neighbourhood_id":421166773,
-            "region_id":85673905
+            "region_id":1796661359
         }
     ],
     "wof:id":421166773,
-    "wof:lastmodified":1668818352,
+    "wof:lastmodified":1669161801,
     "wof:name":"Ain Sebaa",
-    "wof:parent_id":-1,
+    "wof:parent_id":890434661,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

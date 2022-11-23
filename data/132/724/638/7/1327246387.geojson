@@ -35,9 +35,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673933,
         1108784801
     ],
     "wof:breaches":[],
@@ -48,15 +45,15 @@
     "wof:geomhash":"3d5e7a0c6639f465315cf071a90b7fb8",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784801,
             "locality_id":1327246387,
-            "region_id":85673933
+            "region_id":-1
         }
     ],
     "wof:id":1327246387,
-    "wof:lastmodified":1566599490,
+    "wof:lastmodified":1669155988,
     "wof:name":"Amenzel",
     "wof:parent_id":1108784801,
     "wof:placetype":"locality",

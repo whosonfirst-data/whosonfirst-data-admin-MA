@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890453939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"94299b8f4c1231578dc969c1a6e1257d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209300371
+            "county_id":890453939,
+            "locality_id":1209300371,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209300371,
-    "wof:lastmodified":1566600945,
+    "wof:lastmodified":1669158951,
     "wof:name":"Douar Id Laaguid",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        85673887,
+        890436419,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,24 @@
     "wof:geomhash":"309e8cd6b73a6ffd3f872c72048b20f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209425173
+            "county_id":890436419,
+            "locality_id":1209425173,
+            "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1209425173,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209425173,
-    "wof:lastmodified":1566601210,
+    "wof:lastmodified":1669163261,
     "wof:name":"Bou Selam",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890436419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

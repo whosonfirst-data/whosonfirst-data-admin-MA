@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"13beb8ec498cca06c0f7b79a93e28247",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209026741
+            "county_id":1108784803,
+            "locality_id":1209026741,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209026741,
-    "wof:lastmodified":1566601153,
+    "wof:lastmodified":1669159238,
     "wof:name":"Douar Zaoreat Lghil",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

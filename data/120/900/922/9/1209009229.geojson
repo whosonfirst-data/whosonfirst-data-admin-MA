@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661377,
+        890427533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"a63c5f04e94f59ae3adeb71a1c53ceba",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209009229
+            "county_id":890427533,
+            "locality_id":1209009229,
+            "region_id":1796661377
         }
     ],
     "wof:id":1209009229,
-    "wof:lastmodified":1566600896,
+    "wof:lastmodified":1669160081,
     "wof:name":"Douar Lamrijiyya",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890427533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

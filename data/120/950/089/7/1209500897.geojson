@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890445397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"4812e956a2a2ce891023c2eb0f43f34e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209500897
+            "county_id":890445397,
+            "locality_id":1209500897,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209500897,
-    "wof:lastmodified":1566601082,
+    "wof:lastmodified":1669162344,
     "wof:name":"Oulad El Haj El Mamoune",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"97ae8967924069f74bfec8474760d5e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209208073
+            "county_id":1108784803,
+            "locality_id":1209208073,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209208073,
-    "wof:lastmodified":1566601184,
+    "wof:lastmodified":1669162094,
     "wof:name":"Douar Oulad Amar",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

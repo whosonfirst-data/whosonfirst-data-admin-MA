@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661357,
+        1108784827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"0f94981091b65ff009743e6ad9300592",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209212833
+            "county_id":1108784827,
+            "locality_id":1209212833,
+            "region_id":1796661357
         }
     ],
     "wof:id":1209212833,
-    "wof:lastmodified":1566601224,
+    "wof:lastmodified":1669156586,
     "wof:name":"Ait Lahsene",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

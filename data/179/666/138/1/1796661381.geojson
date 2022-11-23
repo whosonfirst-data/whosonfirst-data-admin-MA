@@ -86,18 +86,27 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85632693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "wd:id":"Q19951300"
     },
     "wof:country":"MA",
     "wof:geomhash":"b6e27702a2f259ef2cde7b8ed61e95b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "region_id":1796661381
+        }
+    ],
     "wof:id":1796661381,
-    "wof:lastmodified":1668818953,
+    "wof:lastmodified":1669161799,
     "wof:name":"Tanger-Tetouan-Al Hoceima",
-    "wof:parent_id":-1,
+    "wof:parent_id":85632693,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"9675f83c7003df19f99035ee0332ca75",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1276855153,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1276855153,
-    "wof:lastmodified":1566600735,
+    "wof:lastmodified":1669156283,
     "wof:name":"Tine Mohamed Ou Mohand",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

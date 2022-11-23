@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"8a79aa6706fd2c63b3ec2b75c049f9a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209333117
+            "county_id":1108784803,
+            "locality_id":1209333117,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209333117,
-    "wof:lastmodified":1566601168,
+    "wof:lastmodified":1669159076,
     "wof:name":"Douar El Maalmine",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

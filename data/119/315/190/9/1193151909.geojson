@@ -36,9 +36,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784843
     ],
     "wof:breaches":[],
@@ -49,15 +46,15 @@
     "wof:geomhash":"4e5be555bded370940c2dea5fe220181",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784843,
             "locality_id":1193151909,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1193151909,
-    "wof:lastmodified":1566601317,
+    "wof:lastmodified":1669155707,
     "wof:name":"Lamdint",
     "wof:parent_id":1108784843,
     "wof:placetype":"locality",

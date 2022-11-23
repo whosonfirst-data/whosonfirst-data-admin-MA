@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890440847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"858c20235bc219f32a873a6efe1ac081",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209630209
+            "county_id":890440847,
+            "locality_id":1209630209,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209630209,
-    "wof:lastmodified":1566600961,
+    "wof:lastmodified":1669159126,
     "wof:name":"Agadir Mhand",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890440847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

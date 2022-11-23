@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"8695d8d758b90c1294a4ca765765751d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209124615
+            "county_id":1108784803,
+            "locality_id":1209124615,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209124615,
-    "wof:lastmodified":1566601026,
+    "wof:lastmodified":1669159084,
     "wof:name":"Douar Bekkar",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

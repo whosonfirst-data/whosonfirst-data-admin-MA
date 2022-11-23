@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        1108784797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"ef2c5224d2ef7347e4261ecc60074fe9",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209429867
+            "county_id":1108784797,
+            "locality_id":1209429867,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209429867,
-    "wof:lastmodified":1566601219,
+    "wof:lastmodified":1669161767,
     "wof:name":"Douar Bir Brahim",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

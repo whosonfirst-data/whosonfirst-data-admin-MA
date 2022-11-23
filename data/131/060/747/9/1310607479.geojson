@@ -37,7 +37,8 @@
         102191573,
         85632693,
         85673887,
-        890454333
+        890454333,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,10 +53,17 @@
             "county_id":890454333,
             "locality_id":1310607479,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":1310607479,
+            "region_id":1796661365
         }
     ],
     "wof:id":1310607479,
-    "wof:lastmodified":1566601773,
+    "wof:lastmodified":1669163317,
     "wof:name":"Cooperative Errida",
     "wof:parent_id":890454333,
     "wof:placetype":"locality",

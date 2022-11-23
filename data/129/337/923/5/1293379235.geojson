@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"abac12b37530fc51ebfac351710d0ce8",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1293379235,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1293379235,
-    "wof:lastmodified":1566600194,
+    "wof:lastmodified":1669156252,
     "wof:name":"Ait Moussa",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

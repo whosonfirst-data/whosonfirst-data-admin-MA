@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890442529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"dbca78e84e0d83c1906f5d3481e68a6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209534185
+            "county_id":890442529,
+            "locality_id":1209534185,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209534185,
-    "wof:lastmodified":1566600905,
+    "wof:lastmodified":1669161246,
     "wof:name":"El Bioutz",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890442529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

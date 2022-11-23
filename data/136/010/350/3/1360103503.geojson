@@ -35,9 +35,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -48,15 +45,15 @@
     "wof:geomhash":"96ed4e0faed37baf8460bb89eb222990",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1360103503,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1360103503,
-    "wof:lastmodified":1566601861,
+    "wof:lastmodified":1669155473,
     "wof:name":"Douar Oulad Bella",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

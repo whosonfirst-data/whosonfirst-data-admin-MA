@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661363,
+        1108784839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"1340cd3a8ee1eb0c09fb8b6577d8438c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209229509
+            "county_id":1108784839,
+            "locality_id":1209229509,
+            "region_id":1796661363
         }
     ],
     "wof:id":1209229509,
-    "wof:lastmodified":1566601071,
+    "wof:lastmodified":1669157664,
     "wof:name":"Tagmout",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
