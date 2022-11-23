@@ -41,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661377,
+        890453897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +54,17 @@
     "wof:geomhash":"68ab1b59ca3c2090cba1119b0357f55a",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209433279
+            "county_id":890453897,
+            "locality_id":1209433279,
+            "region_id":1796661377
         }
     ],
     "wof:id":1209433279,
-    "wof:lastmodified":1566601239,
+    "wof:lastmodified":1669160307,
     "wof:name":"El Ouldja",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

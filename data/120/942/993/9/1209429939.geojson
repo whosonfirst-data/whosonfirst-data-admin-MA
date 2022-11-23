@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890453851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"0d15a50479ef81becdb9e8a44526ea6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209429939
+            "county_id":890453851,
+            "locality_id":1209429939,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209429939,
-    "wof:lastmodified":1566601215,
+    "wof:lastmodified":1669164503,
     "wof:name":"Ida Ou Wdriyf",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

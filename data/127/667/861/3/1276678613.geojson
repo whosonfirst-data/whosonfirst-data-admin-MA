@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"64d1d2736f31c3c4cc88ead99869dd71",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1276678613,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1276678613,
-    "wof:lastmodified":1566600668,
+    "wof:lastmodified":1669155639,
     "wof:name":"Douar Omar Ben Ayachi Tahtani",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

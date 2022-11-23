@@ -4,24 +4,76 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00008,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.666,35.207917,-4.666,35.207917",
-    "geom:latitude":35.207917,
-    "geom:longitude":-4.666,
+    "geom:bbox":"-4.669883,35.198365,-4.658662,35.209819",
+    "geom:latitude":35.204107,
+    "geom:longitude":-4.66412,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jebha",
+    "gn:country_code":"MA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2550079,
+    "gn:latitude":35.20549,
+    "gn:longitude":-4.66524,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Jebha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-4.686,35.187917,-4.646,35.227917",
+    "lbl:latitude":35.204168,
+    "lbl:longitude":-4.664013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0628\u0647\u0629"
     ],
+    "name:cat_x_preferred":[
+        "El Jebha"
+    ],
+    "name:ceb_x_preferred":[
+        "El Jabha"
+    ],
+    "name:deu_x_preferred":[
+        "El Jebha"
+    ],
     "name:eng_x_preferred":[
         "Jubeiha"
+    ],
+    "name:eus_x_preferred":[
+        "El Jebha"
+    ],
+    "name:fra_x_preferred":[
+        "Jebha"
+    ],
+    "name:nld_x_preferred":[
+        "El Jebha"
+    ],
+    "name:pol_x_preferred":[
+        "Al-D\u017cabha"
+    ],
+    "name:por_x_preferred":[
+        "El Jebha"
+    ],
+    "name:spa_x_preferred":[
+        "El Jebha"
+    ],
+    "name:swe_x_preferred":[
+        "El Jabha"
+    ],
+    "name:und_x_variant":[
+        "Puerto Capax",
+        "Puerto Capaz",
+        "Yebha",
+        "K\u0101b\u0101z",
+        "Yebba",
+        "Jebba"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,45 +93,58 @@
     "qs:qs_id":1118250,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1534935,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":35.204168,
+    "reversegeo:longitude":-4.664013,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        890453883,
-        85673883
+        1796661381,
+        890453883
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2550079,
         "gp:id":1534935,
-        "qs_pg:id":1118250
+        "qs_pg:id":1118250,
+        "wk:page":"El_Jebha"
     },
     "wof:country":"MA",
     "wof:created":1459009644,
-    "wof:geomhash":"4a30a4151f066faa9931e5e17a490f3b",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"9ef6a5f5f06bd22d6a84abc879d40316",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890453883,
             "locality_id":421190039,
-            "region_id":85673883
+            "region_id":1796661381
         }
     ],
     "wof:id":421190039,
-    "wof:lastmodified":1601423089,
+    "wof:lastmodified":1669164705,
     "wof:name":"Jubeiha",
     "wof:parent_id":890453883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225959253
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -4.666,
-    35.207917,
-    -4.666,
-    35.207917
+    -4.669883,
+    35.198365,
+    -4.658662,
+    35.209819
 ],
-  "geometry": {"coordinates":[-4.666,35.207917],"type":"Point"}
+  "geometry": {"coordinates":[[[-4.665274,35.209819],[-4.663598,35.208189],[-4.662387,35.208608],[-4.662015,35.208375],[-4.661037,35.208934],[-4.661037,35.207863],[-4.660059,35.208189],[-4.659686,35.207537],[-4.660106,35.206187],[-4.660664,35.205302],[-4.65978,35.204883],[-4.658895,35.204697],[-4.658662,35.203999],[-4.660199,35.20344],[-4.660525,35.202183],[-4.660106,35.20181],[-4.659826,35.200879],[-4.659966,35.20032],[-4.660431,35.199343],[-4.661549,35.198877],[-4.662294,35.19911],[-4.663365,35.198365],[-4.664948,35.198598],[-4.665972,35.19897],[-4.666531,35.199529],[-4.666671,35.200181],[-4.667462,35.20046],[-4.667695,35.200786],[-4.66709,35.20195],[-4.667416,35.203207],[-4.667695,35.203859],[-4.668486,35.203673],[-4.668766,35.203952],[-4.668486,35.204557],[-4.668999,35.204883],[-4.669744,35.205256],[-4.669883,35.205768],[-4.668906,35.206373],[-4.668533,35.207118],[-4.668533,35.208236],[-4.667555,35.208841],[-4.665646,35.2094],[-4.665274,35.209819]]],"type":"Polygon"}
 }

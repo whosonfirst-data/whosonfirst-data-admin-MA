@@ -4,13 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00039,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.02857,31.51071,-5.02857,31.51071",
-    "geom:latitude":31.51071,
-    "geom:longitude":-5.02857,
+    "geom:bbox":"-5.047373,31.496667,-5.01988,31.517999",
+    "geom:latitude":31.508478,
+    "geom:longitude":-5.033478,
     "iso:country":"MA",
-    "lbl:bbox":"-5.04857,31.49071,-5.00857,31.53071",
+    "lbl:latitude":31.508273,
+    "lbl:longitude":-5.033478,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -19,6 +20,9 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0646\u062c\u062f\u0627\u062f"
+    ],
+    "name:ary_x_preferred":[
+        "\u062a\u064a\u0646\u062c\u062f\u0627\u062f"
     ],
     "name:azb_x_preferred":[
         "\u062a\u0646\u062c\u062f\u0627\u062f"
@@ -77,12 +81,18 @@
     "qs:qs_id":1041657,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1541873,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":31.508273,
+    "reversegeo:longitude":-5.033478,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191573,
         85632693,
-        85673915,
+        1796661363,
         1108784773
     ],
     "wof:breaches":[],
@@ -95,18 +105,21 @@
     },
     "wof:country":"MA",
     "wof:created":1459009799,
-    "wof:geomhash":"cce479dfd3ac6c7181c39f50738d52a9",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"a3bace57b90eefdabd5e33d25bb9040d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784773,
             "locality_id":421194245,
-            "region_id":85673915
+            "region_id":1796661363
         }
     ],
     "wof:id":421194245,
-    "wof:lastmodified":1566601969,
+    "wof:lastmodified":1669161851,
     "wof:name":"Tinejdad",
     "wof:parent_id":1108784773,
     "wof:placetype":"locality",
@@ -116,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.02857,
-    31.51071,
-    -5.02857,
-    31.51071
+    -5.047373,
+    31.496667,
+    -5.01988,
+    31.517999
 ],
-  "geometry": {"coordinates":[-5.02857,31.51071],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.02393,31.517999],[-5.020622,31.515205],[-5.01988,31.51047],[-5.024158,31.503626],[-5.038304,31.496667],[-5.041898,31.499176],[-5.043894,31.50026],[-5.044293,31.503226],[-5.046004,31.508645],[-5.045491,31.511269],[-5.047373,31.512866],[-5.037848,31.515718],[-5.034482,31.517486],[-5.028664,31.5176],[-5.02393,31.517999]]],"type":"Polygon"}
 }

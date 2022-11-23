@@ -1,0 +1,84 @@
+{
+  "id": 1796681969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.23789,31.28925,-7.23789,31.28925",
+    "geom:latitude":31.28925,
+    "geom:longitude":-7.23789,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"440103152.0",
+    "gn:asciiname":"Telouet",
+    "gn:country_code":"MA",
+    "gn:dem":1784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2529019,
+    "gn:latitude":31.28925,
+    "gn:longitude":-7.23789,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Telouet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-7.25789,31.26925,-7.21789,31.30925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Dar Kaid el Glaoui",
+        "Teluet",
+        "Telou\u00e8te",
+        "Telouet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421185345,
+        1108784843,
+        1796661363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529019,
+        "wk:page":"Telouet"
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"c8bc69d28614e707d10b3b047da6804f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "locality_id":421185345,
+            "neighbourhood_id":1796681969,
+            "region_id":1796661363
+        }
+    ],
+    "wof:id":1796681969,
+    "wof:lastmodified":1669157819,
+    "wof:name":"Telouet",
+    "wof:parent_id":421185345,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326626501
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.23789,
+    31.28925,
+    -7.23789,
+    31.28925
+],
+  "geometry": {"coordinates":[-7.23789,31.28925],"type":"Point"}
+}

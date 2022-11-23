@@ -34,9 +34,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -47,15 +44,15 @@
     "wof:geomhash":"e014d6f97197dadb4b90ca8732421c54",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1343772313,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1343772313,
-    "wof:lastmodified":1566599883,
+    "wof:lastmodified":1669155482,
     "wof:name":"El Midat",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

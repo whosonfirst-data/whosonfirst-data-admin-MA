@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661365,
+        890436791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"bfebf0d1da3af33ac877920752fb7c7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209019331
+            "county_id":890436791,
+            "locality_id":1209019331,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209019331,
-    "wof:lastmodified":1566600936,
+    "wof:lastmodified":1669158162,
     "wof:name":"Douar Tafrannt",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890436791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

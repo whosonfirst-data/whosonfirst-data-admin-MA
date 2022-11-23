@@ -1,0 +1,75 @@
+{
+  "id": 1796682169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.11329,35.16349,-6.11329,35.16349",
+    "geom:latitude":35.16349,
+    "geom:longitude":-6.11329,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Douar Baggara",
+    "gn:country_code":"MA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10933625,
+    "gn:latitude":35.16349,
+    "gn:longitude":-6.11329,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Baggara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.13329,35.14349,-6.09329,35.18349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190069,
+        890422513,
+        1796661381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10933625
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"6be73bf0816ab076e1e450b072078b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890422513,
+            "locality_id":421190069,
+            "neighbourhood_id":1796682169,
+            "region_id":1796661381
+        }
+    ],
+    "wof:id":1796682169,
+    "wof:lastmodified":1669161797,
+    "wof:name":"Douar Baggara",
+    "wof:parent_id":421190069,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343275087
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.11329,
+    35.16349,
+    -6.11329,
+    35.16349
+],
+  "geometry": {"coordinates":[-6.11329,35.16349],"type":"Point"}
+}

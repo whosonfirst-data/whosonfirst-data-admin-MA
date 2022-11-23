@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890453883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"73bfe8b0d643c0d9908bcb07e3b8c63d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209119267
+            "county_id":890453883,
+            "locality_id":1209119267,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209119267,
-    "wof:lastmodified":1566601175,
+    "wof:lastmodified":1669161431,
     "wof:name":"Douar Talambote",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

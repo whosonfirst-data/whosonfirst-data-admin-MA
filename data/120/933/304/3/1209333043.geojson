@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661367,
+        1108784841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"c0fd266549a546f3a11578b9828c09eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209333043
+            "county_id":1108784841,
+            "locality_id":1209333043,
+            "region_id":1796661367
         }
     ],
     "wof:id":1209333043,
-    "wof:lastmodified":1566601164,
+    "wof:lastmodified":1669158481,
     "wof:name":"Id Grou Ou Sourou",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

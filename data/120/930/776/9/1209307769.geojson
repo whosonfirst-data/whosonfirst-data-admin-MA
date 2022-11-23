@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661357,
+        1108784787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"986ed9d3df16de19632cc6456c0b16f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209307769
+            "county_id":1108784787,
+            "locality_id":1209307769,
+            "region_id":1796661357
         }
     ],
     "wof:id":1209307769,
-    "wof:lastmodified":1566600946,
+    "wof:lastmodified":1669156589,
     "wof:name":"Aj-Jedyane",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

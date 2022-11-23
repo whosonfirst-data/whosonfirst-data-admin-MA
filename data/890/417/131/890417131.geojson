@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0643\u0644\u0645\u064a\u0645"
     ],
+    "name:ary_x_preferred":[
+        "\u06ad\u0644\u0645\u064a\u0645"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0644\u0645\u064a\u0645"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0644\u0645\u06cc\u0645"
     ],
@@ -62,6 +68,9 @@
         "Guelmim (MU)",
         "Guelmim (Commune Urbaine)"
     ],
+    "name:gle_x_preferred":[
+        "Guelmim"
+    ],
     "name:glg_x_preferred":[
         "Guelmim"
     ],
@@ -89,6 +98,9 @@
     "name:nld_x_preferred":[
         "Guelmim"
     ],
+    "name:nob_x_preferred":[
+        "Guelmim"
+    ],
     "name:pol_x_preferred":[
         "Kulmim"
     ],
@@ -101,7 +113,13 @@
     "name:rus_x_preferred":[
         "\u0413\u0443\u043b\u0438\u043c\u0438\u043d"
     ],
+    "name:shi_x_preferred":[
+        "Gulmim"
+    ],
     "name:spa_x_preferred":[
+        "Guelmim"
+    ],
+    "name:swa_x_preferred":[
         "Guelmim"
     ],
     "name:swe_x_preferred":[
@@ -112,6 +130,12 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0644\u0645\u06cc\u0645"
+    ],
+    "name:vec_x_preferred":[
+        "Guelmim"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10e3\u10da\u10d8\u10db\u10d8\u10db\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u84cb\u52d2\u654f"
@@ -127,7 +151,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673947,
+        1796661367,
         1108784815
     ],
     "wof:breaches":[],
@@ -146,11 +170,11 @@
             "country_id":85632693,
             "county_id":1108784815,
             "localadmin_id":890417131,
-            "region_id":85673947
+            "region_id":1796661367
         }
     ],
     "wof:id":890417131,
-    "wof:lastmodified":1566602036,
+    "wof:lastmodified":1669163536,
     "wof:name":"Guelmim",
     "wof:parent_id":1108784815,
     "wof:placetype":"localadmin",

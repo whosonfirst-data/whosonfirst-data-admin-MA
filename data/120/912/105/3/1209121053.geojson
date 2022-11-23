@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        1108784831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"088a9f43db74a50ab18658c3030a7e7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209121053
+            "county_id":1108784831,
+            "locality_id":1209121053,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209121053,
-    "wof:lastmodified":1566601018,
+    "wof:lastmodified":1669161039,
     "wof:name":"Tine Lmekki",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

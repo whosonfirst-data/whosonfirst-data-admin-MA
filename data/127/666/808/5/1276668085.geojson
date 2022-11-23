@@ -35,9 +35,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -48,15 +45,15 @@
     "wof:geomhash":"77eb55d4525c5dfbf5b8f2ca482bb6d3",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1276668085,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1276668085,
-    "wof:lastmodified":1566600700,
+    "wof:lastmodified":1669156289,
     "wof:name":"Asa'rit",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"1c3d097198a23d23a7caa480a3b6c166",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209525667
+            "county_id":1108784785,
+            "locality_id":1209525667,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209525667,
-    "wof:lastmodified":1566600978,
+    "wof:lastmodified":1669159204,
     "wof:name":"Douar Oulad Ahmed Ben El Haj",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

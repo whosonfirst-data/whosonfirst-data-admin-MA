@@ -1,0 +1,79 @@
+{
+  "id": 1796681849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.42502,32.11109,-6.42502,32.11109",
+    "geom:latitude":32.11109,
+    "geom:longitude":-6.42502,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait 'Ali ou Mhand",
+    "gn:country_code":"MA",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2560568,
+    "gn:latitude":32.11109,
+    "gn:longitude":-6.42502,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"A\u00eft \u2019Ali ou Mhand",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.44502,32.09109,-6.40502,32.13109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "A\u00eft \u2019Ali ou Mhand",
+        "A\u00eft Ali Ou Mhand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421195127,
+        1108784827,
+        1796661357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2560568
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"465de9bda6bd6f944ff7dc1cf911e6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":421195127,
+            "neighbourhood_id":1796681849,
+            "region_id":1796661357
+        }
+    ],
+    "wof:id":1796681849,
+    "wof:lastmodified":1669156882,
+    "wof:name":"Ait 'Ali ou Mhand",
+    "wof:parent_id":421195127,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326929149
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.42502,
+    32.11109,
+    -6.42502,
+    32.11109
+],
+  "geometry": {"coordinates":[-6.42502,32.11109],"type":"Point"}
+}

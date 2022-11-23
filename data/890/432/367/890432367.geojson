@@ -2,7 +2,7 @@
   "id": 890432367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-11-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +17,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0641\u0631\u0627\u0648\u062a"
@@ -64,7 +64,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673929,
+        1796661379,
         890428801
     ],
     "wof:breaches":[],
@@ -84,18 +84,20 @@
             "country_id":85632693,
             "county_id":890428801,
             "locality_id":890432367,
-            "region_id":85673929
+            "region_id":1796661379
         }
     ],
     "wof:id":890432367,
-    "wof:lastmodified":1566602061,
+    "wof:lastmodified":1669164725,
     "wof:name":"Tafraout",
     "wof:parent_id":890428801,
     "wof:placetype":"locality",
     "wof:population":4924,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ma",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421180197
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

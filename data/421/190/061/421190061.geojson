@@ -4,13 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000705,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.657958,32.170672,-5.657958,32.170672",
-    "geom:latitude":32.170672,
-    "geom:longitude":-5.657958,
+    "geom:bbox":"-5.665474,32.1352,-5.605353,32.164244",
+    "geom:latitude":32.149776,
+    "geom:longitude":-5.635388,
     "iso:country":"MA",
-    "lbl:bbox":"-5.677958,32.150672,-5.637958,32.190672",
+    "lbl:latitude":32.154612,
+    "lbl:longitude":-5.628329,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -20,10 +21,16 @@
     "name:ara_x_preferred":[
         "\u0625\u0645\u0644\u0634\u064a\u0644"
     ],
+    "name:ary_x_preferred":[
+        "\u0625\u064a\u0645\u064a\u0644\u0634\u064a\u0644"
+    ],
     "name:cat_x_preferred":[
         "Imilchil"
     ],
     "name:ceb_x_preferred":[
+        "Imilchil"
+    ],
+    "name:dan_x_preferred":[
         "Imilchil"
     ],
     "name:deu_x_preferred":[
@@ -53,11 +60,17 @@
     "name:spa_x_preferred":[
         "Imilchil"
     ],
+    "name:swa_x_preferred":[
+        "Imilchil"
+    ],
     "name:swe_x_preferred":[
         "Imilchil"
     ],
     "name:tur_x_preferred":[
         "\u0130milchil"
+    ],
+    "name:wln_x_preferred":[
+        "Imilchil"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -77,12 +90,18 @@
     "qs:qs_id":1118265,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1536647,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":32.154612,
+    "reversegeo:longitude":-5.628329,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":443,
     "wof:belongsto":[
         102191573,
         85632693,
-        85673915,
+        1796661363,
         1108784795
     ],
     "wof:breaches":[],
@@ -93,18 +112,21 @@
     },
     "wof:country":"MA",
     "wof:created":1459009645,
-    "wof:geomhash":"c8c5b44911439925f816b31f3eed8e4b",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"d67cbe29eb2c0a2607e8744716a39a56",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784795,
             "locality_id":421190061,
-            "region_id":85673915
+            "region_id":1796661363
         }
     ],
     "wof:id":421190061,
-    "wof:lastmodified":1566601975,
+    "wof:lastmodified":1669161830,
     "wof:name":"Imilchil",
     "wof:parent_id":1108784795,
     "wof:placetype":"locality",
@@ -114,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.657958,
-    32.170672,
-    -5.657958,
-    32.170672
+    -5.665474,
+    32.1352,
+    -5.605353,
+    32.164244
 ],
-  "geometry": {"coordinates":[-5.657958,32.170672],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.605934,32.158435],[-5.605353,32.15524],[-5.609564,32.154659],[-5.613921,32.1519],[-5.617551,32.151029],[-5.621763,32.147834],[-5.629459,32.146672],[-5.635123,32.144639],[-5.638899,32.142316],[-5.64311,32.136071],[-5.647757,32.137088],[-5.65284,32.135635],[-5.659229,32.1352],[-5.66286,32.137088],[-5.665474,32.140137],[-5.663876,32.142751],[-5.661117,32.145801],[-5.655889,32.147108],[-5.65284,32.146236],[-5.646595,32.150157],[-5.642239,32.149722],[-5.640351,32.15219],[-5.638318,32.154659],[-5.640496,32.157854],[-5.634106,32.159742],[-5.631783,32.16192],[-5.627426,32.162501],[-5.61973,32.162065],[-5.615082,32.164244],[-5.610726,32.161194],[-5.605934,32.158435]]],"type":"Polygon"}
 }

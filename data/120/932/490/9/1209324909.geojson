@@ -30,7 +30,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        85673887,
+        890454333,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,24 @@
     "wof:geomhash":"ac3e316b232e8c0ef3086ae782fd2a0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209324909
+            "county_id":890454333,
+            "locality_id":1209324909,
+            "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":1209324909,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209324909,
-    "wof:lastmodified":1566601109,
+    "wof:lastmodified":1669163238,
     "wof:name":"Rhafsai",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890454333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

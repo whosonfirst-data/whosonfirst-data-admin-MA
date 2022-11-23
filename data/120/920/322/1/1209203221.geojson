@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661367,
+        1108784841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"5863acd03fcc97fb8e5b7c673829b45e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209203221
+            "county_id":1108784841,
+            "locality_id":1209203221,
+            "region_id":1796661367
         }
     ],
     "wof:id":1209203221,
-    "wof:lastmodified":1566601180,
+    "wof:lastmodified":1669158522,
     "wof:name":"Id Bou L 'Ayd",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"b3c4c9446eadaf078861bc6c1d3ab21e",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1327253901,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1327253901,
-    "wof:lastmodified":1566599435,
+    "wof:lastmodified":1669155549,
     "wof:name":"Douar El Bekn",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

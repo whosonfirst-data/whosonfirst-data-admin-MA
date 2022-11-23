@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
+    ],
     "name:ace_x_preferred":[
         "Maghribi"
     ],
@@ -37,11 +40,17 @@
     "name:aka_x_preferred":[
         "Moroko"
     ],
+    "name:aka_x_variant":[
+        "Morocco"
+    ],
     "name:als_x_preferred":[
         "Marokko"
     ],
     "name:amh_x_preferred":[
         "\u121e\u122e\u12ae"
+    ],
+    "name:ami_x_preferred":[
+        "Morocco"
     ],
     "name:ang_x_preferred":[
         "Morocco"
@@ -58,14 +67,23 @@
     "name:arg_x_preferred":[
         "Marruecos"
     ],
+    "name:arq_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u063a\u0631\u064a\u0628"
+    ],
     "name:ary_x_preferred":[
         "\u0644\u0645\u063a\u0631\u064a\u0628"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u063a\u0631\u0628"
     ],
+    "name:asm_x_preferred":[
+        "\u09ae\u09f0\u09cb\u0995\u09cd\u0995\u09cb"
+    ],
     "name:ast_x_preferred":[
         "Marruecos"
+    ],
+    "name:avk_x_preferred":[
+        "Magriba"
     ],
     "name:aym_x_preferred":[
         "Maruku"
@@ -113,6 +131,9 @@
     "name:bho_x_preferred":[
         "\u092e\u094b\u0930\u0915\u094d\u0915\u094b"
     ],
+    "name:bis_x_preferred":[
+        "Moroko"
+    ],
     "name:bjn_x_preferred":[
         "Maroko"
     ],
@@ -147,13 +168,17 @@
         "Maruwekos"
     ],
     "name:ceb_x_variant":[
-        "Morocco"
+        "Morocco",
+        "Kamarrokuhan"
     ],
     "name:ces_x_preferred":[
         "Maroko"
     ],
     "name:che_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
+    ],
+    "name:chr_x_preferred":[
+        "\u13bc\u13b6\u13aa"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
@@ -174,6 +199,9 @@
         "Marok\u00f2"
     ],
     "name:cym_x_preferred":[
+        "Moroco"
+    ],
+    "name:dag_x_preferred":[
         "Moroco"
     ],
     "name:dan_x_preferred":[
@@ -288,6 +316,9 @@
     "name:ful_x_preferred":[
         "Maruk"
     ],
+    "name:ful_x_variant":[
+        "Morooku"
+    ],
     "name:gag_x_preferred":[
         "Marokko"
     ],
@@ -308,6 +339,9 @@
     ],
     "name:gom_x_preferred":[
         "\u092e\u094b\u0930\u094b\u0915\u094d\u0915\u094b"
+    ],
+    "name:gor_x_preferred":[
+        "Maroko"
     ],
     "name:grn_x_preferred":[
         "Marru\u00e9ko"
@@ -341,6 +375,9 @@
     ],
     "name:hif_x_preferred":[
         "Morocco"
+    ],
+    "name:hil_x_preferred":[
+        "Kamarrokuhan"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0930\u0915\u094d\u0915\u094b"
@@ -409,7 +446,8 @@
         "Ame\u1e5b\u1e5buk"
     ],
     "name:kab_x_variant":[
-        "Merruk"
+        "Merruk",
+        "Lmerruk"
     ],
     "name:kal_x_preferred":[
         "Marocko"
@@ -435,6 +473,9 @@
     "name:kbp_x_preferred":[
         "Mar\u0254k\u0269"
     ],
+    "name:kcg_x_preferred":[
+        "Moroko"
+    ],
     "name:khm_x_preferred":[
         "\u1798\u17c9\u17b6\u179a\u17c9\u17bb\u1780"
     ],
@@ -456,6 +497,9 @@
     "name:kor_x_preferred":[
         "\ubaa8\ub85c\ucf54"
     ],
+    "name:krj_x_preferred":[
+        "Kamarrokuhan"
+    ],
     "name:kur_x_preferred":[
         "Maroko"
     ],
@@ -468,6 +512,9 @@
     "name:lao_x_preferred":[
         "\u0ec2\u0ea1\u0ea5\u0eb1\u0ead\u0e81\u0ec2\u0e84"
     ],
+    "name:lao_x_variant":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea1\u0eb2\u0ea3\u0ebb\u0ead\u0e81"
+    ],
     "name:lat_x_preferred":[
         "Marocum"
     ],
@@ -476,6 +523,9 @@
     ],
     "name:lez_x_preferred":[
         "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f:\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
+    ],
+    "name:lez_x_variant":[
+        "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
     ],
     "name:lfn_x_preferred":[
         "Magrib"
@@ -494,6 +544,9 @@
     ],
     "name:lit_x_preferred":[
         "Marokas"
+    ],
+    "name:lld_x_preferred":[
+        "Marocco"
     ],
     "name:lmo_x_preferred":[
         "Maroch"
@@ -516,11 +569,20 @@
     "name:lzh_x_preferred":[
         "\u6469\u6d1b\u54e5"
     ],
+    "name:mad_x_preferred":[
+        "Maroko"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d31\u0d4b\u0d15\u0d4d\u0d15\u0d4a"
     ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0930\u094b\u0915\u094d\u0915\u094b"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
     ],
     "name:min_x_preferred":[
         "Maroko"
@@ -533,6 +595,9 @@
     ],
     "name:mlt_x_preferred":[
         "Marokk"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc3\uabe3\uabd4\uabe3\uabdb\uabc0\uabe3"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
@@ -562,6 +627,9 @@
         "Marruecos"
     ],
     "name:nan_x_preferred":[
+        "Morocco"
+    ],
+    "name:nau_x_preferred":[
         "Morocco"
     ],
     "name:nav_x_preferred":[
@@ -597,6 +665,12 @@
     "name:nov_x_preferred":[
         "Moroko"
     ],
+    "name:nqo_x_preferred":[
+        "\u07e1\u07ca\u07ec\u07d9\u07d0\u07de\u07ce\u07ec"
+    ],
+    "name:nrm_x_preferred":[
+        "Maroc"
+    ],
     "name:nso_x_preferred":[
         "Morocco"
     ],
@@ -621,11 +695,17 @@
     "name:pam_x_preferred":[
         "Morocco"
     ],
+    "name:pam_x_variant":[
+        "Kamarrokuan"
+    ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a4b\u0a30\u0a3e\u0a15\u0a4b"
     ],
     "name:pap_x_preferred":[
         "Morocco"
+    ],
+    "name:pap_x_variant":[
+        "Maroko"
     ],
     "name:pcd_x_preferred":[
         "Maroc"
@@ -635,6 +715,9 @@
     ],
     "name:pli_x_preferred":[
         "\u092e\u094b\u0930\u093e\u0915\u094b"
+    ],
+    "name:pli_x_variant":[
+        "\ud804\udc2b\ud804\udc16\ud804\udc46\ud804\udc2d\ud804\udc29"
     ],
     "name:pms_x_preferred":[
         "Mar\u00f2ch"
@@ -693,6 +776,12 @@
     "name:sgs_x_preferred":[
         "Maruoks"
     ],
+    "name:shi_x_preferred":[
+        "Lm\u0263rib"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1019\u1031\u1083\u1087\u101b\u1030\u101d\u103a\u1087\u1075\u1030\u101d\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0dbb\u0ddc\u0d9a\u0dca\u0d9a\u0ddd\u0dc0"
     ],
@@ -705,8 +794,14 @@
     "name:sme_x_preferred":[
         "Marokko"
     ],
+    "name:smn_x_preferred":[
+        "Marokko"
+    ],
     "name:smo_x_preferred":[
         "Morocco"
+    ],
+    "name:sms_x_preferred":[
+        "Marokko"
     ],
     "name:sna_x_preferred":[
         "Morocco"
@@ -734,6 +829,9 @@
     ],
     "name:srd_x_preferred":[
         "Marocco"
+    ],
+    "name:srd_x_variant":[
+        "Marocu"
     ],
     "name:srp_ec_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043e"
@@ -774,6 +872,9 @@
     "name:tat_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
     ],
+    "name:tay_x_preferred":[
+        "Morocco"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4a\u0c30\u0c3e\u0c15\u0c4b"
     ],
@@ -787,7 +888,8 @@
         "Maruekos"
     ],
     "name:tgl_x_variant":[
-        "Morocco"
+        "Morocco",
+        "Kamarrokuhan"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e21\u0e23\u0e47\u0e2d\u0e01\u0e42\u0e01"
@@ -800,6 +902,9 @@
     ],
     "name:ton_x_preferred":[
         "Molako"
+    ],
+    "name:trv_x_preferred":[
+        "Morocco"
     ],
     "name:tso_x_preferred":[
         "Morokho"
@@ -865,6 +970,9 @@
     ],
     "name:war_x_preferred":[
         "Morocco"
+    ],
+    "name:war_x_variant":[
+        "Kamarrokuhan"
     ],
     "name:wln_x_preferred":[
         "Marok"
@@ -1142,7 +1250,7 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1618362114,
+    "wof:lastmodified":1669163209,
     "wof:name":"Morocco",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

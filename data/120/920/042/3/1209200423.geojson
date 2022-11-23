@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"24a8b53339e9c2cae0f6f6718ea37f5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209200423
+            "county_id":1108784801,
+            "locality_id":1209200423,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209200423,
-    "wof:lastmodified":1566601181,
+    "wof:lastmodified":1669159260,
     "wof:name":"Taghdast",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

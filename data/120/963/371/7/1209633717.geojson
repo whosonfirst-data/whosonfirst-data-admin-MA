@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661357,
+        1108784791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"f581b3af4e2d84715c565a9d17d113ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209633717
+            "county_id":1108784791,
+            "locality_id":1209633717,
+            "region_id":1796661357
         }
     ],
     "wof:id":1209633717,
-    "wof:lastmodified":1566600957,
+    "wof:lastmodified":1669156563,
     "wof:name":"Ziyyar",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

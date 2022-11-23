@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890429099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"7067b33b62a6f2a0f63d4aab2cdd3a7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209124625
+            "county_id":890429099,
+            "locality_id":1209124625,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209124625,
-    "wof:lastmodified":1566601021,
+    "wof:lastmodified":1669160889,
     "wof:name":"Id Bou Abba",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890429099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

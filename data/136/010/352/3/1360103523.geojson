@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000314,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.00153,33.94265,-5.00153,33.94265",
-    "geom:latitude":33.94265,
-    "geom:longitude":-5.00153,
+    "geom:bbox":"-5.020867,33.931688,-4.996526,33.948055",
+    "geom:latitude":33.939276,
+    "geom:longitude":-5.008595,
     "gn:asciiname":"Ouled Khlifa",
     "gn:country_code":"MA",
     "gn:dem":539,
@@ -22,42 +22,60 @@
     "gn:population":200,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-5.02153,33.92265,-4.98153,33.96265",
+    "lbl:latitude":33.939881,
+    "lbl:longitude":-5.008595,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0423\u043b\u0430\u0434 \u0425\u043b\u0438\u0444\u0430"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":33.939881,
+    "reversegeo:longitude":-5.008595,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
         85632693,
         85673887,
-        890454333
+        1108784805,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8629078
     },
     "wof:country":"MA",
-    "wof:geomhash":"adde1646d0dea3b0725d6f22526023a0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1dddd41718b2987e179d68bd36362037",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
-            "county_id":890454333,
+            "county_id":1108784805,
             "locality_id":1360103523,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1360103523,
+            "region_id":1796661365
         }
     ],
     "wof:id":1360103523,
-    "wof:lastmodified":1566601857,
+    "wof:lastmodified":1669164763,
     "wof:name":"Ouled Khlifa",
-    "wof:parent_id":890454333,
+    "wof:parent_id":1108784805,
     "wof:placetype":"locality",
     "wof:population":200,
     "wof:population_rank":2,
@@ -67,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.00153,
-    33.94265,
-    -5.00153,
-    33.94265
+    -5.020867,
+    33.931688,
+    -4.996526,
+    33.948055
 ],
-  "geometry": {"coordinates":[-5.00153,33.94265],"type":"Point"}
+  "geometry": {"coordinates":[[[-4.997027,33.944256],[-4.996573,33.941456],[-4.996674,33.939718],[-4.996526,33.938756],[-4.996748,33.937498],[-4.997267,33.935907],[-4.997341,33.934093],[-4.997822,33.933057],[-4.997637,33.93228],[-4.998007,33.931762],[-5.001633,33.931688],[-5.003631,33.932169],[-5.00674,33.932169],[-5.007081,33.932761],[-5.011555,33.932918],[-5.015911,33.933507],[-5.016695,33.932133],[-5.018422,33.932565],[-5.020867,33.932828],[-5.020557,33.936433],[-5.020432,33.939168],[-5.019127,33.94097],[-5.018754,33.943145],[-5.019127,33.945569],[-5.018008,33.945694],[-5.016952,33.946812],[-5.016144,33.947061],[-5.016144,33.948055],[-5.014714,33.947247],[-5.013596,33.946999],[-5.013347,33.947558],[-5.011669,33.946626],[-5.010488,33.946812],[-5.010426,33.947185],[-5.009431,33.947185],[-5.008996,33.946937],[-5.006883,33.946999],[-5.006199,33.946502],[-5.004273,33.946626],[-5.003465,33.944761],[-5.000792,33.945072],[-4.999176,33.944513],[-4.997027,33.944256]]],"type":"Polygon"}
 }

@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00081,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.95372,34.57396,-5.95372,34.57396",
-    "geom:latitude":34.57396,
-    "geom:longitude":-5.95372,
+    "geom:bbox":"-5.997547,34.564516,-5.939521,34.588483",
+    "geom:latitude":34.578845,
+    "geom:longitude":-5.96671,
     "iso:country":"MA",
-    "lbl:bbox":"-5.97372,34.55396,-5.93372,34.59396",
+    "lbl:latitude":34.576701,
+    "lbl:longitude":-5.959017,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:und_x_variant":[
@@ -38,12 +39,18 @@
     "qs:qs_id":945037,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1537815,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":34.576701,
+    "reversegeo:longitude":-5.959017,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673897,
+        1796661377,
         890429091
     ],
     "wof:breaches":[],
@@ -54,18 +61,21 @@
     },
     "wof:country":"MA",
     "wof:created":1459009347,
-    "wof:geomhash":"2d6704030de281f5fbeeb26ff614908b",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c3706b6a766c4315ae69d8b9dd7574aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890429091,
             "locality_id":421182777,
-            "region_id":85673897
+            "region_id":1796661377
         }
     ],
     "wof:id":421182777,
-    "wof:lastmodified":1566601978,
+    "wof:lastmodified":1669164775,
     "wof:name":"Mechra Belqsiri",
     "wof:parent_id":890429091,
     "wof:placetype":"locality",
@@ -77,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.95372,
-    34.57396,
-    -5.95372,
-    34.57396
+    -5.997547,
+    34.564516,
+    -5.939521,
+    34.588483
 ],
-  "geometry": {"coordinates":[-5.95372,34.57396],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.940915,34.57381],[-5.949546,34.572151],[-5.951405,34.571088],[-5.952733,34.569761],[-5.954924,34.565445],[-5.955853,34.564516],[-5.958442,34.564516],[-5.961164,34.565644],[-5.969065,34.573877],[-5.970725,34.575271],[-5.972385,34.575337],[-5.979356,34.571885],[-5.982277,34.572084],[-5.993298,34.57713],[-5.99602,34.576798],[-5.996883,34.578391],[-5.997547,34.579786],[-5.99602,34.582574],[-5.993099,34.581379],[-5.992634,34.582242],[-5.990111,34.588483],[-5.969995,34.587421],[-5.959505,34.586026],[-5.951671,34.585761],[-5.942309,34.585163],[-5.939521,34.580582],[-5.940052,34.575337],[-5.940915,34.57381]]],"type":"Polygon"}
 }

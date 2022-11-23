@@ -1,0 +1,75 @@
+{
+  "id": 1796682099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.81977,31.11401,-9.81977,31.11401",
+    "geom:latitude":31.11401,
+    "geom:longitude":-9.81977,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Id Ou Truane",
+    "gn:country_code":"MA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10427819,
+    "gn:latitude":31.11401,
+    "gn:longitude":-9.81977,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Id Ou Truane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-9.83977,31.09401,-9.79977,31.13401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421195281,
+        890453939,
+        1796661373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10427819
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"625c868f172ef7f05e9017aa2a021e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453939,
+            "locality_id":421195281,
+            "neighbourhood_id":1796682099,
+            "region_id":1796661373
+        }
+    ],
+    "wof:id":1796682099,
+    "wof:lastmodified":1669163200,
+    "wof:name":"Id Ou Truane",
+    "wof:parent_id":421195281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343851469
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.81977,
+    31.11401,
+    -9.81977,
+    31.11401
+],
+  "geometry": {"coordinates":[-9.81977,31.11401],"type":"Point"}
+}

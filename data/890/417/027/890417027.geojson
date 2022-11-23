@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0647\u0631\u0627\u0648\u064a\u064a\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u0647\u0631\u0627\u0648\u064a\u064a\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0445\u0440\u0430\u043e\u0443\u0438\u0439\u043d\u0435"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Lahraouyine"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0647\u0631\u0627\u0648\u064a\u064a\u0646"
     ],
     "name:fra_x_preferred":[
         "Lahraouyine"
@@ -68,7 +74,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673905,
+        1796661359,
         890424151
     ],
     "wof:breaches":[],
@@ -87,11 +93,11 @@
             "country_id":85632693,
             "county_id":890424151,
             "localadmin_id":890417027,
-            "region_id":85673905
+            "region_id":1796661359
         }
     ],
     "wof:id":890417027,
-    "wof:lastmodified":1566602037,
+    "wof:lastmodified":1669163500,
     "wof:name":"Lahraouyine",
     "wof:parent_id":890424151,
     "wof:placetype":"localadmin",

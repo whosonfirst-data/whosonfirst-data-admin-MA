@@ -1,0 +1,75 @@
+{
+  "id": 1796682041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.32067,34.89823,-2.32067,34.89823",
+    "geom:latitude":34.89823,
+    "geom:longitude":-2.32067,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Ouaoullout",
+    "gn:country_code":"MA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956961,
+    "gn:latitude":34.89823,
+    "gn:longitude":-2.32067,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Ouaoullout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-2.34067,34.87823,-2.30067,34.91823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190023,
+        1108784771,
+        1796661375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956961
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8fef1f61ca9dfbc18a83d585455de238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784771,
+            "locality_id":421190023,
+            "neighbourhood_id":1796682041,
+            "region_id":1796661375
+        }
+    ],
+    "wof:id":1796682041,
+    "wof:lastmodified":1669160047,
+    "wof:name":"Douar Ouaoullout",
+    "wof:parent_id":421190023,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343969891
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.32067,
+    34.89823,
+    -2.32067,
+    34.89823
+],
+  "geometry": {"coordinates":[-2.32067,34.89823],"type":"Point"}
+}

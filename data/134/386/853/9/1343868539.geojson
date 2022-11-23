@@ -36,9 +36,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -49,15 +46,15 @@
     "wof:geomhash":"88ee83c8aa61e8f143771a8be02a6d4c",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1343868539,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1343868539,
-    "wof:lastmodified":1566600134,
+    "wof:lastmodified":1669156250,
     "wof:name":"Ait Ouzzal",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

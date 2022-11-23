@@ -1,0 +1,75 @@
+{
+  "id": 1796682337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.00824,35.43928,-6.00824,35.43928",
+    "geom:latitude":35.43928,
+    "geom:longitude":-6.00824,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Dhiouer",
+    "gn:country_code":"MA",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8473399,
+    "gn:latitude":35.43928,
+    "gn:longitude":-6.00824,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Douar Dhiouer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.02824,35.41928,-5.98824,35.45928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421181803,
+        1108784783,
+        1796661381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8473399
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"30739ca98a4592917b2347e9fb110e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":421181803,
+            "neighbourhood_id":1796682337,
+            "region_id":1796661381
+        }
+    ],
+    "wof:id":1796682337,
+    "wof:lastmodified":1669161798,
+    "wof:name":"Douar Dhiouer",
+    "wof:parent_id":421181803,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293111793
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.00824,
+    35.43928,
+    -6.00824,
+    35.43928
+],
+  "geometry": {"coordinates":[-6.00824,35.43928],"type":"Point"}
+}

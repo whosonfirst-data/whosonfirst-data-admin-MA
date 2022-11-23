@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"9f0fd2c4e853d0b09bb8aaf39d9bee76",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1243356983,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1243356983,
-    "wof:lastmodified":1566602304,
+    "wof:lastmodified":1669155547,
     "wof:name":"Douar Nchidat",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

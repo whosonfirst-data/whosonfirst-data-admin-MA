@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0645\u0633\u0627\u0639\u062f\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0633\u0627\u0639\u062f\u0629"
+    ],
     "name:cat_x_preferred":[
         "M'Saada"
     ],
@@ -36,7 +39,8 @@
     ],
     "name:fra_x_variant":[
         "M Saada (CR)",
-        "M Saada (Commune Rurale)"
+        "M Saada (Commune Rurale)",
+        "M'Saada"
     ],
     "name:ita_x_preferred":[
         "M'Saada"
@@ -50,7 +54,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673897,
+        1796661377,
         1108784809
     ],
     "wof:breaches":[],
@@ -69,11 +73,11 @@
             "country_id":85632693,
             "county_id":1108784809,
             "localadmin_id":890454319,
-            "region_id":85673897
+            "region_id":1796661377
         }
     ],
     "wof:id":890454319,
-    "wof:lastmodified":1566602028,
+    "wof:lastmodified":1669164651,
     "wof:name":"M Saada",
     "wof:parent_id":1108784809,
     "wof:placetype":"localadmin",

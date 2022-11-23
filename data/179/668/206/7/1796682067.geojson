@@ -1,0 +1,80 @@
+{
+  "id": 1796682067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8495,35.13094,-3.8495,35.13094",
+    "geom:latitude":35.13094,
+    "geom:longitude":-3.8495,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Douar Bouslama",
+    "gn:country_code":"MA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2554035,
+    "gn:latitude":35.13094,
+    "gn:longitude":-3.8495,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Douar Bouslama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-3.8695,35.11094,-3.8295,35.15094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Buselama",
+        "Bouselama",
+        "Douar Bouslama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1259792779,
+        890429097,
+        1796661381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2554035
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"92cdd4677b0c31ec7f71f4e10b8fc534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429097,
+            "locality_id":1259792779,
+            "neighbourhood_id":1796682067,
+            "region_id":1796661381
+        }
+    ],
+    "wof:id":1796682067,
+    "wof:lastmodified":1669161798,
+    "wof:name":"Douar Bouslama",
+    "wof:parent_id":1259792779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344067185
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8495,
+    35.13094,
+    -3.8495,
+    35.13094
+],
+  "geometry": {"coordinates":[-3.8495,35.13094],"type":"Point"}
+}

@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0628\u0648\u0633\u0643\u0648\u0631\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0648\u0633\u0643\u0648\u0631\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0633\u0643\u0648\u0631\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0633\u06a9\u0648\u0631\u0647"
     ],
@@ -50,6 +56,9 @@
         "Bouskoura (CR)",
         "Bouskoura (Commune Rurale)"
     ],
+    "name:gle_x_preferred":[
+        "Bouskoura"
+    ],
     "name:ita_x_preferred":[
         "Bouskoura"
     ],
@@ -59,11 +68,20 @@
     "name:nld_x_preferred":[
         "Bouskoura"
     ],
+    "name:nob_x_preferred":[
+        "Bouskoura"
+    ],
     "name:por_x_preferred":[
         "Bouskoura"
     ],
+    "name:shi_x_preferred":[
+        "Buskura"
+    ],
     "name:swe_x_preferred":[
         "Bouskoura"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0441\u043a\u0443\u0440\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0633\u06a9\u0648\u0631\u06c1"
@@ -82,7 +100,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673901,
+        1796661359,
         890424145
     ],
     "wof:breaches":[],
@@ -101,11 +119,11 @@
             "country_id":85632693,
             "county_id":890424145,
             "localadmin_id":890417033,
-            "region_id":85673901
+            "region_id":1796661359
         }
     ],
     "wof:id":890417033,
-    "wof:lastmodified":1566602038,
+    "wof:lastmodified":1669163503,
     "wof:name":"Bouskoura",
     "wof:parent_id":890424145,
     "wof:placetype":"localadmin",

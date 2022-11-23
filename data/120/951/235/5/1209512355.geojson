@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661359,
+        890436421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"d4f8a91c82df78faa4926b1752b2b3f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209512355
+            "county_id":890436421,
+            "locality_id":1209512355,
+            "region_id":1796661359
         }
     ],
     "wof:id":1209512355,
-    "wof:lastmodified":1566601145,
+    "wof:lastmodified":1669156935,
     "wof:name":"Douar Rouaga Lammarfa",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890436421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

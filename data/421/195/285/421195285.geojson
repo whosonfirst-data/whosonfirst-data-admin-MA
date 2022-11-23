@@ -4,13 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001437,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.67037,31.5642,-7.67037,31.5642",
-    "geom:latitude":31.5642,
-    "geom:longitude":-7.67037,
+    "geom:bbox":"-7.701705,31.543478,-7.643836,31.579531",
+    "geom:latitude":31.561325,
+    "geom:longitude":-7.671792,
     "iso:country":"MA",
-    "lbl:bbox":"-7.69037,31.5442,-7.65037,31.5842",
+    "lbl:latitude":31.562671,
+    "lbl:longitude":-7.672343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -23,6 +24,9 @@
     "name:ara_x_variant":[
         "\u0622\u064a\u062a \u0623\u0648\u0631\u064a\u0631"
     ],
+    "name:ary_x_preferred":[
+        "\u0622\u064a\u062a \u0648\u0631\u064a\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u0622\u06cc\u062a \u0648\u0631\u06cc\u0631"
     ],
@@ -30,6 +34,9 @@
         "Ait Ourir"
     ],
     "name:ceb_x_preferred":[
+        "A\u00eft Ourir"
+    ],
+    "name:deu_x_preferred":[
         "A\u00eft Ourir"
     ],
     "name:eng_x_preferred":[
@@ -49,6 +56,9 @@
     ],
     "name:por_x_preferred":[
         "Ait Ourir"
+    ],
+    "name:shi_x_preferred":[
+        "Ayt Urir"
     ],
     "name:swe_x_preferred":[
         "A\u00eft Ourir"
@@ -77,11 +87,17 @@
     "qs:qs_id":140548,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1530850,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":31.562671,
+    "reversegeo:longitude":-7.672343,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673933,
+        1796661373,
         1108784801
     ],
     "wof:breaches":[],
@@ -94,18 +110,21 @@
     },
     "wof:country":"MA",
     "wof:created":1459009838,
-    "wof:geomhash":"b9745eb9338da2bcf3ce7d952dc0729f",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e9bc1f920ab8925515635608a8a9a2cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784801,
             "locality_id":421195285,
-            "region_id":85673933
+            "region_id":1796661373
         }
     ],
     "wof:id":421195285,
-    "wof:lastmodified":1566601968,
+    "wof:lastmodified":1669161860,
     "wof:name":"\u0627\u064a\u062a \u0627\u0648\u0631\u064a\u0631",
     "wof:parent_id":1108784801,
     "wof:placetype":"locality",
@@ -115,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.67037,
-    31.5642,
-    -7.67037,
-    31.5642
+    -7.701705,
+    31.543478,
+    -7.643836,
+    31.579531
 ],
-  "geometry": {"coordinates":[-7.67037,31.5642],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.647711,31.57077],[-7.648048,31.564958],[-7.647206,31.563779],[-7.646953,31.559651],[-7.647206,31.556114],[-7.644847,31.550049],[-7.644089,31.549038],[-7.643836,31.54769],[-7.647121,31.547353],[-7.649985,31.546427],[-7.654618,31.545584],[-7.656724,31.543478],[-7.66102,31.544826],[-7.665316,31.547016],[-7.672981,31.547016],[-7.678793,31.548954],[-7.684269,31.549712],[-7.686374,31.549712],[-7.692945,31.548701],[-7.696735,31.547943],[-7.700863,31.549206],[-7.701705,31.550975],[-7.699768,31.55544],[-7.696314,31.559483],[-7.693366,31.566306],[-7.692439,31.570686],[-7.693534,31.572623],[-7.693197,31.575403],[-7.690755,31.577425],[-7.681489,31.579446],[-7.677783,31.579531],[-7.674329,31.578857],[-7.669612,31.577593],[-7.660346,31.574729],[-7.656893,31.573718],[-7.654702,31.573213],[-7.651165,31.572876],[-7.647711,31.57077]]],"type":"Polygon"}
 }

@@ -4,25 +4,448 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.010949,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.803527,35.78385,-5.803527,35.78385",
-    "geom:latitude":35.78385,
-    "geom:longitude":-5.803527,
+    "geom:bbox":"-5.942508,35.708029,-5.733967,35.820327",
+    "geom:latitude":35.765022,
+    "geom:longitude":-5.836452,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA",
+    "gn:population":688356,
     "iso:country":"MA",
-    "lbl:bbox":"-5.823527,35.76385,-5.783527,35.80385",
+    "lbl:latitude":35.75894,
+    "lbl:longitude":-5.829375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ace_x_preferred":[
+        "Thanjah"
+    ],
+    "name:afr_x_preferred":[
+        "Tangier"
+    ],
     "name:ara_x_preferred":[
         "\u0637\u0646\u062c\u0629"
+    ],
+    "name:arg_x_preferred":[
+        "T\u00e1ncher"
+    ],
+    "name:ary_x_preferred":[
+        "\u0637\u0627\u0646\u062c\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0637\u0646\u062c\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "T\u00e1nger"
+    ],
+    "name:ast_x_variant":[
+        "T\u00e1nxer"
+    ],
+    "name:azb_x_preferred":[
+        "\u0637\u0646\u062c\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Tanjer"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043d\u0436\u044d\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09a8\u099c\u09be\u09b9"
+    ],
+    "name:bos_x_preferred":[
+        "Tanger"
+    ],
+    "name:bre_x_preferred":[
+        "Tanger"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u043d\u0436\u0435\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Tingis"
+    ],
+    "name:cat_x_variant":[
+        "T\u00e0nger"
+    ],
+    "name:ceb_x_preferred":[
+        "Tanger-Assilah"
+    ],
+    "name:ces_x_preferred":[
+        "Tanger"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u043d\u0436\u0435\u0440"
+    ],
+    "name:crh_x_preferred":[
+        "Tancer"
+    ],
+    "name:cym_x_preferred":[
+        "Tanger"
+    ],
+    "name:dan_x_preferred":[
+        "Tanger"
+    ],
+    "name:deu_x_preferred":[
+        "Tanger"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03b3\u03b3\u03ad\u03c1\u03b7"
     ],
     "name:eng_x_preferred":[
         "Tangier"
     ],
+    "name:epo_x_preferred":[
+        "Tan\u011dero"
+    ],
+    "name:est_x_preferred":[
+        "Tanger"
+    ],
+    "name:eus_x_preferred":[
+        "Tanger"
+    ],
+    "name:ext_x_preferred":[
+        "Tangi"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0646\u06af\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0637\u0646\u062c\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Tanger"
+    ],
+    "name:fra_x_preferred":[
+        "Tanger"
+    ],
+    "name:frr_x_preferred":[
+        "Tanger"
+    ],
+    "name:gle_x_preferred":[
+        "Tangier"
+    ],
+    "name:glg_x_preferred":[
+        "T\u00e1nxer - \u0637\u0646\u062c\u0629"
+    ],
+    "name:glg_x_variant":[
+        "T\u00e1nxer"
+    ],
+    "name:grn_x_preferred":[
+        "T\u00e1nger"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0ac7\u0a82\u0a9c\u0abf\u0aaf\u0ab0"
+    ],
+    "name:hau_x_preferred":[
+        "Tanja"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e0\u05d2'\u05d9\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0902\u0917\u0947\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Tanger"
+    ],
+    "name:hun_x_preferred":[
+        "Tanger"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0576\u056a\u0565\u0580"
+    ],
+    "name:ina_x_preferred":[
+        "Tanger"
+    ],
+    "name:ind_x_preferred":[
+        "Tangier"
+    ],
+    "name:ita_x_preferred":[
+        "Tangeri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f3\u30b8\u30a7"
+    ],
+    "name:kab_x_preferred":[
+        "Tin Iggi"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0ccd\u0caf\u0cbe\u0c82\u0c9c\u0cbf\u0caf\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10dc\u10df\u10d4\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u043d\u0436\u0435\u0440 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0d5\ud5e4\ub974"
+    ],
+    "name:krc_x_preferred":[
+        "\u0422\u0430\u043d\u0436\u0435\u0440"
+    ],
+    "name:lad_x_preferred":[
+        "Tanjer"
+    ],
+    "name:lat_x_preferred":[
+        "Tingis"
+    ],
+    "name:lav_x_preferred":[
+        "Tan\u017eera"
+    ],
+    "name:lit_x_preferred":[
+        "Tan\u017eeras"
+    ],
+    "name:lmo_x_preferred":[
+        "Tanger"
+    ],
+    "name:ltz_x_preferred":[
+        "Tanger"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d3e\u0d7b\u0d1c\u0d40\u0d7c"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u0901\u091c\u093f\u092f\u0930"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u043d\u0433\u0435\u0440"
+    ],
+    "name:mon_x_preferred":[
+        "\u0422\u0430\u043d\u0436\u0435\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Tangier"
+    ],
+    "name:mya_x_preferred":[
+        "\u1010\u1014\u103a\u1002\u103b\u102e\u1038\u101a\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Tanger"
+    ],
+    "name:nno_x_preferred":[
+        "Tanger"
+    ],
+    "name:nob_x_preferred":[
+        "Tanger"
+    ],
+    "name:oci_x_preferred":[
+        "T\u00e0nger"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0430\u043d\u0436\u0435\u0440"
+    ],
+    "name:pms_x_preferred":[
+        "Tanger"
+    ],
+    "name:pol_x_preferred":[
+        "Tanger"
+    ],
+    "name:por_x_preferred":[
+        "T\u00e2nger"
+    ],
+    "name:ron_x_preferred":[
+        "Tanger"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043d\u0436\u0435\u0440"
+    ],
+    "name:scn_x_preferred":[
+        "Tangeri"
+    ],
+    "name:sco_x_preferred":[
+        "Tangier"
+    ],
+    "name:shi_x_preferred":[
+        "Tanja"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dd0\u0db1\u0dca\u0da2\u0dba\u0dbb\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Tanger"
+    ],
+    "name:sna_x_preferred":[
+        "Tangier"
+    ],
+    "name:spa_x_preferred":[
+        "T\u00e1nger"
+    ],
+    "name:srd_x_preferred":[
+        "Tangeri"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u043d\u0433\u0435\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Tanger"
+    ],
+    "name:swe_x_preferred":[
+        "Tanger"
+    ],
+    "name:szl_x_preferred":[
+        "Tanger"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0ba9\u0bcd\u0b95\u0bbf\u0b8f\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u04d9\u043d\u0497\u04d9"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4d\u0c2f\u0c3e\u0c02\u0c1c\u0c3f\u0c2f\u0c30\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0430\u043d\u04b7\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Tangher"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e17\u0e19\u0e40\u0e01\u0e35\u0e22\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Tanca"
+    ],
+    "name:twi_x_preferred":[
+        "Tanger"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043d\u0436\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u0646\u062c\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Tanjer"
+    ],
+    "name:vec_x_preferred":[
+        "Tangeri"
+    ],
+    "name:vie_x_preferred":[
+        "Tangier"
+    ],
+    "name:vls_x_preferred":[
+        "Tanger"
+    ],
+    "name:war_x_preferred":[
+        "Tangier"
+    ],
+    "name:wln_x_preferred":[
+        "Tandj\u00ee"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e39\u5409\u5c14"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10d0\u10dc\u10df\u10d4\u10e0\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05d0\u05e0\u05d6\u05e9\u05d9\u05e8"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e39\u5409\u723e"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u5409\u5c14"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Morocco",
+    "ne:ADM0_A3":"MAR",
+    "ne:ADM1NAME":"Tanger - T\u00e9touan",
+    "ne:ADMIN1_COD":57,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":2530335,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"Tangier",
+    "ne:GN_POP":688356,
+    "ne:GTOPO30":80.0,
+    "ne:ISO_A2":"MA",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":35.747287,
+    "ne:LONGITUDE":-5.832704,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Tangier",
+    "ne:MAX_AREAKM":141.0,
+    "ne:MAX_AREAMI":55.0,
+    "ne:MAX_BBXMAX":-5.658333,
+    "ne:MAX_BBXMIN":-5.933333,
+    "ne:MAX_BBYMAX":35.833333,
+    "ne:MAX_BBYMIN":35.641667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":170.0,
+    "ne:MAX_PERMI":106.0,
+    "ne:MAX_POP10":750060,
+    "ne:MAX_POP20":750060,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-5.827566,
+    "ne:MEAN_BBYC":35.746942,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":141.0,
+    "ne:MIN_AREAMI":55.0,
+    "ne:MIN_BBXMAX":-5.658333,
+    "ne:MIN_BBXMIN":-5.933333,
+    "ne:MIN_BBYMAX":35.833333,
+    "ne:MIN_BBYMIN":35.641667,
+    "ne:MIN_PERKM":170.0,
+    "ne:MIN_PERMI":106.0,
+    "ne:NAME":"Tangier",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Tangier",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":750060,
+    "ne:POP_MIN":688356,
+    "ne:POP_OTHER":739823,
+    "ne:RANK_MAX":11,
+    "ne:RANK_MIN":11,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Morocco",
+    "ne:SOV_A3":"MAR",
+    "ne:TIMEZONE":"Africa/Casablanca",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -41,43 +464,59 @@
     "qs:qs_id":1118303,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1540935,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":35.75894,
+    "reversegeo:longitude":-5.829375,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673883
+        1796661381,
+        1108784783
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2530335,
         "gp:id":1540935,
-        "qs_pg:id":1118303
+        "qs_pg:id":1118303,
+        "wd:id":"Q126148",
+        "wk:page":"Tangier"
     },
     "wof:country":"MA",
     "wof:created":1459009648,
-    "wof:geomhash":"4d05cad63458089066b87d91214adca9",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"275fd1cefef2b7f8043870fa60b1ad86",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
+            "county_id":1108784783,
             "locality_id":421190123,
-            "region_id":85673883
+            "region_id":1796661381
         }
     ],
     "wof:id":421190123,
-    "wof:lastmodified":1601423093,
+    "wof:lastmodified":1669161842,
     "wof:name":"Tangier",
-    "wof:parent_id":85673883,
+    "wof:parent_id":1108784783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890434663
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -5.803527,
-    35.78385,
-    -5.803527,
-    35.78385
+    -5.942508,
+    35.708029,
+    -5.733967,
+    35.820327
 ],
-  "geometry": {"coordinates":[-5.803527,35.78385],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.84823,35.801556],[-5.844815,35.798342],[-5.841432,35.797266],[-5.838511,35.79742],[-5.837281,35.795268],[-5.833518,35.793627],[-5.830163,35.794869],[-5.825347,35.794869],[-5.824197,35.793813],[-5.821198,35.792335],[-5.814835,35.791731],[-5.812837,35.794038],[-5.801921,35.79496],[-5.80023,35.793115],[-5.79408,35.792808],[-5.791005,35.790963],[-5.79654,35.788349],[-5.79408,35.784352],[-5.795925,35.783122],[-5.798385,35.781431],[-5.794849,35.778202],[-5.787008,35.776665],[-5.780858,35.777433],[-5.769328,35.782661],[-5.76656,35.784198],[-5.766868,35.785582],[-5.763639,35.786965],[-5.761641,35.788503],[-5.759642,35.789733],[-5.758412,35.791731],[-5.75749,35.792808],[-5.75626,35.795421],[-5.755491,35.797727],[-5.752262,35.798035],[-5.751494,35.798957],[-5.749649,35.801571],[-5.749956,35.803877],[-5.749188,35.804338],[-5.748573,35.806029],[-5.748726,35.806491],[-5.748111,35.808643],[-5.748726,35.810642],[-5.748111,35.811257],[-5.749034,35.812179],[-5.750571,35.812794],[-5.751032,35.814331],[-5.75011,35.816176],[-5.751647,35.817253],[-5.75011,35.818482],[-5.746728,35.819097],[-5.743499,35.819559],[-5.740117,35.818329],[-5.738426,35.81879],[-5.738272,35.820174],[-5.735351,35.820327],[-5.734275,35.819251],[-5.733967,35.816638],[-5.736273,35.814639],[-5.736273,35.812179],[-5.738118,35.811564],[-5.738733,35.81018],[-5.738733,35.808489],[-5.739809,35.807874],[-5.7415,35.806952],[-5.738773,35.801019],[-5.743192,35.79127],[-5.74463,35.788566],[-5.749282,35.770716],[-5.74525,35.761673],[-5.747205,35.752265],[-5.748915,35.74921],[-5.765964,35.734387],[-5.794859,35.736502],[-5.796814,35.733203],[-5.800114,35.724894],[-5.80048,35.714141],[-5.802802,35.710964],[-5.806099,35.708029],[-5.8105,35.70852],[-5.813433,35.711697],[-5.816121,35.716829],[-5.817587,35.722572],[-5.826874,35.721961],[-5.832983,35.724527],[-5.837749,35.723794],[-5.84227,35.72526],[-5.846302,35.729293],[-5.854122,35.728926],[-5.860843,35.729781],[-5.864753,35.730881],[-5.867197,35.733081],[-5.870374,35.734669],[-5.873024,35.743704],[-5.87884,35.755948],[-5.883082,35.760574],[-5.89078,35.763751],[-5.897378,35.763384],[-5.90547,35.759315],[-5.911308,35.755808],[-5.914653,35.748908],[-5.919551,35.741867],[-5.931794,35.740949],[-5.942508,35.744622],[-5.938222,35.757478],[-5.940365,35.760539],[-5.93761,35.762988],[-5.934855,35.775538],[-5.932407,35.775538],[-5.93057,35.779517],[-5.932713,35.78166],[-5.931182,35.784415],[-5.929346,35.789925],[-5.925672,35.793292],[-5.919857,35.793598],[-5.917102,35.796046],[-5.91649,35.797577],[-5.909449,35.799413],[-5.909449,35.801862],[-5.904858,35.802168],[-5.902103,35.800944],[-5.892614,35.801862],[-5.887716,35.802781],[-5.886186,35.800026],[-5.882207,35.799413],[-5.881901,35.797577],[-5.873024,35.798495],[-5.869657,35.799413],[-5.866902,35.797883],[-5.862004,35.796965],[-5.86078,35.798495],[-5.857413,35.797883],[-5.850373,35.798495],[-5.849148,35.798495],[-5.84823,35.801556]]],"type":"Polygon"}
 }

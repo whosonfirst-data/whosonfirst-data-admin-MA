@@ -35,7 +35,8 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673951
+        85673951,
+        1796661361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +50,18 @@
             "country_id":85632693,
             "locality_id":1293760273,
             "region_id":85673951
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1293760273,
+            "region_id":1796661361
         }
     ],
     "wof:id":1293760273,
-    "wof:lastmodified":1566600286,
+    "wof:lastmodified":1669162637,
     "wof:name":"Oum Tlayha",
-    "wof:parent_id":85673951,
+    "wof:parent_id":-4,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

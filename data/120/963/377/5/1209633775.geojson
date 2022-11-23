@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661363,
+        1108784839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"0e8232c9ded2a7574d8adc533327dfd8",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209633775
+            "county_id":1108784839,
+            "locality_id":1209633775,
+            "region_id":1796661363
         }
     ],
     "wof:id":1209633775,
-    "wof:lastmodified":1566600956,
+    "wof:lastmodified":1669157566,
     "wof:name":"Tach'oufit",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

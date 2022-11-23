@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"fe59e88aefff8e29235dd8de3a1a402d",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1276645367,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1276645367,
-    "wof:lastmodified":1566600821,
+    "wof:lastmodified":1669156281,
     "wof:name":"Irs Moukene",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

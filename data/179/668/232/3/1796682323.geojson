@@ -1,0 +1,75 @@
+{
+  "id": 1796682323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13701,31.23231,-6.13701,31.23231",
+    "geom:latitude":31.23231,
+    "geom:longitude":-6.13701,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zawit Agard",
+    "gn:country_code":"MA",
+    "gn:dem":1431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951613,
+    "gn:latitude":31.23231,
+    "gn:longitude":-6.13701,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zawit Agard",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.15701,31.21231,-6.11701,31.25231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190033,
+        1108784839,
+        1796661363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951613
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"dc82e5b3b0e0396829a4beac8d16fba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":421190033,
+            "neighbourhood_id":1796682323,
+            "region_id":1796661363
+        }
+    ],
+    "wof:id":1796682323,
+    "wof:lastmodified":1669157821,
+    "wof:name":"Zawit Agard",
+    "wof:parent_id":421190033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1292990843
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13701,
+    31.23231,
+    -6.13701,
+    31.23231
+],
+  "geometry": {"coordinates":[-6.13701,31.23231],"type":"Point"}
+}

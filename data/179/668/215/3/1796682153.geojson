@@ -1,0 +1,75 @@
+{
+  "id": 1796682153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.4076,31.65307,-6.4076,31.65307",
+    "geom:latitude":31.65307,
+    "geom:longitude":-6.4076,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ait Imi",
+    "gn:country_code":"MA",
+    "gn:dem":1883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559781,
+    "gn:latitude":31.65307,
+    "gn:longitude":-6.4076,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Imi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.4276,31.63307,-6.3876,31.67307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421202459,
+        1108784827,
+        1796661357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559781
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"70bff04d04c12e38bb2cc7b10fdc28ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784827,
+            "locality_id":421202459,
+            "neighbourhood_id":1796682153,
+            "region_id":1796661357
+        }
+    ],
+    "wof:id":1796682153,
+    "wof:lastmodified":1669156884,
+    "wof:name":"Ait Imi",
+    "wof:parent_id":421202459,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344167341
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.4076,
+    31.65307,
+    -6.4076,
+    31.65307
+],
+  "geometry": {"coordinates":[-6.4076,31.65307],"type":"Point"}
+}

@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890440847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"4de4d78f7f0c06605fad099330917cd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209229581
+            "county_id":890440847,
+            "locality_id":1209229581,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209229581,
-    "wof:lastmodified":1566601073,
+    "wof:lastmodified":1669159265,
     "wof:name":"Amsissene",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890440847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

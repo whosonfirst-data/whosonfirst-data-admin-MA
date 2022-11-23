@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661357,
+        890422519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"3fa6af31e7da7e056bd2eb39385ecb6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209307771
+            "county_id":890422519,
+            "locality_id":1209307771,
+            "region_id":1796661357
         }
     ],
     "wof:id":1209307771,
-    "wof:lastmodified":1566600947,
+    "wof:lastmodified":1669156529,
     "wof:name":"Dchar beni Aissa",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890422519,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

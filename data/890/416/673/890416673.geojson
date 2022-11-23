@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0648\u0627\u062f \u0644\u0648"
     ],
+    "name:ary_x_preferred":[
+        "\u0648\u0627\u062f \u0644\u0627\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u0627\u062f\u0649 \u0644\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u0648\u0627\u062f \u0644\u0648"
     ],
@@ -56,8 +62,14 @@
     "name:nob_x_preferred":[
         "Oued Laou"
     ],
+    "name:shi_x_preferred":[
+        "Wad Law"
+    ],
     "name:spa_x_preferred":[
         "Oued Laou"
+    ],
+    "name:spa_x_variant":[
+        "Uad Lau"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u062f \u0644\u0627\u0648"
@@ -73,7 +85,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673883,
+        1796661381,
         890421483
     ],
     "wof:breaches":[],
@@ -92,11 +104,11 @@
             "country_id":85632693,
             "county_id":890421483,
             "localadmin_id":890416673,
-            "region_id":85673883
+            "region_id":1796661381
         }
     ],
     "wof:id":890416673,
-    "wof:lastmodified":1566602044,
+    "wof:lastmodified":1669163403,
     "wof:name":"Oued Laou",
     "wof:parent_id":890421483,
     "wof:placetype":"localadmin",

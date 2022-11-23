@@ -4,28 +4,283 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.005312,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.61919,33.001825,-7.61919,33.001825",
-    "geom:latitude":33.001825,
-    "geom:longitude":-7.61919,
+    "geom:bbox":"-7.679587,32.959792,-7.576121,33.036468",
+    "geom:latitude":32.995482,
+    "geom:longitude":-7.627858,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA",
+    "gn:population":119082,
     "iso:country":"MA",
-    "lbl:bbox":"-7.63919,32.981825,-7.59919,33.021825",
+    "lbl:latitude":32.998259,
+    "lbl:longitude":-7.623671,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0637\u0627\u062a"
     ],
+    "name:ary_x_preferred":[
+        "\u0633\u0637\u0627\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0637\u0627\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0637\u0627\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u0442\u0430\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a4\u09be\u09a4"
+    ],
+    "name:cat_x_preferred":[
+        "Settat"
+    ],
+    "name:ceb_x_preferred":[
+        "Settat"
+    ],
+    "name:cym_x_preferred":[
+        "Settat"
+    ],
+    "name:dan_x_preferred":[
+        "Settat"
+    ],
+    "name:deu_x_preferred":[
+        "Settat"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03c4\u03ac\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Settat"
+    ],
+    "name:epo_x_preferred":[
+        "Settat"
+    ],
+    "name:eus_x_preferred":[
+        "Settat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0637\u0627\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Settat"
+    ],
+    "name:fra_x_preferred":[
+        "Settat"
+    ],
+    "name:gle_x_preferred":[
+        "Settat"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab8\u0ac7\u0ab2\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d0\u05ea"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0924\u0924"
     ],
     "name:hun_x_preferred":[
         "Settat"
     ],
+    "name:ind_x_preferred":[
+        "Settat"
+    ],
+    "name:ita_x_preferred":[
+        "Settat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30bf\u30c3\u30c8"
+    ],
+    "name:kab_x_preferred":[
+        "A\u1e93e\u1e6d\u1e6da\u1e0d"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc6\u0c9f\u0ccd\u0c9f\u0cbe\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\ud0c0\ud2b8"
+    ],
+    "name:lat_x_preferred":[
+        "Settat"
+    ],
+    "name:lav_x_preferred":[
+        "Setata"
+    ],
+    "name:lit_x_preferred":[
+        "Setatas"
+    ],
+    "name:ltz_x_preferred":[
+        "Settat"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u091f\u091f\u0945\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Settat"
+    ],
+    "name:nld_x_preferred":[
+        "Settat"
+    ],
+    "name:nob_x_preferred":[
+        "Settat"
+    ],
+    "name:pol_x_preferred":[
+        "Sattat"
+    ],
+    "name:por_x_preferred":[
+        "Settat"
+    ],
+    "name:ron_x_preferred":[
+        "Settat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0442\u0442\u0430\u0442"
+    ],
+    "name:shi_x_preferred":[
+        "Sttat"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd9\u0da7\u0dca\u0da7\u0da7\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Settat"
+    ],
+    "name:swa_x_preferred":[
+        "Settat"
+    ],
+    "name:swe_x_preferred":[
+        "Settat"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0b9f\u0bcd\u0b9f\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c47\u0c24\u0c24\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e35\u0e41\u0e17\u0e47\u0e04"
+    ],
+    "name:tur_x_preferred":[
+        "Settat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0442\u0442\u0430\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0644\u0637\u0627\u062a"
+    ],
+    "name:vec_x_preferred":[
+        "Settat"
+    ],
+    "name:vie_x_preferred":[
+        "Settat"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5854\u7279"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Morocco",
+    "ne:ADM0_A3":"MAR",
+    "ne:ADM1NAME":"Chaouia - Ouardigha",
+    "ne:ADMIN1_COD":50,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":2537406,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Settat",
+    "ne:GN_POP":119082,
+    "ne:GTOPO30":403.0,
+    "ne:ISO_A2":"MA",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":33.010426,
+    "ne:LONGITUDE":-7.620011,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Settat",
+    "ne:MAX_AREAKM":27.0,
+    "ne:MAX_AREAMI":10.0,
+    "ne:MAX_BBXMAX":-7.575,
+    "ne:MAX_BBXMIN":-7.65,
+    "ne:MAX_BBYMAX":33.05,
+    "ne:MAX_BBYMIN":32.966667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":41.0,
+    "ne:MAX_PERMI":26.0,
+    "ne:MAX_POP10":161748,
+    "ne:MAX_POP20":161748,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-7.613176,
+    "ne:MEAN_BBYC":33.005293,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":27.0,
+    "ne:MIN_AREAMI":10.0,
+    "ne:MIN_BBXMAX":-7.575,
+    "ne:MIN_BBXMIN":-7.65,
+    "ne:MIN_BBYMAX":33.05,
+    "ne:MIN_BBYMIN":32.966667,
+    "ne:MIN_PERKM":41.0,
+    "ne:MIN_PERMI":26.0,
+    "ne:NAME":"Settat",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Settat",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":161748,
+    "ne:POP_MIN":119082,
+    "ne:POP_OTHER":160686,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Morocco",
+    "ne:SOV_A3":"MAR",
+    "ne:TIMEZONE":"Africa/Casablanca",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -44,45 +299,59 @@
     "qs:qs_id":1118291,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1539637,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":32.998259,
+    "reversegeo:longitude":-7.623671,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673901,
+        1796661359,
         1108784833
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2537406,
         "gp:id":1539637,
-        "qs_pg:id":1118291
+        "qs_pg:id":1118291,
+        "wd:id":"Q818019",
+        "wk:page":"Settat"
     },
     "wof:country":"MA",
     "wof:created":1459009646,
-    "wof:geomhash":"731c29d259d6a10e78285f6ffc9d77d1",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"086abe43c5fcd2dcc7bd0b6375994a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784833,
             "locality_id":421190099,
-            "region_id":85673901
+            "region_id":1796661359
         }
     ],
     "wof:id":421190099,
-    "wof:lastmodified":1636494992,
+    "wof:lastmodified":1669161837,
     "wof:name":"Settat",
     "wof:parent_id":1108784833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890432365
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -7.61919,
-    33.001825,
-    -7.61919,
-    33.001825
+    -7.679587,
+    32.959792,
+    -7.576121,
+    33.036468
 ],
-  "geometry": {"coordinates":[-7.61919,33.001825],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.593443,33.024921],[-7.585821,33.002056],[-7.584435,32.998823],[-7.579124,32.993742],[-7.576121,32.985428],[-7.576352,32.978268],[-7.581202,32.975266],[-7.594135,32.973649],[-7.617,32.965104],[-7.659956,32.959792],[-7.676123,32.981733],[-7.671504,32.987737],[-7.675661,32.991664],[-7.679587,32.999747],[-7.678202,33.004597],[-7.669887,33.012449],[-7.657185,33.007368],[-7.653028,33.01499],[-7.650718,33.022842],[-7.649102,33.025152],[-7.641711,33.028847],[-7.633859,33.030925],[-7.623928,33.03208],[-7.616769,33.036468],[-7.593443,33.024921]]],"type":"Polygon"}
 }

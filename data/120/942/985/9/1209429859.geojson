@@ -35,7 +35,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        1108784843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +45,17 @@
     "wof:geomhash":"9d3efc50e559e3fa43e0c2a5008348db",
     "wof:hierarchy":[
         {
-            "country_id":85632693,
-            "locality_id":1209429859
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1108784843,
+            "locality_id":1209429859,
+            "region_id":-1
         }
     ],
     "wof:id":1209429859,
-    "wof:lastmodified":1566601214,
+    "wof:lastmodified":1669155725,
     "wof:name":"Ikiis",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

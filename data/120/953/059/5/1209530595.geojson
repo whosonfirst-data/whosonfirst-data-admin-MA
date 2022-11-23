@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890453939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"39eb98d6f3af4f8bd6f3daf5f36653ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209530595
+            "county_id":890453939,
+            "locality_id":1209530595,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209530595,
-    "wof:lastmodified":1566600906,
+    "wof:lastmodified":1669162090,
     "wof:name":"Al Kailat",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

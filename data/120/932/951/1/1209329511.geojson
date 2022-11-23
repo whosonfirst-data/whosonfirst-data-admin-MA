@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661377,
+        890453897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"049468bdfdb17dc64056cda1afd56163",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209329511
+            "county_id":890453897,
+            "locality_id":1209329511,
+            "region_id":1796661377
         }
     ],
     "wof:id":1209329511,
-    "wof:lastmodified":1566601114,
+    "wof:lastmodified":1669160348,
     "wof:name":"Zlaroua",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

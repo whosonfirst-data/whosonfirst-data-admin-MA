@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000532,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.26565,31.28318,-4.26565,31.28318",
-    "geom:latitude":31.28318,
-    "geom:longitude":-4.26565,
+    "geom:bbox":"-4.281335,31.267936,-4.251106,31.291269",
+    "geom:latitude":31.279282,
+    "geom:longitude":-4.265112,
     "gn:admin1_code":"08",
     "gn:asciiname":"Recani",
     "gn:country_code":"MA",
@@ -23,11 +23,12 @@
     "gn:population":20469,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-4.28565,31.26318,-4.24565,31.30318",
+    "lbl:latitude":31.280436,
+    "lbl:longitude":-4.2654,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u064a\u0635\u0627\u0646\u064a"
@@ -43,6 +44,9 @@
     ],
     "name:deu_x_preferred":[
         "Rissani"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rissani"
     ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0635\u0627\u0646\u06cc"
@@ -72,32 +76,61 @@
         "Risani",
         "Re\u00e7ani"
     ],
-    "src:geom":"geonames",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u0631\u064a\u0633\u0627\u0646\u064a",
+    "qs:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs:name_adm1":"\u0645\u0643\u0646\u0627\u0633 \u0640 \u062a\u0627\u0641\u064a\u0644\u0627\u0644\u062a",
+    "qs:photos":517,
+    "qs:photos_1k":105,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":517,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118294,
+    "qs:woe_adm0":23424893,
+    "qs:woe_id":1539479,
+    "reversegeo:latitude":31.280436,
+    "reversegeo:longitude":-4.2654,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673915,
+        1796661363,
         1108784773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2538027,
+        "gp:id":1539479,
+        "qs_pg:id":1118294,
         "wk:page":"Rissani"
     },
     "wof:country":"MA",
-    "wof:geomhash":"24ea194f4b463c7b217ac105d23c5548",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"93e180e48d2166c1f1c13da23ea10b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784773,
             "locality_id":1327418585,
-            "region_id":85673915
+            "region_id":1796661363
         }
     ],
     "wof:id":1327418585,
-    "wof:lastmodified":1566599501,
+    "wof:lastmodified":1669157637,
     "wof:name":"Recani",
     "wof:parent_id":1108784773,
     "wof:placetype":"locality",
@@ -105,14 +138,16 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        421190105
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -4.26565,
-    31.28318,
-    -4.26565,
-    31.28318
+    -4.281335,
+    31.267936,
+    -4.251106,
+    31.291269
 ],
-  "geometry": {"coordinates":[-4.26565,31.28318],"type":"Point"}
+  "geometry": {"coordinates":[[[-4.257487,31.290625],[-4.252717,31.287917],[-4.251106,31.284888],[-4.251557,31.2758],[-4.253619,31.271804],[-4.254264,31.270772],[-4.260838,31.271481],[-4.261483,31.268065],[-4.270378,31.267936],[-4.272956,31.268323],[-4.275534,31.268581],[-4.279337,31.270128],[-4.281335,31.273673],[-4.277726,31.277669],[-4.275792,31.281601],[-4.275276,31.284888],[-4.275405,31.288175],[-4.267477,31.291269],[-4.257487,31.290625]]],"type":"Polygon"}
 }

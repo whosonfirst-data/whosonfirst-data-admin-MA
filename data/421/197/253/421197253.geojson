@@ -23,11 +23,26 @@
     "name:ara_x_preferred":[
         "\u062a\u0637\u0648\u0627\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u062a\u0637\u0648\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0637\u0648\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Tetu\u00e1n"
     ],
+    "name:aze_x_preferred":[
+        "Tetuan"
+    ],
+    "name:bak_x_preferred":[
+        "\u0422\u0435\u0442\u0443\u0430\u043d"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u044d\u0442\u0443\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u044d\u0442\u0443\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u0981\u09a4\u09c1\u09af\u09bc\u09be\u09a8"
@@ -97,6 +112,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0539\u0565\u057f\u0578\u0582\u0561\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Tetouan"
     ],
     "name:ind_x_preferred":[
         "T\u00e9touan"
@@ -170,6 +188,9 @@
     "name:sco_x_preferred":[
         "Tetou\u00e1n"
     ],
+    "name:shi_x_preferred":[
+        "Titwan"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0dda\u0da7\u0ddc\u0d8b\u0dc0\u0dcf\u0db1\u0dca"
     ],
@@ -182,8 +203,14 @@
     "name:srp_x_preferred":[
         "\u0422\u0435\u0442\u0443\u0430\u043d"
     ],
+    "name:swa_x_preferred":[
+        "T\u00e9touan"
+    ],
     "name:swe_x_preferred":[
         "T\u00e9touan"
+    ],
+    "name:szl_x_preferred":[
+        "Tetuan"
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bc6\u0b9f\u0bcc\u0ba9\u0bcd"
@@ -206,6 +233,12 @@
     "name:urd_x_preferred":[
         "\u062a\u0637\u0648\u0627\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Tetuan"
+    ],
+    "name:vec_x_preferred":[
+        "T\u00e9touan"
+    ],
     "name:vie_x_preferred":[
         "T\u00e9touan"
     ],
@@ -214,6 +247,12 @@
     ],
     "name:war_x_preferred":[
         "T\u00e9touan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5f97\u571f\u5b89"
+    ],
+    "name:yue_x_preferred":[
+        "\u5f97\u571f\u5b89"
     ],
     "name:zho_x_preferred":[
         "\u5f97\u571f\u5b89"
@@ -241,7 +280,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673883,
+        1796661381,
         890421483
     ],
     "wof:breaches":[],
@@ -261,11 +300,11 @@
             "country_id":85632693,
             "county_id":890421483,
             "locality_id":421197253,
-            "region_id":85673883
+            "region_id":1796661381
         }
     ],
     "wof:id":421197253,
-    "wof:lastmodified":1566601976,
+    "wof:lastmodified":1669161867,
     "wof:name":"\u062a\u0637\u0648\u0627\u0646",
     "wof:parent_id":890421483,
     "wof:placetype":"locality",

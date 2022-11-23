@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"d6d68b7082277022d98a20862f14ec38",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1343782219,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1343782219,
-    "wof:lastmodified":1566599933,
+    "wof:lastmodified":1669155491,
     "wof:name":"Douar Lemhadi",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

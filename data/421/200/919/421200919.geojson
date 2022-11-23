@@ -4,24 +4,97 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000899,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.222359,33.441448,-5.222359,33.441448",
-    "geom:latitude":33.441448,
-    "geom:longitude":-5.222359,
+    "geom:bbox":"-5.241567,33.423148,-5.204013,33.456245",
+    "geom:latitude":33.439392,
+    "geom:longitude":-5.224518,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA3",
+    "gn:population":48249,
     "iso:country":"MA",
-    "lbl:bbox":"-5.242359,33.421448,-5.202359,33.461448",
+    "lbl:latitude":33.44046,
+    "lbl:longitude":-5.224876,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0632\u0631\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0632\u0631\u0648"
+    ],
+    "name:ary_x_preferred":[
+        "\u0623\u0632\u0631\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0632\u0631\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Azrou"
+    ],
+    "name:ceb_x_preferred":[
+        "Azrou"
+    ],
+    "name:ces_x_preferred":[
+        "Azrou"
+    ],
+    "name:cym_x_preferred":[
+        "Azrou"
+    ],
+    "name:deu_x_preferred":[
+        "Azrou"
+    ],
     "name:eng_x_preferred":[
         "Azrou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0632\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Azrou"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u091c\u093c\u094b\u0935"
+    ],
+    "name:ita_x_preferred":[
+        "Azrou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fc"
+    ],
+    "name:kab_x_preferred":[
+        "A\u1e93ru"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc988\ub8e8"
+    ],
+    "name:nld_x_preferred":[
+        "Azrou"
+    ],
+    "name:por_x_preferred":[
+        "Azrou"
+    ],
+    "name:ron_x_preferred":[
+        "Azrou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0437\u0440\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Azr\u00fa"
+    ],
+    "name:swa_x_preferred":[
+        "Azrou"
+    ],
+    "name:swe_x_preferred":[
+        "Azrou"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u8332\u9b6f"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,45 +114,59 @@
     "qs:qs_id":900170,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1531957,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":33.44046,
+    "reversegeo:longitude":-5.224876,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        890429095,
-        85673915
+        1796661365,
+        890429095
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2556464,
         "gp:id":1531957,
-        "qs_pg:id":900170
+        "qs_pg:id":900170,
+        "wd:id":"Q794128",
+        "wk:page":"Azrou"
     },
     "wof:country":"MA",
     "wof:created":1459010045,
-    "wof:geomhash":"2f35ae8e591d6e84c4b9bca21ee3caad",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e1c1fd5229f4e819c4c4c15ba31a19e8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890429095,
             "locality_id":421200919,
-            "region_id":85673915
+            "region_id":1796661365
         }
     ],
     "wof:id":421200919,
-    "wof:lastmodified":1601423087,
+    "wof:lastmodified":1669161869,
     "wof:name":"Azrou",
     "wof:parent_id":890429095,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890444523
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -5.222359,
-    33.441448,
-    -5.222359,
-    33.441448
+    -5.241567,
+    33.423148,
+    -5.204013,
+    33.456245
 ],
-  "geometry": {"coordinates":[-5.222359,33.441448],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.217514,33.454803],[-5.216335,33.454606],[-5.216859,33.452312],[-5.214237,33.449232],[-5.211485,33.447594],[-5.208732,33.446283],[-5.206963,33.443727],[-5.207421,33.442613],[-5.2067,33.441105],[-5.204013,33.438746],[-5.204865,33.435862],[-5.205979,33.434093],[-5.206963,33.43311],[-5.205586,33.430226],[-5.204013,33.429046],[-5.205259,33.427408],[-5.207356,33.428325],[-5.20965,33.429046],[-5.213123,33.429374],[-5.215417,33.427473],[-5.218104,33.42708],[-5.220726,33.427342],[-5.223675,33.426883],[-5.225313,33.425573],[-5.229639,33.424786],[-5.231998,33.423803],[-5.236717,33.423148],[-5.238094,33.423672],[-5.239732,33.423869],[-5.240584,33.425769],[-5.241305,33.428653],[-5.240912,33.431406],[-5.241567,33.433962],[-5.240518,33.436911],[-5.24006,33.439598],[-5.238487,33.442678],[-5.2377,33.446611],[-5.236062,33.450019],[-5.236914,33.451067],[-5.239601,33.454016],[-5.237176,33.455262],[-5.235865,33.455393],[-5.236717,33.456114],[-5.235996,33.456245],[-5.233768,33.455917],[-5.230819,33.456114],[-5.229967,33.456179],[-5.222626,33.454475],[-5.222299,33.455983],[-5.219087,33.455655],[-5.217514,33.454803]]],"type":"Polygon"}
 }

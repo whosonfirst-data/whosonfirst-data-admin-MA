@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"f02504a617acd1e423e764b1bf69ef29",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209307909
+            "county_id":1108784785,
+            "locality_id":1209307909,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209307909,
-    "wof:lastmodified":1566600942,
+    "wof:lastmodified":1669158989,
     "wof:name":"Douar Oulad el Garn",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

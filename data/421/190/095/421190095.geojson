@@ -4,25 +4,202 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001073,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.57084,34.810984,-5.57084,34.810984",
-    "geom:latitude":34.810984,
-    "geom:longitude":-5.57084,
+    "geom:bbox":"-5.604138,34.785184,-5.551042,34.813566",
+    "geom:latitude":34.799888,
+    "geom:longitude":-5.57499,
+    "gn:country":"MA",
+    "gn:fcode":"PPL",
+    "gn:population":58684,
     "iso:country":"MA",
-    "lbl:bbox":"-5.59084,34.790984,-5.55084,34.830984",
+    "lbl:latitude":34.798676,
+    "lbl:longitude":-5.574485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0632\u0627\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u0648\u0632\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u0632\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0632\u0627\u0646"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0443\u0430\u0437\u0430\u043d\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Ouezzane"
+    ],
+    "name:ceb_x_preferred":[
+        "Ouazzane"
+    ],
+    "name:deu_x_preferred":[
+        "Ouezzane"
+    ],
     "name:eng_x_preferred":[
         "Quazzane"
     ],
+    "name:eng_x_variant":[
+        "Ouazzane"
+    ],
+    "name:eus_x_preferred":[
+        "Ouazzane"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0632\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ouezzane"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d6\u05d0\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Ouazzane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30b6\u30fc\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Vezanas"
+    ],
+    "name:nld_x_preferred":[
+        "Ouazzane"
+    ],
+    "name:pol_x_preferred":[
+        "Wazzan"
+    ],
+    "name:por_x_preferred":[
+        "Ouezzane"
+    ],
+    "name:ron_x_preferred":[
+        "Ouezzane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u0437\u0437\u0430\u043d"
+    ],
+    "name:shi_x_preferred":[
+        "Wazzan"
+    ],
+    "name:spa_x_preferred":[
+        "Uez\u00e1n"
+    ],
+    "name:swa_x_preferred":[
+        "Ouezzane"
+    ],
+    "name:swe_x_preferred":[
+        "Ouezzane"
+    ],
+    "name:und_x_variant":[
+        "Quazzane"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0632\u0627\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u8d0a"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Morocco",
+    "ne:ADM0_A3":"MAR",
+    "ne:ADM1NAME":"Gharb - Chrarda - B\u00e9ni Hssen",
+    "ne:ADMIN1_COD":52,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":1,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":2540810,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Ouazzane",
+    "ne:GN_POP":58684,
+    "ne:GTOPO30":221.0,
+    "ne:ISO_A2":"MA",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":34.810342,
+    "ne:LONGITUDE":-5.570007,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Ouezzane",
+    "ne:MAX_AREAKM":32.0,
+    "ne:MAX_AREAMI":13.0,
+    "ne:MAX_BBXMAX":-5.525,
+    "ne:MAX_BBXMIN":-5.608333,
+    "ne:MAX_BBYMAX":34.891667,
+    "ne:MAX_BBYMIN":34.783333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":44.0,
+    "ne:MAX_PERMI":27.0,
+    "ne:MAX_POP10":69658,
+    "ne:MAX_POP20":69658,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-5.561232,
+    "ne:MEAN_BBYC":34.826087,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":32.0,
+    "ne:MIN_AREAMI":13.0,
+    "ne:MIN_BBXMAX":-5.525,
+    "ne:MIN_BBXMIN":-5.608333,
+    "ne:MIN_BBYMAX":34.891667,
+    "ne:MIN_BBYMIN":34.783333,
+    "ne:MIN_PERKM":44.0,
+    "ne:MIN_PERMI":27.0,
+    "ne:NAME":"Ouezzane",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Ouezzane",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":69658,
+    "ne:POP_MIN":58684,
+    "ne:POP_OTHER":68051,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Morocco",
+    "ne:SOV_A3":"MAR",
+    "ne:TIMEZONE":"Africa/Casablanca",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -41,45 +218,59 @@
     "qs:qs_id":1118289,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1538339,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":34.798676,
+    "reversegeo:longitude":-5.574485,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        1108784797,
-        85673883
+        1796661381,
+        1108784797
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2540810,
         "gp:id":1538339,
-        "qs_pg:id":1118289
+        "qs_pg:id":1118289,
+        "wd:id":"Q602426",
+        "wk:page":"Ouazzane"
     },
     "wof:country":"MA",
     "wof:created":1459009645,
-    "wof:geomhash":"0aeae6de5d95b5e36d711855ee2ed524",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"86a9bbbb6ec6dcd37b37de63ec44916a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784797,
             "locality_id":421190095,
-            "region_id":85673883
+            "region_id":1796661381
         }
     ],
     "wof:id":421190095,
-    "wof:lastmodified":1601423091,
+    "wof:lastmodified":1669161836,
     "wof:name":"Quazzane",
     "wof:parent_id":1108784797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890444513
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -5.57084,
-    34.810984,
-    -5.57084,
-    34.810984
+    -5.604138,
+    34.785184,
+    -5.551042,
+    34.813566
 ],
-  "geometry": {"coordinates":[-5.57084,34.810984],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.562482,34.810335],[-5.560037,34.812606],[-5.557679,34.813042],[-5.552177,34.804833],[-5.551042,34.800729],[-5.551042,34.796974],[-5.553749,34.79383],[-5.556543,34.792695],[-5.553924,34.786145],[-5.557155,34.785272],[-5.563792,34.785184],[-5.566412,34.786407],[-5.567198,34.787455],[-5.573835,34.78597],[-5.579598,34.786669],[-5.584838,34.792171],[-5.587633,34.791647],[-5.589816,34.792083],[-5.591388,34.792433],[-5.601256,34.796974],[-5.602828,34.80003],[-5.604138,34.806318],[-5.589379,34.811732],[-5.578638,34.809374],[-5.573747,34.811645],[-5.572961,34.813566],[-5.566237,34.81313],[-5.564665,34.811732],[-5.562482,34.810335]]],"type":"Polygon"}
 }

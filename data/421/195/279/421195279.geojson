@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001046,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.43907,31.51865,-9.43907,31.51865",
-    "geom:latitude":31.51865,
-    "geom:longitude":-9.43907,
+    "geom:bbox":"-9.456168,31.499396,-9.412787,31.542777",
+    "geom:latitude":31.520442,
+    "geom:longitude":-9.434668,
     "iso:country":"MA",
-    "lbl:bbox":"-9.45907,31.49865,-9.41907,31.53865",
+    "lbl:latitude":31.516309,
+    "lbl:longitude":-9.432532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:und_x_variant":[
@@ -38,11 +39,17 @@
     "qs:qs_id":140527,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1535382,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":31.516309,
+    "reversegeo:longitude":-9.432532,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673933,
+        1796661373,
         890453939
     ],
     "wof:breaches":[],
@@ -53,18 +60,21 @@
     },
     "wof:country":"MA",
     "wof:created":1459009838,
-    "wof:geomhash":"62c62cdb1ba1d56af29b9b203f53b941",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"b562612bf052f85d692669efb6a24615",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890453939,
             "locality_id":421195279,
-            "region_id":85673933
+            "region_id":1796661373
         }
     ],
     "wof:id":421195279,
-    "wof:lastmodified":1566601968,
+    "wof:lastmodified":1669164798,
     "wof:name":"Et Tleta Hanchene",
     "wof:parent_id":890453939,
     "wof:placetype":"locality",
@@ -74,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.43907,
-    31.51865,
-    -9.43907,
-    31.51865
+    -9.456168,
+    31.499396,
+    -9.412787,
+    31.542777
 ],
-  "geometry": {"coordinates":[-9.43907,31.51865],"type":"Point"}
+  "geometry": {"coordinates":[[[-9.444796,31.542777],[-9.43553,31.536291],[-9.432835,31.535112],[-9.433424,31.532332],[-9.43056,31.527699],[-9.426012,31.529384],[-9.423485,31.530647],[-9.419779,31.531911],[-9.416156,31.528036],[-9.413293,31.520876],[-9.412787,31.514811],[-9.422979,31.507567],[-9.426012,31.50504],[-9.436962,31.499481],[-9.442606,31.499396],[-9.446649,31.500154],[-9.443448,31.510936],[-9.443617,31.514222],[-9.444459,31.518181],[-9.445975,31.519613],[-9.45263,31.520539],[-9.451872,31.524077],[-9.451872,31.525677],[-9.456168,31.527446],[-9.456168,31.529131],[-9.450271,31.53806],[-9.445975,31.541935],[-9.444796,31.542777]]],"type":"Polygon"}
 }

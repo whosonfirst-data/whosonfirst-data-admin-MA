@@ -4,13 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000856,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.00776,31.75489,-7.00776,31.75489",
-    "geom:latitude":31.75489,
-    "geom:longitude":-7.00776,
+    "geom:bbox":"-7.039108,31.715981,-6.989196,31.741307",
+    "geom:latitude":31.7285,
+    "geom:longitude":-7.012997,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"1208101031.0",
+    "gn:asciiname":"Demnate",
+    "gn:country_code":"MA",
+    "gn:dem":927,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2552317,
+    "gn:latitude":31.73443,
+    "gn:longitude":-7.00505,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Demnate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-7.02776,31.73489,-6.98776,31.77489",
+    "lbl:latitude":31.727552,
+    "lbl:longitude":-7.012997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -18,6 +35,9 @@
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u062f\u0645\u0646\u0627\u062a"
+    ],
+    "name:ary_x_preferred":[
         "\u062f\u0645\u0646\u0627\u062a"
     ],
     "name:cat_x_preferred":[
@@ -32,8 +52,14 @@
     "name:eng_x_preferred":[
         "Demnate"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0645\u0646\u0627\u062a"
+    ],
     "name:fra_x_preferred":[
         "Demnate"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05de\u05e0\u05d0\u05ea"
     ],
     "name:ita_x_preferred":[
         "Demnate"
@@ -47,8 +73,14 @@
     "name:rus_x_preferred":[
         "\u0414\u0435\u043c\u043d\u0430\u0442"
     ],
+    "name:shi_x_preferred":[
+        "Dmnat"
+    ],
     "name:swe_x_preferred":[
         "Demnate"
+    ],
+    "name:und_x_variant":[
+        "Demnot"
     ],
     "name:wln_x_preferred":[
         "Demnate"
@@ -71,47 +103,60 @@
     "qs:qs_id":1118239,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1533326,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":31.727552,
+    "reversegeo:longitude":-7.012997,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":369,
     "wof:belongsto":[
         102191573,
         85632693,
-        85673919,
+        1796661357,
         1108784827
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2552317,
         "gp:id":1533326,
         "qs_pg:id":1118239,
-        "wd:id":"Q2540234"
+        "wd:id":"Q2540234",
+        "wk:page":"Demnate"
     },
     "wof:country":"MA",
     "wof:created":1459009137,
-    "wof:geomhash":"2140b4e9127cece6f387730102b73aa3",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"94ea4b11a64733fd2dad508e60db82f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784827,
             "locality_id":421177233,
-            "region_id":85673919
+            "region_id":1796661357
         }
     ],
     "wof:id":421177233,
-    "wof:lastmodified":1566601977,
+    "wof:lastmodified":1669161813,
     "wof:name":"Demnat",
     "wof:parent_id":1108784827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209808671
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -7.00776,
-    31.75489,
-    -7.00776,
-    31.75489
+    -7.039108,
+    31.715981,
+    -6.989196,
+    31.741307
 ],
-  "geometry": {"coordinates":[-7.00776,31.75489],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.037999,31.738996],[-7.035411,31.739088],[-7.032545,31.738256],[-7.031066,31.740105],[-7.026353,31.740937],[-7.020714,31.739828],[-7.019883,31.738349],[-7.013135,31.738719],[-7.0099,31.73955],[-7.006573,31.741307],[-7.0038,31.738256],[-7.002229,31.737517],[-6.998347,31.737332],[-6.995666,31.736315],[-6.994834,31.734374],[-6.995758,31.732064],[-6.994834,31.728736],[-6.991969,31.728921],[-6.990398,31.728736],[-6.989196,31.726241],[-6.990028,31.725224],[-6.990582,31.72356],[-6.99354,31.720048],[-6.995851,31.717183],[-7.000103,31.716073],[-7.001582,31.716073],[-7.004354,31.715981],[-7.008144,31.716351],[-7.022655,31.716351],[-7.022655,31.721065],[-7.030419,31.721712],[-7.031159,31.726426],[-7.030604,31.729106],[-7.030604,31.732341],[-7.037629,31.733173],[-7.039108,31.736685],[-7.037999,31.738996]]],"type":"Polygon"}
 }

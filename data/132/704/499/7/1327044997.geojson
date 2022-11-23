@@ -35,9 +35,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -48,15 +45,15 @@
     "wof:geomhash":"3f3d43ef16fc61cc02fca57469f2cfd3",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1327044997,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1327044997,
-    "wof:lastmodified":1566599564,
+    "wof:lastmodified":1669155600,
     "wof:name":"Ali Ben Chama",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

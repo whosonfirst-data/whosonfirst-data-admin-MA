@@ -4,24 +4,115 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00074,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.851078,30.33094,-5.851078,30.33094",
-    "geom:latitude":30.33094,
-    "geom:longitude":-5.851078,
+    "geom:bbox":"-5.858172,30.319229,-5.82791,30.357987",
+    "geom:latitude":30.338129,
+    "geom:longitude":-5.843513,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA3",
+    "gn:population":35154,
     "iso:country":"MA",
-    "lbl:bbox":"-5.871078,30.31094,-5.831078,30.35094",
+    "lbl:latitude":30.337257,
+    "lbl:longitude":-5.843513,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0632\u0627\u0643\u0648\u0631\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u0632\u0627\u06ad\u0648\u0631\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u0627\u06a9\u0648\u0631\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Zaqora"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Zagora"
+    ],
+    "name:ceb_x_preferred":[
+        "Zagora"
+    ],
+    "name:ces_x_preferred":[
+        "Zagora"
+    ],
+    "name:deu_x_preferred":[
+        "Zagora"
+    ],
     "name:eng_x_preferred":[
         "Zagora"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u06a9\u0648\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Zagora"
+    ],
+    "name:hrv_x_preferred":[
+        "Zagora"
+    ],
+    "name:hun_x_preferred":[
+        "Z\u00e1g\u00fara"
+    ],
+    "name:ita_x_preferred":[
+        "Zagora"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30b4\u30e9"
+    ],
+    "name:kab_x_preferred":[
+        "Tazaggurt"
+    ],
+    "name:lit_x_preferred":[
+        "Zagora"
+    ],
+    "name:nld_x_preferred":[
+        "Zagora"
+    ],
+    "name:oci_x_preferred":[
+        "Zagora"
+    ],
+    "name:pol_x_preferred":[
+        "Zaghura"
+    ],
+    "name:por_x_preferred":[
+        "Zagora"
+    ],
+    "name:ron_x_preferred":[
+        "Zagora"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Zagora"
+    ],
+    "name:shi_x_preferred":[
+        "Zagura"
+    ],
+    "name:spa_x_preferred":[
+        "Zagora"
+    ],
+    "name:swe_x_preferred":[
+        "Zagora"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06af\u0648\u0631\u0627\u060c \u0645\u0648\u0631\u0648\u06a9\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0632\u06af\u0648\u0631\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u672d\u6208\u62c9"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,45 +132,59 @@
     "qs:qs_id":1118317,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1542405,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":30.337257,
+    "reversegeo:longitude":-5.843513,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        890424149,
-        85673929
+        1796661363,
+        890424149
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2526452,
         "gp:id":1542405,
-        "qs_pg:id":1118317
+        "qs_pg:id":1118317,
+        "wd:id":"Q140354",
+        "wk:page":"Zagora"
     },
     "wof:country":"MA",
     "wof:created":1459009648,
-    "wof:geomhash":"c5383cf7fcf5d0d16ca8710e4822e790",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c9fdb377336f00ae95f715eb8bca6b3d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890424149,
             "locality_id":421190147,
-            "region_id":85673929
+            "region_id":1796661363
         }
     ],
     "wof:id":421190147,
-    "wof:lastmodified":1601423094,
+    "wof:lastmodified":1669161847,
     "wof:name":"Zagora",
     "wof:parent_id":890424149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890421477
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -5.851078,
-    30.33094,
-    -5.851078,
-    30.33094
+    -5.858172,
+    30.319229,
+    -5.82791,
+    30.357987
 ],
-  "geometry": {"coordinates":[-5.851078,30.33094],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.857282,30.350786],[-5.841585,30.354589],[-5.840857,30.355074],[-5.841585,30.356692],[-5.840533,30.357987],[-5.839238,30.357663],[-5.837944,30.356854],[-5.837458,30.356126],[-5.838025,30.355155],[-5.837863,30.354265],[-5.837539,30.353051],[-5.836892,30.351919],[-5.836892,30.349248],[-5.838186,30.348682],[-5.838186,30.347549],[-5.836487,30.348844],[-5.835597,30.347954],[-5.834626,30.346659],[-5.833817,30.34674],[-5.833089,30.348116],[-5.830742,30.348035],[-5.830661,30.346335],[-5.82969,30.345445],[-5.828881,30.344798],[-5.829043,30.343665],[-5.828396,30.343665],[-5.82791,30.341319],[-5.828639,30.339781],[-5.829529,30.338891],[-5.830661,30.337192],[-5.831632,30.336383],[-5.83139,30.335574],[-5.831956,30.334441],[-5.832927,30.333146],[-5.83228,30.332337],[-5.831794,30.332095],[-5.831632,30.330881],[-5.832118,30.328534],[-5.832684,30.326835],[-5.833574,30.32457],[-5.835678,30.324489],[-5.837296,30.322466],[-5.838186,30.321576],[-5.839643,30.320281],[-5.840614,30.319229],[-5.842475,30.319957],[-5.844983,30.321009],[-5.847815,30.321414],[-5.850728,30.32198],[-5.85267,30.322142],[-5.85445,30.322223],[-5.850809,30.32465],[-5.851699,30.325379],[-5.852346,30.326188],[-5.853884,30.327482],[-5.854288,30.328453],[-5.852832,30.329667],[-5.854531,30.3308],[-5.854693,30.332337],[-5.854126,30.333794],[-5.855907,30.335007],[-5.855907,30.336059],[-5.855502,30.337759],[-5.856068,30.341238],[-5.856311,30.342452],[-5.857039,30.343261],[-5.857039,30.344879],[-5.857768,30.345526],[-5.858091,30.346821],[-5.857201,30.348196],[-5.858172,30.34941],[-5.857282,30.350786]]],"type":"Polygon"}
 }

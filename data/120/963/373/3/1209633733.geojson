@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890442529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"8e1de2fae647707fa0717eec5ee3ed53",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209633733
+            "county_id":890442529,
+            "locality_id":1209633733,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209633733,
-    "wof:lastmodified":1566600964,
+    "wof:lastmodified":1669161261,
     "wof:name":"Lahjira",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890442529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

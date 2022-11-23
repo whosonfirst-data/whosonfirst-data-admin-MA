@@ -4,13 +4,29 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000809,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.86,35.15,-3.86,35.15",
-    "geom:latitude":35.15,
-    "geom:longitude":-3.86,
+    "geom:bbox":"-3.876877,35.121346,-3.83669,35.162051",
+    "geom:latitude":35.140554,
+    "geom:longitude":-3.858034,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"1505101051.0",
+    "gn:asciiname":"Imzouren",
+    "gn:country_code":"MA",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2550898,
+    "gn:latitude":35.14637,
+    "gn:longitude":-3.85063,
+    "gn:modification_date":"2016-11-29",
+    "gn:name":"Imzouren",
+    "gn:population":40000,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-3.88,35.13,-3.84,35.17",
+    "lbl:latitude":35.139622,
+    "lbl:longitude":-3.858339,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
@@ -20,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0645\u0632\u0648\u0631\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u062c\u0645\u0627\u0639\u0629 \u0625\u0645\u0632\u0648\u0631\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u043c\u0437\u043e\u0443\u0440\u0435\u043d"
     ],
@@ -27,6 +46,9 @@
         "Imzouren"
     ],
     "name:ceb_x_preferred":[
+        "Imzouren"
+    ],
+    "name:dan_x_preferred":[
         "Imzouren"
     ],
     "name:deu_x_preferred":[
@@ -59,6 +81,16 @@
     "name:swe_x_preferred":[
         "Imzouren"
     ],
+    "name:und_x_variant":[
+        "Amzourh\u00e8n-Kh\u00e9mis-Mrabt\u00e8n",
+        "Einzoren",
+        "Izourene",
+        "Eimoren",
+        "Imsouren",
+        "Einzorene",
+        "Imzo\u00fbrene",
+        "A\u00efn Zor\u00e8n"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0645\u0632\u0648\u0631\u0646"
     ],
@@ -80,12 +112,18 @@
     "qs:qs_id":969977,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1536713,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":35.139622,
+    "reversegeo:longitude":-3.858339,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673893,
+        1796661381,
         890429097
     ],
     "wof:breaches":[],
@@ -93,22 +131,26 @@
         "gn:id":2545985,
         "gp:id":1536713,
         "qs_pg:id":969977,
-        "wd:id":"Q2719983"
+        "wd:id":"Q2719983",
+        "wk:page":"Imzouren"
     },
     "wof:country":"MA",
     "wof:created":1459008753,
-    "wof:geomhash":"568c7d76b273e422d0c0175c746a2dc3",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"fd254499edebb5794b3e77b348ebb82f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890429097,
             "locality_id":421168067,
-            "region_id":85673893
+            "region_id":1796661381
         }
     ],
     "wof:id":421168067,
-    "wof:lastmodified":1566601967,
+    "wof:lastmodified":1669161802,
     "wof:name":"Imzourene",
     "wof:parent_id":890429097,
     "wof:placetype":"locality",
@@ -116,14 +158,16 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259693053
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -3.86,
-    35.15,
-    -3.86,
-    35.15
+    -3.876877,
+    35.121346,
+    -3.83669,
+    35.162051
 ],
-  "geometry": {"coordinates":[-3.86,35.15],"type":"Point"}
+  "geometry": {"coordinates":[[[-3.846015,35.133557],[-3.852898,35.128895],[-3.858523,35.121346],[-3.867256,35.121642],[-3.868588,35.12253],[-3.86955,35.122752],[-3.871178,35.123492],[-3.871178,35.125046],[-3.872362,35.12586],[-3.8714,35.131115],[-3.876877,35.135778],[-3.875027,35.139034],[-3.874805,35.140884],[-3.870882,35.142365],[-3.867034,35.145769],[-3.855118,35.162051],[-3.853638,35.159905],[-3.849938,35.157315],[-3.849049,35.15613],[-3.842463,35.157093],[-3.83669,35.15613],[-3.838244,35.151172],[-3.838688,35.150284],[-3.839724,35.150432],[-3.84076,35.149988],[-3.841574,35.148803],[-3.844831,35.147915],[-3.844905,35.148951],[-3.848013,35.145325],[-3.848087,35.141773],[-3.846015,35.133557]]],"type":"Polygon"}
 }

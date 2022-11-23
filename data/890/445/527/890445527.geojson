@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u062a\u0627\u0631\u0648\u062f\u0627\u0646\u062a"
     ],
+    "name:ary_x_preferred":[
+        "\u062a\u0627\u0631\u0648\u062f\u0627\u0646\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0631\u0648\u062f\u0627\u0646\u062a"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u09c1\u09a6\u09be\u09a8\u09cd\u09a4"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1\u03bd\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b1\u03c1\u03bf\u03c5\u03bd\u03c4\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Taroudant"
@@ -68,6 +77,9 @@
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05d5\u05d3\u05d0\u05e0\u05d8"
     ],
+    "name:heb_x_variant":[
+        "\u05ea\u05e8\u05d5\u05d3\u05d0\u05e0\u05ea"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u0947\u0930\u094b\u0921\u0947\u0928\u094d\u091f"
     ],
@@ -88,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uac00\ub514\ub974"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c0\ub8e8\ub2e8\ud2b8"
     ],
     "name:lav_x_preferred":[
         "Tarudanta"
@@ -119,11 +134,17 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u0443\u0434\u0430\u043d\u0442"
     ],
+    "name:shi_x_preferred":[
+        "Tarudant"
+    ],
     "name:sin_x_preferred":[
         "\u0dad\u0dbb\u0dd4\u0da9\u0db1\u0dca\u0da7\u0dca"
     ],
     "name:spa_x_preferred":[
         "Tarudant"
+    ],
+    "name:swa_x_preferred":[
+        "Taroudant"
     ],
     "name:swe_x_preferred":[
         "Taroudannt"
@@ -163,7 +184,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673929,
+        1796661379,
         890445395
     ],
     "wof:breaches":[],
@@ -182,11 +203,11 @@
             "country_id":85632693,
             "county_id":890445395,
             "localadmin_id":890445527,
-            "region_id":85673929
+            "region_id":1796661379
         }
     ],
     "wof:id":890445527,
-    "wof:lastmodified":1566602059,
+    "wof:lastmodified":1669164416,
     "wof:name":"Taroudant",
     "wof:parent_id":890445395,
     "wof:placetype":"localadmin",

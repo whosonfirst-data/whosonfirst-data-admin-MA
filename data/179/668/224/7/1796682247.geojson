@@ -1,0 +1,80 @@
+{
+  "id": 1796682247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25826,32.23897,-9.25826,32.23897",
+    "geom:latitude":32.23897,
+    "geom:longitude":-9.25826,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidi Ghouziya",
+    "gn:country_code":"MA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2533127,
+    "gn:latitude":32.23897,
+    "gn:longitude":-9.25826,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Sidi Ghouziya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-9.27826,32.21897,-9.23826,32.25897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sidi Rhouzia",
+        "Sidi Ghouzia",
+        "Sidi Ghouziya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190107,
+        890445397,
+        1796661373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2533127
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"63991cebd0dd8a905896fb1852d288b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445397,
+            "locality_id":421190107,
+            "neighbourhood_id":1796682247,
+            "region_id":1796661373
+        }
+    ],
+    "wof:id":1796682247,
+    "wof:lastmodified":1669163203,
+    "wof:name":"Sidi Ghouziya",
+    "wof:parent_id":421190107,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293779721
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25826,
+    32.23897,
+    -9.25826,
+    32.23897
+],
+  "geometry": {"coordinates":[-9.25826,32.23897],"type":"Point"}
+}

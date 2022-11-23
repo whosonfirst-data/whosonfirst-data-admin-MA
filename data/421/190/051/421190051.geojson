@@ -4,13 +4,27 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000602,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.9964745,32.5921655,-5.9964745,32.5921655",
-    "geom:latitude":32.592166,
-    "geom:longitude":-5.996474,
+    "geom:bbox":"-6.057112,32.553897,-6.00746,32.574059",
+    "geom:latitude":32.564697,
+    "geom:longitude":-6.032745,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Ksiba",
+    "gn:country_code":"MA",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2544793,
+    "gn:latitude":32.56536,
+    "gn:longitude":-6.03238,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"El Ksiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-6.0164745,32.5721655,-5.9764745,32.6121655",
+    "lbl:latitude":32.565392,
+    "lbl:longitude":-6.038183,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -20,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0635\u064a\u0628\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u0642\u0635\u064a\u0628\u0629"
+    ],
     "name:cat_x_preferred":[
         "El Ksiba"
     ],
@@ -28,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "El Ksiba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u064a\u0628\u0647"
     ],
     "name:fra_x_preferred":[
         "El Ksiba"
@@ -40,6 +60,11 @@
     ],
     "name:swe_x_preferred":[
         "El Ksiba"
+    ],
+    "name:und_x_variant":[
+        "A\u00eft Yakoub",
+        "Kasba A\u00eft Youdi",
+        "Ksiba"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -59,47 +84,59 @@
     "qs:qs_id":1118261,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1535097,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":32.565392,
+    "reversegeo:longitude":-6.038183,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         102191573,
         85632693,
-        85673919,
+        1796661357,
         890452779
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2544793,
         "gp:id":1535097,
         "qs_pg:id":1118261,
         "wd:id":"Q3050022"
     },
     "wof:country":"MA",
     "wof:created":1459009644,
-    "wof:geomhash":"1e83abff67a05ae2f948ae903644c05c",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"cbc1161f922fc84d7bcbf436f50b2b14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890452779,
             "locality_id":421190051,
-            "region_id":85673919
+            "region_id":1796661357
         }
     ],
     "wof:id":421190051,
-    "wof:lastmodified":1566601975,
+    "wof:lastmodified":1669161828,
     "wof:name":"El Ksiba",
     "wof:parent_id":890452779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242575623
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -5.9964745,
-    32.5921655,
-    -5.9964745,
-    32.5921655
+    -6.057112,
+    32.553897,
+    -6.00746,
+    32.574059
 ],
-  "geometry": {"coordinates":[-5.9964745,32.5921655],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.010684,32.569615],[-6.009384,32.569719],[-6.009228,32.569199],[-6.009696,32.568419],[-6.009644,32.567691],[-6.00824,32.567483],[-6.008136,32.566443],[-6.00746,32.565819],[-6.008136,32.564883],[-6.007928,32.563999],[-6.008136,32.563063],[-6.008916,32.562491],[-6.009748,32.562023],[-6.010632,32.561347],[-6.010892,32.560411],[-6.011308,32.559943],[-6.011308,32.559475],[-6.012556,32.559475],[-6.012816,32.557707],[-6.013492,32.557499],[-6.01422,32.556771],[-6.014688,32.556095],[-6.014844,32.555159],[-6.015364,32.555835],[-6.015468,32.557447],[-6.016352,32.558175],[-6.016768,32.559111],[-6.01682,32.559735],[-6.017236,32.560151],[-6.024203,32.55837],[-6.029167,32.555674],[-6.03456,32.555],[-6.038421,32.553897],[-6.042281,32.55788],[-6.046204,32.560209],[-6.048471,32.563518],[-6.054722,32.562109],[-6.055886,32.564315],[-6.055947,32.566215],[-6.057112,32.569953],[-6.055641,32.571669],[-6.053312,32.571424],[-6.050922,32.569095],[-6.049023,32.569708],[-6.051351,32.573078],[-6.049513,32.57363],[-6.046387,32.57271],[-6.042404,32.573323],[-6.039891,32.573936],[-6.038666,32.574059],[-6.034437,32.573385],[-6.032047,32.571362],[-6.030515,32.569462],[-6.027267,32.569279],[-6.025306,32.570382],[-6.017523,32.569279],[-6.014275,32.569585],[-6.010684,32.569615]]],"type":"Polygon"}
 }

@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0628\u0648\u0643\u062f\u0631\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0648\u06ad\u062f\u0631\u0629"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0443\u0433\u0443\u0435\u0434\u0440\u0430"
     ],
@@ -32,6 +35,9 @@
         "Bouguedra"
     ],
     "name:ceb_x_preferred":[
+        "Bouguedra"
+    ],
+    "name:deu_x_preferred":[
         "Bouguedra"
     ],
     "name:eng_x_preferred":[
@@ -65,7 +71,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673937,
+        1796661373,
         890445397
     ],
     "wof:breaches":[],
@@ -84,11 +90,11 @@
             "country_id":85632693,
             "county_id":890445397,
             "localadmin_id":890417167,
-            "region_id":85673937
+            "region_id":1796661373
         }
     ],
     "wof:id":890417167,
-    "wof:lastmodified":1566602031,
+    "wof:lastmodified":1669163551,
     "wof:name":"Bouguedra",
     "wof:parent_id":890445397,
     "wof:placetype":"localadmin",

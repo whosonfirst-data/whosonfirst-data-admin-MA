@@ -1,0 +1,75 @@
+{
+  "id": 1796681933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03629,31.67266,-8.03629,31.67266",
+    "geom:latitude":31.67266,
+    "geom:longitude":-8.03629,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bel Mjid",
+    "gn:country_code":"MA",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10971117,
+    "gn:latitude":31.67266,
+    "gn:longitude":-8.03629,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bel Mjid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-8.05629,31.65266,-8.01629,31.69266",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        890435387,
+        1108784829,
+        1796661373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10971117
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"bcbc5f45f6ae960fde019e1ee0d5dd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "locality_id":890435387,
+            "neighbourhood_id":1796681933,
+            "region_id":1796661373
+        }
+    ],
+    "wof:id":1796681933,
+    "wof:lastmodified":1669163200,
+    "wof:name":"Bel Mjid",
+    "wof:parent_id":890435387,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326850651
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03629,
+    31.67266,
+    -8.03629,
+    31.67266
+],
+  "geometry": {"coordinates":[-8.03629,31.67266],"type":"Point"}
+}

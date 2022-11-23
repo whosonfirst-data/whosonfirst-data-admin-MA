@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"39e97fd396a9143232d56f1431fc351d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209121077
+            "county_id":1108784803,
+            "locality_id":1209121077,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209121077,
-    "wof:lastmodified":1566601022,
+    "wof:lastmodified":1669159074,
     "wof:name":"Douar Lamaamra Cilab",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"52c72a16df4837c5c0e1baba936ac8f6",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1276563183,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1276563183,
-    "wof:lastmodified":1566600661,
+    "wof:lastmodified":1669156286,
     "wof:name":"Tourirt",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

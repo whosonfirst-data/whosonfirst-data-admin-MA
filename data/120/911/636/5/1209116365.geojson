@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661365,
+        1108784837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"cec8da809ef23f25dddaac6edb6c3d62",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209116365
+            "county_id":1108784837,
+            "locality_id":1209116365,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209116365,
-    "wof:lastmodified":1566601174,
+    "wof:lastmodified":1669158387,
     "wof:name":"Douar Oulad Sidi Cheikh",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -76,7 +76,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890440847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,14 +89,17 @@
     "wof:geomhash":"113068b7af717fe993da0cc712b58ed3",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209508501
+            "county_id":890440847,
+            "locality_id":1209508501,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209508501,
-    "wof:lastmodified":1566601080,
+    "wof:lastmodified":1669162146,
     "wof:name":"Assaka",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890440847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

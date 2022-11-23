@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890440847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"2c530a13ff559e23ecd3803896a69bf5",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209433263
+            "county_id":890440847,
+            "locality_id":1209433263,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209433263,
-    "wof:lastmodified":1566601241,
+    "wof:lastmodified":1669159005,
     "wof:name":"Zawyat Mellal",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890440847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -2,7 +2,7 @@
   "id": 890444523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-11-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +17,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0632\u0631\u0648"
@@ -94,7 +94,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673915,
+        1796661365,
         890429095
     ],
     "wof:breaches":[],
@@ -114,18 +114,20 @@
             "country_id":85632693,
             "county_id":890429095,
             "locality_id":890444523,
-            "region_id":85673915
+            "region_id":1796661365
         }
     ],
     "wof:id":890444523,
-    "wof:lastmodified":1566602040,
+    "wof:lastmodified":1669164741,
     "wof:name":"Azrou",
     "wof:parent_id":890429095,
     "wof:placetype":"locality",
     "wof:population":48249,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ma",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421200919
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

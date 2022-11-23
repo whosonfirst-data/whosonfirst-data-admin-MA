@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890445395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"599e94ce67144d26643db9aa570b1382",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209224915
+            "county_id":890445395,
+            "locality_id":1209224915,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209224915,
-    "wof:lastmodified":1566601070,
+    "wof:lastmodified":1669161015,
     "wof:name":"Anammar",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

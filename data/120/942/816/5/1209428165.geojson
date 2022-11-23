@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890453883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"174f4126929a16da2f9115923a54b8cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209428165
+            "county_id":890453883,
+            "locality_id":1209428165,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209428165,
-    "wof:lastmodified":1566601209,
+    "wof:lastmodified":1669161512,
     "wof:name":"Douar Ichaqlalene",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

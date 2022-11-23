@@ -1,0 +1,75 @@
+{
+  "id": 1796682167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.01885,35.03021,-3.01885,35.03021",
+    "geom:latitude":35.03021,
+    "geom:longitude":-3.01885,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sehb Moussa",
+    "gn:country_code":"MA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999587,
+    "gn:latitude":35.03021,
+    "gn:longitude":-3.01885,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sehb Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-3.03885,35.01021,-2.99885,35.05021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1226153305,
+        890455271,
+        1796661375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999587
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"4dee7ec7693a4aeeb8b0ad7e535f29bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1226153305,
+            "neighbourhood_id":1796682167,
+            "region_id":1796661375
+        }
+    ],
+    "wof:id":1796682167,
+    "wof:lastmodified":1669160048,
+    "wof:name":"Sehb Moussa",
+    "wof:parent_id":1226153305,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344059237
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.01885,
+    35.03021,
+    -3.01885,
+    35.03021
+],
+  "geometry": {"coordinates":[-3.01885,35.03021],"type":"Point"}
+}

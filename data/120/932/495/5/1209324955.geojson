@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        85673887,
+        1108784805,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,24 @@
     "wof:geomhash":"162de949da6173ec2519acfcd3717dc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209324955
+            "county_id":1108784805,
+            "locality_id":1209324955,
+            "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1209324955,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209324955,
-    "wof:lastmodified":1566601118,
+    "wof:lastmodified":1669163388,
     "wof:name":"Douar Oulad Tahar",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784805,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

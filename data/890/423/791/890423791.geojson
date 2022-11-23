@@ -23,7 +23,11 @@
         "\u0627\u0645\u0643\u0627\u0644\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u062d\u0648\u0632\u0629"
+        "\u0627\u0644\u062d\u0648\u0632\u0629",
+        "\u062d\u0648\u0632\u0629"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u062d\u0648\u0632\u0629"
     ],
     "name:bul_x_preferred":[
         "\u0425\u0430\u0443\u0437\u0430"
@@ -62,6 +66,9 @@
     "name:pol_x_preferred":[
         "Al-Hauza"
     ],
+    "name:spa_x_preferred":[
+        "Hausa"
+    ],
     "name:swe_x_preferred":[
         "Haouza"
     ],
@@ -74,7 +81,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673947
+        1796661371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,13 +98,13 @@
             "continent_id":102191573,
             "country_id":85632693,
             "localadmin_id":890423791,
-            "region_id":85673947
+            "region_id":1796661371
         }
     ],
     "wof:id":890423791,
-    "wof:lastmodified":1566602004,
+    "wof:lastmodified":1669163705,
     "wof:name":"Haouza",
-    "wof:parent_id":85673947,
+    "wof:parent_id":1796661371,
     "wof:placetype":"localadmin",
     "wof:population":2398,
     "wof:population_rank":4,

@@ -4,24 +4,58 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000286,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.12438,30.784379,-9.12438,30.784379",
-    "geom:latitude":30.784379,
-    "geom:longitude":-9.12438,
+    "geom:bbox":"-9.142902,30.770469,-9.115944,30.787962",
+    "geom:latitude":30.780086,
+    "geom:longitude":-9.130408,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"541.0",
+    "gn:admin3_code":"454105032.0",
+    "gn:asciiname":"Argana",
+    "gn:country_code":"MA",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2557347,
+    "gn:latitude":30.7825,
+    "gn:longitude":-9.11968,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Argana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-9.14438,30.764379,-9.10438,30.804379",
+    "lbl:latitude":30.779611,
+    "lbl:longitude":-9.130665,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0631\u0643\u0627\u0646\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Argana"
+    ],
+    "name:ceb_x_preferred":[
+        "Argana"
+    ],
     "name:eng_x_preferred":[
         "Argana"
+    ],
+    "name:fra_x_preferred":[
+        "Argana"
+    ],
+    "name:ita_x_preferred":[
+        "Argana"
+    ],
+    "name:swe_x_preferred":[
+        "Argana"
+    ],
+    "name:und_x_variant":[
+        "Agana"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,45 +75,58 @@
     "qs:qs_id":1002882,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1531637,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":30.779611,
+    "reversegeo:longitude":-9.130665,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        890445395,
-        85673929
+        1796661379,
+        890445395
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2557347,
         "gp:id":1531637,
-        "qs_pg:id":1002882
+        "qs_pg:id":1002882,
+        "wk:page":"Argana"
     },
     "wof:country":"MA",
     "wof:created":1459009418,
-    "wof:geomhash":"095143a1fd18b9d83acf00add54f352a",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"97bb109a2d1d5d7b79f486a769fcf7d2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890445395,
             "locality_id":421184659,
-            "region_id":85673929
+            "region_id":1796661379
         }
     ],
     "wof:id":421184659,
-    "wof:lastmodified":1601423087,
+    "wof:lastmodified":1669164699,
     "wof:name":"Argana",
     "wof:parent_id":890445395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226635257
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -9.12438,
-    30.784379,
-    -9.12438,
-    30.784379
+    -9.142902,
+    30.770469,
+    -9.115944,
+    30.787962
 ],
-  "geometry": {"coordinates":[-9.12438,30.784379],"type":"Point"}
+  "geometry": {"coordinates":[[[-9.119542,30.787242],[-9.119763,30.786578],[-9.119431,30.785028],[-9.118933,30.78453],[-9.117549,30.784419],[-9.115944,30.783976],[-9.115944,30.782315],[-9.11611,30.781651],[-9.117161,30.780655],[-9.118379,30.780212],[-9.119376,30.779437],[-9.119486,30.780046],[-9.119929,30.780544],[-9.120704,30.780378],[-9.121811,30.778828],[-9.122697,30.778164],[-9.123804,30.777167],[-9.124413,30.775562],[-9.12541,30.775119],[-9.126406,30.774067],[-9.127126,30.773348],[-9.128177,30.77296],[-9.129174,30.772351],[-9.129893,30.772462],[-9.130281,30.771189],[-9.131111,30.770635],[-9.132163,30.770967],[-9.133049,30.771576],[-9.13399,30.770469],[-9.134709,30.770524],[-9.135429,30.771189],[-9.136868,30.770967],[-9.136924,30.771299],[-9.136038,30.772573],[-9.135595,30.772794],[-9.135484,30.773569],[-9.136259,30.773901],[-9.138197,30.774123],[-9.140743,30.774455],[-9.141629,30.775285],[-9.142902,30.780267],[-9.140854,30.782537],[-9.139193,30.78464],[-9.138418,30.78536],[-9.136758,30.784917],[-9.136038,30.785858],[-9.135208,30.786633],[-9.133326,30.78619],[-9.129893,30.78691],[-9.128288,30.787242],[-9.126738,30.787021],[-9.125686,30.787962],[-9.124635,30.78774],[-9.124247,30.787519],[-9.123306,30.787574],[-9.122974,30.786633],[-9.121479,30.787187],[-9.121202,30.78774],[-9.119542,30.787242]]],"type":"Polygon"}
 }

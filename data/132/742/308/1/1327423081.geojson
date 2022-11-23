@@ -73,9 +73,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -86,15 +83,15 @@
     "wof:geomhash":"55c8b434350ac36ffe4fcf69b6df356f",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1327423081,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1327423081,
-    "wof:lastmodified":1566599711,
+    "wof:lastmodified":1669156261,
     "wof:name":"Boussay",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

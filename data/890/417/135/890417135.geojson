@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0625\u0641\u0631\u0627\u0646 \u0623\u0637\u0644\u0633 \u0627\u0644\u0635\u063a\u064a\u0631"
     ],
+    "name:ary_x_preferred":[
+        "\u0625\u064a\u0641\u0631\u0627\u0646 \u0627\u0644\u0623\u0637\u0644\u0633 \u0627\u0644\u0635\u063a\u064a\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0641\u0631\u0627\u0646 \u0627\u0637\u0644\u0633-\u0635\u063a\u06cc\u0631"
     ],
@@ -71,7 +74,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673947,
+        1796661367,
         1108784815
     ],
     "wof:breaches":[],
@@ -90,11 +93,11 @@
             "country_id":85632693,
             "county_id":1108784815,
             "localadmin_id":890417135,
-            "region_id":85673947
+            "region_id":1796661367
         }
     ],
     "wof:id":890417135,
-    "wof:lastmodified":1566602031,
+    "wof:lastmodified":1669163537,
     "wof:name":"Ifrane Atlas Saghir",
     "wof:parent_id":1108784815,
     "wof:placetype":"localadmin",

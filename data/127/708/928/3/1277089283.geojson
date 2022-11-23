@@ -37,9 +37,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -50,15 +47,15 @@
     "wof:geomhash":"6111091afa1f0ce340e3af03f6c911aa",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1277089283,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1277089283,
-    "wof:lastmodified":1566600538,
+    "wof:lastmodified":1669156293,
     "wof:name":"Touougnaou",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

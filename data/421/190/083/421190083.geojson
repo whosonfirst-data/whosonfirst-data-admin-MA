@@ -4,17 +4,31 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000458,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.542603,33.211117,-5.542603,33.211117",
-    "geom:latitude":33.211117,
-    "geom:longitude":-5.542603,
+    "geom:bbox":"-5.580703,33.15275,-5.547463,33.179514",
+    "geom:latitude":33.167981,
+    "geom:longitude":-5.565347,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mrirt",
+    "gn:country_code":"MA",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2545069,
+    "gn:latitude":33.16427,
+    "gn:longitude":-5.56722,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mrirt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-5.562603,33.191117,-5.522603,33.231117",
+    "lbl:latitude":33.168048,
+    "lbl:longitude":-5.565599,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -22,6 +36,15 @@
     ],
     "name:eng_x_preferred":[
         "M'rirt"
+    ],
+    "name:und_x_variant":[
+        "Souk Jemaa de Mrirt",
+        "Mrirt",
+        "Djemaa de Mrirt",
+        "Jem\u00e2 de Mrirt",
+        "Ej Jem\u00e2 de Mrirt",
+        "Jemaa del Mrirt",
+        "Jemaa de Mrirt"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,45 +64,58 @@
     "qs:qs_id":1118283,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1538125,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":33.168048,
+    "reversegeo:longitude":-5.565599,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        1108784791,
-        85673915
+        1796661357,
+        1108784791
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2545069,
         "gp:id":1538125,
-        "qs_pg:id":1118283
+        "qs_pg:id":1118283,
+        "wk:page":"M%27Rirt"
     },
     "wof:country":"MA",
     "wof:created":1459009645,
-    "wof:geomhash":"d8f682b7cff383134ea56dbadf4dcb77",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c6e0d1768b73d00ad4421699ac36421e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784791,
             "locality_id":421190083,
-            "region_id":85673915
+            "region_id":1796661357
         }
     ],
     "wof:id":421190083,
-    "wof:lastmodified":1601423090,
+    "wof:lastmodified":1669164709,
     "wof:name":"M'rirt",
     "wof:parent_id":1108784791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326648549
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -5.542603,
-    33.211117,
-    -5.542603,
-    33.211117
+    -5.580703,
+    33.15275,
+    -5.547463,
+    33.179514
 ],
-  "geometry": {"coordinates":[-5.542603,33.211117],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.556827,33.176725],[-5.556097,33.175164],[-5.55075,33.175729],[-5.548526,33.176326],[-5.547463,33.173936],[-5.552846,33.172899],[-5.552112,33.172408],[-5.551149,33.170814],[-5.547745,33.169614],[-5.548459,33.168622],[-5.550252,33.168921],[-5.552344,33.168888],[-5.554038,33.168158],[-5.552676,33.165999],[-5.554835,33.162346],[-5.558488,33.163276],[-5.559152,33.160719],[-5.561211,33.161417],[-5.561908,33.160221],[-5.563369,33.160288],[-5.563402,33.158694],[-5.564564,33.155639],[-5.566225,33.15275],[-5.567221,33.153414],[-5.56928,33.157465],[-5.573796,33.160055],[-5.579109,33.161018],[-5.58047,33.162612],[-5.578378,33.163907],[-5.580703,33.166597],[-5.579473,33.168479],[-5.580072,33.171246],[-5.574294,33.173637],[-5.570176,33.174234],[-5.56742,33.178983],[-5.563568,33.179514],[-5.556827,33.176725]]],"type":"Polygon"}
 }

@@ -1,0 +1,75 @@
+{
+  "id": 1796681809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23361,30.40363,-9.23361,30.40363",
+    "geom:latitude":30.40363,
+    "geom:longitude":-9.23361,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bou kheris",
+    "gn:country_code":"MA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11131483,
+    "gn:latitude":30.40363,
+    "gn:longitude":-9.23361,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bou kheris",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-9.25361,30.38363,-9.21361,30.42363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421185669,
+        890445395,
+        1796661379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11131483
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"57a5bc5e59c169195b0ee9879892b49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445395,
+            "locality_id":421185669,
+            "neighbourhood_id":1796681809,
+            "region_id":1796661379
+        }
+    ],
+    "wof:id":1796681809,
+    "wof:lastmodified":1669161170,
+    "wof:name":"Bou kheris",
+    "wof:parent_id":421185669,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327317725
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23361,
+    30.40363,
+    -9.23361,
+    30.40363
+],
+  "geometry": {"coordinates":[-9.23361,30.40363],"type":"Point"}
+}

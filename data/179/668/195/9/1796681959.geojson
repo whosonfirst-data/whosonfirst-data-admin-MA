@@ -1,0 +1,75 @@
+{
+  "id": 1796681959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.85073,35.73699,-5.85073,35.73699",
+    "geom:latitude":35.73699,
+    "geom:longitude":-5.85073,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Groupe Lhassani",
+    "gn:country_code":"MA",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11059389,
+    "gn:latitude":35.73699,
+    "gn:longitude":-5.85073,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Groupe Lhassani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-5.87073,35.71699,-5.83073,35.75699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190123,
+        1108784783,
+        1796661381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11059389
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"7e306b52f68908f8e575daa7f8a96b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784783,
+            "locality_id":421190123,
+            "neighbourhood_id":1796681959,
+            "region_id":1796661381
+        }
+    ],
+    "wof:id":1796681959,
+    "wof:lastmodified":1669161796,
+    "wof:name":"Groupe Lhassani",
+    "wof:parent_id":421190123,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326633571
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.85073,
+    35.73699,
+    -5.85073,
+    35.73699
+],
+  "geometry": {"coordinates":[-5.85073,35.73699],"type":"Point"}
+}

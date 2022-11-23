@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000212,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-13.74664,23.43868,-13.74664,23.43868",
-    "geom:latitude":23.43868,
-    "geom:longitude":-13.74664,
+    "geom:bbox":"-13.757702,23.432263,-13.732898,23.447071",
+    "geom:latitude":23.439924,
+    "geom:longitude":-13.745679,
     "gn:admin1_code":"12.0",
     "gn:admin2_code":"391.0",
     "gn:admin3_code":"139105032.0",
@@ -25,37 +25,45 @@
     "gn:population":275,
     "gn:timezone":"Africa/El_Aaiun",
     "iso:country":"MA",
-    "lbl:bbox":"-13.76664,23.41868,-13.72664,23.45868",
+    "lbl:latitude":23.439878,
+    "lbl:longitude":-13.745679,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "reversegeo:latitude":23.439878,
+    "reversegeo:longitude":-13.745679,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632217,
-        85681349
+        102191573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11071897
     },
     "wof:country":"MA",
-    "wof:geomhash":"ab5fd32828749967761a285193631c6d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c7dbd21e69f3dc053c0a886e92607827",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
-            "country_id":85632217,
+            "country_id":-1,
             "locality_id":1276966223,
-            "region_id":85681349
+            "region_id":-1
         }
     ],
     "wof:id":1276966223,
-    "wof:lastmodified":1566600836,
+    "wof:lastmodified":1669164756,
     "wof:name":"Gleibet El Foula",
-    "wof:parent_id":85681349,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":275,
     "wof:population_rank":2,
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -13.74664,
-    23.43868,
-    -13.74664,
-    23.43868
+    -13.757702,
+    23.432263,
+    -13.732898,
+    23.447071
 ],
-  "geometry": {"coordinates":[-13.74664,23.43868],"type":"Point"}
+  "geometry": {"coordinates":[[[-13.733916,23.443647],[-13.732898,23.441518],[-13.734193,23.439482],[-13.738821,23.435965],[-13.739839,23.432263],[-13.742616,23.432263],[-13.743634,23.434854],[-13.748169,23.434762],[-13.751686,23.433559],[-13.754647,23.436706],[-13.754832,23.441241],[-13.757146,23.442166],[-13.755851,23.444387],[-13.757702,23.445591],[-13.757702,23.446516],[-13.756684,23.447071],[-13.753999,23.445405],[-13.746966,23.444943],[-13.744467,23.444943],[-13.740857,23.445313],[-13.73771,23.442814],[-13.733916,23.443647]]],"type":"Polygon"}
 }

@@ -64,6 +64,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
+        1796661361,
         85673951
     ],
     "wof:breaches":[],
@@ -79,13 +80,19 @@
             "continent_id":102191573,
             "country_id":85632693,
             "localadmin_id":1125418567,
+            "region_id":1796661361
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "localadmin_id":1125418567,
             "region_id":85673951
         }
     ],
     "wof:id":1125418567,
-    "wof:lastmodified":1566602095,
+    "wof:lastmodified":1669157458,
     "wof:name":"Tichla",
-    "wof:parent_id":85673951,
+    "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:population":469,
     "wof:population_rank":2,

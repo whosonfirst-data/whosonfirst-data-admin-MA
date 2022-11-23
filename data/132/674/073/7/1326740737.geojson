@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000037,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.69825,35.06,-3.69825,35.06",
-    "geom:latitude":35.06,
-    "geom:longitude":-3.69825,
+    "geom:bbox":"-3.702196,35.054616,-3.693733,35.062827",
+    "geom:latitude":35.058932,
+    "geom:longitude":-3.697807,
     "gn:asciiname":"Imagrouden",
     "gn:country_code":"MA",
     "gn:dem":458,
@@ -23,18 +23,25 @@
     "gn:population":50,
     "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-3.71825,35.04,-3.67825,35.08",
+    "lbl:latitude":35.058966,
+    "lbl:longitude":-3.697037,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "reversegeo:latitude":35.058966,
+    "reversegeo:longitude":-3.697037,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673923,
+        1796661375,
         1108784779
     ],
     "wof:breaches":[],
@@ -42,18 +49,21 @@
         "gn:id":8659205
     },
     "wof:country":"MA",
-    "wof:geomhash":"b4ef15a2162529392c4bd3f3c62d248a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"72c25a17e14724cee790767be28767ba",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784779,
             "locality_id":1326740737,
-            "region_id":85673923
+            "region_id":1796661375
         }
     ],
     "wof:id":1326740737,
-    "wof:lastmodified":1566599360,
+    "wof:lastmodified":1669164759,
     "wof:name":"Imagrouden",
     "wof:parent_id":1108784779,
     "wof:placetype":"locality",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.69825,
-    35.06,
-    -3.69825,
-    35.06
+    -3.702196,
+    35.054616,
+    -3.693733,
+    35.062827
 ],
-  "geometry": {"coordinates":[-3.69825,35.06],"type":"Point"}
+  "geometry": {"coordinates":[[[-3.694649,35.057616],[-3.69547,35.056479],[-3.695659,35.054869],[-3.696449,35.054743],[-3.698027,35.054616],[-3.697648,35.055153],[-3.698848,35.055501],[-3.699385,35.056701],[-3.699417,35.057648],[-3.699227,35.058879],[-3.700048,35.058627],[-3.701501,35.058564],[-3.700869,35.060016],[-3.701185,35.060395],[-3.701533,35.060364],[-3.702196,35.06109],[-3.702006,35.061595],[-3.700964,35.062227],[-3.699796,35.062827],[-3.698912,35.061785],[-3.697491,35.061785],[-3.696512,35.061595],[-3.696227,35.061279],[-3.695754,35.060869],[-3.694996,35.060648],[-3.693733,35.060711],[-3.693922,35.059953],[-3.694554,35.059385],[-3.694554,35.05869],[-3.694649,35.057616]]],"type":"Polygon"}
 }

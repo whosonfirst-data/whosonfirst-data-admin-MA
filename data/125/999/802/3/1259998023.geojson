@@ -36,9 +36,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -49,15 +46,15 @@
     "wof:geomhash":"aef199d72d8605f09d761c87c4ad6b68",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1259998023,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1259998023,
-    "wof:lastmodified":1566602497,
+    "wof:lastmodified":1669156292,
     "wof:name":"Agadiyr Ougni",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

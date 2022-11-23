@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0623\u062d\u0641\u064a\u0631"
     ],
+    "name:ary_x_preferred":[
+        "\u0623\u062d\u0641\u064a\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u062d\u0641\u06cc\u0631"
     ],
@@ -40,6 +43,9 @@
     "name:eng_x_preferred":[
         "Ahfir"
     ],
+    "name:epo_x_preferred":[
+        "Ahfir"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u062d\u0641\u06cc\u0631"
     ],
@@ -49,6 +55,9 @@
     "name:fra_x_variant":[
         "Ahfir (MU)",
         "Ahfir (Commune Urbaine)"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d7\u05e4\u05d9\u05e8"
     ],
     "name:ita_x_preferred":[
         "Ahfir"
@@ -71,6 +80,9 @@
     "name:urd_x_preferred":[
         "\u0627\u06c1\u0641\u06cc\u0631"
     ],
+    "name:zho_x_preferred":[
+        "\u827e\u8d6b\u83f2\u5c14"
+    ],
     "qs:name":"Ahfir",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -80,7 +92,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673923,
+        1796661375,
         1108784771
     ],
     "wof:breaches":[],
@@ -99,11 +111,11 @@
             "country_id":85632693,
             "county_id":1108784771,
             "localadmin_id":890416705,
-            "region_id":85673923
+            "region_id":1796661375
         }
     ],
     "wof:id":890416705,
-    "wof:lastmodified":1566602048,
+    "wof:lastmodified":1669163411,
     "wof:name":"Ahfir",
     "wof:parent_id":1108784771,
     "wof:placetype":"localadmin",

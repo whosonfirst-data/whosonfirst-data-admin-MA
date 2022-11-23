@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890445395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +56,17 @@
     "wof:geomhash":"cebd36dca8429c1a77141366b468bd87",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209198423
+            "county_id":890445395,
+            "locality_id":1209198423,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209198423,
-    "wof:lastmodified":1566601219,
+    "wof:lastmodified":1669160753,
     "wof:name":"Iril",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

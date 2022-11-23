@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001982,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.52941,32.24634,-8.52941,32.24634",
-    "geom:latitude":32.24634,
-    "geom:longitude":-8.52941,
+    "geom:bbox":"-8.562469,32.222974,-8.504086,32.272216",
+    "geom:latitude":32.244325,
+    "geom:longitude":-8.533265,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":64910,
     "iso:country":"MA",
-    "lbl:bbox":"-8.54941,32.22634,-8.50941,32.26634",
+    "lbl:latitude":32.243138,
+    "lbl:longitude":-8.533821,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
@@ -21,6 +22,12 @@
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u064a\u0648\u0633\u0641\u064a\u0629"
+    ],
+    "name:ary_x_preferred":[
+        "\u0627\u0644\u064a\u0648\u0633\u0641\u064a\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u064a\u0648\u0633\u0641\u064a\u0647"
     ],
     "name:azb_x_preferred":[
         "\u06cc\u0648\u0633\u0641\u06cc\u0647"
@@ -58,11 +65,20 @@
     "name:nld_x_preferred":[
         "Youssoufia"
     ],
+    "name:nob_x_preferred":[
+        "Youssoufia"
+    ],
     "name:por_x_preferred":[
         "Youssoufia"
     ],
     "name:rus_x_preferred":[
         "\u042e\u0443\u0441\u0441\u0443\u0444\u0438\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Yusuf\u00eda"
+    ],
+    "name:swa_x_preferred":[
+        "Youssoufia"
     ],
     "name:swe_x_preferred":[
         "Youssoufia"
@@ -83,12 +99,19 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"8",
+    "reversegeo:latitude":32.243138,
+    "reversegeo:longitude":-8.533821,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":8,
     "wof:belongsto":[
         102191573,
         85632693,
-        85673937,
+        1796661373,
         1108784821
     ],
     "wof:breaches":[],
@@ -101,18 +124,21 @@
     },
     "wof:country":"MA",
     "wof:created":1469051394,
-    "wof:geomhash":"33f4762e017fe1f07c2713f0ffa078da",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"2c9f6e5505b0e7740bcac5d519bf7cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784821,
             "locality_id":890421479,
-            "region_id":85673937
+            "region_id":1796661373
         }
     ],
     "wof:id":890421479,
-    "wof:lastmodified":1566602030,
+    "wof:lastmodified":1669163650,
     "wof:name":"Youssoufia",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",
@@ -124,10 +150,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.52941,
-    32.24634,
-    -8.52941,
-    32.24634
+    -8.562469,
+    32.222974,
+    -8.504086,
+    32.272216
 ],
-  "geometry": {"coordinates":[-8.52941,32.24634],"type":"Point"}
+  "geometry": {"coordinates":[[[-8.52211,32.270319],[-8.521161,32.267301],[-8.516677,32.259539],[-8.517539,32.255658],[-8.514779,32.25333],[-8.504086,32.250225],[-8.504603,32.246948],[-8.504086,32.243844],[-8.505983,32.226682],[-8.510899,32.224957],[-8.515901,32.224612],[-8.521765,32.230304],[-8.531682,32.224181],[-8.535563,32.22444],[-8.543842,32.229011],[-8.545825,32.225389],[-8.551,32.222974],[-8.561262,32.227372],[-8.562469,32.230218],[-8.559106,32.252812],[-8.560831,32.257556],[-8.554104,32.256693],[-8.550827,32.257038],[-8.545739,32.257901],[-8.54091,32.26411],[-8.537719,32.262126],[-8.535477,32.260488],[-8.536253,32.261781],[-8.537029,32.263592],[-8.539616,32.267214],[-8.53815,32.270146],[-8.536598,32.269025],[-8.533579,32.272216],[-8.529612,32.272044],[-8.523145,32.270319],[-8.52211,32.270319]]],"type":"Polygon"}
 }

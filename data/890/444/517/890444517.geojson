@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001629,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.57359,32.8627,-6.57359,32.8627",
-    "geom:latitude":32.8627,
-    "geom:longitude":-6.57359,
+    "geom:bbox":"-6.594952,32.84066,-6.541689,32.882939",
+    "geom:latitude":32.861703,
+    "geom:longitude":-6.57059,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":84910,
     "iso:country":"MA",
-    "lbl:bbox":"-6.59359,32.8427,-6.55359,32.8827",
+    "lbl:latitude":32.863206,
+    "lbl:longitude":-6.570083,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
@@ -24,6 +25,12 @@
     ],
     "name:ary_x_preferred":[
         "Wad Zam"
+    ],
+    "name:ary_x_variant":[
+        "\u0648\u0627\u062f \u0632\u0645"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u0627\u062f\u0649 \u0632\u0645"
     ],
     "name:azb_x_preferred":[
         "\u0648\u0627\u062f\u0632\u0645"
@@ -109,10 +116,16 @@
     "name:rus_x_preferred":[
         "\u0423\u044d\u0434-\u0417\u0435\u043c"
     ],
+    "name:shi_x_preferred":[
+        "Wad Zm"
+    ],
     "name:sin_x_preferred":[
         "\u0d94\u0d8b\u0da9\u0dca \u0dc3\u0dd9\u0db8\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Oued Zem"
+    ],
+    "name:swa_x_preferred":[
         "Oued Zem"
     ],
     "name:swe_x_preferred":[
@@ -133,6 +146,9 @@
     "name:ukr_x_preferred":[
         "\u041e\u0443\u0435\u0434-\u0417\u0435\u043c"
     ],
+    "name:ukr_x_variant":[
+        "\u0423\u0435\u0434-\u0417\u0435\u043c"
+    ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u06cc\u062f \u0632\u06cc\u0645"
     ],
@@ -146,6 +162,13 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"8",
+    "reversegeo:latitude":32.863206,
+    "reversegeo:longitude":-6.570083,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":"32.86",
     "wd:longitude":"-6.56",
@@ -153,7 +176,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673901,
+        1796661357,
         890422519
     ],
     "wof:breaches":[],
@@ -166,18 +189,21 @@
     },
     "wof:country":"MA",
     "wof:created":1469052471,
-    "wof:geomhash":"3a120e75e859019a9b81a840b05d805d",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"7d8402f3ea9aaabb33593da44d7d5127",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890422519,
             "locality_id":890444517,
-            "region_id":85673901
+            "region_id":1796661357
         }
     ],
     "wof:id":890444517,
-    "wof:lastmodified":1566602040,
+    "wof:lastmodified":1669164229,
     "wof:name":"Oued Zem",
     "wof:parent_id":890422519,
     "wof:placetype":"locality",
@@ -189,10 +215,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.57359,
-    32.8627,
-    -6.57359,
-    32.8627
+    -6.594952,
+    32.84066,
+    -6.541689,
+    32.882939
 ],
-  "geometry": {"coordinates":[-6.57359,32.8627],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.566983,32.882939],[-6.555492,32.878386],[-6.550722,32.875856],[-6.541689,32.868774],[-6.543134,32.86133],[-6.554625,32.848466],[-6.566261,32.844274],[-6.572548,32.84319],[-6.572837,32.840805],[-6.5831,32.84066],[-6.593579,32.844491],[-6.594952,32.856126],[-6.594374,32.865811],[-6.591845,32.86675],[-6.590255,32.872026],[-6.589315,32.873905],[-6.585268,32.876434],[-6.582088,32.879108],[-6.577174,32.880698],[-6.573343,32.88265],[-6.566983,32.882939]]],"type":"Polygon"}
 }

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661359,
+        1108784819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"c6f57af668f3dda94eb60a546c7d930b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209333095
+            "county_id":1108784819,
+            "locality_id":1209333095,
+            "region_id":1796661359
         }
     ],
     "wof:id":1209333095,
-    "wof:lastmodified":1566601161,
+    "wof:lastmodified":1669157252,
     "wof:name":"Douar Sidi Abdellah",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

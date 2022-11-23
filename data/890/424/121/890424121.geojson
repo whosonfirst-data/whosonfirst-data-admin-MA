@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0628\u0646\u064a \u0628\u0648\u0639\u064a\u0627\u0634"
     ],
+    "name:ary_x_preferred":[
+        "\u062c\u0645\u0627\u0639\u0629 \u0628\u0646\u064a \u0628\u0648\u0639\u064a\u0627\u0634"
+    ],
     "name:cat_x_preferred":[
         "A\u00eft Bouayach"
     ],
@@ -59,11 +62,17 @@
     "name:spa_x_preferred":[
         "A\u00eft Bouayach"
     ],
+    "name:spa_x_variant":[
+        "Beni Bu Ayast"
+    ],
     "name:swe_x_preferred":[
         "Bni Bouayach"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0646\u06cc \u0628\u0648\u0639\u06cc\u0627\u0634"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c3c\u5e03\u4e9a\u4ec0"
     ],
     "qs:name":"Bni Bouayach",
     "qs:photos_9r":0,
@@ -74,7 +83,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673893,
+        1796661381,
         890429097
     ],
     "wof:breaches":[],
@@ -93,11 +102,11 @@
             "country_id":85632693,
             "county_id":890429097,
             "localadmin_id":890424121,
-            "region_id":85673893
+            "region_id":1796661381
         }
     ],
     "wof:id":890424121,
-    "wof:lastmodified":1566602000,
+    "wof:lastmodified":1669163795,
     "wof:name":"Bni Bouayach",
     "wof:parent_id":890429097,
     "wof:placetype":"localadmin",

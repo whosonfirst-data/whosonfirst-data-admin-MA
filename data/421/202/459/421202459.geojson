@@ -4,21 +4,40 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00034,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.77045,31.81392,-5.77045,31.81392",
-    "geom:latitude":31.81392,
-    "geom:longitude":-5.77045,
+    "geom:bbox":"-6.43444,31.648227,-6.377527,31.662375",
+    "geom:latitude":31.656591,
+    "geom:longitude":-6.408493,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"81.0",
+    "gn:admin3_code":"1208103092.0",
+    "gn:asciiname":"Tabant",
+    "gn:country_code":"MA",
+    "gn:dem":1972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2532270,
+    "gn:latitude":31.65255,
+    "gn:longitude":-6.41049,
+    "gn:modification_date":"2016-11-02",
+    "gn:name":"Tabant",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-5.79045,31.79392,-5.75045,31.83392",
+    "lbl:latitude":31.657154,
+    "lbl:longitude":-6.408924,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0628\u0627\u0646\u062a"
+    ],
+    "name:ary_x_preferred":[
+        "\u062a\u0627\u0628\u0627\u0646\u062a"
     ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u0431\u0430\u043d\u0442"
@@ -35,11 +54,17 @@
     "name:eng_x_preferred":[
         "Tabant"
     ],
+    "name:fra_x_preferred":[
+        "Tabant"
+    ],
     "name:ita_x_preferred":[
         "Tabant"
     ],
     "name:swe_x_preferred":[
         "Tabant"
+    ],
+    "name:und_x_variant":[
+        "Tabannt"
     ],
     "qs:gn_country":"MA",
     "qs:gn_fcode":"PPL",
@@ -59,13 +84,19 @@
     "qs:qs_id":222690,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1540140,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":31.657154,
+    "reversegeo:longitude":-6.408924,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191573,
         85632693,
-        85673929,
-        1108784839
+        1796661357,
+        1108784827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,31 +107,36 @@
     },
     "wof:country":"MA",
     "wof:created":1459010118,
-    "wof:geomhash":"fcae9ce7629fae6b548ba2c8ab98ea1d",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"9b30a6746540bb0d85f1d5220489bc75",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
-            "county_id":1108784839,
+            "county_id":1108784827,
             "locality_id":421202459,
-            "region_id":85673929
+            "region_id":1796661357
         }
     ],
     "wof:id":421202459,
-    "wof:lastmodified":1566601970,
+    "wof:lastmodified":1669161873,
     "wof:name":"Tabant",
-    "wof:parent_id":1108784839,
+    "wof:parent_id":1108784827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344155709
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -5.77045,
-    31.81392,
-    -5.77045,
-    31.81392
+    -6.43444,
+    31.648227,
+    -6.377527,
+    31.662375
 ],
-  "geometry": {"coordinates":[-5.77045,31.81392],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.427259,31.662375],[-6.424579,31.659159],[-6.420399,31.66066],[-6.415683,31.661839],[-6.414826,31.660124],[-6.408288,31.66141],[-6.40593,31.659373],[-6.402179,31.657873],[-6.399606,31.657015],[-6.397034,31.657659],[-6.396605,31.65798],[-6.394462,31.659052],[-6.392318,31.660445],[-6.390282,31.66066],[-6.387066,31.660981],[-6.384494,31.659588],[-6.38235,31.659695],[-6.38085,31.660231],[-6.380957,31.661303],[-6.37892,31.660445],[-6.377527,31.659159],[-6.377634,31.657337],[-6.379992,31.657444],[-6.381707,31.656265],[-6.384172,31.65648],[-6.387924,31.656372],[-6.390603,31.654336],[-6.395855,31.653157],[-6.396498,31.651013],[-6.398427,31.651013],[-6.400142,31.652943],[-6.403143,31.653586],[-6.406037,31.652407],[-6.40518,31.65037],[-6.404429,31.648227],[-6.40668,31.64962],[-6.409038,31.650477],[-6.409896,31.652835],[-6.411289,31.654443],[-6.414504,31.654336],[-6.416219,31.654872],[-6.417398,31.655622],[-6.419971,31.654872],[-6.4219,31.653371],[-6.424579,31.652728],[-6.426294,31.652407],[-6.428438,31.652192],[-6.429617,31.651656],[-6.431439,31.651656],[-6.43294,31.651549],[-6.43444,31.652621],[-6.432297,31.655944],[-6.430582,31.656908],[-6.430367,31.658623],[-6.429939,31.660981],[-6.427259,31.662375]]],"type":"Polygon"}
 }

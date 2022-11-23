@@ -4,24 +4,135 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000862,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.932075,35.248521,-3.932075,35.248521",
-    "geom:latitude":35.248521,
-    "geom:longitude":-3.932075,
+    "geom:bbox":"-3.954646,35.226732,-3.913269,35.262531",
+    "geom:latitude":35.245424,
+    "geom:longitude":-3.93343,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51.0",
+    "gn:asciiname":"Al Hoceima",
+    "gn:country_code":"MA",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2558545,
+    "gn:latitude":35.25165,
+    "gn:longitude":-3.93723,
+    "gn:modification_date":"2016-11-03",
+    "gn:name":"Al Hoce\u00efma",
+    "gn:population":395644,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-3.952075,35.228521,-3.912075,35.268521",
+    "lbl:latitude":35.247156,
+    "lbl:longitude":-3.936562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0633\u064a\u0645\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u062d\u0633\u06cc\u0645\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0441\u0435\u0439\u043c\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Al Hoceima"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Hoce\u00efma"
+    ],
+    "name:cym_x_preferred":[
+        "Al Hoceima"
+    ],
+    "name:dan_x_preferred":[
+        "Al Hoce\u00efma"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Hoceima"
+    ],
+    "name:deu_x_variant":[
+        "Al Hoce\u00efma"
+    ],
     "name:eng_x_preferred":[
         "Al Hoceima"
+    ],
+    "name:eus_x_preferred":[
+        "Al-Hoceima"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u06cc\u0645\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Al Hoceima"
+    ],
+    "name:fra_x_preferred":[
+        "Al Hoceima"
+    ],
+    "name:fra_x_variant":[
+        "Al Hoce\u00efma"
+    ],
+    "name:glg_x_preferred":[
+        "Al-Hoceima"
+    ],
+    "name:hrv_x_preferred":[
+        "Al-Hoceima"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Hoseyma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30db\u30bb\u30a4\u30de"
+    ],
+    "name:kab_x_preferred":[
+        "Tijdit"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\ud638\uc138\uc774\ub9c8"
+    ],
+    "name:lit_x_preferred":[
+        "Hoseima"
+    ],
+    "name:nld_x_preferred":[
+        "Al Hoceima"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Husajma"
+    ],
+    "name:por_x_preferred":[
+        "Al Hoceima"
+    ],
+    "name:ron_x_preferred":[
+        "Al-Hoceima"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u043e\u0441\u0435\u0439\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Alhucemas"
+    ],
+    "name:spa_x_variant":[
+        "Villa Sanjurjo",
+        "Alhucemas"
+    ],
+    "name:swe_x_preferred":[
+        "Al Hoce\u00efma"
+    ],
+    "name:und_x_variant":[
+        "Alhacemas",
+        "Al \u1e28usaym\u0101t",
+        "Al Huceima"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062d\u0633\u06cc\u0645\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u585e\u99ac"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,45 +152,58 @@
     "qs:qs_id":1118218,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1531158,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":35.247156,
+    "reversegeo:longitude":-3.936562,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        890429097,
-        85673893
+        1796661381,
+        890429097
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2558545,
         "gp:id":1531158,
-        "qs_pg:id":1118218
+        "qs_pg:id":1118218,
+        "wk:page":"Al_Hoceima"
     },
     "wof:country":"MA",
     "wof:created":1459009643,
-    "wof:geomhash":"8b5b09f6e7e2380d565a91c06a42a953",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"ce39905699581ca9a2a4cbce3baaed07",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890429097,
             "locality_id":421190005,
-            "region_id":85673893
+            "region_id":1796661381
         }
     ],
     "wof:id":421190005,
-    "wof:lastmodified":1601423084,
+    "wof:lastmodified":1669164701,
     "wof:name":"Al Hoceima",
     "wof:parent_id":890429097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260083671
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -3.932075,
-    35.248521,
-    -3.932075,
-    35.248521
+    -3.954646,
+    35.226732,
+    -3.913269,
+    35.262531
 ],
-  "geometry": {"coordinates":[-3.932075,35.248521],"type":"Point"}
+  "geometry": {"coordinates":[[[-3.92359,35.229894],[-3.927123,35.229987],[-3.92889,35.231753],[-3.930099,35.231382],[-3.930099,35.230173],[-3.930936,35.229429],[-3.931958,35.228034],[-3.934283,35.226918],[-3.93605,35.226732],[-3.936793,35.227941],[-3.93856,35.227662],[-3.939676,35.22729],[-3.94135,35.228778],[-3.942651,35.230173],[-3.942651,35.23166],[-3.942744,35.232869],[-3.945069,35.232218],[-3.945999,35.233148],[-3.94823,35.23352],[-3.94823,35.234543],[-3.94572,35.235845],[-3.94386,35.236775],[-3.94386,35.237611],[-3.945255,35.238262],[-3.946371,35.238169],[-3.947022,35.239843],[-3.948881,35.240029],[-3.94823,35.241238],[-3.947486,35.242167],[-3.94823,35.244492],[-3.947672,35.245701],[-3.95009,35.24598],[-3.950741,35.24756],[-3.952786,35.247839],[-3.954274,35.247746],[-3.954646,35.248769],[-3.952415,35.250257],[-3.951113,35.251001],[-3.950648,35.251838],[-3.94916,35.25221],[-3.949067,35.25286],[-3.94823,35.25379],[-3.947115,35.254162],[-3.946557,35.254906],[-3.945906,35.256208],[-3.944325,35.25658],[-3.943953,35.257231],[-3.942093,35.25751],[-3.942093,35.257789],[-3.942372,35.258439],[-3.940606,35.259276],[-3.939397,35.25909],[-3.937351,35.259276],[-3.937258,35.260392],[-3.936979,35.261136],[-3.935771,35.261043],[-3.935399,35.261229],[-3.934376,35.261229],[-3.933725,35.26002],[-3.932702,35.26002],[-3.931958,35.260764],[-3.931401,35.262159],[-3.930657,35.262159],[-3.931122,35.260857],[-3.930471,35.260578],[-3.929541,35.261973],[-3.928332,35.262531],[-3.926844,35.261508],[-3.926844,35.260578],[-3.924892,35.259834],[-3.924148,35.26002],[-3.923032,35.259183],[-3.922195,35.259369],[-3.921637,35.259183],[-3.920894,35.258625],[-3.91922,35.258904],[-3.916895,35.256766],[-3.916244,35.257045],[-3.914943,35.255929],[-3.914106,35.256208],[-3.913269,35.253883],[-3.914943,35.25286],[-3.916058,35.252303],[-3.918011,35.251094],[-3.919313,35.25035],[-3.918848,35.249885],[-3.917825,35.248304],[-3.916895,35.246538],[-3.919406,35.246166],[-3.922102,35.244678],[-3.924892,35.244678],[-3.925729,35.243934],[-3.925729,35.242818],[-3.924706,35.241796],[-3.924055,35.241796],[-3.923962,35.24161],[-3.923218,35.241703],[-3.922102,35.241889],[-3.920894,35.241889],[-3.919778,35.242075],[-3.918569,35.240866],[-3.918104,35.239285],[-3.920057,35.238169],[-3.921265,35.237611],[-3.922381,35.237239],[-3.92173,35.236496],[-3.921265,35.236403],[-3.92015,35.23631],[-3.919871,35.235752],[-3.922009,35.234543],[-3.922102,35.234171],[-3.921451,35.233985],[-3.922567,35.232962],[-3.922474,35.232032],[-3.921637,35.232125],[-3.921451,35.231753],[-3.92359,35.229894]]],"type":"Polygon"}
 }

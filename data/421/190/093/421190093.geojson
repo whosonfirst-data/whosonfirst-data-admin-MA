@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.003592,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.581596,33.373401,-7.581596,33.373401",
-    "geom:latitude":33.373401,
-    "geom:longitude":-7.581596,
+    "geom:bbox":"-7.631066,33.328581,-7.560294,33.402214",
+    "geom:latitude":33.364392,
+    "geom:longitude":-7.591076,
     "iso:country":"MA",
-    "lbl:bbox":"-7.601596,33.353401,-7.561596,33.393401",
+    "lbl:latitude":33.363081,
+    "lbl:longitude":-7.59175,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -35,11 +36,17 @@
     "qs:qs_id":1118288,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1538218,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":33.363081,
+    "reversegeo:longitude":-7.59175,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673901,
+        1796661359,
         890424145
     ],
     "wof:breaches":[],
@@ -49,18 +56,21 @@
     },
     "wof:country":"MA",
     "wof:created":1459009645,
-    "wof:geomhash":"171361aadc46007109aa3c38706f12fc",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"86d957bc71f31813bee30361f4a6ec0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890424145,
             "locality_id":421190093,
-            "region_id":85673901
+            "region_id":1796661359
         }
     ],
     "wof:id":421190093,
-    "wof:lastmodified":1566601975,
+    "wof:lastmodified":1669164789,
     "wof:name":"Nwacer",
     "wof:parent_id":890424145,
     "wof:placetype":"locality",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.581596,
-    33.373401,
-    -7.581596,
-    33.373401
+    -7.631066,
+    33.328581,
+    -7.560294,
+    33.402214
 ],
-  "geometry": {"coordinates":[-7.581596,33.373401],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.570181,33.402214],[-7.563677,33.383221],[-7.565758,33.379578],[-7.56758,33.376976],[-7.565498,33.372032],[-7.561595,33.373333],[-7.562896,33.364487],[-7.560294,33.350176],[-7.570962,33.329101],[-7.577727,33.328581],[-7.60999,33.332223],[-7.620138,33.360584],[-7.624561,33.372553],[-7.624561,33.387384],[-7.631066,33.393368],[-7.62274,33.390506],[-7.619357,33.390246],[-7.614414,33.389465],[-7.570181,33.402214]]],"type":"Polygon"}
 }

@@ -34,9 +34,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -47,15 +44,15 @@
     "wof:geomhash":"e21c1f58999b9bde5645a3579676fc6a",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1344075413,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1344075413,
-    "wof:lastmodified":1566599863,
+    "wof:lastmodified":1669156231,
     "wof:name":"Madaw",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

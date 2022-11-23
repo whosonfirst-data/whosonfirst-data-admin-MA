@@ -25,10 +25,16 @@
     "name:ara_x_variant":[
         "\u0628\u064a\u0646 \u0648\u064a\u062f\u0627\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u064a\u0646 \u0644\u0648\u064a\u062f\u0627\u0646"
+    ],
     "name:cat_x_preferred":[
         "Bin El Ouidane"
     ],
     "name:ceb_x_preferred":[
+        "Bin El Ouidane"
+    ],
+    "name:deu_x_preferred":[
         "Bin El Ouidane"
     ],
     "name:eng_x_preferred":[
@@ -40,7 +46,8 @@
     "name:fra_x_variant":[
         "Bin El Ouidane (CR)",
         "Bin El Ouidane (Commune Rurale)",
-        "Bin elouidane"
+        "Bin elouidane",
+        "Bin el Ouidane"
     ],
     "name:ita_x_preferred":[
         "Bin elouidane"
@@ -60,7 +67,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673919,
+        1796661357,
         1108784827
     ],
     "wof:breaches":[],
@@ -79,11 +86,11 @@
             "country_id":85632693,
             "county_id":1108784827,
             "localadmin_id":890440723,
-            "region_id":85673919
+            "region_id":1796661357
         }
     ],
     "wof:id":890440723,
-    "wof:lastmodified":1566601983,
+    "wof:lastmodified":1669164070,
     "wof:name":"Bin El Ouidane",
     "wof:parent_id":1108784827,
     "wof:placetype":"localadmin",

@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"924fc210eee70efdfcd1f1d8c46405c8",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1327120179,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1327120179,
-    "wof:lastmodified":1566599478,
+    "wof:lastmodified":1669155599,
     "wof:name":"Douar Oulad Kaddour",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

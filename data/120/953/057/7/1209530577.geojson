@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661363,
+        1108784773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"fc94f2074570d1e99b0d762103c0b1d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209530577
+            "county_id":1108784773,
+            "locality_id":1209530577,
+            "region_id":1796661363
         }
     ],
     "wof:id":1209530577,
-    "wof:lastmodified":1566600907,
+    "wof:lastmodified":1669157515,
     "wof:name":"Taourirt n'Ait Arji",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784773,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

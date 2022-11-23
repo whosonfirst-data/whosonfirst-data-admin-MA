@@ -1,0 +1,75 @@
+{
+  "id": 1796682325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53087,33.24214,-8.53087,33.24214",
+    "geom:latitude":33.24214,
+    "geom:longitude":-8.53087,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chaibet",
+    "gn:country_code":"MA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471716,
+    "gn:latitude":33.24214,
+    "gn:longitude":-8.53087,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Cha\u00efbet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-8.55087,33.22214,-8.51087,33.26214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190041,
+        890445399,
+        1796661359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471716
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"97486aa69894d785e4bfa805f0aef369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":421190041,
+            "neighbourhood_id":1796682325,
+            "region_id":1796661359
+        }
+    ],
+    "wof:id":1796682325,
+    "wof:lastmodified":1669157457,
+    "wof:name":"Chaibet",
+    "wof:parent_id":421190041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1292997721
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53087,
+    33.24214,
+    -8.53087,
+    33.24214
+],
+  "geometry": {"coordinates":[-8.53087,33.24214],"type":"Point"}
+}

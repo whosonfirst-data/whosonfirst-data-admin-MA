@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,17 @@
     "wof:geomhash":"6ec23e757bfe7f65fab28070ff7a567e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209124607
+            "county_id":1108784801,
+            "locality_id":1209124607,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209124607,
-    "wof:lastmodified":1566601024,
+    "wof:lastmodified":1669158952,
     "wof:name":"Agouni",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

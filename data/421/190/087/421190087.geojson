@@ -4,24 +4,74 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000475,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.039001,32.735279,-9.039001,32.735279",
-    "geom:latitude":32.735279,
-    "geom:longitude":-9.039001,
+    "geom:bbox":"-9.054373,32.720737,-9.013595,32.746705",
+    "geom:latitude":32.73381,
+    "geom:longitude":-9.033149,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Oualidia",
+    "gn:cc2":"MA",
+    "gn:country_code":"MA",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2541068,
+    "gn:latitude":32.73372,
+    "gn:longitude":-9.03059,
+    "gn:modification_date":"2010-06-22",
+    "gn:name":"Oualidia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-9.059001,32.715279,-9.019001,32.755279",
+    "lbl:latitude":32.732128,
+    "lbl:longitude":-9.031759,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0627\u0644\u062f\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Oualidia"
+    ],
+    "name:cym_x_preferred":[
+        "Oualidia"
+    ],
+    "name:deu_x_preferred":[
+        "Oualidia"
+    ],
     "name:eng_x_preferred":[
         "Walidia"
+    ],
+    "name:fra_x_preferred":[
+        "Oualidia"
+    ],
+    "name:ita_x_preferred":[
+        "Loualidia"
+    ],
+    "name:por_x_preferred":[
+        "Oualidia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u043b\u0438\u0434\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Oualidia"
+    ],
+    "name:swe_x_preferred":[
+        "Oualidia"
+    ],
+    "name:und_x_variant":[
+        "El Oualidia",
+        "Kasba Oualidia",
+        "Qualidia",
+        "Oualidiya",
+        "Qa\u015fbah al Wal\u012bd\u012byah",
+        "Koudia Oualidia"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,45 +91,58 @@
     "qs:qs_id":1118286,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1538269,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":32.732128,
+    "reversegeo:longitude":-9.031759,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        1108784819,
-        85673937
+        1796661359,
+        1108784819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2541068,
         "gp:id":1538269,
-        "qs_pg:id":1118286
+        "qs_pg:id":1118286,
+        "wk:page":"Oualidia"
     },
     "wof:country":"MA",
     "wof:created":1459009645,
-    "wof:geomhash":"64edc89208118cacbdd8222e5250c040",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c847abf9572dc73daf735ea5de63d559",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784819,
             "locality_id":421190087,
-            "region_id":85673937
+            "region_id":1796661359
         }
     ],
     "wof:id":421190087,
-    "wof:lastmodified":1601423094,
+    "wof:lastmodified":1669164710,
     "wof:name":"Walidia",
     "wof:parent_id":1108784819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226554843
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -9.039001,
-    32.735279,
-    -9.039001,
-    32.735279
+    -9.054373,
+    32.720737,
+    -9.013595,
+    32.746705
 ],
-  "geometry": {"coordinates":[-9.039001,32.735279],"type":"Point"}
+  "geometry": {"coordinates":[[[-9.04493,32.738264],[-9.043284,32.740124],[-9.04214,32.741698],[-9.04171,32.740982],[-9.040852,32.740768],[-9.035701,32.736761],[-9.034056,32.738121],[-9.032983,32.738264],[-9.031623,32.73948],[-9.031552,32.74041],[-9.028189,32.742413],[-9.028476,32.743486],[-9.028976,32.743915],[-9.028905,32.744774],[-9.027402,32.745203],[-9.026616,32.745561],[-9.025829,32.745275],[-9.023969,32.745918],[-9.023468,32.746634],[-9.022538,32.746705],[-9.022538,32.745918],[-9.02311,32.74506],[-9.022466,32.744202],[-9.021322,32.743987],[-9.020177,32.744845],[-9.018818,32.74413],[-9.017458,32.744631],[-9.013595,32.742127],[-9.01474,32.740768],[-9.014311,32.737334],[-9.015384,32.736547],[-9.016528,32.735045],[-9.019175,32.734758],[-9.020749,32.736046],[-9.022323,32.735259],[-9.025471,32.731396],[-9.023325,32.729751],[-9.025185,32.728534],[-9.026401,32.728534],[-9.030049,32.723884],[-9.031981,32.725029],[-9.033483,32.725387],[-9.037275,32.720737],[-9.04028,32.722954],[-9.041853,32.723598],[-9.042426,32.724242],[-9.043427,32.724314],[-9.045931,32.725673],[-9.047219,32.726531],[-9.048578,32.727604],[-9.051797,32.72739],[-9.05423,32.727533],[-9.054373,32.728034],[-9.053371,32.729464],[-9.053014,32.730323],[-9.051869,32.729751],[-9.051654,32.730681],[-9.051797,32.731181],[-9.050796,32.731181],[-9.049937,32.731539],[-9.04958,32.732183],[-9.048793,32.732469],[-9.047433,32.733471],[-9.046718,32.734901],[-9.04679,32.736118],[-9.045287,32.737119],[-9.04493,32.738264]]],"type":"Polygon"}
 }

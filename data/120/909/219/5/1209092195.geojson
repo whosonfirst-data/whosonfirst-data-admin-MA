@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890445397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"a16e38f111ba4bd3913fe20427e68ffe",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209092195
+            "county_id":890445397,
+            "locality_id":1209092195,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209092195,
-    "wof:lastmodified":1566600886,
+    "wof:lastmodified":1669162338,
     "wof:name":"Douar La'badat",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

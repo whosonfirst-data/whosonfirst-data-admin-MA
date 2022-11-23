@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661357,
+        1108784827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"0ab2e8e2ed59d146f00c3c989bd2cd0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209613081
+            "county_id":1108784827,
+            "locality_id":1209613081,
+            "region_id":1796661357
         }
     ],
     "wof:id":1209613081,
-    "wof:lastmodified":1566601087,
+    "wof:lastmodified":1669156640,
     "wof:name":"Tissouggatiyn",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

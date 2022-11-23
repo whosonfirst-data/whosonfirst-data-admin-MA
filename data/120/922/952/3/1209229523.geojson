@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661363,
+        1108784795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"bbe642f697c87bf762f695259690a3fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209229523
+            "county_id":1108784795,
+            "locality_id":1209229523,
+            "region_id":1796661363
         }
     ],
     "wof:id":1209229523,
-    "wof:lastmodified":1566601067,
+    "wof:lastmodified":1669157529,
     "wof:name":"Ait Yakoub",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784795,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

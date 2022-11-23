@@ -1,0 +1,75 @@
+{
+  "id": 1796681875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36503,35.82872,-5.36503,35.82872",
+    "geom:latitude":35.82872,
+    "geom:longitude":-5.36503,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Touirssa",
+    "gn:country_code":"MA",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11066352,
+    "gn:latitude":35.82872,
+    "gn:longitude":-5.36503,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Touirssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-5.38503,35.80872,-5.34503,35.84872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421177489,
+        1108784777,
+        1796661381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11066352
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"af9a4d0eeaddd978c117d88a6889c5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784777,
+            "locality_id":421177489,
+            "neighbourhood_id":1796681875,
+            "region_id":1796661381
+        }
+    ],
+    "wof:id":1796681875,
+    "wof:lastmodified":1669161796,
+    "wof:name":"Touirssa",
+    "wof:parent_id":421177489,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327244691
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36503,
+    35.82872,
+    -5.36503,
+    35.82872
+],
+  "geometry": {"coordinates":[-5.36503,35.82872],"type":"Point"}
+}

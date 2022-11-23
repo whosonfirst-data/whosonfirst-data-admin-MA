@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673923,
         1108784775
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"f961de86f4cd18b742c4d725f29c64e6",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784775,
             "locality_id":1293786415,
-            "region_id":85673923
+            "region_id":-1
         }
     ],
     "wof:id":1293786415,
-    "wof:lastmodified":1566600313,
+    "wof:lastmodified":1669155800,
     "wof:name":"Oulad Jaber",
     "wof:parent_id":1108784775,
     "wof:placetype":"locality",

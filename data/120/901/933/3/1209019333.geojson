@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890422513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"90246c001137d8d753fe5834094612e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209019333
+            "county_id":890422513,
+            "locality_id":1209019333,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209019333,
-    "wof:lastmodified":1566600936,
+    "wof:lastmodified":1669161933,
     "wof:name":"Douar Siyyar Boujnah",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890422513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

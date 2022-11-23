@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0632\u0637\u0648\u0637\u064a\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u062a\u064a\u0632\u0637\u0648\u062a\u064a\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0632\u0637\u0648\u0637\u06cc\u0646"
     ],
@@ -53,6 +56,9 @@
     "name:spa_x_preferred":[
         "Tiztoutine"
     ],
+    "name:spa_x_variant":[
+        "Tistut\u00edn"
+    ],
     "name:swe_x_preferred":[
         "Tiztoutine"
     ],
@@ -65,7 +71,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673923,
+        1796661375,
         890455271
     ],
     "wof:breaches":[],
@@ -84,11 +90,11 @@
             "country_id":85632693,
             "county_id":890455271,
             "localadmin_id":890441053,
-            "region_id":85673923
+            "region_id":1796661375
         }
     ],
     "wof:id":890441053,
-    "wof:lastmodified":1566601993,
+    "wof:lastmodified":1669164170,
     "wof:name":"Tiztoutine",
     "wof:parent_id":890455271,
     "wof:placetype":"localadmin",

@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0623\u0645\u0631\u0635\u064a\u062f"
     ],
+    "name:ary_x_preferred":[
+        "\u0623\u0645\u0631\u0635\u064a\u062f"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043c\u0435\u0440\u0441\u0438\u0434"
     ],
@@ -47,6 +50,9 @@
     "name:ita_x_preferred":[
         "Amersid"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e1\u30eb\u30b7\u30c9"
+    ],
     "name:swe_x_preferred":[
         "Amersid"
     ],
@@ -59,7 +65,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673915,
+        1796661363,
         1108784795
     ],
     "wof:breaches":[],
@@ -78,11 +84,11 @@
             "country_id":85632693,
             "county_id":1108784795,
             "localadmin_id":890440751,
-            "region_id":85673915
+            "region_id":1796661363
         }
     ],
     "wof:id":890440751,
-    "wof:lastmodified":1566601984,
+    "wof:lastmodified":1669164076,
     "wof:name":"Amersid",
     "wof:parent_id":1108784795,
     "wof:placetype":"localadmin",

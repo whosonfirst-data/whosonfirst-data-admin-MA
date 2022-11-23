@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0622\u0633\u0641\u064a"
     ],
+    "name:ary_x_preferred":[
+        "\u0622\u0633\u0641\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0622\u0633\u0641\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0633\u0641\u06cc"
     ],
@@ -91,6 +97,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05e4\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e1\u05e4\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u092b\u0940"
     ],
@@ -99,6 +108,9 @@
     ],
     "name:hun_x_preferred":[
         "Safi"
+    ],
+    "name:hun_x_variant":[
+        "Szafi"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0586\u056b"
@@ -145,6 +157,9 @@
     "name:nld_x_preferred":[
         "Safi"
     ],
+    "name:nno_x_preferred":[
+        "Safi"
+    ],
     "name:nob_x_preferred":[
         "Safi"
     ],
@@ -166,11 +181,17 @@
     "name:sco_x_preferred":[
         "Safi"
     ],
+    "name:shi_x_preferred":[
+        "Asfi"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dcf\u0dc6\u0dd2"
     ],
     "name:spa_x_preferred":[
         "Saf\u00ed"
+    ],
+    "name:swa_x_preferred":[
+        "Safi"
     ],
     "name:swe_x_preferred":[
         "Safi"
@@ -199,6 +220,9 @@
     "name:urd_x_variant":[
         "\u0627\u0633\u0641\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "Safi"
+    ],
     "name:vie_x_preferred":[
         "Safi"
     ],
@@ -207,6 +231,9 @@
     ],
     "name:wln_x_preferred":[
         "Asfi"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e1\u05d0\u05e4\u05d9"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u975e"
@@ -312,7 +339,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673937,
+        1796661373,
         890445397
     ],
     "wof:breaches":[],
@@ -332,11 +359,11 @@
             "country_id":85632693,
             "county_id":890445397,
             "locality_id":890444505,
-            "region_id":85673937
+            "region_id":1796661373
         }
     ],
     "wof:id":890444505,
-    "wof:lastmodified":1566602040,
+    "wof:lastmodified":1669164228,
     "wof:name":"Safi",
     "wof:parent_id":890445397,
     "wof:placetype":"locality",

@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661363,
+        1108784773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"727ee960d2246443040f74c393b87637",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209404765
+            "county_id":1108784773,
+            "locality_id":1209404765,
+            "region_id":1796661363
         }
     ],
     "wof:id":1209404765,
-    "wof:lastmodified":1566601038,
+    "wof:lastmodified":1669157529,
     "wof:name":"Tarda",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784773,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661377,
+        890427533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"3a3f80f22b8a1b6b95068217cd8ea474",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209319535
+            "county_id":890427533,
+            "locality_id":1209319535,
+            "region_id":1796661377
         }
     ],
     "wof:id":1209319535,
-    "wof:lastmodified":1566600892,
+    "wof:lastmodified":1669160115,
     "wof:name":"Douar Mriss",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890427533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

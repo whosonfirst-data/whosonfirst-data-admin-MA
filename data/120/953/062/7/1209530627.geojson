@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890445397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"27a9dc6018412119162e9773f75e6147",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209530627
+            "county_id":890445397,
+            "locality_id":1209530627,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209530627,
-    "wof:lastmodified":1566600899,
+    "wof:lastmodified":1669162347,
     "wof:name":"Douar Oulad Ali Ben Dahane",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

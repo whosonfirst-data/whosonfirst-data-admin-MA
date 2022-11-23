@@ -34,9 +34,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -47,15 +44,15 @@
     "wof:geomhash":"eeec12831698a9e9a4587a8d98b7eee8",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1243443533,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1243443533,
-    "wof:lastmodified":1566602441,
+    "wof:lastmodified":1669156246,
     "wof:name":"Agadir-n-Tjzirt",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784841
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"7b1f3ab6e64d889cbe62d137ef87afcf",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784841,
             "locality_id":1327322281,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1327322281,
-    "wof:lastmodified":1566599540,
+    "wof:lastmodified":1669156410,
     "wof:name":"Abertih",
     "wof:parent_id":1108784841,
     "wof:placetype":"locality",

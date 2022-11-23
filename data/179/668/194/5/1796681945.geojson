@@ -1,0 +1,75 @@
+{
+  "id": 1796681945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.53404,34.22463,-6.53404,34.22463",
+    "geom:latitude":34.22463,
+    "geom:longitude":-6.53404,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Poster Forestier Ain Sbaa",
+    "gn:country_code":"MA",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10960316,
+    "gn:latitude":34.22463,
+    "gn:longitude":-6.53404,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Poster Forestier Ain Sbaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.55404,34.20463,-6.51404,34.24463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190067,
+        890427533,
+        1796661377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10960316
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"8509ce33f9a3bc5005c1d50e9064b66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890427533,
+            "locality_id":421190067,
+            "neighbourhood_id":1796681945,
+            "region_id":1796661377
+        }
+    ],
+    "wof:id":1796681945,
+    "wof:lastmodified":1669160430,
+    "wof:name":"Poster Forestier Ain Sbaa",
+    "wof:parent_id":421190067,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326553657
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.53404,
+    34.22463,
+    -6.53404,
+    34.22463
+],
+  "geometry": {"coordinates":[-6.53404,34.22463],"type":"Point"}
+}

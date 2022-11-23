@@ -1,0 +1,84 @@
+{
+  "id": 1796682291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.07127,34.01341,-5.07127,34.01341",
+    "geom:latitude":34.01341,
+    "geom:longitude":-5.07127,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Douar Biyour Achra",
+    "gn:country_code":"MA",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10984910,
+    "gn:latitude":34.01341,
+    "gn:longitude":-5.07127,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Biyour Achra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-5.09127,33.99341,-5.05127,34.03341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190143,
+        890454333,
+        85673887,
+        1796661365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984910
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"e91087beb4fbebdaeb6ce27ad2709a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":421190143,
+            "neighbourhood_id":1796682291,
+            "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":421190143,
+            "neighbourhood_id":1796682291,
+            "region_id":1796661365
+        }
+    ],
+    "wof:id":1796682291,
+    "wof:lastmodified":1669163391,
+    "wof:name":"Douar Biyour Achra",
+    "wof:parent_id":421190143,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293693775
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.07127,
+    34.01341,
+    -5.07127,
+    34.01341
+],
+  "geometry": {"coordinates":[-5.07127,34.01341],"type":"Point"}
+}

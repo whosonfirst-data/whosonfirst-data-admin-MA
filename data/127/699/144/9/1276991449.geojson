@@ -35,9 +35,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -48,15 +45,15 @@
     "wof:geomhash":"14ee19b42b5f5d0055c975b207f71cae",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1276991449,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1276991449,
-    "wof:lastmodified":1566600812,
+    "wof:lastmodified":1669156292,
     "wof:name":"Ansour",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

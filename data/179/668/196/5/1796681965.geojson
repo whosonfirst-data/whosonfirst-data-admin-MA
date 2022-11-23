@@ -1,0 +1,75 @@
+{
+  "id": 1796681965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.9996,35.03165,-2.9996,35.03165",
+    "geom:latitude":35.03165,
+    "geom:longitude":-2.9996,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Douar Laaraouate",
+    "gn:country_code":"MA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961554,
+    "gn:latitude":35.03165,
+    "gn:longitude":-2.9996,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Douar Laaraouate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-3.0196,35.01165,-2.9796,35.05165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        1226153305,
+        890455271,
+        1796661375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961554
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"1b1ce18a8bad113fc54ddc5038ab1664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890455271,
+            "locality_id":1226153305,
+            "neighbourhood_id":1796681965,
+            "region_id":1796661375
+        }
+    ],
+    "wof:id":1796681965,
+    "wof:lastmodified":1669160047,
+    "wof:name":"Douar Laaraouate",
+    "wof:parent_id":1226153305,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326632311
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9996,
+    35.03165,
+    -2.9996,
+    35.03165
+],
+  "geometry": {"coordinates":[-2.9996,35.03165],"type":"Point"}
+}

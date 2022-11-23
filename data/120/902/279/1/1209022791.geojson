@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661377,
+        890427533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"42f824feb12a5df32a8268ca086a4b0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209022791
+            "county_id":890427533,
+            "locality_id":1209022791,
+            "region_id":1796661377
         }
     ],
     "wof:id":1209022791,
-    "wof:lastmodified":1566601156,
+    "wof:lastmodified":1669160104,
     "wof:name":"Njajaa Lgharbiyine",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890427533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

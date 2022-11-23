@@ -4,24 +4,76 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000387,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.959418,31.306832,-7.959418,31.306832",
-    "geom:latitude":31.306832,
-    "geom:longitude":-7.959418,
+    "geom:bbox":"-7.954057,31.344005,-7.927233,31.373369",
+    "geom:latitude":31.362151,
+    "geom:longitude":-7.943514,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tahannawt",
+    "gn:country_code":"MA",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2531432,
+    "gn:latitude":31.35236,
+    "gn:longitude":-7.95012,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Tahannawt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-7.979418,31.286832,-7.939418,31.326832",
+    "lbl:latitude":31.365088,
+    "lbl:longitude":-7.944835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u062d\u0646\u0627\u0648\u062a"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u062d\u0646\u0627\u0648\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "Tahannaout"
+    ],
+    "name:ceb_x_preferred":[
+        "Tahannout"
+    ],
     "name:eng_x_preferred":[
         "Tahannout"
+    ],
+    "name:eng_x_variant":[
+        "Tahnaout"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u062d\u0646\u0627\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tahannaout"
+    ],
+    "name:nld_x_preferred":[
+        "Tahanaout"
+    ],
+    "name:por_x_preferred":[
+        "Tahannaout"
+    ],
+    "name:swe_x_preferred":[
+        "Tahannaout"
+    ],
+    "name:und_x_variant":[
+        "Tahanaoute",
+        "Tahanaut",
+        "Tahannawt"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u062d\u0646\u0627\u0648\u062a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u6f22\u52aa\u7279"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,45 +93,58 @@
     "qs:qs_id":1118301,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1540465,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":31.365088,
+    "reversegeo:longitude":-7.944835,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        1108784801,
-        85673933
+        1796661373,
+        1108784801
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2531432,
         "gp:id":1540465,
-        "qs_pg:id":1118301
+        "qs_pg:id":1118301,
+        "wk:page":"Tahannaout"
     },
     "wof:country":"MA",
     "wof:created":1459009647,
-    "wof:geomhash":"0274f0f99d3c9daa2c8027e43822de0d",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"358d31aa742e79b5abe35c5c1ff9c049",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784801,
             "locality_id":421190121,
-            "region_id":85673933
+            "region_id":1796661373
         }
     ],
     "wof:id":421190121,
-    "wof:lastmodified":1601423093,
+    "wof:lastmodified":1669164714,
     "wof:name":"Tahannout",
     "wof:parent_id":1108784801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343446829
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -7.959418,
-    31.306832,
-    -7.959418,
-    31.306832
+    -7.954057,
+    31.344005,
+    -7.927233,
+    31.373369
 ],
-  "geometry": {"coordinates":[-7.959418,31.306832],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.934224,31.367959],[-7.929813,31.366128],[-7.927233,31.363881],[-7.928315,31.359387],[-7.933016,31.3578],[-7.939426,31.359542],[-7.941098,31.356511],[-7.945975,31.357173],[-7.9481,31.354352],[-7.948413,31.349962],[-7.949284,31.347768],[-7.949667,31.344493],[-7.951026,31.344005],[-7.952977,31.344598],[-7.953639,31.347628],[-7.954057,31.35261],[-7.952698,31.358288],[-7.953465,31.361772],[-7.954022,31.363931],[-7.953987,31.365255],[-7.953151,31.368042],[-7.950538,31.370759],[-7.947229,31.37278],[-7.944545,31.373203],[-7.940883,31.373369],[-7.936555,31.370872],[-7.935889,31.369541],[-7.934224,31.367959]]],"type":"Polygon"}
 }

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890442529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"f312fe672486351dc7adfb4bae56d33e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209424155
+            "county_id":890442529,
+            "locality_id":1209424155,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209424155,
-    "wof:lastmodified":1566601210,
+    "wof:lastmodified":1669161213,
     "wof:name":"Souihla",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890442529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

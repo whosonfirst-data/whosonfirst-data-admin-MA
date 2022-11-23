@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661377,
+        890453897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"f13e493eb091213044801de7364f00e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209324885
+            "county_id":890453897,
+            "locality_id":1209324885,
+            "region_id":1796661377
         }
     ],
     "wof:id":1209324885,
-    "wof:lastmodified":1566601114,
+    "wof:lastmodified":1669160298,
     "wof:name":"Sidi Lahssen",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

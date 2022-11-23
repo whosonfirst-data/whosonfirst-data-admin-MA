@@ -34,9 +34,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -47,15 +44,15 @@
     "wof:geomhash":"8c744d611917db1c31ed5c343460a600",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1293697025,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1293697025,
-    "wof:lastmodified":1566600349,
+    "wof:lastmodified":1669155604,
     "wof:name":"Douar El Orj",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

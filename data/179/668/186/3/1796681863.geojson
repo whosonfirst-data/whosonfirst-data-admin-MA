@@ -1,0 +1,75 @@
+{
+  "id": 1796681863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.71045,34.13295,-6.71045,34.13295",
+    "geom:latitude":34.13295,
+    "geom:longitude":-6.71045,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dar Abdeslam Ben Tami",
+    "gn:country_code":"MA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10797442,
+    "gn:latitude":34.13295,
+    "gn:longitude":-6.71045,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Dar Abdeslam Ben Tami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.73045,34.11295,-6.69045,34.15295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421186359,
+        1108784811,
+        1796661377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10797442
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b8a6634ef5246707c262fd0e1b8a676d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "locality_id":421186359,
+            "neighbourhood_id":1796681863,
+            "region_id":1796661377
+        }
+    ],
+    "wof:id":1796681863,
+    "wof:lastmodified":1669160433,
+    "wof:name":"Dar Abdeslam Ben Tami",
+    "wof:parent_id":421186359,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327134163
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.71045,
+    34.13295,
+    -6.71045,
+    34.13295
+],
+  "geometry": {"coordinates":[-6.71045,34.13295],"type":"Point"}
+}

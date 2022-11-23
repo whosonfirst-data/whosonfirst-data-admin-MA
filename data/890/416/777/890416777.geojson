@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0622\u0646\u0641\u0627"
     ],
+    "name:ary_x_preferred":[
+        "\u0623\u0646\u0641\u0627"
+    ],
     "name:cat_x_preferred":[
         "Anfa"
     ],
@@ -38,8 +41,14 @@
         "Anfa (AR)",
         "Anfa (Arrondissement)"
     ],
+    "name:gle_x_preferred":[
+        "Anfa"
+    ],
     "name:nld_x_preferred":[
         "Anfa"
+    ],
+    "name:por_x_preferred":[
+        "Anaf\u00e9"
     ],
     "name:spa_x_preferred":[
         "Anfa"
@@ -53,7 +62,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673905,
+        1796661359,
         890442533
     ],
     "wof:breaches":[],
@@ -72,11 +81,11 @@
             "country_id":85632693,
             "county_id":890442533,
             "localadmin_id":890416777,
-            "region_id":85673905
+            "region_id":1796661359
         }
     ],
     "wof:id":890416777,
-    "wof:lastmodified":1566602047,
+    "wof:lastmodified":1669163427,
     "wof:name":"Anfa",
     "wof:parent_id":890442533,
     "wof:placetype":"localadmin",

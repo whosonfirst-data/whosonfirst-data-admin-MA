@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"7adaba7bd42a4da6f81c705f3796da52",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1243063243,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1243063243,
-    "wof:lastmodified":1566602148,
+    "wof:lastmodified":1669156232,
     "wof:name":"Boulaine",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

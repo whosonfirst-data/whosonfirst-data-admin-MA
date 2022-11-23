@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890429099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"07bd7c5ec785e40c08148cca32ecea39",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209625539
+            "county_id":890429099,
+            "locality_id":1209625539,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209625539,
-    "wof:lastmodified":1566600924,
+    "wof:lastmodified":1669161074,
     "wof:name":"Iggui n'Tama",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890429099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

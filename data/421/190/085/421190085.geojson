@@ -4,24 +4,193 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.003645,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.949829,35.171703,-2.949829,35.171703",
-    "geom:latitude":35.171703,
-    "geom:longitude":-2.949829,
+    "geom:bbox":"-2.962899,35.126272,-2.88235,35.223768",
+    "geom:latitude":35.176619,
+    "geom:longitude":-2.930101,
+    "gn:country":"MA",
+    "gn:fcode":"PPLA3",
+    "gn:population":129260,
     "iso:country":"MA",
-    "lbl:bbox":"-2.969829,35.151703,-2.929829,35.191703",
+    "lbl:latitude":35.173351,
+    "lbl:longitude":-2.937423,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0627\u0636\u0648\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0627\u0638\u0648\u0631"
+    ],
+    "name:ary_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0638\u0648\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0638\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0638\u0648\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0434\u043e\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09c7\u09a1\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "Nador"
+    ],
+    "name:ceb_x_preferred":[
+        "Nador"
+    ],
+    "name:dan_x_preferred":[
+        "Nador"
+    ],
+    "name:deu_x_preferred":[
+        "Nador"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bd\u03c4\u03cc\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Al Nador"
+    ],
+    "name:eng_x_variant":[
+        "Nador"
+    ],
+    "name:epo_x_preferred":[
+        "Nador"
+    ],
+    "name:eus_x_preferred":[
+        "Nador"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0638\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Nador"
+    ],
+    "name:fra_x_preferred":[
+        "Nador"
+    ],
+    "name:gle_x_preferred":[
+        "Nador"
+    ],
+    "name:glg_x_preferred":[
+        "Nador"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0aa1\u0acb\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0926\u094b\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Nador"
+    ],
+    "name:ind_x_preferred":[
+        "Nador"
+    ],
+    "name:ita_x_preferred":[
+        "Nador"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30c9\u30fc\u30eb"
+    ],
+    "name:kab_x_preferred":[
+        "Nna\u1e0dur"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0ca1\u0ccb\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\ub3c4\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "N\u0101dora"
+    ],
+    "name:lit_x_preferred":[
+        "Nadoras"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u0947\u0921\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Nador"
+    ],
+    "name:nld_x_preferred":[
+        "Nador"
+    ],
+    "name:nob_x_preferred":[
+        "Nador"
+    ],
+    "name:pol_x_preferred":[
+        "Nador"
+    ],
+    "name:por_x_preferred":[
+        "Nador"
+    ],
+    "name:ron_x_preferred":[
+        "Nador"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0434\u043e\u0440"
+    ],
+    "name:shi_x_preferred":[
+        "Nadur"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dcf\u0daf\u0ddd\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Nador"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0434\u043e\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Nador"
+    ],
+    "name:swe_x_preferred":[
+        "Nador"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbe\u0b9f\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c21\u0c4b\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e32\u0e14\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Nador"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0434\u043e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Villa Nador"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0638\u0648\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Nador"
+    ],
+    "name:vie_x_preferred":[
+        "Nador"
+    ],
+    "name:war_x_preferred":[
+        "Nador"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u7956\u723e"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,45 +210,59 @@
     "qs:qs_id":1118285,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1538173,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":35.173351,
+    "reversegeo:longitude":-2.937423,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        890455271,
-        85673923
+        1796661375,
+        890455271
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2541479,
         "gp:id":1538173,
-        "qs_pg:id":1118285
+        "qs_pg:id":1118285,
+        "wd:id":"Q824594",
+        "wk:page":"Nador"
     },
     "wof:country":"MA",
     "wof:created":1459009645,
-    "wof:geomhash":"6f260cce330c6790946550bd4974fe1b",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"9c14730cdcfc12a92e293b796bd94ed8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890455271,
             "locality_id":421190085,
-            "region_id":85673923
+            "region_id":1796661375
         }
     ],
     "wof:id":421190085,
-    "wof:lastmodified":1601423085,
+    "wof:lastmodified":1669161834,
     "wof:name":"Al Nador",
     "wof:parent_id":890455271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890436347
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -2.949829,
-    35.171703,
-    -2.949829,
-    35.171703
+    -2.962899,
+    35.126272,
+    -2.88235,
+    35.223768
 ],
-  "geometry": {"coordinates":[-2.949829,35.171703],"type":"Point"}
+  "geometry": {"coordinates":[[[-2.923126,35.223768],[-2.921398,35.223714],[-2.919733,35.222201],[-2.91822,35.219325],[-2.915193,35.21766],[-2.911409,35.219476],[-2.908533,35.217963],[-2.906111,35.217509],[-2.905657,35.218265],[-2.904447,35.217206],[-2.904749,35.216752],[-2.900814,35.215844],[-2.898392,35.213573],[-2.899149,35.20873],[-2.904144,35.205703],[-2.909593,35.210244],[-2.91156,35.210092],[-2.911258,35.205249],[-2.911712,35.2054],[-2.913225,35.203887],[-2.917463,35.203584],[-2.918371,35.201314],[-2.920642,35.199195],[-2.923669,35.198892],[-2.925485,35.196773],[-2.925024,35.194072],[-2.926427,35.192668],[-2.925725,35.192528],[-2.924602,35.190282],[-2.922778,35.190001],[-2.921233,35.187334],[-2.922076,35.187194],[-2.923339,35.188878],[-2.924743,35.188738],[-2.922918,35.185369],[-2.924041,35.185649],[-2.923901,35.184105],[-2.922216,35.181719],[-2.920812,35.179613],[-2.919268,35.177367],[-2.918286,35.176806],[-2.917724,35.175683],[-2.916601,35.173998],[-2.914355,35.172875],[-2.91253,35.17091],[-2.913373,35.170349],[-2.91239,35.168384],[-2.910284,35.166418],[-2.909442,35.164874],[-2.908881,35.164734],[-2.907898,35.164313],[-2.905933,35.164172],[-2.906073,35.163049],[-2.906073,35.162348],[-2.90481,35.163049],[-2.904248,35.162348],[-2.904248,35.161225],[-2.903546,35.160382],[-2.904389,35.159119],[-2.905652,35.158698],[-2.905652,35.15589],[-2.904669,35.153785],[-2.903546,35.153223],[-2.903406,35.1521],[-2.903827,35.151258],[-2.900177,35.145783],[-2.89737,35.142976],[-2.88235,35.132448],[-2.886561,35.126272],[-2.892597,35.12936],[-2.917724,35.141993],[-2.925164,35.141853],[-2.923058,35.133992],[-2.936534,35.133571],[-2.938219,35.141432],[-2.941868,35.143678],[-2.943693,35.145643],[-2.945518,35.147328],[-2.947624,35.150556],[-2.944159,35.152967],[-2.943326,35.156819],[-2.944263,35.155674],[-2.945825,35.155986],[-2.946762,35.157027],[-2.948323,35.157131],[-2.948948,35.157652],[-2.950093,35.158068],[-2.950822,35.159005],[-2.951967,35.158485],[-2.953841,35.159213],[-2.954882,35.159838],[-2.955195,35.160983],[-2.955507,35.1614],[-2.95634,35.162128],[-2.957485,35.163378],[-2.95686,35.164731],[-2.958318,35.16723],[-2.95863,35.168375],[-2.958318,35.16952],[-2.958422,35.170666],[-2.957381,35.171186],[-2.957277,35.172019],[-2.957797,35.173164],[-2.957381,35.174518],[-2.955923,35.176079],[-2.955715,35.177016],[-2.95686,35.177329],[-2.956548,35.178474],[-2.957173,35.18014],[-2.957173,35.180764],[-2.957693,35.182222],[-2.959255,35.183367],[-2.960817,35.185449],[-2.961962,35.186595],[-2.962899,35.187115],[-2.960192,35.191592],[-2.956246,35.201057],[-2.961135,35.206449],[-2.958618,35.216155],[-2.949411,35.211739],[-2.9386,35.214176],[-2.937223,35.216667],[-2.934308,35.220218],[-2.929538,35.221437],[-2.926889,35.222391],[-2.92461,35.223768],[-2.923126,35.223768]]],"type":"Polygon"}
 }

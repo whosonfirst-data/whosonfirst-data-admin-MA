@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673937,
         1108784821
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"b116e670cc69a1264cd9402f6d841cff",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784821,
             "locality_id":1326850729,
-            "region_id":85673937
+            "region_id":-1
         }
     ],
     "wof:id":1326850729,
-    "wof:lastmodified":1566599586,
+    "wof:lastmodified":1669155567,
     "wof:name":"Khyam Abbas Ben Mbarek",
     "wof:parent_id":1108784821,
     "wof:placetype":"locality",

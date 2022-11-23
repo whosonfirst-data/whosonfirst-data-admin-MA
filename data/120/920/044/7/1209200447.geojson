@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        1108784785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"84ce878003fbc59319541d3267422438",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209200447
+            "county_id":1108784785,
+            "locality_id":1209200447,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209200447,
-    "wof:lastmodified":1566601183,
+    "wof:lastmodified":1669161939,
     "wof:name":"Oulad Ya'goub",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

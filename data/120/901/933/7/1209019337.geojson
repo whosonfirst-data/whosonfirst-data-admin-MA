@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890453883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"520ce7d68f7ac5ad03c2c944175ebb72",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209019337
+            "county_id":890453883,
+            "locality_id":1209019337,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209019337,
-    "wof:lastmodified":1566600936,
+    "wof:lastmodified":1669161489,
     "wof:name":"Douar Bni Ammar",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890453883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

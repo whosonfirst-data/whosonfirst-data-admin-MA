@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0637\u0627\u0646\u0637\u0627\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u0637\u0627\u0646 \u0637\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0637\u0627\u0646\u0637\u0627\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0637\u0627\u0646\u0637\u0627\u0646"
     ],
@@ -55,6 +61,9 @@
     "name:eng_x_preferred":[
         "Tan-Tan"
     ],
+    "name:est_x_preferred":[
+        "Tan-Tan"
+    ],
     "name:fas_x_preferred":[
         "\u0637\u0627\u0646\u0637\u0627\u0646"
     ],
@@ -80,6 +89,9 @@
     ],
     "name:hun_x_preferred":[
         "Tan Tan"
+    ],
+    "name:hun_x_variant":[
+        "Tan-Tan"
     ],
     "name:ind_x_preferred":[
         "Tan-Tan"
@@ -126,10 +138,16 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043d-\u0422\u0430\u043d"
     ],
+    "name:shi_x_preferred":[
+        "Tantan"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0dd0\u0db1\u0dca \u0da7\u0dd0\u0db1\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Tan-Tan"
+    ],
+    "name:swa_x_preferred":[
         "Tan-Tan"
     ],
     "name:swe_x_preferred":[
@@ -168,7 +186,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673947,
+        1796661367,
         890418107
     ],
     "wof:breaches":[],
@@ -187,11 +205,11 @@
             "country_id":85632693,
             "county_id":890418107,
             "localadmin_id":890445533,
-            "region_id":85673947
+            "region_id":1796661367
         }
     ],
     "wof:id":890445533,
-    "wof:lastmodified":1636494994,
+    "wof:lastmodified":1669164418,
     "wof:name":"Tan Tan",
     "wof:parent_id":890418107,
     "wof:placetype":"localadmin",

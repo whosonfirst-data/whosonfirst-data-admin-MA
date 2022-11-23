@@ -2,7 +2,7 @@
   "id": 890440311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-11-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +17,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0646\u063a\u064a\u0631"
@@ -157,7 +157,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673929,
+        1796661363,
         1108784839
     ],
     "wof:breaches":[],
@@ -177,18 +177,20 @@
             "country_id":85632693,
             "county_id":1108784839,
             "locality_id":890440311,
-            "region_id":85673929
+            "region_id":1796661363
         }
     ],
     "wof:id":890440311,
-    "wof:lastmodified":1566601988,
+    "wof:lastmodified":1669164734,
     "wof:name":"Tineghir",
     "wof:parent_id":1108784839,
     "wof:placetype":"locality",
     "wof:population":36795,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ma",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421190139
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

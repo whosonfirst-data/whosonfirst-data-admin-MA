@@ -38,7 +38,8 @@
         102191573,
         85632693,
         85673887,
-        890436419
+        890436419,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,10 +54,17 @@
             "county_id":890436419,
             "locality_id":1209825741,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "locality_id":1209825741,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209825741,
-    "wof:lastmodified":1566601060,
+    "wof:lastmodified":1669163282,
     "wof:name":"Ajdi",
     "wof:parent_id":890436419,
     "wof:placetype":"locality",

@@ -1,0 +1,75 @@
+{
+  "id": 1796682219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.11,31.21,-6.11,31.21",
+    "geom:latitude":31.21,
+    "geom:longitude":-6.11,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taradane",
+    "gn:country_code":"MA",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2529971,
+    "gn:latitude":31.21,
+    "gn:longitude":-6.11,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Taradane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.13,31.19,-6.09,31.23",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190033,
+        1108784839,
+        1796661363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2529971
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"b88f5b5a9f7569b900983e371b98b2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":421190033,
+            "neighbourhood_id":1796682219,
+            "region_id":1796661363
+        }
+    ],
+    "wof:id":1796682219,
+    "wof:lastmodified":1669157820,
+    "wof:name":"Taradane",
+    "wof:parent_id":421190033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293015701
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.11,
+    31.21,
+    -6.11,
+    31.21
+],
+  "geometry": {"coordinates":[-6.11,31.21],"type":"Point"}
+}

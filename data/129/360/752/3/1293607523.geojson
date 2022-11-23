@@ -37,9 +37,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -50,15 +47,15 @@
     "wof:geomhash":"90930036eed57726a1fe25af4759d019",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1293607523,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1293607523,
-    "wof:lastmodified":1566600364,
+    "wof:lastmodified":1669156270,
     "wof:name":"Tiougrar",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661365,
+        890418103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"a416b945f56fabcb23386fe6a671370b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209521807
+            "county_id":890418103,
+            "locality_id":1209521807,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209521807,
-    "wof:lastmodified":1566600980,
+    "wof:lastmodified":1669158062,
     "wof:name":"Douar Zghimrat",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890418103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

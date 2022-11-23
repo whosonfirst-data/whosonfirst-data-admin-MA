@@ -4,22 +4,26 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000885,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.10027,34.95368,-2.10027,34.95368",
-    "geom:latitude":34.95368,
-    "geom:longitude":-2.10027,
+    "geom:bbox":"-2.123129,34.935969,-2.0768,34.971671",
+    "geom:latitude":34.952075,
+    "geom:longitude":-2.101761,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":19611,
     "iso:country":"MA",
-    "lbl:bbox":"-2.12027,34.93368,-2.08027,34.97368",
+    "lbl:latitude":34.953109,
+    "lbl:longitude":-2.103691,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
+        "\u0623\u062d\u0641\u064a\u0631"
+    ],
+    "name:ary_x_preferred":[
         "\u0623\u062d\u0641\u064a\u0631"
     ],
     "name:azb_x_preferred":[
@@ -37,11 +41,17 @@
     "name:eng_x_preferred":[
         "Ahfir"
     ],
+    "name:epo_x_preferred":[
+        "Ahfir"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u062d\u0641\u06cc\u0631"
     ],
     "name:fra_x_preferred":[
         "Ahfir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d7\u05e4\u05d9\u05e8"
     ],
     "name:ita_x_preferred":[
         "Ahfir"
@@ -67,16 +77,26 @@
     "name:urd_x_preferred":[
         "\u0627\u06c1\u0641\u06cc\u0631"
     ],
+    "name:zho_x_preferred":[
+        "\u827e\u8d6b\u83f2\u5c14"
+    ],
     "qs:name":"Ahfir",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"6",
+    "reversegeo:latitude":34.953109,
+    "reversegeo:longitude":-2.103691,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191573,
         85632693,
-        85673923,
+        1796661375,
         1108784771
     ],
     "wof:breaches":[],
@@ -89,18 +109,21 @@
     },
     "wof:country":"MA",
     "wof:created":1469052066,
-    "wof:geomhash":"b5c72bb4c29a14490c18c89807775528",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"567866873c3f462c72f7192ca9f80de5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784771,
             "locality_id":890435407,
-            "region_id":85673923
+            "region_id":1796661375
         }
     ],
     "wof:id":890435407,
-    "wof:lastmodified":1566602062,
+    "wof:lastmodified":1669163912,
     "wof:name":"Ahfir",
     "wof:parent_id":1108784771,
     "wof:placetype":"locality",
@@ -112,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.10027,
-    34.95368,
-    -2.10027,
-    34.95368
+    -2.123129,
+    34.935969,
+    -2.0768,
+    34.971671
 ],
-  "geometry": {"coordinates":[-2.10027,34.95368],"type":"Point"}
+  "geometry": {"coordinates":[[[-2.112308,34.971671],[-2.108096,34.97057],[-2.105764,34.97057],[-2.104986,34.969533],[-2.103755,34.966487],[-2.102135,34.966358],[-2.10045,34.96558],[-2.099479,34.964803],[-2.097794,34.964738],[-2.097794,34.963896],[-2.097729,34.963248],[-2.09734,34.962988],[-2.096239,34.961822],[-2.095785,34.960915],[-2.094684,34.960332],[-2.09423,34.959489],[-2.093712,34.958582],[-2.093064,34.958258],[-2.091638,34.95787],[-2.090861,34.956768],[-2.089889,34.955731],[-2.086649,34.953463],[-2.084575,34.950612],[-2.082308,34.950224],[-2.080623,34.948409],[-2.079327,34.947502],[-2.078161,34.947437],[-2.0768,34.946789],[-2.079327,34.941282],[-2.080688,34.940763],[-2.093258,34.935969],[-2.108874,34.941606],[-2.111595,34.94491],[-2.118464,34.943614],[-2.117751,34.946271],[-2.118399,34.948215],[-2.11814,34.949511],[-2.118658,34.952168],[-2.123129,34.952816],[-2.121315,34.956185],[-2.121704,34.957092],[-2.122222,34.95923],[-2.119565,34.960332],[-2.119177,34.959943],[-2.118593,34.961109],[-2.11801,34.963183],[-2.113993,34.968172],[-2.112308,34.971671]]],"type":"Polygon"}
 }

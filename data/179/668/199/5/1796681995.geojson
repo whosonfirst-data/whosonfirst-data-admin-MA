@@ -1,0 +1,79 @@
+{
+  "id": 1796681995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.19278,31.18707,-6.19278,31.18707",
+    "geom:latitude":31.18707,
+    "geom:longitude":-6.19278,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ait Ouahi",
+    "gn:country_code":"MA",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2559402,
+    "gn:latitude":31.18707,
+    "gn:longitude":-6.19278,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"A\u00eft Ouahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-6.21278,31.16707,-6.17278,31.20707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "A\u00eft Oualri",
+        "A\u00eft Ouahi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421170863,
+        1108784839,
+        1796661363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2559402
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"2de32c413c44df671e821ae4abab18c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784839,
+            "locality_id":421170863,
+            "neighbourhood_id":1796681995,
+            "region_id":1796661363
+        }
+    ],
+    "wof:id":1796681995,
+    "wof:lastmodified":1669157819,
+    "wof:name":"Ait Ouahi",
+    "wof:parent_id":421170863,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327441757
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.19278,
+    31.18707,
+    -6.19278,
+    31.18707
+],
+  "geometry": {"coordinates":[-6.19278,31.18707],"type":"Point"}
+}

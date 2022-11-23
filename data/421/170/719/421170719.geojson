@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001439,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.329055,35.687027,-5.329055,35.687027",
-    "geom:latitude":35.687027,
-    "geom:longitude":-5.329055,
+    "geom:bbox":"-5.365854,35.672,-5.319843,35.716073",
+    "geom:latitude":35.693061,
+    "geom:longitude":-5.344184,
     "iso:country":"MA",
-    "lbl:bbox":"-5.349055,35.667027,-5.309055,35.707027",
+    "lbl:latitude":35.69282,
+    "lbl:longitude":-5.344184,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -41,12 +42,18 @@
     "qs:qs_id":1195673,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1537691,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":35.69282,
+    "reversegeo:longitude":-5.344184,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        1108784777,
-        85673883
+        1796661381,
+        1108784777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,18 +62,21 @@
     },
     "wof:country":"MA",
     "wof:created":1459008865,
-    "wof:geomhash":"690dc205b6d0769ca5dc91975ffdb90d",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"5793ea84fcc30b8e42b892f065f93239",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784777,
             "locality_id":421170719,
-            "region_id":85673883
+            "region_id":1796661381
         }
     ],
     "wof:id":421170719,
-    "wof:lastmodified":1601423085,
+    "wof:lastmodified":1669164767,
     "wof:name":"Al Mediek",
     "wof:parent_id":1108784777,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.329055,
-    35.687027,
-    -5.329055,
-    35.687027
+    -5.365854,
+    35.672,
+    -5.319843,
+    35.716073
 ],
-  "geometry": {"coordinates":[-5.329055,35.687027],"type":"Point"}
+  "geometry": {"coordinates":[[[-5.334736,35.716073],[-5.33062,35.702391],[-5.326624,35.694278],[-5.323355,35.688103],[-5.319843,35.683865],[-5.321175,35.672],[-5.340911,35.675753],[-5.365854,35.679022],[-5.364885,35.698758],[-5.360042,35.71244],[-5.334736,35.716073]]],"type":"Polygon"}
 }

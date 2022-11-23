@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661357,
+        1108784827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"92446b8fd4a336abe329225f0a54a225",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209413001
+            "county_id":1108784827,
+            "locality_id":1209413001,
+            "region_id":1796661357
         }
     ],
     "wof:id":1209413001,
-    "wof:lastmodified":1566601010,
+    "wof:lastmodified":1669156614,
     "wof:name":"Ayt L'arbi",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

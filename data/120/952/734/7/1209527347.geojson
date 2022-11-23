@@ -31,7 +31,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        1108784771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +41,17 @@
     "wof:geomhash":"37daa2995cdb763928e85acb96b2a7b5",
     "wof:hierarchy":[
         {
-            "country_id":85632693,
-            "locality_id":1209527347
+            "continent_id":-1,
+            "country_id":-1,
+            "county_id":1108784771,
+            "locality_id":1209527347,
+            "region_id":-1
         }
     ],
     "wof:id":1209527347,
-    "wof:lastmodified":1566600981,
+    "wof:lastmodified":1669155768,
     "wof:name":"Oulad Abdelmoumene",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

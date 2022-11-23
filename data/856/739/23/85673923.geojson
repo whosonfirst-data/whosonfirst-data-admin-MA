@@ -2,7 +2,7 @@
   "id": 85673923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2015-03-05",
     "edtf:inception":"uuuu",
     "geom:area":5.646792,
     "geom:area_square_m":58257130323.244194,
@@ -19,7 +19,7 @@
     "mps:latitude":33.489818,
     "mps:longitude":-2.338697,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:ara_x_preferred":[
@@ -154,14 +154,16 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1636494988,
+    "wof:lastmodified":1669153507,
     "wof:name":"Oriental",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:shortcode":"OR",
     "wof:subdivision":"MA-04",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796661375
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

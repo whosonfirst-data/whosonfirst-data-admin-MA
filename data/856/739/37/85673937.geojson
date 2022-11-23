@@ -2,7 +2,7 @@
   "id": 85673937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2015-03-05",
     "edtf:inception":"uuuu",
     "geom:area":1.350538,
     "geom:area_square_m":14081112750.590832,
@@ -19,7 +19,7 @@
     "mps:latitude":32.412806,
     "mps:longitude":-8.830527,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:ace_x_preferred":[
@@ -296,13 +296,16 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1636494987,
+    "wof:lastmodified":1669155684,
     "wof:name":"Doukkala - Abda",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:shortcode":"DA",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796661359,
+        1796661373
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

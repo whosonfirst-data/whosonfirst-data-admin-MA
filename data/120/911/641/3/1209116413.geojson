@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661365,
+        890436791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"cb102a3a6092a8abf8b2d6169e04ba57",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209116413
+            "county_id":890436791,
+            "locality_id":1209116413,
+            "region_id":1796661365
         }
     ],
     "wof:id":1209116413,
-    "wof:lastmodified":1566601173,
+    "wof:lastmodified":1669158049,
     "wof:name":"Douar Bni Khlou",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890436791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

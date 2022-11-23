@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        1108784831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,17 @@
     "wof:geomhash":"b6b559d732aeffef7ee036ef10855ec5",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209090363
+            "county_id":1108784831,
+            "locality_id":1209090363,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209090363,
-    "wof:lastmodified":1566600887,
+    "wof:lastmodified":1669160797,
     "wof:name":"Ait Ichou",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

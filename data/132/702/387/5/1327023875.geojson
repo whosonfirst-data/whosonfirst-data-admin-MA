@@ -46,9 +46,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -59,15 +56,15 @@
     "wof:geomhash":"afbaf7bef95aa896c678ed990f77c066",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1327023875,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1327023875,
-    "wof:lastmodified":1566599519,
+    "wof:lastmodified":1669156268,
     "wof:name":"Ait Hammou",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

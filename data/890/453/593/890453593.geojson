@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0639\u064a\u0646 \u0627\u0644\u0639\u0648\u062f\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u0639\u064a\u0646 \u0639\u0648\u062f\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0639\u0648\u062f\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u0627\u0644\u0639\u0648\u062f\u0647"
     ],
@@ -40,6 +46,9 @@
     "name:eng_x_preferred":[
         "A\u00efn El Aouda"
     ],
+    "name:eng_x_variant":[
+        "Ain Aouda"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u06cc\u0646 \u0627\u0644\u0639\u0648\u062f\u0647"
     ],
@@ -48,7 +57,8 @@
     ],
     "name:fra_x_variant":[
         "Ain El Aouda (MU)",
-        "Ain El Aouda (Commune Urbaine)"
+        "Ain El Aouda (Commune Urbaine)",
+        "Ain Aouda"
     ],
     "name:ita_x_preferred":[
         "Ain El Aouda"
@@ -58,6 +68,9 @@
     ],
     "name:pol_x_preferred":[
         "Ajn al-Auda"
+    ],
+    "name:shi_x_preferred":[
+        "\u025bin l\u025bawda"
     ],
     "name:swe_x_preferred":[
         "A\u00efn el Aouda"
@@ -71,7 +84,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673911,
+        1796661377,
         890429101
     ],
     "wof:breaches":[],
@@ -90,11 +103,11 @@
             "country_id":85632693,
             "county_id":890429101,
             "localadmin_id":890453593,
-            "region_id":85673911
+            "region_id":1796661377
         }
     ],
     "wof:id":890453593,
-    "wof:lastmodified":1566602028,
+    "wof:lastmodified":1669164480,
     "wof:name":"Ain El Aouda",
     "wof:parent_id":890429101,
     "wof:placetype":"localadmin",

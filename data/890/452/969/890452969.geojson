@@ -38,7 +38,8 @@
         102191573,
         85632693,
         85673887,
-        890454333
+        890454333,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,10 +56,17 @@
             "county_id":890454333,
             "localadmin_id":890452969,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "localadmin_id":890452969,
+            "region_id":1796661365
         }
     ],
     "wof:id":890452969,
-    "wof:lastmodified":1566602017,
+    "wof:lastmodified":1669163219,
     "wof:name":"Sidi Harazem",
     "wof:parent_id":890454333,
     "wof:placetype":"localadmin",

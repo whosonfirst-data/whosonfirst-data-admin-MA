@@ -2,7 +2,7 @@
   "id": 85673883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2015-03-05",
     "edtf:inception":"uuuu",
     "geom:area":1.158446,
     "geom:area_square_m":11698217064.794476,
@@ -19,7 +19,7 @@
     "mps:latitude":35.2636,
     "mps:longitude":-5.518767,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:ace_x_preferred":[
@@ -287,14 +287,16 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1614895347,
+    "wof:lastmodified":1669151228,
     "wof:name":"Tanger - T\u00e9touan",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:shortcode":"TO",
     "wof:subdivision":"MA-TET",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796661381
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

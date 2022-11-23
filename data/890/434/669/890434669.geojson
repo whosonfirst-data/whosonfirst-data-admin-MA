@@ -4,22 +4,29 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001705,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.89732,34.4073,-2.89732,34.4073",
-    "geom:latitude":34.4073,
-    "geom:longitude":-2.89732,
+    "geom:bbox":"-2.92701,34.382914,-2.869212,34.427121",
+    "geom:latitude":34.405544,
+    "geom:longitude":-2.899756,
     "gn:country":"MA",
     "gn:fcode":"PPLA3",
     "gn:population":82518,
     "iso:country":"MA",
-    "lbl:bbox":"-2.91732,34.3873,-2.87732,34.4273",
+    "lbl:latitude":34.405374,
+    "lbl:longitude":-2.900306,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
+        "\u062a\u0627\u0648\u0631\u064a\u0631\u062a"
+    ],
+    "name:ary_x_preferred":[
+        "\u062a\u0627\u0648\u0631\u064a\u0631\u062a"
+    ],
+    "name:arz_x_preferred":[
         "\u062a\u0627\u0648\u0631\u064a\u0631\u062a"
     ],
     "name:azb_x_preferred":[
@@ -55,8 +62,14 @@
     "name:fra_x_preferred":[
         "Taourirt"
     ],
+    "name:gle_x_preferred":[
+        "Taourirt"
+    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0a89\u0ab0\u0ab0\u0acd\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d0\u05d5\u05e8\u05d9\u05d0\u05ea"
     ],
     "name:hin_x_preferred":[
         "\u091f\u093e\u092f\u0930\u093f\u0930\u0924"
@@ -109,6 +122,12 @@
     "name:spa_x_preferred":[
         "Taoririrt"
     ],
+    "name:spa_x_variant":[
+        "Taurirt"
+    ],
+    "name:swa_x_preferred":[
+        "Taourirt"
+    ],
     "name:swe_x_preferred":[
         "Taourirt"
     ],
@@ -127,11 +146,17 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0443\u0440\u0456\u0440\u0442"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u0430\u0443\u0440\u0438\u0440\u0442"
+    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0648\u0631\u06cc\u0631\u062a\u060c \u0645\u0631\u0627\u06a9\u0634"
     ],
     "name:urd_x_variant":[
         "\u062a\u0627\u0648\u0631\u06cc\u0631\u062a"
+    ],
+    "name:vec_x_preferred":[
+        "Taourirt"
     ],
     "name:vie_x_preferred":[
         "Taourirt"
@@ -143,12 +168,19 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"8",
+    "reversegeo:latitude":34.405374,
+    "reversegeo:longitude":-2.900306,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":25,
     "wof:belongsto":[
         102191573,
         85632693,
-        85673923,
+        1796661375,
         1108784813
     ],
     "wof:breaches":[],
@@ -161,18 +193,21 @@
     },
     "wof:country":"MA",
     "wof:created":1469052035,
-    "wof:geomhash":"825308e3e82a545fb236d5c0dcb82b6f",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"e56e20e7b188e9c208aac5d3cb9c5861",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784813,
             "locality_id":890434669,
-            "region_id":85673923
+            "region_id":1796661375
         }
     ],
     "wof:id":890434669,
-    "wof:lastmodified":1566602061,
+    "wof:lastmodified":1669163906,
     "wof:name":"Taourirt",
     "wof:parent_id":1108784813,
     "wof:placetype":"locality",
@@ -184,10 +219,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.89732,
-    34.4073,
-    -2.89732,
-    34.4073
+    -2.92701,
+    34.382914,
+    -2.869212,
+    34.427121
 ],
-  "geometry": {"coordinates":[-2.89732,34.4073],"type":"Point"}
+  "geometry": {"coordinates":[[[-2.903507,34.427121],[-2.895593,34.425762],[-2.891756,34.423924],[-2.88648,34.418088],[-2.87321,34.409614],[-2.869212,34.404258],[-2.870412,34.400741],[-2.874489,34.398263],[-2.877127,34.392987],[-2.881923,34.38851],[-2.905666,34.382914],[-2.916937,34.38811],[-2.918856,34.402579],[-2.921334,34.406577],[-2.92701,34.410014],[-2.924372,34.419207],[-2.921814,34.425203],[-2.912061,34.425762],[-2.910862,34.425842],[-2.903507,34.427121]]],"type":"Polygon"}
 }

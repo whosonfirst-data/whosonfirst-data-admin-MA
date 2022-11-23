@@ -2,7 +2,7 @@
   "id": 85673933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2015-03-05",
     "edtf:inception":"uuuu",
     "geom:area":3.050254,
     "geom:area_square_m":32113712538.497688,
@@ -19,7 +19,7 @@
     "mps:latitude":31.650937,
     "mps:longitude":-7.922582,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:ace_x_preferred":[
@@ -292,14 +292,16 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1636494987,
+    "wof:lastmodified":1669155038,
     "wof:name":"Marrakech - Tensift - Al Haouz",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:shortcode":"MK",
     "wof:subdivision":"MA-HAO",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796661373
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

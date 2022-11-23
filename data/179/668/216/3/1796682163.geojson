@@ -1,0 +1,75 @@
+{
+  "id": 1796682163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.11264,33.58203,-7.11264,33.58203",
+    "geom:latitude":33.58203,
+    "geom:longitude":-7.11264,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cooperative Lhassaniya",
+    "gn:country_code":"MA",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10918061,
+    "gn:latitude":33.58203,
+    "gn:longitude":-7.11264,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Coop\u00e9rative Lhassaniya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-7.13264,33.56203,-7.09264,33.60203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421195947,
+        890436421,
+        1796661359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10918061
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d3221a47ab115016d886fe71f33ee916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436421,
+            "locality_id":421195947,
+            "neighbourhood_id":1796682163,
+            "region_id":1796661359
+        }
+    ],
+    "wof:id":1796682163,
+    "wof:lastmodified":1669157454,
+    "wof:name":"Cooperative Lhassaniya",
+    "wof:parent_id":421195947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344054079
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.11264,
+    33.58203,
+    -7.11264,
+    33.58203
+],
+  "geometry": {"coordinates":[-7.11264,33.58203],"type":"Point"}
+}

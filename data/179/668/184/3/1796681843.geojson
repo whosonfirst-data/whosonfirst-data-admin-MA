@@ -1,0 +1,84 @@
+{
+  "id": 1796681843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05516,34.02638,-5.05516,34.02638",
+    "geom:latitude":34.02638,
+    "geom:longitude":-5.05516,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cooperative El Mehdiya",
+    "gn:country_code":"MA",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10984892,
+    "gn:latitude":34.02638,
+    "gn:longitude":-5.05516,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Coop\u00e9rative El Mehdiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-5.07516,34.00638,-5.03516,34.04638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190143,
+        890454333,
+        85673887,
+        1796661365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10984892
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"d34d6a8fd481b9f29d7f9db388965908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":421190143,
+            "neighbourhood_id":1796681843,
+            "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890454333,
+            "locality_id":421190143,
+            "neighbourhood_id":1796681843,
+            "region_id":1796661365
+        }
+    ],
+    "wof:id":1796681843,
+    "wof:lastmodified":1669163390,
+    "wof:name":"Cooperative El Mehdiya",
+    "wof:parent_id":421190143,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326937227
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05516,
+    34.02638,
+    -5.05516,
+    34.02638
+],
+  "geometry": {"coordinates":[-5.05516,34.02638],"type":"Point"}
+}

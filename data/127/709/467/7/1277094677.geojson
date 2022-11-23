@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"83d16eef6d56e262bed2dd255864d5ab",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1277094677,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1277094677,
-    "wof:lastmodified":1566600546,
+    "wof:lastmodified":1669156292,
     "wof:name":"Ait Ouat",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

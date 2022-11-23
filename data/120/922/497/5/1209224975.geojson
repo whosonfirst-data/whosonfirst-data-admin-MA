@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890445395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"60c09f041c9c8268203a6570e51346cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209224975
+            "county_id":890445395,
+            "locality_id":1209224975,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209224975,
-    "wof:lastmodified":1566601069,
+    "wof:lastmodified":1669160817,
     "wof:name":"Ait Ounzar",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

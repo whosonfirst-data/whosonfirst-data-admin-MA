@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u062a\u0627\u0632\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u062a\u0627\u0632\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0632\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0627\u0632\u0647"
     ],
@@ -52,6 +58,9 @@
     "name:epo_x_preferred":[
         "Taza"
     ],
+    "name:est_x_preferred":[
+        "Taza"
+    ],
     "name:eus_x_preferred":[
         "Taza"
     ],
@@ -67,6 +76,9 @@
     "name:fra_x_variant":[
         "Taza (MU)",
         "Taza (Commune Urbaine)"
+    ],
+    "name:gle_x_preferred":[
+        "Taza"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0a9d\u0abe"
@@ -110,6 +122,9 @@
     "name:mar_x_preferred":[
         "\u091f\u093e\u091c\u093c\u093e"
     ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0437\u0430"
+    ],
     "name:msa_x_preferred":[
         "Taza"
     ],
@@ -131,10 +146,16 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0437\u0430"
     ],
+    "name:shi_x_preferred":[
+        "Taza"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0dc3\u0dcf"
     ],
     "name:spa_x_preferred":[
+        "Taza"
+    ],
+    "name:swa_x_preferred":[
         "Taza"
     ],
     "name:swe_x_preferred":[
@@ -158,6 +179,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u0632\u06c1"
     ],
+    "name:vec_x_preferred":[
+        "Taza"
+    ],
     "name:vie_x_preferred":[
         "Taza"
     ],
@@ -175,7 +199,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673893,
+        1796661365,
         890436791
     ],
     "wof:breaches":[],
@@ -194,11 +218,11 @@
             "country_id":85632693,
             "county_id":890436791,
             "localadmin_id":890437877,
-            "region_id":85673893
+            "region_id":1796661365
         }
     ],
     "wof:id":890437877,
-    "wof:lastmodified":1566602014,
+    "wof:lastmodified":1669163989,
     "wof:name":"Taza",
     "wof:parent_id":890436791,
     "wof:placetype":"localadmin",

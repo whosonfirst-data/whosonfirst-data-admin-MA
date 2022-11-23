@@ -40,7 +40,8 @@
         102191573,
         85632693,
         85673887,
-        1108784805
+        1108784805,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,10 +56,17 @@
             "county_id":1108784805,
             "locality_id":1293505945,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1293505945,
+            "region_id":1796661365
         }
     ],
     "wof:id":1293505945,
-    "wof:lastmodified":1566600328,
+    "wof:lastmodified":1669163342,
     "wof:name":"Douar Tamra",
     "wof:parent_id":1108784805,
     "wof:placetype":"locality",

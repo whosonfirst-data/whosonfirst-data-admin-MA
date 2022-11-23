@@ -4,17 +4,31 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000044,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.48,30.67,-9.48,30.67",
-    "geom:latitude":30.67,
-    "geom:longitude":-9.48,
+    "geom:bbox":"-9.482914,30.66884,-9.474072,30.679401",
+    "geom:latitude":30.673838,
+    "geom:longitude":-9.478686,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Imouzzer des Ida ou Tanane",
+    "gn:country_code":"MA",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2546030,
+    "gn:latitude":30.67271,
+    "gn:longitude":-9.48084,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Imouzzer des Ida ou Tanane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
     "iso:country":"MA",
-    "lbl:bbox":"-9.5,30.65,-9.46,30.69",
+    "lbl:latitude":30.674228,
+    "lbl:longitude":-9.478619,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:und_x_variant":[
@@ -38,11 +52,17 @@
     "qs:qs_id":1353162,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1536689,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":30.674228,
+    "reversegeo:longitude":-9.478619,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673929,
+        1796661379,
         890429099
     ],
     "wof:breaches":[],
@@ -53,31 +73,36 @@
     },
     "wof:country":"MA",
     "wof:created":1459009160,
-    "wof:geomhash":"2dc94099b44a54d7fbee90f1f3c86f94",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"5659a1c13ada4677bb6215bf3274b143",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890429099,
             "locality_id":421177755,
-            "region_id":85673929
+            "region_id":1796661379
         }
     ],
     "wof:id":421177755,
-    "wof:lastmodified":1566601977,
+    "wof:lastmodified":1669164697,
     "wof:name":"Imouzzer des Ida Outanae",
     "wof:parent_id":890429099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277089307
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -9.48,
-    30.67,
-    -9.48,
-    30.67
+    -9.482914,
+    30.66884,
+    -9.474072,
+    30.679401
 ],
-  "geometry": {"coordinates":[-9.48,30.67],"type":"Point"}
+  "geometry": {"coordinates":[[[-9.4741,30.676047],[-9.475181,30.675437],[-9.475901,30.674772],[-9.476068,30.674051],[-9.476373,30.673968],[-9.47701,30.672471],[-9.477454,30.672388],[-9.478368,30.672055],[-9.478923,30.671196],[-9.478368,30.671002],[-9.477869,30.670115],[-9.478341,30.669395],[-9.479172,30.669062],[-9.479837,30.66884],[-9.480835,30.668896],[-9.481833,30.669311],[-9.482582,30.669838],[-9.482637,30.670309],[-9.482914,30.670531],[-9.482803,30.671085],[-9.482637,30.671529],[-9.482332,30.671612],[-9.482166,30.672083],[-9.482554,30.672582],[-9.482193,30.672832],[-9.481889,30.673303],[-9.481417,30.673691],[-9.481168,30.674162],[-9.480503,30.674855],[-9.480392,30.675326],[-9.480364,30.675936],[-9.480059,30.676878],[-9.478396,30.677239],[-9.477953,30.67735],[-9.477592,30.677599],[-9.477149,30.678153],[-9.476816,30.678708],[-9.476345,30.678957],[-9.476123,30.679401],[-9.475458,30.679068],[-9.475319,30.678569],[-9.474654,30.677904],[-9.47446,30.6771],[-9.474072,30.676629],[-9.4741,30.676047]]],"type":"Polygon"}
 }

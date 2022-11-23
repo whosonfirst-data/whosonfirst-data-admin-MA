@@ -2,7 +2,7 @@
   "id": 1326633571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-11-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":11059389
     },
     "wof:country":"MA",
-    "wof:geomhash":"ee5a5990883a7cac443e205799f3d38f",
+    "wof:geomhash":"7e306b52f68908f8e575daa7f8a96b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1326633571,
-    "wof:lastmodified":1566599644,
+    "wof:lastmodified":1669150392,
     "wof:name":"Groupe Lhassani",
     "wof:parent_id":1108784783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796681959
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -5.85073,
-    35.73699000000001,
+    35.73699,
     -5.85073,
-    35.73699000000001
+    35.73699
 ],
-  "geometry": {"coordinates":[-5.85073,35.73699000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.85073,35.73699],"type":"Point"}
 }

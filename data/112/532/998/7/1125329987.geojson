@@ -115,6 +115,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
+        1796661361,
         85673951
     ],
     "wof:breaches":[],
@@ -130,13 +131,19 @@
             "continent_id":102191573,
             "country_id":85632693,
             "localadmin_id":1125329987,
+            "region_id":1796661361
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "localadmin_id":1125329987,
             "region_id":85673951
         }
     ],
     "wof:id":1125329987,
-    "wof:lastmodified":1636494994,
+    "wof:lastmodified":1669161900,
     "wof:name":"Bir Anzarane",
-    "wof:parent_id":85673951,
+    "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:population":1273,
     "wof:population_rank":3,

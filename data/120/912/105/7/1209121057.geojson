@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890429097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"f86d09ec103931c1733b8ecdd9b9cc7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209121057
+            "county_id":890429097,
+            "locality_id":1209121057,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209121057,
-    "wof:lastmodified":1566601018,
+    "wof:lastmodified":1669161665,
     "wof:name":"Ifrane Tanda",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890429097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

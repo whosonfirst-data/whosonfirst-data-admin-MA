@@ -62,8 +62,11 @@
         "state_id":56120057
     },
     "wof:belongsto":[
-        85632209,
-        85673915
+        1796661365,
+        102191573,
+        85632693,
+        421190077,
+        1108784837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +81,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102546493,
-            "country_id":85632209,
-            "region_id":85673915
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784837,
+            "locality_id":421190077,
+            "neighbourhood_id":-1,
+            "region_id":1796661365
         }
     ],
     "wof:id":102546493,
-    "wof:lastmodified":1631744450,
+    "wof:lastmodified":1669158470,
     "wof:name":"Bassatine Airport",
-    "wof:parent_id":85673915,
+    "wof:parent_id":421190077,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

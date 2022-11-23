@@ -2,7 +2,7 @@
   "id": 1343783711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-11-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":10795532
     },
     "wof:country":"MA",
-    "wof:geomhash":"cf0c77088214824b688c1e71c2da05c6",
+    "wof:geomhash":"d63609ca2d4c0603b415313ecb5904fd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1343783711,
-    "wof:lastmodified":1566599936,
+    "wof:lastmodified":1669150519,
     "wof:name":"Douar El Fatmi",
     "wof:parent_id":1108784819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796682107
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -8.43495,
-    32.64579000000001,
+    32.64579,
     -8.43495,
-    32.64579000000001
+    32.64579
 ],
-  "geometry": {"coordinates":[-8.43495,32.64579000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.43495,32.64579],"type":"Point"}
 }

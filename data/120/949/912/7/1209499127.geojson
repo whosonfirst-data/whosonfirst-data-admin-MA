@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        1108784831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"7215ca0ac52f2e632de6fa0a4a620fd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209499127
+            "county_id":1108784831,
+            "locality_id":1209499127,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209499127,
-    "wof:lastmodified":1566601055,
+    "wof:lastmodified":1669160800,
     "wof:name":"El Ahaine",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

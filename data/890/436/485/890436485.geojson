@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0648\u064a\u0632\u063a\u062a"
     ],
+    "name:ary_x_preferred":[
+        "\u0648\u064a\u0632\u063a\u062a"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0443\u0438\u0437\u0435\u0433\u0445\u0442"
     ],
@@ -60,7 +63,8 @@
         102191573,
         85632693,
         85673887,
-        890436419
+        890436419,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,10 +83,17 @@
             "county_id":890436419,
             "localadmin_id":890436485,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890436419,
+            "localadmin_id":890436485,
+            "region_id":1796661365
         }
     ],
     "wof:id":890436485,
-    "wof:lastmodified":1566602020,
+    "wof:lastmodified":1669163956,
     "wof:name":"Ouizeght",
     "wof:parent_id":890436419,
     "wof:placetype":"localadmin",

@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        1108784797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"31d02f6f5209f4306d00bb334cd2afdc",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209223757
+            "county_id":1108784797,
+            "locality_id":1209223757,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209223757,
-    "wof:lastmodified":1566601077,
+    "wof:lastmodified":1669161403,
     "wof:name":"Douar Ennakhla",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

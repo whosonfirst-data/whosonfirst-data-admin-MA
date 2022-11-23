@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0645\u0631\u062a\u064a\u0644"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0627\u0631\u062a\u064a\u0644"
+    ],
     "name:cat_x_preferred":[
         "Martil"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Martin"
+    ],
+    "name:eng_x_variant":[
+        "Martil"
     ],
     "name:eus_x_preferred":[
         "Martil"
@@ -68,8 +74,14 @@
     "name:swe_x_preferred":[
         "Martil"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0456\u043b\u044c"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u062a\u06cc\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c14\u8482\u5c14"
     ],
     "qs:name":"Martil",
     "qs:photos_9r":0,
@@ -80,7 +92,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        85673883,
+        1796661381,
         1108784777
     ],
     "wof:breaches":[],
@@ -99,11 +111,11 @@
             "country_id":85632693,
             "county_id":1108784777,
             "localadmin_id":890417085,
-            "region_id":85673883
+            "region_id":1796661381
         }
     ],
     "wof:id":890417085,
-    "wof:lastmodified":1566602033,
+    "wof:lastmodified":1669163516,
     "wof:name":"Martil",
     "wof:parent_id":1108784777,
     "wof:placetype":"localadmin",

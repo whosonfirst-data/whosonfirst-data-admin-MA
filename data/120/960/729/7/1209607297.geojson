@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661359,
+        1108784833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"a94de026650ebf2b6d2cde4ea113bf84",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209607297
+            "county_id":1108784833,
+            "locality_id":1209607297,
+            "region_id":1796661359
         }
     ],
     "wof:id":1209607297,
-    "wof:lastmodified":1566601139,
+    "wof:lastmodified":1669156992,
     "wof:name":"Douar Oulad Sidi Abdallah",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

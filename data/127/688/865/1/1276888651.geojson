@@ -35,9 +35,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -48,15 +45,15 @@
     "wof:geomhash":"4f6132ba034701e6e2c5a790806c8b47",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1276888651,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1276888651,
-    "wof:lastmodified":1566600597,
+    "wof:lastmodified":1669156290,
     "wof:name":"Tassila",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

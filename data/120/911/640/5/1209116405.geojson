@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661367,
+        1108784841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"acbee38d58eec1488f7fe0c4a33ec62c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209116405
+            "county_id":1108784841,
+            "locality_id":1209116405,
+            "region_id":1796661367
         }
     ],
     "wof:id":1209116405,
-    "wof:lastmodified":1566601172,
+    "wof:lastmodified":1669158524,
     "wof:name":"Al 'Ayn",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

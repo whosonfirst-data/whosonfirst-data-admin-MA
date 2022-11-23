@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        890421483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"4b8c6d4c5f6a5c2edea373fe3c80646b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209633711
+            "county_id":890421483,
+            "locality_id":1209633711,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209633711,
-    "wof:lastmodified":1566600957,
+    "wof:lastmodified":1669161464,
     "wof:name":"Douar Tarrant",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890421483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

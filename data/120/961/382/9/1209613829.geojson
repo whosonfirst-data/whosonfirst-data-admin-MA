@@ -49,7 +49,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661357,
+        1108784787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +62,17 @@
     "wof:geomhash":"6488e652aff53812e46d2ac6c1ad62d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209613829
+            "county_id":1108784787,
+            "locality_id":1209613829,
+            "region_id":1796661357
         }
     ],
     "wof:id":1209613829,
-    "wof:lastmodified":1566601091,
+    "wof:lastmodified":1669156648,
     "wof:name":"Langar",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

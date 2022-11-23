@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673929,
         1108784831
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"f2d70eb8fbcebf78684d9d3ebba0b077",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784831,
             "locality_id":1293288595,
-            "region_id":85673929
+            "region_id":-1
         }
     ],
     "wof:id":1293288595,
-    "wof:lastmodified":1566600471,
+    "wof:lastmodified":1669156250,
     "wof:name":"Ait Lamiyne",
     "wof:parent_id":1108784831,
     "wof:placetype":"locality",

@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000856,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-14.53331,23.883748,-14.53331,23.883748",
-    "geom:latitude":23.883748,
-    "geom:longitude":-14.53331,
+    "geom:bbox":"-14.565214,23.872185,-14.522176,23.903519",
+    "geom:latitude":23.887215,
+    "geom:longitude":-14.544596,
     "iso:country":"MA",
-    "lbl:bbox":"-14.5533095718,23.8637475779,-14.5133095718,23.9037475779",
-    "lbl:latitude":23.883748,
-    "lbl:longitude":-14.53331,
+    "lbl:latitude":23.885946,
+    "lbl:longitude":-14.544186,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -20,6 +19,9 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0625\u0646\u0632\u0631\u0627\u0646"
+    ],
+    "name:ary_x_preferred":[
+        "\u0628\u064a\u0631\u0627\u0646\u0632\u0627\u0631\u0627\u0646"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b0 \u0986\u099e\u09cd\u099c\u09be\u09b0\u09be\u09a8\u09c7"
@@ -63,17 +65,26 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30eb\u30fb\u30a2\u30f3\u30b6\u30e9\u30fc\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30d3\u30eb\u30fb\u30a2\u30f3\u30b6\u30e9\u30f3"
+    ],
     "name:kor_x_preferred":[
         "\ube44\ub974 \uc548\uc790\ub780"
     ],
     "name:nld_x_preferred":[
         "Bir Anzarane"
     ],
+    "name:pol_x_preferred":[
+        "Bir Anzaran"
+    ],
     "name:por_x_preferred":[
         "Bir Anzarane"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0440-\u0410\u043d\u0437\u0430\u0440\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Bir Enzar\u00e1n"
     ],
     "name:swe_x_preferred":[
         "Bir Anzarane"
@@ -89,6 +100,9 @@
     ],
     "name:vie_x_preferred":[
         "Bir Anzarane"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5c14\u6069\u624e\u5170"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Morocco",
@@ -183,13 +197,18 @@
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
     "ne:min_zoom":6.7,
-    "reversegeo:latitude":23.883748,
-    "reversegeo:longitude":-14.53331,
-    "src:geom":"naturalearth",
+    "reversegeo:latitude":23.885946,
+    "reversegeo:longitude":-14.544186,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693,
-        85673951
+        85673951,
+        1796661361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -197,19 +216,28 @@
     },
     "wof:country":"MA",
     "wof:created":1499130734,
-    "wof:geomhash":"e4ea39aaa40b8fea360f282ffc038977",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:geomhash":"fbcbe5669438aa8674efa4ecd44010ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "locality_id":1141907505,
             "region_id":85673951
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1141907505,
+            "region_id":1796661361
         }
     ],
     "wof:id":1141907505,
-    "wof:lastmodified":1636494996,
+    "wof:lastmodified":1669157460,
     "wof:name":"Bir Anzarane",
-    "wof:parent_id":85673951,
+    "wof:parent_id":-4,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
@@ -217,10 +245,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.53331,
-    23.883748,
-    -14.53331,
-    23.883748
+    -14.565214,
+    23.872185,
+    -14.522176,
+    23.903519
 ],
-  "geometry": {"coordinates":[-14.53331,23.883748],"type":"Point"}
+  "geometry": {"coordinates":[[[-14.556864,23.903519],[-14.528956,23.893312],[-14.528314,23.892027],[-14.527172,23.890814],[-14.526173,23.890243],[-14.525459,23.889315],[-14.524959,23.888816],[-14.52446,23.887959],[-14.524388,23.887103],[-14.525387,23.886032],[-14.524602,23.885033],[-14.524602,23.884462],[-14.523746,23.882677],[-14.522961,23.880465],[-14.522176,23.877681],[-14.52553,23.878466],[-14.528385,23.878038],[-14.527814,23.876753],[-14.529099,23.874469],[-14.529384,23.87347],[-14.530526,23.873113],[-14.531454,23.872471],[-14.532953,23.872185],[-14.532953,23.873327],[-14.533667,23.873541],[-14.535023,23.873042],[-14.538734,23.874398],[-14.540233,23.873684],[-14.542303,23.873256],[-14.546657,23.872685],[-14.546943,23.873898],[-14.557149,23.880536],[-14.559433,23.882606],[-14.56186,23.883605],[-14.562931,23.884462],[-14.563073,23.885461],[-14.563716,23.885675],[-14.563858,23.886674],[-14.563216,23.887531],[-14.564072,23.890885],[-14.564643,23.894097],[-14.564858,23.895882],[-14.565214,23.896738],[-14.564144,23.89838],[-14.562788,23.898094],[-14.561717,23.899522],[-14.561432,23.900521],[-14.560575,23.900664],[-14.559076,23.901806],[-14.556864,23.903519]]],"type":"Polygon"}
 }

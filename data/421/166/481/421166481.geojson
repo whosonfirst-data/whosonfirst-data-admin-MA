@@ -4,21 +4,43 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001173,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.67575,32.10488,-6.67575,32.10488",
-    "geom:latitude":32.10488,
-    "geom:longitude":-6.67575,
+    "geom:bbox":"-6.730446,32.089622,-6.664853,32.117845",
+    "geom:latitude":32.10482,
+    "geom:longitude":-6.69374,
     "iso:country":"MA",
-    "lbl:bbox":"-6.69575,32.08488,-6.65575,32.12488",
+    "lbl:latitude":32.105092,
+    "lbl:longitude":-6.69374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u062a \u0639\u062a\u0627\u0628"
+    ],
+    "name:ary_x_preferred":[
+        "\u0627\u064a\u062a \u0639\u062a\u0627\u0628"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u062a \u0639\u062a\u0627\u0628"
+    ],
+    "name:cat_x_preferred":[
+        "Ait Attab"
+    ],
+    "name:deu_x_preferred":[
+        "A\u00eft Attab"
+    ],
     "name:eng_x_preferred":[
         "Ait Attab"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00eft A\u00e2tab"
+    ],
+    "name:swe_x_preferred":[
+        "A\u00eft Attab"
     ],
     "name:und_x_variant":[
         "Ayt Tab"
@@ -41,12 +63,18 @@
     "qs:qs_id":266882,
     "qs:woe_adm0":23424893,
     "qs:woe_id":1530149,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":32.105092,
+    "reversegeo:longitude":-6.69374,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":224,
     "wof:belongsto":[
         102191573,
         85632693,
-        85673919,
+        1796661357,
         1108784827
     ],
     "wof:breaches":[],
@@ -58,18 +86,21 @@
     },
     "wof:country":"MA",
     "wof:created":1459008691,
-    "wof:geomhash":"3b8a86e94633776fdae04c2aedc2e991",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"fc21ca8494d7afb628e0fd85f9cc33ef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":1108784827,
             "locality_id":421166481,
-            "region_id":85673919
+            "region_id":1796661357
         }
     ],
     "wof:id":421166481,
-    "wof:lastmodified":1566601967,
+    "wof:lastmodified":1669161800,
     "wof:name":"Ait Attab",
     "wof:parent_id":1108784827,
     "wof:placetype":"locality",
@@ -79,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.67575,
-    32.10488,
-    -6.67575,
-    32.10488
+    -6.730446,
+    32.089622,
+    -6.664853,
+    32.117845
 ],
-  "geometry": {"coordinates":[-6.67575,32.10488],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.706012,32.113794],[-6.68197,32.115362],[-6.670341,32.117584],[-6.664853,32.117845],[-6.665115,32.11301],[-6.666291,32.11288],[-6.667597,32.114709],[-6.66812,32.113402],[-6.67008,32.113272],[-6.669688,32.110136],[-6.669035,32.110136],[-6.668904,32.108307],[-6.666813,32.105824],[-6.668512,32.102296],[-6.668381,32.099291],[-6.66616,32.098899],[-6.665376,32.093672],[-6.668773,32.092496],[-6.669818,32.090536],[-6.67413,32.093542],[-6.673869,32.090667],[-6.675437,32.089622],[-6.677136,32.089622],[-6.680925,32.093411],[-6.687458,32.09315],[-6.690332,32.096416],[-6.694644,32.095371],[-6.705751,32.09524],[-6.712545,32.095502],[-6.716465,32.096286],[-6.718294,32.100336],[-6.724305,32.101904],[-6.72548,32.105432],[-6.730315,32.108045],[-6.730446,32.111965],[-6.726134,32.112488],[-6.722345,32.113794],[-6.719209,32.11288],[-6.71555,32.112749],[-6.712414,32.113664],[-6.709409,32.115101],[-6.706012,32.113794]]],"type":"Polygon"}
 }

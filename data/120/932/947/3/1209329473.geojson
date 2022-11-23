@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661381,
+        1108784777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"047ce85f1764baee64d8e9b8bfe5090b",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209329473
+            "county_id":1108784777,
+            "locality_id":1209329473,
+            "region_id":1796661381
         }
     ],
     "wof:id":1209329473,
-    "wof:lastmodified":1566601112,
+    "wof:lastmodified":1669161231,
     "wof:name":"Aailiyine",
-    "wof:parent_id":85632693,
+    "wof:parent_id":1108784777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

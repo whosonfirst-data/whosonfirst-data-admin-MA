@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661379,
+        890445395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"2c01545ce890ba7632a554a1316ed3ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209014727
+            "county_id":890445395,
+            "locality_id":1209014727,
+            "region_id":1796661379
         }
     ],
     "wof:id":1209014727,
-    "wof:lastmodified":1566600938,
+    "wof:lastmodified":1669160945,
     "wof:name":"Ait Garri",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890445395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],

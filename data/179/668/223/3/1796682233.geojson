@@ -1,0 +1,75 @@
+{
+  "id": 1796682233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53405,33.23236,-8.53405,33.23236",
+    "geom:latitude":33.23236,
+    "geom:longitude":-8.53405,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Dahhak",
+    "gn:country_code":"MA",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11471700,
+    "gn:latitude":33.23236,
+    "gn:longitude":-8.53405,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Oulad Dahhak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Casablanca",
+    "iso:country":"MA",
+    "lbl:bbox":"-8.55405,33.21236,-8.51405,33.25236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        421190041,
+        890445399,
+        1796661359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11471700
+    },
+    "wof:country":"MA",
+    "wof:geomhash":"34ee592c1a43556ee9d66aad88127720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890445399,
+            "locality_id":421190041,
+            "neighbourhood_id":1796682233,
+            "region_id":1796661359
+        }
+    ],
+    "wof:id":1796682233,
+    "wof:lastmodified":1669157457,
+    "wof:name":"Oulad Dahhak",
+    "wof:parent_id":421190041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ma",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1292927615
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53405,
+    33.23236,
+    -8.53405,
+    33.23236
+],
+  "geometry": {"coordinates":[-8.53405,33.23236],"type":"Point"}
+}

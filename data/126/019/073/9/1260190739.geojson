@@ -31,9 +31,6 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191573,
-        85632693,
-        85673923,
         1108784771
     ],
     "wof:breaches":[],
@@ -44,15 +41,15 @@
     "wof:geomhash":"7cc51ff4d0847a0d406a916b2c3076da",
     "wof:hierarchy":[
         {
-            "continent_id":102191573,
-            "country_id":85632693,
+            "continent_id":-1,
+            "country_id":-1,
             "county_id":1108784771,
             "locality_id":1260190739,
-            "region_id":85673923
+            "region_id":-1
         }
     ],
     "wof:id":1260190739,
-    "wof:lastmodified":1566601512,
+    "wof:lastmodified":1669155767,
     "wof:name":"Douar El Kalaa",
     "wof:parent_id":1108784771,
     "wof:placetype":"locality",

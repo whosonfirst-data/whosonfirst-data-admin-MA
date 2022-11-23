@@ -41,7 +41,8 @@
         102191573,
         85632693,
         85673887,
-        1108784805
+        1108784805,
+        1796661365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,10 +57,17 @@
             "county_id":1108784805,
             "locality_id":1193155473,
             "region_id":85673887
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784805,
+            "locality_id":1193155473,
+            "region_id":1796661365
         }
     ],
     "wof:id":1193155473,
-    "wof:lastmodified":1566601319,
+    "wof:lastmodified":1669163299,
     "wof:name":"Douar Lemnabha",
     "wof:parent_id":1108784805,
     "wof:placetype":"locality",

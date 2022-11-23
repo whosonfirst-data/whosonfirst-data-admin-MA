@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632693
+        102191573,
+        85632693,
+        1796661373,
+        890440847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"5a05d695205d74eff87a9d12c82a88f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632693,
-            "locality_id":1209525659
+            "county_id":890440847,
+            "locality_id":1209525659,
+            "region_id":1796661373
         }
     ],
     "wof:id":1209525659,
-    "wof:lastmodified":1566600983,
+    "wof:lastmodified":1669159181,
     "wof:name":"Tal'a Mennzou",
-    "wof:parent_id":85632693,
+    "wof:parent_id":890440847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
