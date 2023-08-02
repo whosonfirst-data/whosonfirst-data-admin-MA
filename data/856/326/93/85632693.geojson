@@ -55,6 +55,9 @@
     "name:ang_x_preferred":[
         "Morocco"
     ],
+    "name:anp_x_preferred":[
+        "\u092e\u094b\u0930\u094b\u0915\u094d\u0915\u094b"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u063a\u0631\u0628"
     ],
@@ -169,7 +172,8 @@
     ],
     "name:ceb_x_variant":[
         "Morocco",
-        "Kamarrokuhan"
+        "Kamarrokuhan",
+        "Kamarokuhan"
     ],
     "name:ces_x_preferred":[
         "Maroko"
@@ -343,6 +347,9 @@
     "name:gor_x_preferred":[
         "Maroko"
     ],
+    "name:gpe_x_preferred":[
+        "Morocco"
+    ],
     "name:grn_x_preferred":[
         "Marru\u00e9ko"
     ],
@@ -351,6 +358,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab0\u0acb\u0a95\u0acd\u0a95\u0acb"
+    ],
+    "name:gur_x_preferred":[
+        "Morocco"
     ],
     "name:hak_x_preferred":[
         "Morocco"
@@ -378,6 +388,9 @@
     ],
     "name:hil_x_preferred":[
         "Kamarrokuhan"
+    ],
+    "name:hil_x_variant":[
+        "Kamarokuhan"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0930\u0915\u094d\u0915\u094b"
@@ -491,6 +504,9 @@
     "name:kir_x_preferred":[
         "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
     ],
+    "name:kom_x_preferred":[
+        "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
+    ],
     "name:kon_x_preferred":[
         "Maroko"
     ],
@@ -499,6 +515,9 @@
     ],
     "name:krj_x_preferred":[
         "Kamarrokuhan"
+    ],
+    "name:krj_x_variant":[
+        "Kamarokuhan"
     ],
     "name:kur_x_preferred":[
         "Maroko"
@@ -547,6 +566,9 @@
     ],
     "name:lld_x_preferred":[
         "Marocco"
+    ],
+    "name:lld_x_variant":[
+        "Maroch"
     ],
     "name:lmo_x_preferred":[
         "Maroch"
@@ -696,7 +718,8 @@
         "Morocco"
     ],
     "name:pam_x_variant":[
-        "Kamarrokuan"
+        "Kamarrokuan",
+        "Kamarokuan"
     ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a4b\u0a30\u0a3e\u0a15\u0a4b"
@@ -889,7 +912,8 @@
     ],
     "name:tgl_x_variant":[
         "Morocco",
-        "Kamarrokuhan"
+        "Kamarrokuhan",
+        "Marueko"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e42\u0e21\u0e23\u0e47\u0e2d\u0e01\u0e42\u0e01"
@@ -899,6 +923,9 @@
     ],
     "name:tir_x_preferred":[
         "\u121e\u122e\u12ae"
+    ],
+    "name:tok_x_preferred":[
+        "ma Malipe"
     ],
     "name:ton_x_preferred":[
         "Molako"
@@ -914,6 +941,9 @@
     ],
     "name:tuk_x_preferred":[
         "Marokko"
+    ],
+    "name:tum_x_preferred":[
+        "Morocco"
     ],
     "name:tur_x_preferred":[
         "Fas"
@@ -972,7 +1002,8 @@
         "Morocco"
     ],
     "name:war_x_variant":[
-        "Kamarrokuhan"
+        "Kamarrokuhan",
+        "Kamarokuhan"
     ],
     "name:wln_x_preferred":[
         "Marok"
@@ -1250,7 +1281,7 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1669163209,
+    "wof:lastmodified":1690938901,
     "wof:name":"Morocco",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
