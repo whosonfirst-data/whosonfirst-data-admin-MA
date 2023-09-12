@@ -7,10 +7,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2022-03-05",
     "geom:area":1.612336,
+    "geom:area_square_m":16301280911.654976,
     "geom:bbox":"-6.249209,34.508151,-3.791858,35.926519",
     "geom:latitude":35.147763,
     "geom:longitude":-5.177171,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Tanger-Tetouan-Al Hoceima Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":35.112054,
     "lbl:longitude":-5.399798,
     "mps:latitude":35.112054,
@@ -102,10 +109,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"MA.TC\t",
         "wd:id":"Q19951300"
     },
     "wof:country":"MA",
-    "wof:geomhash":"b6e27702a2f259ef2cde7b8ed61e95b3",
+    "wof:geomhash":"3e650f1c4ea653e583b7f32ef94d0eb1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +122,7 @@
         }
     ],
     "wof:id":1796661381,
-    "wof:lastmodified":1690939116,
+    "wof:lastmodified":1694493264,
     "wof:name":"Tanger-Tetouan-Al Hoceima",
     "wof:parent_id":85632693,
     "wof:placetype":"region",

@@ -7,10 +7,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2022-03-05",
     "geom:area":1.944456,
+    "geom:area_square_m":20160104196.321518,
     "geom:bbox":"-9.054533,32.293939,-6.782759,33.834866",
     "geom:latitude":33.018591,
     "geom:longitude":-7.782357,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Casablanca-Settat Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":33.109524,
     "lbl:longitude":-7.516223,
     "mps:latitude":33.109524,
@@ -92,16 +99,30 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2014-09-01",
+    "statoids:areakm":20166,
+    "statoids:areami":7786,
+    "statoids:capital":"Casablanca",
+    "statoids:country":"MA",
+    "statoids:date":"2014-09-01",
+    "statoids:hasc":"MA.CS",
+    "statoids:iso":"06",
+    "statoids:name":"Casablanca-Settat",
+    "statoids:population":6861739,
+    "statoids:timezone":"+0~",
+    "statoids:type":"region",
     "wof:belongsto":[
         102191573,
         85632693
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"MA.CS",
         "wd:id":"Q19843788"
     },
     "wof:country":"MA",
-    "wof:geomhash":"1703ca34344ef60fd6c055d3309e0fc0",
+    "wof:geomhash":"942aa87164e5080f95ad7311fc50ac6e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,10 +131,12 @@
         }
     ],
     "wof:id":1796661359,
-    "wof:lastmodified":1690939115,
+    "wof:lastmodified":1694493264,
     "wof:name":"Casablanca-Settat",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
+    "wof:population":6861739,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[

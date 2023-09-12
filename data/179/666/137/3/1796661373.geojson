@@ -7,10 +7,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2022-03-05",
     "geom:area":3.708519,
+    "geom:area_square_m":39004212218.885086,
     "geom:bbox":"-9.847524,30.829359,-7.027602,32.834043",
     "geom:latitude":31.723164,
     "geom:longitude":-8.457831,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Marrakesh-Safi Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":31.612743,
     "lbl:longitude":-8.484438,
     "mps:latitude":31.612743,
@@ -101,16 +108,30 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2014-09-01",
+    "statoids:areakm":38445,
+    "statoids:areami":14844,
+    "statoids:capital":"Marrakech",
+    "statoids:country":"MA",
+    "statoids:date":"2014-09-01",
+    "statoids:hasc":"MA.MS",
+    "statoids:iso":"07",
+    "statoids:name":"Marrakech-Safi",
+    "statoids:population":4520569,
+    "statoids:timezone":"+0~",
+    "statoids:type":"region",
     "wof:belongsto":[
         102191573,
         85632693
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"MA.MS",
         "wd:id":"Q19951125"
     },
     "wof:country":"MA",
-    "wof:geomhash":"6e1e1e3c3da9d594df54069ad7da41a8",
+    "wof:geomhash":"c5b8fa743bbdb9dd87c735af9501444f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,10 +140,12 @@
         }
     ],
     "wof:id":1796661373,
-    "wof:lastmodified":1690939117,
+    "wof:lastmodified":1694493264,
     "wof:name":"Marrakesh-Safi",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
+    "wof:population":4520569,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[

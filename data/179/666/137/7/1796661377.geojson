@@ -7,10 +7,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2022-03-05",
     "geom:area":1.704299,
+    "geom:area_square_m":17455003404.465809,
     "geom:bbox":"-7.117014,33.187949,-5.304844,35.010163",
     "geom:latitude":34.074072,
     "geom:longitude":-6.206887,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Rabat-Sal\u00e9-K\u00e9nitra Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":33.925674,
     "lbl:longitude":-6.296147,
     "mps:latitude":33.925674,
@@ -89,16 +96,30 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2014-09-01",
+    "statoids:areakm":18385,
+    "statoids:areami":7098,
+    "statoids:capital":"Rabat",
+    "statoids:country":"MA",
+    "statoids:date":"2014-09-01",
+    "statoids:hasc":"MA.RK",
+    "statoids:iso":"04",
+    "statoids:name":"Rabat-Sal\u00e9-K\u00e9nitra",
+    "statoids:population":4580866,
+    "statoids:timezone":"+0~",
+    "statoids:type":"region",
     "wof:belongsto":[
         102191573,
         85632693
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"MA.RK",
         "wd:id":"Q19951239"
     },
     "wof:country":"MA",
-    "wof:geomhash":"dd8100373f9faff314904c9b6cdc2a39",
+    "wof:geomhash":"b15cda19f2701221d5bba1f7eb667761",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,10 +128,12 @@
         }
     ],
     "wof:id":1796661377,
-    "wof:lastmodified":1690939117,
+    "wof:lastmodified":1694493264,
     "wof:name":"Rabat-Sal\u00e9-K\u00e9nitra",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
+    "wof:population":4580866,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[
