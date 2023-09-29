@@ -7,10 +7,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2022-03-05",
     "geom:area":2.630031,
+    "geom:area_square_m":27432666857.999485,
     "geom:bbox":"-7.284434,31.372013,-5.250349,33.475425",
     "geom:latitude":32.48073,
     "geom:longitude":-6.298648,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "B\u00e9ni Mellal-Kh\u00e9nifra Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":32.557803,
     "lbl:longitude":-6.318418,
     "mps:latitude":32.557803,
@@ -101,16 +108,32 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2014-09-01",
+    "statoids:areakm":33208,
+    "statoids:areami":12822,
+    "statoids:capital":"B\u00e9ni Mellal",
+    "statoids:country":"MA",
+    "statoids:date":"2014-09-01",
+    "statoids:hasc":"MA.BK",
+    "statoids:iso":"05",
+    "statoids:name":"B\u00e9ni Mellal-Kh\u00e9nifra",
+    "statoids:population":2520776,
+    "statoids:timezone":"+0~",
+    "statoids:type":"region",
     "wof:belongsto":[
         102191573,
         85632693
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"MA.BK",
+        "iso:code":"MA-05",
         "wd:id":"Q19953016"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MA",
-    "wof:geomhash":"ff9aa74eee8b6776d07434467e15dbd5",
+    "wof:geomhash":"80a5202821680f6649d7ce5eb7916e69",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,10 +142,12 @@
         }
     ],
     "wof:id":1796661357,
-    "wof:lastmodified":1690939115,
+    "wof:lastmodified":1695885136,
     "wof:name":"B\u00e9ni Mellal-Kh\u00e9nifra",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
+    "wof:population":2520776,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[

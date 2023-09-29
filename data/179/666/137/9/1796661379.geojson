@@ -7,10 +7,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2022-03-05",
     "geom:area":5.050346,
+    "geom:area_square_m":54112685027.212311,
     "geom:bbox":"-10.019958,28.3502,-6.34391,31.17073",
     "geom:latitude":29.939387,
     "geom:longitude":-8.341756,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Souss-Massa Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":29.944537,
     "lbl:longitude":-8.467293,
     "mps:latitude":29.944537,
@@ -95,16 +102,32 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2014-09-01",
+    "statoids:areakm":51642,
+    "statoids:areami":19939,
+    "statoids:capital":"Agadir-Ida-Ou-Tanane",
+    "statoids:country":"MA",
+    "statoids:date":"2014-09-01",
+    "statoids:hasc":"MA.SS",
+    "statoids:iso":"09",
+    "statoids:name":"Souss-Massa",
+    "statoids:population":2676847,
+    "statoids:timezone":"+0",
+    "statoids:type":"region",
     "wof:belongsto":[
         102191573,
         85632693
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"MA.SS",
+        "iso:code":"MA-09",
         "wd:id":"Q20652586"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MA",
-    "wof:geomhash":"4ebce0e926367659becee84faf4a55bc",
+    "wof:geomhash":"17c36835c78162c3361dc0cc38706a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,10 +136,12 @@
         }
     ],
     "wof:id":1796661379,
-    "wof:lastmodified":1690939117,
+    "wof:lastmodified":1695885136,
     "wof:name":"Souss-Massa",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
+    "wof:population":2676847,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[

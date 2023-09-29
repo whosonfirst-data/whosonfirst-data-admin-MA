@@ -7,10 +7,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2022-03-05",
     "geom:area":4.057016,
+    "geom:area_square_m":44143364198.379845,
     "geom:bbox":"-11.782298,27.147639,-8.682385,29.626566",
     "geom:latitude":28.359108,
     "geom:longitude":-9.972438,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "Guelmim-Oued Noun Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":28.472321,
     "lbl:longitude":-9.866709,
     "mps:latitude":28.472321,
@@ -104,16 +111,32 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2014-09-01",
+    "statoids:areakm":64473,
+    "statoids:areami":24893,
+    "statoids:capital":"Guelmim",
+    "statoids:country":"MA",
+    "statoids:date":"2014-09-01",
+    "statoids:hasc":"MA.GN",
+    "statoids:iso":"10",
+    "statoids:name":"Guelmim-Oued Noun",
+    "statoids:population":433757,
+    "statoids:timezone":"+0~",
+    "statoids:type":"region",
     "wof:belongsto":[
         102191573,
         85632693
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"MA.GN",
+        "iso:code":"MA-10",
         "wd:id":"Q19951051"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MA",
-    "wof:geomhash":"db1d25fe12a230948cf10a4567f187d4",
+    "wof:geomhash":"a59df4be3e8bea59dd2ffd886ccbd574",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,10 +145,12 @@
         }
     ],
     "wof:id":1796661367,
-    "wof:lastmodified":1690939115,
+    "wof:lastmodified":1695885136,
     "wof:name":"Guelmim-Oued Noun",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
+    "wof:population":433757,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":55.467583,
-    "geom:area_square_m":592469513863.421387,
+    "geom:area_square_m":593659766927.613892,
     "geom:bbox":"-17.021574,21.417183,-0.996976,35.922717",
     "geom:latitude":29.843508,
     "geom:longitude":-8.389315,
@@ -14,6 +14,9 @@
     "iso:country":"MA",
     "itu:country_code":[
         "212"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "lbl:latitude":31.657061,
     "lbl:longitude":-7.182618,
@@ -1203,7 +1206,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"212",
     "statoids:ds":"MA",
     "statoids:fifa":"MAR",
@@ -1241,6 +1245,7 @@
         "hasc:id":"MA",
         "icao:code":"CN",
         "ioc:id":"MAR",
+        "iso:code":"MA",
         "itu:id":"MRC",
         "loc:id":"n79069715",
         "m49:code":"504",
@@ -1255,6 +1260,7 @@
         "wk:page":"Morocco",
         "wmo:id":"MC"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MA",
     "wof:country_alpha3":"MAR",
     "wof:geom_alt":[
@@ -1263,7 +1269,7 @@
         "naturalearth",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"fd23b6687346838cdd2bff761a8ba0a7",
+    "wof:geomhash":"a6809b2a07043809569aebd5bca6d402",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1281,12 +1287,12 @@
         "fra",
         "tzm"
     ],
-    "wof:lastmodified":1690938901,
+    "wof:lastmodified":1695881332,
     "wof:name":"Morocco",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":33008150,
-    "wof:population_rank":15,
+    "wof:population":36471769,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:shortcode":"MA",
     "wof:superseded_by":[],

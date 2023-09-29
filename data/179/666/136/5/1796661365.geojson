@@ -7,10 +7,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2022-03-05",
     "geom:area":3.796911,
+    "geom:area_square_m":39032382483.438019,
     "geom:bbox":"-5.885062,32.613152,-2.926121,34.911447",
     "geom:latitude":33.756894,
     "geom:longitude":-4.488364,
     "iso:country":"MA",
+    "label:eng_x_preferred_longname":[
+        "F\u00e8s-Mekn\u00e8s Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":33.912343,
     "lbl:longitude":-4.757109,
     "mps:latitude":33.912343,
@@ -95,16 +102,32 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2014-09-01",
+    "statoids:areakm":47705,
+    "statoids:areami":18419,
+    "statoids:capital":"F\u00e8s",
+    "statoids:country":"MA",
+    "statoids:date":"2014-09-01",
+    "statoids:hasc":"MA.FK",
+    "statoids:iso":"03",
+    "statoids:name":"F\u00e8s-Mekn\u00e8s",
+    "statoids:population":4236892,
+    "statoids:timezone":"+0~",
+    "statoids:type":"region",
     "wof:belongsto":[
         102191573,
         85632693
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"MA.FK",
+        "iso:code":"MA-03",
         "wd:id":"Q19951027"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MA",
-    "wof:geomhash":"41ba25cd537b3befe1b397e2de0b0798",
+    "wof:geomhash":"3931242f41832975f7ccbbf2c08e370d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,10 +136,12 @@
         }
     ],
     "wof:id":1796661365,
-    "wof:lastmodified":1690939116,
+    "wof:lastmodified":1695885136,
     "wof:name":"F\u00e8s-Mekn\u00e8s",
     "wof:parent_id":85632693,
     "wof:placetype":"region",
+    "wof:population":4236892,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
     "wof:supersedes":[
