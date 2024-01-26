@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":2547734
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8472475
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"2b7131f462face4071b8e90b419c16d0",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1243472847,
-    "wof:lastmodified":1669159922,
+    "wof:lastmodified":1706240348,
     "wof:name":"Ihadjiyene",
     "wof:parent_id":1108784779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276243525
+    ],
     "wof:tags":[]
 },
   "bbox": [

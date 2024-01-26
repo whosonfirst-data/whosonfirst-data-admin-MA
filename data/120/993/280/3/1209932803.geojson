@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":2539353
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8543543
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"30f9b97263dac00dd0069da4fd147be6",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1209932803,
-    "wof:lastmodified":1669158074,
+    "wof:lastmodified":1706240347,
     "wof:name":"Douar Oulad Ghannam",
     "wof:parent_id":890418103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226057637
+    ],
     "wof:tags":[]
 },
   "bbox": [
