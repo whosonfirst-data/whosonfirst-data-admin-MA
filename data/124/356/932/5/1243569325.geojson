@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Douar Oulad Afdil",
+        "Oulad Afdil",
+        "Douar Lbazla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -39,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8543246
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2540388
+        ]
     },
     "wof:country":"MA",
     "wof:geomhash":"4ab6d15ba882767c03bd79c92fad0bd2",
@@ -52,13 +62,15 @@
         }
     ],
     "wof:id":1243569325,
-    "wof:lastmodified":1669158280,
+    "wof:lastmodified":1706240348,
     "wof:name":"Douar Lbazla",
     "wof:parent_id":890418103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293404935
+    ],
     "wof:tags":[]
 },
   "bbox": [

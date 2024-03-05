@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Douar Moha Ben Bouazza",
+        "Bou Azza",
+        "Moha Ben Bouazza",
+        "Douar Ab \u2019Bouch"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -39,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10970974
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2542075
+        ]
     },
     "wof:country":"MA",
     "wof:geomhash":"f6448889d8fe1519d636d4a3149b21f2",
@@ -52,13 +63,15 @@
         }
     ],
     "wof:id":1209730487,
-    "wof:lastmodified":1669159122,
+    "wof:lastmodified":1706240347,
     "wof:name":"Douar Ab 'Bouch",
     "wof:parent_id":1108784829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360271253
+    ],
     "wof:tags":[]
 },
   "bbox": [

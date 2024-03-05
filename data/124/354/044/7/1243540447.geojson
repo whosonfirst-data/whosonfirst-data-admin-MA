@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":2559156
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10971004
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"ecbc308197daaba8e047303ff17d83dd",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1243540447,
-    "wof:lastmodified":1669159566,
+    "wof:lastmodified":1706240348,
     "wof:name":"Ayt Kbouya 'Ali",
     "wof:parent_id":1108784829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276238687
+    ],
     "wof:tags":[]
 },
   "bbox": [

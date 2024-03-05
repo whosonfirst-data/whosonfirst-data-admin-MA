@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":2553444
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10971086
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"b3490f37ebcd17f19f29bdd790b4a7b2",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1293609395,
-    "wof:lastmodified":1669159582,
+    "wof:lastmodified":1706240349,
     "wof:name":"Douar Lachgoura",
     "wof:parent_id":1108784829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360194931
+    ],
     "wof:tags":[]
 },
   "bbox": [

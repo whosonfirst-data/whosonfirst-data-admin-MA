@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Id Bouaban",
+        "Id Bou Abane",
+        "Id Bou Aabane",
+        "Id Bou Aabanet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -39,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10374714
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2547304
+        ]
     },
     "wof:country":"MA",
     "wof:geomhash":"297db53862bcba825a7a99e5b715480b",
@@ -52,13 +63,15 @@
         }
     ],
     "wof:id":1259702233,
-    "wof:lastmodified":1669160681,
+    "wof:lastmodified":1706240348,
     "wof:name":"Id Bou Aabane",
     "wof:parent_id":890428801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327152741
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,6 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Cherif",
+        "Douar Chrif Moulay Ali",
+        "Chrifia",
+        "Douar Cherif",
+        "Douar Cherif Moulay Ali",
+        "Douar Sidi \u2019Ayyad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -39,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10970949
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2551948
+        ]
     },
     "wof:country":"MA",
     "wof:geomhash":"6707a872f06fcab3c20ca892d56cbb49",
@@ -52,13 +65,15 @@
         }
     ],
     "wof:id":1327249915,
-    "wof:lastmodified":1669159588,
+    "wof:lastmodified":1706240349,
     "wof:name":"Douar Sidi 'Ayyad",
     "wof:parent_id":1108784829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343978275
+    ],
     "wof:tags":[]
 },
   "bbox": [

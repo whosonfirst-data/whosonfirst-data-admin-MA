@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":2544606
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10923908
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"9139fba1cdd71222374df737fe282a4f",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1259392875,
-    "wof:lastmodified":1669161745,
+    "wof:lastmodified":1706240348,
     "wof:name":"Douar Kalaa",
     "wof:parent_id":1108784797,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343670933
+    ],
     "wof:tags":[]
 },
   "bbox": [

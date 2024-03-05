@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":10868864
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10869001
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"09d5f140f6a4c960fdc9d48016704ee2",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1276894429,
-    "wof:lastmodified":1669159340,
+    "wof:lastmodified":1706240349,
     "wof:name":"Douar Lamaouka",
     "wof:parent_id":890445397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344043227
+    ],
     "wof:tags":[]
 },
   "bbox": [

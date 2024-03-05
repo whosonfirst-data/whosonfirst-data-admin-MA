@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2546600
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10963393
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"b4536131f0b701f9707585f7675a7d21",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1243447593,
-    "wof:lastmodified":1669156799,
+    "wof:lastmodified":1706240348,
     "wof:name":"Ihadjama",
     "wof:parent_id":1108784827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310420711
+    ],
     "wof:tags":[]
 },
   "bbox": [

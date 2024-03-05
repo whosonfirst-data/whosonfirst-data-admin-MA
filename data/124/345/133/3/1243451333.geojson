@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":10936530
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10939014
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"55ba2068abd4a204e9b1471d912e167a",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1243451333,
-    "wof:lastmodified":1669157110,
+    "wof:lastmodified":1706240348,
     "wof:name":"Douar Oulad Frej",
     "wof:parent_id":1108784833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260001369
+    ],
     "wof:tags":[]
 },
   "bbox": [

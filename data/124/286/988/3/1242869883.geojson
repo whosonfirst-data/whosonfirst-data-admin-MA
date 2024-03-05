@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":2559777
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10971005
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"c203a2ca59db3fbdfb46b1e0bc0804e8",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1242869883,
-    "wof:lastmodified":1669162055,
+    "wof:lastmodified":1706240348,
     "wof:name":"Ayt 'Attou ou L'Arbi",
     "wof:parent_id":1108784829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326548507
+    ],
     "wof:tags":[]
 },
   "bbox": [

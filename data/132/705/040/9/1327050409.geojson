@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":2553167
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10970993
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"43b7cd20da1822369fc3e703d417de5c",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1327050409,
-    "wof:lastmodified":1669159581,
+    "wof:lastmodified":1706240349,
     "wof:name":"Chrag",
     "wof:parent_id":1108784829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343373837
+    ],
     "wof:tags":[]
 },
   "bbox": [

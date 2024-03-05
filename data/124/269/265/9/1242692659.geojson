@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":2549825
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10925290
+        ]
+    },
     "wof:country":"MA",
     "wof:geomhash":"77d0f5c9e77fabc9a74fe409ab6ed22c",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1242692659,
-    "wof:lastmodified":1669161747,
+    "wof:lastmodified":1706240347,
     "wof:name":"Douar Lkalaa",
     "wof:parent_id":890429091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309924257
+    ],
     "wof:tags":[]
 },
   "bbox": [
